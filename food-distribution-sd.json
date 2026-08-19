@@ -1,0 +1,653 @@
+{
+  "_source": "Feeding San Diego find-food map, retrieved 2026-08-16. Facts only (name, address, hours, phone, eligibility). Descriptions rewritten. Verify against feedingsandiego.org before publishing.",
+
+  "_schema_note": "These are SERVICES with operating hours, not dated events. Each entry produces ONE document. Do NOT run recurrence expansion on this file: schedules like '2nd and 4th Saturday' cannot be represented by the app's recurrence enum (none|weekly|monthly|annually), and expanding weekly sites would generate 600+ documents. The seeder needs a services branch that writes scheduleText into the description and skips date expansion.",
+
+  "_critical": [
+    "Eligibility must travel with every entry. Appointment-only, call-first, zip restrictions, seniors-only, 21+, and proof-of-enrollment conditions are the difference between someone getting food and getting turned away.",
+    "Every entry with a phone number should surface it prominently. These schedules change with holidays and weather, per the source page. Be a router to the provider, not the source of truth.",
+    "Coordinates are not included. Geocode from the address field using your existing Mapbox token before seeding. Do not guess."
+  ],
+
+  "_excluded": [
+    "Summer Food Service Program: Linda Vista (Parks After Dark), 7064 Levant St - program window was 7/9 to 8/1, already ended",
+    "Summer Food Service Program: City Heights (Parks After Dark), 4380 Landis St - same, already ended"
+  ],
+
+  "_needs_confirmation": [
+    "Entry 'goldfinch-street-distribution': the site name did not come through in the source copy. 4021 Goldfinch St, 92103, phone (619) 297-7373. This is the only site inside Hillcrest. Confirm the operator name before publishing."
+  ],
+
+  "sites": [
+    {
+      "slug": "goldfinch-street-distribution",
+      "name": "Goldfinch Street Distribution",
+      "nameConfirmed": false,
+      "type": "walk-up",
+      "address": "4021 Goldfinch Street, San Diego, CA 92103",
+      "neighborhood": "Hillcrest",
+      "phone": "(619) 297-7373",
+      "scheduleText": "Monday through Thursday, 11:00 AM to 1:30 PM",
+      "hours": [{ "days": "Mon-Thu", "open": "11:00", "close": "13:30" }],
+      "eligibility": null
+    },
+    {
+      "slug": "rock-church-point-loma",
+      "name": "Rock Church Point Loma",
+      "type": "drive-through",
+      "address": "2480 Truxton Rd, San Diego, CA 92106",
+      "neighborhood": "Point Loma",
+      "phone": "(619) 226-7625 ext 5",
+      "scheduleText": "First Thursday of the month at 10:00 AM, while supplies last",
+      "locationNote": "In the Vons parking lot",
+      "eligibility": null
+    },
+    {
+      "slug": "third-avenue-charitable",
+      "name": "Third Avenue Charitable Organization",
+      "type": "walk-up",
+      "address": "1420 Third Avenue, San Diego, CA 92101",
+      "neighborhood": "Downtown",
+      "phone": "(619) 235-9445",
+      "scheduleText": "Monday 3:45 PM hot meal, eat in or take away. Tuesday snacks 9 AM to 1 PM from the office. Wednesday 10 AM Starbucks breakfast sandwiches, snacks 9 AM to 1 PM. Thursday snacks 9 AM to 1 PM. Friday 8:45 AM hot breakfast, eat in or take away.",
+      "hours": [
+        { "days": "Mon", "open": "15:45", "close": "17:00" },
+        { "days": "Tue", "open": "09:00", "close": "13:00" },
+        { "days": "Wed", "open": "09:00", "close": "11:00" },
+        { "days": "Thu", "open": "09:00", "close": "13:00" },
+        { "days": "Fri", "open": "08:45", "close": "10:00" }
+      ],
+      "eligibility": null
+    },
+    {
+      "slug": "ocean-beach-produce-pantry",
+      "name": "Ocean Beach Produce Pantry",
+      "type": "walk-up",
+      "address": "4390 Valeta Street, San Diego, CA 92107",
+      "neighborhood": "Ocean Beach",
+      "phone": null,
+      "scheduleText": "First and third Friday of the month, 12:00 to 1:00 PM",
+      "eligibility": null
+    },
+    {
+      "slug": "ocean-beach-emergency-food",
+      "name": "Ocean Beach Emergency Food Inc.",
+      "type": "walk-up",
+      "address": "1984 Sunset Cliffs Boulevard, San Diego, CA 92107",
+      "neighborhood": "Ocean Beach",
+      "phone": null,
+      "scheduleText": "Mondays, 9:30 AM to 12:00 PM",
+      "hours": [{ "days": "Mon", "open": "09:30", "close": "12:00" }],
+      "eligibility": null
+    },
+    {
+      "slug": "masjidul-taqwa",
+      "name": "Masjidul Taqwa",
+      "type": "walk-up",
+      "address": "2575 Imperial Avenue, San Diego, CA 92102",
+      "neighborhood": "Sherman Heights",
+      "phone": "(619) 239-6738",
+      "scheduleText": "Second and fourth Saturday of the month, 10:00 AM to 12:00 PM",
+      "eligibility": null
+    },
+    {
+      "slug": "stepping-higher",
+      "name": "Stepping Higher",
+      "type": "walk-up",
+      "address": "138 28th St., San Diego, CA 92102",
+      "neighborhood": "Golden Hill",
+      "phone": null,
+      "scheduleText": "Tuesday through Thursday, 10:00 AM to 1:00 PM. Bring your own bags.",
+      "hours": [{ "days": "Tue-Thu", "open": "10:00", "close": "13:00" }],
+      "eligibility": null
+    },
+    {
+      "slug": "sd-black-panther-party",
+      "name": "San Diego Black Panther Party for Community Empowerment",
+      "type": "walk-up",
+      "address": "6 Hensley Street, San Diego, CA 92102",
+      "neighborhood": "Logan Heights",
+      "phone": "(619) 634-0586",
+      "scheduleText": "Thursdays, 12:00 to 1:15 PM",
+      "hours": [{ "days": "Thu", "open": "12:00", "close": "13:15" }],
+      "eligibility": null
+    },
+    {
+      "slug": "vfw-logan",
+      "name": "Veterans of Foreign Wars",
+      "type": "walk-up",
+      "address": "2100 Logan Ave, San Diego, CA 92113",
+      "neighborhood": "Logan Heights",
+      "phone": "(619) 239-5373",
+      "scheduleText": "Second and fourth Tuesday from 3:00 PM until supplies last. Dry goods and fresh produce.",
+      "eligibility": "Veterans and active military are prioritized starting at 2:00 PM"
+    },
+    {
+      "slug": "logan-heights-cdc",
+      "name": "Logan Heights Community Development Corporation",
+      "type": "drive-through, walk-up",
+      "address": "3040 Imperial Ave, San Diego, CA 92102",
+      "neighborhood": "Logan Heights",
+      "phone": "(619) 858-0563",
+      "scheduleText": "Third Friday of the month, 10:00 AM to 12:00 PM",
+      "eligibility": null
+    },
+    {
+      "slug": "starpal-memorial-park",
+      "name": "STAR/PAL Memorial Park",
+      "type": "walk-up",
+      "address": "501 S. 29th Street, San Diego, CA 92113",
+      "neighborhood": "Logan Heights",
+      "phone": "(619) 484-7557",
+      "scheduleText": "Third Thursday of the month, 2:00 to 4:00 PM or while supplies last",
+      "eligibility": null
+    },
+    {
+      "slug": "sherman-heights-community-center",
+      "name": "Sherman Heights Community Center",
+      "type": "walk-up",
+      "address": "2258 Island Ave, San Diego, CA 92102",
+      "neighborhood": "Sherman Heights",
+      "phone": "(619) 232-5181",
+      "scheduleText": "Second and fourth Wednesday of the month, 9:00 AM to 12:00 PM",
+      "eligibility": "Seniors only"
+    },
+    {
+      "slug": "31st-st-sda-church",
+      "name": "31st St. SDA Church",
+      "type": "drive-through, walk-up",
+      "address": "414 S. 31st St., San Diego, CA 92113",
+      "neighborhood": "Logan Heights",
+      "phone": null,
+      "scheduleText": "Second and fourth Wednesday of the month, 12:00 to 2:00 PM",
+      "eligibility": null
+    },
+    {
+      "slug": "city-heights-assembly-of-god",
+      "name": "City Heights Assembly of God",
+      "type": "walk-up",
+      "address": "3737 Wightman Street, San Diego, CA 92105",
+      "neighborhood": "City Heights",
+      "phone": "(619) 471-4809",
+      "scheduleText": "Monday through Friday, 1:00 to 3:00 PM. Hot meals available.",
+      "hours": [{ "days": "Mon-Fri", "open": "13:00", "close": "15:00" }],
+      "eligibility": "Families with children under 18, or seniors over 65"
+    },
+    {
+      "slug": "community-christian-service-agency",
+      "name": "Community Christian Service Agency",
+      "type": "walk-up",
+      "address": "4167 Rappahannock Ave, San Diego, CA 92117",
+      "neighborhood": "Clairemont",
+      "phone": null,
+      "scheduleText": "Monday through Friday, 9:30 AM to 4:00 PM",
+      "hours": [{ "days": "Mon-Fri", "open": "09:30", "close": "16:00" }],
+      "eligibility": null
+    },
+    {
+      "slug": "mesa-college",
+      "name": "Mesa College",
+      "type": "walk-up",
+      "address": "7250 Mesa College Drive, San Diego, CA 92111",
+      "neighborhood": "Kearny Mesa",
+      "phone": null,
+      "scheduleText": "Third Thursday of the month, 11:00 AM to 1:00 PM. Bring your own bags.",
+      "eligibility": null
+    },
+    {
+      "slug": "faith-tabernacle",
+      "name": "Faith Tabernacle",
+      "type": "walk-up, drive-through",
+      "address": "3666 Madison Avenue, San Diego, CA 92116",
+      "neighborhood": "Normal Heights",
+      "phone": "(619) 282-3044",
+      "scheduleText": "Mondays. Walk-ups 3:30 to 4:20 PM, drive-through 4:30 to 6:00 PM.",
+      "hours": [{ "days": "Mon", "open": "15:30", "close": "18:00" }],
+      "eligibility": null
+    },
+    {
+      "slug": "pacific-beach-united-methodist",
+      "name": "Pacific Beach United Methodist Church",
+      "type": "walk-up",
+      "address": "1561 Thomas Avenue, San Diego, CA 92109",
+      "neighborhood": "Pacific Beach",
+      "phone": "(858) 274-6573",
+      "scheduleText": "Every Wednesday at 4:00 PM. Early dinner service plus groceries.",
+      "hours": [{ "days": "Wed", "open": "16:00", "close": "16:15" }],
+      "eligibility": null
+    },
+    {
+      "slug": "church-of-the-nazarene",
+      "name": "Church of the Nazarene",
+      "type": "walk-up",
+      "address": "4101 University Avenue, San Diego, CA 92105",
+      "neighborhood": "City Heights",
+      "phone": "(619) 516-1000",
+      "scheduleText": "Tuesdays 1:30 to 3:30 PM and Saturdays 9:00 to 11:00 AM",
+      "hours": [
+        { "days": "Tue", "open": "13:30", "close": "15:30" },
+        { "days": "Sat", "open": "09:00", "close": "11:00" }
+      ],
+      "eligibility": null
+    },
+    {
+      "slug": "partnership-for-a-better-san-diego",
+      "name": "Partnership for a Better San Diego",
+      "type": "walk-up",
+      "address": "3737 Camino Del Rio South Suite 102, San Diego, CA 92108",
+      "neighborhood": "Mission Valley",
+      "phone": null,
+      "scheduleText": "Mondays 12:00 to 3:00 PM and Thursdays 8:00 to 11:00 AM",
+      "locationNote": "Look for the shipping container in the parking lot",
+      "hours": [
+        { "days": "Mon", "open": "12:00", "close": "15:00" },
+        { "days": "Thu", "open": "08:00", "close": "11:00" }
+      ],
+      "eligibility": null
+    },
+    {
+      "slug": "iglesia-casa-de-alabanza",
+      "name": "Iglesia Casa de Alabanza",
+      "type": "walk-up",
+      "address": "4250 El Cajon Blvd, San Diego, CA 92105",
+      "neighborhood": "City Heights",
+      "phone": null,
+      "scheduleText": "Mondays and Thursdays, 3:30 to 5:00 PM",
+      "hours": [
+        { "days": "Mon", "open": "15:30", "close": "17:00" },
+        { "days": "Thu", "open": "15:30", "close": "17:00" }
+      ],
+      "eligibility": null
+    },
+    {
+      "slug": "bridge-of-hope",
+      "name": "Bridge of Hope",
+      "type": "walk-up",
+      "address": "3406 Fairmount Avenue, San Diego, CA 92105",
+      "neighborhood": "City Heights",
+      "phone": null,
+      "scheduleText": "Fridays, 11:30 AM to 1:00 PM",
+      "hours": [{ "days": "Fri", "open": "11:30", "close": "13:00" }],
+      "eligibility": null
+    },
+    {
+      "slug": "mission-village-christian",
+      "name": "Mission Village Christian",
+      "type": "drive-through, walk-up",
+      "address": "2650 Melbourne Drive, San Diego, CA 92123",
+      "neighborhood": "Serra Mesa",
+      "phone": "(619) 278-2647",
+      "scheduleText": "Wednesdays, 10:00 AM to 1:00 PM",
+      "hours": [{ "days": "Wed", "open": "10:00", "close": "13:00" }],
+      "eligibility": "Residents of the 92123 zip code only"
+    },
+    {
+      "slug": "hamilton-elementary-pantry",
+      "name": "Hamilton Elementary School Pantry",
+      "type": "walk-up",
+      "address": "2807 Fairmount Ave, San Diego, CA 92105",
+      "neighborhood": "City Heights",
+      "phone": null,
+      "scheduleText": "First and third Wednesday of the month, 11:15 AM to 12:15 PM",
+      "seasonalNote": "Closed July 1 to August 18, 2026. Reopens August 19, 2026.",
+      "eligibility": null
+    },
+    {
+      "slug": "city-heights-mobile-pantry",
+      "name": "City Heights Mobile Pantry",
+      "type": "walk-up, drive-through",
+      "address": "4300 El Cajon Blvd, San Diego, CA 92105",
+      "neighborhood": "City Heights",
+      "phone": "(619) 280-9622",
+      "scheduleText": "Third Tuesday of the month from 3:00 PM, while supplies last",
+      "eligibility": null
+    },
+    {
+      "slug": "good-shepherd-community-projects",
+      "name": "Good Shepherd Community Projects, Inc",
+      "type": "walk-up",
+      "address": "390 S. 39th St, San Diego, CA 92113",
+      "neighborhood": "Southcrest",
+      "phone": "(619) 263-5556",
+      "scheduleText": "Second and fourth Saturday of the month, 11:00 AM to 1:00 PM",
+      "eligibility": "Must be 21 or older, or accompanied by an adult, to receive food"
+    },
+    {
+      "slug": "la-maestra",
+      "name": "La Maestra",
+      "type": "walk-up",
+      "address": "4060 Fairmount Ave, San Diego, CA 92105",
+      "neighborhood": "City Heights",
+      "phone": "(619) 280-4213",
+      "scheduleText": "Tuesday, Wednesday, and Friday, 9:00 AM to 2:00 PM",
+      "hours": [
+        { "days": "Tue-Wed", "open": "09:00", "close": "14:00" },
+        { "days": "Fri", "open": "09:00", "close": "14:00" }
+      ],
+      "eligibility": null
+    },
+    {
+      "slug": "st-marks-episcopal",
+      "name": "St. Marks Episcopal Church",
+      "type": "walk-up",
+      "address": "4227 Fairmount Avenue, San Diego, CA 92105",
+      "neighborhood": "City Heights",
+      "phone": "(619) 283-6242",
+      "scheduleText": "Wednesdays, 11:00 AM to 1:00 PM",
+      "hours": [{ "days": "Wed", "open": "11:00", "close": "13:00" }],
+      "eligibility": null
+    },
+    {
+      "slug": "city-of-hope",
+      "name": "City of Hope",
+      "type": "walk-up",
+      "address": "151 YMCA Way, San Diego, CA 92102",
+      "neighborhood": "Logan Heights",
+      "phone": "(619) 633-7977",
+      "scheduleText": "First Wednesday of the month, 10:00 AM to 3:00 PM",
+      "eligibility": null
+    },
+    {
+      "slug": "rock-church-city-heights",
+      "name": "Rock Church City Heights",
+      "type": "drive-through",
+      "address": "4100 Poplar Street, San Diego, CA 92105",
+      "neighborhood": "City Heights",
+      "phone": null,
+      "email": "Provisionsch@sdrock.com",
+      "scheduleText": "Third Thursday of the month, 11:00 AM to 1:00 PM. Drive-up only.",
+      "eligibility": null
+    },
+    {
+      "slug": "nha-head-start-pantry",
+      "name": "NHA Head Start School Pantry",
+      "type": "walk-up",
+      "address": "3770 Altadena Ave, San Diego, CA 92105",
+      "neighborhood": "City Heights",
+      "phone": null,
+      "scheduleText": "Third Wednesday of the month, 12:45 to 1:30 PM",
+      "seasonalNote": "Closed June 1 to August 31. Resumes September 16, 2026.",
+      "eligibility": null
+    },
+    {
+      "slug": "millennial-tech-middle-pantry",
+      "name": "Millennial Tech Middle School Pantry",
+      "type": "walk-up, drive-through",
+      "address": "1110 Carolina Ln, San Diego, CA 92102",
+      "neighborhood": "Chollas View",
+      "phone": "(619) 362-4650",
+      "scheduleText": "Second and fourth Thursday of the month, 2:45 to 3:30 PM",
+      "eligibility": null
+    },
+    {
+      "slug": "new-hope-sda",
+      "name": "New Hope SDA",
+      "type": "walk-up",
+      "address": "2420 52nd St., San Diego, CA 92105",
+      "neighborhood": "Oak Park",
+      "phone": "(808) 409-3165",
+      "scheduleText": "Second Thursday of the month, 8:00 to 11:00 AM",
+      "eligibility": null
+    },
+    {
+      "slug": "porter-elementary-pantry",
+      "name": "Porter Elementary School Pantry",
+      "type": "drive-through",
+      "address": "445 South 47th St, San Diego, CA 92113",
+      "neighborhood": "Emerald Hills",
+      "phone": "(619) 794-9558",
+      "scheduleText": "First and third Wednesday of the month at 7:30 AM, open until food runs out",
+      "eligibility": null
+    },
+    {
+      "slug": "lincoln-high-pantry",
+      "name": "Lincoln High School Pantry",
+      "type": "walk-up",
+      "address": "4777 Imperial Ave., San Diego, CA 92113",
+      "neighborhood": "Emerald Hills",
+      "phone": "(619) 266-6517",
+      "scheduleText": "Second and fourth Friday of the month, 2:50 to 4:30 PM",
+      "seasonalNote": "Closed July 25 and August 7, 2026",
+      "eligibility": null
+    },
+    {
+      "slug": "starpal-colina-del-sol",
+      "name": "STAR/PAL Colina del Sol Park",
+      "type": "walk-up",
+      "address": "4110 54th St, San Diego, CA 92105",
+      "neighborhood": "City Heights",
+      "phone": "(619) 484-7557",
+      "scheduleText": "Second Tuesday of the month, 9:00 to 11:00 AM or while supplies last",
+      "eligibility": null
+    },
+    {
+      "slug": "mann-middle-pantry",
+      "name": "Mann Middle School Pantry",
+      "type": "walk-up",
+      "address": "4345 54th St, San Diego, CA 92115",
+      "neighborhood": "City Heights",
+      "phone": null,
+      "scheduleText": "Second Thursday of the month, 2:26 to 3:30 PM",
+      "seasonalNote": "Closed June 1 to September 2",
+      "eligibility": null
+    },
+    {
+      "slug": "jewish-family-service",
+      "name": "Jewish Family Service",
+      "type": "drive-through",
+      "address": "8878 Balboa Avenue, San Diego, CA 92123",
+      "neighborhood": "Kearny Mesa",
+      "phone": "(858) 637-3210",
+      "scheduleText": "Monday through Thursday 10:00 AM to 5:00 PM, Friday 10:00 AM to 4:00 PM",
+      "hours": [
+        { "days": "Mon-Thu", "open": "10:00", "close": "17:00" },
+        { "days": "Fri", "open": "10:00", "close": "16:00" }
+      ],
+      "eligibility": "Call to make an appointment for the client choice shopping area"
+    },
+    {
+      "slug": "ucsd-re-link",
+      "name": "UCSD RE-LINK",
+      "type": "walk-up",
+      "address": "2325 Euclid Avenue, National City, CA 91950",
+      "neighborhood": "National City",
+      "phone": "(858) 412-7012",
+      "scheduleText": "Third Wednesday of the month, 12:00 to 2:00 PM",
+      "eligibility": "Call first"
+    },
+    {
+      "slug": "abundant-grace-christian-center",
+      "name": "Abundant Grace Christian Center",
+      "type": "walk-up",
+      "address": "5858 El Cajon Boulevard, San Diego, CA 92115",
+      "neighborhood": "Rolando",
+      "phone": "(619) 788-2027",
+      "scheduleText": "Monday 9:00 to 10:00 AM, Wednesday 8:00 to 8:30 PM, Sunday 11:30 AM to 12:30 PM",
+      "hours": [
+        { "days": "Mon", "open": "09:00", "close": "10:00" },
+        { "days": "Wed", "open": "20:00", "close": "20:30" },
+        { "days": "Sun", "open": "11:30", "close": "12:30" }
+      ],
+      "eligibility": null
+    },
+    {
+      "slug": "operation-promise",
+      "name": "Operation Promise Community Services",
+      "type": "walk-up",
+      "address": "5 W. 18th St., National City, CA 91950",
+      "neighborhood": "National City",
+      "phone": "(619) 902-1206",
+      "scheduleText": "Monday through Friday, 9:00 AM to 2:45 PM",
+      "hours": [{ "days": "Mon-Fri", "open": "09:00", "close": "14:45" }],
+      "eligibility": "Intake form required. Call to make an appointment."
+    },
+    {
+      "slug": "southport-christian-center",
+      "name": "Southport Christian Center",
+      "type": "walk-up",
+      "address": "142 East 16th Street, National City, CA 91950",
+      "neighborhood": "National City",
+      "phone": "(619) 474-2834",
+      "scheduleText": "Fridays, 10:00 to 11:00 AM",
+      "hours": [{ "days": "Fri", "open": "10:00", "close": "11:00" }],
+      "eligibility": null
+    },
+    {
+      "slug": "i-am-my-brothers-keeper",
+      "name": "I Am My Brother's Keeper",
+      "type": "drive-through, walk-up",
+      "address": "6601 Imperial Ave., San Diego, CA 92114",
+      "neighborhood": "Encanto",
+      "phone": "(619) 262-7600",
+      "scheduleText": "Tuesdays, 1:00 to 3:00 PM",
+      "hours": [{ "days": "Tue", "open": "13:00", "close": "15:00" }],
+      "eligibility": "By appointment only"
+    },
+    {
+      "slug": "wesley-house",
+      "name": "Wesley House",
+      "type": "walk-up",
+      "address": "5710 Hardy Ave, Suite 12, San Diego, CA 92115",
+      "neighborhood": "College Area",
+      "phone": "(619) 582-0773",
+      "scheduleText": "Monday 9:30 to 11:30 AM, Wednesday and Friday 1:30 to 4:00 PM",
+      "seasonalNote": "Summer hours in effect June 8 through August 17, 2026",
+      "hours": [
+        { "days": "Mon", "open": "09:30", "close": "11:30" },
+        { "days": "Wed", "open": "13:30", "close": "16:00" },
+        { "days": "Fri", "open": "13:30", "close": "16:00" }
+      ],
+      "eligibility": "Current college students only. Proof of enrollment required."
+    },
+    {
+      "slug": "courage-to-call",
+      "name": "Courage to Call",
+      "type": "drive-through",
+      "address": "9465 Farnham Street, San Diego, CA 92123",
+      "neighborhood": "Kearny Mesa",
+      "phone": "(877) 698-7838",
+      "scheduleText": "Second and fourth Saturday of the month, 9:00 to 11:00 AM",
+      "eligibility": "Call first. Military card required."
+    },
+    {
+      "slug": "bayview-baptist-daily-bread",
+      "name": "Bayview Baptist Church, Daily Bread Marketplace",
+      "type": "walk-up",
+      "address": "6126 Pastor Timothy J. Winters St., San Diego, CA 92114",
+      "neighborhood": "Encanto",
+      "phone": "(619) 262-8384",
+      "scheduleText": "Monday through Thursday, 9:00 AM to 12:00 PM",
+      "hours": [{ "days": "Mon-Thu", "open": "09:00", "close": "12:00" }],
+      "eligibility": "Call first. By appointment only."
+    },
+    {
+      "slug": "friendships-for-hope",
+      "name": "Friendships for Hope",
+      "type": "walk-up",
+      "address": "2727 Burden Drive, National City, CA 91950",
+      "neighborhood": "National City",
+      "phone": "(619) 395-5088",
+      "scheduleText": "Tuesdays, 9:00 AM to 12:00 PM",
+      "hours": [{ "days": "Tue", "open": "09:00", "close": "12:00" }],
+      "eligibility": "Serves residents of 91950, 92139, 92102, 92113, and 92114"
+    },
+    {
+      "slug": "sd-maranatha-sda",
+      "name": "San Diego Maranatha SDA Church",
+      "type": "drive-through, walk-up",
+      "address": "6065 Skyline Dr., San Diego, CA 92114",
+      "neighborhood": "Skyline",
+      "phone": null,
+      "scheduleText": "Fourth Saturday of the month, 2:00 to 4:00 PM",
+      "eligibility": null
+    },
+    {
+      "slug": "fourth-district-senior-resource-center",
+      "name": "Fourth District Senior Resource Center",
+      "type": "walk-up",
+      "address": "570 65th Street, San Diego, CA 92114",
+      "neighborhood": "Encanto",
+      "phone": "(619) 266-2066",
+      "scheduleText": "Fourth Thursday of the month at 11:30 AM. First come, first served.",
+      "eligibility": "Seniors. Call first."
+    },
+    {
+      "slug": "christian-church-lemon-grove",
+      "name": "Christian Church of Lemon Grove",
+      "type": "drive-through, walk-up",
+      "address": "6970 San Miguel Ave., Lemon Grove, CA 91945",
+      "neighborhood": "Lemon Grove",
+      "phone": "(619) 465-1888",
+      "scheduleText": "Second and fourth Tuesday of the month, 3:00 to 5:00 PM",
+      "eligibility": null
+    },
+    {
+      "slug": "feaster-charter-pantry",
+      "name": "Feaster Charter School Pantry",
+      "type": "walk-up",
+      "address": "670 Flower St., Chula Vista, CA 91910",
+      "neighborhood": "Chula Vista",
+      "phone": "(619) 422-8397",
+      "scheduleText": "Third Wednesday of the month, 10:00 to 11:00 AM",
+      "seasonalNote": "Was closed June 17, 2026. Source also listed an added distribution June 1, 2026.",
+      "eligibility": null
+    },
+    {
+      "slug": "trinity-lutheran",
+      "name": "Trinity Lutheran Church",
+      "type": "walk-up",
+      "address": "7210 Lisbon Street, San Diego, CA 92114",
+      "neighborhood": "Skyline",
+      "phone": "(619) 262-1089",
+      "scheduleText": "Tuesdays and Thursdays, 9:00 AM to 2:00 PM",
+      "hours": [
+        { "days": "Tue", "open": "09:00", "close": "14:00" },
+        { "days": "Thu", "open": "09:00", "close": "14:00" }
+      ],
+      "eligibility": null
+    },
+    {
+      "slug": "templo-evangelico-maranatha",
+      "name": "Templo Evangelico Maranatha",
+      "type": "walk-up",
+      "address": "494 E Street, Chula Vista, CA 91910",
+      "neighborhood": "Chula Vista",
+      "phone": "(619) 213-9370",
+      "scheduleText": "Wednesdays, 10:30 to 11:30 AM",
+      "hours": [{ "days": "Wed", "open": "10:30", "close": "11:30" }],
+      "eligibility": "Call first, by appointment only. Call before 6:00 PM on the Tuesday prior."
+    },
+    {
+      "slug": "north-park-apostolic",
+      "name": "North Park Apostolic Church",
+      "type": "walk-up, drive-through",
+      "address": "2515 Lemon Grove Avenue, Lemon Grove, CA 91945",
+      "neighborhood": "Lemon Grove",
+      "phone": "(619) 229-2800",
+      "scheduleText": "Wednesday walk-up service at the bungalow, Thursday drive-through only. Both 12:00 to 2:00 PM.",
+      "hours": [{ "days": "Wed-Thu", "open": "12:00", "close": "14:00" }],
+      "eligibility": null
+    },
+    {
+      "slug": "samoa-lutheran-feeding-ministry",
+      "name": "Samoa/Lutheran Feeding Ministry",
+      "type": "walk-up",
+      "address": "2055 Skyline Drive, Lemon Grove, CA 91945",
+      "neighborhood": "Lemon Grove",
+      "phone": "(619) 251-6834",
+      "scheduleText": "First and last Friday of the month, 9:00 to 10:30 AM",
+      "eligibility": null
+    },
+    {
+      "slug": "st-rose-of-lima",
+      "name": "St. Rose of Lima",
+      "type": "walk-up",
+      "address": "278 Alvarado Street, Chula Vista, CA 91910",
+      "neighborhood": "Chula Vista",
+      "phone": "(619) 427-7637",
+      "scheduleText": "Wednesdays, 10:00 to 11:00 AM",
+      "hours": [{ "days": "Wed", "open": "10:00", "close": "11:00" }],
+      "eligibility": null
+    }
+  ]
+}

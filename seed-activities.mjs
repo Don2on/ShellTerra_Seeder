@@ -1,0 +1,442 @@
+#!/usr/bin/env node
+/**
+ * ShellTerra - Appwrite content seeder
+ *
+ * Activities and timemarks use DIFFERENT field names for the same concepts:
+ *
+ *   Concept        Activities                  Timemarks
+ *   -----------    ------------------------    -------------------------
+ *   Collection     activities                  timemarks
+ *   Shell ref      shellID                     shell_id
+ *   Owner          creatorId                   user_id
+ *   Visibility     isPrivate (false = public)  is_public (true = public)
+ *   Time of day    startTime, "H:M" string     none, date only
+ *
+ * TWO THINGS THAT DECIDE WHETHER ANYONE CAN SEE THE RESULT
+ *
+ *   1. Every document is written with Permission.read(Role.any()) hardcoded.
+ *      These collections use document-level security, so a doc without its own
+ *      read permission is invisible to everyone except the API key. Permissions
+ *      are NOT cloned from a reference doc: the in-app create path passes no
+ *      permissions at all, so a hand-made reference may be readable only by you.
+ *
+ *   2. Seeding alone is not enough. The shell itself needs public_override.
+ *      Hillcrest is under 9 members, so the feed's member ceiling filters out
+ *      its public content until the shell is overridden. Run the shell call
+ *      after seeding. See POST-SEED below.
+ *
+ * USAGE
+ *   node --env-file=.env seed-activities.mjs --inspect activities <docId>
+ *   node --env-file=.env seed-activities.mjs --inspect timemarks <docId>
+ *   node --env-file=.env seed-activities.mjs --dry-run
+ *   node --env-file=.env seed-activities.mjs
+ *   node --env-file=.env seed-activities.mjs --file other.json
+ *
+ * POST-SEED (required, regardless of SEED_AS_PUBLIC)
+ *   {"type":"shell","shellId":"HILLCREST_SHELL_ID","adminSecret":"..."}
+ *   Sets is_private:false and public_override:true on the shell.
+ */
+
+import { Client, Databases, Permission, Role } from 'node-appwrite';
+import { readFileSync } from 'node:fs';
+import { createHash } from 'node:crypto';
+import process from 'node:process';
+
+/* ------------------------------------------------------------------ */
+/* CONFIG                                                              */
+/* ------------------------------------------------------------------ */
+
+const CFG = {
+  // Self-hosted. NOT cloud.appwrite.io.
+  endpoint:   process.env.APPWRITE_ENDPOINT,
+  projectId:  process.env.APPWRITE_PROJECT_ID,
+  apiKey:     process.env.APPWRITE_API_KEY,
+  databaseId: process.env.APPWRITE_DATABASE_ID,
+
+  activitiesCollection: process.env.ACTIVITIES_COLLECTION_ID || 'activities',
+  timemarksCollection:  process.env.TIMEMARKS_COLLECTION_ID  || 'timemarks',
+
+  shellId:     process.env.SHELL_ID,
+  ownerUserId: process.env.OWNER_USER_ID,
+
+  timeZone: 'America/Los_Angeles',
+};
+
+/**
+ * Hardcoded, not cloned. read(any) is all that is needed: server API keys
+ * bypass document permissions, so idempotent re-runs still work without
+ * granting update or delete to Role.any().
+ */
+const SEED_PERMISSIONS = [
+  Permission.read(Role.any()),
+];
+
+const SEED_AS_PUBLIC = true;
+
+/**
+ * Field names holding the calendar date. Both are written as full ISO
+ * datetimes and read back with DateTime.tryParse.
+ * Confirm the exact attribute names with --inspect.
+ */
+const ACTIVITY_DATE_FIELD = 'date';
+const ACTIVITY_TIME_FIELD = 'startTime';
+const ACTIVITY_END_TIME_FIELD = 'endTime';
+const TIMEMARK_DATE_FIELD = 'date';
+
+/**
+ * Owner display fields, confirmed from the reference docs (creatorId /
+ * user_id 697d09796292a72c5fdf). Activities carry creator_avatar; timemarks
+ * carry nickname + avatar. Both carry a sticker scale.
+ */
+const OWNER_NICKNAME = process.env.OWNER_NICKNAME || 'donny';
+const OWNER_AVATAR   = process.env.OWNER_AVATAR   || '🐬';
+const ACTIVITY_SCALE = 1.0;
+const TIMEMARK_SCALE = 0.5;
+
+/* ------------------------------------------------------------------ */
+/* FIELD MAPPING - edit to match --inspect output exactly              */
+/* ------------------------------------------------------------------ */
+
+function buildActivityDoc(item, ctx) {
+  const doc = {
+    name:        item.title,          // Appwrite attr is `name`, not `title`
+    description: item.description,
+
+    shellID:   CFG.shellId,
+    creatorId: CFG.ownerUserId,
+
+    latitude:  item.lat,
+    longitude: item.lng,
+
+    // Single `locationText` string (no `locationName`/`address` attrs exist).
+    // Prefer the full street address; fall back to the short place name.
+    // Keep it under the activities.locationText column cap.
+    locationText: item.address || item.locationName || '',
+    linkUrl:      '',
+
+    recurrence:     ctx.recurrence,
+    isPrivate:      !SEED_AS_PUBLIC,
+    creator_avatar: OWNER_AVATAR,
+    scale:          ACTIVITY_SCALE,
+  };
+
+  doc[ACTIVITY_DATE_FIELD] = ctx.dateAnchor;
+  doc[ACTIVITY_TIME_FIELD] = ctx.startClock;
+  // endTime is a REQUIRED attribute. The app writes '' when there's no close
+  // time (activity_service.dart), and _parseActivityMap reads '' back as null.
+  // Always send it so open-only schedules ("from 3 PM") don't fail validation.
+  doc[ACTIVITY_END_TIME_FIELD] = ctx.endClock || '';
+
+  // Multi-day recurrence on a single doc: weekly weekday-set "1,2,3,4,5" or
+  // monthly nth-weekdays "2:2,4:2" (Dart Mon=1..Sun=7). The app rolls to the
+  // next day in the set. Absent = classic single-day.
+  if (item.recurDays) doc.recur_days = item.recurDays;
+
+  return doc;
+}
+
+function buildTimemarkDoc(item, ctx) {
+  const doc = {
+    name:        item.title,          // Appwrite attr is `name`, not `title`
+    description: item.description,
+
+    shell_id: CFG.shellId,
+    user_id:  CFG.ownerUserId,
+
+    latitude:  item.lat,
+    longitude: item.lng,
+
+    // Timemarks have NO location-text field — the pin IS the location.
+    // Display fields the app renders on the map sticker:
+    is_public:   SEED_AS_PUBLIC,
+    nickname:    OWNER_NICKNAME,
+    avatar:      OWNER_AVATAR,
+    scale:       TIMEMARK_SCALE,
+    likes_count: 0,
+  };
+
+  doc[TIMEMARK_DATE_FIELD] = ctx.dateAnchor;
+
+  return doc;
+}
+
+/* ------------------------------------------------------------------ */
+/* TIME HELPERS                                                        */
+/* ------------------------------------------------------------------ */
+
+/**
+ * '2026-08-19T18:30' -> '2026-08-19T12:00:00.000Z'
+ *
+ * The intended local calendar day, anchored at midday UTC. NOT the true
+ * instant. The app reads .month and .year off this in UTC, so storing the
+ * real 01:30Z instant for a 6:30pm event would roll it to the next day.
+ * Midday survives every US timezone offset without the date shifting.
+ */
+function toDateAnchor(local) {
+  if (!local) return null;
+  return `${local.split('T')[0]}T12:00:00.000Z`;
+}
+
+/**
+ * '2026-08-16T09:00' -> '9:0'
+ * Matches the app's '${hour}:${minute}', which does not zero-pad. The app
+ * splits on ':' and int.tryParse-es each half, so an ISO string here renders
+ * as 00:00.
+ */
+function toClockString(local) {
+  if (!local) return null;
+  const [h, m] = local.split('T')[1].split(':').map(Number);
+  return `${h}:${m}`;
+}
+
+function addLocalDays(local, days) {
+  const [datePart, timePart] = local.split('T');
+  const [y, m, d] = datePart.split('-').map(Number);
+  const s = new Date(Date.UTC(y, m - 1, d + days));
+  return `${s.getUTCFullYear()}-${String(s.getUTCMonth()+1).padStart(2,'0')}-${String(s.getUTCDate()).padStart(2,'0')}T${timePart}`;
+}
+
+function addLocalMonths(local, months) {
+  const [datePart, timePart] = local.split('T');
+  const [y, m, d] = datePart.split('-').map(Number);
+  const s = new Date(Date.UTC(y, m - 1 + months, d));
+  return `${s.getUTCFullYear()}-${String(s.getUTCMonth()+1).padStart(2,'0')}-${String(s.getUTCDate()).padStart(2,'0')}T${timePart}`;
+}
+
+/** Nth weekday of that month. dayOfWeek: 0=Sun..6=Sat, n is 1-based. */
+function nthWeekdayOfMonth(local, n, dayOfWeek) {
+  const [datePart, timePart] = local.split('T');
+  const [y, m] = datePart.split('-').map(Number);
+  const first = new Date(Date.UTC(y, m - 1, 1));
+  const offset = (dayOfWeek - first.getUTCDay() + 7) % 7;
+  const day = 1 + offset + (n - 1) * 7;
+  const result = new Date(Date.UTC(y, m - 1, day));
+  if (result.getUTCMonth() !== m - 1) return null;
+  return `${y}-${String(m).padStart(2,'0')}-${String(result.getUTCDate()).padStart(2,'0')}T${timePart}`;
+}
+
+/**
+ * Which nth-weekday a local date is: '2026-09-19' (a Saturday, 19th) -> {n:3, dayOfWeek:6}.
+ * Lets monthly/annual recurrence be derived from the chosen date with zero
+ * extra config — same UX as picking a weekly day.
+ */
+function deriveNthWeekday(local) {
+  const [y, m, d] = local.split('T')[0].split('-').map(Number);
+  const dayOfWeek = new Date(Date.UTC(y, m - 1, d)).getUTCDay();
+  const n = Math.floor((d - 1) / 7) + 1;
+  return { n, dayOfWeek };
+}
+
+/* ------------------------------------------------------------------ */
+/* EXPANSION + IDS                                                     */
+/* ------------------------------------------------------------------ */
+
+// Produce the seed occurrence(s) to WRITE, using the app's NATIVE recurrence
+// (a single doc the app rolls forward), not pre-expansion. Each entry carries
+// the `recurrence` value to store on the doc.
+//   none               -> 1 doc, recurrence 'none'
+//   weekly             -> 1 doc, recurrence 'weekly'  (app advances +7 itself,
+//                         even if item.start is already past)
+//   monthly / annually -> 1 doc PER nth-weekday pattern. The app derives the
+//                         nth-weekday from the stored date and rolls it forward,
+//                         so "2nd & 4th Tuesday" becomes two rolling docs, not 12.
+//   biweekly / daily   -> pre-expanded one-time docs (the app's Recurrence enum
+//                         has no such mode), recurrence 'none'.
+function expand(item) {
+  const r = item.recurrence;
+  if (!r) return [{ start: item.start, end: item.end || null, recurrence: 'none' }];
+
+  if (r.frequency === 'weekly') {
+    return [{ start: item.start, end: item.end || null, recurrence: 'weekly' }];
+  }
+
+  if (r.frequency === 'monthly' || r.frequency === 'annually') {
+    const recurrence = r.frequency;
+    // Default: derive one nth-weekday from item.start. Override with a single
+    // nthWeekday or a list (nthWeekdays, e.g. 2nd & 4th Tuesday).
+    const patterns = r.nthWeekdays
+      || (r.nthWeekday ? [r.nthWeekday] : [deriveNthWeekday(item.start)]);
+    // ONE doc, anchored on the EARLIEST pattern in item.start's month. A
+    // multi-pattern `recurDays` on the item lets the app roll to whichever
+    // nth-weekday comes next, so "2nd & 4th Tuesday" is one card, not two.
+    let anchor = null, anchorEnd = null;
+    for (const p of patterns) {
+      const snapped = nthWeekdayOfMonth(item.start, p.n, p.dayOfWeek);
+      if (!snapped) continue;
+      if (anchor === null || snapped < anchor) {
+        anchor = snapped;
+        if (item.end) {
+          const shift = Number(snapped.split('T')[0].split('-')[2])
+                      - Number(item.start.split('T')[0].split('-')[2]);
+          anchorEnd = addLocalDays(item.end, shift);
+        } else {
+          anchorEnd = null;
+        }
+      }
+    }
+    return anchor === null ? [] : [{ start: anchor, end: anchorEnd, recurrence }];
+  }
+
+  // biweekly / daily — no native app mode, so pre-expand. count = occurrences.
+  const interval = r.frequency === 'biweekly' ? 14 : r.frequency === 'daily' ? 1 : 7;
+  const count = r.count || 1;
+  const out = [];
+  for (let i = 0; i < count; i++) {
+    out.push({
+      start: addLocalDays(item.start, interval * i),
+      end: item.end ? addLocalDays(item.end, interval * i) : null,
+      recurrence: 'none',
+    });
+  }
+  return out;
+}
+
+/**
+ * Deterministic ID so re-running updates instead of duplicating.
+ * Appwrite IDs: max 36 chars, [a-zA-Z0-9_] only, cannot start with _.
+ * Output is 's' + kind letter + 28 hex chars = 30 chars, all valid.
+ */
+function stableId(kind, item, startLocal) {
+  const hash = createHash('sha256')
+    .update(`${CFG.shellId}|${kind}|${item.slug || item.title}|${startLocal}`)
+    .digest('hex').slice(0, 28);
+  const id = `s${kind[0]}${hash}`;
+  if (!/^[a-zA-Z0-9][a-zA-Z0-9_]{0,35}$/.test(id)) {
+    throw new Error(`Generated invalid Appwrite ID: ${id}`);
+  }
+  return id;
+}
+
+/* ------------------------------------------------------------------ */
+/* MAIN                                                                */
+/* ------------------------------------------------------------------ */
+
+const args = process.argv.slice(2);
+const valOf = (f) => { const i = args.indexOf(f); return i > -1 ? args[i + 1] : null; };
+
+const DRY = args.includes('--dry-run');
+const DATA_FILE = valOf('--file') || './hillcrest-activities.json';
+
+const client = new Client();
+if (CFG.endpoint && CFG.projectId && CFG.apiKey) {
+  client.setEndpoint(CFG.endpoint).setProject(CFG.projectId).setKey(CFG.apiKey);
+}
+const db = new Databases(client);
+
+function requireConfig(keys) {
+  const missing = keys.filter((k) => !CFG[k]);
+  if (missing.length) {
+    console.error('Missing env vars for:', missing.join(', '));
+    if (missing.includes('endpoint')) {
+      console.error('Reminder: self-hosted instance, not cloud.appwrite.io');
+    }
+    process.exit(1);
+  }
+}
+
+async function inspect(which, docId) {
+  requireConfig(['endpoint', 'projectId', 'apiKey', 'databaseId']);
+  const collection = which === 'timemarks' ? CFG.timemarksCollection : CFG.activitiesCollection;
+  const doc = await db.getDocument(CFG.databaseId, collection, docId);
+
+  console.log(`\nCOLLECTION: ${collection}`);
+  console.log('\nATTRIBUTES');
+  for (const [k, v] of Object.entries(doc)) {
+    if (k.startsWith('$')) continue;
+    const type = Array.isArray(v) ? 'array' : v === null ? 'null' : typeof v;
+    console.log(`  ${k.padEnd(24)} ${JSON.stringify(v)}   [${type}]`);
+  }
+
+  console.log('\nPERMISSIONS (for reference only, NOT cloned)');
+  const perms = doc.$permissions || [];
+  perms.length ? perms.forEach((p) => console.log(`  ${p}`))
+               : console.log('  (none - this is why permissions are hardcoded instead)');
+
+  console.log(`\n$id  ${doc.$id}`);
+  console.log('\nCopy the attribute keys into this collection\'s build function.');
+  console.log('Confirm which field holds the calendar date.\n');
+}
+
+async function upsert(collection, docId, data) {
+  try {
+    return await db.createDocument(CFG.databaseId, collection, docId, data, SEED_PERMISSIONS);
+  } catch (err) {
+    if (err.code === 409) {
+      return await db.updateDocument(CFG.databaseId, collection, docId, data, SEED_PERMISSIONS);
+    }
+    throw err;
+  }
+}
+
+async function run() {
+  requireConfig(['endpoint', 'projectId', 'apiKey', 'databaseId', 'shellId', 'ownerUserId']);
+
+  const raw = JSON.parse(readFileSync(DATA_FILE, 'utf8'));
+  const items = Array.isArray(raw) ? raw : raw.items;
+
+  let written = 0, failed = 0;
+  const built = [];
+
+  for (const item of items) {
+    const kind = (item.kind || 'activity').toLowerCase();
+    const collection = kind === 'timemark' ? CFG.timemarksCollection : CFG.activitiesCollection;
+
+    for (const occ of expand(item)) {
+      const ctx = {
+        dateAnchor: toDateAnchor(occ.start),
+        startClock: toClockString(occ.start),
+        endClock:   toClockString(occ.end),
+        recurrence: occ.recurrence,
+      };
+
+      const data = kind === 'timemark'
+        ? buildTimemarkDoc(item, ctx)
+        : buildActivityDoc(item, ctx);
+
+      const docId = stableId(kind, item, occ.start);
+      built.push({ collection, docId, localStart: occ.start, permissions: SEED_PERMISSIONS, data });
+
+      if (DRY) continue;
+
+      try {
+        await upsert(collection, docId, data);
+        written++;
+        console.log(`ok   ${kind.padEnd(9)} ${occ.start}  ${item.title}`);
+      } catch (err) {
+        failed++;
+        console.error(`FAIL ${kind.padEnd(9)} ${occ.start}  ${item.title}`);
+        console.error(`     ${err.message}`);
+      }
+    }
+  }
+
+  if (DRY) {
+    console.log(JSON.stringify(built, null, 2));
+    console.log(`\nDry run. ${built.length} documents would be written. Nothing sent.\n`);
+    console.log('CHECK BEFORE WRITING:');
+    console.log('  1. Field names match --inspect output for each collection');
+    console.log('  2. startTime reads "9:0" and "18:30", not an ISO string');
+    console.log('  3. Every date ends T12:00:00.000Z on the intended local day');
+    console.log('  4. The 6:30pm event is dated the 19th, not the 20th');
+    console.log('  5. Timemarks carry no time of day');
+    console.log('  6. permissions is read("any") on every document\n');
+    return;
+  }
+
+  console.log(`\nwritten ${written}   failed ${failed}\n`);
+  console.log('NOT DONE YET. The shell itself still needs overriding, or this');
+  console.log('content stays filtered out by the member ceiling:');
+  console.log(`  {"type":"shell","shellId":"${CFG.shellId}","adminSecret":"..."}\n`);
+}
+
+const i = args.indexOf('--inspect');
+if (i > -1) {
+  const which = args[i + 1], docId = args[i + 2];
+  if (!which || !docId || !['activities', 'timemarks'].includes(which)) {
+    console.error('Usage: --inspect activities <docId>   or   --inspect timemarks <docId>');
+    process.exit(1);
+  }
+  inspect(which, docId).catch((e) => { console.error(e.message); process.exit(1); });
+} else {
+  run().catch((e) => { console.error(e.message); process.exit(1); });
+}
