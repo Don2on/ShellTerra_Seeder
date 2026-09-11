@@ -1,0 +1,112 @@
+{
+  "_comment": "ShellTerra BottomoftheHill seed data — Vertical Hold San Diego (2074 Hancock St). Times are San Diego local, 24h, no timezone suffix. All entries are kind 'activity'. Source: verticalhold.com and the RockGymPro registration page, fetched 2026-08-25.",
+
+  "_shell": "BottomoftheHill",
+  "_shellId": "6a8bafa72d35f648b78f",
+
+  "_verify_before_running": [
+    "Dry run first and confirm the four yoga documents print recurrence: 'weekly', NOT 'none'. If they print 'none' the key is not being read.",
+    "Yoga instructor names and days: this schedule lives on a Squarespace page that is not obviously dated. Call (619) 299-1124 or check the SD front desk before seeding. Instructor swaps are the most likely thing to be stale.",
+    "Huckfest is CONFIRMED off the RockGymPro registration page: Thu Sep 17 2026, two heats, recreational 6:30-7:30pm and competitive 7:35-8:35pm. Seeded as one entry spanning 18:30-20:35. The page has a Schedule tab that was never captured — check whether check-in opens before 6:30.",
+    "Coordinates came off Google's own place pin for Vertical Hold, not a geocoded guess — but drop it once to confirm it lands on the building and not the Hancock St frontage."
+  ],
+
+  "_notes": {
+    "recurrence": "The four yoga classes use recurrence:{frequency:'weekly'} with NO count. One document each, the app owns the repeat. Do NOT add a count.",
+    "documentCount": "5 documents: 4 yoga + 1 huckfest.",
+    "droppedFields": "category is written here for reference only and never reaches Appwrite. linkUrl is populated from the url field via the seeder fix applied 2026-08-25.",
+    "gymHours": "Mon-Fri 9am-10pm, Sat-Sun 9am-9pm. Not seeded — reference info, better placed on the shell description."
+  },
+
+  "_deferred": {
+    "_why": "Held out of items[] on purpose. The seeder has no concept of an _unverified flag and would process a placeholder start value into a malformed datetime. Do not paste back into items[] until a real start date is confirmed.",
+    "boulder-league": {
+      "title": "Boulder League",
+      "status": "Referenced in Vertical Hold's San Diego gallery posts from early 2026. No current schedule published anywhere. Confirm at the front desk that a session is running, get real dates, then add it.",
+      "notes": "Sign-ups run through the website or the front desk."
+    },
+    "belay-clinics": {
+      "title": "Belay certification and climbing clinics",
+      "status": "Booked through a RockGymPro widget with no scrapeable schedule. Pull times by hand from https://app.rockgympro.com/b/?bw=963206def95b448d8086e29cc6c522fe if you want them in the shell."
+    }
+  },
+
+  "items": [
+
+    {
+      "kind": "activity",
+      "slug": "vh-sd-power-vinyasa-monday",
+      "title": "Power Vinyasa at Vertical Hold",
+      "description": "Monday night power vinyasa with Ishmael. All levels, no reservation needed, and free with a day pass or membership. Mats and blocks are there if you don't bring your own. The instructors climb, so the sequencing is built around what climbers are usually tight in.",
+      "locationName": "Vertical Hold San Diego",
+      "address": "2074 Hancock St, San Diego, CA 92110",
+      "lat": 32.7448401,
+      "lng": -117.1890439,
+      "category": "fitness",
+      "start": "2026-08-31T19:00",
+      "end": "2026-08-31T20:00",
+      "recurrence": { "frequency": "weekly" }
+    },
+
+    {
+      "kind": "activity",
+      "slug": "vh-sd-vinyasa-tuesday",
+      "title": "Vinyasa with Meghan at Vertical Hold",
+      "description": "Tuesday all-levels vinyasa with Meghan. Drop in without booking. Included with a membership or a day pass, so it's one of the cheapest yoga classes around here if you were already going to climb.",
+      "locationName": "Vertical Hold San Diego",
+      "address": "2074 Hancock St, San Diego, CA 92110",
+      "lat": 32.7448401,
+      "lng": -117.1890439,
+      "category": "fitness",
+      "start": "2026-09-01T19:00",
+      "end": "2026-09-01T20:00",
+      "recurrence": { "frequency": "weekly" }
+    },
+
+    {
+      "kind": "activity",
+      "slug": "vh-sd-vinyasa-wednesday",
+      "title": "Vinyasa with Karey at Vertical Hold",
+      "description": "Wednesday all-levels vinyasa with Karey. Same deal as the rest of the week: walk in, no reservation, mats provided.",
+      "locationName": "Vertical Hold San Diego",
+      "address": "2074 Hancock St, San Diego, CA 92110",
+      "lat": 32.7448401,
+      "lng": -117.1890439,
+      "category": "fitness",
+      "start": "2026-09-02T19:00",
+      "end": "2026-09-02T20:00",
+      "recurrence": { "frequency": "weekly" }
+    },
+
+    {
+      "kind": "activity",
+      "slug": "vh-sd-restorative-thursday",
+      "title": "Slow Flow Restorative at Vertical Hold",
+      "description": "Thursday restorative class with Melissa. Slower and lower intensity than the vinyasa nights — this is the one to go to if you climbed hard earlier in the week and your forearms are wrecked.",
+      "locationName": "Vertical Hold San Diego",
+      "address": "2074 Hancock St, San Diego, CA 92110",
+      "lat": 32.7448401,
+      "lng": -117.1890439,
+      "category": "fitness",
+      "start": "2026-09-03T19:00",
+      "end": "2026-09-03T20:00",
+      "recurrence": { "frequency": "weekly" }
+    },
+
+    {
+      "kind": "activity",
+      "slug": "vh-sd-sendtember-huckfest",
+      "title": "Sendtember Huckfest",
+      "description": "Vertical Hold's annual dyno comp, run as two back-to-back heats on one night. Recreational goes first at 6:30, competitive follows at 7:35. Mens, womens, and non-binary divisions in both. The gym's guide is V0 to V3 for recreational and V4 and up for competitive, and they pitch the rec heat as beginner and first-timer friendly — you pick your own category on the scorecard and the judges can move you if it's a mismatch. Ages 13 and up only, since no youth-sized dynos get set. Registration is cheapest through August 31 and steps up twice after that; online sign-ups close the night of September 16, then it's day-of at the front desk. Entry includes a shirt while they last. Register: https://app.rockgympro.com/b/widget/?a=list&widget_guid=fe5ced1c60fa42f998b56e605d0d3775&mode=p",
+      "locationName": "Vertical Hold San Diego",
+      "address": "2074 Hancock St, San Diego, CA 92110",
+      "lat": 32.7448401,
+      "lng": -117.1890439,
+      "category": "event",
+      "start": "2026-09-17T18:30",
+      "end": "2026-09-17T20:35",
+      "url": "https://app.rockgympro.com/b/widget/?a=list&widget_guid=fe5ced1c60fa42f998b56e605d0d3775&mode=p"
+    }
+
+  ]
+}

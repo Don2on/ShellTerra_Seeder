@@ -112,7 +112,12 @@ function buildActivityDoc(item, ctx) {
     // Prefer the full street address; fall back to the short place name.
     // Keep it under the activities.locationText column cap.
     locationText: item.address || item.locationName || '',
-    linkUrl:      '',
+    linkUrl:      item.linkUrl || item.url || '',
+
+    // Vendor/host name. Drives seeded-shell vendor grouping in the app:
+    // activities sharing a hostName collapse into one vendor card. Requires a
+    // `hostName` (String) attribute on the activities collection.
+    hostName:     item.locationName || '',
 
     recurrence:     ctx.recurrence,
     isPrivate:      !SEED_AS_PUBLIC,
@@ -156,6 +161,12 @@ function buildTimemarkDoc(item, ctx) {
   };
 
   doc[TIMEMARK_DATE_FIELD] = ctx.dateAnchor;
+
+  // Discriminator for seeded curated content (e.g. "landmark") vs ordinary
+  // user timemarks. Only written when the source item sets it, so normal
+  // timemark seeds and app-created rows leave it null. Requires an
+  // `entry_type` (String, optional) attribute on the timemarks collection.
+  if (item.entry_type) doc.entry_type = item.entry_type;
 
   return doc;
 }
@@ -203,12 +214,22 @@ function addLocalMonths(local, months) {
   return `${s.getUTCFullYear()}-${String(s.getUTCMonth()+1).padStart(2,'0')}-${String(s.getUTCDate()).padStart(2,'0')}T${timePart}`;
 }
 
-/** Nth weekday of that month. dayOfWeek: 0=Sun..6=Sat, n is 1-based. */
+/** Nth weekday of that month. dayOfWeek: Dart Mon=1..Sun=7, n is 1-based or -1 for last. */
 function nthWeekdayOfMonth(local, n, dayOfWeek) {
   const [datePart, timePart] = local.split('T');
   const [y, m] = datePart.split('-').map(Number);
+  const jsDow = dayOfWeek === 7 ? 0 : dayOfWeek; // Dart Sun=7 -> JS Sun=0
+  if (n < 0) {
+    const lastDay = new Date(Date.UTC(y, m, 0)).getUTCDate();
+    const lastDow = new Date(Date.UTC(y, m - 1, lastDay)).getUTCDay();
+    const offset = (lastDow - jsDow + 7) % 7;
+    const day = lastDay - offset + (n + 1) * 7;
+    const result = new Date(Date.UTC(y, m - 1, day));
+    if (result.getUTCMonth() !== m - 1) return null;
+    return `${y}-${String(m).padStart(2,'0')}-${String(result.getUTCDate()).padStart(2,'0')}T${timePart}`;
+  }
   const first = new Date(Date.UTC(y, m - 1, 1));
-  const offset = (dayOfWeek - first.getUTCDay() + 7) % 7;
+  const offset = (jsDow - first.getUTCDay() + 7) % 7;
   const day = 1 + offset + (n - 1) * 7;
   const result = new Date(Date.UTC(y, m - 1, day));
   if (result.getUTCMonth() !== m - 1) return null;
@@ -219,10 +240,12 @@ function nthWeekdayOfMonth(local, n, dayOfWeek) {
  * Which nth-weekday a local date is: '2026-09-19' (a Saturday, 19th) -> {n:3, dayOfWeek:6}.
  * Lets monthly/annual recurrence be derived from the chosen date with zero
  * extra config — same UX as picking a weekly day.
+ * dayOfWeek uses Dart convention (Mon=1..Sun=7).
  */
 function deriveNthWeekday(local) {
   const [y, m, d] = local.split('T')[0].split('-').map(Number);
-  const dayOfWeek = new Date(Date.UTC(y, m - 1, d)).getUTCDay();
+  const jsDow = new Date(Date.UTC(y, m - 1, d)).getUTCDay();
+  const dayOfWeek = jsDow === 0 ? 7 : jsDow; // Dart Mon=1..Sun=7
   const n = Math.floor((d - 1) / 7) + 1;
   return { n, dayOfWeek };
 }
@@ -315,7 +338,11 @@ const args = process.argv.slice(2);
 const valOf = (f) => { const i = args.indexOf(f); return i > -1 ? args[i + 1] : null; };
 
 const DRY = args.includes('--dry-run');
-const DATA_FILE = valOf('--file') || './hillcrest-activities.json';
+// Create-only: add documents that don't exist yet, leave existing ones
+// untouched (skip on 409 instead of updating). Use when back-filling a
+// refreshed feed so hand-tuned existing rows aren't overwritten.
+const CREATE_ONLY = args.includes('--create-only');
+const DATA_FILE = valOf('--file') || './HillcrestToDo.json';
 
 const client = new Client();
 if (CFG.endpoint && CFG.projectId && CFG.apiKey) {
@@ -357,14 +384,45 @@ async function inspect(which, docId) {
   console.log('Confirm which field holds the calendar date.\n');
 }
 
+// Returns 'created' | 'updated' | 'skipped' so the caller can distinguish
+// brand-new rows from ones that already existed.
 async function upsert(collection, docId, data) {
   try {
-    return await db.createDocument(CFG.databaseId, collection, docId, data, SEED_PERMISSIONS);
+    await db.createDocument(CFG.databaseId, collection, docId, data, SEED_PERMISSIONS);
+    return 'created';
   } catch (err) {
     if (err.code === 409) {
-      return await db.updateDocument(CFG.databaseId, collection, docId, data, SEED_PERMISSIONS);
+      if (CREATE_ONLY) return 'skipped';
+      await db.updateDocument(CFG.databaseId, collection, docId, data, SEED_PERMISSIONS);
+      return 'updated';
     }
     throw err;
+  }
+}
+
+/**
+ * After expansion, the same event must not land on the same date twice.
+ * That would make it appear twice in a single-day filter view.
+ */
+function checkNoDuplicateDates(items) {
+  const seen = new Map(); // docId -> localStart
+  const dupes = [];
+  for (const item of items) {
+    for (const occ of expand(item)) {
+      const kind = (item.kind || 'activity').toLowerCase();
+      const id = stableId(kind, item, occ.start);
+      if (seen.has(id)) {
+        dupes.push(`  ${item.title}  (${occ.start})`);
+      } else {
+        seen.set(id, occ.start);
+      }
+    }
+  }
+  if (dupes.length) {
+    console.error('\nERROR: these events expand to a duplicate on the same date:');
+    dupes.forEach((d) => console.error(d));
+    console.error('Fix the data before seeding.\n');
+    process.exit(1);
   }
 }
 
@@ -374,10 +432,19 @@ async function run() {
   const raw = JSON.parse(readFileSync(DATA_FILE, 'utf8'));
   const items = Array.isArray(raw) ? raw : raw.items;
 
-  let written = 0, failed = 0;
+  checkNoDuplicateDates(items);
+
+  let written = 0, failed = 0, created = 0, skipped = 0;
   const built = [];
 
+  let skippedGeo = 0;
   for (const item of items) {
+    if (item.lat === null || item.lng === null) {
+      skippedGeo++;
+      console.warn(`SKIP (no coords)  ${item.slug}`);
+      continue;
+    }
+
     const kind = (item.kind || 'activity').toLowerCase();
     const collection = kind === 'timemark' ? CFG.timemarksCollection : CFG.activitiesCollection;
 
@@ -399,9 +466,12 @@ async function run() {
       if (DRY) continue;
 
       try {
-        await upsert(collection, docId, data);
+        const status = await upsert(collection, docId, data);
         written++;
-        console.log(`ok   ${kind.padEnd(9)} ${occ.start}  ${item.title}`);
+        if (status === 'created') created++;
+        if (status === 'skipped') skipped++;
+        const tag = status === 'created' ? 'NEW ' : status === 'skipped' ? 'have' : 'ok  ';
+        console.log(`${tag} ${kind.padEnd(9)} ${occ.start}  ${item.title}`);
       } catch (err) {
         failed++;
         console.error(`FAIL ${kind.padEnd(9)} ${occ.start}  ${item.title}`);
@@ -423,7 +493,11 @@ async function run() {
     return;
   }
 
-  console.log(`\nwritten ${written}   failed ${failed}\n`);
+  if (CREATE_ONLY) {
+    console.log(`\ncreate-only: added ${created} NEW   already-present ${skipped}   failed ${failed}   skipped_no_coords ${skippedGeo}\n`);
+  } else {
+    console.log(`\nwritten ${written}   failed ${failed}   skipped_no_coords ${skippedGeo}\n`);
+  }
   console.log('NOT DONE YET. The shell itself still needs overriding, or this');
   console.log('content stays filtered out by the member ceiling:');
   console.log(`  {"type":"shell","shellId":"${CFG.shellId}","adminSecret":"..."}\n`);

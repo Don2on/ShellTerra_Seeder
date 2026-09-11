@@ -1,0 +1,26 @@
+{
+ "_comment": "ShellTerra OldTownLandmarks seed data — timemark format. `date` is each landmark's founding year (YYYY-01-01). One landmark per line.",
+ "_shell": "OldtownLandmarks",
+ "_shellId": "6a9f709e2f5727bfb643",
+ "_source": "Public sources (Wikipedia, SOHO, CA State Parks). Coordinates verified 2026-09-07; SHP-building coords reused from the OldTownActivities feed.",
+ "_verify_before_running": [
+  "HELD — do not seed yet. Pending: (1) app pulled, (2) discriminator field name confirmed, (3) `entry_type` attribute added to the timemarks collection, (4) one line added to buildTimemarkDoc to write it. `entry_type:\"landmark\"` below is provisional.",
+  "kind:\"timemark\" routes these to the timemarks collection. Set SHELL_ID=6a9f709e2f5727bfb643 before seeding.",
+  "After seeding, flip the shell public + is_seeded (is_private:false, public_override:true, is_seeded:true) like OldtownActivities.",
+  "date = founding year. Old Town SHP uses 1769 (settlement founding, its historical significance) rather than 1968 (park established) — flip if you'd rather anchor on the park date.",
+  "Serra Museum (7) and Heritage County Park (11) coords are slightly rounded; the 4 SHP buildings (1,8,9,10) are exact from the activities feed."
+ ],
+ "items": [
+  {"kind":"timemark","entry_type":"landmark","slug":"old-town-san-diego-state-historic-park-1769","title":"Old Town San Diego State Historic Park","description":"Preserves the site of California's first European settlement, recreating San Diego's Mexican and early-American era (1820s-1870s) with original and reconstructed buildings.","lat":32.754965,"lng":-117.198247,"category":"landmark","start":"1769-01-01T00:00"},
+  {"kind":"timemark","entry_type":"landmark","slug":"whaley-house-museum-1857","title":"Whaley House Museum","description":"Greek Revival brick home built by Thomas Whaley in 1857; once a courthouse, theater, and store, and long reputed one of America's most haunted houses.","lat":32.752828,"lng":-117.194486,"category":"landmark","start":"1857-01-01T00:00"},
+  {"kind":"timemark","entry_type":"landmark","slug":"el-campo-santo-cemetery-1849","title":"El Campo Santo Cemetery","description":"One of San Diego's oldest cemeteries, a Roman Catholic burial ground from 1849 holding pioneers, Californios, and the outlaw Yankee Jim Robinson.","lat":32.751550,"lng":-117.193300,"category":"landmark","start":"1849-01-01T00:00"},
+  {"kind":"timemark","entry_type":"landmark","slug":"cosmopolitan-hotel-casa-de-bandini-1829","title":"Cosmopolitan Hotel (Casa de Bandini)","description":"Built in 1829 as Juan Bandini's adobe home and expanded by Albert Seeley in 1869 into a stagecoach hotel; today a restored hotel and restaurant.","lat":32.757500,"lng":-117.199720,"category":"landmark","start":"1829-01-01T00:00"},
+  {"kind":"timemark","entry_type":"landmark","slug":"casa-de-estudillo-1827","title":"Casa de Estudillo","description":"Built in 1827, one of California's oldest surviving adobes and a National Historic Landmark, later famous as \"Ramona's Marriage Place.\"","lat":32.753978,"lng":-117.195781,"category":"landmark","start":"1827-01-01T00:00"},
+  {"kind":"timemark","entry_type":"landmark","slug":"mormon-battalion-historic-site-1847","title":"Mormon Battalion Historic Site","description":"Interactive museum commemorating the Mormon Battalion's 2,000-mile march to San Diego during the Mexican-American War, 1846-47.","lat":32.754192,"lng":-117.194019,"category":"landmark","start":"1847-01-01T00:00"},
+  {"kind":"timemark","entry_type":"landmark","slug":"junipero-serra-museum-1929","title":"Junipero Serra Museum","description":"Spanish Revival museum opened in 1929 on Presidio Hill, overlooking the site of California's first mission and presidio, founded in 1769.","lat":32.759000,"lng":-117.193000,"category":"landmark","start":"1929-01-01T00:00"},
+  {"kind":"timemark","entry_type":"landmark","slug":"mason-street-school-1865","title":"Mason Street School","description":"San Diego's first public schoolhouse, a one-room wood-frame building from 1865 restored on its original site.","lat":32.753647,"lng":-117.197417,"category":"landmark","start":"1865-01-01T00:00"},
+  {"kind":"timemark","entry_type":"landmark","slug":"robinson-rose-house-1853","title":"Robinson-Rose House","description":"An 1853 commercial and residential building that once held county offices and a newspaper; now the park's visitor center.","lat":32.753534,"lng":-117.197724,"category":"landmark","start":"1853-01-01T00:00"},
+  {"kind":"timemark","entry_type":"landmark","slug":"seeley-stable-1869","title":"Seeley Stable","description":"A reconstruction of Albert Seeley's 1869 stagecoach stable, housing a collection of wagons, carriages, and Western artifacts.","lat":32.754346,"lng":-117.197925,"category":"landmark","start":"1869-01-01T00:00"},
+  {"kind":"timemark","entry_type":"landmark","slug":"heritage-county-park-1880","title":"Heritage County Park","description":"A county park preserving relocated Victorian-era buildings from the 1880s, including San Diego's first synagogue.","lat":32.754520,"lng":-117.193050,"category":"landmark","start":"1880-01-01T00:00"}
+ ]
+}

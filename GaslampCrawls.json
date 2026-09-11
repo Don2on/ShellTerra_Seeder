@@ -1,0 +1,81 @@
+{
+  "_comment": "ShellTerra GaslampCrawls seed data. Shell: GaslampCrawls. Times are San Diego local, 24h, no timezone suffix. Covers bar crawls, pub hops, themed crawl events, and the Halloween Zombie Crawl series. ALL COORDINATES ARE APPROXIMATE — verify every pin before seeding.",
+
+  "_shell": "GaslampCrawls",
+  "_shellId": "6a9744572971d17da9af",
+
+  "_verify_before_running": [
+    "SHELL_ID in .env must be 6a9744572971d17da9af before seeding this file",
+    "Every lat/lng: drop each pin in Google Maps and confirm it lands on the right starting point or venue",
+    "Zombie Crawl dates confirmed for Oct 23/24/30/31 2026 — verify on gaslampquarter.org as Halloween approaches",
+    "Confirm which crawl products are still active — commercial crawl operators change pricing and routes seasonally"
+  ],
+
+  "items": [
+
+    {
+      "kind": "activity",
+      "slug": "gaslamp-zombie-crawl-2026-10-23",
+      "seriesId": "gaslamp-zombie-crawl-2026",
+      "title": "Gaslamp Zombie Crawl — Friday Night",
+      "description": "The Gaslamp Zombie Crawl kicks off Halloween weekend Friday. Participating bars have their wristband deals — one price gets you into multiple venues. The crawl officially runs 7pm-midnight but the Gaslamp stays zombie-occupied well past that. Zombie makeup encouraged, costumes required at most venues.",
+      "locationName": "Gaslamp Quarter",
+      "address": "Fifth Ave and G St, San Diego, CA 92101",
+      "lat": 32.7104,
+      "lng": -117.1621,
+      "category": "nightlife",
+      "start": "2026-10-23T19:00",
+      "end": "2026-10-24T00:00",
+      "url": "https://gaslampquarter.org"
+    },
+
+    {
+      "kind": "activity",
+      "slug": "gaslamp-zombie-crawl-2026-10-24",
+      "seriesId": "gaslamp-zombie-crawl-2026",
+      "title": "Gaslamp Zombie Crawl — Saturday Night",
+      "description": "Saturday of the Gaslamp Zombie Crawl is the bigger night — more costumed participants and most of the Gaslamp bars go all-in. Wristband packages available at the starting point. Come ready; the makeup stations run out of product early.",
+      "locationName": "Gaslamp Quarter",
+      "address": "Fifth Ave and G St, San Diego, CA 92101",
+      "lat": 32.7104,
+      "lng": -117.1621,
+      "category": "nightlife",
+      "start": "2026-10-24T19:00",
+      "end": "2026-10-25T00:00",
+      "url": "https://gaslampquarter.org"
+    },
+
+    {
+      "kind": "activity",
+      "slug": "gaslamp-zombie-crawl-2026-10-30",
+      "seriesId": "gaslamp-zombie-crawl-2026",
+      "title": "Gaslamp Zombie Crawl — Friday Before Halloween",
+      "description": "The final Friday of the Zombie Crawl is the last-chance night before Halloween itself. Most participating bars are still running the wristband program. Look for the wandering hordes on Fifth Ave starting around 8pm.",
+      "locationName": "Gaslamp Quarter",
+      "address": "Fifth Ave and G St, San Diego, CA 92101",
+      "lat": 32.7104,
+      "lng": -117.1621,
+      "category": "nightlife",
+      "start": "2026-10-30T19:00",
+      "end": "2026-10-31T00:00",
+      "url": "https://gaslampquarter.org"
+    },
+
+    {
+      "kind": "activity",
+      "slug": "gaslamp-zombie-crawl-2026-10-31",
+      "seriesId": "gaslamp-zombie-crawl-2026",
+      "title": "Gaslamp Halloween Night — Zombie Crawl Finale",
+      "description": "Halloween itself — the Zombie Crawl finale. The Gaslamp becomes a pedestrian zoo of costumes by 8pm. Every bar has something going on. This is the one night where the street itself is the event as much as any venue. Expect slow movement on Fifth Ave after 9pm.",
+      "locationName": "Gaslamp Quarter",
+      "address": "Fifth Ave and G St, San Diego, CA 92101",
+      "lat": 32.7104,
+      "lng": -117.1621,
+      "category": "nightlife",
+      "start": "2026-10-31T19:00",
+      "end": "2026-11-01T01:00",
+      "url": "https://gaslampquarter.org"
+    }
+
+  ]
+}

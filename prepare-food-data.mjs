@@ -25,8 +25,8 @@ import process from 'node:process';
 
 const TOKEN = process.env.MAPBOX_TOKEN;
 const MONTHS = Number(process.argv[process.argv.indexOf('--months') + 1]) || 3;
-const IN  = './food-distribution-sd.json';
-const OUT = './food-distribution-seed.json';
+const IN  = './SDFoodDistribution-raw.json';
+const OUT = './SDFoodDistribution.json';
 
 // Anchor for the first occurrence. Monday of the current week.
 const ANCHOR = (() => {
@@ -130,7 +130,8 @@ function parseNthWeekdays(text) {
 
   const dayMatch = DAYNAME.find(d => lower.includes(d.toLowerCase()));
   if (!dayMatch) return null;
-  const dayOfWeek = DAYNAME.indexOf(dayMatch);
+  const jsDay = DAYNAME.indexOf(dayMatch);
+  const dayOfWeek = jsDay === 0 ? 7 : jsDay; // Dart Mon=1..Sun=7
 
   const ns = Object.keys(ord)
     .filter(word => new RegExp(`\\b${word}\\b`).test(lower))
@@ -175,7 +176,7 @@ function nextDateFor(dayOfWeek) {
 /* ---------------- description ---------------- */
 
 function buildDescription(site) {
-  const parts = [];
+  const parts = ['Food Distribution:'];
   if (site.scheduleText) parts.push(site.scheduleText);
   if (site.locationNote) parts.push(site.locationNote);
   if (site.eligibility)  parts.push(`Eligibility: ${site.eligibility}`);
@@ -289,7 +290,7 @@ async function main() {
         recurrence: { frequency: 'monthly', count: MONTHS, nthWeekdays: nth },
         // recur_days for the app: "n:weekday" pairs, Dart weekday (Mon=1..Sun=7).
         // "2nd & 4th Tuesday" -> "2:2,4:2" -> one rolling card.
-        recurDays: nth.map(p => `${p.n}:${p.dayOfWeek === 0 ? 7 : p.dayOfWeek}`).join(','),
+        recurDays: nth.map(p => `${p.n}:${p.dayOfWeek}`).join(','),
       });
       continue;
     }
