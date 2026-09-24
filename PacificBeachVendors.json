@@ -1,0 +1,3229 @@
+{
+  "_comment": "Pacific Beach vendor directory derived from PacificBeachActivities.json + PacificBeachCrawls.json venues (locationName grouping, start-line/street variants merged, bare-address/generic pins dropped). Enrichment fields filled from a 2026-09-15 web-research pass (verified against official sites). | MERGED 2026-09-17: +10 new vendor cards, 9 updated by slug; coordinates refreshed to Google Maps place pins.",
+  "_shell": "PacificBeachActivities",
+  "_shellId": "6a97507831d24cd42195",
+  "_collection": "vendors",
+  "_source": "PacificBeachActivities.json + PacificBeachCrawls.json (locationName grouping, variants merged)",
+  "_verify_before_running": "Confirm _shellId matches the seeded Pacific Beach shell. Verify enriched fields per vendor and drop _activityCategories/_eventCount before seeding.",
+  "_fields": "See OceanBeachVendors.json _fields.",
+  "vendors": [
+    {
+      "slug": "jrdn-at-tower23-hotel",
+      "name": "JRDN at Tower23 Hotel",
+      "category": "Oceanfront Restaurant & Bar",
+      "tagline": "Modern surf and turf at the edge of the Pacific",
+      "description": "JRDN is an upscale oceanfront restaurant and bar inside the Tower23 Hotel, steps from the sand in Pacific Beach. It serves contemporary seafood, sushi, and steakhouse fare with panoramic ocean views. The restaurant is open daily for breakfast, lunch, dinner, and weekend brunch.",
+      "logoUrl": "",
+      "website": "https://www.t23hotel.com/jrdn",
+      "phone": "(858) 270-2323",
+      "email": "hotel@t23hotel.com",
+      "instagram": "@t23hotel",
+      "facebook": "t23hotel",
+      "tiktok": "",
+      "address": "723 Felspar St, San Diego, CA 92109",
+      "lat": 32.8018,
+      "lng": -117.2565,
+      "neighborhood": "Pacific Beach",
+      "hours": "Breakfast Mon-Fri 9am-11am, Brunch Sat-Sun 9am-3pm, Lunch Mon-Fri 11am-3pm, Dinner Sun-Thu 5pm-9pm & Fri-Sat 5pm-10pm",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "IPAs by the Beach at JRDN",
+          "date": "2026-09-01",
+          "time": "17:00",
+          "description": "Tuesday afternoon IPA social at JRDN on the ground floor of Tower23. Hosted by Adrian and Marena Quijano: specifically focused on IPAs, not a general happy hour. A casual way to try what local and regional brewers are pouring without a set agenda."
+        },
+        {
+          "title": "JRDN Summer Wine Series: St. Supéry Estate",
+          "date": "2026-09-09",
+          "time": "18:00",
+          "description": "JRDN at Tower23 hosts St. Supéry Estate Vineyards & Winery for the Wednesday evening wine series. St. Supéry is a certified organic and sustainable Napa Valley producer. Guided tasting format with Mission Bay as the backdrop. Reservations required; check their Eventbrite for ticket price and availability."
+        },
+        {
+          "title": "JRDN Summer Wine Series: Austin Hope",
+          "date": "2026-09-16",
+          "time": "18:00",
+          "description": "JRDN Summer Wine Series with Austin Hope of Hope Family Wines, Paso Robles. Austin Hope is one of the more recognized names in California red blends and Rhône-style varietals. Guided tasting on the Tower23 ground floor with Mission Bay views. Reservations required."
+        },
+        {
+          "title": "JRDN Summer Wine Series: Darren Delmore & Tablas Creek",
+          "date": "2026-09-23",
+          "time": "18:00",
+          "description": "JRDN Summer Wine Series with Darren Delmore Wines and Tablas Creek. Tablas Creek is the Central Coast benchmark for Rhône producers; Darren Delmore's work there informs his own label. A solid double-bill for anyone interested in Paso Robles Rhône varieties."
+        },
+        {
+          "title": "JRDN Summer Wine Series: Curated Selections",
+          "date": "2026-09-30",
+          "time": "18:00",
+          "description": "JRDN Summer Wine Series with a curated selection from Vineyard Brands. The importer/distributor format covers multiple wineries in one evening rather than a single producer focus: broader sweep, less depth per label. Good if variety is the priority."
+        },
+        {
+          "title": "JRDN Summer Wine Series: Staff Picks Finale",
+          "date": "2026-10-07",
+          "time": "18:00",
+          "description": "JRDN Summer Wine Series finale: the Tower23 wine team selects what they've been pouring all summer. The most informal session of the run: no winery representative, just the staff talking through what they liked. Good close to the series."
+        }
+      ],
+      "_activityCategories": [
+        "food"
+      ],
+      "_eventCount": 6
+    },
+    {
+      "slug": "the-collective",
+      "name": "The Collective",
+      "category": "Bar & Private Event Space",
+      "tagline": "San Diego's premier private event space in the heart of Pacific Beach",
+      "description": "The Collective is a bar and private event space on Garnet Ave in Pacific Beach, next door to and partnered with SD TapRoom, which supplies its beer and food. Most of the week it hosts birthdays, weddings, corporate events and fundraisers with bar or full catering service. It opens to the public Tuesday through Thursday for happy hour, Tuesday trivia, free Wednesday comedy and Thursday live music. 21+ and dog friendly.",
+      "logoUrl": "",
+      "website": "https://www.collective-sd.com/",
+      "phone": "(858) 241-6824",
+      "email": "events@collective-sd.com",
+      "instagram": "@collectivebar",
+      "facebook": "https://www.facebook.com/p/The-Collective-61554193464070",
+      "tiktok": "",
+      "address": "1261 Garnet Ave, San Diego, CA 92109",
+      "lat": 32.7982703,
+      "lng": -117.2467827,
+      "neighborhood": "Pacific Beach",
+      "hours": "Open to the public Tue-Thu 6pm-10pm; Happy Hour Tue-Thu 6pm-8pm; private events other days",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Collective Comedy Night",
+          "date": "2026-09-16",
+          "time": "19:00",
+          "description": "Free independent stand-up every Wednesday, produced with SD Dad Jokes. Seating at 6:30pm, show at 7pm, no cover (free tickets with optional VIP upgrades). 50% off bottles of wine all night, craft cocktails, and food from SD TapRoom. 21+, dog friendly."
+        },
+        {
+          "title": "Pocket Change Live at The Collective",
+          "date": "2026-09-17",
+          "time": "19:00",
+          "description": "Thursday night live music from Pocket Change, starting at 7pm. No cover. Happy hour runs 6pm to 8pm. 21+."
+        },
+        {
+          "title": "Trivia Night at The Collective",
+          "date": "2026-09-22",
+          "time": "19:00",
+          "description": "Free weekly trivia every Tuesday at 7pm, hosted by Sunset Trivia, during the 6pm to 8pm happy hour. 21+."
+        }
+      ],
+      "_activityCategories": [
+        "comedy",
+        "music",
+        "nightlife"
+      ],
+      "_eventCount": 3
+    },
+    {
+      "slug": "bar-ella-pacific-beach",
+      "name": "bar Ella Pacific Beach",
+      "category": "Cocktail Bar & Coastal Fusion Restaurant",
+      "tagline": "Coastal fusion with contemporary cocktails",
+      "description": "bar Ella is a cocktail bar and coastal fusion restaurant on Garnet Ave in Pacific Beach, pairing East Coast comfort with a West Coast beach vibe. It serves handcrafted cocktails and small plates at friendly prices, with happy hour Monday to Friday 4pm to 7pm and a nightly lineup: Monday oysters, Tuesday Aperol spritz and pasta, Wednesday Tinis & Weenies and Thursday sliders. Weekends bring bottomless mimosa brunch, and it regularly hosts board game nights, comedy shows and Girl Dinner tours. Dog friendly.",
+      "logoUrl": "",
+      "website": "https://barellapb.com/",
+      "phone": "(858) 808-2286",
+      "email": "info@barellapb.com",
+      "instagram": "@bar.ella.pb",
+      "facebook": "https://www.facebook.com/barellapb",
+      "tiktok": "",
+      "address": "1030 Garnet Ave, San Diego, CA 92109",
+      "lat": 32.7978071,
+      "lng": -117.2511921,
+      "neighborhood": "Pacific Beach",
+      "hours": "Mon-Thu 4pm-12am, Fri 4pm-2am, Sat 11am-2am, Sun 11am-12am; Happy Hour Mon-Fri 4pm-7pm; Brunch Sat-Sun 11am-2pm",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Tinis & Weenies at bar Ella",
+          "date": "2026-09-16",
+          "time": "18:00",
+          "description": "$8 martinis, $4 hot dogs and $39 weenie towers, every Wednesday from 6pm to close."
+        },
+        {
+          "title": "Slider Night at bar Ella",
+          "date": "2026-09-17",
+          "time": "18:00",
+          "description": "$6 à la carte sliders and $6 Surfside Hard Tea, every Thursday from 6pm to close."
+        },
+        {
+          "title": "Bottomless Brunch at bar Ella (Saturday)",
+          "date": "2026-09-19",
+          "time": "11:00",
+          "description": "Bottomless mimosa brunch every Saturday and Sunday, 11am to 2pm. It was $16 per person as of July; confirm current pricing."
+        },
+        {
+          "title": "Bottomless Brunch at bar Ella (Sunday)",
+          "date": "2026-09-20",
+          "time": "11:00",
+          "description": "Bottomless mimosa brunch every Saturday and Sunday, 11am to 2pm. It was $16 per person as of July; confirm current pricing."
+        },
+        {
+          "title": "Oyster Night at bar Ella",
+          "date": "2026-09-21",
+          "time": "18:00",
+          "description": "$1.50 oysters plus half-off wine bottles or $5 wine by the glass, every Monday from 6pm to close."
+        },
+        {
+          "title": "ASAP Night at bar Ella: Aperol Spritz & Pasta",
+          "date": "2026-09-22",
+          "time": "18:00",
+          "description": "$8 Aperol Spritzes and a $10 rotating pasta special, every Tuesday from 6pm to close."
+        },
+        {
+          "title": "Hoppy Dice Game Night at bar Ella",
+          "date": "2026-09-22",
+          "time": "18:00",
+          "description": "The Hoppy Dice board game night: board games with $8 spritzes and $10 pasta. Bring a friend or come solo to meet people. September's is moved to Tuesday 9/22 from its usual third Thursday."
+        },
+        {
+          "title": "Girl Dinner Tour at bar Ella",
+          "date": "2026-10-06",
+          "time": "18:30",
+          "description": "See You in SD's Girl Dinner Tour stops at bar Ella. Prepaid ticket covers Caesar salad and fries, a glass of rosé, zeppole for dessert, fees and 25% tip. Refunds up to 7 days before."
+        },
+        {
+          "title": "Hoppy Dice Game Night at bar Ella",
+          "date": "2026-10-15",
+          "time": "18:00",
+          "description": "The Hoppy Dice board game night: board games with $8 spritzes and $10 pasta. Bring a friend or come solo to meet people. Runs monthly on the third Thursday, 6pm to 9pm."
+        }
+      ],
+      "_activityCategories": [
+        "food",
+        "social"
+      ],
+      "_eventCount": 9
+    },
+    {
+      "slug": "the-duck-dive",
+      "name": "Duck Dive",
+      "category": "Neighborhood Bar & Restaurant",
+      "tagline": "Pacific Beach's OG neighborhood bar, 120 steps from the beach",
+      "description": "Duck Dive is a surf-inspired neighborhood bar and restaurant on Mission Blvd, open since 2012 and just 120 steps from the sand. It is known for award-winning battered fish tacos, a famous bottomless mimosa weekend brunch and Wednesday trivia with themed editions. Weekday happy hour runs 3pm to 6pm, with nightly specials from Burger & Beer Monday and Industry Night to Taco Tuesday and Old Fashioned Thursdays. It is also San Diego's Nebraska Huskers gameday home.",
+      "logoUrl": "",
+      "website": "https://www.theduckdive.com/",
+      "phone": "(858) 273-3825",
+      "email": "",
+      "instagram": "@theduckdive",
+      "facebook": "https://www.facebook.com/TheDuckDive/",
+      "tiktok": "",
+      "address": "4650 Mission Blvd, San Diego, CA 92109",
+      "lat": 32.7985453,
+      "lng": -117.2563273,
+      "neighborhood": "Pacific Beach",
+      "hours": "Mon-Thu 10am-11pm, Fri 10am-12am, Sat 9am-12am, Sun 9am-11pm; Happy Hour Mon-Fri 3pm-6pm",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Wine, Martini & Oyster Wednesday at Duck Dive",
+          "date": "2026-09-16",
+          "time": "18:00",
+          "description": "Half off bottles of wine and bubbles, plus martini and oyster specials, every Wednesday from 6pm to 10pm. Trivia starts at 8pm."
+        },
+        {
+          "title": "Wednesday Trivia at Duck Dive",
+          "date": "2026-09-16",
+          "time": "20:00",
+          "description": "Free weekly trivia every Wednesday at 8pm, one of PB's most consistent trivia nights. Grab free tickets on Eventbrite and call ahead to reserve so your team sits together. Themed editions run a few times a season."
+        },
+        {
+          "title": "Old Fashioned Thursdays at Duck Dive",
+          "date": "2026-09-17",
+          "time": "18:00",
+          "description": "$10 build-your-own Old Fashioneds and $10 wings, every Thursday from 6pm to close."
+        },
+        {
+          "title": "Bottomless Mimosa Brunch at Duck Dive (Saturday)",
+          "date": "2026-09-19",
+          "time": "09:00",
+          "description": "Duck Dive's famous weekend brunch with bottomless mimosas, from 9am open. End time and mimosa pricing are not published; check with the bar."
+        },
+        {
+          "title": "Huskers vs. North Dakota at Duck Dive",
+          "date": "2026-09-19",
+          "time": "16:15",
+          "description": "Nebraska vs. North Dakota, kickoff 4:15pm Pacific on BTN. Duck Dive is San Diego's Huskers gameday home with the San Diego Huskers fan club: $9 Red Beers, $10 Bloody Marys, $7 street corn and more gameday specials. Go Big Red."
+        },
+        {
+          "title": "Bottomless Mimosa Brunch at Duck Dive (Sunday)",
+          "date": "2026-09-20",
+          "time": "09:00",
+          "description": "Duck Dive's famous weekend brunch with bottomless mimosas, from 9am open. End time and mimosa pricing are not published; check with the bar."
+        },
+        {
+          "title": "Burger & Beer Monday at Duck Dive",
+          "date": "2026-09-21",
+          "time": "10:00",
+          "description": "$18 for any burger with any beer, every Monday."
+        },
+        {
+          "title": "Industry Night at Duck Dive",
+          "date": "2026-09-21",
+          "time": "19:00",
+          "description": "50% off bar tabs for hospitality industry workers, every Monday from 7pm to close."
+        },
+        {
+          "title": "Taco Tuesday at Duck Dive",
+          "date": "2026-09-22",
+          "time": "18:00",
+          "description": "Home of award-winning battered fish tacos. Every Tuesday from 6pm to close: $5 taco specials, $7 house margaritas, $7 tequila shots and $7 Pacifico."
+        },
+        {
+          "title": "Huskers at Michigan State at Duck Dive",
+          "date": "2026-09-26",
+          "time": "14:00",
+          "description": "Nebraska at Michigan State, kickoff 2pm Pacific on BTN. Duck Dive is San Diego's Huskers gameday home with the San Diego Huskers fan club: $9 Red Beers, $10 Bloody Marys, $7 street corn and more gameday specials. Go Big Red."
+        },
+        {
+          "title": "Vampire Diaries Trivia at Duck Dive",
+          "date": "2026-09-30",
+          "time": "20:00",
+          "description": "Supernatural themed trivia covering the Salvatores, the Originals, doppelgängers, spell books and every love triangle in Mystic Falls. 8pm start. Free tickets on Eventbrite; call ahead to reserve a table for your group."
+        },
+        {
+          "title": "Harry Potter Trivia at Duck Dive",
+          "date": "2026-10-28",
+          "time": "20:00",
+          "description": "Harry Potter themed trivia night, one of Duck Dive's most popular editions. 8pm start. Free tickets on Eventbrite; call ahead to reserve a table for your group."
+        },
+        {
+          "title": "Huskers at Illinois at Duck Dive",
+          "date": "2026-11-06",
+          "time": "17:00",
+          "description": "Nebraska at Illinois, kickoff 5pm Pacific on FOX. Duck Dive is San Diego's Huskers gameday home with the San Diego Huskers fan club: $9 Red Beers, $10 Bloody Marys, $7 street corn and more gameday specials. Go Big Red."
+        },
+        {
+          "title": "Friends Trivia at Duck Dive",
+          "date": "2026-11-18",
+          "time": "20:00",
+          "description": "Friends TV series themed trivia night. 8pm start. Free tickets on Eventbrite; call ahead to reserve a table for your group."
+        },
+        {
+          "title": "Huskers at Iowa at Duck Dive",
+          "date": "2026-11-27",
+          "time": "09:00",
+          "description": "Nebraska at Iowa, kickoff 9am Pacific on CBS. Duck Dive is San Diego's Huskers gameday home with the San Diego Huskers fan club: $9 Red Beers, $10 Bloody Marys, $7 street corn and more gameday specials. Go Big Red. Black Friday game with a 9am kickoff, before the usual 10am Friday open; confirm early doors."
+        }
+      ],
+      "_activityCategories": [
+        "food",
+        "nightlife",
+        "sports"
+      ],
+      "_eventCount": 15
+    },
+    {
+      "slug": "kate-sessions-memorial-park",
+      "name": "Kate Sessions Memorial Park",
+      "category": "Public Park",
+      "tagline": "79-acre hilltop park on Mount Soledad with sweeping Mission Bay views",
+      "description": "Kate Sessions Memorial Park is a 79-acre City of San Diego park at the base of Mount Soledad in Pacific Beach, offering panoramic views of Mission Bay and the coastline. It features walking trails, picnic areas, barbecues, open lawns, a playground, and restrooms. The park was dedicated in 1957 in honor of horticulturist Kate Sessions.",
+      "logoUrl": "",
+      "website": "",
+      "phone": "",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "5115 Soledad Rd, San Diego, CA 92109",
+      "lat": 32.8099,
+      "lng": -117.2368,
+      "neighborhood": "Pacific Beach",
+      "hours": "Open daily",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Yoga at Kate Sessions Park",
+          "date": "2026-09-05",
+          "time": "09:00",
+          "description": "Saturday morning outdoor yoga with Corie at Kate Sessions Memorial Park. The park sits above Pacific Beach with a bay view and a consistent sea breeze. Bring your own mat; starts promptly at 9. One of the better low-cost outdoor fitness options in PB."
+        },
+        {
+          "title": "Birth and Beyond Meet Up: Kate Sessions",
+          "date": "2026-09-12",
+          "time": "12:00",
+          "description": "Outdoor meet-up for new and expecting parents at Kate Sessions Memorial Park, hosted by doula Arri Towner. The park gives kids space to move and parents a place to sit and compare notes. The 'Southern Location' tag suggests there's a parallel northern meet-up running the same series."
+        },
+        {
+          "title": "Fall 2026 Group Coaching: Kate Sessions",
+          "date": "2026-10-01",
+          "time": "12:00",
+          "description": "Outdoor group coaching session at Kate Sessions Memorial Park with Better in Company. The outdoor setting is intentional: coaching in a park rather than an office or Zoom call. Small cohort format; register on Eventbrite before attending."
+        }
+      ],
+      "_activityCategories": [
+        "fitness",
+        "social",
+        "wellness"
+      ],
+      "_eventCount": 3
+    },
+    {
+      "slug": "smiling-buddha-bodywork",
+      "name": "Smiling Buddha Bodywork",
+      "category": "Acupuncture & Bodywork",
+      "tagline": "Asian-infused massage, acupuncture, and herbal medicine",
+      "description": "Smiling Buddha Bodywork is a San Diego wellness practice offering Asian-infused massage therapy alongside Traditional Chinese Medicine, including acupuncture and herbal medicine. Led by Licensed Acupuncturist Gary Williams, MSTOM, LAc, the studio operates by appointment only. It also hosts classes, workshops, and Reiki training events throughout the year.",
+      "logoUrl": "",
+      "website": "https://www.smilingbuddhabodywork.com",
+      "phone": "(619) 794-9078",
+      "email": "SmilingBuddhaSD@gmail.com",
+      "instagram": "@smilingbuddhasd",
+      "facebook": "https://www.facebook.com/SmilingBuddhaSD/",
+      "tiktok": "",
+      "address": "4501 Mission Bay Dr, Suite 2D, San Diego, CA 92109",
+      "lat": 32.7891,
+      "lng": -117.2326,
+      "neighborhood": "Pacific Beach",
+      "hours": "",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Reiki Level 2: Practitioner Training",
+          "date": "2026-09-11",
+          "time": "13:00",
+          "description": "Full-day Reiki Level 2 practitioner certification training with Smiling Buddha Bodywork at 4501 Mission Bay Dr. Covers distance healing techniques and the three Level 2 symbols. Requires prior Level 1 certification. Pre-registration required."
+        },
+        {
+          "title": "Wu Xing Reiki: Five Element Session",
+          "date": "2026-09-17",
+          "time": "15:30",
+          "description": "Five Element Reiki session with Smiling Buddha Bodywork at 4501 Mission Bay Dr. The Wu Xing framework maps energy to seasons, organs, and emotional states: a different orientation than standard Usui Reiki. Drop-in with pre-registration; afternoon session at 3:30."
+        },
+        {
+          "title": "Mabon Gathering: Autumn Equinox",
+          "date": "2026-09-20",
+          "time": "13:00",
+          "description": "Autumn equinox (Mabon) gathering at Smiling Buddha Bodywork. Seasonal ritual marking the second harvest: typically includes meditation, grounding exercises, and seasonal reflection. Small group, registration required."
+        }
+      ],
+      "_activityCategories": [
+        "wellness"
+      ],
+      "_eventCount": 3
+    },
+    {
+      "slug": "riptides-pb",
+      "name": "Riptides PB",
+      "category": "Sports Bar & Restaurant",
+      "tagline": "PB's family-friendly surf-bungalow sports bar",
+      "description": "Riptides PB is a family-friendly sports bar and restaurant with a Southern California surf-bungalow theme, serving casual American food with a Caribbean influence. It features around 20 TVs, pool tables, live music, and DJs, and is known for showing UFC events. Note: Riptides is at 1014 Grand Ave, San Diego, CA 92109, a distinct business from 710 Beach Club.",
+      "logoUrl": "",
+      "website": "http://riptidespb.com/",
+      "phone": "(858) 999-0061",
+      "email": "",
+      "instagram": "",
+      "facebook": "https://www.facebook.com/RiptidesPB/",
+      "tiktok": "",
+      "address": "710 Garnet Ave, San Diego, CA 92109",
+      "lat": 32.7965224,
+      "lng": -117.2564935,
+      "neighborhood": "Pacific Beach",
+      "hours": "Mon-Fri 11am-2am, Sat-Sun 10am-2am",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "PB Experience Party Pass: 5+ Clubs",
+          "date": "2026-09-04",
+          "time": "21:00",
+          "description": "Weekly Friday night party pass covering 5+ clubs in Pacific Beach, produced by Levinson Group and San Diego Crawls. Starts at Riptides at 9pm; wristband gets you into participating venues through the night. A commercial crawl product that runs rain or shine; check their Eventbrite for the current price and club lineup."
+        },
+        {
+          "title": "PB Party Pass: Party With Us",
+          "date": "2026-09-04",
+          "time": "21:00",
+          "description": "Friday night Pacific Beach party pass from Certified Baddie Entertainment, starting at Riptides PB at 9pm. Same starting venue and time as the Levinson Group crawl, but a different commercial product with a different club lineup. Check their Eventbrite for the current venue list and ticket price."
+        },
+        {
+          "title": "NYE PB Experience Crawl",
+          "date": "2026-12-31",
+          "time": "20:00",
+          "description": "Levinson Group's New Year's Eve Pacific Beach experience crawl, starting at Riptides PB at 8pm. Multi-venue wristband through the NYE night. One of the commercial crawl operators who runs PB every weekend scaling up for NYE. Check their Eventbrite well in advance; NYE inventory sells fast."
+        }
+      ],
+      "_activityCategories": [
+        "nightlife"
+      ],
+      "_eventCount": 3
+    },
+    {
+      "slug": "fitness-quest-10-pacific-beach",
+      "name": "Fitness Quest 10 Pacific Beach",
+      "category": "Gym & Personal Training",
+      "tagline": "Transforming body, mind, and spirit through health and wellness",
+      "description": "Fitness Quest 10 is a San Diego personal training and group fitness company, with its Pacific Beach location at 875 Garnet Ave. The studio offers personal training, small-group classes, and functional strength coaching for all fitness levels. It is part of the larger Fitness Quest 10 organization founded by Todd Durkin.",
+      "logoUrl": "",
+      "website": "https://fitnessquest10.com",
+      "phone": "(858) 282-8096",
+      "email": "",
+      "instagram": "@fitnessquest10",
+      "facebook": "https://www.facebook.com/FitnessQuest10/",
+      "tiktok": "",
+      "address": "875 Garnet Ave, San Diego, CA 92109",
+      "lat": 32.7966085,
+      "lng": -117.2539648,
+      "neighborhood": "Pacific Beach",
+      "hours": "Mon-Fri 6am-6pm, Sat 8am-11am, Sun 9am-11am",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "House & HYROX at Fitness Quest 10",
+          "date": "2026-09-04",
+          "time": "19:00",
+          "description": "Friday night hybrid fitness event at Fitness Quest 10 Pacific Beach: a HYROX-style workout circuit set to a house music DJ set. High intensity, social, and loud. Bring water; the energy matches the playlist."
+        },
+        {
+          "title": "HYROX Full Simulation at Fitness Quest 10",
+          "date": "2026-09-13",
+          "time": "08:00",
+          "description": "Full HYROX race simulation at Fitness Quest 10 Pacific Beach: eight functional fitness stations with the running segments between them. A complete rehearsal of the official race format. Entry via Eventbrite; spaces are capped. 8am start."
+        }
+      ],
+      "_activityCategories": [
+        "fitness"
+      ],
+      "_eventCount": 2
+    },
+    {
+      "slug": "sd-taproom",
+      "name": "SD TapRoom",
+      "category": "Craft Beer Bar & Restaurant",
+      "tagline": "Serving local craft beer and gastro-fare since 2006",
+      "description": "SD TapRoom is a Pacific Beach craft beer bar and pizza restaurant opened in 2006, six blocks from the beach, with a sister brewery in North Park. It pours a deep San Diego craft tap list plus 75+ specialty bottles and serves pizza, burgers and tacos for dine-in or delivery across PB and Mission Beach. The large dog-friendly patio hosts weekend bottomless mimosa brunch, and it is the official home of the SD Detroit Lions Fan Club and the SD Seminole Club on game days.",
+      "logoUrl": "",
+      "website": "https://www.sdtaproom.com",
+      "phone": "(858) 274-1010",
+      "email": "mgmt@sdtaproom.com",
+      "instagram": "@sdtaproom",
+      "facebook": "https://www.facebook.com/SDTapRoom/",
+      "tiktok": "",
+      "address": "1269 Garnet Ave, San Diego, CA 92109",
+      "lat": 32.7983033,
+      "lng": -117.2466471,
+      "neighborhood": "Pacific Beach",
+      "hours": "Mon-Thu 10:30am-11pm, Fri-Sat 10am-12am, Sun 10am-9pm; Happy Hour Mon-Fri 3pm-6pm",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Wine Wednesday at SD TapRoom",
+          "date": "2026-09-16",
+          "time": "10:30",
+          "description": "Half off all wine bottles, all day every Wednesday."
+        },
+        {
+          "title": "Star Wars Trivia at SD TapRoom",
+          "date": "2026-09-16",
+          "time": "19:00",
+          "description": "Star Wars themed trivia night. Costumes encouraged, and the bar is pouring a specialty Yoda Soda for the night."
+        },
+        {
+          "title": "Detroit Lions at Bills Watch Party at SD TapRoom",
+          "date": "2026-09-17",
+          "time": "17:15",
+          "description": "Lions at Bills, kickoff 5:15pm Pacific on Prime Video. SD TapRoom is the official Den of the SD Detroit Lions Fan Club. The club confirms each watch party on @sddetroitlions, so check before primetime games."
+        },
+        {
+          "title": "Bottomless Mimosa Brunch at SD TapRoom (Saturday)",
+          "date": "2026-09-19",
+          "time": "10:00",
+          "description": "Beer garden brunch 10am to 1pm on Saturdays and Sundays with bottomless mimosas, mimosa flights, Bloody Marys, cold brew mudslides and sangria, plus French toast, chilaquiles and acai bowls. Large parties welcome, no reservation needed, dog-friendly patio."
+        },
+        {
+          "title": "Florida State at Alabama Watch Party at SD TapRoom",
+          "date": "2026-09-19",
+          "time": "12:30",
+          "description": "Florida State at Alabama, kickoff 12:30pm Pacific. SD TapRoom is the main San Diego watch site for the SD Seminole Club, on the indoor big screen. Arrive early for seats; the club confirms each game on @sdnoles."
+        },
+        {
+          "title": "Bottomless Mimosa Brunch at SD TapRoom (Sunday)",
+          "date": "2026-09-20",
+          "time": "10:00",
+          "description": "Beer garden brunch 10am to 1pm on Saturdays and Sundays with bottomless mimosas, mimosa flights, Bloody Marys, cold brew mudslides and sangria, plus French toast, chilaquiles and acai bowls. Large parties welcome, no reservation needed, dog-friendly patio."
+        },
+        {
+          "title": "Burger & Specialty Bottle Mondays at SD TapRoom",
+          "date": "2026-09-21",
+          "time": "10:30",
+          "description": "All day every Monday: $3 off Kobe beef burgers and 15% off 75+ specialty bottles, including lambic sours, rare barrel-aged beers and imports."
+        },
+        {
+          "title": "Monday Night Trivia at SD TapRoom",
+          "date": "2026-09-21",
+          "time": "19:00",
+          "description": "Weekly trivia hosted by Sunset Trivia at 7pm. Teams compete for prizes and brewery swag. Pairs with $3 off burgers all day Monday."
+        },
+        {
+          "title": "Taps & Wings Tuesday at SD TapRoom",
+          "date": "2026-09-22",
+          "time": "18:00",
+          "description": "$5 select taps and $5 wings every Tuesday from 6pm to close."
+        },
+        {
+          "title": "Florida State vs. Central Arkansas Watch Party at SD TapRoom",
+          "date": "2026-09-26",
+          "time": "12:00",
+          "description": "Florida State vs. Central Arkansas, kickoff 12pm Pacific. SD TapRoom is the main San Diego watch site for the SD Seminole Club, on the indoor big screen. Arrive early for seats; the club confirms each game on @sdnoles."
+        },
+        {
+          "title": "Detroit Lions vs. Jets Watch Party at SD TapRoom",
+          "date": "2026-09-27",
+          "time": "10:00",
+          "description": "Lions vs. Jets, kickoff 10am Pacific on FOX. SD TapRoom is the official Den of the SD Detroit Lions Fan Club. The club confirms each watch party on @sddetroitlions, so check before primetime games."
+        },
+        {
+          "title": "Detroit Lions at Panthers Watch Party at SD TapRoom",
+          "date": "2026-10-04",
+          "time": "17:20",
+          "description": "Lions at Panthers, kickoff 5:20pm Pacific on NBC. SD TapRoom is the official Den of the SD Detroit Lions Fan Club. The club confirms each watch party on @sddetroitlions, so check before primetime games."
+        },
+        {
+          "title": "Florida State at Louisville Watch Party at SD TapRoom",
+          "date": "2026-10-09",
+          "time": "16:00",
+          "description": "Florida State at Louisville, kickoff 4pm Pacific. SD TapRoom is the main San Diego watch site for the SD Seminole Club, on the indoor big screen. Arrive early for seats; the club confirms each game on @sdnoles."
+        },
+        {
+          "title": "Detroit Lions at Cardinals Watch Party at SD TapRoom",
+          "date": "2026-10-11",
+          "time": "13:25",
+          "description": "Lions at Cardinals, kickoff 1:25pm Pacific on FOX. SD TapRoom is the official Den of the SD Detroit Lions Fan Club. The club confirms each watch party on @sddetroitlions, so check before primetime games."
+        },
+        {
+          "title": "Detroit Lions vs. Packers Watch Party at SD TapRoom",
+          "date": "2026-10-25",
+          "time": "13:25",
+          "description": "Lions vs. Packers, kickoff 1:25pm Pacific on FOX. SD TapRoom is the official Den of the SD Detroit Lions Fan Club. The club confirms each watch party on @sddetroitlions, so check before primetime games."
+        },
+        {
+          "title": "Detroit Lions vs. Vikings Watch Party at SD TapRoom",
+          "date": "2026-11-01",
+          "time": "10:00",
+          "description": "Lions vs. Vikings, kickoff 10am Pacific on FOX. SD TapRoom is the official Den of the SD Detroit Lions Fan Club. The club confirms each watch party on @sddetroitlions, so check before primetime games."
+        },
+        {
+          "title": "Detroit Lions at Dolphins Watch Party at SD TapRoom",
+          "date": "2026-11-08",
+          "time": "10:00",
+          "description": "Lions at Dolphins, kickoff 10am Pacific on FOX. SD TapRoom is the official Den of the SD Detroit Lions Fan Club. The club confirms each watch party on @sddetroitlions, so check before primetime games."
+        },
+        {
+          "title": "Florida State at Pitt Watch Party at SD TapRoom",
+          "date": "2026-11-13",
+          "time": "16:00",
+          "description": "Florida State at Pitt, kickoff 4pm Pacific. SD TapRoom is the main San Diego watch site for the SD Seminole Club, on the indoor big screen. Arrive early for seats; the club confirms each game on @sdnoles."
+        },
+        {
+          "title": "Detroit Lions vs. Patriots Watch Party at SD TapRoom",
+          "date": "2026-11-15",
+          "time": "06:30",
+          "description": "Lions vs. Patriots, kickoff 6:30am Pacific on FOX. SD TapRoom is the official Den of the SD Detroit Lions Fan Club. The club confirms each watch party on @sddetroitlions, so check before primetime games. Played in Munich with a 6:30am Pacific kickoff, before TapRoom's usual 10am Sunday open; confirm early opening. Patriots fans will be at Sandbox Pizza down Garnet."
+        },
+        {
+          "title": "Detroit Lions vs. Buccaneers Watch Party at SD TapRoom",
+          "date": "2026-11-22",
+          "time": "10:00",
+          "description": "Lions vs. Buccaneers, kickoff 10am Pacific on CBS. SD TapRoom is the official Den of the SD Detroit Lions Fan Club. The club confirms each watch party on @sddetroitlions, so check before primetime games."
+        },
+        {
+          "title": "Detroit Lions vs. Bears Watch Party at SD TapRoom",
+          "date": "2026-11-26",
+          "time": "10:00",
+          "description": "Lions vs. Bears, kickoff 10am Pacific on CBS. SD TapRoom is the official Den of the SD Detroit Lions Fan Club. The club confirms each watch party on @sddetroitlions, so check before primetime games. Thanksgiving Day game."
+        },
+        {
+          "title": "Florida State vs. Florida Watch Party at SD TapRoom",
+          "date": "2026-11-27",
+          "time": "12:30",
+          "description": "Florida State vs. Florida, kickoff 12:30pm Pacific. SD TapRoom is the main San Diego watch site for the SD Seminole Club, on the indoor big screen. Arrive early for seats; the club confirms each game on @sdnoles."
+        },
+        {
+          "title": "Detroit Lions at Falcons Watch Party at SD TapRoom",
+          "date": "2026-12-06",
+          "time": "10:00",
+          "description": "Lions at Falcons, kickoff 10am Pacific on CBS. SD TapRoom is the official Den of the SD Detroit Lions Fan Club. The club confirms each watch party on @sddetroitlions, so check before primetime games."
+        },
+        {
+          "title": "Detroit Lions vs. Titans Watch Party at SD TapRoom",
+          "date": "2026-12-13",
+          "time": "10:00",
+          "description": "Lions vs. Titans, kickoff 10am Pacific on FOX. SD TapRoom is the official Den of the SD Detroit Lions Fan Club. The club confirms each watch party on @sddetroitlions, so check before primetime games."
+        },
+        {
+          "title": "Detroit Lions at Vikings Watch Party at SD TapRoom",
+          "date": "2026-12-20",
+          "time": "17:20",
+          "description": "Lions at Vikings, kickoff 5:20pm Pacific on NBC. SD TapRoom is the official Den of the SD Detroit Lions Fan Club. The club confirms each watch party on @sddetroitlions, so check before primetime games."
+        },
+        {
+          "title": "Detroit Lions vs. Giants Watch Party at SD TapRoom",
+          "date": "2026-12-28",
+          "time": "17:15",
+          "description": "Lions vs. Giants, kickoff 5:15pm Pacific on ESPN. SD TapRoom is the official Den of the SD Detroit Lions Fan Club. The club confirms each watch party on @sddetroitlions, so check before primetime games."
+        },
+        {
+          "title": "Detroit Lions at Bears Watch Party at SD TapRoom",
+          "date": "2027-01-03",
+          "time": "13:25",
+          "description": "Lions at Bears, kickoff 1:25pm Pacific on FOX. SD TapRoom is the official Den of the SD Detroit Lions Fan Club. The club confirms each watch party on @sddetroitlions, so check before primetime games."
+        }
+      ],
+      "_activityCategories": [
+        "food",
+        "nightlife",
+        "sports"
+      ],
+      "_eventCount": 27
+    },
+    {
+      "slug": "crown-point-park",
+      "name": "Crown Point Park",
+      "category": "Public Park",
+      "tagline": "Bayside park and shores on the north side of Mission Bay",
+      "description": "Crown Point Park (Crown Point Shores) sits on the north side of Mission Bay in Pacific Beach, with grassy lawns, picnic tables, and a sandy beach. Amenities include a playground, basketball courts, a boat launch, and multiple parking lots. It is a popular spot for kayaking, paddleboarding, swimming, and picnicking.",
+      "logoUrl": "",
+      "website": "https://www.sandiego.gov/park-and-recreation/parks/regional/missionbay",
+      "phone": "",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "3700 Crown Point Dr, San Diego, CA 92109",
+      "lat": 32.792,
+      "lng": -117.236,
+      "neighborhood": "Pacific Beach",
+      "hours": "Open daily",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Christ Center Bonfires at Crown Point",
+          "date": "2026-09-06",
+          "time": "18:00",
+          "description": "Sunday evening community bonfires on Crown Point Drive, hosted by Karen Rangel for the Christ Center. Testimonies, worship, potluck, and open fellowship around the fire pit on Mission Bay. Bring something for the potluck if you're coming."
+        },
+        {
+          "title": "Pacific Beach Half Marathon",
+          "date": "2026-10-04",
+          "time": "07:00",
+          "description": "Point-to-point half marathon starting at Crown Point Park in Mission Bay and finishing on the sand where Thomas Ave meets the boardwalk. The course runs the waterfront past SeaWorld, Hospitality Point, the West Mission Bay Drive bridge and Mission Beach. Race two of a three-race San Diego series. START TIME IS AN ESTIMATE: confirm with San Diego Running Co before the event."
+        }
+      ],
+      "_activityCategories": [
+        "social",
+        "sports"
+      ],
+      "_eventCount": 2
+    },
+    {
+      "slug": "tavern-at-the-beach",
+      "name": "Tavern at the Beach",
+      "category": "Sports Bar & Restaurant",
+      "tagline": "Great Food. Stiff Drinks. Late Nights.",
+      "description": "Tavern at the Beach has been a Pacific Beach bar and restaurant on Garnet Ave since 1997, known for one of the best happy hours in PB. It runs as a sports bar by day with 40+ TVs and game sound on, and a DJ-driven late-night spot after dark. The kitchen serves elevated comfort food, with weekly Wednesday trivia and fajitas, NFL Sunday, Monday and Thursday specials, UFC fight nights, Arizona Wildcats watch parties and private events with keg and bottle service.",
+      "logoUrl": "",
+      "website": "https://tavernatthebeach.com",
+      "phone": "(858) 272-6066",
+      "email": "meg@tavernatthebeach.com",
+      "instagram": "@tavernpb",
+      "facebook": "https://www.facebook.com/TavernPacificBeach",
+      "tiktok": "",
+      "address": "1200 Garnet Ave, San Diego, CA 92109",
+      "lat": 32.7984835,
+      "lng": -117.2480883,
+      "neighborhood": "Pacific Beach",
+      "hours": "Mon-Fri 2pm-2am, Sat 12pm-2am, Sun 11am-2am (opens 9:30am on NFL Sundays; hours shift for holidays and sports); Happy Hour Mon-Fri from 2pm",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Wednesday Fajita Night at Tavern",
+          "date": "2026-09-16",
+          "time": "18:00",
+          "description": "Fajitas every Wednesday from 6pm to 10pm, overlapping with happy hour (until 7pm) and trivia (7pm to 9pm). $5 Espolón and $15 Coronita buckets run from 7pm to close. 21+."
+        },
+        {
+          "title": "Wednesday Trivia at Tavern at the Beach",
+          "date": "2026-09-16",
+          "time": "19:00",
+          "description": "Free weekly trivia hosted by Sunset Trivia, 7pm to 9pm. Part of Tavern's Wednesday lineup: happy hour 2pm to 7pm, fajitas 6pm to 10pm, and $5 Espolón shots plus $15 Coronita buckets from 7pm to close. 21+."
+        },
+        {
+          "title": "Thursday Night Football at Tavern",
+          "date": "2026-09-17",
+          "time": "17:00",
+          "description": "Every Thursday NFL game on 40+ TVs with the game sound on. Happy hour until 6pm, then NFL food and drink specials all game long. Kickoff is usually around 5:15pm to 5:35pm Pacific; check the week's schedule. Runs through the NFL regular season."
+        },
+        {
+          "title": "National Burger Day: Tavern x Big Jim's Roast Beef",
+          "date": "2026-09-18",
+          "time": "14:00",
+          "description": "One-day collab burger for National Burger Day: a Tavern burger stacked with Big Jim's roast beef, cheddar sauce and BBQ ranch, served with BBQ curly fries. Available from 2pm until they sell out."
+        },
+        {
+          "title": "Arizona Wildcats vs. Northern Illinois at Tavern",
+          "date": "2026-09-19",
+          "time": "19:30",
+          "description": "Arizona Wildcats vs. Northern Illinois, kickoff 7:30pm Pacific on TNT Sports. Tavern shows U of A football with the game sound on across 40+ TVs and food and drink specials all game long. Bear Down."
+        },
+        {
+          "title": "Sunday Football at Tavern",
+          "date": "2026-09-20",
+          "time": "09:30",
+          "description": "Every NFL game every Sunday on 40+ TVs with the sound on. Doors open 9:30am. Food and drink specials, raffles, prizes and giveaways all day. Runs through the NFL regular season. 21+."
+        },
+        {
+          "title": "Monday Night Football at Tavern",
+          "date": "2026-09-21",
+          "time": "17:00",
+          "description": "Monday Night Football on 40+ TVs with the game sound on. Happy hour until 6pm, then $6 draft beers, burger specials, Teremana and Jägermeister. Play Football Bingo for a chance at a $25 Tavern gift card. Kickoff times vary by week."
+        },
+        {
+          "title": "Tavern's 29th Anniversary: 90s Throwback Party",
+          "date": "2026-09-23",
+          "time": "21:00",
+          "description": "Tavern at the Beach turns 29 and is partying like it's 1997, the year it opened. 90s dress-up encouraged (tiny sunglasses, low-rise denim). Happy hour runs 9pm to close. Trivia and fajitas still run earlier in the evening. 21+."
+        },
+        {
+          "title": "Arizona Wildcats at Washington State at Tavern",
+          "date": "2026-09-26",
+          "time": "16:30",
+          "description": "Arizona Wildcats at Washington State, kickoff 4:30pm Pacific on CBS. Tavern shows U of A football with the game sound on across 40+ TVs and food and drink specials all game long. Bear Down."
+        },
+        {
+          "title": "Arizona Wildcats vs. TCU at Tavern",
+          "date": "2026-11-06",
+          "time": "19:15",
+          "description": "Arizona Wildcats vs. TCU, kickoff 7:15pm Pacific on ESPN+. Tavern shows U of A football with the game sound on across 40+ TVs and food and drink specials all game long. Bear Down."
+        }
+      ],
+      "_activityCategories": [
+        "food",
+        "nightlife",
+        "sports"
+      ],
+      "_eventCount": 10
+    },
+    {
+      "slug": "pacific-beach-tennis-club",
+      "name": "Pacific Beach Tennis Club",
+      "category": "Tennis Club",
+      "tagline": "Tennis and pickleball in the heart of Pacific Beach",
+      "description": "Pacific Beach Tennis Club (PBTC) is a tennis and pickleball club in Pacific Beach, San Diego. It features 8 well-lit, well-maintained courts, a ball machine, competitive league play, and professional instructors. The club hosts a variety of events, clinics, and mixers.",
+      "logoUrl": "",
+      "website": "https://www.pbtennis.com",
+      "phone": "(858) 273-9177",
+      "email": "manager@pbtennis.com",
+      "instagram": "@pb_tennisclub",
+      "facebook": "https://www.facebook.com/PBTennisClub",
+      "tiktok": "",
+      "address": "2639 Grand Ave, San Diego, CA 92109",
+      "lat": 32.8024,
+      "lng": -117.2403,
+      "neighborhood": "Pacific Beach",
+      "hours": "Mon-Fri 8am-9pm; Sat-Sun 8am-7:30pm",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Pickleball at Pacific Beach Tennis Club",
+          "date": "2026-09-15",
+          "time": "18:30",
+          "description": "Tuesday evening pickleball at Pacific Beach Tennis Club, organized by Isabell Faulds. Social rather than competitive: pickup game format. Check the Eventbrite for current pricing and whether paddles are provided."
+        },
+        {
+          "title": "Glam Slam Tennis Social",
+          "date": "2026-09-20",
+          "time": "16:00",
+          "description": "Recreational tennis social from Coastal Court Society at Pacific Beach Tennis Club. The Glam Slam format is about social play and connecting with other recreational players, not a tournament. Bring your racket; court fees may apply."
+        }
+      ],
+      "_activityCategories": [
+        "sports"
+      ],
+      "_eventCount": 2
+    },
+    {
+      "slug": "ritual-wellness-collective",
+      "name": "Ritual Wellness Collective",
+      "category": "Yoga & Wellness Studio",
+      "tagline": "A space for your wellness journey",
+      "description": "Ritual Wellness Collective is a breathwork, yoga, and meditation studio in Pacific Beach at 3510 Ingraham St, Suite 200. The women-owned and Latino-owned studio offers group classes, private sessions, and curated wellness events. Programming spans Kundalini and Vinyasa yoga, Yin, Reiki, sound baths, and structured breathwork.",
+      "logoUrl": "",
+      "website": "https://www.sdritualwellness.com",
+      "phone": "(619) 637-3077",
+      "email": "",
+      "instagram": "@ritualwellnesscollective",
+      "facebook": "",
+      "tiktok": "",
+      "address": "3510 Ingraham St, San Diego, CA 92109",
+      "lat": 32.7965,
+      "lng": -117.2288,
+      "neighborhood": "Pacific Beach",
+      "hours": "",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Psychedelic Breathwork: Ritual Wellness",
+          "date": "2026-09-19",
+          "time": "17:45",
+          "description": "Guided psychedelic breathwork session with Ritual Wellness Collective at 3510 Ingraham St. Uses holotropic-style breathing to produce altered states without substances. Eye mask, music, facilitated integration session afterward. Pre-registration required; spaces are limited."
+        },
+        {
+          "title": "Sunday Ritual: Ritual Wellness Collective",
+          "date": "2026-10-04",
+          "time": "11:00",
+          "description": "Sunday morning wellness gathering from Ritual Wellness Collective at 3510 Ingraham St. Format varies by week: could be a breathwork session, sound bath, or guided meditation. Check their current Eventbrite listing for the specific format before going."
+        }
+      ],
+      "_activityCategories": [
+        "wellness"
+      ],
+      "_eventCount": 2
+    },
+    {
+      "slug": "pacific-beach-boardwalk",
+      "name": "Pacific Beach Boardwalk",
+      "category": "Public Park",
+      "tagline": "Beachfront path along Pacific Beach's Ocean Front Walk",
+      "description": "The Pacific Beach Boardwalk, officially the Ocean Front Walk, is a flat concrete pathway running along the coastline from North Pacific Beach toward Mission Beach. It is a popular route for walking, running, biking, skateboarding, and rollerblading, lined with bars, restaurants, and shops. The busiest stretch is near Garnet Avenue and Crystal Pier.",
+      "logoUrl": "",
+      "website": "",
+      "phone": "",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "Ocean Front Walk & Garnet Ave, San Diego, CA 92109",
+      "lat": 32.7972,
+      "lng": -117.2556,
+      "neighborhood": "Pacific Beach",
+      "hours": "Open daily",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Pacific Beachfest",
+          "date": "2026-10-03",
+          "time": "09:00",
+          "description": "The neighborhood's largest annual event: a free family festival along the boardwalk with live music, local vendors, a kids zone, and community activities. Runs 9am-7pm. The Pacific Beach 5K runs on the sand and boardwalk as part of the same day."
+        },
+        {
+          "title": "Pacific Beach 5K",
+          "date": "2026-10-03",
+          "time": "08:00",
+          "description": "The 5K half of the Pacific Beach race weekend, run as part of Beachfest. The course is roughly half sand and half boardwalk, starting and finishing on the beach: an unusual surface mix that makes it slower than a road 5K. START TIME IS AN ESTIMATE: confirm with San Diego Running Co before the event."
+        }
+      ],
+      "_activityCategories": [
+        "event",
+        "sports"
+      ],
+      "_eventCount": 2
+    },
+    {
+      "slug": "710-beach-club",
+      "name": "710 Beach Club",
+      "category": "Live Music Venue & Bar",
+      "tagline": "Pacific Beach's longest-running live music venue",
+      "description": "710 Beach Club is a breezy beachside bar, restaurant and concert stage at the foot of Garnet Ave, a fixture of PB nightlife since 1989. It books local bands on Saturdays, runs Wednesday open mic, Tuesday trivia and karaoke four nights a week, and serves a late-night menu daily from 8pm to 11pm. Daily deals include $10 lunches, Taco Tuesday and Friday happy hour, and weekend brunch brings $25 bottomless mimosas and frozen slushies. The dog-friendly patio overlooks the boardwalk; 21+ at night.",
+      "logoUrl": "",
+      "website": "https://www.710bc.com/",
+      "phone": "(858) 483-7844",
+      "email": "",
+      "instagram": "@710beachclub",
+      "facebook": "https://www.facebook.com/710beachclubpb/",
+      "tiktok": "",
+      "address": "710 Garnet Ave, San Diego, CA 92109",
+      "lat": 32.7965224,
+      "lng": -117.2564935,
+      "neighborhood": "Pacific Beach",
+      "hours": "Mon-Fri 11:30am-2am, Sat-Sun 10am-2am; late-night menu daily 8pm-11pm; brunch Sat-Sun 10am-2:30pm",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Wednesday at 710 Beach Club: $10 Tenders & Half-Off Whiskey",
+          "date": "2026-09-16",
+          "time": "11:30",
+          "description": "$10 chicken tenders all day, $10 lunch menu 11:30am to 2pm, and 50% off select whiskey until 8pm. Industry Night from 8pm."
+        },
+        {
+          "title": "Open Mic Night at 710 Beach Club",
+          "date": "2026-09-16",
+          "time": "19:00",
+          "description": "Weekly Wednesday open mic: sign-ups at 6:30pm, show starts at 7pm. 710's Instagram also bills Wednesdays as a live band night. 21+."
+        },
+        {
+          "title": "Thursday at 710 Beach Club: $10 Spicy Chicken Sando",
+          "date": "2026-09-17",
+          "time": "11:30",
+          "description": "$10 spicy chicken sandwich all day, $10 lunch menu 11:30am to 2pm, and $7.10 bottled and draft beers and wine until 8pm. Karaoke at 8pm."
+        },
+        {
+          "title": "Karaoke Night at 710 Beach Club (Thursday)",
+          "date": "2026-09-17",
+          "time": "20:00",
+          "description": "Karaoke at 8pm every Tuesday, Thursday, Friday and Sunday at one of PB's favorite karaoke stages; this entry covers Thursdays. Late-night menu 8pm to 11pm. 21+."
+        },
+        {
+          "title": "Karaoke Night at 710 Beach Club (Friday)",
+          "date": "2026-09-18",
+          "time": "20:00",
+          "description": "Karaoke at 8pm every Tuesday, Thursday, Friday and Sunday at one of PB's favorite karaoke stages; this entry covers Fridays. Late-night menu 8pm to 11pm. 21+."
+        },
+        {
+          "title": "Bottomless Brunch at 710 Beach Club (Saturday)",
+          "date": "2026-09-19",
+          "time": "10:00",
+          "description": "Weekend brunch 10am to 2:30pm with $25 bottomless mimosas, a $16 frozen slushie flight, the $19 Colossal Bloody and breakfast burritos, overlooking the boardwalk."
+        },
+        {
+          "title": "Live Music: Kassette at 710 Beach Club",
+          "date": "2026-09-19",
+          "time": "21:00",
+          "description": "Local live act making waves in San Diego's music scene. Saturday live bands start at 9pm on 710's stage. 21+."
+        },
+        {
+          "title": "Bottomless Brunch at 710 Beach Club (Sunday)",
+          "date": "2026-09-20",
+          "time": "10:00",
+          "description": "Weekend brunch 10am to 2:30pm with $25 bottomless mimosas, a $16 frozen slushie flight, the $19 Colossal Bloody and breakfast burritos, overlooking the boardwalk."
+        },
+        {
+          "title": "Karaoke Night at 710 Beach Club (Sunday)",
+          "date": "2026-09-20",
+          "time": "20:00",
+          "description": "Karaoke at 8pm every Tuesday, Thursday, Friday and Sunday at one of PB's favorite karaoke stages; this entry covers Sundays. Late-night menu 8pm to 11pm. 21+."
+        },
+        {
+          "title": "Monday at 710 Beach Club: $10 Pizzas & $7.10 Drinks",
+          "date": "2026-09-21",
+          "time": "11:30",
+          "description": "$10 cheese pizzas all day and night, $10 lunch menu 11:30am to 2pm, and $7.10 well liquor, bottled and draft beers until 8pm. Industry Night from 8pm with the late-night menu until 11pm."
+        },
+        {
+          "title": "Taco Tuesday at 710 Beach Club",
+          "date": "2026-09-22",
+          "time": "11:30",
+          "description": "Any 2 tacos for $10 and $7.10 margaritas, plus the $10 lunch menu 11:30am to 2pm. Trivia at 7pm, karaoke at 8pm."
+        },
+        {
+          "title": "Tuesday Trivia at 710 Beach Club",
+          "date": "2026-09-22",
+          "time": "19:00",
+          "description": "Weekly trivia night at 7pm on the boardwalk end of Garnet, with Taco Tuesday specials ($10 for any 2 tacos, $7.10 margaritas). Karaoke follows at 8pm."
+        },
+        {
+          "title": "Karaoke Night at 710 Beach Club (Tuesday)",
+          "date": "2026-09-22",
+          "time": "20:00",
+          "description": "Karaoke at 8pm every Tuesday, Thursday, Friday and Sunday at one of PB's favorite karaoke stages; this entry covers Tuesdays. Late-night menu 8pm to 11pm. 21+."
+        },
+        {
+          "title": "Live Music: The Kumbayas, The Neighbors & Audrey at 710 Beach Club",
+          "date": "2026-09-26",
+          "time": "21:00",
+          "description": "A three-band bill: The Neighbors bring punk influenced by Black Flag, Circle Jerks and the Sex Pistols, and Audrey is known for dynamic vocals and engaging live sets. Saturday live bands start at 9pm on 710's stage. 21+."
+        },
+        {
+          "title": "Live Music: PandEMOnium, Misery Loves Company, SAD & No Hard Feelings at 710 Beach Club",
+          "date": "2026-10-03",
+          "time": "21:00",
+          "description": "An emo and pop-punk nostalgia night built on heartbreak and raw emotion. Saturday live bands start at 9pm on 710's stage. 21+."
+        },
+        {
+          "title": "Live Music: Elyse Band & Sonafire at 710 Beach Club",
+          "date": "2026-10-10",
+          "time": "21:00",
+          "description": "Live rock double bill; Sonafire brings melodic songwriting and a live rock sound. Saturday live bands start at 9pm on 710's stage. 21+."
+        }
+      ],
+      "_activityCategories": [
+        "food",
+        "music",
+        "nightlife"
+      ],
+      "_eventCount": 16
+    },
+    {
+      "slug": "pueblo",
+      "name": "Pueblo",
+      "category": "Mexican Restaurant",
+      "tagline": "Modern Baja Coastal",
+      "description": "Pueblo is a Pacific Beach restaurant serving modern Baja California coastal cuisine, located two blocks from the ocean. It opened in 2016 and emphasizes seafood, ceviches, street tacos and agave-based cocktails. Seating includes an open courtyard and a rooftop deck with two bars.",
+      "logoUrl": "",
+      "website": "https://www.pueblopb.com",
+      "phone": "(858) 412-3312",
+      "email": "",
+      "instagram": "@pueblo_pb",
+      "facebook": "https://www.facebook.com/pueblopb",
+      "tiktok": "",
+      "address": "877 Hornblend St, San Diego, CA 92109",
+      "lat": 32.795741,
+      "lng": -117.253516,
+      "neighborhood": "Pacific Beach",
+      "hours": "Lunch daily 11:30am-4pm; Dinner Sun-Thu 4-9pm, Fri-Sat 4-10pm",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "PB Official Halloween Bar Crawl (PubCrawls.com)",
+          "date": "2026-10-31",
+          "time": "15:00",
+          "description": "PubCrawls.com's main Pacific Beach Halloween Bar Crawl on Halloween night. Starts at Pueblo at 3pm. Costume required for entry. Wristband access to all participating venues. This is the same company that runs the Oct 24 pre-Halloween crawl; the Oct 31 version is their primary event."
+        },
+        {
+          "title": "PB SantaCon Bar Crawl",
+          "date": "2026-12-12",
+          "time": "16:00",
+          "description": "PubCrawls.com's Pacific Beach SantaCon bar crawl, starting at Pueblo at 4pm on December 12. Come dressed as Santa, an elf, or anything holiday-themed: the sillier the better. Wristband access to multiple PB venues. One of the bigger non-Halloween crawl events of the year in the neighborhood."
+        }
+      ],
+      "_activityCategories": [
+        "nightlife"
+      ],
+      "_eventCount": 2
+    },
+    {
+      "slug": "san-diego-holistic-wellness",
+      "name": "San Diego Holistic Wellness",
+      "category": "",
+      "tagline": "",
+      "description": "",
+      "logoUrl": "",
+      "website": "",
+      "phone": "",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "2180 Garnet Ave, San Diego, CA 92109",
+      "lat": 32.802186,
+      "lng": -117.23026,
+      "neighborhood": "Pacific Beach",
+      "hours": "",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "Shoreline Business Connections",
+          "date": "2026-09-02",
+          "time": "10:00",
+          "description": "Wednesday morning B2B networking with TEAM Referral Network at San Diego Holistic Wellness in Pacific Beach. Structured referral format: members pitch their businesses and exchange leads. Better suited to established small business owners than casual attendees."
+        }
+      ],
+      "_activityCategories": [
+        "networking"
+      ],
+      "_eventCount": 1
+    },
+    {
+      "slug": "sd-mission-bay-boat-ski-club",
+      "name": "SD Mission Bay Boat & Ski Club",
+      "category": "Boating Club",
+      "tagline": "One of the oldest boating clubs in the nation",
+      "description": "The San Diego Mission Bay Boat & Ski Club is a nonprofit waterfront social and boating club on Mission Bay. Its clubhouse includes a full bar, galley, conference hall, and outdoor event space. Members take part in water activities, social events, and charitable initiatives. Note: the club lists its address as 2606 N Mission Bay Dr.",
+      "logoUrl": "",
+      "website": "https://www.sdmbbsc.org",
+      "phone": "(619) 218-6696",
+      "email": "commodore@sdmbbsc.org",
+      "instagram": "https://www.instagram.com/sdmbbsc",
+      "facebook": "https://www.facebook.com/sdmbbsc",
+      "tiktok": "",
+      "address": "1215 El Carmel Pl, San Diego, CA 92109",
+      "lat": 32.7882,
+      "lng": -117.2251,
+      "neighborhood": "Pacific Beach",
+      "hours": "",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Mission Bay High Reunion: Class of '81",
+          "date": "2026-09-12",
+          "time": "17:00",
+          "description": "Class of 1981 reunion for Mission Bay High School, open to classes of '80, '82, and '83. Hosted at the SD Mission Bay Boat & Ski Club on the water. Ticket required; check the Eventbrite for details on who organized it."
+        }
+      ],
+      "_activityCategories": [
+        "social"
+      ],
+      "_eventCount": 1
+    },
+    {
+      "slug": "revel-fit-club-at-mara",
+      "name": "Revel Fit Club at MARA",
+      "category": "Fitness Studio",
+      "tagline": "A fully immersive boutique fitness experience",
+      "description": "Revel Fit Club is a boutique fitness studio delivering strength, cardio, and HIIT in 50-minute group classes. Workouts pair high-intensity interval training on TechnoGym treadmills with strength work using the FitBench. The Pacific Beach studio is at 4275 Mission Bay Dr, Suite 110, with underground parking available.",
+      "logoUrl": "",
+      "website": "https://revelfitclub.com",
+      "phone": "(858) 396-7580",
+      "email": "info@revelfitclub.com",
+      "instagram": "@revelfitclub",
+      "facebook": "https://www.facebook.com/REVELFITCLUB/",
+      "tiktok": "@revelfitclub_",
+      "address": "4275 Mission Bay Dr, San Diego, CA 92109",
+      "lat": 32.80034,
+      "lng": -117.213552,
+      "neighborhood": "Pacific Beach",
+      "hours": "",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Breakaway + Revel Fit Club Run",
+          "date": "2026-09-12",
+          "time": "09:30",
+          "description": "Saturday morning run with Breakaway Run Club finishing at Revel Fit Club at MARA. Social run format: designed for people who want the run club experience without a competitive edge. Check their Eventbrite for the exact route and whether gear is needed."
+        }
+      ],
+      "_activityCategories": [
+        "fitness"
+      ],
+      "_eventCount": 1
+    },
+    {
+      "slug": "studio-golf-san-diego",
+      "name": "Studio Golf San Diego",
+      "category": "Indoor Golf",
+      "tagline": "Not your typical golf club",
+      "description": "Studio Golf San Diego is a membership-based indoor golf training facility at 4275 Mission Bay Dr. It is built around TrackMan simulators, PuttView putting technology, and Sportsbox AI 3D swing analysis, combining coaching, golf-specific fitness, custom club fitting, and members-only league nights. Complimentary day passes are available for prospective members.",
+      "logoUrl": "",
+      "website": "https://studiogolfclub.com/locations/san-diego/",
+      "phone": "(619) 458-5117",
+      "email": "sd@studiogolfclub.com",
+      "instagram": "@studiogolfclub",
+      "facebook": "https://www.facebook.com/p/Studio-Golf-Club-61555082469487/",
+      "tiktok": "",
+      "address": "4275 Mission Bay Dr, San Diego, CA 92109",
+      "lat": 32.80034,
+      "lng": -117.213552,
+      "neighborhood": "Pacific Beach",
+      "hours": "Mon-Sun 9am-9pm",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Industry Night at Studio Golf",
+          "date": "2026-09-12",
+          "time": "18:00",
+          "description": "Saturday evening simulator golf event for hospitality and food & beverage industry workers. Discounted rates for industry staff. Social format, not a competitive round. Confirm the current Studio Golf San Diego address before going; the venue may have moved."
+        }
+      ],
+      "_activityCategories": [
+        "sports"
+      ],
+      "_eventCount": 1
+    },
+    {
+      "slug": "cafe-of-life-chiropractic",
+      "name": "Cafe of Life Chiropractic",
+      "category": "Chiropractic",
+      "tagline": "For you and your family through every phase of life",
+      "description": "Cafe of Life Chiropractic is a holistic family chiropractic practice in Pacific Beach at 4535 Fanuel St, founded by Dr. Stephanie Williams. The office specializes in pregnancy, pediatric, and family care, with all doctors Webster Certified. Techniques range from gentle, low-force adjustments to more traditional styles.",
+      "logoUrl": "",
+      "website": "https://www.cafeoflifesandiego.com",
+      "phone": "(619) 374-8444",
+      "email": "hello@cafeoflifesandiego.com",
+      "instagram": "@cafeoflife_chiropractic",
+      "facebook": "https://www.facebook.com/cafeoflifesd/",
+      "tiktok": "",
+      "address": "4535 Fanuel St, San Diego, CA 92109",
+      "lat": 32.799353,
+      "lng": -117.246505,
+      "neighborhood": "Pacific Beach",
+      "hours": "Mon 12pm-6pm, Tue 9am-6pm, Wed 1pm-6pm, Thu 9am-11am & 1pm-6pm, Fri 9am-2pm, Sat 10am-12pm, Sun Closed",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Baby Brain Building Workshop",
+          "date": "2026-09-16",
+          "time": "10:00",
+          "description": "Baby brain development workshop with Dr. Stephanie Libs, DC at Cafe of Life Chiropractic in Pacific Beach. Covers infant neurological development and hands-on activities parents can use at home. Small group, morning format."
+        }
+      ],
+      "_activityCategories": [
+        "wellness"
+      ],
+      "_eventCount": 1
+    },
+    {
+      "slug": "hideaway-pacific-beach",
+      "name": "Hideaway Pacific Beach",
+      "category": "Restaurant & Bar",
+      "tagline": "Beach bungalow eats a block from Crystal Pier",
+      "description": "Hideaway Pacific Beach is a beach bungalow restaurant and bar located a block from Crystal Pier in Pacific Beach. It features wood-fired pizza, cocktails and happy hour specials. The venue is open daily until 2am.",
+      "logoUrl": "",
+      "website": "https://hideawaypb.com",
+      "phone": "(619) 693-4396",
+      "email": "events@hideawaypb.com",
+      "instagram": "https://www.instagram.com/hideawaypacificbeach/",
+      "facebook": "https://www.facebook.com/hideawaypacificbeach",
+      "tiktok": "",
+      "address": "4474 Mission Blvd, San Diego, CA 92109",
+      "lat": 32.79612,
+      "lng": -117.255732,
+      "neighborhood": "Pacific Beach",
+      "hours": "Mon-Fri 11am-2am, Sat-Sun 9am-2am",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Margaritas & Mingle: Founders Networking",
+          "date": "2026-09-24",
+          "time": "17:00",
+          "description": "Founders and entrepreneurs networking happy hour at Hideaway Pacific Beach, hosted by Brandon Fortino. Informal format: no presentations, no pitches, just drinks and conversation between people building things. Free to attend; drinks are your own tab."
+        }
+      ],
+      "_activityCategories": [
+        "networking"
+      ],
+      "_eventCount": 1
+    },
+    {
+      "slug": "mindful-matters-counseling",
+      "name": "Mindful Matters Counseling",
+      "category": "Counseling & Mental Health",
+      "tagline": "Mindfulness-based therapy in Pacific Beach",
+      "description": "Mindful Matters Counseling is the Pacific Beach practice of Marni Goldberg, LMFT, LPCC, offering individual, family, group, and teen therapy. The practice specializes in mindfulness-based approaches, cognitive-behavioral therapy, heart-centered hypnotherapy, and brainspotting. Sessions are available in person and online.",
+      "logoUrl": "",
+      "website": "https://www.mindfulmatterscounseling.com",
+      "phone": "(858) 617-9290",
+      "email": "",
+      "instagram": "",
+      "facebook": "https://www.facebook.com/Mindfulmatterscounseling",
+      "tiktok": "",
+      "address": "2180 Garnet Ave, San Diego, CA 92109",
+      "lat": 32.802186,
+      "lng": -117.23026,
+      "neighborhood": "Pacific Beach",
+      "hours": "",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Escape to Relaxation: Mini Retreat",
+          "date": "2026-09-27",
+          "time": "13:00",
+          "description": "Afternoon mini retreat for grounding and self-compassion, facilitated by Marni Goldberg (LMFT LPCC) and Samantha Conboy at Mindful Matters Counseling in Pacific Beach. A structured afternoon of guided practice, not a therapy session. Small group format."
+        }
+      ],
+      "_activityCategories": [
+        "wellness"
+      ],
+      "_eventCount": 1
+    },
+    {
+      "slug": "pb-shore-club-beer-garden",
+      "name": "Shore Club",
+      "category": "Beachfront Bar & Restaurant",
+      "tagline": "Sunsets served daily where Grand meets the sand",
+      "description": "Shore Club is Pacific Beach's quintessential two-story beach bar at the foot of Grand Ave on the boardwalk, with panoramic ocean views, a beer garden and dozens of TVs. It serves Mexican-influenced seafood like fish tacos, breakfast until 2pm with the full menu all day, and is home of the RBV slushy. Known as San Diego's favorite Navy bar, it hosts Chargers game-day raffles, live DJ sessions, themed nights and its annual Oktoberfest.",
+      "logoUrl": "",
+      "website": "https://www.pbshoreclub.com",
+      "phone": "(858) 272-7873",
+      "email": "info@pbshoreclub.com",
+      "instagram": "@pbshoreclub",
+      "facebook": "https://www.facebook.com/PacificBeachShoreClub/",
+      "tiktok": "",
+      "address": "4343 Ocean Blvd, San Diego, CA 92109",
+      "lat": 32.7942171,
+      "lng": -117.2558081,
+      "neighborhood": "Pacific Beach",
+      "hours": "Mon-Thu 11am-2am, Fri 10am-2am, Sat 9am-2am, Sun 9am-12am; breakfast until 2pm",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Thursday Football Raffle at Shore Club",
+          "date": "2026-09-17",
+          "time": "17:00",
+          "description": "Every Thursday during football season: Buy a $5 raffle ticket for the season-long Golf Cart Giveaway and you're automatically entered to win a smaller prize that same day; a portion of proceeds benefits The Wingman Foundation. Raffle time is not published; 5pm is a placeholder ahead of Thursday Night Football."
+        },
+        {
+          "title": "Chargers vs. Raiders at Shore Club",
+          "date": "2026-09-20",
+          "time": "13:05",
+          "description": "Chargers vs. Raiders, kickoff 1:05pm Pacific on CBS. Watch at Shore Club, the two-story beach bar where Grand meets the sand, with dozens of TVs and ocean views. Every Chargers game day: Buy a $5 raffle ticket for the season-long Golf Cart Giveaway and you're automatically entered to win a smaller prize that same day; a portion of proceeds benefits The Wingman Foundation."
+        },
+        {
+          "title": "Chargers at Bills at Shore Club",
+          "date": "2026-09-27",
+          "time": "10:00",
+          "description": "Chargers at Bills, kickoff 10am Pacific on FOX. Watch at Shore Club, the two-story beach bar where Grand meets the sand, with dozens of TVs and ocean views. Every Chargers game day: Buy a $5 raffle ticket for the season-long Golf Cart Giveaway and you're automatically entered to win a smaller prize that same day; a portion of proceeds benefits The Wingman Foundation."
+        },
+        {
+          "title": "Chargers at Seahawks at Shore Club",
+          "date": "2026-10-04",
+          "time": "13:25",
+          "description": "Chargers at Seahawks, kickoff 1:25pm Pacific on CBS. Watch at Shore Club, the two-story beach bar where Grand meets the sand, with dozens of TVs and ocean views. Every Chargers game day: Buy a $5 raffle ticket for the season-long Golf Cart Giveaway and you're automatically entered to win a smaller prize that same day; a portion of proceeds benefits The Wingman Foundation. Seahawks fans will be at Thrusters Lounge."
+        },
+        {
+          "title": "Oktoberfest at Shore Club",
+          "date": "2026-10-04",
+          "time": "14:00",
+          "description": "Second annual Oktoberfest in the Shore Club beer garden, hosted with Ask Ros, She Travels, from 2pm to 7pm. Ticket includes your first beer, a brat or pretzel, a take-home 32oz stein and limited-edition Shore Club Oktoberfest gloves, plus stein-holding and brat-eating contests, a best dressed competition and a DJ. 21+, tickets on Eventbrite, no refunds."
+        },
+        {
+          "title": "Chargers vs. Broncos at Shore Club",
+          "date": "2026-10-11",
+          "time": "13:05",
+          "description": "Chargers vs. Broncos, kickoff 1:05pm Pacific on CBS. Watch at Shore Club, the two-story beach bar where Grand meets the sand, with dozens of TVs and ocean views. Every Chargers game day: Buy a $5 raffle ticket for the season-long Golf Cart Giveaway and you're automatically entered to win a smaller prize that same day; a portion of proceeds benefits The Wingman Foundation. Broncos fans will be at PB AleHouse around the corner."
+        },
+        {
+          "title": "Chargers at Chiefs at Shore Club",
+          "date": "2026-10-18",
+          "time": "13:25",
+          "description": "Chargers at Chiefs, kickoff 1:25pm Pacific on CBS. Watch at Shore Club, the two-story beach bar where Grand meets the sand, with dozens of TVs and ocean views. Every Chargers game day: Buy a $5 raffle ticket for the season-long Golf Cart Giveaway and you're automatically entered to win a smaller prize that same day; a portion of proceeds benefits The Wingman Foundation."
+        },
+        {
+          "title": "Chargers at Rams at Shore Club",
+          "date": "2026-11-01",
+          "time": "13:05",
+          "description": "Chargers at Rams, kickoff 1:05pm Pacific on FOX. Watch at Shore Club, the two-story beach bar where Grand meets the sand, with dozens of TVs and ocean views. Every Chargers game day: Buy a $5 raffle ticket for the season-long Golf Cart Giveaway and you're automatically entered to win a smaller prize that same day; a portion of proceeds benefits The Wingman Foundation."
+        },
+        {
+          "title": "Chargers vs. Texans at Shore Club",
+          "date": "2026-11-08",
+          "time": "13:05",
+          "description": "Chargers vs. Texans, kickoff 1:05pm Pacific on CBS. Watch at Shore Club, the two-story beach bar where Grand meets the sand, with dozens of TVs and ocean views. Every Chargers game day: Buy a $5 raffle ticket for the season-long Golf Cart Giveaway and you're automatically entered to win a smaller prize that same day; a portion of proceeds benefits The Wingman Foundation."
+        },
+        {
+          "title": "Chargers at Ravens at Shore Club",
+          "date": "2026-11-16",
+          "time": "17:15",
+          "description": "Chargers at Ravens, kickoff 5:15pm Pacific on ESPN/ABC. Watch at Shore Club, the two-story beach bar where Grand meets the sand, with dozens of TVs and ocean views. Every Chargers game day: Buy a $5 raffle ticket for the season-long Golf Cart Giveaway and you're automatically entered to win a smaller prize that same day; a portion of proceeds benefits The Wingman Foundation."
+        },
+        {
+          "title": "Chargers vs. Jets at Shore Club",
+          "date": "2026-11-22",
+          "time": "13:05",
+          "description": "Chargers vs. Jets, kickoff 1:05pm Pacific on FOX. Watch at Shore Club, the two-story beach bar where Grand meets the sand, with dozens of TVs and ocean views. Every Chargers game day: Buy a $5 raffle ticket for the season-long Golf Cart Giveaway and you're automatically entered to win a smaller prize that same day; a portion of proceeds benefits The Wingman Foundation."
+        },
+        {
+          "title": "Chargers vs. Patriots at Shore Club",
+          "date": "2026-11-29",
+          "time": "17:20",
+          "description": "Chargers vs. Patriots, kickoff 5:20pm Pacific on NBC. Watch at Shore Club, the two-story beach bar where Grand meets the sand, with dozens of TVs and ocean views. Every Chargers game day: Buy a $5 raffle ticket for the season-long Golf Cart Giveaway and you're automatically entered to win a smaller prize that same day; a portion of proceeds benefits The Wingman Foundation. Sunday Night Football; Patriots fans will be at Sandbox Pizza."
+        },
+        {
+          "title": "Chargers at Buccaneers at Shore Club",
+          "date": "2026-12-06",
+          "time": "10:00",
+          "description": "Chargers at Buccaneers, kickoff 10am Pacific on CBS. Watch at Shore Club, the two-story beach bar where Grand meets the sand, with dozens of TVs and ocean views. Every Chargers game day: Buy a $5 raffle ticket for the season-long Golf Cart Giveaway and you're automatically entered to win a smaller prize that same day; a portion of proceeds benefits The Wingman Foundation."
+        },
+        {
+          "title": "Chargers at Raiders at Shore Club",
+          "date": "2026-12-13",
+          "time": "13:05",
+          "description": "Chargers at Raiders, kickoff 1:05pm Pacific on CBS. Watch at Shore Club, the two-story beach bar where Grand meets the sand, with dozens of TVs and ocean views. Every Chargers game day: Buy a $5 raffle ticket for the season-long Golf Cart Giveaway and you're automatically entered to win a smaller prize that same day; a portion of proceeds benefits The Wingman Foundation."
+        },
+        {
+          "title": "Chargers vs. 49ers at Shore Club",
+          "date": "2026-12-17",
+          "time": "17:15",
+          "description": "Chargers vs. 49ers, kickoff 5:15pm Pacific on Prime Video. Watch at Shore Club, the two-story beach bar where Grand meets the sand, with dozens of TVs and ocean views. Every Chargers game day: Buy a $5 raffle ticket for the season-long Golf Cart Giveaway and you're automatically entered to win a smaller prize that same day; a portion of proceeds benefits The Wingman Foundation."
+        },
+        {
+          "title": "Chargers at Dolphins at Shore Club",
+          "date": "2026-12-27",
+          "time": "10:00",
+          "description": "Chargers at Dolphins, kickoff 10am Pacific on FOX. Watch at Shore Club, the two-story beach bar where Grand meets the sand, with dozens of TVs and ocean views. Every Chargers game day: Buy a $5 raffle ticket for the season-long Golf Cart Giveaway and you're automatically entered to win a smaller prize that same day; a portion of proceeds benefits The Wingman Foundation."
+        }
+      ],
+      "_activityCategories": [
+        "food",
+        "sports"
+      ],
+      "_eventCount": 16
+    },
+    {
+      "slug": "porchlight-coffee",
+      "name": "PorchLight Coffee",
+      "category": "Coffee Shop",
+      "tagline": "Your San Diego spot for coffee, bagels and baked goods",
+      "description": "PorchLight Coffee is a Pacific Beach coffee shop serving locally roasted coffee, espresso drinks, and house-made cold brew. It partners with Desperado Bagels for artisan bagels alongside locally sourced pastries. The shop offers a relaxed, community-oriented atmosphere.",
+      "logoUrl": "",
+      "website": "https://www.porchlightcoffeeco.com",
+      "phone": "",
+      "email": "info@porchlightcoffeeco.com",
+      "instagram": "@porchlightcoffeesd",
+      "facebook": "",
+      "tiktok": "",
+      "address": "4865 Cass St, San Diego, CA 92109",
+      "lat": 32.80328,
+      "lng": -117.253548,
+      "neighborhood": "Pacific Beach",
+      "hours": "Mon-Sun 7am-1pm",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "A Comedy Show at PorchLight Coffee",
+          "date": "2026-10-24",
+          "time": "19:30",
+          "description": "Stand-up comedy show at PorchLight Coffee from Banana Peel Productions. Small venue format: closer to a house show than a comedy club. Banana Peel runs these at rotating PB and beach-area spots. Check their Eventbrite for ticket price and door policy."
+        }
+      ],
+      "_activityCategories": [
+        "comedy"
+      ],
+      "_eventCount": 1
+    },
+    {
+      "slug": "mission-bay-high-school",
+      "name": "Mission Bay High School",
+      "category": "Public High School",
+      "tagline": "Home of the Buccaneers in Pacific Beach, San Diego Unified",
+      "description": "Mission Bay High School is a public secondary school in the San Diego Unified School District, located at 2475 Grand Ave in Pacific Beach. Its mascot is the Buccaneer (Bucs). The school serves students in grades 9-12.",
+      "logoUrl": "",
+      "website": "https://missionbay.sandiegounified.org/",
+      "phone": "(858) 536-0136",
+      "email": "",
+      "instagram": "@missionbayhigh",
+      "facebook": "https://www.facebook.com/missionbayhighschool/",
+      "tiktok": "",
+      "address": "2475 Grand Ave, San Diego, CA 92109",
+      "lat": 32.781,
+      "lng": -117.2236,
+      "neighborhood": "Pacific Beach",
+      "hours": "Mon-Fri 8:00am-4:00pm",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Screen Your Teen: Free Cardiac Screening",
+          "date": "2026-10-25",
+          "time": "09:30",
+          "description": "Free cardiac screening event for teenagers at Mission Bay High School, organized by the Eric Paredes Save A Life Foundation. Screens for hidden heart conditions that can go undetected until a cardiac event. No appointment needed; bring a parent or guardian."
+        }
+      ],
+      "_activityCategories": [
+        "wellness"
+      ],
+      "_eventCount": 1
+    },
+    {
+      "slug": "pb-tuesday-farmers-market",
+      "name": "PB Tuesday Farmers' Market",
+      "category": "Farmers Market",
+      "tagline": "Fresh food, art, & air. See you on Tuesday!",
+      "description": "The Pacific Beach Tuesday Farmers' Market is an outdoor certified farmers' market operating in Pacific Beach since 2011. It offers fresh produce, meats, cheeses, flowers, prepared foods, and handcrafted artisan works, and accepts EBT with Market Match benefits. The market runs weekly along Bayard Street between Garnet and Grand Avenues.",
+      "logoUrl": "",
+      "website": "https://www.pacificbeachmarket.com/",
+      "phone": "(858) 273-3303",
+      "email": "info@pacificbeachmarket.com",
+      "instagram": "@pacificbeachmarket",
+      "facebook": "https://www.facebook.com/PBTuesdayMarket",
+      "tiktok": "",
+      "address": "901 Hornblend St, San Diego, CA 92109",
+      "lat": 32.7996,
+      "lng": -117.2413,
+      "neighborhood": "Pacific Beach",
+      "hours": "Tuesdays 2:00pm-7:00pm",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "PB Tuesday Farmers' Market",
+          "date": "2026-09-01",
+          "time": "14:00",
+          "description": "The neighborhood's weekly certified farmers market, running rain or shine on Bayard and Hornblend. Produce, meat, cheese, eggs, bread, flowers, prepared food and craft vendors across two blocks. EBT accepted; the information booth converts benefits into market credit and there's a match program that adds free produce on top. Live music most weeks. HOURS: majority of sources say 2-7pm; the market's own website says 2-6pm. Confirm with the market manager at 858-273-3303."
+        }
+      ],
+      "_activityCategories": [
+        "market"
+      ],
+      "_eventCount": 1
+    },
+    {
+      "slug": "pacific-beach-town-council",
+      "name": "Pacific Beach Town Council",
+      "category": "Community Organization",
+      "tagline": "Community advocacy and civic engagement for Pacific Beach",
+      "description": "The Pacific Beach Town Council is a nonprofit community organization serving the Pacific Beach neighborhood of San Diego. It holds monthly general meetings, typically the third Wednesday of the month, and works on local civic issues and community events. Meetings are held at Crown Point Junior Music Academy (4033 Ingraham St).",
+      "logoUrl": "",
+      "website": "https://www.pbtowncouncil.org/",
+      "phone": "",
+      "email": "",
+      "instagram": "@pacificbeachtowncouncil",
+      "facebook": "https://www.facebook.com/pbtowncouncil/",
+      "tiktok": "",
+      "address": "4033 Ingraham St, San Diego, CA 92109",
+      "lat": 32.793446,
+      "lng": -117.237981,
+      "neighborhood": "Pacific Beach",
+      "hours": "",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Pacific Beach Town Council General Meeting",
+          "date": "2026-09-16",
+          "time": "18:00",
+          "description": "Monthly general meeting of the Pacific Beach Town Council, open to the whole neighborhood. The Town Council covers local issues and runs community programming including the summer concert series. Third Wednesday of every month. VENUE UNCONFIRMED: check pbtowncouncil.org for the current meeting location before pinning."
+        }
+      ],
+      "_activityCategories": [
+        "civic"
+      ],
+      "_eventCount": 1
+    },
+    {
+      "slug": "flamingo-deck",
+      "name": "Flamingo Deck",
+      "category": "New American Restaurant & Bar",
+      "tagline": "Be a Flamingo in a Flock of Pigeons",
+      "description": "Flamingo Deck is a New American restaurant and bar with an Italian twist, located in the PB Promenade on Mission Blvd in Pacific Beach. It offers a rooftop dining experience steps from the water with brunch, lunch and dinner menus featuring pizza, pasta, seafood and steak, plus vegan-friendly options. Happy hour runs Monday through Friday.",
+      "logoUrl": "",
+      "website": "https://www.flamingodeck.com",
+      "phone": "(858) 263-4205",
+      "email": "",
+      "instagram": "https://instagram.com/flamingodeckpb/",
+      "facebook": "https://facebook.com/flamingodeckpb/",
+      "tiktok": "@flamingodeckpacificbeach",
+      "address": "4110 Mission Blvd, San Diego, CA 92109",
+      "lat": 32.791107,
+      "lng": -117.253713,
+      "neighborhood": "Pacific Beach",
+      "hours": "Mon-Thu 12pm-12am, Fri 12pm-2am, Sat 9am-2am, Sun 9am-12am",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Trick or Drink: PB Halloween Crawl",
+          "date": "2026-10-24",
+          "time": "16:00",
+          "description": "Barcrawlerz produces Trick or Drink, a separate Halloween bar crawl running the same day as PubCrawls.com's event but starting from Flamingo Deck at 4pm. Different organizer, different club lineup. Costume required. Check their Eventbrite for the current venue list and whether it runs indoors or partly on the boardwalk."
+        }
+      ],
+      "_activityCategories": [
+        "nightlife"
+      ],
+      "_eventCount": 1
+    },
+    {
+      "slug": "moonshine-beach",
+      "name": "Moonshine Beach",
+      "category": "Nightclub",
+      "tagline": "PB's honky-tonk for country shows and line dancing",
+      "description": "A 21+ country bar and live music venue on Garnet Ave with touring country acts, Tuesday line dancing lessons and 49ers watch parties.",
+      "logoUrl": "",
+      "website": "https://moonshinebeachsd.com/",
+      "phone": "(858) 999-0158",
+      "email": "",
+      "instagram": "@moonshinebeach",
+      "facebook": "moonshinebeach",
+      "tiktok": "@moonshinebeachsd",
+      "address": "1165 Garnet Ave, San Diego, CA 92109",
+      "lat": 32.7979701,
+      "lng": -117.2484631,
+      "neighborhood": "Pacific Beach",
+      "hours": "Tue 5pm-1am, Fri-Sat 5pm-2am; extra hours for 49ers games",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "Alana Springsteen at Moonshine Beach",
+          "date": "2026-09-19",
+          "time": "19:00",
+          "description": "Country singer-songwriter Alana Springsteen brings her I Hope This Helps Tour to PB. 21+ country show at Moonshine Beach on Garnet Ave. Tickets and doors time on the Moonshine calendar."
+        },
+        {
+          "title": "Tuesday Line Dancing Lessons at Moonshine Beach",
+          "date": "2026-09-22",
+          "time": "20:45",
+          "description": "Weekly line dancing lessons at PB's honky-tonk. Doors at 8pm, first lesson at 8:45pm, open dancing after. 21+."
+        },
+        {
+          "title": "KIKI at Moonshine Beach",
+          "date": "2026-09-26",
+          "time": "19:00",
+          "description": "KIKI live at Moonshine Beach. 21+ country show at Moonshine Beach on Garnet Ave. Tickets and doors time on the Moonshine calendar."
+        },
+        {
+          "title": "Lakeview at Moonshine Beach",
+          "date": "2026-10-10",
+          "time": "19:00",
+          "description": "Country band Lakeview plays Moonshine Beach. 21+ country show at Moonshine Beach on Garnet Ave. Tickets and doors time on the Moonshine calendar."
+        }
+      ]
+    },
+    {
+      "slug": "mavericks-beach-club",
+      "name": "Mavericks Beach Club",
+      "category": "Beach Club, Sports Bar & Nightclub",
+      "tagline": "SD beachside playground: games, sports, drinks, food, live music and dancing",
+      "description": "Mavericks Beach Club is a 15,000 sq ft, multi-level entertainment complex steps from the ocean on Garnet Ave, with five indoor and outdoor bars, a nightclub, backyard games and reservable pickleball, basketball and futsal courts. It runs half-off drink happy hour on weekdays, Burger Monday, Taco Tuesday, Wednesday trivia and Thursday Country Night, shows every NFL game with football drink specials, and is home of the San Diego Cheeseheads Packers fan club. Dog-friendly patio; VIP bottle service and private events available.",
+      "logoUrl": "",
+      "website": "https://maverickssd.com/",
+      "phone": "(858) 999-0348",
+      "email": "info@maverickssd.com",
+      "instagram": "@mavericksbeachclub",
+      "facebook": "https://www.facebook.com/maverickssd",
+      "tiktok": "",
+      "address": "860 Garnet Ave, San Diego, CA 92109",
+      "lat": 32.7969935,
+      "lng": -117.2545588,
+      "neighborhood": "Pacific Beach",
+      "hours": "Mon 4pm-close, Tue-Fri 12pm-close, Sat 10am-2am, Sun 10am-close (varies for holidays and sports); Happy Hour Mon-Fri 4pm-7pm",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Wednesday Trivia at Mavericks Beach Club",
+          "date": "2026-09-16",
+          "time": "19:00",
+          "description": "Free weekly trivia hosted by Sunset Trivia, 7pm to 9pm, with prizes for the top three teams and $4 select beers, hard teas and shots."
+        },
+        {
+          "title": "Thursday Night Football at Mavericks",
+          "date": "2026-09-17",
+          "time": "17:00",
+          "description": "Every Thursday night game with sound on and drink specials all game: $3 tequila, $5 cocktails and $25 coolers. Kickoff usually 5:15pm Pacific."
+        },
+        {
+          "title": "Country Night at Mavericks",
+          "date": "2026-09-17",
+          "time": "20:00",
+          "description": "Thursday Country Night with free line dancing, country DJs and drink specials. Instagram lists an 8pm kickoff (the website says 7pm), running to close. 21+ for the nightclub."
+        },
+        {
+          "title": "Sunday Football at Mavericks",
+          "date": "2026-09-20",
+          "time": "10:00",
+          "description": "Every game on, sound on, from 10am open. Sunday drink specials: $5 shots, $5 to $6 beers, $10 cocktails and $30 coolers."
+        },
+        {
+          "title": "Packers at Jets at Mavericks",
+          "date": "2026-09-20",
+          "time": "10:00",
+          "description": "Packers at Jets, kickoff 10am Pacific on FOX. Mavericks is the home of the San Diego Cheeseheads, Pacific Beach's Green Bay Packers bar, with the game on sound and football drink specials. Go Pack Go."
+        },
+        {
+          "title": "Burger Monday at Mavericks",
+          "date": "2026-09-21",
+          "time": "16:00",
+          "description": "$8 burgers every Monday, alongside half-off happy hour until 7pm and Monday Night Football drink specials ($3 drafts, $5 cocktails, $25 coolers)."
+        },
+        {
+          "title": "Monday Night Football at Mavericks",
+          "date": "2026-09-21",
+          "time": "17:00",
+          "description": "Monday Night Football with $3 drafts, $5 cocktails and $25 coolers, plus $8 Burger Monday."
+        },
+        {
+          "title": "Taco Tuesday at Mavericks",
+          "date": "2026-09-22",
+          "time": "12:00",
+          "description": "$3.50 tacos all day. Half off all drinks 4pm to 7pm, then $3 beers, $3 tequila shots and $3.50 house margaritas from 7pm to close."
+        },
+        {
+          "title": "Packers vs. Falcons at Mavericks",
+          "date": "2026-09-24",
+          "time": "17:15",
+          "description": "Packers vs. Falcons, kickoff 5:15pm Pacific on Prime Video. Mavericks is the home of the San Diego Cheeseheads, Pacific Beach's Green Bay Packers bar, with the game on sound and football drink specials. Go Pack Go."
+        },
+        {
+          "title": "Packers at Buccaneers at Mavericks",
+          "date": "2026-10-04",
+          "time": "10:00",
+          "description": "Packers at Buccaneers, kickoff 10am Pacific on FOX. Mavericks is the home of the San Diego Cheeseheads, Pacific Beach's Green Bay Packers bar, with the game on sound and football drink specials. Go Pack Go."
+        },
+        {
+          "title": "Packers vs. Bears at Mavericks",
+          "date": "2026-10-11",
+          "time": "13:25",
+          "description": "Packers vs. Bears, kickoff 1:25pm Pacific on FOX. Mavericks is the home of the San Diego Cheeseheads, Pacific Beach's Green Bay Packers bar, with the game on sound and football drink specials. Go Pack Go."
+        },
+        {
+          "title": "Packers vs. Cowboys at Mavericks",
+          "date": "2026-10-18",
+          "time": "17:20",
+          "description": "Packers vs. Cowboys, kickoff 5:20pm Pacific on NBC. Mavericks is the home of the San Diego Cheeseheads, Pacific Beach's Green Bay Packers bar, with the game on sound and football drink specials. Go Pack Go."
+        },
+        {
+          "title": "11th Annual SDFD Mustache Clash",
+          "date": "2026-10-22",
+          "time": "18:00",
+          "description": "San Diego Fire Department's biggest charity night of the year, benefiting FirefighterAid: mustache competition, live music, drink specials, silent auction and raffles. Dress to impress. Tickets on Mavericks' Ticketsauce page."
+        },
+        {
+          "title": "Packers at Lions at Mavericks",
+          "date": "2026-10-25",
+          "time": "13:25",
+          "description": "Packers at Lions, kickoff 1:25pm Pacific on FOX. Mavericks is the home of the San Diego Cheeseheads, Pacific Beach's Green Bay Packers bar, with the game on sound and football drink specials. Go Pack Go."
+        },
+        {
+          "title": "Packers vs. Panthers at Mavericks",
+          "date": "2026-10-29",
+          "time": "17:15",
+          "description": "Packers vs. Panthers, kickoff 5:15pm Pacific on Prime Video. Mavericks is the home of the San Diego Cheeseheads, Pacific Beach's Green Bay Packers bar, with the game on sound and football drink specials. Go Pack Go."
+        },
+        {
+          "title": "Packers at Patriots at Mavericks",
+          "date": "2026-11-08",
+          "time": "13:25",
+          "description": "Packers at Patriots, kickoff 1:25pm Pacific on FOX. Mavericks is the home of the San Diego Cheeseheads, Pacific Beach's Green Bay Packers bar, with the game on sound and football drink specials. Go Pack Go."
+        },
+        {
+          "title": "Packers vs. Vikings at Mavericks",
+          "date": "2026-11-15",
+          "time": "10:00",
+          "description": "Packers vs. Vikings, kickoff 10am Pacific on FOX. Mavericks is the home of the San Diego Cheeseheads, Pacific Beach's Green Bay Packers bar, with the game on sound and football drink specials. Go Pack Go."
+        },
+        {
+          "title": "Packers at Rams at Mavericks",
+          "date": "2026-11-25",
+          "time": "17:00",
+          "description": "Packers at Rams, kickoff 5pm Pacific on Netflix. Mavericks is the home of the San Diego Cheeseheads, Pacific Beach's Green Bay Packers bar, with the game on sound and football drink specials. Go Pack Go. Thanksgiving Eve game."
+        },
+        {
+          "title": "Packers at Saints at Mavericks",
+          "date": "2026-12-06",
+          "time": "10:00",
+          "description": "Packers at Saints, kickoff 10am Pacific on FOX. Mavericks is the home of the San Diego Cheeseheads, Pacific Beach's Green Bay Packers bar, with the game on sound and football drink specials. Go Pack Go."
+        },
+        {
+          "title": "Packers vs. Bills at Mavericks",
+          "date": "2026-12-13",
+          "time": "17:20",
+          "description": "Packers vs. Bills, kickoff 5:20pm Pacific on NBC. Mavericks is the home of the San Diego Cheeseheads, Pacific Beach's Green Bay Packers bar, with the game on sound and football drink specials. Go Pack Go."
+        },
+        {
+          "title": "Packers vs. Dolphins at Mavericks",
+          "date": "2026-12-20",
+          "time": "10:00",
+          "description": "Packers vs. Dolphins, kickoff 10am Pacific on FOX. Mavericks is the home of the San Diego Cheeseheads, Pacific Beach's Green Bay Packers bar, with the game on sound and football drink specials. Go Pack Go."
+        },
+        {
+          "title": "Packers at Bears at Mavericks",
+          "date": "2026-12-25",
+          "time": "10:00",
+          "description": "Packers at Bears, kickoff 10am Pacific on Netflix. Mavericks is the home of the San Diego Cheeseheads, Pacific Beach's Green Bay Packers bar, with the game on sound and football drink specials. Go Pack Go. Christmas Day game; Mavericks normally opens at noon on Fridays, so confirm holiday doors."
+        },
+        {
+          "title": "Packers vs. Texans at Mavericks",
+          "date": "2027-01-04",
+          "time": "17:15",
+          "description": "Packers vs. Texans, kickoff 5:15pm Pacific on ESPN. Mavericks is the home of the San Diego Cheeseheads, Pacific Beach's Green Bay Packers bar, with the game on sound and football drink specials. Go Pack Go."
+        }
+      ],
+      "_activityCategories": [
+        "community",
+        "food",
+        "nightlife",
+        "sports"
+      ],
+      "_eventCount": 23
+    },
+    {
+      "slug": "the-local-pb",
+      "name": "The Local Pacific Beach",
+      "category": "Neighborhood Bar & Restaurant",
+      "tagline": "PB's lively neighborhood bar steps from the sand, with a rooftop patio and nonstop events",
+      "description": "The Local Pacific Beach is a neighborhood bar and restaurant on Thomas Ave, a block from the beach, known for its fun-loving crowd, rooftop patio, new lighting and sound system and nonstop events. It serves pub fare and coastal-inspired food, runs Taco Tuesday, Thursday trivia into Thursday Club, Sunday Funday and weekend brunch, and books DJs. It is home of the SD Bills Backers and Pacific Beach's Michigan Wolverines bar, with game-day specials for both.",
+      "logoUrl": "",
+      "website": "https://www.thelocalpb.com/",
+      "phone": "(858) 263-7475",
+      "email": "info@thelocalpb.com",
+      "instagram": "@thelocalpb",
+      "facebook": "https://www.facebook.com/305646382911990",
+      "tiktok": "@thelocalpb",
+      "address": "809 Thomas Ave, San Diego, CA 92109",
+      "lat": 32.7936545,
+      "lng": -117.2539479,
+      "neighborhood": "Pacific Beach",
+      "hours": "Mon closed, Tue-Wed 2pm-12am, Thu 2pm-2am, Fri 12pm-2am, Sat-Sun 10am-2am; kitchen last call 9:45pm; Happy Hour Wed-Fri 4pm-7pm",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Bills vs. Lions at The Local",
+          "date": "2026-09-17",
+          "time": "17:15",
+          "description": "Bills vs. Lions, kickoff 5:15pm Pacific on Prime Video. The Local is home of the SD Bills Backers: Labatt bottles, Buffalo food favorites and the game on every screen. Let's go Buffalo. Doors open at 4pm; get there early to grab a table. Lions fans will be at SD TapRoom."
+        },
+        {
+          "title": "Thursday Trivia at The Local",
+          "date": "2026-09-17",
+          "time": "19:30",
+          "description": "Trivia every Thursday 7:30pm to 9:30pm with prizes for 1st, 2nd and 3rd place. Walk-ins only, no reservations. Extended happy hour all trivia long: $6 wells, drafts and wine, plus $8 nachos, lumpia, pretzel balls and spring rolls."
+        },
+        {
+          "title": "Thursday Club at The Local",
+          "date": "2026-09-17",
+          "time": "21:30",
+          "description": "Thursday late night from 9:30pm to 2am: 50% off wells (including skinny margaritas and vodka Red Bulls), $6 drafts, $8 martinis and $25 High Noon and Sun Cruiser mix-and-match buckets. DJs on the new sound system."
+        },
+        {
+          "title": "Weekend Brunch at The Local (Saturday)",
+          "date": "2026-09-19",
+          "time": "10:00",
+          "description": "Weekend brunch from 10am open on Saturdays and Sundays, with the rooftop patio a block from the beach. End time is not published."
+        },
+        {
+          "title": "Michigan vs. UTEP at The Local",
+          "date": "2026-09-19",
+          "time": "12:30",
+          "description": "Michigan vs. UTEP, kickoff 12:30pm Pacific on Big Ten Network. The Local is Pacific Beach's Michigan Wolverines bar. Michigan game-day specials until 8pm: $20 Dom's Sangria pitchers, $9 Michigan Mules, $6 drafts, Woodson Bourbon and Labatt, $6 20oz Bell's Two Hearted (keep the cup), $3 Maize 'n Blitz halftime shots and $15 mini Coney chili dogs. Go Blue."
+        },
+        {
+          "title": "Sunday Funday at The Local",
+          "date": "2026-09-20",
+          "time": "10:00",
+          "description": "All day Sunday: $4 Sun Cruiser, $4 Long Drink, $5 house margaritas and $6 drafts, a block from the sand with a rooftop patio."
+        },
+        {
+          "title": "Weekend Brunch at The Local (Sunday)",
+          "date": "2026-09-20",
+          "time": "10:00",
+          "description": "Weekend brunch from 10am open on Saturdays and Sundays, with the rooftop patio a block from the beach. End time is not published."
+        },
+        {
+          "title": "Taco Tuesday at The Local",
+          "date": "2026-09-22",
+          "time": "14:00",
+          "description": "Every Tuesday from 2pm: $1 first margarita with a food purchase, $5 à la carte tacos (NY steak, Oaxaca beef, tempura shrimp, Fire Birdy chicken, Baja fish, carnitas), $4 Calidad Mexican Lager and $5 Casamigos margaritas. Kitchen last call 9:45pm."
+        },
+        {
+          "title": "Michigan vs. Iowa at The Local",
+          "date": "2026-09-26",
+          "time": "12:30",
+          "description": "Michigan vs. Iowa, kickoff 12:30pm Pacific on CBS. The Local is Pacific Beach's Michigan Wolverines bar. Michigan game-day specials until 8pm: $20 Dom's Sangria pitchers, $9 Michigan Mules, $6 drafts, Woodson Bourbon and Labatt, $6 20oz Bell's Two Hearted (keep the cup), $3 Maize 'n Blitz halftime shots and $15 mini Coney chili dogs. Go Blue. Hawkeyes fans will be at PB AleHouse."
+        },
+        {
+          "title": "Bills vs. Chargers at The Local",
+          "date": "2026-09-27",
+          "time": "10:00",
+          "description": "Bills vs. Chargers, kickoff 10am Pacific on FOX. The Local is home of the SD Bills Backers: Labatt bottles, Buffalo food favorites and the game on every screen. Let's go Buffalo. Chargers fans will be at Shore Club."
+        },
+        {
+          "title": "Bills vs. Patriots at The Local",
+          "date": "2026-10-04",
+          "time": "10:00",
+          "description": "Bills vs. Patriots, kickoff 10am Pacific on CBS. The Local is home of the SD Bills Backers: Labatt bottles, Buffalo food favorites and the game on every screen. Let's go Buffalo. Patriots fans will be at Sandbox Pizza."
+        },
+        {
+          "title": "Bills at Rams at The Local",
+          "date": "2026-10-12",
+          "time": "17:15",
+          "description": "Bills at Rams, kickoff 5:15pm Pacific on ESPN/ABC. The Local is home of the SD Bills Backers: Labatt bottles, Buffalo food favorites and the game on every screen. Let's go Buffalo. The Local is normally closed Mondays; confirm it is opening for this game."
+        },
+        {
+          "title": "Bills at Raiders at The Local",
+          "date": "2026-10-18",
+          "time": "13:25",
+          "description": "Bills at Raiders, kickoff 1:25pm Pacific on CBS. The Local is home of the SD Bills Backers: Labatt bottles, Buffalo food favorites and the game on every screen. Let's go Buffalo."
+        },
+        {
+          "title": "Bills vs. Ravens at The Local",
+          "date": "2026-11-01",
+          "time": "10:00",
+          "description": "Bills vs. Ravens, kickoff 10am Pacific on CBS. The Local is home of the SD Bills Backers: Labatt bottles, Buffalo food favorites and the game on every screen. Let's go Buffalo."
+        },
+        {
+          "title": "Bills at Vikings at The Local",
+          "date": "2026-11-09",
+          "time": "17:15",
+          "description": "Bills at Vikings, kickoff 5:15pm Pacific on ESPN/ABC. The Local is home of the SD Bills Backers: Labatt bottles, Buffalo food favorites and the game on every screen. Let's go Buffalo. The Local is normally closed Mondays; confirm it is opening for this game."
+        },
+        {
+          "title": "Bills at Jets at The Local",
+          "date": "2026-11-15",
+          "time": "10:00",
+          "description": "Bills at Jets, kickoff 10am Pacific on CBS. The Local is home of the SD Bills Backers: Labatt bottles, Buffalo food favorites and the game on every screen. Let's go Buffalo."
+        },
+        {
+          "title": "Bills vs. Dolphins at The Local",
+          "date": "2026-11-22",
+          "time": "10:00",
+          "description": "Bills vs. Dolphins, kickoff 10am Pacific on FOX. The Local is home of the SD Bills Backers: Labatt bottles, Buffalo food favorites and the game on every screen. Let's go Buffalo."
+        },
+        {
+          "title": "Bills vs. Chiefs at The Local",
+          "date": "2026-11-26",
+          "time": "17:20",
+          "description": "Bills vs. Chiefs, kickoff 5:20pm Pacific on NBC. The Local is home of the SD Bills Backers: Labatt bottles, Buffalo food favorites and the game on every screen. Let's go Buffalo. Thanksgiving night game."
+        },
+        {
+          "title": "Michigan at Ohio State at The Local",
+          "date": "2026-11-28",
+          "time": "09:00",
+          "description": "Michigan at Ohio State, kickoff 9am Pacific on FOX. The Local is Pacific Beach's Michigan Wolverines bar. Michigan game-day specials until 8pm: $20 Dom's Sangria pitchers, $9 Michigan Mules, $6 drafts, Woodson Bourbon and Labatt, $6 20oz Bell's Two Hearted (keep the cup), $3 Maize 'n Blitz halftime shots and $15 mini Coney chili dogs. Go Blue. The Game. 9am kickoff, before The Local's usual 10am Saturday open; confirm early doors. Buckeyes fans will be at Break Point."
+        },
+        {
+          "title": "Bills at Patriots at The Local",
+          "date": "2026-12-06",
+          "time": "13:25",
+          "description": "Bills at Patriots, kickoff 1:25pm Pacific on CBS. The Local is home of the SD Bills Backers: Labatt bottles, Buffalo food favorites and the game on every screen. Let's go Buffalo. Patriots fans will be at Sandbox Pizza."
+        },
+        {
+          "title": "Bills at Packers at The Local",
+          "date": "2026-12-13",
+          "time": "17:20",
+          "description": "Bills at Packers, kickoff 5:20pm Pacific on NBC. The Local is home of the SD Bills Backers: Labatt bottles, Buffalo food favorites and the game on every screen. Let's go Buffalo. Packers fans will be at Mavericks."
+        },
+        {
+          "title": "Bills vs. Bears at The Local",
+          "date": "2026-12-19",
+          "time": "17:20",
+          "description": "Bills vs. Bears, kickoff 5:20pm Pacific on CBS. The Local is home of the SD Bills Backers: Labatt bottles, Buffalo food favorites and the game on every screen. Let's go Buffalo."
+        },
+        {
+          "title": "Bills at Broncos at The Local",
+          "date": "2026-12-25",
+          "time": "13:30",
+          "description": "Bills at Broncos, kickoff 1:30pm Pacific on Netflix. The Local is home of the SD Bills Backers: Labatt bottles, Buffalo food favorites and the game on every screen. Let's go Buffalo. Christmas Day game; Broncos fans will be at PB AleHouse."
+        },
+        {
+          "title": "Bills at Dolphins at The Local",
+          "date": "2027-01-03",
+          "time": "10:00",
+          "description": "Bills at Dolphins, kickoff 10am Pacific on CBS. The Local is home of the SD Bills Backers: Labatt bottles, Buffalo food favorites and the game on every screen. Let's go Buffalo."
+        }
+      ],
+      "_activityCategories": [
+        "food",
+        "nightlife",
+        "sports"
+      ],
+      "_eventCount": 24
+    },
+    {
+      "slug": "pacific-beach-taylor-library",
+      "name": "Pacific Beach/Taylor Library",
+      "category": "Library",
+      "tagline": "PB's nautilus-shell library with free weekly programs",
+      "description": "The Earl and Birdie Taylor branch of the San Diego Public Library, opened in 1997, with an outdoor patio and weekly free programs like kids dance parties, ukulele, crafting and LEGO time.",
+      "logoUrl": "",
+      "website": "https://www.sandiego.gov/public-library/locations/pacific-beach-taylor-library",
+      "phone": "(858) 581-9934",
+      "email": "",
+      "instagram": "",
+      "facebook": "PacificBeachLibrary",
+      "tiktok": "",
+      "address": "4275 Cass St, San Diego, CA 92109",
+      "lat": 32.7925,
+      "lng": -117.2463,
+      "neighborhood": "Pacific Beach",
+      "hours": "Tue 11:30am-8pm, Wed-Sat 9:30am-6pm, Sun-Mon closed",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "Outdoor Kids Dance Party (3rd Wednesday)",
+          "date": "2026-09-16",
+          "time": "10:00",
+          "description": "Dance and movement for kids on Taylor Greene outside the library. Runs 1st and 3rd Wednesdays. Free program at the Pacific Beach/Taylor Library."
+        },
+        {
+          "title": "Ukulele Lessons at PB Library",
+          "date": "2026-09-17",
+          "time": "14:00",
+          "description": "Weekly beginner ukulele lesson. Free program at the Pacific Beach/Taylor Library."
+        },
+        {
+          "title": "Ukulele Time at PB Library",
+          "date": "2026-09-17",
+          "time": "15:00",
+          "description": "Weekly open ukulele play time following the lesson. Free program at the Pacific Beach/Taylor Library."
+        },
+        {
+          "title": "LEGO Time at PB Library",
+          "date": "2026-09-18",
+          "time": "16:00",
+          "description": "Weekly LEGO building for kids. Free program at the Pacific Beach/Taylor Library."
+        },
+        {
+          "title": "Chess at the Beach",
+          "date": "2026-09-22",
+          "time": "16:00",
+          "description": "Drop-in chess every other Tuesday. All levels welcome. Free program at the Pacific Beach/Taylor Library."
+        },
+        {
+          "title": "Outdoor Toddler Storytime (4th Wednesday)",
+          "date": "2026-09-23",
+          "time": "10:00",
+          "description": "Simple stories, songs and community for toddlers outdoors. Runs 2nd and 4th Wednesdays. Free program at the Pacific Beach/Taylor Library."
+        },
+        {
+          "title": "Afternoon Crafting at PB Library",
+          "date": "2026-09-23",
+          "time": "14:00",
+          "description": "Weekly after-school arts and crafts on the library patio. Free program at the Pacific Beach/Taylor Library."
+        },
+        {
+          "title": "Blood Drive at PB Library",
+          "date": "2026-09-25",
+          "time": "10:00",
+          "description": "Community blood drive at the Pacific Beach/Taylor Library."
+        },
+        {
+          "title": "Craig Newton: Fun With Music",
+          "date": "2026-09-30",
+          "time": "10:00",
+          "description": "Visiting family music performance with Craig Newton. Free program at the Pacific Beach/Taylor Library."
+        },
+        {
+          "title": "Outdoor Kids Dance Party (1st Wednesday)",
+          "date": "2026-10-07",
+          "time": "10:00",
+          "description": "Dance and movement for kids on Taylor Greene outside the library. Runs 1st and 3rd Wednesdays. Free program at the Pacific Beach/Taylor Library."
+        },
+        {
+          "title": "Outdoor Toddler Storytime (2nd Wednesday)",
+          "date": "2026-10-14",
+          "time": "10:00",
+          "description": "Simple stories, songs and community for toddlers outdoors. Runs 2nd and 4th Wednesdays. Free program at the Pacific Beach/Taylor Library."
+        }
+      ]
+    },
+    {
+      "slug": "pacific-beach-run-club",
+      "name": "Pacific Beach Run Club",
+      "category": "Fitness",
+      "tagline": "Free social group runs in Pacific Beach",
+      "description": "A free community run club meeting at St. Paul's Lutheran on Felspar St for a Wednesday evening 5K and Saturday morning long runs with pace groups.",
+      "logoUrl": "",
+      "website": "https://www.pbrunclub.com/",
+      "phone": "",
+      "email": "",
+      "instagram": "@pbrunclub",
+      "facebook": "",
+      "tiktok": "@pbrunclub",
+      "address": "1376 Felspar St, San Diego, CA 92109",
+      "lat": 32.7999,
+      "lng": -117.242,
+      "neighborhood": "Pacific Beach",
+      "hours": "Wed 6pm social 5K; Sat 7am long run and 8:30am social 5K",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "PB Run Club Wednesday Social 5K",
+          "date": "2026-09-16",
+          "time": "18:00",
+          "description": "Social group 5K loop with accordion pacing and regroup stops. After daylight saving ends, bring a headlamp and reflective gear. Free Pacific Beach Run Club meetup at St. Paul's Lutheran on Felspar St. No sign-up needed."
+        },
+        {
+          "title": "PB Run Club Saturday Long Run",
+          "date": "2026-09-19",
+          "time": "07:00",
+          "description": "Weekly long run of 4 to 10 miles with pace groups from under 7:00 to 12:00 per mile. Free Pacific Beach Run Club meetup at St. Paul's Lutheran on Felspar St. No sign-up needed."
+        },
+        {
+          "title": "PB Run Club Saturday Social 5K",
+          "date": "2026-09-19",
+          "time": "08:30",
+          "description": "Social group 5K loop for all paces. Free Pacific Beach Run Club meetup at St. Paul's Lutheran on Felspar St. No sign-up needed."
+        }
+      ]
+    },
+    {
+      "slug": "pacific-beach-surf-club",
+      "name": "Pacific Beach Surf Club",
+      "category": "Nonprofit",
+      "tagline": "PB's nonprofit surf club and contest organizer",
+      "description": "A nonprofit surf club celebrating the Hawaiian sport of kings, running free monthly meetings and surf contests like the Tourmaline Club Challenge and Summer Longboard Classic.",
+      "logoUrl": "",
+      "website": "https://pacificbeachsurfclub.com/",
+      "phone": "",
+      "email": "",
+      "instagram": "@pacific_beach_surf_club",
+      "facebook": "p/Pacific-Beach-Surf-Club-100064427480196",
+      "tiktok": "",
+      "address": "751 Turquoise St, San Diego, CA 92109",
+      "lat": 32.8093,
+      "lng": -117.2595,
+      "neighborhood": "Pacific Beach",
+      "hours": "Club meetings 1st Thursday of the month, 7pm-8pm",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "Pacific Beach Surf Club Monthly Meeting",
+          "date": "2026-10-01",
+          "time": "19:00",
+          "description": "Free monthly meeting of the nonprofit Pacific Beach Surf Club, held the first Thursday of each month. Open to members and prospective members."
+        }
+      ]
+    },
+    {
+      "slug": "tourmaline-surfing-park",
+      "name": "Tourmaline Surfing Park",
+      "category": "Park",
+      "tagline": "North PB's classic longboard and surf contest break",
+      "description": "A city surfing park at the foot of Tourmaline St in north Pacific Beach, reserved for surfing and a regular home to local club surf contests.",
+      "logoUrl": "",
+      "website": "",
+      "phone": "",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "600 Tourmaline St, San Diego, CA 92109",
+      "lat": 32.8053,
+      "lng": -117.2622,
+      "neighborhood": "Pacific Beach",
+      "hours": "",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "16th Annual Tourmaline Club Challenge",
+          "date": "2026-10-03",
+          "time": "06:00",
+          "description": "Two-day club surf contest hosted by the Pacific Beach Surf Club and Cardiff Surf Club at Tourmaline. Entry $90 adults, $60 groms, with proceeds going to local firefighters. Free to watch."
+        }
+      ]
+    },
+    {
+      "slug": "west-end-pb",
+      "name": "West End PB",
+      "category": "Bar",
+      "tagline": "Pacific Beach's local dive bar",
+      "description": "A laid-back local bar at the north end of PB near Bird Rock with pool tables, and host of the Pacific Beach Surf Club's annual Pablo Smith Memorial Pool Tournament.",
+      "logoUrl": "",
+      "website": "https://westendpb.com/",
+      "phone": "",
+      "email": "",
+      "instagram": "@westendpb",
+      "facebook": "",
+      "tiktok": "",
+      "address": "5157 La Jolla Blvd, San Diego, CA 92109",
+      "lat": 32.8108,
+      "lng": -117.2627,
+      "neighborhood": "Pacific Beach",
+      "hours": "",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "5th Annual Pablo Smith Memorial Pool Tournament",
+          "date": "2026-10-03",
+          "time": "17:00",
+          "description": "Pacific Beach Surf Club fundraiser pool tournament. Scotch doubles, double elimination, $40 per team donation."
+        }
+      ]
+    },
+    {
+      "slug": "crystal-pier",
+      "name": "Crystal Pier",
+      "category": "Landmark",
+      "tagline": "PB's historic pier and cottage hotel at the foot of Garnet",
+      "description": "The 1927 wooden pier at the foot of Garnet Ave, lined with the Crystal Pier Hotel's beach cottages, and home of the annual Christmas on Crystal Pier tree lighting.",
+      "logoUrl": "",
+      "website": "http://www.crystalpier.com/",
+      "phone": "(800) 748-5894",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "4500 Ocean Blvd, San Diego, CA 92109",
+      "lat": 32.7968,
+      "lng": -117.2572,
+      "neighborhood": "Pacific Beach",
+      "hours": "",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "Christmas on Crystal Pier",
+          "date": "2026-12-05",
+          "time": "14:00",
+          "description": "Discover PB's holiday tradition on Crystal Pier with seasonal decor and activities. Photos 2pm to 4:30pm, tree lighting at 4:45pm."
+        }
+      ]
+    },
+    {
+      "slug": "kendall-frost-marsh-reserve",
+      "name": "Kendall-Frost Marsh Reserve",
+      "category": "Nature Reserve",
+      "tagline": "Mission Bay's last remaining salt marsh",
+      "description": "A UC Natural Reserve on the north shore of Mission Bay protecting the bay's last intact salt marsh, open to the public through free San Diego Bird Alliance birding and science walks.",
+      "logoUrl": "",
+      "website": "https://www.sandiegobirdalliance.org/what-we-do/conservation-1/wanderthewetlands.html",
+      "phone": "(858) 273-7800",
+      "email": "",
+      "instagram": "@sandiegobirdalliance",
+      "facebook": "sandiegobirdalliance",
+      "tiktok": "",
+      "address": "2055 Pacific Beach Dr, San Diego, CA 92109",
+      "lat": 32.7907,
+      "lng": -117.235,
+      "neighborhood": "Pacific Beach",
+      "hours": "Open for guided Wander the Wetlands events",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "Wander the Wetlands: Birding at Kendall-Frost",
+          "date": "2026-10-10",
+          "time": "09:00",
+          "description": "Free second-Saturday guided birding walk in Mission Bay's last salt marsh with the San Diego Bird Alliance. Binoculars provided, all ages, no registration. Short walk over sandy terrain from parking. Dec 12 is the last one of 2026."
+        }
+      ]
+    },
+    {
+      "slug": "sandbox-pizza",
+      "name": "Sandbox Pizza",
+      "category": "Sports Bar & Pizzeria",
+      "tagline": "San Diego's home for the Patriots",
+      "description": "Sandbox Pizza is a Pacific Beach sports bar on Garnet Ave that blends Boston culture with a SoCal beach vibe. It serves specialty and build-your-own pizzas, wings, fan-favorite Parm Pillows, craft cocktails and draft beer across 36 TVs. It is San Diego's go-to Patriots bar during football season, with weekday happy hour, Margarita Monday, Wednesday wings and wine, Thursday trivia, and fundraiser nights that give 35% of sales back to local groups.",
+      "logoUrl": "",
+      "website": "https://thesandboxpizza.com",
+      "phone": "(858) 272-7263",
+      "email": "sandboxsdpb@gmail.com",
+      "instagram": "@sandboxsd",
+      "facebook": "https://www.facebook.com/393090507459809",
+      "tiktok": "",
+      "address": "1466 Garnet Ave, San Diego, CA 92109",
+      "lat": 32.7994321,
+      "lng": -117.2431943,
+      "neighborhood": "Pacific Beach",
+      "hours": "Mon-Wed 11:30am-9pm, Thu-Sat 11:30am-10pm, Sun 9:30am-9pm (extended for Patriots games); Happy Hour Mon-Fri 12pm-5pm",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Thursday Trivia Night at Sandbox",
+          "date": "2026-09-17",
+          "time": "19:30",
+          "description": "Weekly trivia hosted by Sunset Trivia with $5 drafts, a $6 can of the day and a $5 shot of the day. Sandbox lists 7:30pm to 10pm; Sunset Trivia's site lists a 7pm start."
+        },
+        {
+          "title": "Patriots vs. Steelers Watch Party at Sandbox",
+          "date": "2026-09-20",
+          "time": "10:00",
+          "description": "Patriots vs. Steelers, kickoff 10am Pacific on CBS. Sandbox is San Diego's Patriots bar: 36 TVs, game sound on, game-day specials, themed cocktails, beer buckets and raffle prizes."
+        },
+        {
+          "title": "Sunday Service: Brunch, Beats & Bubbles at Sandbox",
+          "date": "2026-09-20",
+          "time": "12:00",
+          "description": "Sunday brunch with a live DJ plus brunch and drink specials, 12pm to 2pm. Launched August 16 as a lead-in to football season; confirm it is still running on Patriots Sundays."
+        },
+        {
+          "title": "$6 Margarita Monday at Sandbox",
+          "date": "2026-09-21",
+          "time": "12:00",
+          "description": "$6 margaritas all day every Monday, 12pm to 10pm, stacked with the 12pm to 5pm happy hour."
+        },
+        {
+          "title": "Half Off Wings & Wine Wednesday at Sandbox",
+          "date": "2026-09-23",
+          "time": "12:00",
+          "description": "Half off wings and wine every Wednesday. The specials page lists it 12pm to 9pm, but a September Instagram post said until 5pm, so confirm the cutoff before going."
+        },
+        {
+          "title": "Patriots at Jaguars Watch Party at Sandbox",
+          "date": "2026-09-27",
+          "time": "10:00",
+          "description": "Patriots at Jaguars, kickoff 10am Pacific on CBS. Sandbox is San Diego's Patriots bar: 36 TVs, game sound on, game-day specials, themed cocktails, beer buckets and raffle prizes."
+        },
+        {
+          "title": "Patriots at Bills Watch Party at Sandbox",
+          "date": "2026-10-04",
+          "time": "10:00",
+          "description": "Patriots at Bills, kickoff 10am Pacific on CBS. Sandbox is San Diego's Patriots bar: 36 TVs, game sound on, game-day specials, themed cocktails, beer buckets and raffle prizes."
+        },
+        {
+          "title": "Patriots vs. Raiders Watch Party at Sandbox",
+          "date": "2026-10-11",
+          "time": "10:00",
+          "description": "Patriots vs. Raiders, kickoff 10am Pacific on CBS. Sandbox is San Diego's Patriots bar: 36 TVs, game sound on, game-day specials, themed cocktails, beer buckets and raffle prizes."
+        },
+        {
+          "title": "Patriots vs. Jets Watch Party at Sandbox",
+          "date": "2026-10-18",
+          "time": "10:00",
+          "description": "Patriots vs. Jets, kickoff 10am Pacific on CBS. Sandbox is San Diego's Patriots bar: 36 TVs, game sound on, game-day specials, themed cocktails, beer buckets and raffle prizes."
+        },
+        {
+          "title": "Patriots at Bears Watch Party at Sandbox",
+          "date": "2026-10-22",
+          "time": "17:15",
+          "description": "Patriots at Bears, kickoff 5:15pm Pacific on Prime Video. Sandbox is San Diego's Patriots bar: 36 TVs, game sound on, game-day specials, themed cocktails, beer buckets and raffle prizes."
+        },
+        {
+          "title": "Patriots at Dolphins Watch Party at Sandbox",
+          "date": "2026-11-01",
+          "time": "13:25",
+          "description": "Patriots at Dolphins, kickoff 1:25pm Pacific on CBS. Sandbox is San Diego's Patriots bar: 36 TVs, game sound on, game-day specials, themed cocktails, beer buckets and raffle prizes."
+        },
+        {
+          "title": "Patriots vs. Packers Watch Party at Sandbox",
+          "date": "2026-11-08",
+          "time": "13:25",
+          "description": "Patriots vs. Packers, kickoff 1:25pm Pacific on FOX. Sandbox is San Diego's Patriots bar: 36 TVs, game sound on, game-day specials, themed cocktails, beer buckets and raffle prizes."
+        },
+        {
+          "title": "Patriots at Lions Watch Party at Sandbox",
+          "date": "2026-11-15",
+          "time": "06:30",
+          "description": "Patriots at Lions, kickoff 6:30am Pacific on FOX. Sandbox is San Diego's Patriots bar: 36 TVs, game sound on, game-day specials, themed cocktails, beer buckets and raffle prizes. Played in Munich with a 6:30am Pacific kickoff, earlier than Sandbox's usual Sunday open; confirm they are opening early."
+        },
+        {
+          "title": "Patriots at Chargers Watch Party at Sandbox",
+          "date": "2026-11-29",
+          "time": "17:20",
+          "description": "Patriots at Chargers, kickoff 5:20pm Pacific on NBC. Sandbox is San Diego's Patriots bar: 36 TVs, game sound on, game-day specials, themed cocktails, beer buckets and raffle prizes. Sunday Night Football in Los Angeles, the closest road game of the year."
+        },
+        {
+          "title": "Patriots vs. Bills Watch Party at Sandbox",
+          "date": "2026-12-06",
+          "time": "13:25",
+          "description": "Patriots vs. Bills, kickoff 1:25pm Pacific on CBS. Sandbox is San Diego's Patriots bar: 36 TVs, game sound on, game-day specials, themed cocktails, beer buckets and raffle prizes."
+        },
+        {
+          "title": "Patriots vs. Vikings Watch Party at Sandbox",
+          "date": "2026-12-10",
+          "time": "17:15",
+          "description": "Patriots vs. Vikings, kickoff 5:15pm Pacific on Prime Video. Sandbox is San Diego's Patriots bar: 36 TVs, game sound on, game-day specials, themed cocktails, beer buckets and raffle prizes."
+        },
+        {
+          "title": "Patriots at Chiefs Watch Party at Sandbox",
+          "date": "2026-12-21",
+          "time": "17:15",
+          "description": "Patriots at Chiefs, kickoff 5:15pm Pacific on ESPN. Sandbox is San Diego's Patriots bar: 36 TVs, game sound on, game-day specials, themed cocktails, beer buckets and raffle prizes."
+        },
+        {
+          "title": "Patriots at Jets Watch Party at Sandbox",
+          "date": "2026-12-27",
+          "time": "10:00",
+          "description": "Patriots at Jets, kickoff 10am Pacific on CBS. Sandbox is San Diego's Patriots bar: 36 TVs, game sound on, game-day specials, themed cocktails, beer buckets and raffle prizes."
+        }
+      ],
+      "_activityCategories": [
+        "food",
+        "nightlife",
+        "sports"
+      ],
+      "_eventCount": 18
+    },
+    {
+      "slug": "society-pb",
+      "name": "Society PB",
+      "category": "Sports Bar, Pool Hall & Restaurant",
+      "tagline": "Pacific Beach's Eagles Landing on game day",
+      "description": "Society PB is a Pacific Beach sports bar, pool hall, restaurant and event center on Garnet Ave, open since 1989. It has 25 HD TVs and a projector, pool tables, and now serves Bubba's Smokehouse BBQ from its kitchen. It backs the Padres, Lakers and Philadelphia Eagles, and on every Eagles game day it becomes Eagles Landing, PB's home for Eagles fans. Society is also expanding with a second location announced for 2026.",
+      "logoUrl": "",
+      "website": "https://societypb.com/",
+      "phone": "(858) 272-7665",
+      "email": "info@societypb.com",
+      "instagram": "@societypacificbeach",
+      "facebook": "https://www.facebook.com/societypacificbeach/",
+      "tiktok": "",
+      "address": "1051 Garnet Ave, San Diego, CA 92109",
+      "lat": 32.7974926,
+      "lng": -117.2506595,
+      "neighborhood": "Pacific Beach",
+      "hours": "Mon-Fri 4pm-close, Sat-Sun 1pm-close; kitchen closes 10pm Sun-Thu, 11pm Fri-Sat (early opens for select games and holidays)",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Eagles Landing: Eagles at Titans",
+          "date": "2026-09-20",
+          "time": "10:00",
+          "description": "Eagles at Titans, kickoff 10am Pacific on FOX. On Eagles game days Society PB becomes Eagles Landing, Pacific Beach's Philadelphia Eagles bar: 25 HD TVs and a projector, pool tables, Bubba's BBQ from the kitchen and cold beer. Kickoff is before Society's usual 1pm open; confirm early doors."
+        },
+        {
+          "title": "Eagles Landing: Eagles at Bears",
+          "date": "2026-09-28",
+          "time": "17:15",
+          "description": "Eagles at Bears, kickoff 5:15pm Pacific on ESPN/ABC. On Eagles game days Society PB becomes Eagles Landing, Pacific Beach's Philadelphia Eagles bar: 25 HD TVs and a projector, pool tables, Bubba's BBQ from the kitchen and cold beer."
+        },
+        {
+          "title": "Eagles Landing: Eagles vs. Rams",
+          "date": "2026-10-04",
+          "time": "10:00",
+          "description": "Eagles vs. Rams, kickoff 10am Pacific on FOX. On Eagles game days Society PB becomes Eagles Landing, Pacific Beach's Philadelphia Eagles bar: 25 HD TVs and a projector, pool tables, Bubba's BBQ from the kitchen and cold beer. Kickoff is before Society's usual 1pm open; confirm early doors."
+        },
+        {
+          "title": "Eagles Landing: Eagles vs. Jaguars",
+          "date": "2026-10-11",
+          "time": "06:30",
+          "description": "Eagles vs. Jaguars, kickoff 6:30am Pacific on NFL Network. On Eagles game days Society PB becomes Eagles Landing, Pacific Beach's Philadelphia Eagles bar: 25 HD TVs and a projector, pool tables, Bubba's BBQ from the kitchen and cold beer. Kickoff is before Society's usual 1pm open; confirm early doors. Played in London (Tottenham Hotspur Stadium)."
+        },
+        {
+          "title": "Eagles Landing: Eagles vs. Panthers",
+          "date": "2026-10-18",
+          "time": "10:00",
+          "description": "Eagles vs. Panthers, kickoff 10am Pacific on CBS. On Eagles game days Society PB becomes Eagles Landing, Pacific Beach's Philadelphia Eagles bar: 25 HD TVs and a projector, pool tables, Bubba's BBQ from the kitchen and cold beer. Kickoff is before Society's usual 1pm open; confirm early doors."
+        },
+        {
+          "title": "Eagles Landing: Eagles vs. Cowboys",
+          "date": "2026-10-26",
+          "time": "17:15",
+          "description": "Eagles vs. Cowboys, kickoff 5:15pm Pacific on ESPN/ABC. On Eagles game days Society PB becomes Eagles Landing, Pacific Beach's Philadelphia Eagles bar: 25 HD TVs and a projector, pool tables, Bubba's BBQ from the kitchen and cold beer."
+        },
+        {
+          "title": "Eagles Landing: Eagles at Commanders",
+          "date": "2026-11-01",
+          "time": "17:20",
+          "description": "Eagles at Commanders, kickoff 5:20pm Pacific on NBC. On Eagles game days Society PB becomes Eagles Landing, Pacific Beach's Philadelphia Eagles bar: 25 HD TVs and a projector, pool tables, Bubba's BBQ from the kitchen and cold beer."
+        },
+        {
+          "title": "Eagles Landing: Eagles vs. Giants",
+          "date": "2026-11-08",
+          "time": "10:00",
+          "description": "Eagles vs. Giants, kickoff 10am Pacific on FOX. On Eagles game days Society PB becomes Eagles Landing, Pacific Beach's Philadelphia Eagles bar: 25 HD TVs and a projector, pool tables, Bubba's BBQ from the kitchen and cold beer. Kickoff is before Society's usual 1pm open; confirm early doors."
+        },
+        {
+          "title": "Eagles Landing: Eagles vs. Steelers",
+          "date": "2026-11-22",
+          "time": "13:25",
+          "description": "Eagles vs. Steelers, kickoff 1:25pm Pacific on CBS. On Eagles game days Society PB becomes Eagles Landing, Pacific Beach's Philadelphia Eagles bar: 25 HD TVs and a projector, pool tables, Bubba's BBQ from the kitchen and cold beer."
+        },
+        {
+          "title": "Eagles Landing: Eagles at Cowboys",
+          "date": "2026-11-26",
+          "time": "13:30",
+          "description": "Eagles at Cowboys, kickoff 1:30pm Pacific on FOX. On Eagles game days Society PB becomes Eagles Landing, Pacific Beach's Philadelphia Eagles bar: 25 HD TVs and a projector, pool tables, Bubba's BBQ from the kitchen and cold beer. Kickoff is before Society's usual 4pm open; confirm early doors. Thanksgiving Day game."
+        },
+        {
+          "title": "Eagles Landing: Eagles at Cardinals",
+          "date": "2026-12-06",
+          "time": "13:05",
+          "description": "Eagles at Cardinals, kickoff 1:05pm Pacific on FOX. On Eagles game days Society PB becomes Eagles Landing, Pacific Beach's Philadelphia Eagles bar: 25 HD TVs and a projector, pool tables, Bubba's BBQ from the kitchen and cold beer."
+        },
+        {
+          "title": "Eagles Landing: Eagles vs. Colts",
+          "date": "2026-12-13",
+          "time": "10:00",
+          "description": "Eagles vs. Colts, kickoff 10am Pacific on FOX. On Eagles game days Society PB becomes Eagles Landing, Pacific Beach's Philadelphia Eagles bar: 25 HD TVs and a projector, pool tables, Bubba's BBQ from the kitchen and cold beer. Kickoff is before Society's usual 1pm open; confirm early doors."
+        },
+        {
+          "title": "Eagles Landing: Eagles vs. Seahawks",
+          "date": "2026-12-19",
+          "time": "14:00",
+          "description": "Eagles vs. Seahawks, kickoff 2pm Pacific on FOX. On Eagles game days Society PB becomes Eagles Landing, Pacific Beach's Philadelphia Eagles bar: 25 HD TVs and a projector, pool tables, Bubba's BBQ from the kitchen and cold beer. Saturday game."
+        },
+        {
+          "title": "Eagles Landing: Eagles vs. Texans",
+          "date": "2026-12-24",
+          "time": "17:15",
+          "description": "Eagles vs. Texans, kickoff 5:15pm Pacific on Prime Video. On Eagles game days Society PB becomes Eagles Landing, Pacific Beach's Philadelphia Eagles bar: 25 HD TVs and a projector, pool tables, Bubba's BBQ from the kitchen and cold beer. Christmas Eve game; confirm holiday hours."
+        },
+        {
+          "title": "Eagles Landing: Eagles at 49ers",
+          "date": "2027-01-03",
+          "time": "17:20",
+          "description": "Eagles at 49ers, kickoff 5:20pm Pacific on NBC. On Eagles game days Society PB becomes Eagles Landing, Pacific Beach's Philadelphia Eagles bar: 25 HD TVs and a projector, pool tables, Bubba's BBQ from the kitchen and cold beer."
+        }
+      ],
+      "_activityCategories": [
+        "sports"
+      ],
+      "_eventCount": 15
+    },
+    {
+      "slug": "spitz-pb",
+      "name": "Spitz PB",
+      "category": "Mediterranean Restaurant & Bar",
+      "tagline": "Mediterranean street food on Garnet Ave",
+      "description": "Spitz PB is the Pacific Beach location of the LA-born Mediterranean street food chain, open since fall 2025 in the former Crushed space on Garnet Ave. The menu centers on spit-roasted doner wraps, Döquitos, bowls and Berliner fries, with vegan and gluten-free options, plus San Diego craft beer, sangria and wine. It has a sunny patio, board games and a full menu all day, with happy hour Monday to Friday 3pm to 6pm and all day Sunday.",
+      "logoUrl": "",
+      "website": "https://spitz-restaurant.com/spitz-pacific-beach/",
+      "phone": "",
+      "email": "",
+      "instagram": "@spitz_pb",
+      "facebook": "https://www.facebook.com/p/Spitz-Pacific-Beach-61578265619790/",
+      "tiktok": "",
+      "address": "967 Garnet Ave, San Diego, CA 92109",
+      "lat": 32.7971175,
+      "lng": -117.2521337,
+      "neighborhood": "Pacific Beach",
+      "hours": "Daily 11am-10pm; Happy Hour Mon-Fri 3pm-6pm and all day Sunday",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "$50 Date Night at Spitz PB",
+          "date": "2026-09-23",
+          "time": "17:00",
+          "description": "Every Wednesday from 5pm to close (10pm): $50 gets two entrees, a large side and a bottle of wine at Spitz, the Mediterranean street food spot on Garnet known for doner wraps, Döquitos and Berliner fries."
+        }
+      ],
+      "_activityCategories": [
+        "food"
+      ],
+      "_eventCount": 1
+    },
+    {
+      "slug": "break-point-pb",
+      "name": "Break Point PB",
+      "category": "Nightclub, Bar & Bowling",
+      "tagline": "Dancing, full bar, food and bowling on Garnet",
+      "description": "Break Point PB is a Pacific Beach nightclub, sports bar and bowling spot on Garnet Ave with a full bar and food. It is one of PB's main stages for underground bass and electronic music, hosting promoters like Overdrive, Psychosis Events and Galactic Giraffe Group, and it is the neighborhood's Ohio State bar on Buckeyes game days. 21+ for club nights.",
+      "logoUrl": "",
+      "website": "",
+      "phone": "",
+      "email": "",
+      "instagram": "@breakpointpb",
+      "facebook": "https://www.facebook.com/breakpointpb/",
+      "tiktok": "",
+      "address": "945 Garnet Ave, San Diego, CA 92109",
+      "lat": 32.7970883,
+      "lng": -117.2526171,
+      "neighborhood": "Pacific Beach",
+      "hours": "Thu-Fri 4pm-close, Sat 11am-close, Sun 10am-close (per Instagram bio)",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Ohio State vs. Kent State at Break Point",
+          "date": "2026-09-19",
+          "time": "09:00",
+          "description": "Ohio State vs. Kent State, kickoff 9am Pacific on FOX. Break Point PB is Pacific Beach's Ohio State bar, with a full bar, food and bowling lanes on Garnet Ave. Kickoff is before Break Point's usual 11am Saturday open; confirm early doors."
+        },
+        {
+          "title": "Ohio State vs. Illinois at Break Point",
+          "date": "2026-09-26",
+          "time": "09:00",
+          "description": "Ohio State vs. Illinois, kickoff 9am Pacific on FOX. Break Point PB is Pacific Beach's Ohio State bar, with a full bar, food and bowling lanes on Garnet Ave. Kickoff is before Break Point's usual 11am Saturday open; confirm early doors."
+        },
+        {
+          "title": "Death to Summer at Break Point",
+          "date": "2026-09-26",
+          "time": "21:00",
+          "description": "Galactic Giraffe Group's end-of-summer bass music party with The Unconditional Order, Noirkxtty, Remnant, Obi Zan and more. 21+. Start time and tickets on @galacticgiraffegroup; 9pm is a placeholder."
+        },
+        {
+          "title": "RELOAD BASS at Break Point",
+          "date": "2026-10-02",
+          "time": "21:00",
+          "description": "Overdrive's RELOAD returns with a dark, heavy night of dubstep, breaks, 2-step garage and drum and bass, headlined by PHIR with Psilocientist, Oni, Eth.ius and Anna PL on a Bass Eggs sound system. 21+. Tickets on Posh; 9pm start is a placeholder."
+        },
+        {
+          "title": "Ohio State vs. Michigan at Break Point",
+          "date": "2026-11-28",
+          "time": "09:00",
+          "description": "Ohio State vs. Michigan, kickoff 9am Pacific on FOX. Break Point PB is Pacific Beach's Ohio State bar, with a full bar, food and bowling lanes on Garnet Ave. Kickoff is before Break Point's usual 11am Saturday open; confirm early doors. The Game: Ohio State vs. Michigan, the biggest rivalry of the season."
+        },
+        {
+          "title": "Capochino: Back To Life Tour at Break Point",
+          "date": "2026-12-04",
+          "time": "21:00",
+          "description": "Psychosis Events brings rising bass artist Capochino's Back To Life Tour to San Diego for the first time. 21+. Pre-sale via text CAPOCHINO to (619) 853-4473; 9pm start is a placeholder."
+        }
+      ],
+      "_activityCategories": [
+        "nightlife",
+        "sports"
+      ],
+      "_eventCount": 6
+    },
+    {
+      "slug": "thrusters-lounge",
+      "name": "Thrusters Lounge",
+      "category": "Dive Bar",
+      "tagline": "SD's OG home of the Seahawks since 1999",
+      "description": "Thrusters Lounge is a Pacific Beach neighborhood dive on Mission Blvd, open since 1999 and named for the three-fin thruster surfboard. It pours 22 taps and cocktails, serves burgers, brings in DJs, and is San Diego's original Seattle Seahawks bar, showing every preseason and regular season game and opening an hour before kickoff, even for early games. 21+ only.",
+      "logoUrl": "",
+      "website": "https://www.thrusterslounge.com/",
+      "phone": "",
+      "email": "info@thrusterslounge.com",
+      "instagram": "@thrusterslounge",
+      "facebook": "",
+      "tiktok": "",
+      "address": "4633 Mission Blvd, San Diego, CA 92109",
+      "lat": 32.798234,
+      "lng": -117.255763,
+      "neighborhood": "Pacific Beach",
+      "hours": "Mon-Thu 5pm-2am, Fri-Sun 3pm-2am; opens 1 hour before every Seahawks kickoff",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Seahawks at Cardinals at Thrusters",
+          "date": "2026-09-20",
+          "time": "12:25",
+          "description": "Seahawks at Cardinals, kickoff 1:25pm Pacific on FOX. Thrusters Lounge is San Diego's OG home of the Seahawks and shows every game, opening one hour before kickoff, early mornings included. Neighborhood dive with 22 taps, cocktails and burgers. 21+."
+        },
+        {
+          "title": "Seahawks at Commanders at Thrusters",
+          "date": "2026-09-27",
+          "time": "09:00",
+          "description": "Seahawks at Commanders, kickoff 10am Pacific on FOX. Thrusters Lounge is San Diego's OG home of the Seahawks and shows every game, opening one hour before kickoff, early mornings included. Neighborhood dive with 22 taps, cocktails and burgers. 21+."
+        },
+        {
+          "title": "Seahawks vs. Chargers at Thrusters",
+          "date": "2026-10-04",
+          "time": "12:25",
+          "description": "Seahawks vs. Chargers, kickoff 1:25pm Pacific on CBS. Thrusters Lounge is San Diego's OG home of the Seahawks and shows every game, opening one hour before kickoff, early mornings included. Neighborhood dive with 22 taps, cocktails and burgers. 21+."
+        },
+        {
+          "title": "Seahawks vs. 49ers at Thrusters",
+          "date": "2026-10-11",
+          "time": "12:25",
+          "description": "Seahawks vs. 49ers, kickoff 1:25pm Pacific on FOX. Thrusters Lounge is San Diego's OG home of the Seahawks and shows every game, opening one hour before kickoff, early mornings included. Neighborhood dive with 22 taps, cocktails and burgers. 21+."
+        },
+        {
+          "title": "Seahawks at Broncos at Thrusters",
+          "date": "2026-10-15",
+          "time": "16:15",
+          "description": "Seahawks at Broncos, kickoff 5:15pm Pacific on Prime Video. Thrusters Lounge is San Diego's OG home of the Seahawks and shows every game, opening one hour before kickoff, early mornings included. Neighborhood dive with 22 taps, cocktails and burgers. 21+."
+        },
+        {
+          "title": "Seahawks vs. Chiefs at Thrusters",
+          "date": "2026-10-25",
+          "time": "16:20",
+          "description": "Seahawks vs. Chiefs, kickoff 5:20pm Pacific on NBC. Thrusters Lounge is San Diego's OG home of the Seahawks and shows every game, opening one hour before kickoff, early mornings included. Neighborhood dive with 22 taps, cocktails and burgers. 21+."
+        },
+        {
+          "title": "Seahawks vs. Bears at Thrusters",
+          "date": "2026-11-02",
+          "time": "16:15",
+          "description": "Seahawks vs. Bears, kickoff 5:15pm Pacific on ESPN. Thrusters Lounge is San Diego's OG home of the Seahawks and shows every game, opening one hour before kickoff, early mornings included. Neighborhood dive with 22 taps, cocktails and burgers. 21+."
+        },
+        {
+          "title": "Seahawks vs. Cardinals at Thrusters",
+          "date": "2026-11-08",
+          "time": "12:25",
+          "description": "Seahawks vs. Cardinals, kickoff 1:25pm Pacific on FOX. Thrusters Lounge is San Diego's OG home of the Seahawks and shows every game, opening one hour before kickoff, early mornings included. Neighborhood dive with 22 taps, cocktails and burgers. 21+."
+        },
+        {
+          "title": "Seahawks at Raiders at Thrusters",
+          "date": "2026-11-15",
+          "time": "12:05",
+          "description": "Seahawks at Raiders, kickoff 1:05pm Pacific on CBS. Thrusters Lounge is San Diego's OG home of the Seahawks and shows every game, opening one hour before kickoff, early mornings included. Neighborhood dive with 22 taps, cocktails and burgers. 21+."
+        },
+        {
+          "title": "Seahawks at 49ers at Thrusters",
+          "date": "2026-11-29",
+          "time": "12:25",
+          "description": "Seahawks at 49ers, kickoff 1:25pm Pacific on FOX. Thrusters Lounge is San Diego's OG home of the Seahawks and shows every game, opening one hour before kickoff, early mornings included. Neighborhood dive with 22 taps, cocktails and burgers. 21+."
+        },
+        {
+          "title": "Seahawks vs. Cowboys at Thrusters",
+          "date": "2026-12-07",
+          "time": "16:15",
+          "description": "Seahawks vs. Cowboys, kickoff 5:15pm Pacific on ESPN. Thrusters Lounge is San Diego's OG home of the Seahawks and shows every game, opening one hour before kickoff, early mornings included. Neighborhood dive with 22 taps, cocktails and burgers. 21+."
+        },
+        {
+          "title": "Seahawks vs. Giants at Thrusters",
+          "date": "2026-12-13",
+          "time": "12:25",
+          "description": "Seahawks vs. Giants, kickoff 1:25pm Pacific on FOX. Thrusters Lounge is San Diego's OG home of the Seahawks and shows every game, opening one hour before kickoff, early mornings included. Neighborhood dive with 22 taps, cocktails and burgers. 21+."
+        },
+        {
+          "title": "Seahawks at Eagles at Thrusters",
+          "date": "2026-12-19",
+          "time": "13:00",
+          "description": "Seahawks at Eagles, kickoff 2pm Pacific on FOX. Thrusters Lounge is San Diego's OG home of the Seahawks and shows every game, opening one hour before kickoff, early mornings included. Neighborhood dive with 22 taps, cocktails and burgers. 21+. Eagles fans will be down Garnet at Eagles Landing (Society PB)."
+        },
+        {
+          "title": "Seahawks vs. Rams at Thrusters",
+          "date": "2026-12-25",
+          "time": "16:15",
+          "description": "Seahawks vs. Rams, kickoff 5:15pm Pacific on FOX. Thrusters Lounge is San Diego's OG home of the Seahawks and shows every game, opening one hour before kickoff, early mornings included. Neighborhood dive with 22 taps, cocktails and burgers. 21+. Christmas Day game."
+        },
+        {
+          "title": "Seahawks at Panthers at Thrusters",
+          "date": "2027-01-03",
+          "time": "09:00",
+          "description": "Seahawks at Panthers, kickoff 10am Pacific on FOX. Thrusters Lounge is San Diego's OG home of the Seahawks and shows every game, opening one hour before kickoff, early mornings included. Neighborhood dive with 22 taps, cocktails and burgers. 21+."
+        }
+      ],
+      "_activityCategories": [
+        "sports"
+      ],
+      "_eventCount": 15
+    },
+    {
+      "slug": "bare-back-grill",
+      "name": "Bare Back Grill",
+      "category": "New Zealand Burger Bar & Grill",
+      "tagline": "New Zealand flavor meets Pacific Beach chill",
+      "description": "Bare Back Grill is a New Zealand-inspired burger bar on Mission Blvd, steps from the sand, serving organic grass-fed and NZ Wagyu burgers, Kiwi-style dishes, craft beer and cocktails. Brunch is served daily, the patio watches the surf crowd roll by, and happy hour runs weekdays 3pm to 6pm and all day Tuesday. Part of the NZ Eats group; members of its Burger of the Month Club get a new burger on the house each month. Flip-flops welcome.",
+      "logoUrl": "",
+      "website": "https://barebackgrill.com/",
+      "phone": "(858) 274-7117",
+      "email": "",
+      "instagram": "@barebackgrill",
+      "facebook": "",
+      "tiktok": "",
+      "address": "4640 Mission Blvd, San Diego, CA 92109",
+      "lat": 32.7982699,
+      "lng": -117.2562329,
+      "neighborhood": "Pacific Beach",
+      "hours": "Mon-Thu 11am-9pm, Fri 11am-10pm, Sat 10am-10pm, Sun 10am-9pm; Happy Hour Mon-Fri 3pm-6pm, all day Tuesday",
+      "featured": false,
+      "verified": true,
+      "events": [],
+      "_activityCategories": [],
+      "_eventCount": 0
+    },
+    {
+      "slug": "pacific-beach-alehouse",
+      "name": "Pacific Beach AleHouse",
+      "category": "Brewpub & Sports Bar",
+      "tagline": "Craft beer and coastal vibes: PB's Broncos and Hawkeyes headquarters",
+      "description": "Pacific Beach AleHouse is a craft beer brewpub and sports bar a block from the beach on Grand Ave, with a rooftop patio and beer garden. Weekday happy hour runs 2pm to 5pm, followed by a weekly lineup of Burger Mondays, Fiesta Tuesdays, Spin the Wheel trivia Wednesdays, Study Break Thursdays and Fri-Yay Fridays. It is the neighborhood's Denver Broncos and Iowa Hawkeyes headquarters, with every game on full sound, DJs, beer buckets and a football menu, and it shows all the other games too.",
+      "logoUrl": "",
+      "website": "https://pbalehouse.com/",
+      "phone": "(858) 581-2337",
+      "email": "info@pbalehouse.com",
+      "instagram": "@pb_alehouse",
+      "facebook": "https://www.facebook.com/PacificBeachAleHouse",
+      "tiktok": "",
+      "address": "721 Grand Ave, San Diego, CA 92109",
+      "lat": 32.7943504,
+      "lng": -117.255392,
+      "neighborhood": "Pacific Beach",
+      "hours": "Mon-Thu 11am-11pm, Fri 11am-2am, Sat 10am-2am, Sun 10am-11pm (website; Instagram lists Mon-Fri 11am-2am); kitchen closes 10pm; Happy Hour Mon-Fri 2pm-5pm",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Study Break Thursdays at PB AleHouse",
+          "date": "2026-09-17",
+          "time": "21:00",
+          "description": "From 9pm to close: $5 house beers and wells, and $7 Crown Royal, Ketel One and Casamigos."
+        },
+        {
+          "title": "Fri-Yay Fridays at PB AleHouse",
+          "date": "2026-09-18",
+          "time": "21:00",
+          "description": "From 9pm to 2am close: $5 wells and house beers, and $7 Crown Royal, Ketel One and Casamigos."
+        },
+        {
+          "title": "Iowa Hawkeyes vs. UNI at PB AleHouse",
+          "date": "2026-09-19",
+          "time": "13:00",
+          "description": "Iowa vs. UNI, kickoff 1pm Pacific on FS1. PB AleHouse is Pacific Beach's Broncos and Iowa Hawkeyes headquarters: multiple TVs with full sound, a DJ, beer buckets and a football menu with walking tacos, green chili, bison burritos and footlong green chili dogs."
+        },
+        {
+          "title": "Broncos vs. Jaguars at PB AleHouse",
+          "date": "2026-09-20",
+          "time": "13:05",
+          "description": "Broncos vs. Jaguars, kickoff 1:05pm Pacific on CBS. PB AleHouse is Pacific Beach's Broncos and Iowa Hawkeyes headquarters: multiple TVs with full sound, a DJ, beer buckets and a football menu with walking tacos, green chili, bison burritos and footlong green chili dogs."
+        },
+        {
+          "title": "Burger Mondays at PB AleHouse",
+          "date": "2026-09-21",
+          "time": "11:00",
+          "description": "Burger Mondays from 11am to 5pm with $5 house beers and $7 Crown Royal, Ketel One and Casamigos."
+        },
+        {
+          "title": "Fiesta Tuesdays at PB AleHouse",
+          "date": "2026-09-22",
+          "time": "17:00",
+          "description": "From 5pm to close: $5 AleHouse Mexican Lager, $8 Mexican Candy shots, $10 well margaritas and $13 Caddy margaritas."
+        },
+        {
+          "title": "Spin the Wheel Wednesdays at PB AleHouse",
+          "date": "2026-09-23",
+          "time": "19:00",
+          "description": "Trivia with spin-the-wheel specials from 7pm to 9pm, plus $5 house beers and $5 wells."
+        },
+        {
+          "title": "Iowa Hawkeyes at Michigan at PB AleHouse",
+          "date": "2026-09-26",
+          "time": "12:30",
+          "description": "Iowa at Michigan, kickoff 12:30pm Pacific on CBS. PB AleHouse is Pacific Beach's Broncos and Iowa Hawkeyes headquarters: multiple TVs with full sound, a DJ, beer buckets and a football menu with walking tacos, green chili, bison burritos and footlong green chili dogs."
+        },
+        {
+          "title": "Broncos vs. Rams at PB AleHouse",
+          "date": "2026-09-27",
+          "time": "17:20",
+          "description": "Broncos vs. Rams, kickoff 5:20pm Pacific on NBC. PB AleHouse is Pacific Beach's Broncos and Iowa Hawkeyes headquarters: multiple TVs with full sound, a DJ, beer buckets and a football menu with walking tacos, green chili, bison burritos and footlong green chili dogs."
+        },
+        {
+          "title": "Broncos at 49ers at PB AleHouse",
+          "date": "2026-10-04",
+          "time": "13:25",
+          "description": "Broncos at 49ers, kickoff 1:25pm Pacific on CBS. PB AleHouse is Pacific Beach's Broncos and Iowa Hawkeyes headquarters: multiple TVs with full sound, a DJ, beer buckets and a football menu with walking tacos, green chili, bison burritos and footlong green chili dogs."
+        },
+        {
+          "title": "Iowa Hawkeyes at Washington at PB AleHouse",
+          "date": "2026-10-09",
+          "time": "18:00",
+          "description": "Iowa at Washington, kickoff 6pm Pacific on FOX/FS1. PB AleHouse is Pacific Beach's Broncos and Iowa Hawkeyes headquarters: multiple TVs with full sound, a DJ, beer buckets and a football menu with walking tacos, green chili, bison burritos and footlong green chili dogs. Friday night game."
+        },
+        {
+          "title": "Oktoberfest at PB AleHouse",
+          "date": "2026-10-10",
+          "time": "12:00",
+          "description": "Oktoberfest in the Beer Garden from 12pm to 6pm: German beer specials, bratwurst with sauerkraut, beer mustard and fries, a stein-holding contest with prizes, games and German tunes. Prost!"
+        },
+        {
+          "title": "Broncos at Chargers at PB AleHouse",
+          "date": "2026-10-11",
+          "time": "13:05",
+          "description": "Broncos at Chargers, kickoff 1:05pm Pacific on CBS. PB AleHouse is Pacific Beach's Broncos and Iowa Hawkeyes headquarters: multiple TVs with full sound, a DJ, beer buckets and a football menu with walking tacos, green chili, bison burritos and footlong green chili dogs."
+        },
+        {
+          "title": "Broncos vs. Seahawks at PB AleHouse",
+          "date": "2026-10-15",
+          "time": "17:15",
+          "description": "Broncos vs. Seahawks, kickoff 5:15pm Pacific on Prime Video. PB AleHouse is Pacific Beach's Broncos and Iowa Hawkeyes headquarters: multiple TVs with full sound, a DJ, beer buckets and a football menu with walking tacos, green chili, bison burritos and footlong green chili dogs. Seahawks fans will be at Thrusters Lounge."
+        },
+        {
+          "title": "Broncos at Cardinals at PB AleHouse",
+          "date": "2026-10-25",
+          "time": "13:05",
+          "description": "Broncos at Cardinals, kickoff 1:05pm Pacific on CBS. PB AleHouse is Pacific Beach's Broncos and Iowa Hawkeyes headquarters: multiple TVs with full sound, a DJ, beer buckets and a football menu with walking tacos, green chili, bison burritos and footlong green chili dogs."
+        },
+        {
+          "title": "Broncos vs. Chiefs at PB AleHouse",
+          "date": "2026-11-01",
+          "time": "13:25",
+          "description": "Broncos vs. Chiefs, kickoff 1:25pm Pacific on CBS. PB AleHouse is Pacific Beach's Broncos and Iowa Hawkeyes headquarters: multiple TVs with full sound, a DJ, beer buckets and a football menu with walking tacos, green chili, bison burritos and footlong green chili dogs."
+        },
+        {
+          "title": "Broncos at Panthers at PB AleHouse",
+          "date": "2026-11-08",
+          "time": "10:00",
+          "description": "Broncos at Panthers, kickoff 10am Pacific on CBS. PB AleHouse is Pacific Beach's Broncos and Iowa Hawkeyes headquarters: multiple TVs with full sound, a DJ, beer buckets and a football menu with walking tacos, green chili, bison burritos and footlong green chili dogs."
+        },
+        {
+          "title": "Broncos vs. Raiders at PB AleHouse",
+          "date": "2026-11-22",
+          "time": "13:25",
+          "description": "Broncos vs. Raiders, kickoff 1:25pm Pacific on CBS. PB AleHouse is Pacific Beach's Broncos and Iowa Hawkeyes headquarters: multiple TVs with full sound, a DJ, beer buckets and a football menu with walking tacos, green chili, bison burritos and footlong green chili dogs."
+        },
+        {
+          "title": "Iowa Hawkeyes vs. Nebraska at PB AleHouse",
+          "date": "2026-11-27",
+          "time": "09:00",
+          "description": "Iowa vs. Nebraska, kickoff 9am Pacific on CBS. PB AleHouse is Pacific Beach's Broncos and Iowa Hawkeyes headquarters: multiple TVs with full sound, a DJ, beer buckets and a football menu with walking tacos, green chili, bison burritos and footlong green chili dogs. 9am kickoff on Black Friday, before the usual 11am Friday open; confirm early doors. Huskers fans will be at Duck Dive."
+        },
+        {
+          "title": "Broncos at Steelers at PB AleHouse",
+          "date": "2026-11-27",
+          "time": "12:00",
+          "description": "Broncos at Steelers, kickoff 12pm Pacific on Prime Video. PB AleHouse is Pacific Beach's Broncos and Iowa Hawkeyes headquarters: multiple TVs with full sound, a DJ, beer buckets and a football menu with walking tacos, green chili, bison burritos and footlong green chili dogs. Black Friday game; the Hawkeyes play Nebraska earlier the same day."
+        },
+        {
+          "title": "Broncos vs. Dolphins at PB AleHouse",
+          "date": "2026-12-06",
+          "time": "13:05",
+          "description": "Broncos vs. Dolphins, kickoff 1:05pm Pacific on FOX. PB AleHouse is Pacific Beach's Broncos and Iowa Hawkeyes headquarters: multiple TVs with full sound, a DJ, beer buckets and a football menu with walking tacos, green chili, bison burritos and footlong green chili dogs."
+        },
+        {
+          "title": "Broncos at Jets at PB AleHouse",
+          "date": "2026-12-13",
+          "time": "10:00",
+          "description": "Broncos at Jets, kickoff 10am Pacific on CBS. PB AleHouse is Pacific Beach's Broncos and Iowa Hawkeyes headquarters: multiple TVs with full sound, a DJ, beer buckets and a football menu with walking tacos, green chili, bison burritos and footlong green chili dogs."
+        },
+        {
+          "title": "Broncos at Raiders at PB AleHouse",
+          "date": "2026-12-20",
+          "time": "13:25",
+          "description": "Broncos at Raiders, kickoff 1:25pm Pacific on CBS. PB AleHouse is Pacific Beach's Broncos and Iowa Hawkeyes headquarters: multiple TVs with full sound, a DJ, beer buckets and a football menu with walking tacos, green chili, bison burritos and footlong green chili dogs."
+        },
+        {
+          "title": "Broncos vs. Bills at PB AleHouse",
+          "date": "2026-12-25",
+          "time": "13:30",
+          "description": "Broncos vs. Bills, kickoff 1:30pm Pacific on Netflix. PB AleHouse is Pacific Beach's Broncos and Iowa Hawkeyes headquarters: multiple TVs with full sound, a DJ, beer buckets and a football menu with walking tacos, green chili, bison burritos and footlong green chili dogs. Christmas Day game; confirm holiday hours."
+        }
+      ],
+      "_activityCategories": [
+        "food",
+        "nightlife",
+        "sports"
+      ],
+      "_eventCount": 24
+    },
+    {
+      "slug": "waterbar",
+      "name": "Waterbar",
+      "category": "Seafood Restaurant & Bar",
+      "tagline": "A social seafood experience with the best Pacific Beach sunset views",
+      "description": "Waterbar is a boardwalk seafood restaurant and bar on Ocean Blvd at the foot of Grand Ave, next door to Shore Club, built around coastal classics redefined, shareable plates and signature cocktails like the passion fruit Aphrodite. Its ocean views make it one of PB's top sunset spots. It runs Boardwalk Hour on weekdays, weekend brunch with bottomless mimosas and Bloody Marys, NFL game days with a football menu, live music and late nights on Fridays and Saturdays.",
+      "logoUrl": "",
+      "website": "https://waterbarsd.com/",
+      "phone": "(858) 888-4343",
+      "email": "info@waterbarsd.com",
+      "instagram": "@waterbarsd",
+      "facebook": "",
+      "tiktok": "",
+      "address": "4325 Ocean Blvd, San Diego, CA 92109",
+      "lat": 32.7939358,
+      "lng": -117.255688,
+      "neighborhood": "Pacific Beach",
+      "hours": "Mon-Thu 11am-11pm, Fri 11am-2am, Sat 9am-2am, Sun 9am-11pm (Instagram; website lists earlier weeknight closes); Boardwalk Hour Mon-Fri 3pm-5pm; brunch Sat-Sun 10am-2pm",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Thursday Night Football at Waterbar",
+          "date": "2026-09-17",
+          "time": "17:00",
+          "description": "Thursday Night Football with ocean views. NFL game menu: $6 Angry Orchard drafts, $5 Michelob Ultra bottles, $9 Templeton, $4 Crazy Mountain N/A lager, Sun Cruiser or NÜTRL mix-and-match 5 for $25, plus buffalo wings, nachos and BBQ pork sliders ($19.75 each), all with ocean views. Kickoff usually 5:15pm Pacific."
+        },
+        {
+          "title": "Weekend Brunch at Waterbar (Saturday)",
+          "date": "2026-09-19",
+          "time": "10:00",
+          "description": "Brunch 10am to 2pm on Saturdays and Sundays with bottomless mimosas, bottomless Bloody Marys and seafood Bloody Marys, plus the Hangover Burger, classic breakfast and breakfast burritos, overlooking the beach."
+        },
+        {
+          "title": "Sunday Football at Waterbar",
+          "date": "2026-09-20",
+          "time": "10:00",
+          "description": "Every Sunday NFL game with ocean views. NFL game menu: $6 Angry Orchard drafts, $5 Michelob Ultra bottles, $9 Templeton, $4 Crazy Mountain N/A lager, Sun Cruiser or NÜTRL mix-and-match 5 for $25, plus buffalo wings, nachos and BBQ pork sliders ($19.75 each), all with ocean views."
+        },
+        {
+          "title": "Weekend Brunch at Waterbar (Sunday)",
+          "date": "2026-09-20",
+          "time": "10:00",
+          "description": "Brunch 10am to 2pm on Saturdays and Sundays with bottomless mimosas, bottomless Bloody Marys and seafood Bloody Marys, plus the Hangover Burger, classic breakfast and breakfast burritos, overlooking the beach."
+        },
+        {
+          "title": "Monday Night Football at Waterbar",
+          "date": "2026-09-21",
+          "time": "17:00",
+          "description": "Monday Night Football with ocean views. NFL game menu: $6 Angry Orchard drafts, $5 Michelob Ultra bottles, $9 Templeton, $4 Crazy Mountain N/A lager, Sun Cruiser or NÜTRL mix-and-match 5 for $25, plus buffalo wings, nachos and BBQ pork sliders ($19.75 each), all with ocean views. Kickoff times vary by week."
+        },
+        {
+          "title": "Halloween at Waterbar",
+          "date": "2026-10-31",
+          "time": "11:00",
+          "description": "Halloween on the boardwalk all day and night, 11am to 2am. Bring your best costume."
+        },
+        {
+          "title": "Thanksgiving at Waterbar",
+          "date": "2026-11-26",
+          "time": "11:00",
+          "description": "Thanksgiving Day feast for friends and family, 11am to 9pm, with Pacific views."
+        }
+      ],
+      "_activityCategories": [
+        "food",
+        "seasonal",
+        "sports"
+      ],
+      "_eventCount": 7
+    },
+    {
+      "slug": "open-bar",
+      "name": "Open Bar",
+      "category": "Dive Bar",
+      "tagline": "Classic dive bar a block from the Pacific",
+      "description": "Open Bar is a classic Pacific Beach dive bar on Mission Blvd at Thomas Ave, a block from the ocean, with a huge patio, friendly staff, cheap drinks, pool tables, a jukebox, free popcorn and DJs. Beach attire is welcome and locals call it home. The E.L.E. Burger smash burger pop-up cooks there Thursday, Saturday and Sunday afternoons, and resident DJs spin Sunday nights during football season.",
+      "logoUrl": "",
+      "website": "",
+      "phone": "(858) 270-3221",
+      "email": "",
+      "instagram": "@theopenbarpb",
+      "facebook": "https://www.facebook.com/theopenbarsd",
+      "tiktok": "",
+      "address": "4302 Mission Blvd, San Diego, CA 92109",
+      "lat": 32.7937978,
+      "lng": -117.2548547,
+      "neighborhood": "Pacific Beach",
+      "hours": "Not published by the bar; a third-party listing shows Mon-Sat 7am-2am, Sun 7am-10pm (unverified)",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "E.L.E. Burger Pop-Up at Open Bar (Thursday)",
+          "date": "2026-09-17",
+          "time": "12:00",
+          "description": "E.L.E. Burger's smash burger pop-up serves out of Open Bar every Thursday, Saturday and Sunday from noon to 5:30pm or until sold out (it often sells out early); this entry covers Thursdays. The crew also caters and pops up elsewhere, so check @e.l.e.burger for schedule changes."
+        },
+        {
+          "title": "E.L.E. Burger Pop-Up at Open Bar (Saturday)",
+          "date": "2026-09-19",
+          "time": "12:00",
+          "description": "E.L.E. Burger's smash burger pop-up serves out of Open Bar every Thursday, Saturday and Sunday from noon to 5:30pm or until sold out (it often sells out early); this entry covers Saturdays. The crew also caters and pops up elsewhere, so check @e.l.e.burger for schedule changes."
+        },
+        {
+          "title": "E.L.E. Burger Pop-Up at Open Bar (Sunday)",
+          "date": "2026-09-20",
+          "time": "12:00",
+          "description": "E.L.E. Burger's smash burger pop-up serves out of Open Bar every Thursday, Saturday and Sunday from noon to 5:30pm or until sold out (it often sells out early); this entry covers Sundays. The crew also caters and pops up elsewhere, so check @e.l.e.burger for schedule changes."
+        },
+        {
+          "title": "Sunday Night DJs at Open Bar",
+          "date": "2026-09-20",
+          "time": "17:00",
+          "description": "DJs are back on Sunday nights for football season, with DJ Freeman spinning a sunset set, drink specials and Open Bar's staff on the big patio a block from the ocean. Start time is not published; 5pm is a placeholder."
+        }
+      ],
+      "_activityCategories": [
+        "food",
+        "nightlife"
+      ],
+      "_eventCount": 4
+    },
+    {
+      "slug": "spice-lounge",
+      "name": "Spice Lounge",
+      "category": "Indian Restaurant & Bar",
+      "tagline": "Pacific Beach Indian restaurant with happy hour every day",
+      "description": "Spice Lounge is an Indian restaurant and bar on Hornblend St in Pacific Beach, led by Chef Salwinder Singh Khinda, who cooked French and Italian cuisine in Europe for 30 years before opening in Southern California. The menu covers tandoori dishes, curries like saag paneer and malai kofta, veg thalis, samosas and house sauces like its fan-favorite Nirvana sauce, with cocktails and cold beer. Happy hour runs 4pm to 6pm every day, and it offers takeout, delivery and event catering.",
+      "logoUrl": "",
+      "website": "https://spicelounge.com/",
+      "phone": "(858) 272-1600",
+      "email": "",
+      "instagram": "@spiceloungesd",
+      "facebook": "https://www.facebook.com/spiceloungesd",
+      "tiktok": "",
+      "address": "859 Hornblend St, San Diego, CA 92109",
+      "lat": 32.7956776,
+      "lng": -117.2538514,
+      "neighborhood": "Pacific Beach",
+      "hours": "Sun-Thu 4pm-10pm, Fri-Sat 4pm-11pm; Happy Hour daily 4pm-6pm",
+      "featured": false,
+      "verified": true,
+      "events": [],
+      "_activityCategories": [],
+      "_eventCount": 0
+    },
+    {
+      "slug": "the-grass-skirt",
+      "name": "The Grass Skirt",
+      "category": "Tiki Bar & Polynesian Restaurant",
+      "tagline": "Craft tiki cocktails, tropical bites and a lively speakeasy atmosphere",
+      "description": "The Grass Skirt is a tiki bar and speakeasy on Grand Ave in Pacific Beach, pairing craft tiki cocktails with Southeast Asian and Polynesian small plates from Executive Chef Brian Redzikowski. The room was designed by Davis Krumins with booth seating, fire features and theatrical effects. It hosts monthly Tiki Bingo with Sassy Stiletto and an annual Tiki Luau with a pig roast and rum tasting.",
+      "logoUrl": "",
+      "website": "https://www.thegrassskirt.com/",
+      "phone": "(858) 412-5237",
+      "email": "info@thegrassskirt.com",
+      "instagram": "@thegrassskirtsd",
+      "facebook": "thegrassskirtsd",
+      "tiktok": "",
+      "address": "910 Grand Ave Ste 101, San Diego, CA 92109",
+      "lat": 32.795607,
+      "lng": -117.2525086,
+      "neighborhood": "Pacific Beach",
+      "hours": "Mon-Wed 5pm-11pm, Thu-Sat 5pm-2am, Sun 5pm-12am (OpenTable; the official site lists Monday closed, confirm)",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Tiki Bingo: Spooky Edition at The Grass Skirt",
+          "date": "2026-10-21",
+          "time": "18:00",
+          "description": "Tiki Bingo hosted by Sassy Stiletto, 6pm to 8pm, Halloween edition with a costume contest. Prizes, tiki trivia and drink specials. Book a table of 1 to 6 through OpenTable."
+        },
+        {
+          "title": "Tiki Bingo at The Grass Skirt",
+          "date": "2026-11-18",
+          "time": "18:00",
+          "description": "Tiki Bingo hosted by Sassy Stiletto, 6pm to 8pm, with drink specials and prizes. Book a table of 1 to 6 through OpenTable."
+        }
+      ],
+      "_activityCategories": ["food", "nightlife", "social"],
+      "_eventCount": 2
+    },
+    {
+      "slug": "world-famous-pb",
+      "name": "World Famous",
+      "category": "Oceanfront Seafood Restaurant",
+      "tagline": "Surfside dining on the PB boardwalk since 1970",
+      "description": "World Famous is an oceanfront restaurant on the Pacific Beach boardwalk, serving Southern California coastal cuisine since 1970: market-fresh Pacific seafood, seasonal produce and hand-carved prime rib. It serves breakfast daily, weekend brunch, lunch and dinner, with a dog-friendly patio and one of the best ocean views in PB. Happy hour runs Monday to Thursday with rotating $3 taco specials, and parking is validated at the Promenade garage for up to 3 hours.",
+      "logoUrl": "",
+      "website": "https://worldfamouspb.com/",
+      "phone": "(858) 272-3100",
+      "email": "",
+      "instagram": "@worldfamouspb",
+      "facebook": "https://www.facebook.com/154979564574517",
+      "tiktok": "",
+      "address": "711 Pacific Beach Dr, San Diego, CA 92109",
+      "lat": 32.7909501,
+      "lng": -117.2548337,
+      "neighborhood": "Pacific Beach",
+      "hours": "Daily 8am-9:30pm; Breakfast Mon-Fri 8am-1pm, Brunch Sat-Sun 8am-3pm; Lunch 11am-5pm; Dinner 5pm-9:30pm; Happy Hour Mon-Thu 4pm-9:30pm",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "$3 Birria Tacos at World Famous",
+          "date": "2026-09-17",
+          "time": "16:00",
+          "description": "Happy hour special, 4pm to 9:30pm: $3 birria tacos on the boardwalk. Specials rotate; this is the posted one for this Thursday."
+        },
+        {
+          "title": "Weekend Brunch at World Famous (Saturday)",
+          "date": "2026-09-19",
+          "time": "08:00",
+          "description": "Weekend brunch 8am to 3pm with ocean views right on the boardwalk. Validated parking at the Promenade garage for up to 3 hours."
+        },
+        {
+          "title": "Weekend Brunch at World Famous (Sunday)",
+          "date": "2026-09-20",
+          "time": "08:00",
+          "description": "Weekend brunch 8am to 3pm with ocean views right on the boardwalk. Validated parking at the Promenade garage for up to 3 hours."
+        },
+        {
+          "title": "Half-Off Bar Appetizers at World Famous",
+          "date": "2026-09-21",
+          "time": "16:00",
+          "description": "Happy hour special, 4pm to 9:30pm: half off bar appetizers. Specials rotate; this is the posted one for this Monday."
+        },
+        {
+          "title": "$3 Shrimp Tacos at World Famous",
+          "date": "2026-09-22",
+          "time": "16:00",
+          "description": "Happy hour special, 4pm to 9:30pm: $3 shrimp tacos. Specials rotate; this is the posted one for this Tuesday."
+        },
+        {
+          "title": "$3 Lobster Tacos at World Famous",
+          "date": "2026-09-23",
+          "time": "16:00",
+          "description": "Happy hour special, 4pm to 9:30pm: $3 lobster tacos. Specials rotate; this is the posted one for this Wednesday."
+        }
+      ],
+      "_activityCategories": ["food"],
+      "_eventCount": 6
+    }
+  ],
+  "_deferredEnrichment": {
+    "discover-pacific-beach": {
+      "website": "https://www.pacificbeach.org/",
+      "phone": "(858) 273-3303",
+      "hours": "",
+      "instagram": "@discoverpb",
+      "facebook": "discoverpacificbeach",
+      "tiktok": "",
+      "category": "Nonprofit",
+      "tagline": "PB's business improvement district and event producer",
+      "description": "The nonprofit Business Improvement District for Pacific Beach, producing BeachFest, restaurant walks, the Zombie Walk, Christmas on Crystal Pier and the PB Holiday Parade.",
+      "address": "1001 Garnet Ave Suite 200, San Diego, CA 92109",
+      "lat": 32.797324,
+      "lng": -117.251669,
+      "_addressSource": "pacificbeach.org/contact",
+      "_addressConfidence": "high"
+    },
+    "san-diego-running-co": {
+      "website": "https://www.sandiegorunningco.com/",
+      "phone": "",
+      "hours": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "category": "Events",
+      "tagline": "Producer of the San Diego Santa Run and PB Half Marathon",
+      "description": "The San Diego race company behind the San Diego Santa Run on Garnet Ave, where thousands of runners in Santa suits kick off the PB Holiday Parade day.",
+      "address": "4629 Cass St, San Diego, CA 92109",
+      "lat": 32.798997,
+      "lng": -117.252233,
+      "_addressSource": "sandiegorunningco.com (footer)",
+      "_addressConfidence": "low-medium",
+      "_addressNote": "Business/office address, NOT a public storefront."
+    }
+  },
+  "_deferredNote": "Standalone organizers with no activity venue of their own and no coords yet. Add address+lat/lng, then move into vendors[] and re-seed."
+}

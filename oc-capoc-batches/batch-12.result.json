@@ -1,0 +1,82 @@
+[
+  {
+    "name": "PATH (People Assisting the Homeless)",
+    "found": false,
+    "scheduleText": "",
+    "sourceUrl": "",
+    "confidence": "low",
+    "notes": "2229 S. Yale is the Yale Navigation Center homeless shelter operated by PATH; provides daily meals to residents, not a public recurring food-pantry distribution. No credible public pantry day/time found."
+  },
+  {
+    "name": "Rayo De Luz",
+    "found": false,
+    "scheduleText": "",
+    "sourceUrl": "",
+    "confidence": "low",
+    "notes": "Listed as CAPOC/OC Food Bank distribution partner (capoc.org) but no specific day/time published. A 'Rayo de Luz' schedule found online (every other Wed 6-8 PM) is a different location in Bellmead, TX. Not applied."
+  },
+  {
+    "name": "Santa Ana Free Methodist Spanish Church",
+    "found": false,
+    "scheduleText": "",
+    "sourceUrl": "",
+    "confidence": "low",
+    "notes": "CAPOC distribution partner (1600 W. Myrtle) with no published recurring day/time."
+  },
+  {
+    "name": "Santa Ana Spanish McFadden DBA of SDA",
+    "found": false,
+    "scheduleText": "",
+    "sourceUrl": "",
+    "confidence": "low",
+    "notes": "117 W. McFadden 7th Day Adventist pantry. Sources conflict (3rd Saturday 2:30-3:30 PM vs every-other-Wednesday 5:30-7 PM vs 2nd/4th Wed 6:30-7 PM) and feedam.org marks hours unconfirmed as of 2026-01-18. Too unreliable to report."
+  },
+  {
+    "name": "SDA Broadway Spanish",
+    "found": true,
+    "scheduleText": "2nd and 4th Wednesday 6:30-7:00 PM",
+    "sourceUrl": "https://www.freefood.org/l/ca_santa-ana_7th-day-adventist-church1",
+    "confidence": "medium",
+    "notes": "7th Day Adventist Church pantry at 1314 N. Broadway (phone 714-543-3595 matches input). Walk-ins accepted. Listing: 'Every 2nd and 4th Wednesday of the Month 6:30 p.m. - 7:00 p.m.'"
+  },
+  {
+    "name": "Serve The People",
+    "found": true,
+    "scheduleText": "1st and 3rd Saturday 4-7 AM",
+    "sourceUrl": "https://www.servethepeople.org/food-pantry",
+    "confidence": "high",
+    "notes": "Confirmed by org site and City of Santa Ana food page: 1st & 3rd Saturday monthly, 4:00-7:00 AM. Free grocery bag + produce; no appointment/pre-registration required. 1206 E. 17th St."
+  },
+  {
+    "name": "Straight Talk Clinic Inc. 'Gerry House'",
+    "found": false,
+    "scheduleText": "",
+    "sourceUrl": "",
+    "confidence": "low",
+    "notes": "CAPOC distribution partner (1225/1227 W. 6th St.) but primarily a recovery/counseling clinic; no published recurring food-distribution day/time."
+  },
+  {
+    "name": "Templo Calvario",
+    "found": false,
+    "scheduleText": "",
+    "sourceUrl": "",
+    "confidence": "low",
+    "notes": "Runs 'Obras de Amor' food bank and is a CAPOC partner (511 N. Fairview), but no specific recurring distribution day/time published; CDC office hours are Mon-Fri 8:30-5 (not a pantry schedule)."
+  },
+  {
+    "name": "Templo Getsemani Assemblies of God",
+    "found": true,
+    "scheduleText": "Thursday 11 AM-12 PM",
+    "sourceUrl": "https://networks.whyhunger.org/organisation/27575",
+    "confidence": "medium",
+    "notes": "WhyHunger listing for 4822 Hazard Ave shows food pantry Thursday 11 AM-noon and Sunday 1 PM. Only Thursday has a complete time range; Sunday 1 PM lacks an end time so not included in scheduleText. Recommend calling 714-767-2283 to confirm."
+  },
+  {
+    "name": "The Villa Center",
+    "found": false,
+    "scheduleText": "",
+    "sourceUrl": "",
+    "confidence": "low",
+    "notes": "910 N. French is a women's residential recovery program that is a CAPOC food-bank distribution partner; no public recurring pantry day/time published."
+  }
+]

@@ -1,0 +1,2144 @@
+{
+  "_source": "Second Harvest Food Bank of Orange County TEFAP partner list (feedoc.org, 10/13/2025), plus independent OC pantries (org sites / 211OC / RCOC directory) and OC Food Bank CSFP senior sites (capoc.org public map). Facts only (name, address, schedule, phone, eligibility). Retrieved 2026-09-18. Verify against each site's sourceUrl before publishing.",
+  "_schema_note": "Each site has EITHER a weekly 'hours' array (standing weekly hours) OR a monthly nth-weekday schedule described in 'scheduleText' (parsed by prepare-food-data-oc.mjs), OR 'deferred':true for real sites with no fixed/predictable public schedule (rendered as call-ahead vendor cards, no dated activities). Coordinates geocoded from address by prepare-food-data-oc.mjs.",
+  "_critical": [
+    "Eligibility travels with every entry. Senior-only (CSFP/Senior Grocery), appointment-only, registration, and ID/proof-of-residence conditions decide whether someone gets food or gets turned away.",
+    "Schedules change with holidays and weather. Surface the phone number and 'call ahead' — be a router to the provider, not the source of truth.",
+    "CSFP senior sites distribute monthly on rotating dates; they are deferred as call-ahead cards rather than dated activities to avoid publishing a wrong/expired date."
+  ],
+  "sites": [
+    {
+      "slug": "access-skyview-elementary-eagles-catch-anaheim",
+      "name": "ACCESS Skyview Elementary - Eagle's Catch",
+      "type": "pantry",
+      "address": "1240 N. Harbor Blvd, Anaheim, CA 92801",
+      "neighborhood": "Anaheim",
+      "phone": null,
+      "scheduleText": "Wednesday, Thursday & Friday, 1:00 PM to 3:00 PM (students 12-1 PM, families 1-3 PM)",
+      "hours": [
+        {
+          "days": "Wed",
+          "open": "13:00",
+          "close": "15:00"
+        },
+        {
+          "days": "Thu",
+          "open": "13:00",
+          "close": "15:00"
+        },
+        {
+          "days": "Fri",
+          "open": "13:00",
+          "close": "15:00"
+        }
+      ],
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "anaheim-independencia-la-colonia-market",
+      "name": "Anaheim Independencia - La Colonia Market",
+      "type": "pantry",
+      "address": "10841 Garza Ave, Anaheim, CA 92804",
+      "neighborhood": "Anaheim",
+      "phone": null,
+      "scheduleText": "Tuesday 11:30 AM-1:30 PM; Thursday 10:30 AM-12:30 PM",
+      "hours": [
+        {
+          "days": "Tue",
+          "open": "11:30",
+          "close": "13:30"
+        },
+        {
+          "days": "Thu",
+          "open": "10:30",
+          "close": "12:30"
+        }
+      ],
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "anaheim-united-methodist-neighbors-pantry",
+      "name": "Anaheim United Methodist Church - Neighbors Pantry",
+      "type": "pantry",
+      "address": "1000 S. State College Blvd., Anaheim, CA 92806",
+      "neighborhood": "Anaheim",
+      "phone": "(714) 776-5710",
+      "scheduleText": "Thursday 9:00 AM-2:30 PM (appointment may be required; call ahead)",
+      "hours": [
+        {
+          "days": "Thu",
+          "open": "09:00",
+          "close": "14:30"
+        }
+      ],
+      "eligibility": "Appointment may be required; call ahead",
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "baden-powell-elementary-anaheim",
+      "name": "Baden Powell Elementary",
+      "type": "pantry",
+      "address": "2911 W Stonybrook, Anaheim, CA 92804",
+      "neighborhood": "Anaheim",
+      "phone": null,
+      "scheduleText": "3rd Friday, 9:45 AM to 10:45 AM",
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "betsy-ross-elementary-anaheim",
+      "name": "Betsy Ross Elementary",
+      "type": "pantry",
+      "address": "535 S Walnut Street, Anaheim, CA 92802",
+      "neighborhood": "Anaheim",
+      "phone": null,
+      "scheduleText": "1st Friday, 9:45 AM to 10:45 AM",
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "cornucopia-village-center-apartments-anaheim",
+      "name": "Cornucopia - Village Center Apartments",
+      "type": "pantry",
+      "address": "200 East Lincoln Ave., Anaheim, CA 92805",
+      "neighborhood": "Anaheim",
+      "phone": null,
+      "scheduleText": "1st and 3rd Monday, 11:00 AM to 12:00 PM",
+      "eligibility": "Senior Grocery program",
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "disney-elementary-anaheim",
+      "name": "Disney Elementary",
+      "type": "pantry",
+      "address": "2323 W Orange Avenue, Anaheim, CA 92804",
+      "neighborhood": "Anaheim",
+      "phone": null,
+      "scheduleText": "3rd Friday, 9:45 AM to 10:45 AM",
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "dwelling-place-anaheim-brookhurst-community-center",
+      "name": "Dwelling Place Anaheim - Brookhurst Comm. Center",
+      "type": "pantry",
+      "address": "2271 Crescent Ave, Anaheim, CA 92801",
+      "neighborhood": "Anaheim",
+      "phone": null,
+      "scheduleText": "Saturday, 9:00 AM-10:30 AM",
+      "hours": [
+        {
+          "days": "Sat",
+          "open": "09:00",
+          "close": "10:30"
+        }
+      ],
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "edison-elementary-aesd-anaheim",
+      "name": "Edison Elementary AESD",
+      "type": "pantry",
+      "address": "1526 E Romneya Drive, Anaheim, CA 92805",
+      "neighborhood": "Anaheim",
+      "phone": null,
+      "scheduleText": "3rd Thursday, 9:45 AM to 10:45 AM",
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "horace-mann-elementary-anaheim",
+      "name": "Horace Mann Elementary",
+      "type": "pantry",
+      "address": "600 W. La Palma Avenue, Anaheim, CA 92801",
+      "neighborhood": "Anaheim",
+      "phone": null,
+      "scheduleText": "2nd Monday, 10:00 AM to 11:00 AM",
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "icna-relief-anaheim",
+      "name": "ICNA Relief Anaheim",
+      "type": "pantry",
+      "address": "1220 N State College Blvd., Anaheim, CA 92806",
+      "neighborhood": "Anaheim",
+      "phone": null,
+      "scheduleText": "1st Saturday, 11:30 AM to 12:30 PM (food/TEFAP); 3rd Friday diaper distribution",
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "jamboree-housing-miracle-terrace-anaheim",
+      "name": "Jamboree Housing - Miracle Terrace Apartments",
+      "type": "pantry",
+      "address": "225 S Western Avenue, Anaheim, CA 92804",
+      "neighborhood": "Anaheim",
+      "phone": null,
+      "scheduleText": "3rd Friday, 10:30 AM to 11:30 AM",
+      "eligibility": "Senior Grocery program",
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "juliette-low-elementary-anaheim",
+      "name": "Juliette Low Elementary",
+      "type": "pantry",
+      "address": "215 N Ventura Street, Anaheim, CA 92801",
+      "neighborhood": "Anaheim",
+      "phone": null,
+      "scheduleText": "3rd Wednesday, 9:45 AM to 10:45 AM",
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "mattie-lou-maxwell-elementary-anaheim",
+      "name": "Mattie Lou Maxwell Elementary",
+      "type": "pantry",
+      "address": "2613 W Orange Ave, Anaheim, CA 92804",
+      "neighborhood": "Anaheim",
+      "phone": null,
+      "scheduleText": "1st Thursday, 9:45 AM to 10:45 AM",
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "noce-anaheim-college",
+      "name": "NOCE Anaheim College",
+      "type": "pantry",
+      "address": "1830 W Romneya Dr, Anaheim, CA 92801",
+      "neighborhood": "Anaheim",
+      "phone": null,
+      "scheduleText": "Tuesday & Wednesday, 10:00 AM-1:00 PM",
+      "hours": [
+        {
+          "days": "Tue",
+          "open": "10:00",
+          "close": "13:00"
+        },
+        {
+          "days": "Wed",
+          "open": "10:00",
+          "close": "13:00"
+        }
+      ],
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "orange-county-pace-anaheim",
+      "name": "Orange County PACE",
+      "type": "pantry",
+      "address": "1125 N Magnolia St., Anaheim, CA 92801",
+      "neighborhood": "Anaheim",
+      "phone": null,
+      "scheduleText": "1st Wednesday, 10:00 AM to 11:00 AM",
+      "eligibility": "Senior Grocery program",
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "orange-grove-elementary-anaheim",
+      "name": "Orange Grove Elementary",
+      "type": "pantry",
+      "address": "1000 S Harbor Boulevard, Anaheim, CA 92805",
+      "neighborhood": "Anaheim",
+      "phone": null,
+      "scheduleText": "2nd Thursday, 9:45 AM to 10:45 AM",
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "paul-revere-elementary-anaheim",
+      "name": "Paul Revere Elementary",
+      "type": "pantry",
+      "address": "140 W Guinida Lane, Anaheim, CA 92805",
+      "neighborhood": "Anaheim",
+      "phone": null,
+      "scheduleText": "3rd Thursday, 10:15 AM to 11:15 AM",
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "peter-marshall-elementary-anaheim",
+      "name": "Peter Marshall Elementary",
+      "type": "pantry",
+      "address": "2627 Crescent Avenue, Anaheim, CA 92801",
+      "neighborhood": "Anaheim",
+      "phone": null,
+      "scheduleText": "1st Friday, 10:15 AM to 11:15 AM",
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "ponderosa-elementary-anaheim",
+      "name": "Ponderosa Elementary",
+      "type": "pantry",
+      "address": "2135 S. Mountain View Avenue, Anaheim, CA 92802",
+      "neighborhood": "Anaheim",
+      "phone": null,
+      "scheduleText": "4th Friday, 10:00 AM to 11:00 AM",
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "recovery-road-inc-anaheim",
+      "name": "Recovery Road Inc.",
+      "type": "pantry",
+      "address": "2370 E. Orangethorpe Ave., Anaheim, CA 92806",
+      "neighborhood": "Anaheim",
+      "phone": "(714) 723-9711",
+      "scheduleText": "Monday-Friday 9:00 AM-6:00 PM, by appointment - call or text (714) 723-9711",
+      "hours": [
+        {
+          "days": "Mon-Fri",
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "eligibility": "By appointment",
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "roosevelt-elementary-anaheim",
+      "name": "Roosevelt Elementary",
+      "type": "pantry",
+      "address": "1600 E Vermont Avenue, Anaheim, CA 92805",
+      "neighborhood": "Anaheim",
+      "phone": null,
+      "scheduleText": "2nd Wednesday, 11:15 AM to 12:15 PM",
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "salk-elementary-anaheim",
+      "name": "Salk Elementary",
+      "type": "pantry",
+      "address": "1411 Gilbert Street, Anaheim, CA 92804",
+      "neighborhood": "Anaheim",
+      "phone": null,
+      "scheduleText": "2nd Tuesday, 9:45 AM to 10:45 AM",
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "salvation-army-family-services-anaheim",
+      "name": "Salvation Army - Family Services (Anaheim)",
+      "type": "pantry",
+      "address": "1515 W. North Street, Anaheim, CA 92801",
+      "neighborhood": "Anaheim",
+      "phone": "(714) 783-2334",
+      "scheduleText": "Tuesday-Thursday 9:00 AM-11:45 AM (call ahead for appointments)",
+      "hours": [
+        {
+          "days": "Tue-Thu",
+          "open": "09:00",
+          "close": "11:45"
+        }
+      ],
+      "eligibility": "Call ahead for appointments",
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "schweitzer-elementary-anaheim",
+      "name": "Schweitzer Elementary",
+      "type": "pantry",
+      "address": "201 S. Dale Avenue, Anaheim, CA 92804",
+      "neighborhood": "Anaheim",
+      "phone": null,
+      "scheduleText": "2nd Wednesday, 9:45 AM to 10:45 AM",
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "st-boniface-catholic-church-anaheim",
+      "name": "St. Boniface Catholic Church",
+      "type": "pantry",
+      "address": "124 N. Resh St, Anaheim, CA 92805",
+      "neighborhood": "Anaheim",
+      "phone": null,
+      "scheduleText": "Wednesday & Friday, 9:00 AM-11:00 AM",
+      "hours": [
+        {
+          "days": "Wed",
+          "open": "09:00",
+          "close": "11:00"
+        },
+        {
+          "days": "Fri",
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ],
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "st-justin-martyr-svdp-anaheim",
+      "name": "St. Justin Martyr SVDP",
+      "type": "pantry",
+      "address": "2050 W. Ball Rd., Anaheim, CA 92804",
+      "neighborhood": "Anaheim",
+      "phone": null,
+      "scheduleText": "2nd and 4th Saturday, 7:30 AM to 9:30 AM",
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "sterling-court-apartments-anaheim",
+      "name": "Sterling Court Apartments",
+      "type": "pantry",
+      "address": "935 S. Gilbert St, Anaheim, CA 92804",
+      "neighborhood": "Anaheim",
+      "phone": null,
+      "scheduleText": "3rd Thursday, 10:30 AM to 11:30 AM",
+      "eligibility": "Senior Grocery program",
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "sunkist-elementary-anaheim",
+      "name": "Sunkist Elementary",
+      "type": "pantry",
+      "address": "500 N Sunkist Street, Anaheim, CA 92806",
+      "neighborhood": "Anaheim",
+      "phone": null,
+      "scheduleText": "3rd Monday, 1:15 PM to 2:15 PM",
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "walter-elementary-anaheim",
+      "name": "Walter Elementary",
+      "type": "pantry",
+      "address": "10802 Rustic Lane, Anaheim, CA 92804",
+      "neighborhood": "Anaheim",
+      "phone": null,
+      "scheduleText": "4th Tuesday, 9:45 AM to 10:45 AM",
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "western-ave-church-of-christ-anaheim",
+      "name": "Western Ave Church of Christ",
+      "type": "pantry",
+      "address": "641 S. Western Ave., Anaheim, CA 92804",
+      "neighborhood": "Anaheim",
+      "phone": null,
+      "scheduleText": "Wednesday 6:30 PM-7:00 PM; Sunday 12:30 PM-1:00 PM",
+      "hours": [
+        {
+          "days": "Wed",
+          "open": "18:30",
+          "close": "19:00"
+        },
+        {
+          "days": "Sun",
+          "open": "12:30",
+          "close": "13:00"
+        }
+      ],
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "westmont-elementary-anaheim",
+      "name": "Westmont Elementary",
+      "type": "pantry",
+      "address": "1525 W Westmont Drive, Anaheim, CA 92801",
+      "neighborhood": "Anaheim",
+      "phone": null,
+      "scheduleText": "4th Monday, 10:15 AM to 11:15 AM",
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "active-christians-today-brea",
+      "name": "Active Christians Today",
+      "type": "pantry",
+      "address": "585 S. Walnut Ave., Brea, CA 92821",
+      "neighborhood": "Brea",
+      "phone": "(714) 529-1821",
+      "scheduleText": "Monday, Wednesday & Friday, 9:00 AM-12:30 PM (until supplies last)",
+      "hours": [
+        {
+          "days": "Mon",
+          "open": "09:00",
+          "close": "12:30"
+        },
+        {
+          "days": "Wed",
+          "open": "09:00",
+          "close": "12:30"
+        },
+        {
+          "days": "Fri",
+          "open": "09:00",
+          "close": "12:30"
+        }
+      ],
+      "eligibility": "Until supplies last",
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "brea-senior-center",
+      "name": "Brea Senior Center",
+      "type": "pantry",
+      "address": "500 Sievers Ave, Brea, CA 92821",
+      "neighborhood": "Brea",
+      "phone": null,
+      "scheduleText": "2nd and 4th Wednesday, 1:00 PM to 2:00 PM",
+      "eligibility": "Senior Grocery program",
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "buena-park-senior-center",
+      "name": "Buena Park Senior Center",
+      "type": "pantry",
+      "address": "8150 Knott Ave, Buena Park, CA 90620",
+      "neighborhood": "Buena Park",
+      "phone": null,
+      "scheduleText": "1st and 3rd Thursday, 9:45 AM to 10:45 AM",
+      "eligibility": "Senior Grocery program",
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "church-of-christ-buena-park",
+      "name": "Church of Christ Buena Park",
+      "type": "pantry",
+      "address": "7201 Walnut Ave., Buena Park, CA 90620",
+      "neighborhood": "Buena Park",
+      "phone": null,
+      "scheduleText": "Sunday 12:00 PM-1:00 PM; 3rd Saturday 9:00 AM-12:00 PM",
+      "hours": [
+        {
+          "days": "Sun",
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ],
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "cypress-college",
+      "name": "Cypress College",
+      "type": "pantry",
+      "address": "9200 Valley View Street, Cypress, CA 90630",
+      "neighborhood": "Cypress",
+      "phone": null,
+      "scheduleText": "Wednesday 9:00 AM-12:00 PM; Thursday 10:00 AM-12:00 PM",
+      "hours": [
+        {
+          "days": "Wed",
+          "open": "09:00",
+          "close": "12:00"
+        },
+        {
+          "days": "Thu",
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ],
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "cypress-senior-center",
+      "name": "Cypress Senior Center",
+      "type": "pantry",
+      "address": "9031 Grindlay St., Cypress, CA 90630",
+      "neighborhood": "Cypress",
+      "phone": null,
+      "scheduleText": "2nd Wednesday, 9:30 AM to 11:00 AM",
+      "eligibility": "Senior Grocery program",
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "icna-relief-cypress",
+      "name": "ICNA Relief Cypress",
+      "type": "pantry",
+      "address": "5900 Ball Rd., Cypress, CA 90630",
+      "neighborhood": "Cypress",
+      "phone": null,
+      "scheduleText": "3rd Wednesday, 11:30 AM to 12:30 PM",
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "st-irenaeus-hope-cypress",
+      "name": "St. Irenaeus Hope",
+      "type": "pantry",
+      "address": "5201 Evergreen Av., Cypress, CA 90630",
+      "neighborhood": "Cypress",
+      "phone": null,
+      "scheduleText": "Monday-Friday 9:00 AM-11:00 AM; 1st & 3rd Saturday 8:00 AM-10:00 AM",
+      "hours": [
+        {
+          "days": "Mon-Fri",
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ],
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "fullerton-college",
+      "name": "Fullerton College",
+      "type": "pantry",
+      "address": "321 E Chapman Ave, Fullerton, CA 92832",
+      "neighborhood": "Fullerton",
+      "phone": null,
+      "scheduleText": "Monday 1:00 PM-4:00 PM; Tuesday & Wednesday 9:30 AM-12:00 PM",
+      "hours": [
+        {
+          "days": "Mon",
+          "open": "13:00",
+          "close": "16:00"
+        },
+        {
+          "days": "Tue",
+          "open": "09:30",
+          "close": "12:00"
+        },
+        {
+          "days": "Wed",
+          "open": "09:30",
+          "close": "12:00"
+        }
+      ],
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "fullerton-community-center",
+      "name": "Fullerton Community Center",
+      "type": "pantry",
+      "address": "340 W Commonwealth Ave, Fullerton, CA 92832",
+      "neighborhood": "Fullerton",
+      "phone": null,
+      "scheduleText": "1st and 3rd Thursday, 10:00 AM to 11:00 AM",
+      "eligibility": "Senior Grocery program",
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "heart-of-downtown-food-co-op-fullerton",
+      "name": "Heart of Downtown Food Co-Op",
+      "type": "pantry",
+      "address": "223 E Wilshire Ave, Fullerton, CA 92832",
+      "neighborhood": "Fullerton",
+      "phone": "(714) 526-2265",
+      "scheduleText": "2nd and 4th Sunday, 12:30 PM to 1:30 PM (call ahead)",
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "pacific-drive-elementary-dolphin-market-fullerton",
+      "name": "Pacific Drive Elementary - Dolphin Market",
+      "type": "pantry",
+      "address": "1501 W Valencia Drive, Fullerton, CA 92833",
+      "neighborhood": "Fullerton",
+      "phone": null,
+      "scheduleText": "Tuesday & Thursday, 9:00 AM-11:00 AM",
+      "hours": [
+        {
+          "days": "Tue",
+          "open": "09:00",
+          "close": "11:00"
+        },
+        {
+          "days": "Thu",
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ],
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "pathways-of-hope-fullerton",
+      "name": "Pathways of Hope",
+      "type": "pantry",
+      "address": "611 S. Ford Ave, Fullerton, CA 92832",
+      "neighborhood": "Fullerton",
+      "phone": null,
+      "scheduleText": "Monday-Friday, 1:00 PM-4:00 PM",
+      "hours": [
+        {
+          "days": "Mon-Fri",
+          "open": "13:00",
+          "close": "16:00"
+        }
+      ],
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "st-marys-church-fullerton",
+      "name": "St. Mary's Church (Fullerton)",
+      "type": "pantry",
+      "address": "400 W. Commonwealth Ave., Fullerton, CA 92832",
+      "neighborhood": "Fullerton",
+      "phone": null,
+      "scheduleText": "Thursday, 8:30 AM-10:00 AM",
+      "hours": [
+        {
+          "days": "Thu",
+          "open": "08:30",
+          "close": "10:00"
+        }
+      ],
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "st-philip-benizi-svdp-fullerton",
+      "name": "St. Philip Benizi SVDP",
+      "type": "pantry",
+      "address": "235 S. Pine Dr., Fullerton, CA 92833",
+      "neighborhood": "Fullerton",
+      "phone": null,
+      "scheduleText": "Tuesday & Thursday, 9:00 AM-11:00 AM",
+      "hours": [
+        {
+          "days": "Tue",
+          "open": "09:00",
+          "close": "11:00"
+        },
+        {
+          "days": "Thu",
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ],
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "topaz-elementary-fullerton",
+      "name": "Topaz Elementary",
+      "type": "pantry",
+      "address": "3232 Topaz Lane, Fullerton, CA 92831",
+      "neighborhood": "Fullerton",
+      "phone": null,
+      "scheduleText": "2nd Wednesday, 2:00 PM to 3:00 PM",
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "boys-girls-clubs-garden-grove-arches",
+      "name": "Boys & Girls Clubs of Garden Grove - Arches",
+      "type": "pantry",
+      "address": "13645 Clinton St., Garden Grove, CA 92840",
+      "neighborhood": "Garden Grove",
+      "phone": null,
+      "scheduleText": "Tuesday 9:00 AM-5:30 PM; Wednesday & Friday 8:00 AM-4:00 PM",
+      "hours": [
+        {
+          "days": "Tue",
+          "open": "09:00",
+          "close": "17:30"
+        },
+        {
+          "days": "Wed",
+          "open": "08:00",
+          "close": "16:00"
+        },
+        {
+          "days": "Fri",
+          "open": "08:00",
+          "close": "16:00"
+        }
+      ],
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "hope-garden-grove",
+      "name": "Helping Others Prepare for Eternity (H.O.P.E.)",
+      "type": "pantry",
+      "address": "11022 Acacia Pkwy #C, Garden Grove, CA 92840",
+      "neighborhood": "Garden Grove",
+      "phone": null,
+      "scheduleText": "Monday, Tuesday, Thursday & Friday, 1:00 PM-3:00 PM",
+      "hours": [
+        {
+          "days": "Mon",
+          "open": "13:00",
+          "close": "15:00"
+        },
+        {
+          "days": "Tue",
+          "open": "13:00",
+          "close": "15:00"
+        },
+        {
+          "days": "Thu",
+          "open": "13:00",
+          "close": "15:00"
+        },
+        {
+          "days": "Fri",
+          "open": "13:00",
+          "close": "15:00"
+        }
+      ],
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "islamic-society-of-oc-garden-grove",
+      "name": "Islamic Society of OC",
+      "type": "pantry",
+      "address": "9752 13th Street, Garden Grove, CA 92844",
+      "neighborhood": "Garden Grove",
+      "phone": null,
+      "scheduleText": "Monday, 10:00 AM-12:00 PM",
+      "hours": [
+        {
+          "days": "Mon",
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ],
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "icna-relief-garden-grove",
+      "name": "ICNA Relief Garden Grove",
+      "type": "pantry",
+      "address": "9752 13th St, Garden Grove, CA 92844",
+      "neighborhood": "Garden Grove",
+      "phone": null,
+      "scheduleText": "4th Wednesday, 5:45 PM to 6:30 PM",
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "our-redeemer-lutheran-good-roots-market-garden-grove",
+      "name": "Our Redeemer Lutheran Church - Good Roots Market",
+      "type": "pantry",
+      "address": "12301 Magnolia Street, Garden Grove, CA 92841",
+      "neighborhood": "Garden Grove",
+      "phone": null,
+      "scheduleText": "Wednesday, 8:00 AM-1:00 PM",
+      "hours": [
+        {
+          "days": "Wed",
+          "open": "08:00",
+          "close": "13:00"
+        }
+      ],
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "st-columban-svdp-garden-grove",
+      "name": "St. Columban SVDP",
+      "type": "pantry",
+      "address": "10801 Stanford Ave, Garden Grove, CA 92840",
+      "neighborhood": "Garden Grove",
+      "phone": null,
+      "scheduleText": "3rd Saturday, 8:30 AM to 10:00 AM",
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "st-olaf-saturated-in-his-love-garden-grove",
+      "name": "St. Olaf - Saturated In His Love",
+      "type": "pantry",
+      "address": "12432 9th St., Garden Grove, CA 92840",
+      "neighborhood": "Garden Grove",
+      "phone": null,
+      "scheduleText": "1st and 3rd Wednesday, 10:00 AM to 12:00 PM",
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "vcc-the-gary-center-la-habra",
+      "name": "VCC: The Gary Center",
+      "type": "pantry",
+      "address": "341 Hillcrest Ave., La Habra, CA 90631",
+      "neighborhood": "La Habra",
+      "phone": null,
+      "scheduleText": "Monday, Wednesday & Friday 11:00 AM-1:00 PM; Tuesday 3:00 PM-5:00 PM; Thursday 1:00 PM-3:00 PM",
+      "hours": [
+        {
+          "days": "Mon",
+          "open": "11:00",
+          "close": "13:00"
+        },
+        {
+          "days": "Wed",
+          "open": "11:00",
+          "close": "13:00"
+        },
+        {
+          "days": "Fri",
+          "open": "11:00",
+          "close": "13:00"
+        },
+        {
+          "days": "Tue",
+          "open": "15:00",
+          "close": "17:00"
+        },
+        {
+          "days": "Thu",
+          "open": "13:00",
+          "close": "15:00"
+        }
+      ],
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "walnut-elementary-la-habra",
+      "name": "Walnut Elementary School (La Habra)",
+      "type": "pantry",
+      "address": "625 N. Walnut St., La Habra, CA 90631",
+      "neighborhood": "La Habra",
+      "phone": null,
+      "scheduleText": "1st Friday, 9:45 AM to 10:45 AM",
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "washington-middle-la-habra",
+      "name": "Washington Middle (La Habra)",
+      "type": "pantry",
+      "address": "716 E La Habra Boulevard, La Habra, CA 90631",
+      "neighborhood": "La Habra",
+      "phone": null,
+      "scheduleText": "4th Wednesday, 10:30 AM to 11:30 AM",
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "heart-of-the-city-los-alamitos",
+      "name": "Heart of the City",
+      "type": "pantry",
+      "address": "10941 Reagan St, Los Alamitos, CA 90720",
+      "neighborhood": "Los Alamitos",
+      "phone": null,
+      "scheduleText": "2nd and 3rd Saturday, 9:00 AM to 10:00 AM",
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "los-alamitos-community-center",
+      "name": "Los Alamitos Community Center",
+      "type": "pantry",
+      "address": "10911 Oak St., Los Alamitos, CA 90720",
+      "neighborhood": "Los Alamitos",
+      "phone": null,
+      "scheduleText": "Tuesday, 2:00 PM-3:00 PM",
+      "hours": [
+        {
+          "days": "Tue",
+          "open": "14:00",
+          "close": "15:00"
+        }
+      ],
+      "eligibility": "Senior Grocery program",
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "first-presbyterian-church-of-orange",
+      "name": "First Presbyterian Church of Orange",
+      "type": "walk-up",
+      "address": "180 N Grand St, Orange, CA 92866",
+      "neighborhood": "Orange",
+      "phone": null,
+      "scheduleText": "Wednesday, 10:00 AM-12:00 PM (walk-up, limited choice)",
+      "hours": [
+        {
+          "days": "Wed",
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ],
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "friends-church-in-orange",
+      "name": "Friends Church in Orange",
+      "type": "pantry",
+      "address": "426 W Almond Ave, Orange, CA 92866",
+      "neighborhood": "Orange",
+      "phone": null,
+      "scheduleText": "1st Saturday, 10:00 AM to 11:00 AM",
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "melrose-elementary-placentia",
+      "name": "Melrose Elementary",
+      "type": "pantry",
+      "address": "974 S Melrose Street, Placentia, CA 92870",
+      "neighborhood": "Placentia",
+      "phone": null,
+      "scheduleText": "4th Tuesday, 2:00 PM to 3:00 PM",
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "placentia-family-resource-center",
+      "name": "Placentia Family Resource Center",
+      "type": "pantry",
+      "address": "900 S. Melrose St., Placentia, CA 92870",
+      "neighborhood": "Placentia",
+      "phone": null,
+      "scheduleText": "Monday-Thursday 8:30 AM-5:30 PM (walk-ins welcome)",
+      "hours": [
+        {
+          "days": "Mon-Thu",
+          "open": "08:30",
+          "close": "17:30"
+        }
+      ],
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "placentia-senior-center",
+      "name": "Placentia Senior Center",
+      "type": "pantry",
+      "address": "143 S. Bradford Ave., Placentia, CA 92870",
+      "neighborhood": "Placentia",
+      "phone": null,
+      "scheduleText": "1st and 3rd Wednesday, 10:00 AM to 11:30 AM",
+      "eligibility": "Senior Grocery program",
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "age-well-san-clemente",
+      "name": "Age Well - San Clemente",
+      "type": "pantry",
+      "address": "117 Avenida Victoria, San Clemente, CA 92672",
+      "neighborhood": "San Clemente",
+      "phone": null,
+      "scheduleText": "1st and 3rd Wednesday, 10:30 AM to 11:30 AM",
+      "eligibility": "Senior Grocery program",
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "access-san-juan-capistrano-cellars",
+      "name": "ACCESS San Juan - Capistrano Cellars",
+      "type": "pantry",
+      "address": "31894 Plaza Drive A1, San Juan Capistrano, CA 92675",
+      "neighborhood": "San Juan Capistrano",
+      "phone": "(949) 425-2202",
+      "scheduleText": "Wednesday 10:00 AM-2:00 PM; Thursday 8:00 AM-2:00 PM",
+      "hours": [
+        {
+          "days": "Wed",
+          "open": "10:00",
+          "close": "14:00"
+        },
+        {
+          "days": "Thu",
+          "open": "08:00",
+          "close": "14:00"
+        }
+      ],
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "mission-basilica-sjc-father-serras-pantry",
+      "name": "Mission Basilica SJC - Father Serra's Pantry",
+      "type": "walk-up",
+      "address": "31611 El Camino Real, San Juan Capistrano, CA 92675",
+      "neighborhood": "San Juan Capistrano",
+      "phone": null,
+      "scheduleText": "Monday, Wednesday & Saturday, 10:30 AM-12:00 PM",
+      "hours": [
+        {
+          "days": "Mon",
+          "open": "10:30",
+          "close": "12:00"
+        },
+        {
+          "days": "Wed",
+          "open": "10:30",
+          "close": "12:00"
+        },
+        {
+          "days": "Sat",
+          "open": "10:30",
+          "close": "12:00"
+        }
+      ],
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "pyles-elementary-stanton",
+      "name": "Pyles Elementary",
+      "type": "pantry",
+      "address": "10411 Dale Avenue, Stanton, CA 90680",
+      "neighborhood": "Stanton",
+      "phone": null,
+      "scheduleText": "1st Friday, 9:45 AM to 10:45 AM",
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "stanton-city-hall-sg",
+      "name": "Stanton City Hall",
+      "type": "pantry",
+      "address": "7800 Katella Ave., Stanton, CA 90680",
+      "neighborhood": "Stanton",
+      "phone": null,
+      "scheduleText": "1st Tuesday, 12:00 PM to 1:00 PM",
+      "eligibility": "Senior Grocery program",
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "families-together-of-orange-county-tustin",
+      "name": "Families Together of Orange County",
+      "type": "pantry",
+      "address": "661 W 1st Street, Tustin, CA 92780",
+      "neighborhood": "Tustin",
+      "phone": "(949) 235-7756",
+      "scheduleText": "Tuesday-Friday 9:00 AM-6:00 PM (call (949) 235-7756 to schedule)",
+      "hours": [
+        {
+          "days": "Tue-Fri",
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ],
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "st-pauls-episcopal-church-tustin",
+      "name": "St. Paul's Episcopal Church (Tustin)",
+      "type": "meal",
+      "address": "1221 Wass Street, Tustin, CA 92780",
+      "neighborhood": "Tustin",
+      "phone": null,
+      "scheduleText": "Sunday, 4:00 PM-5:30 PM (4 PM meal; 5 PM grocery distribution)",
+      "hours": [
+        {
+          "days": "Sun",
+          "open": "16:00",
+          "close": "17:30"
+        }
+      ],
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "tustin-family-youth-center",
+      "name": "Tustin Family & Youth Center",
+      "type": "walk-up",
+      "address": "14722 Newport Avenue, Tustin, CA 92780",
+      "neighborhood": "Tustin",
+      "phone": null,
+      "scheduleText": "Monday & Wednesday, 11:00 AM-12:00 PM (walk-up)",
+      "hours": [
+        {
+          "days": "Mon",
+          "open": "11:00",
+          "close": "12:00"
+        },
+        {
+          "days": "Wed",
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ],
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "tustin-family-youth-center-chatham-village",
+      "name": "Tustin Family & Youth Center - Chatham Village Apt",
+      "type": "walk-up",
+      "address": "16331 E McFadden Ave., Tustin, CA 92780",
+      "neighborhood": "Tustin",
+      "phone": null,
+      "scheduleText": "3rd Tuesday, 11:00 AM to 12:00 PM (walk-up)",
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "rose-drive-friends-church-yorba-linda",
+      "name": "Rose Drive Friends Church",
+      "type": "pantry",
+      "address": "4221 Rose Drive, Yorba Linda, CA 92886",
+      "neighborhood": "Yorba Linda",
+      "phone": null,
+      "scheduleText": "Wednesday 4:00 PM-5:00 PM; Saturday 8:30 AM-9:30 AM",
+      "hours": [
+        {
+          "days": "Wed",
+          "open": "16:00",
+          "close": "17:00"
+        },
+        {
+          "days": "Sat",
+          "open": "08:30",
+          "close": "09:30"
+        }
+      ],
+      "eligibility": null,
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "yorba-linda-community-center",
+      "name": "Yorba Linda Community Center",
+      "type": "pantry",
+      "address": "4501 Casa Loma Avenue, Yorba Linda, CA 92886",
+      "neighborhood": "Yorba Linda",
+      "phone": null,
+      "scheduleText": "1st and 3rd Thursday, 9:00 AM to 10:00 AM",
+      "eligibility": "Senior Grocery program",
+      "sourceUrl": "https://feedoc.org/wp-content/uploads/2025/11/SHFB-TEFAP-Distributions-10-13-25-v4.pdf"
+    },
+    {
+      "slug": "someone-cares-soup-kitchen-costa-mesa",
+      "name": "Someone Cares Soup Kitchen",
+      "type": "meal",
+      "address": "720 W. 19th St., Costa Mesa, CA 92627",
+      "neighborhood": "Costa Mesa",
+      "phone": "(949) 548-8861",
+      "scheduleText": "Lunch Monday-Friday 12:00 PM-3:00 PM; breakfast Saturday & Sunday 9:00 AM-11:00 AM",
+      "hours": [
+        {
+          "days": "Mon-Fri",
+          "open": "12:00",
+          "close": "15:00"
+        },
+        {
+          "days": "Sat-Sun",
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ],
+      "eligibility": null,
+      "sourceUrl": "https://someonecaresoc.org/"
+    },
+    {
+      "slug": "share-ourselves-costa-mesa",
+      "name": "Share Ourselves (SOS)",
+      "type": "pantry",
+      "address": "1550 Superior Ave., Costa Mesa, CA 92627",
+      "neighborhood": "Costa Mesa",
+      "phone": "(949) 270-2100",
+      "scheduleText": "Food pantry Monday-Friday 8:00 AM-4:30 PM (registration on arrival; bring photo ID and proof of OC residence)",
+      "hours": [
+        {
+          "days": "Mon-Fri",
+          "open": "08:00",
+          "close": "16:30"
+        }
+      ],
+      "eligibility": "Registration on arrival; photo ID and proof of Orange County residence",
+      "sourceUrl": "https://shareourselves.org/services/social-services/food-services/"
+    },
+    {
+      "slug": "south-county-outreach-irvine",
+      "name": "South County Outreach",
+      "type": "pantry",
+      "address": "7 Whatney, Ste. B, Irvine, CA 92618",
+      "neighborhood": "Irvine",
+      "phone": "(949) 380-8144",
+      "scheduleText": "Monday, Wednesday, Thursday, Friday 9:00 AM-3:30 PM; Tuesday 12:30 PM-3:30 PM (one visit per month; photo ID and proof of address)",
+      "hours": [
+        {
+          "days": "Mon",
+          "open": "09:00",
+          "close": "15:30"
+        },
+        {
+          "days": "Wed",
+          "open": "09:00",
+          "close": "15:30"
+        },
+        {
+          "days": "Thu",
+          "open": "09:00",
+          "close": "15:30"
+        },
+        {
+          "days": "Fri",
+          "open": "09:00",
+          "close": "15:30"
+        },
+        {
+          "days": "Tue",
+          "open": "12:30",
+          "close": "15:30"
+        }
+      ],
+      "eligibility": "One visit per month; photo ID and proof of address",
+      "sourceUrl": "https://californiafoodpantry.org/food-bank/south-county-outreach/"
+    },
+    {
+      "slug": "families-forward-community-market-irvine",
+      "name": "Families Forward Community Market",
+      "type": "pantry",
+      "address": "8 Thomas, Irvine, CA 92618",
+      "neighborhood": "Irvine",
+      "phone": "(949) 552-2727",
+      "scheduleText": "Community Market by appointment: Monday 9:00 AM-2:00 PM; Tuesday-Thursday 10:00 AM-3:00 PM (registration required)",
+      "hours": [
+        {
+          "days": "Mon",
+          "open": "09:00",
+          "close": "14:00"
+        },
+        {
+          "days": "Tue-Thu",
+          "open": "10:00",
+          "close": "15:00"
+        }
+      ],
+      "eligibility": "Open to OC residents; registration and appointment required for the Community Market",
+      "sourceUrl": "https://www.families-forward.org/food-pantry/"
+    },
+    {
+      "slug": "catholic-charities-oc-cantlay-santa-ana",
+      "name": "Cantlay Food Distribution Center - Catholic Charities of Orange County",
+      "type": "pantry",
+      "address": "3631 W. Warner Avenue, Santa Ana, CA 92704",
+      "neighborhood": "Santa Ana",
+      "phone": "(714) 668-1130",
+      "scheduleText": "Tuesday, Wednesday & Friday 7:30 AM-12:00 PM (bring photo ID; first come, first served)",
+      "hours": [
+        {
+          "days": "Tue",
+          "open": "07:30",
+          "close": "12:00"
+        },
+        {
+          "days": "Wed",
+          "open": "07:30",
+          "close": "12:00"
+        },
+        {
+          "days": "Fri",
+          "open": "07:30",
+          "close": "12:00"
+        }
+      ],
+      "eligibility": "Bring photo ID; first come, first served",
+      "sourceUrl": "https://ccoc.org/programs/life-sustaining-services/cantlay-food-distribution-center"
+    },
+    {
+      "slug": "family-assistance-ministries-san-clemente",
+      "name": "Family Assistance Ministries",
+      "type": "pantry",
+      "address": "1030 Calle Negocio, San Clemente, CA 92673",
+      "neighborhood": "San Clemente",
+      "phone": "(949) 492-8477",
+      "scheduleText": "Monday 10:00 AM-5:30 PM; Tuesday-Thursday 10:00 AM-2:00 PM; Friday 9:30 AM-11:30 AM",
+      "hours": [
+        {
+          "days": "Mon",
+          "open": "10:00",
+          "close": "17:30"
+        },
+        {
+          "days": "Tue-Thu",
+          "open": "10:00",
+          "close": "14:00"
+        },
+        {
+          "days": "Fri",
+          "open": "09:30",
+          "close": "11:30"
+        }
+      ],
+      "eligibility": null,
+      "sourceUrl": "https://www.rcocdd.com/client-services/help-for-other-needs/food-resources-and-pantries-in-orange-county/"
+    },
+    {
+      "slug": "abrazar-westminster",
+      "name": "Abrazar, Inc.",
+      "type": "pantry",
+      "address": "7101 Wyoming St., Westminster, CA 92683",
+      "neighborhood": "Westminster",
+      "phone": "(714) 893-3581",
+      "scheduleText": "1st and 3rd Thursday, 10:00 AM to 4:00 PM",
+      "eligibility": null,
+      "sourceUrl": "https://www.rcocdd.com/client-services/help-for-other-needs/food-resources-and-pantries-in-orange-county/"
+    },
+    {
+      "slug": "church-of-southland-anaheim",
+      "name": "Church of Southland Food Distribution",
+      "type": "pantry",
+      "address": "1380 S. Sanderson Avenue, Anaheim, CA 92806",
+      "neighborhood": "Anaheim",
+      "phone": "(714) 209-7349",
+      "scheduleText": "2nd and 4th Saturday, 9:00 AM to 11:00 AM",
+      "eligibility": null,
+      "sourceUrl": "https://www.freefood.org/l/ca_anaheim_church-of-southland"
+    },
+    {
+      "slug": "serve-the-people-santa-ana",
+      "name": "Serve the People Community Health Center Food Pantry",
+      "type": "pantry",
+      "address": "1206 East 17th Street, Santa Ana, CA 92701",
+      "neighborhood": "Santa Ana",
+      "phone": "(714) 352-2911",
+      "deferred": true,
+      "scheduleText": "1st and 3rd Saturday food pantry (confirm the exact time before going — published early-morning hours need verification). Free grocery bag with produce, bread, and meat when available, plus baby items and hygiene products.",
+      "eligibility": "Individuals and families facing food insecurity in Santa Ana and surrounding communities",
+      "sourceUrl": "https://www.servethepeople.org/food-pantry"
+    },
+    {
+      "slug": "isaiah-house-santa-ana",
+      "name": "Isaiah House (OC Catholic Worker)",
+      "type": "meal",
+      "address": "316 S. Cypress Ave., Santa Ana, CA 92701",
+      "neighborhood": "Santa Ana",
+      "phone": "(714) 835-6304",
+      "deferred": true,
+      "scheduleText": "Homeless services house serving meals and bags of food daily. Call ahead to confirm current meal and food-bag times.",
+      "eligibility": null,
+      "sourceUrl": "https://www.occatholicworker.org/home"
+    },
+    {
+      "slug": "friendly-center-orange",
+      "name": "Friendly Center",
+      "type": "pantry",
+      "address": "147 W. Rose Ave., Orange, CA 92867",
+      "neighborhood": "Orange",
+      "phone": "(714) 771-5300",
+      "deferred": true,
+      "scheduleText": "Food distribution 1st and 3rd Wednesday of the month. Registration required — call by the Tuesday before each distribution to reserve.",
+      "eligibility": "Registration by phone required, no later than the Tuesday before each distribution",
+      "sourceUrl": "https://friendlycenter.org/contact-page/"
+    },
+    {
+      "slug": "marys-kitchen-mobile-anaheim",
+      "name": "Mary's Kitchen Mobile Pop-Up Pantry",
+      "type": "mobile",
+      "address": "Anaheim, CA (mobile — no fixed public address)",
+      "neighborhood": "Anaheim",
+      "phone": "(714) 633-0444",
+      "deferred": true,
+      "scheduleText": "Mobile pop-up food pantry operating six days a week, serving different communities each day. Call for the current locations and times.",
+      "eligibility": null,
+      "sourceUrl": "https://maryskitchenpantry.org/"
+    },
+    {
+      "slug": "oc-food-bank-capoc-hub-garden-grove",
+      "name": "OC Food Bank (Community Action Partnership of OC)",
+      "type": "pantry",
+      "address": "11870 Monarch St., Garden Grove, CA 92841",
+      "neighborhood": "Garden Grove",
+      "phone": "(714) 897-6670",
+      "deferred": true,
+      "scheduleText": "County food-bank hub, Monday-Friday 9:00 AM-4:00 PM. Primarily supplies partner pantries rather than the public — call before visiting, or use a partner distribution site listed here.",
+      "eligibility": "Registration required; primarily serves partner agencies",
+      "sourceUrl": "https://www.capoc.org/oc-food-bank/"
+    },
+    {
+      "slug": "csfp-anaheim-manor-apt",
+      "name": "Anaheim Manor Apt. (CSFP Senior Food Box)",
+      "type": "pantry",
+      "address": "275 E. Center St., Anaheim, CA 92805",
+      "neighborhood": "Anaheim",
+      "phone": "(714) 667-0717",
+      "deferred": true,
+      "scheduleText": "Monthly senior food box (CSFP) distribution. Dates rotate each month — call (714) 667-0717 to confirm this month's date and time.",
+      "eligibility": "Seniors 60+, income-qualified; bring ID",
+      "sourceUrl": "https://www.capoc.org/oc-food-bank/"
+    },
+    {
+      "slug": "csfp-anaheim-marketplace",
+      "name": "Anaheim Marketplace (CSFP Senior Food Box)",
+      "type": "pantry",
+      "address": "1440 S. Anaheim Blvd., Anaheim, CA 92805",
+      "neighborhood": "Anaheim",
+      "phone": "(714) 667-0717",
+      "deferred": true,
+      "scheduleText": "Monthly senior food box (CSFP) distribution. Dates rotate each month — call (714) 667-0717 to confirm this month's date and time.",
+      "eligibility": "Seniors 60+, income-qualified; bring ID",
+      "sourceUrl": "https://www.capoc.org/oc-food-bank/"
+    },
+    {
+      "slug": "csfp-asian-american-senior-center-westminster",
+      "name": "Asian American Senior Center (CSFP Senior Food Box)",
+      "type": "pantry",
+      "address": "220 Hospital Circle, Westminster, CA 92683",
+      "neighborhood": "Westminster",
+      "phone": "(714) 667-0717",
+      "deferred": true,
+      "scheduleText": "Monthly senior food box (CSFP) distribution. Dates rotate each month — call (714) 667-0717 to confirm this month's date and time.",
+      "eligibility": "Seniors 60+, income-qualified; bring ID",
+      "sourceUrl": "https://www.capoc.org/oc-food-bank/"
+    },
+    {
+      "slug": "csfp-church-of-latter-day-saint-buena-park",
+      "name": "Church of Latter Day Saints - Buena Park (CSFP Senior Food Box)",
+      "type": "pantry",
+      "address": "7600 Crescent Ave., Buena Park, CA 90620",
+      "neighborhood": "Buena Park",
+      "phone": "(714) 667-0717",
+      "deferred": true,
+      "scheduleText": "Monthly senior food box (CSFP) distribution. Dates rotate each month — call (714) 667-0717 to confirm this month's date and time.",
+      "eligibility": "Seniors 60+, income-qualified; bring ID",
+      "sourceUrl": "https://www.capoc.org/oc-food-bank/"
+    },
+    {
+      "slug": "csfp-seventh-day-adventist-costa-mesa",
+      "name": "Seventh Day Adventist - Costa Mesa (CSFP Senior Food Box)",
+      "type": "pantry",
+      "address": "271 Avocado St., Costa Mesa, CA 92627",
+      "neighborhood": "Costa Mesa",
+      "phone": "(714) 667-0717",
+      "deferred": true,
+      "scheduleText": "Monthly senior food box (CSFP) distribution. Dates rotate each month — call (714) 667-0717 to confirm this month's date and time.",
+      "eligibility": "Seniors 60+, income-qualified; bring ID",
+      "sourceUrl": "https://www.capoc.org/oc-food-bank/"
+    },
+    {
+      "slug": "csfp-cypress-community-center",
+      "name": "Cypress Community Center (CSFP Senior Food Box)",
+      "type": "pantry",
+      "address": "5700 Orange Ave., Cypress, CA 90630",
+      "neighborhood": "Cypress",
+      "phone": "(714) 667-0717",
+      "deferred": true,
+      "scheduleText": "Monthly senior food box (CSFP) distribution. Dates rotate each month — call (714) 667-0717 to confirm this month's date and time.",
+      "eligibility": "Seniors 60+, income-qualified; bring ID",
+      "sourceUrl": "https://www.capoc.org/oc-food-bank/"
+    },
+    {
+      "slug": "csfp-clinton-garden-grove",
+      "name": "Clinton - Garden Grove (CSFP Senior Food Box)",
+      "type": "pantry",
+      "address": "12651 Sunswept St., Garden Grove, CA 92844",
+      "neighborhood": "Garden Grove",
+      "phone": "(714) 667-0717",
+      "deferred": true,
+      "scheduleText": "Monthly senior food box (CSFP) distribution. Dates rotate each month — call (714) 667-0717 to confirm this month's date and time.",
+      "eligibility": "Seniors 60+, income-qualified; bring ID",
+      "sourceUrl": "https://www.capoc.org/oc-food-bank/"
+    },
+    {
+      "slug": "csfp-delhi-community-center-santa-ana",
+      "name": "Delhi Community Center (CSFP Senior Food Box)",
+      "type": "pantry",
+      "address": "505 E. Central Ave., Santa Ana, CA 92707",
+      "neighborhood": "Santa Ana",
+      "phone": "(714) 667-0717",
+      "deferred": true,
+      "scheduleText": "Monthly senior food box (CSFP) distribution. Dates rotate each month — call (714) 667-0717 to confirm this month's date and time.",
+      "eligibility": "Seniors 60+, income-qualified; bring ID",
+      "sourceUrl": "https://www.capoc.org/oc-food-bank/"
+    },
+    {
+      "slug": "csfp-el-modena-frc-orange",
+      "name": "El Modena FRC - Orange (CSFP Senior Food Box)",
+      "type": "pantry",
+      "address": "18672 E. Center Ave., Orange, CA 92869",
+      "neighborhood": "Orange",
+      "phone": "(714) 667-0717",
+      "deferred": true,
+      "scheduleText": "Monthly senior food box (CSFP) distribution. Dates rotate each month — call (714) 667-0717 to confirm this month's date and time.",
+      "eligibility": "Seniors 60+, income-qualified; bring ID",
+      "sourceUrl": "https://www.capoc.org/oc-food-bank/"
+    },
+    {
+      "slug": "csfp-garden-grove-park",
+      "name": "Garden Grove Park (CSFP Senior Food Box)",
+      "type": "pantry",
+      "address": "9301 Westminster Ave., Garden Grove, CA 92844",
+      "neighborhood": "Garden Grove",
+      "phone": "(714) 667-0717",
+      "deferred": true,
+      "scheduleText": "Monthly senior food box (CSFP) distribution. Dates rotate each month — call (714) 667-0717 to confirm this month's date and time.",
+      "eligibility": "Seniors 60+, income-qualified; bring ID",
+      "sourceUrl": "https://www.capoc.org/oc-food-bank/"
+    },
+    {
+      "slug": "csfp-the-great-park-irvine",
+      "name": "The Great Park - Irvine (CSFP Senior Food Box)",
+      "type": "pantry",
+      "address": "8000 Great Park Blvd. Lot 2, Irvine, CA 92618",
+      "neighborhood": "Irvine",
+      "phone": "(714) 667-0717",
+      "deferred": true,
+      "scheduleText": "Monthly senior food box (CSFP) distribution. Dates rotate each month — call (714) 667-0717 to confirm this month's date and time.",
+      "eligibility": "Seniors 60+, income-qualified; bring ID",
+      "sourceUrl": "https://www.capoc.org/oc-food-bank/"
+    },
+    {
+      "slug": "csfp-st-bonaventure-catholic-church-huntington-beach",
+      "name": "St. Bonaventure Catholic Church - Huntington Beach (CSFP Senior Food Box)",
+      "type": "pantry",
+      "address": "16400 Springdale St., Huntington Beach, CA 92649",
+      "neighborhood": "Huntington Beach",
+      "phone": "(714) 667-0717",
+      "deferred": true,
+      "scheduleText": "Monthly senior food box (CSFP) distribution. Dates rotate each month — call (714) 667-0717 to confirm this month's date and time.",
+      "eligibility": "Seniors 60+, income-qualified; bring ID",
+      "sourceUrl": "https://www.capoc.org/oc-food-bank/"
+    },
+    {
+      "slug": "csfp-huntington-gardens-apts-huntington-beach",
+      "name": "Huntington Gardens Apts. - Huntington Beach (CSFP Senior Food Box)",
+      "type": "pantry",
+      "address": "18765 Florida St., Huntington Beach, CA 92648",
+      "neighborhood": "Huntington Beach",
+      "phone": "(714) 667-0717",
+      "deferred": true,
+      "scheduleText": "Monthly senior food box (CSFP) distribution. Dates rotate each month — call (714) 667-0717 to confirm this month's date and time.",
+      "eligibility": "Seniors 60+, income-qualified; bring ID",
+      "sourceUrl": "https://www.capoc.org/oc-food-bank/"
+    },
+    {
+      "slug": "csfp-irvine-lakeview-senior-center",
+      "name": "Irvine Lakeview Senior Center (CSFP Senior Food Box)",
+      "type": "pantry",
+      "address": "20 Lake Rd., Irvine, CA 92604",
+      "neighborhood": "Irvine",
+      "phone": "(714) 667-0717",
+      "deferred": true,
+      "scheduleText": "Monthly senior food box (CSFP) distribution. Dates rotate each month — call (714) 667-0717 to confirm this month's date and time.",
+      "eligibility": "Seniors 60+, income-qualified; bring ID",
+      "sourceUrl": "https://www.capoc.org/oc-food-bank/"
+    },
+    {
+      "slug": "csfp-jerome-center-santa-ana",
+      "name": "Jerome Center - Santa Ana (CSFP Senior Food Box)",
+      "type": "pantry",
+      "address": "726 S. Center St., Santa Ana, CA 92704",
+      "neighborhood": "Santa Ana",
+      "phone": "(714) 667-0717",
+      "deferred": true,
+      "scheduleText": "Monthly senior food box (CSFP) distribution. Dates rotate each month — call (714) 667-0717 to confirm this month's date and time.",
+      "eligibility": "Seniors 60+, income-qualified; bring ID",
+      "sourceUrl": "https://www.capoc.org/oc-food-bank/"
+    },
+    {
+      "slug": "csfp-korean-senior-center-garden-grove",
+      "name": "Korean Senior Center - Garden Grove (CSFP Senior Food Box)",
+      "type": "pantry",
+      "address": "9884 Garden Grove Blvd., Garden Grove, CA 92844",
+      "neighborhood": "Garden Grove",
+      "phone": "(714) 667-0717",
+      "deferred": true,
+      "scheduleText": "Monthly senior food box (CSFP) distribution. Dates rotate each month — call (714) 667-0717 to confirm this month's date and time.",
+      "eligibility": "Seniors 60+, income-qualified; bring ID",
+      "sourceUrl": "https://www.capoc.org/oc-food-bank/"
+    },
+    {
+      "slug": "csfp-united-methodist-church-la-habra",
+      "name": "United Methodist Church - La Habra (CSFP Senior Food Box)",
+      "type": "pantry",
+      "address": "631 N. Euclid St., La Habra, CA 90631",
+      "neighborhood": "La Habra",
+      "phone": "(714) 667-0717",
+      "deferred": true,
+      "scheduleText": "Monthly senior food box (CSFP) distribution. Dates rotate each month — call (714) 667-0717 to confirm this month's date and time.",
+      "eligibility": "Seniors 60+, income-qualified; bring ID",
+      "sourceUrl": "https://www.capoc.org/oc-food-bank/"
+    },
+    {
+      "slug": "csfp-lutheran-church-of-the-cross-laguna-woods",
+      "name": "Lutheran Church of the Cross - Laguna Woods (CSFP Senior Food Box)",
+      "type": "pantry",
+      "address": "24231 El Toro Rd., Laguna Woods, CA 92637",
+      "neighborhood": "Laguna Woods",
+      "phone": "(714) 667-0717",
+      "deferred": true,
+      "scheduleText": "Monthly senior food box (CSFP) distribution. Dates rotate each month — call (714) 667-0717 to confirm this month's date and time.",
+      "eligibility": "Seniors 60+, income-qualified; bring ID",
+      "sourceUrl": "https://www.capoc.org/oc-food-bank/"
+    },
+    {
+      "slug": "csfp-midway-city-community-center",
+      "name": "Midway City Community Center (CSFP Senior Food Box)",
+      "type": "pantry",
+      "address": "14900 Park Lane, Midway City, CA 92655",
+      "neighborhood": "Midway City",
+      "phone": "(714) 667-0717",
+      "deferred": true,
+      "scheduleText": "Monthly senior food box (CSFP) distribution. Dates rotate each month — call (714) 667-0717 to confirm this month's date and time.",
+      "eligibility": "Seniors 60+, income-qualified; bring ID",
+      "sourceUrl": "https://www.capoc.org/oc-food-bank/"
+    },
+    {
+      "slug": "csfp-mission-sacred-heart-anaheim",
+      "name": "Mission Sacred Heart - Anaheim (CSFP Senior Food Box)",
+      "type": "pantry",
+      "address": "10852 Harcourt Ave., Anaheim, CA 92804",
+      "neighborhood": "Anaheim",
+      "phone": "(714) 667-0717",
+      "deferred": true,
+      "scheduleText": "Monthly senior food box (CSFP) distribution. Dates rotate each month — call (714) 667-0717 to confirm this month's date and time.",
+      "eligibility": "Seniors 60+, income-qualified; bring ID",
+      "sourceUrl": "https://www.capoc.org/oc-food-bank/"
+    },
+    {
+      "slug": "csfp-whitten-community-center-placentia",
+      "name": "Whitten Community Center - Placentia (CSFP Senior Food Box)",
+      "type": "pantry",
+      "address": "900 S. Melrose St., Placentia, CA 92870",
+      "neighborhood": "Placentia",
+      "phone": "(714) 667-0717",
+      "deferred": true,
+      "scheduleText": "Monthly senior food box (CSFP) distribution. Dates rotate each month — call (714) 667-0717 to confirm this month's date and time.",
+      "eligibility": "Seniors 60+, income-qualified; bring ID",
+      "sourceUrl": "https://www.capoc.org/oc-food-bank/"
+    },
+    {
+      "slug": "csfp-johnson-chapel-ame-church-santa-ana",
+      "name": "Johnson Chapel AME Church - Santa Ana (CSFP Senior Food Box)",
+      "type": "pantry",
+      "address": "1306 W. 2nd St., Santa Ana, CA 92703",
+      "neighborhood": "Santa Ana",
+      "phone": "(714) 667-0717",
+      "deferred": true,
+      "scheduleText": "Monthly senior food box (CSFP) distribution. Dates rotate each month — call (714) 667-0717 to confirm this month's date and time.",
+      "eligibility": "Seniors 60+, income-qualified; bring ID",
+      "sourceUrl": "https://www.capoc.org/oc-food-bank/"
+    },
+    {
+      "slug": "csfp-tower-on-19th-costa-mesa",
+      "name": "Tower on 19th - Costa Mesa (CSFP Senior Food Box)",
+      "type": "pantry",
+      "address": "678 W. 19th St., Costa Mesa, CA 92627",
+      "neighborhood": "Costa Mesa",
+      "phone": "(714) 667-0717",
+      "deferred": true,
+      "scheduleText": "Monthly senior food box (CSFP) distribution. Dates rotate each month — call (714) 667-0717 to confirm this month's date and time.",
+      "eligibility": "Seniors 60+, income-qualified; bring ID",
+      "sourceUrl": "https://www.capoc.org/oc-food-bank/"
+    },
+    {
+      "slug": "csfp-westminster-boys-and-girls-club",
+      "name": "Westminster Boys & Girls Club (CSFP Senior Food Box)",
+      "type": "pantry",
+      "address": "14400 Chestnut St., Westminster, CA 92683",
+      "neighborhood": "Westminster",
+      "phone": "(714) 667-0717",
+      "deferred": true,
+      "scheduleText": "Monthly senior food box (CSFP) distribution. Dates rotate each month — call (714) 667-0717 to confirm this month's date and time.",
+      "eligibility": "Seniors 60+, income-qualified; bring ID",
+      "sourceUrl": "https://www.capoc.org/oc-food-bank/"
+    },
+    {
+      "slug": "csfp-starlight-baptist-church-santa-ana",
+      "name": "Starlight Baptist Church - Santa Ana (CSFP Senior Food Box)",
+      "type": "pantry",
+      "address": "1201 W. 2nd St., Santa Ana, CA 92703",
+      "neighborhood": "Santa Ana",
+      "phone": "(714) 667-0717",
+      "deferred": true,
+      "scheduleText": "Monthly senior food box (CSFP) distribution. Dates rotate each month — call (714) 667-0717 to confirm this month's date and time.",
+      "eligibility": "Seniors 60+, income-qualified; bring ID",
+      "sourceUrl": "https://www.capoc.org/oc-food-bank/"
+    },
+    {
+      "name": "Laguna Food Pantry",
+      "type": "pantry",
+      "address": "20652 Laguna Canyon Road, Unit B, Laguna Beach, CA 92651",
+      "neighborhood": "Laguna Beach",
+      "phone": "(949) 497-7121",
+      "scheduleText": "Monday through Friday, 8:00 a.m. to 10:30 a.m.",
+      "hours": [
+        {
+          "days": "Mon",
+          "open": "08:00",
+          "close": "10:30"
+        },
+        {
+          "days": "Tue",
+          "open": "08:00",
+          "close": "10:30"
+        },
+        {
+          "days": "Wed",
+          "open": "08:00",
+          "close": "10:30"
+        },
+        {
+          "days": "Thu",
+          "open": "08:00",
+          "close": "10:30"
+        },
+        {
+          "days": "Fri",
+          "open": "08:00",
+          "close": "10:30"
+        }
+      ],
+      "eligibility": "None. Groceries 100% free; ID requested, residency not required. Once weekly.",
+      "sourceUrl": "https://www.lagunafoodpantry.org/pantry-information",
+      "slug": "laguna-food-pantry-laguna-beach"
+    },
+    {
+      "name": "Mariners Church Food Pantry",
+      "type": "pantry",
+      "address": "5001 Newport Coast Dr., Irvine, CA 92603",
+      "neighborhood": "Irvine",
+      "phone": "(949) 769-8131",
+      "scheduleText": "Tuesday through Friday, 9:30 a.m. to 12:30 p.m.",
+      "hours": [
+        {
+          "days": "Tue",
+          "open": "09:30",
+          "close": "12:30"
+        },
+        {
+          "days": "Wed",
+          "open": "09:30",
+          "close": "12:30"
+        },
+        {
+          "days": "Thu",
+          "open": "09:30",
+          "close": "12:30"
+        },
+        {
+          "days": "Fri",
+          "open": "09:30",
+          "close": "12:30"
+        }
+      ],
+      "eligibility": "Orange County residents; call before visiting. Choice-based.",
+      "sourceUrl": "https://www.marinerschurch.org/food-pantry-thrift-store/",
+      "slug": "mariners-church-food-pantry-irvine"
+    },
+    {
+      "name": "City of Irvine Free Grocery Food Box",
+      "type": "distribution",
+      "address": "8000 Great Park Blvd, Irvine, CA 92618",
+      "neighborhood": "Irvine",
+      "phone": "(949) 724-6650",
+      "scheduleText": "Second Thursday of each month, 9:00 AM to 12:00 PM. Drive-through, first-come first-served (Great Park, Parking Lot 2).",
+      "hours": [],
+      "eligibility": "~30-lb box of food once a month",
+      "sourceUrl": "https://cityofirvine.gov/food-pantries",
+      "slug": "city-of-irvine-free-grocery-food-box-irvine"
+    },
+    {
+      "name": "South County Outreach Food Market",
+      "type": "pantry",
+      "address": "23661 Birtcher Drive, Lake Forest, CA 92630",
+      "neighborhood": "Lake Forest",
+      "phone": "(949) 687-2401",
+      "scheduleText": "Monday through Thursday, 9:00 a.m. to 2:00 p.m. By appointment; email appointments@sco-oc.org or call. Once a month.",
+      "hours": [],
+      "eligibility": "Application, income self-declaration, and photo ID required. Appointment required.",
+      "deferred": true,
+      "sourceUrl": "https://www.sco-oc.org/important-notice-sco-food-pantry-moving-starting-june-1-2026/",
+      "slug": "south-county-outreach-food-market-lake-forest"
+    },
+    {
+      "name": "Nourishing Great Futures Market (Boys & Girls Clubs of Capistrano Valley)",
+      "type": "pantry",
+      "address": "24671 Via Iglesia, Aliso Viejo, CA 92656",
+      "neighborhood": "Aliso Viejo",
+      "phone": null,
+      "scheduleText": "Every Wednesday, 9:30 AM to 10:30 AM. Rain or shine. Walk-ups welcome; first come, first served.",
+      "hours": [
+        {
+          "days": "Wed",
+          "open": "09:30",
+          "close": "10:30"
+        }
+      ],
+      "eligibility": "None. No ID or proof of income; provide last name and family size. Bring bags.",
+      "sourceUrl": "https://bgccapo.com/nourishing-great-futures-market",
+      "slug": "nourishing-great-futures-market-boys-girls-clubs-of-capistrano-valley-aliso-viejo"
+    },
+    {
+      "name": "Coast Hills Church Food Pantry",
+      "type": "pantry",
+      "address": "5 Pursuit, Aliso Viejo, CA 92656",
+      "neighborhood": "Aliso Viejo",
+      "phone": "(949) 362-0079",
+      "scheduleText": "1st and 3rd Saturday of the month, 8:00 AM to 10:00 AM.",
+      "hours": [],
+      "eligibility": "Families in the church and community",
+      "sourceUrl": "https://foodpantries.org/li/coast_hills_community_church_92656",
+      "slug": "coast-hills-church-food-pantry-aliso-viejo"
+    },
+    {
+      "name": "Crossline Community Church Food Pantry",
+      "type": "pantry",
+      "address": "23331 Moulton Parkway, Laguna Hills, CA 92653",
+      "neighborhood": "Laguna Hills",
+      "phone": "(949) 916-0250",
+      "scheduleText": "Wednesday and Friday, 8:00 a.m. to 11:00 a.m.",
+      "hours": [
+        {
+          "days": "Wed",
+          "open": "08:00",
+          "close": "11:00"
+        },
+        {
+          "days": "Fri",
+          "open": "08:00",
+          "close": "11:00"
+        }
+      ],
+      "eligibility": "Residents of South Orange County",
+      "sourceUrl": "https://www.crosslinechurch.com/food-pantry/",
+      "slug": "crossline-community-church-food-pantry-laguna-hills"
+    },
+    {
+      "name": "Mission Hills Church Food Pantry",
+      "type": "pantry",
+      "address": "24162 Alicia Parkway, Mission Viejo, CA 92691",
+      "neighborhood": "Mission Viejo",
+      "phone": "(949) 586-4510",
+      "scheduleText": "Tuesday 3:00 p.m. to 5:00 p.m. and Wednesday 5:00 p.m. to 6:00 p.m. (community meal Wed).",
+      "hours": [
+        {
+          "days": "Tue",
+          "open": "15:00",
+          "close": "17:00"
+        },
+        {
+          "days": "Wed",
+          "open": "17:00",
+          "close": "18:00"
+        }
+      ],
+      "eligibility": "Client-choice pantry for those with food insecurity or emergency need",
+      "sourceUrl": "https://www.foodpantries.org/li/ca_92691_mission-hills-church-food-pantry",
+      "slug": "mission-hills-church-food-pantry-mission-viejo"
+    },
+    {
+      "name": "St. Kilian Outreach Food Pantry",
+      "type": "pantry",
+      "address": "26872 Estanciero Rd, Mission Viejo, CA 92691",
+      "neighborhood": "Mission Viejo",
+      "phone": "(949) 609-8111",
+      "scheduleText": "Tuesdays 10:00 a.m. to 12:00 p.m. and Fridays 9:00 a.m. to 12:30 p.m.",
+      "hours": [
+        {
+          "days": "Tue",
+          "open": "10:00",
+          "close": "12:00"
+        },
+        {
+          "days": "Fri",
+          "open": "09:00",
+          "close": "12:30"
+        }
+      ],
+      "eligibility": "Local families",
+      "sourceUrl": "https://sites.google.com/cabrillopointacademy.org/community-outreach-resources/mission-viejolake-forestrsm",
+      "slug": "st-kilian-outreach-food-pantry-mission-viejo"
+    },
+    {
+      "name": "RSM Cares Food Pantry",
+      "type": "distribution",
+      "address": "30605 Avenida de Las Flores, Rancho Santa Margarita, CA 92688",
+      "neighborhood": "Rancho Santa Margarita",
+      "phone": "(714) 348-3292",
+      "scheduleText": "1st and 3rd Wednesday of each month, 2:00 PM to 4:30 PM. Drive-through.",
+      "hours": [],
+      "eligibility": "None. All welcome; no prequalification.",
+      "sourceUrl": "https://cityofrsm.org/Calendar.aspx?EID=1735",
+      "slug": "rsm-cares-food-pantry-rancho-santa-margarita"
+    },
+    {
+      "name": "Dana Point Senior Center Food Pantry",
+      "type": "pantry",
+      "address": "34052 Del Obispo Street, Dana Point, CA 92629",
+      "neighborhood": "Dana Point",
+      "phone": "(949) 496-4252",
+      "scheduleText": "3rd Thursday of the month, 9:00 AM to 11:00 AM.",
+      "hours": [],
+      "eligibility": null,
+      "sourceUrl": "https://www.foodpantries.org/li/dana_point_senior_center_92629",
+      "slug": "dana-point-senior-center-food-pantry-dana-point"
+    },
+    {
+      "name": "St. Michael's Society Food Pantry (Saint Michael's Church)",
+      "type": "pantry",
+      "address": "107 W. Marquita, San Clemente, CA 92672",
+      "neighborhood": "San Clemente",
+      "phone": "(949) 366-9480",
+      "scheduleText": "Monday, 4:00 p.m. to 5:00 p.m. Please do not arrive before 3:30 p.m.",
+      "hours": [
+        {
+          "days": "Mon",
+          "open": "16:00",
+          "close": "17:00"
+        }
+      ],
+      "eligibility": "Bring photo ID and proof of address",
+      "sourceUrl": "https://foodpantries.org/li/the_st_michaels_society_92672",
+      "slug": "st-michael-s-society-food-pantry-saint-michael-s-church-san-clemente"
+    },
+    {
+      "name": "Melinda Hoag Smith Center for Healthy Living Food Distribution",
+      "type": "distribution",
+      "address": "307 Placentia Avenue, Newport Beach, CA 92663",
+      "neighborhood": "Newport Beach",
+      "phone": "(949) 764-6551",
+      "scheduleText": "1st and 3rd Thursday of every month (drive-thru). Call for the day's start time; allotment by family size; once per month per registrant. Dates shift for holidays.",
+      "hours": [],
+      "eligibility": "Open to community; register (once monthly)",
+      "deferred": true,
+      "sourceUrl": "https://www.hoag.org/healthy-living-programs",
+      "slug": "melinda-hoag-smith-center-for-healthy-living-food-distribution-newport-beach"
+    },
+    {
+      "name": "Beachcities Pantry (Beachcities Church)",
+      "type": "pantry",
+      "address": "9872 Hamilton Avenue, Huntington Beach, CA 92646",
+      "neighborhood": "Huntington Beach",
+      "phone": "(714) 698-0668",
+      "scheduleText": "Typically 1st and 3rd Saturday, curbside 8:00-9:30 a.m. by appointment. Online order form opens Sun 8 a.m., closes Tue 8 p.m. or at capacity. Photo ID; one order per household.",
+      "hours": [],
+      "eligibility": "Community members with basic food/household needs; photo ID; online order required.",
+      "deferred": true,
+      "sourceUrl": "https://www.beachcities.org/pantry",
+      "slug": "beachcities-pantry-beachcities-church-huntington-beach"
+    },
+    {
+      "name": "St. Bonaventure Catholic Parish - HOPE Food Ministry",
+      "type": "pantry",
+      "address": "16410 Springdale Street, Huntington Beach, CA 92649",
+      "neighborhood": "Huntington Beach",
+      "phone": "(714) 846-3831",
+      "scheduleText": "Monday through Friday, 10:00 a.m. to 11:15 a.m.",
+      "hours": [
+        {
+          "days": "Mon",
+          "open": "10:00",
+          "close": "11:15"
+        },
+        {
+          "days": "Tue",
+          "open": "10:00",
+          "close": "11:15"
+        },
+        {
+          "days": "Wed",
+          "open": "10:00",
+          "close": "11:15"
+        },
+        {
+          "days": "Thu",
+          "open": "10:00",
+          "close": "11:15"
+        },
+        {
+          "days": "Fri",
+          "open": "10:00",
+          "close": "11:15"
+        }
+      ],
+      "eligibility": "Seniors and families near Huntington Beach",
+      "sourceUrl": "https://www.stbonaventure.org/ministries/hope",
+      "slug": "st-bonaventure-catholic-parish-hope-food-ministry-huntington-beach"
+    },
+    {
+      "name": "Oak View Family Resource Center Food Distribution",
+      "type": "distribution",
+      "address": "17261 Oak Lane, Huntington Beach, CA 92647",
+      "neighborhood": "Huntington Beach",
+      "phone": "(714) 842-4002",
+      "scheduleText": "Every Friday, 9:30 a.m. to 12:00 p.m. Call after 11 a.m. Monday with name and phone; you are assigned a slot for the following Friday.",
+      "hours": [
+        {
+          "days": "Fri",
+          "open": "09:30",
+          "close": "12:00"
+        }
+      ],
+      "eligibility": "Anyone in need. Advance sign-up required.",
+      "deferred": true,
+      "sourceUrl": "https://www.factoc.org/frc/oakview/",
+      "slug": "oak-view-family-resource-center-food-distribution-huntington-beach"
+    },
+    {
+      "name": "First Christian Church of Huntington Beach Drive-Thru Pantry",
+      "type": "distribution",
+      "address": "1207 Main Street, Huntington Beach, CA 92648",
+      "neighborhood": "Huntington Beach",
+      "phone": "(714) 845-5377",
+      "scheduleText": "4th Sunday of every month, 1:00 PM to 2:30 PM. Drive-thru (corner of Adams & 17th).",
+      "hours": [],
+      "eligibility": "None; stay in your car",
+      "sourceUrl": "https://www.fcchb.com/assistance",
+      "slug": "first-christian-church-of-huntington-beach-drive-thru-pantry-huntington-beach"
+    },
+    {
+      "name": "Community United Methodist Church Food Closet",
+      "type": "pantry",
+      "address": "6652 Heil Avenue, Huntington Beach, CA 92647",
+      "neighborhood": "Huntington Beach",
+      "phone": "(714) 842-4461",
+      "scheduleText": "Fridays, 12:00 p.m. to 2:00 p.m. One bag of essentials plus extras, once a month.",
+      "hours": [
+        {
+          "days": "Fri",
+          "open": "12:00",
+          "close": "14:00"
+        }
+      ],
+      "eligibility": "HB and Westminster individuals/families in need (once monthly)",
+      "sourceUrl": "https://cumchb.org/loving/",
+      "slug": "community-united-methodist-church-food-closet-huntington-beach"
+    },
+    {
+      "name": "Vietnamese American Cancer Foundation (VACF) Food Distribution",
+      "type": "distribution",
+      "address": "17150 Newhope St, Suite 201-203, Fountain Valley, CA 92708",
+      "neighborhood": "Fountain Valley",
+      "phone": "(714) 751-5805",
+      "scheduleText": "First Saturday of each month, 10:00 AM to 12:00 PM.",
+      "hours": [],
+      "eligibility": null,
+      "sourceUrl": "https://www.vacf.org/event-details/food-distribution",
+      "slug": "vietnamese-american-cancer-foundation-vacf-food-distribution-fountain-valley"
+    },
+    {
+      "name": "Caring Kitchen (Costa Mesa Church of Christ)",
+      "type": "soup-kitchen",
+      "address": "287 W Wilson St, Costa Mesa, CA 92627",
+      "neighborhood": "Costa Mesa",
+      "phone": "(949) 645-3191",
+      "scheduleText": "Hot meals every Tuesday evening, 5:30 p.m. to 6:30 p.m.",
+      "hours": [
+        {
+          "days": "Tue",
+          "open": "17:30",
+          "close": "18:30"
+        }
+      ],
+      "eligibility": null,
+      "sourceUrl": "https://food-banks.org/detail/costa_mesa_church_of_christ_caring_kitchen_costa_mesa_ca.html",
+      "slug": "caring-kitchen-costa-mesa-church-of-christ-costa-mesa"
+    },
+    {
+      "name": "Armor of Light Ministry Food Pantry (Calvary Chapel)",
+      "type": "pantry",
+      "address": "3800 S. Fairview, Santa Ana, CA 92704",
+      "neighborhood": "Santa Ana",
+      "phone": "(714) 979-4422",
+      "scheduleText": "Sunday, 11:00 a.m. to 1:00 p.m.",
+      "hours": [
+        {
+          "days": "Sun",
+          "open": "11:00",
+          "close": "13:00"
+        }
+      ],
+      "eligibility": null,
+      "sourceUrl": "https://www.foodpantries.org/li/ca_santa-ana_armor-of-light-ministry-food-pantry",
+      "slug": "armor-of-light-ministry-food-pantry-calvary-chapel-santa-ana"
+    }
+  ]
+}

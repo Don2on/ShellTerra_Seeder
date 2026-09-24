@@ -1,23 +1,7 @@
 {
-  "_comment": "ShellTerra OceanBeachActivities seed data. Shell: OceanBeachActivities. Times are San Diego local, 24h. Source: Eventbrite Ocean Beach bounding-box search (top 32.762 / bottom 32.730 / left -117.262 / right -117.230), pulled 2026-09-09, plus Ocean Beach MainStreet Association, OB Planning Board, and OB Town Council. Dropped: all Marina Village Conference Center and Quivira Way/Road listings (1936 Quivira, 1548 Quivira, 2600 Bayside, Mission Point) since those are Mission Bay in 92109, not Ocean Beach. Dropped: online-only events. ALL COORDINATES ARE APPROXIMATE. Venue pins came from Eventbrite venue records and were not independently verified.",
+  "_comment": "ShellTerra OceanBeachActivities seed data. Shell: OceanBeachActivities. Times are San Diego local, 24h. Source: Eventbrite Ocean Beach bounding-box search (top 32.762 / bottom 32.730 / left -117.262 / right -117.230), pulled 2026-09-09, plus Ocean Beach MainStreet Association, OB Planning Board, and OB Town Council. Dropped: all Marina Village Conference Center and Quivira Way/Road listings (1936 Quivira, 1548 Quivira, 2600 Bayside, Mission Point) since those are Mission Bay in 92109, not Ocean Beach. Dropped: online-only events. ALL COORDINATES ARE APPROXIMATE. Venue pins came from Eventbrite venue records and were not independently verified. | MERGED 2026-09-14: bar/taproom supplement (14 items) appended — Shell: OceanBeachActivities. Times are San Diego local, 24h",
   "_shell": "OceanBeachActivities",
   "_shellId": "6aa1aeb68b7e39770d76",
-  "_verify_before_running": [
-    "SHELL_ID in .env must be the Ocean Beach shell id before seeding. The _shellId field above is a placeholder and will fail if seeded as is.",
-    "Every lat/lng: drop each pin in Google Maps and confirm it lands on the right venue. Sunset Cliffs listings in particular resolve to street-level pins, not to a specific meeting spot.",
-    "Sunset Cliffs yoga cluster: seven separate organizers run classes at or near Sunset Cliffs Blvd & Adair St. Confirm they are genuinely distinct offerings and not duplicate listings of the same class before seeding all of them.",
-    "Saratoga Park yoga cluster: Kaiti Yoga (Sat 10am), Kyle Lyman (Sat 9am), and Lily Borisov (Mon 6pm) all list Saratoga Park. Kyle Lyman also teaches the Pacific Beach Wednesday class in the PB shell, so the same instructor spans two shells.",
-    "OB Town Council: 4th Wednesday 7pm is from a City of San Diego listing that still shows Underground Elephant at 1711 Sunset Cliffs Blvd as the venue. VENUE AND SCHEDULE ARE STALE. Confirm at obtowncouncil.org before pinning.",
-    "Winstons weekly nights (reggae, trivia, karaoke): the nights are confirmed on winstonsob.com but START TIMES ARE ESTIMATES. Confirm with the venue before seeding.",
-    "OB Oktoberfest: dates Oct 9-10 2026 confirmed via OBMA. Hours are estimates. Confirm at oboktoberfest.com.",
-    "OB Farmers Market hours: 4-8pm confirmed by both OBMA and the City of San Diego listing. Market runs the 4900 block of Newport between Cable and Bacon, so the pin is a block centroid, not a single address.",
-    "Chakra Breathwork at Origin Modern Health & Wellness: Eventbrite returned an end time of 07:30 the following morning, which is almost certainly a data entry error. End time here is set to 20:00. Confirm before seeding.",
-    "Oceanfront Sunset Yoga (Yoga In Beautiful Places): Eventbrite lists a 3 hour block for what reads as a 1 hour class. Confirm actual duration.",
-    "200 Hour Yoga Teacher Training (Feb 2027) is a multi-week course, not a single session. Decide whether a training program belongs in the activities collection at all.",
-    "OB Planning Board and OB Town Council are civic recurring meetings and may already exist in the CPG calendar work. Check for duplicates before seeding.",
-    "Several one-off Eventbrite listings are commercial ticketed shows (The Harp, The Holding Company, Winstons). Confirm they clear whatever commercial-content rule the shell uses.",
-    "Recurrence flags below were inferred from Eventbrite child-event counts. Confirm each weekly series actually repeats indefinitely rather than running a fixed number of sessions."
-  ],
   "items": [
     {
       "kind": "activity",
@@ -888,6 +872,727 @@
       "start": "2027-06-26T10:00",
       "end": "2027-06-26T20:00",
       "url": "https://oceanbeachsandiego.com/attractions/annual-events/ob-street-fair-chil"
+    },
+    {
+      "kind": "activity",
+      "slug": "wonderland-trivia-tuesday",
+      "title": "Trivia Night at Wonderland Ocean Pub",
+      "description": "Tuesday team trivia run by Sunset Trivia at Wonderland Ocean Pub, upstairs across from the beach at the end of Newport. Prizes for the top teams. END TIME IS AN ESTIMATE.",
+      "locationName": "Wonderland Ocean Pub",
+      "address": "5083 Santa Monica Ave Suite 2B, San Diego, CA 92107",
+      "lat": 32.7483812,
+      "lng": -117.2519238,
+      "category": "nightlife",
+      "start": "2026-09-15T19:00",
+      "end": "2026-09-15T21:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "url": "https://sunsettrivia.com/locations"
+    },
+    {
+      "kind": "activity",
+      "slug": "northside-tavern-trivia-wednesday",
+      "title": "Trivia Wednesdays at Northside Tavern",
+      "description": "Weekly trivia at Northside Tavern, the sports bar on the north end of Bacon St. Three hour run, so it works for a late arrival as well as the start.",
+      "locationName": "Northside Tavern",
+      "address": "2228 Bacon St, San Diego, CA 92107",
+      "lat": 32.7522,
+      "lng": -117.2463,
+      "category": "nightlife",
+      "start": "2026-09-16T18:30",
+      "end": "2026-09-16T21:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "url": "https://northsidetavernob.com/san-diego-ocean-beach-northside-tavern-events"
+    },
+    {
+      "kind": "activity",
+      "slug": "tonys-karaoke-wednesday",
+      "title": "Wednesday Karaoke at Tony's Martini Bar",
+      "description": "Late karaoke at Tony's Martini Bar on Newport Ave, running 9pm to 1am. Small neighborhood bar, so the list moves fast early and fills up after 10.",
+      "locationName": "Tony's Martini Bar",
+      "address": "5034 Newport Ave, San Diego, CA 92107",
+      "lat": 32.7474,
+      "lng": -117.2512,
+      "category": "nightlife",
+      "start": "2026-09-16T21:00",
+      "end": "2026-09-17T01:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "url": "https://www.tonysob.com/"
+    },
+    {
+      "kind": "activity",
+      "slug": "pizza-port-ob-trivia-thursday",
+      "title": "Trivia Night at Pizza Port Ocean Beach",
+      "description": "Thursday team trivia at Pizza Port on Bacon St, 6 to 8pm. Early slot and a pizza-and-beer room, so it skews friendlier to groups coming straight from work.",
+      "locationName": "Pizza Port Ocean Beach",
+      "address": "1956 Bacon St, San Diego, CA 92107",
+      "lat": 32.7477,
+      "lng": -117.2504,
+      "category": "nightlife",
+      "start": "2026-09-17T18:00",
+      "end": "2026-09-17T20:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "url": "https://www.pizzaport.com/events/trivia-night-at-pizza-port-ocean-beach"
+    },
+    {
+      "kind": "activity",
+      "slug": "mike-hess-ob-trivia-thursday",
+      "title": "Bar Knights Trivia at Mike Hess Ocean Beach",
+      "description": "Free Thursday trivia from Bar Knights at the Mike Hess taproom on Voltaire St. Prizes for first through third, and teams can join after it starts.",
+      "locationName": "Mike Hess Brewing Ocean Beach",
+      "address": "4893 Voltaire St, San Diego, CA 92107",
+      "lat": 32.750744,
+      "lng": -117.244729,
+      "category": "nightlife",
+      "start": "2026-09-17T19:00",
+      "end": "2026-09-17T21:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "url": "https://www.mikehessbrewing.com/ocean-beach/"
+    },
+    {
+      "kind": "activity",
+      "slug": "northside-tavern-karaoke-thursday",
+      "title": "Northside Karaoke",
+      "description": "Thursday karaoke at Northside Tavern, 8 to 11pm. Open to all skill levels, pitched as a no-judgment room rather than a performance night.",
+      "locationName": "Northside Tavern",
+      "address": "2228 Bacon St, San Diego, CA 92107",
+      "lat": 32.7522,
+      "lng": -117.2463,
+      "category": "nightlife",
+      "start": "2026-09-17T20:00",
+      "end": "2026-09-17T23:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "url": "https://northsidetavernob.com/san-diego-ocean-beach-northside-tavern-events"
+    },
+    {
+      "kind": "activity",
+      "slug": "dirty-birds-ob-trivia-friday",
+      "title": "Friday Trivia at Dirty Birds Ocean Beach",
+      "description": "Sunset Trivia's Friday game at Dirty Birds on Cable St, 7 to 9pm. Prizes for the top three teams and scores carry across a season, so regulars chase standings. CONFIRM STILL RUNNING.",
+      "locationName": "Dirty Birds Ocean Beach",
+      "address": "1929 Cable St, San Diego, CA 92107",
+      "lat": 32.7468,
+      "lng": -117.2493,
+      "category": "nightlife",
+      "start": "2026-09-18T19:00",
+      "end": "2026-09-18T21:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "url": "https://oceanbeachsandiego.com/resources/local-news/trivia-nights-dirty-birds-ob"
+    },
+    {
+      "kind": "activity",
+      "slug": "winstons-karaoke-friday",
+      "title": "Friday Karaoke at Winstons",
+      "description": "Friday karaoke at Winstons Beach Club, separate from the Sunday OB-o-Ke night. START TIME IS AN ESTIMATE, confirm with the venue.",
+      "locationName": "Winstons Beach Club",
+      "address": "1921 Bacon St, San Diego, CA 92107",
+      "lat": 32.747122,
+      "lng": -117.250651,
+      "category": "nightlife",
+      "start": "2026-09-18T21:00",
+      "end": "2026-09-18T23:59",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "url": "https://winstonsob.com/website-section/specials"
+    },
+    {
+      "kind": "activity",
+      "slug": "northside-tavern-brunch-set-saturday",
+      "title": "Israel Maldonado Live Brunch Set at Northside Tavern",
+      "description": "Saturday live music brunch at Northside Tavern with Israel Maldonado, 11am to 2pm. Daytime set rather than a late show.",
+      "locationName": "Northside Tavern",
+      "address": "2228 Bacon St, San Diego, CA 92107",
+      "lat": 32.7522,
+      "lng": -117.2463,
+      "category": "music",
+      "start": "2026-09-19T11:00",
+      "end": "2026-09-19T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "url": "https://northsidetavernob.com/san-diego-ocean-beach-northside-tavern-events"
+    },
+    {
+      "kind": "activity",
+      "slug": "northside-tavern-sunday-day-party",
+      "title": "Jimmy Lewis and the 2nd String Disciples at Northside Tavern",
+      "description": "Sunday afternoon day party at Northside Tavern with Jimmy Lewis and the 2nd String Disciples, 3 to 6pm. Live band, no cover.",
+      "locationName": "Northside Tavern",
+      "address": "2228 Bacon St, San Diego, CA 92107",
+      "lat": 32.7522,
+      "lng": -117.2463,
+      "category": "music",
+      "start": "2026-09-20T15:00",
+      "end": "2026-09-20T18:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "url": "https://northsidetavernob.com/san-diego-ocean-beach-northside-tavern-events"
+    },
+    {
+      "kind": "activity",
+      "slug": "tonys-karaoke-sunday",
+      "title": "Sunday Karaoke at Tony's Martini Bar",
+      "description": "Tony's second karaoke night of the week, 9pm to 1am. Runs the same night as OB-o-Ke at Winstons a block over, so the two split the Sunday karaoke crowd.",
+      "locationName": "Tony's Martini Bar",
+      "address": "5034 Newport Ave, San Diego, CA 92107",
+      "lat": 32.7474,
+      "lng": -117.2512,
+      "category": "nightlife",
+      "start": "2026-09-20T21:00",
+      "end": "2026-09-21T01:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "url": "https://www.tonysob.com/"
+    },
+    {
+      "kind": "activity",
+      "slug": "ob-inna-vision-holding-company-2026-09-16",
+      "title": "Inna Vision and Jordan T at The Holding Company",
+      "description": "Live show at The Holding Company on Newport Ave with Inna Vision and Jordan T. Ticketed, $20.",
+      "locationName": "The Holding Company",
+      "address": "5046 Newport Ave, San Diego, CA 92107",
+      "lat": 32.747659,
+      "lng": -117.251668,
+      "category": "music",
+      "start": "2026-09-16T19:00",
+      "end": "2026-09-16T23:00",
+      "url": "https://theholdingcompanyob.com/"
+    },
+    {
+      "kind": "activity",
+      "slug": "ob-san-leandro-holding-company-2026-09-17",
+      "title": "San Leandro and Shane Sato at The Holding Company",
+      "description": "Double bill at The Holding Company: San Leandro out of Colorado with Shane Sato from Los Angeles. Ticketed, $10.",
+      "locationName": "The Holding Company",
+      "address": "5046 Newport Ave, San Diego, CA 92107",
+      "lat": 32.747659,
+      "lng": -117.251668,
+      "category": "music",
+      "start": "2026-09-17T19:30",
+      "end": "2026-09-17T23:00",
+      "url": "https://theholdingcompanyob.com/"
+    },
+    {
+      "kind": "activity",
+      "slug": "ob-tomboyce-avenue-holding-company-2026-09-18",
+      "title": "Tomboyce Avenue Single Release Party",
+      "description": "Single release show from Tomboyce Avenue at The Holding Company on Newport Ave. Ticketed, $10.",
+      "locationName": "The Holding Company",
+      "address": "5046 Newport Ave, San Diego, CA 92107",
+      "lat": 32.747659,
+      "lng": -117.251668,
+      "category": "music",
+      "start": "2026-09-18T19:30",
+      "end": "2026-09-18T23:30",
+      "url": "https://theholdingcompanyob.com/"
+    },
+    {
+      "kind": "activity",
+      "slug": "conway-the-machine-at-the-holding-company-2026-09-20",
+      "title": "Conway The Machine at The Holding Company",
+      "description": "Buffalo rapper Conway The Machine headlines The Holding Company. Live show at The Holding Company on Newport Ave. Check the venue site or ticket page for doors, price and support acts.",
+      "locationName": "The Holding Company",
+      "address": "5046 Newport Ave, San Diego, CA 92107",
+      "lat": 32.7479,
+      "lng": -117.2522,
+      "category": "music",
+      "start": "2026-09-20T19:00",
+      "end": null,
+      "url": "https://www.theholdingcompanyob.com/"
+    },
+    {
+      "kind": "activity",
+      "slug": "bow-wow-wow-at-the-holding-company-2026-10-02",
+      "title": "Bow Wow Wow at The Holding Company",
+      "description": "New wave band Bow Wow Wow plays The Holding Company. Live show at The Holding Company on Newport Ave. Check the venue site or ticket page for doors, price and support acts.",
+      "locationName": "The Holding Company",
+      "address": "5046 Newport Ave, San Diego, CA 92107",
+      "lat": 32.7479,
+      "lng": -117.2522,
+      "category": "music",
+      "start": "2026-10-02T19:30",
+      "end": null,
+      "url": "https://www.theholdingcompanyob.com/"
+    },
+    {
+      "kind": "activity",
+      "slug": "balthvs-at-the-holding-company-2026-10-22",
+      "title": "Balthvs at The Holding Company",
+      "description": "Colombian psych-funk trio Balthvs plays The Holding Company. Live show at The Holding Company on Newport Ave. Check the venue site or ticket page for doors, price and support acts.",
+      "locationName": "The Holding Company",
+      "address": "5046 Newport Ave, San Diego, CA 92107",
+      "lat": 32.7479,
+      "lng": -117.2522,
+      "category": "music",
+      "start": "2026-10-22T19:30",
+      "end": null,
+      "url": "https://www.theholdingcompanyob.com/"
+    },
+    {
+      "kind": "activity",
+      "slug": "keller-williams-at-the-holding-company-2026-11-06",
+      "title": "Keller Williams at The Holding Company",
+      "description": "One-man jam band Keller Williams plays The Holding Company. Live show at The Holding Company on Newport Ave. Check the venue site or ticket page for doors, price and support acts.",
+      "locationName": "The Holding Company",
+      "address": "5046 Newport Ave, San Diego, CA 92107",
+      "lat": 32.7479,
+      "lng": -117.2522,
+      "category": "music",
+      "start": "2026-11-06T19:30",
+      "end": null,
+      "url": "https://www.theholdingcompanyob.com/"
+    },
+    {
+      "kind": "activity",
+      "slug": "headphone-night-with-dj-sets-by-egg-wax-2026-09-16",
+      "title": "Headphone Night with DJ Sets by Egg Wax",
+      "description": "Live at Winstons Beach Club, OB's longtime dive bar and music room on Bacon St, a block from the beach.",
+      "locationName": "Winstons Beach Club",
+      "address": "1921 Bacon St, San Diego, CA 92107",
+      "lat": 32.7485,
+      "lng": -117.2486,
+      "category": "nightlife",
+      "start": "2026-09-16T19:30",
+      "end": null,
+      "url": "https://www.winstonsob.com/"
+    },
+    {
+      "kind": "activity",
+      "slug": "dusk-and-offshore-drift-at-winstons-2026-09-17",
+      "title": "Dusk and Offshore Drift at Winstons",
+      "description": "Live at Winstons Beach Club, OB's longtime dive bar and music room on Bacon St, a block from the beach.",
+      "locationName": "Winstons Beach Club",
+      "address": "1921 Bacon St, San Diego, CA 92107",
+      "lat": 32.7485,
+      "lng": -117.2486,
+      "category": "music",
+      "start": "2026-09-17T21:00",
+      "end": null,
+      "url": "https://www.winstonsob.com/"
+    },
+    {
+      "kind": "activity",
+      "slug": "flannel-mixtape-at-winstons-2026-09-18",
+      "title": "Flannel Mixtape at Winstons",
+      "description": "Live at Winstons Beach Club, OB's longtime dive bar and music room on Bacon St, a block from the beach.",
+      "locationName": "Winstons Beach Club",
+      "address": "1921 Bacon St, San Diego, CA 92107",
+      "lat": 32.7485,
+      "lng": -117.2486,
+      "category": "music",
+      "start": "2026-09-18T19:00",
+      "end": null,
+      "url": "https://www.winstonsob.com/"
+    },
+    {
+      "kind": "activity",
+      "slug": "the-white-collars-doah-s-daydream-and-audrey-at-winstons-2026-09-19",
+      "title": "The White Collars, Doah's Daydream and Audrey at Winstons",
+      "description": "Live at Winstons Beach Club, OB's longtime dive bar and music room on Bacon St, a block from the beach.",
+      "locationName": "Winstons Beach Club",
+      "address": "1921 Bacon St, San Diego, CA 92107",
+      "lat": 32.7485,
+      "lng": -117.2486,
+      "category": "music",
+      "start": "2026-09-19T21:00",
+      "end": null,
+      "url": "https://www.winstonsob.com/"
+    },
+    {
+      "kind": "activity",
+      "slug": "petal-pusher-lucky-mess-and-bali-shag-at-winstons-2026-09-22",
+      "title": "Petal Pusher, Lucky Mess and Bali Shag at Winstons",
+      "description": "Live at Winstons Beach Club, OB's longtime dive bar and music room on Bacon St, a block from the beach.",
+      "locationName": "Winstons Beach Club",
+      "address": "1921 Bacon St, San Diego, CA 92107",
+      "lat": 32.7485,
+      "lng": -117.2486,
+      "category": "music",
+      "start": "2026-09-22T20:00",
+      "end": null,
+      "url": "https://www.winstonsob.com/"
+    },
+    {
+      "kind": "activity",
+      "slug": "neil-levin-s-cosmic-blues-and-silk-jam-collective-at-winstons-2026-09-23",
+      "title": "Neil Levin's Cosmic Blues and Silk Jam Collective at Winstons",
+      "description": "Live at Winstons Beach Club, OB's longtime dive bar and music room on Bacon St, a block from the beach.",
+      "locationName": "Winstons Beach Club",
+      "address": "1921 Bacon St, San Diego, CA 92107",
+      "lat": 32.7485,
+      "lng": -117.2486,
+      "category": "music",
+      "start": "2026-09-23T20:00",
+      "end": null,
+      "url": "https://www.winstonsob.com/"
+    },
+    {
+      "kind": "activity",
+      "slug": "ones-own-haven-overpour-girls-got-nerve-lerev-and-stouper-at-winstons-2026-09-24",
+      "title": "Ones Own Haven, Overpour, Girls Got Nerve, LeRev and Stouper at Winstons",
+      "description": "Live at Winstons Beach Club, OB's longtime dive bar and music room on Bacon St, a block from the beach.",
+      "locationName": "Winstons Beach Club",
+      "address": "1921 Bacon St, San Diego, CA 92107",
+      "lat": 32.7485,
+      "lng": -117.2486,
+      "category": "music",
+      "start": "2026-09-24T20:00",
+      "end": null,
+      "url": "https://www.winstonsob.com/"
+    },
+    {
+      "kind": "activity",
+      "slug": "rosy-dawn-and-oversoul-at-winstons-2026-09-25",
+      "title": "Rosy Dawn and Oversoul at Winstons",
+      "description": "Live at Winstons Beach Club, OB's longtime dive bar and music room on Bacon St, a block from the beach.",
+      "locationName": "Winstons Beach Club",
+      "address": "1921 Bacon St, San Diego, CA 92107",
+      "lat": 32.7485,
+      "lng": -117.2486,
+      "category": "music",
+      "start": "2026-09-25T19:00",
+      "end": null,
+      "url": "https://www.winstonsob.com/"
+    },
+    {
+      "kind": "activity",
+      "slug": "nuntrucker-the-fever-vault-and-boo-at-winstons-2026-09-26",
+      "title": "NunTrucker, The Fever Vault and BOO! at Winstons",
+      "description": "Live at Winstons Beach Club, OB's longtime dive bar and music room on Bacon St, a block from the beach.",
+      "locationName": "Winstons Beach Club",
+      "address": "1921 Bacon St, San Diego, CA 92107",
+      "lat": 32.7485,
+      "lng": -117.2486,
+      "category": "music",
+      "start": "2026-09-26T16:00",
+      "end": null,
+      "url": "https://www.winstonsob.com/"
+    },
+    {
+      "kind": "activity",
+      "slug": "fish-and-the-seaweeds-at-winstons-2026-09-26",
+      "title": "Fish and the Seaweeds at Winstons",
+      "description": "Live at Winstons Beach Club, OB's longtime dive bar and music room on Bacon St, a block from the beach. Santana and Allman Brothers tribute night.",
+      "locationName": "Winstons Beach Club",
+      "address": "1921 Bacon St, San Diego, CA 92107",
+      "lat": 32.7485,
+      "lng": -117.2486,
+      "category": "music",
+      "start": "2026-09-26T21:00",
+      "end": null,
+      "url": "https://www.winstonsob.com/"
+    },
+    {
+      "kind": "activity",
+      "slug": "punk-rock-sunday-with-disauthority-and-strangely-strange-2026-09-27",
+      "title": "Punk Rock Sunday with Disauthority and Strangely Strange",
+      "description": "Live at Winstons Beach Club, OB's longtime dive bar and music room on Bacon St, a block from the beach.",
+      "locationName": "Winstons Beach Club",
+      "address": "1921 Bacon St, San Diego, CA 92107",
+      "lat": 32.7485,
+      "lng": -117.2486,
+      "category": "music",
+      "start": "2026-09-27T15:00",
+      "end": null,
+      "url": "https://www.winstonsob.com/"
+    },
+    {
+      "kind": "activity",
+      "slug": "carbon-leaf-at-winstons-2026-09-29",
+      "title": "Carbon Leaf at Winstons",
+      "description": "Live at Winstons Beach Club, OB's longtime dive bar and music room on Bacon St, a block from the beach.",
+      "locationName": "Winstons Beach Club",
+      "address": "1921 Bacon St, San Diego, CA 92107",
+      "lat": 32.7485,
+      "lng": -117.2486,
+      "category": "music",
+      "start": "2026-09-29T20:00",
+      "end": null,
+      "url": "https://www.winstonsob.com/"
+    },
+    {
+      "kind": "activity",
+      "slug": "degenerate-disco-house-at-winstons-2026-09-30",
+      "title": "Degenerate Disco House at Winstons",
+      "description": "Live at Winstons Beach Club, OB's longtime dive bar and music room on Bacon St, a block from the beach. Presented by Funk You Entertainment.",
+      "locationName": "Winstons Beach Club",
+      "address": "1921 Bacon St, San Diego, CA 92107",
+      "lat": 32.7485,
+      "lng": -117.2486,
+      "category": "nightlife",
+      "start": "2026-09-30T19:00",
+      "end": null,
+      "url": "https://www.winstonsob.com/"
+    },
+    {
+      "kind": "activity",
+      "slug": "electric-waste-band-winstons-weekly",
+      "title": "Electric Waste Band at Winstons",
+      "description": "Monday night residency from Electric Waste Band, a Grateful Dead-style jam band. Live at Winstons Beach Club, OB's longtime dive bar and music room on Bacon St, a block from the beach.",
+      "locationName": "Winstons Beach Club",
+      "address": "1921 Bacon St, San Diego, CA 92107",
+      "lat": 32.7485,
+      "lng": -117.2486,
+      "category": "music",
+      "start": "2026-09-21T20:00",
+      "end": null,
+      "seriesId": "electric-waste-band-winstons",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "url": "https://www.winstonsob.com/"
+    },
+    {
+      "kind": "activity",
+      "slug": "halloween-party-at-the-harp-2026-10-31",
+      "title": "Halloween Party at The Harp",
+      "description": "Halloween night at The Harp on Newport Ave with live sets from Alific, Geoff Weers and Safety Orange. Costumes highly encouraged. Tickets on Eventbrite.",
+      "locationName": "The Harp",
+      "address": "4935 Newport Ave, San Diego, CA 92107",
+      "lat": 32.7481,
+      "lng": -117.2508,
+      "category": "seasonal",
+      "start": "2026-10-31T20:00",
+      "end": "2026-10-31T23:59",
+      "url": "https://theharpoceanbeach.com/san-diego-ocean-beach-the-harp-events"
+    },
+    {
+      "kind": "activity",
+      "slug": "picnic-on-the-island-the-story-of-shelter-island-2026-09-17",
+      "title": "Picnic on the Island: The Story of Shelter Island",
+      "description": "Ocean Beach Historical Society program presented by Eric DuVall on how Shelter Island went from a shifting sandbar to a connected landmark. Free.",
+      "locationName": "OB Joyfull",
+      "address": "1984 Sunset Cliffs Blvd, San Diego, CA 92107",
+      "lat": 32.748,
+      "lng": -117.2466,
+      "category": "history",
+      "start": "2026-09-17T19:00",
+      "end": null,
+      "url": "https://obhistory.org/"
+    },
+    {
+      "kind": "activity",
+      "slug": "obhs-monthly-program",
+      "title": "Ocean Beach Historical Society Monthly Program",
+      "description": "Free monthly local history talk from the Ocean Beach Historical Society, held the third Thursday of each month. Topic announced a few weeks ahead on obhistory.org.",
+      "locationName": "OB Joyfull",
+      "address": "1984 Sunset Cliffs Blvd, San Diego, CA 92107",
+      "lat": 32.748,
+      "lng": -117.2466,
+      "category": "history",
+      "start": "2026-10-15T19:00",
+      "end": null,
+      "seriesId": "obhs-monthly-program",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekday": {
+          "n": 3,
+          "dayOfWeek": 4
+        }
+      },
+      "url": "https://obhistory.org/"
+    },
+    {
+      "kind": "activity",
+      "slug": "bricks-n-brews-monthly",
+      "title": "Bricks 'n' Brews at California Wild Ales",
+      "description": "Monthly LEGO racing and building meetup hosted by Mortarless Bricks at the California Wild Ales taproom. Free admission, all ages welcome.",
+      "locationName": "California Wild Ales Ocean Beach",
+      "address": "4896 Newport Ave, San Diego, CA 92107",
+      "lat": 32.7482,
+      "lng": -117.2497,
+      "category": "hobbies",
+      "start": "2026-10-10T11:30",
+      "end": "2026-10-10T14:30",
+      "seriesId": "bricks-n-brews",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekday": {
+          "n": 2,
+          "dayOfWeek": 6
+        }
+      },
+      "url": "https://oceanbeachsandiego.com/resources/local-news/bricks-n-brews"
+    },
+    {
+      "kind": "activity",
+      "slug": "dharma-center-saturday-meditation",
+      "title": "Saturday Meditation Class at Dharma Center",
+      "description": "Hour-long meditation class with seated instruction and a dharma talk on mindfulness, in person on Newport Ave and on Zoom. Pay what you wish, no one turned away.",
+      "locationName": "Dharma Center",
+      "address": "5059 Newport Ave Suite 303, San Diego, CA 92107",
+      "lat": 32.7478,
+      "lng": -117.2524,
+      "category": "wellness",
+      "start": "2026-09-19T11:30",
+      "end": "2026-09-19T12:30",
+      "seriesId": "dharma-center-saturday",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "url": "https://dharmacenter.com/meditation-classes/"
+    },
+    {
+      "kind": "activity",
+      "slug": "street-dog-coalition-ob-clinic",
+      "title": "Street Dog Coalition Free Pet Clinic",
+      "description": "Free monthly vet clinic from The Street Dog Coalition for pets of people experiencing homelessness, with vaccines, basic care and supplies. Held the fourth Saturday of each month; volunteers welcome.",
+      "locationName": "Episcopal Church Center",
+      "address": "2083 Sunset Cliffs Blvd, San Diego, CA 92107",
+      "lat": 32.7466,
+      "lng": -117.2462,
+      "category": "community",
+      "start": "2026-09-26T08:30",
+      "end": "2026-09-26T10:00",
+      "seriesId": "street-dog-coalition-ob",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekday": {
+          "n": 4,
+          "dayOfWeek": 6
+        }
+      },
+      "url": "https://www.thestreetdogcoalition.org/san-diego-ca"
+    },
+    {
+      "kind": "activity",
+      "slug": "ob-holiday-parade-2026-12-05",
+      "title": "OB Holiday Parade",
+      "description": "Ocean Beach's annual holiday parade down Newport Ave with floats, marching bands and local groups. Draws thousands, so arrive early and walk in.",
+      "locationName": "Newport Avenue",
+      "address": "Newport Ave, San Diego, CA 92107",
+      "lat": 32.748,
+      "lng": -117.25,
+      "category": "seasonal",
+      "start": "2026-12-05T17:00",
+      "end": null,
+      "url": "https://www.sandiego.org/events-festivals/ob-holiday-parade/eeb09dfb595a11f1a7f2"
+    },
+    {
+      "kind": "activity",
+      "slug": "obma-promotion-committee",
+      "title": "OBMA Promotion Committee",
+      "description": "Public committee meeting of the Ocean Beach MainStreet Association, which runs the OB Business Improvement District. Business owners and residents welcome. Confirm location and agenda on the OBMA calendar.",
+      "locationName": "OB MainStreet Association Office",
+      "address": "1868 Bacon St #A, San Diego, CA 92107",
+      "lat": 32.7494,
+      "lng": -117.2487,
+      "category": "business",
+      "start": "2026-10-02T09:00",
+      "end": null,
+      "seriesId": "obma-promotion",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekday": {
+          "n": 1,
+          "dayOfWeek": 5
+        }
+      },
+      "url": "https://oceanbeachsandiego.com/calendar"
+    },
+    {
+      "kind": "activity",
+      "slug": "obma-clean-safe-beautification-committee",
+      "title": "OBMA Clean, Safe and Beautification Committee",
+      "description": "Public committee meeting of the Ocean Beach MainStreet Association, which runs the OB Business Improvement District. Business owners and residents welcome. Confirm location and agenda on the OBMA calendar.",
+      "locationName": "OB MainStreet Association Office",
+      "address": "1868 Bacon St #A, San Diego, CA 92107",
+      "lat": 32.7494,
+      "lng": -117.2487,
+      "category": "business",
+      "start": "2026-10-06T12:00",
+      "end": null,
+      "seriesId": "obma-csb",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekday": {
+          "n": 1,
+          "dayOfWeek": 2
+        }
+      },
+      "url": "https://oceanbeachsandiego.com/calendar"
+    },
+    {
+      "kind": "activity",
+      "slug": "obma-economic-vitality-committee",
+      "title": "OBMA Economic Vitality Committee",
+      "description": "Public committee meeting of the Ocean Beach MainStreet Association, which runs the OB Business Improvement District. Business owners and residents welcome. Confirm location and agenda on the OBMA calendar.",
+      "locationName": "OB MainStreet Association Office",
+      "address": "1868 Bacon St #A, San Diego, CA 92107",
+      "lat": 32.7494,
+      "lng": -117.2487,
+      "category": "business",
+      "start": "2026-10-07T12:00",
+      "end": null,
+      "seriesId": "obma-ev",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekday": {
+          "n": 1,
+          "dayOfWeek": 3
+        }
+      },
+      "url": "https://oceanbeachsandiego.com/calendar"
+    },
+    {
+      "kind": "activity",
+      "slug": "obma-finance-task-force",
+      "title": "OBMA Finance Task Force",
+      "description": "Public committee meeting of the Ocean Beach MainStreet Association, which runs the OB Business Improvement District. Business owners and residents welcome. Confirm location and agenda on the OBMA calendar.",
+      "locationName": "OB MainStreet Association Office",
+      "address": "1868 Bacon St #A, San Diego, CA 92107",
+      "lat": 32.7494,
+      "lng": -117.2487,
+      "category": "business",
+      "start": "2026-10-14T13:00",
+      "end": null,
+      "seriesId": "obma-finance",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekday": {
+          "n": 2,
+          "dayOfWeek": 3
+        }
+      },
+      "url": "https://oceanbeachsandiego.com/calendar"
+    },
+    {
+      "kind": "activity",
+      "slug": "obma-board-of-directors",
+      "title": "OBMA Board of Directors Meeting",
+      "description": "Public committee meeting of the Ocean Beach MainStreet Association, which runs the OB Business Improvement District. Business owners and residents welcome. Confirm location and agenda on the OBMA calendar.",
+      "locationName": "OB MainStreet Association Office",
+      "address": "1868 Bacon St #A, San Diego, CA 92107",
+      "lat": 32.7494,
+      "lng": -117.2487,
+      "category": "business",
+      "start": "2026-10-08T12:00",
+      "end": null,
+      "seriesId": "obma-board",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekday": {
+          "n": 2,
+          "dayOfWeek": 4
+        }
+      },
+      "url": "https://oceanbeachsandiego.com/calendar"
     }
   ]
 }

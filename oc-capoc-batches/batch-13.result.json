@@ -1,0 +1,82 @@
+[
+  {
+    "name": "United Samoan Organization",
+    "found": false,
+    "scheduleText": "",
+    "sourceUrl": "",
+    "confidence": "low",
+    "notes": "Listed as an OC Food Bank distribution partner but Yelp shows the location as CLOSED (updated April 2026). No specific recurring day/time found."
+  },
+  {
+    "name": "Livingstone Community Development Corporation",
+    "found": false,
+    "scheduleText": "",
+    "sourceUrl": "",
+    "confidence": "low",
+    "notes": "Sources conflict: FreeFood.org lists Tue-Fri 9am-6pm / Sat 9am-3pm (appears to be clinic hours), while findhelp/other listings describe the food pantry as by appointment / monthly 3rd Thursday. No reliable, unambiguous recurring food-distribution day+time."
+  },
+  {
+    "name": "Qoheleth Ministries",
+    "found": false,
+    "scheduleText": "",
+    "sourceUrl": "",
+    "confidence": "low",
+    "notes": "Qoheleth runs a 2nd Saturday distribution (starts 11am) but that event is in COSTA MESA, not this Stanton office address (8200 Katella). No distribution schedule found for the Stanton location itself. Source: feedingthehungryoc.com."
+  },
+  {
+    "name": "Santa Ana Samoan SDA",
+    "found": false,
+    "scheduleText": "",
+    "sourceUrl": "",
+    "confidence": "low",
+    "notes": "Listed as OC Food Bank distribution partner; church has FB/website but no specific recurring food-distribution day+time published."
+  },
+  {
+    "name": "Polycarp Family Support Center",
+    "found": true,
+    "scheduleText": "Monday, Wednesday, Friday 9 AM-12 PM",
+    "sourceUrl": "https://www.homelessshelterdirectory.org/foodbanks/city/ca-stanton.html",
+    "confidence": "medium",
+    "notes": "St. Vincent de Paul food pantry at St. Polycarp Catholic Church (8100 Chapman Ave). M/W/F 9am-12pm confirmed by two independent listings (homelessshelterdirectory.org and foodpantries/Yelp-derived listing). Eligibility note: one source states it serves Westminster residents only - verify eligibility by phone (714) 821-7672."
+  },
+  {
+    "name": "Wrap the Kids",
+    "found": false,
+    "scheduleText": "",
+    "sourceUrl": "",
+    "confidence": "low",
+    "notes": "No credible food-pantry schedule found for this organization/address in Stanton."
+  },
+  {
+    "name": "Asian Americans Pacific Islanders United",
+    "found": false,
+    "scheduleText": "",
+    "sourceUrl": "",
+    "confidence": "low",
+    "notes": "AAPI United (aapiunited.com) provides culturally-familiar groceries via 'monthly distributions' and emergency food boxes, but no specific recurring day of week + time is published. Distribution appears appointment/event based."
+  },
+  {
+    "name": "PB&J Ministries OC",
+    "found": false,
+    "scheduleText": "",
+    "sourceUrl": "",
+    "confidence": "low",
+    "notes": "No schedule found. Searches surfaced only unrelated PB&J outreach groups outside CA. No specific recurring day/time for this Tustin org."
+  },
+  {
+    "name": "The Main Place Christian Fellowship",
+    "found": false,
+    "scheduleText": "",
+    "sourceUrl": "",
+    "confidence": "low",
+    "notes": "Runs a soup kitchen daily 12:00-12:30 PM (free meals) and a once-monthly care-package/food pantry (sign up in front of store). Listings mention 'food every other Friday starting 3pm' but there is no fixed anchor week, so the pantry schedule is not reliably machine-parseable. Soup kitchen (not a pantry) is daily 12-12:30 PM per freefood.org."
+  },
+  {
+    "name": "The Seva Collective",
+    "found": true,
+    "scheduleText": "1st and 3rd Saturday 9-11:30 AM",
+    "sourceUrl": "https://www.santa-ana.org/food/the-seva-collective/",
+    "confidence": "medium",
+    "notes": "Drive-thru food pantry on 1st & 3rd Saturday of the month, 9-11:30 AM, held at Villa Fundamental Intermediate School, 1441 E. Chestnut Ave, Santa Ana (NOT the Tustin office address in the input). Day (1st & 3rd Sat) is corroborated across multiple sources; some older listings show earlier start times (4-7am/5-8am) but 2025-2026 City of Santa Ana listing gives 9-11:30 AM."
+  }
+]

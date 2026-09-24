@@ -1,0 +1,1474 @@
+{
+  "_comment": "Ocean Beach vendor directory derived from OceanBeachActivities.json venues (locationName grouping, Sunset Cliffs/Saratoga variants merged, bare-address/intersection/generic-street pins dropped). Enrichment fields filled from a 2026-09-14 web-research pass (verified against official sites).",
+  "_shell": "OceanBeachActivities",
+  "_shellId": "6aa1aeb68b7e39770d76",
+  "_collection": "vendors",
+  "_source": "OceanBeachActivities.json (locationName grouping, variants merged)",
+  "_verify_before_running": "Confirm _shellId matches the seeded Ocean Beach shell (6aa1aeb68b7e39770d76). Verify enriched fields per vendor and drop _activityCategories/_eventCount before seeding.",
+  "_fields": "See BlackCommerceSD.json _fields.",
+  "vendors": [
+    {
+      "slug": "winstons-beach-club",
+      "name": "Winstons Beach Club",
+      "category": "Live Music Club & Bar",
+      "tagline": "Serving San Diego's finest live music since 1986",
+      "description": "Winstons Beach Club is an iconic Ocean Beach live music venue that has hosted local and touring bands nightly since 1986. The venue features a full bar with craft beer, plus open mic nights, comedy shows, and trivia. It's known for the longest-running musical residency in San Diego and has hosted acts like Slightly Stoopid and Steel Pulse.",
+      "logoUrl": "",
+      "website": "https://winstonsob.com/",
+      "phone": "(619) 222-6822",
+      "email": "",
+      "instagram": "@winstonsob",
+      "facebook": "WinstonsOB",
+      "tiktok": "",
+      "address": "1921 Bacon St, San Diego, CA 92107",
+      "lat": 32.747122,
+      "lng": -117.250651,
+      "neighborhood": "Ocean Beach",
+      "hours": "Mon-Fri 7pm-2am, Sat-Sun 3pm-2am",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Reggae Night at Winstons",
+          "date": "2026-09-09",
+          "time": "21:00",
+          "description": "Winstons Beach Club runs reggae every Wednesday. Winstons is OB's main live music room and has been for decades. START TIME IS AN ESTIMATE, confirm with the venue."
+        },
+        {
+          "title": "Trivia Night at Winstons",
+          "date": "2026-09-10",
+          "time": "20:00",
+          "description": "Thursday trivia at Winstons Beach Club. Team format in a live music venue rather than a dedicated trivia bar, so it runs louder than most. START TIME IS AN ESTIMATE, confirm with the venue."
+        },
+        {
+          "title": "OB-o-Ke Karaoke at Winstons",
+          "date": "2026-09-13",
+          "time": "21:00",
+          "description": "Sunday karaoke at Winstons hosted by K-Rud. Long-running OB institution and closer to a performance night than a sign-up-and-mumble karaoke bar. START TIME IS AN ESTIMATE, confirm with the venue."
+        },
+        {
+          "title": "Friday Karaoke at Winstons",
+          "date": "2026-09-18",
+          "time": "21:00",
+          "description": "Friday karaoke at Winstons Beach Club, separate from the Sunday OB-o-Ke night. START TIME IS AN ESTIMATE, confirm with the venue."
+        },
+        {
+          "title": "HalloWomen Spooktacular at Winstons",
+          "date": "2026-10-17",
+          "time": "20:00",
+          "description": "Halloween-season live music showcase at Winstons Beach Club hosted by Sara Jade. Costume-friendly, late start, runs to close."
+        },
+        {
+          "title": "Dia de los Muertos at Winstons",
+          "date": "2026-11-01",
+          "time": "14:00",
+          "description": "Afternoon Dia de los Muertos event at Winstons Beach Club from Electric Playground. Daytime slot rather than the venue's usual late booking, so it reads more community than club."
+        }
+      ],
+      "_activityCategories": [
+        "music",
+        "nightlife"
+      ],
+      "_eventCount": 6
+    },
+    {
+      "slug": "sunset-cliffs-natural-park",
+      "name": "Sunset Cliffs Natural Park",
+      "category": "Natural Park",
+      "tagline": "Dramatic bluff-top ocean views, sea caves, and world-class sunsets in Point Loma.",
+      "description": "Sunset Cliffs Natural Park is a 68-acre resource-based park established in 1983, stretching along the Pacific Ocean on the western edge of Point Loma. It features intricately carved coastal bluffs, arches, and sea caves with panoramic ocean views, and migrating California gray whales can be spotted seasonally. The park is free and open to the public, with street and small-lot parking; there are no on-site restrooms.",
+      "logoUrl": "",
+      "website": "https://www.sandiego.gov/park-and-recreation/parks/regional/shoreline/sunset",
+      "phone": "(619) 235-5913",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "Sunset Cliffs Blvd & Adair St, San Diego, CA 92107",
+      "lat": 32.7356269,
+      "lng": -117.2554462,
+      "neighborhood": "Ocean Beach",
+      "hours": "Open daily; free admission",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Thursday Sunset Yoga Flow on Sunset Cliffs",
+          "date": "2026-09-10",
+          "time": "18:00",
+          "description": "Thursday evening flow with Danielle MacGregor at the Sunset Cliffs Blvd and Adair St corner. One of the longest-running series in the cliffs cluster by occurrence count. Outdoor and weather dependent."
+        },
+        {
+          "title": "Saturday Donation Yoga at Sunset Cliffs",
+          "date": "2026-09-12",
+          "time": "09:00",
+          "description": "All-levels donation-based Saturday morning class from Mind Body Badass at the Sunset Cliffs Blvd and Adair St entrance to the natural park. Pay what you can, bring a mat, expect wind off the water."
+        },
+        {
+          "title": "Sunday Morning Sunset Cliffs Yoga",
+          "date": "2026-09-13",
+          "time": "10:00",
+          "description": "Sunday 10am class at the Adair Street entrance to Sunset Cliffs Natural Park. Separate organizer from the Yoga Jawn sessions at 1253 Sunset Cliffs, though the two run within a few blocks of each other on the same morning."
+        },
+        {
+          "title": "Monday Flowstate Yoga at the Cliffs",
+          "date": "2026-09-14",
+          "time": "18:00",
+          "description": "Monday evening outdoor flow from Soulfish Yoga at the Adair Street cliffs access. Starts the week on the bluff rather than in a studio. Bring a mat and something warm for after."
+        },
+        {
+          "title": "Wednesday Stretch Flow Donation Yoga at Sunset Cliffs",
+          "date": "2026-09-16",
+          "time": "18:00",
+          "description": "Mind Body Badass's midweek evening companion to their Saturday class. Slower stretch flow format at the Adair St cliffs entrance, donation based, timed to run into sunset."
+        }
+      ],
+      "_activityCategories": [
+        "fitness"
+      ],
+      "_eventCount": 5
+    },
+    {
+      "slug": "pier-to-point-yoga-and-wellness-center",
+      "name": "Pier to Point Yoga and Wellness Center",
+      "category": "Yoga & Wellness Studio",
+      "tagline": "Point Loma's yoga, wellness and spa retreat",
+      "description": "Pier To Point Yoga & Wellness Center is a sanctuary for movement and healing in Ocean Beach, offering yoga, aerial, and mat Pilates classes both in-person and live online. They also provide 200- and 300-hour teacher trainings, workshops, massage, community acupuncture, vitamin injections, and kids classes. The wheelchair-accessible studio is owned by Anna, a longtime San Diego small-business operator.",
+      "logoUrl": "",
+      "website": "https://piertopointwellness.com/",
+      "phone": "(619) 762-9642",
+      "email": "thrive@piertopointwellness.com",
+      "instagram": "@piertopointwellness",
+      "facebook": "PierToPointWellness",
+      "tiktok": "",
+      "address": "4166 Voltaire St, San Diego, CA 92107",
+      "lat": 32.74344,
+      "lng": -117.234277,
+      "neighborhood": "Ocean Beach",
+      "hours": "Mon/Wed/Thu 6:45am-8pm, Tue 8:30am-8pm, Fri 6:45am-8:15pm, Sat/Sun 8:30am-1pm",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Tree of Life Cacao Ceremony with Hypnotic Harp",
+          "date": "2026-09-18",
+          "time": "19:00",
+          "description": "Third Friday cacao ceremony at Pier to Point Yoga and Wellness Center on Voltaire St, with live harp. Ceremonial format rather than a class. Registration required, group size is capped."
+        },
+        {
+          "title": "Floating Aerial Sound Bath",
+          "date": "2026-09-20",
+          "time": "15:00",
+          "description": "Sound bath taken lying in aerial hammocks at Pier to Point Yoga and Wellness Center. Different experience from a mat-based sound bath since you are suspended for the full session. Recurring series, spaces capped by hammock count."
+        },
+        {
+          "title": "Acu Sound Healing at Pier to Point",
+          "date": "2026-10-02",
+          "time": "19:00",
+          "description": "Acupuncture combined with sound healing in one session at Pier to Point Yoga and Wellness Center. Needles plus bowls, evening slot, roughly 90 minutes. Pre-registration required."
+        },
+        {
+          "title": "200 Hour Yoga Teacher Training at Pier to Point",
+          "date": "2027-02-03",
+          "time": "17:30",
+          "description": "200 hour yoga teacher training program run by Pier to Point Yoga and Wellness Center on Voltaire St. Multi-week certification course, not a drop-in class. The start date below is the first session only. Decide whether a training program belongs in the activities collection before seeding."
+        }
+      ],
+      "_activityCategories": [
+        "wellness"
+      ],
+      "_eventCount": 4
+    },
+    {
+      "slug": "the-holding-company",
+      "name": "The Holding Company",
+      "category": "Bar, Restaurant & Live Music",
+      "tagline": "Holding on to good times",
+      "description": "The Holding Company is a three-story restaurant, bar, and live music venue in Ocean Beach with the best rooftop ocean views in the neighborhood. It serves Asian fusion cuisine and craft cocktails alongside live music seven nights a week, including Karaoke Mondays and Reggae Tuesdays. Open since 2017, it hosts national touring acts and local favorites.",
+      "logoUrl": "",
+      "website": "https://theholdingcompanyob.com/",
+      "phone": "(619) 341-5898",
+      "email": "info@theholdingcompanyob.com",
+      "instagram": "@thc1502",
+      "facebook": "https://www.facebook.com/thc1502",
+      "tiktok": "",
+      "address": "5046 Newport Ave, San Diego, CA 92107",
+      "lat": 32.747659,
+      "lng": -117.251668,
+      "neighborhood": "Ocean Beach",
+      "hours": "Mon-Fri 4pm-2am, Sat-Sun 12pm-2am",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Inna Vision and Jordan T at The Holding Company",
+          "date": "2026-09-16",
+          "time": "19:00",
+          "description": "Live show at The Holding Company on Newport Ave with Inna Vision and Jordan T. Ticketed, $20."
+        },
+        {
+          "title": "San Leandro and Shane Sato at The Holding Company",
+          "date": "2026-09-17",
+          "time": "19:30",
+          "description": "Double bill at The Holding Company: San Leandro out of Colorado with Shane Sato from Los Angeles. Ticketed, $10."
+        },
+        {
+          "title": "Tomboyce Avenue Single Release Party",
+          "date": "2026-09-18",
+          "time": "19:30",
+          "description": "Single release show from Tomboyce Avenue at The Holding Company on Newport Ave. Ticketed, $10."
+        },
+        {
+          "title": "TAPSD 2026 at The Holding Company",
+          "date": "2026-09-20",
+          "time": "19:00",
+          "description": "Hip hop bill at The Holding Company on Newport Ave featuring Trae Tha Truth, Conway, Grafh and T.F. Ticketed show, doors early evening. The Holding Company is the larger of the two Newport Ave music rooms."
+        }
+      ],
+      "_activityCategories": [
+        "music"
+      ],
+      "_eventCount": 4
+    },
+    {
+      "slug": "northside-tavern",
+      "name": "Northside Tavern",
+      "category": "Sports Bar & Live Music",
+      "tagline": "Ocean Beach's sports bar that remembers it's also a restaurant",
+      "description": "Northside Tavern is an Ocean Beach sports bar and restaurant serving a Mexican-inspired bar menu of tacos, birria, carnitas, and award-winning wings. Rebranded from Mother’s Saloon in 2020, it features a dog-friendly patio, televised games, shuffleboard, and live entertainment including Karaoke Night on Thursdays. Happy hour runs Monday through Friday, 4-7pm.",
+      "logoUrl": "",
+      "website": "https://northsidetavernob.com/",
+      "phone": "(619) 228-9980",
+      "email": "info@jtsob.com",
+      "instagram": "@northsidetavernob",
+      "facebook": "https://www.facebook.com/northsidetavernob/",
+      "tiktok": "",
+      "address": "2228 Bacon St, San Diego, CA 92107",
+      "lat": 32.7522,
+      "lng": -117.2463,
+      "neighborhood": "Ocean Beach",
+      "hours": "Daily 9am-2am",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Trivia Wednesdays at Northside Tavern",
+          "date": "2026-09-16",
+          "time": "18:30",
+          "description": "Weekly trivia at Northside Tavern, the sports bar on the north end of Bacon St. Three hour run, so it works for a late arrival as well as the start."
+        },
+        {
+          "title": "Northside Karaoke",
+          "date": "2026-09-17",
+          "time": "20:00",
+          "description": "Thursday karaoke at Northside Tavern, 8 to 11pm. Open to all skill levels, pitched as a no-judgment room rather than a performance night."
+        },
+        {
+          "title": "Israel Maldonado Live Brunch Set at Northside Tavern",
+          "date": "2026-09-19",
+          "time": "11:00",
+          "description": "Saturday live music brunch at Northside Tavern with Israel Maldonado, 11am to 2pm. Daytime set rather than a late show."
+        },
+        {
+          "title": "Jimmy Lewis and the 2nd String Disciples at Northside Tavern",
+          "date": "2026-09-20",
+          "time": "15:00",
+          "description": "Sunday afternoon day party at Northside Tavern with Jimmy Lewis and the 2nd String Disciples, 3 to 6pm. Live band, no cover."
+        }
+      ],
+      "_activityCategories": [
+        "nightlife",
+        "music"
+      ],
+      "_eventCount": 4
+    },
+    {
+      "slug": "yoga-in-beautiful-places",
+      "name": "Yoga In Beautiful Places",
+      "category": "Outdoor Yoga",
+      "tagline": "Scenic oceanfront yoga, sound baths & moon ceremonies on Sunset Cliffs",
+      "description": "Yoga In Beautiful Places is an outdoor-yoga and wellness business offering donation-based sunset yoga, meditation, and sound-bath experiences at scenic San Diego locations. On the Sunset Cliffs bluff (1352 Sunset Cliffs Blvd) they run weekly Oceanfront Yoga plus new-moon and full-moon ceremonies. They also offer SUP yoga in Coronado, beach classes in Carlsbad, private/corporate sessions, and wellness retreats.",
+      "logoUrl": "",
+      "website": "https://www.yogainbeautifulplaces.com",
+      "phone": "",
+      "email": "YogaInBeautifulPlaces@gmail.com",
+      "instagram": "@yogainbeautifulplaces",
+      "facebook": "https://www.facebook.com/yogainbeautifulplaces",
+      "tiktok": "",
+      "address": "1352 Sunset Cliffs Blvd, San Diego, CA 92107",
+      "lat": 32.73606,
+      "lng": -117.255469,
+      "neighborhood": "Ocean Beach",
+      "hours": "Sunset Cliffs Oceanfront Yoga Thursdays 6-7pm (donation-based); plus new-moon & full-moon bluff sessions; registration required",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Oceanfront Sunset Yoga at Sunset Cliffs",
+          "date": "2026-09-10",
+          "time": "19:00",
+          "description": "Evening class from Yoga In Beautiful Places at 1352 Sunset Cliffs Blvd. Same organizer runs the new moon and full moon sessions at this spot. DURATION UNCONFIRMED, the listing shows a three hour block for what reads as a one hour class."
+        },
+        {
+          "title": "New Moon Manifest and Align at Sunset Cliffs",
+          "date": "2026-09-13",
+          "time": "18:30",
+          "description": "New moon session from Yoga In Beautiful Places at 1352 Sunset Cliffs Blvd. Intention-setting format tied to the lunar cycle rather than a standard class. Pairs with the full moon session the same organizer runs later in the month."
+        },
+        {
+          "title": "Full Moon Release and Renew at Sunset Cliffs",
+          "date": "2026-09-27",
+          "time": "18:30",
+          "description": "Full moon counterpart to the new moon session from Yoga In Beautiful Places at 1352 Sunset Cliffs Blvd. Release-focused rather than intention-setting. Outdoor on the bluff, dress for wind."
+        }
+      ],
+      "_activityCategories": [
+        "fitness",
+        "wellness"
+      ],
+      "_eventCount": 3
+    },
+    {
+      "slug": "saratoga-park",
+      "name": "Saratoga Park",
+      "category": "Park",
+      "tagline": "Family-friendly grassy park beside Saratoga Avenue Beach in Ocean Beach.",
+      "description": "Saratoga Park is a small public park with a large grassy area adjacent to Saratoga Avenue Beach in Ocean Beach. It sits on a family-friendly stretch of coast between the busier Newport Avenue and Voltaire Street beach areas, near parking, food, showers, and lifeguards. The green is a popular spot for hanging out close to the sand and surf.",
+      "logoUrl": "",
+      "website": "https://oceanbeachsandiego.com/attractions/parks/saratoga-park",
+      "phone": "",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "5134 Saratoga Ave, San Diego, CA 92107",
+      "lat": 32.750292,
+      "lng": -117.251799,
+      "neighborhood": "Ocean Beach",
+      "hours": "Open daily",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Ocean Beach Yoga at Saratoga Park",
+          "date": "2026-09-12",
+          "time": "09:00",
+          "description": "Saturday 9am class with Kyle Lyman at Saratoga Park, a block off the sand at the north end of OB. Same instructor who runs the Wednesday Pacific Beach class, so this is a cross-neighborhood regular."
+        },
+        {
+          "title": "Beachfront Yoga Saturday Mornings in OB",
+          "date": "2026-09-12",
+          "time": "10:00",
+          "description": "Kaiti Yoga's Saturday 10am session at Saratoga Park. Runs an hour after the Kyle Lyman class in the same park, so confirm which one a user actually means before pinning both."
+        },
+        {
+          "title": "Beach Yoga at Saratoga Park",
+          "date": "2026-09-14",
+          "time": "18:00",
+          "description": "Monday evening class with Lily Borisov at Saratoga Park in Ocean Beach. Small group outdoor format at the top of the beach access. Bring your own mat."
+        }
+      ],
+      "_activityCategories": [
+        "fitness"
+      ],
+      "_eventCount": 3
+    },
+    {
+      "slug": "reunify-yoga",
+      "name": "reUnify Yoga",
+      "category": "Yoga & Movement Studio",
+      "tagline": "Down-to-earth community yoga studio in the heart of Ocean Beach",
+      "description": "reUnify Yoga is a community-focused Ocean Beach yoga studio with several nearby spaces, including its indoor Bacon Studio (2183 Bacon St) and an open-air Outdoor Deck at Voltaire & Cable. Classes span Hatha, Vinyasa, Yin, Restorative, Yoga Nidra, meditation, and sound healing, plus teacher trainings. Its rooms host visiting series like Kaiti Yoga's yin + sound-bowl sessions, Josie Duraso's Moon Body classes, and pop-up community markets.",
+      "logoUrl": "",
+      "website": "https://www.reunifyyoga.com",
+      "phone": "",
+      "email": "hello@reunifyyoga.com",
+      "instagram": "@reunifyyoga",
+      "facebook": "https://www.facebook.com/reunifyyoga",
+      "tiktok": "",
+      "address": "2183 Bacon St, San Diego, CA 92107",
+      "lat": 32.751779,
+      "lng": -117.246704,
+      "neighborhood": "Ocean Beach",
+      "hours": "Mon 8:30am-8pm; Tue 6:30am-8pm; Wed 6:30am-8:30pm; Thu 7am-8pm; Fri 7am-6:30pm; Sat 8:30am-12:30pm; Sun 8:30am-7:30pm",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Yin and Sound Bowl Healing",
+          "date": "2026-09-09",
+          "time": "17:30",
+          "description": "Kaiti Yoga's yin plus sound bowl session at 2183 Bacon St. Long-running weekly series by occurrence count. Slow-hold yin postures with sound bath layered over the top. Indoor, mats usually available."
+        },
+        {
+          "title": "Moon Body",
+          "date": "2026-09-09",
+          "time": "19:00",
+          "description": "Weekly evening movement and breath session from Josie Duraso at 2183 Bacon St, the same room that hosts the Kaiti Yoga yin series. Recurring series with a long run of scheduled sessions."
+        },
+        {
+          "title": "Sacred Protection Mini Mystic Market",
+          "date": "2026-09-19",
+          "time": "12:00",
+          "description": "Afternoon mystic market at 4862 Voltaire St. Small vendor format with readers, crystals, and handmade goods. Four hour window, walk-in."
+        }
+      ],
+      "_activityCategories": [
+        "wellness",
+        "market"
+      ],
+      "_eventCount": 3
+    },
+    {
+      "slug": "the-harp",
+      "name": "The Harp",
+      "category": "Irish Pub & Live Music",
+      "tagline": "A friendly Irish pub & grill in the heart of Ocean Beach",
+      "description": "The Harp is a friendly Irish pub and grill in Ocean Beach offering award-winning food, a full bar, and a large craft beer selection. It's a go-to spot for sports fans, showing soccer, rugby, MLB, NCAA football, and NFL, and features live music and a dog-friendly patio. Purchased in March 2024 by local residents passionate about the community.",
+      "logoUrl": "",
+      "website": "https://theharpoceanbeach.com/",
+      "phone": "(619) 222-0168",
+      "email": "theharpoceanbeach@gmail.com",
+      "instagram": "@theharpoceanbeach",
+      "facebook": "https://www.facebook.com/p/The-Harp-Ocean-Beach-61557599817139/",
+      "tiktok": "",
+      "address": "4935 Newport Ave, San Diego, CA 92107",
+      "lat": 32.746111,
+      "lng": -117.250022,
+      "neighborhood": "Ocean Beach",
+      "hours": "Mon-Fri 12pm-2am, Sat 11am-2am, Sun 10am-2am",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Drifting Roots at The Harp",
+          "date": "2026-09-11",
+          "time": "20:00",
+          "description": "Live reggae from Drifting Roots at The Harp on Newport Ave. The Harp books local and touring acts most weekends and sits in the middle of the Newport bar strip."
+        },
+        {
+          "title": "Algorhythm Live and Unplugged at The Harp",
+          "date": "2026-09-13",
+          "time": "20:00",
+          "description": "Acoustic set from Algorhythm at The Harp Ocean Beach. Unplugged format, so quieter than the venue's usual weekend booking. Late start."
+        },
+        {
+          "title": "Selecta Fari presents Rootikal Riddim",
+          "date": "2026-10-09",
+          "time": "21:00",
+          "description": "Late night roots and dub selection from Selecta Fari at The Harp. Runs the same night as Oktoberfest a few blocks down Newport, so expect the strip to be busy either way."
+        }
+      ],
+      "_activityCategories": [
+        "music"
+      ],
+      "_eventCount": 3
+    },
+    {
+      "slug": "mike-hess-brewing-ocean-beach",
+      "name": "Mike Hess Brewing Ocean Beach",
+      "category": "Brewery & Taproom",
+      "tagline": "Craft beer by Dog Beach with trivia nights and a dog-friendly patio.",
+      "description": "Mike Hess Brewing's Ocean Beach taproom sits at the corner of Cable and Voltaire, just blocks from Dog Beach, pairing a relaxed beach vibe with San Diego craft beer culture. The pet- and family-friendly spot lets you bring your own food and hosts weekly trivia on Monday and Thursday nights.",
+      "logoUrl": "",
+      "website": "https://www.mikehessbrewing.com/ocean-beach/",
+      "phone": "(619) 795-1095",
+      "email": "",
+      "instagram": "@mikehessbrewing",
+      "facebook": "https://www.facebook.com/MHBoceanbeach/",
+      "tiktok": "",
+      "address": "4893 Voltaire St, San Diego, CA 92107",
+      "lat": 32.750744,
+      "lng": -117.244729,
+      "neighborhood": "Ocean Beach",
+      "hours": "Sun 11am-9pm; Mon-Sat 12pm-10pm",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Patchwork Fall Craft Party at Mike Hess",
+          "date": "2026-09-16",
+          "time": "18:30",
+          "description": "Patchwork's fall craft night at Mike Hess Brewing Ocean Beach: sun catchers and chunky pumpkins. Materials included in the ticket, beer is your own tab. Patchwork runs these on a rotating schedule at the Voltaire St taproom."
+        },
+        {
+          "title": "Bar Knights Trivia at Mike Hess Ocean Beach",
+          "date": "2026-09-17",
+          "time": "19:00",
+          "description": "Free Thursday trivia from Bar Knights at the Mike Hess taproom on Voltaire St. Prizes for first through third, and teams can join after it starts."
+        },
+        {
+          "title": "Patchwork Succulent Pumpkins Craft Workshop",
+          "date": "2026-10-14",
+          "time": "18:30",
+          "description": "Patchwork's succulent pumpkin build at Mike Hess Brewing Ocean Beach. Plant a real succulent arrangement into a pumpkin. Materials included, taproom open throughout. Same series as their fall craft party in September."
+        }
+      ],
+      "_activityCategories": [
+        "social",
+        "nightlife"
+      ],
+      "_eventCount": 3
+    },
+    {
+      "slug": "kilowatt-brewing-ocean-beach",
+      "name": "Kilowatt Brewing Ocean Beach",
+      "category": "Brewery & Taproom",
+      "tagline": "Small-batch, eclectic craft beer in the heart of Ocean Beach.",
+      "description": "Kilowatt Brewing's Ocean Beach tasting room on Cable Street pours 20+ small-batch, eclectic beer styles from the local craft brewery. It's a laid-back neighborhood taproom a short walk from the beach.",
+      "logoUrl": "",
+      "website": "https://kilowatt.beer/tap-room/",
+      "phone": "(619) 255-9775",
+      "email": "",
+      "instagram": "@kilowattbeer",
+      "facebook": "https://www.facebook.com/kilowattbeer",
+      "tiktok": "@kilowattbeer",
+      "address": "1875 Cable St, San Diego, CA 92107",
+      "lat": 32.745351,
+      "lng": -117.249482,
+      "neighborhood": "Ocean Beach",
+      "hours": "Mon-Thu 12pm-11pm; Fri-Sat 12pm-12am; Sun 12pm-11pm",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Wednesday Night Art Market at Kilowatt",
+          "date": "2026-09-09",
+          "time": "18:00",
+          "description": "Weekly art market inside Kilowatt Brewing on Cable Street, running the same evening as the Newport Ave farmers market a block over. Local makers and artists selling directly, with the taproom open throughout. Free to walk through."
+        },
+        {
+          "title": "Brewdoodle Drink and Draw at Kilowatt",
+          "date": "2026-09-10",
+          "time": "18:00",
+          "description": "Drink and draw night at Kilowatt Brewing Ocean Beach. Bring your own supplies or use what is on the table, no skill level assumed. Runs the evening after their Wednesday art market."
+        }
+      ],
+      "_activityCategories": [
+        "market",
+        "social"
+      ],
+      "_eventCount": 2
+    },
+    {
+      "slug": "yoga-jawn",
+      "name": "Yoga Jawn",
+      "category": "Outdoor Yoga",
+      "tagline": "Free, donation-based community yoga on the Sunset Cliffs bluff",
+      "description": "Yoga Jawn is a San Diego community outdoor-yoga operation (the Sunset Cliffs Yoga collective) offering donation-based, all-levels classes overlooking the ocean in Ocean Beach and Point Loma. Its signature Sunday sessions run at 9am and 11am on the bluff near Osprey Point, with additional weekday flow, hatha, and gentle vinyasa classes at Adair Street and Osprey Point. Founded and led by Jackie.",
+      "logoUrl": "",
+      "website": "https://www.yogajawn.com",
+      "phone": "(619) 786-4278",
+      "email": "jackie@yogajawn.com",
+      "instagram": "@yoga_jawn",
+      "facebook": "https://www.facebook.com/groups/140871036696825/",
+      "tiktok": "",
+      "address": "1253 Sunset Cliffs Blvd, San Diego, CA 92107",
+      "lat": 32.733446,
+      "lng": -117.255697,
+      "neighborhood": "Ocean Beach",
+      "hours": "Sunday Vinyasa Flow 9am & 11am (Osprey Point); weekday classes at Adair St & Osprey Point; donation-based, all levels",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Sunday Morning Yoga on Sunset Cliffs, 9 AM",
+          "date": "2026-09-13",
+          "time": "09:00",
+          "description": "Yoga Jawn's Sunday 9am class on the bluff at 1253 Sunset Cliffs Blvd. Outdoor, ocean-facing, bring your own mat. The same organizer runs an 11am session, so pick the slot rather than assuming one class."
+        },
+        {
+          "title": "Sunday Morning Yoga on Sunset Cliffs, 11 AM",
+          "date": "2026-09-13",
+          "time": "11:00",
+          "description": "Yoga Jawn's later Sunday session at the Sunset Cliffs parking area. Same instructor and format as the 9am class, two hours later and usually busier once the morning marine layer burns off."
+        }
+      ],
+      "_activityCategories": [
+        "fitness"
+      ],
+      "_eventCount": 2
+    },
+    {
+      "slug": "wonderland-ocean-pub",
+      "name": "Wonderland Ocean Pub",
+      "category": "Bar & Grill",
+      "tagline": "Oceanfront bar and grill with drinks, eats and pier views.",
+      "description": "Wonderland Ocean Pub is a casual New American bar and grill on Santa Monica Avenue near the Ocean Beach Pier, serving food and drinks in a lively oceanfront setting. It takes online reservations for groups up to 12, with larger parties by email request.",
+      "logoUrl": "",
+      "website": "https://www.wonderlandob.com/",
+      "phone": "(619) 255-3358",
+      "email": "info@wonderlandob.com",
+      "instagram": "@wonderlandoceanbeach",
+      "facebook": "https://www.facebook.com/426533950728666",
+      "tiktok": "@wonderlandoceanbeach",
+      "address": "5083 Santa Monica Ave Suite 2B, San Diego, CA 92107",
+      "lat": 32.7483812,
+      "lng": -117.2519238,
+      "neighborhood": "Ocean Beach",
+      "hours": "Mon-Thu 11:30am-11pm; Fri 11am-11pm; Sat 10am-11pm; Sun 9:30am-11pm",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Community Meetup at Wonderland Ocean Pub",
+          "date": "2026-09-12",
+          "time": "12:00",
+          "description": "Midday meetup hosted by Sincerely, Divorced at Wonderland Ocean Pub on Santa Monica Ave. Support-oriented social rather than a general mixer. Wonderland sits directly across from the beach at the end of Newport."
+        },
+        {
+          "title": "Trivia Night at Wonderland Ocean Pub",
+          "date": "2026-09-15",
+          "time": "19:00",
+          "description": "Tuesday team trivia run by Sunset Trivia at Wonderland Ocean Pub, upstairs across from the beach at the end of Newport. Prizes for the top teams. END TIME IS AN ESTIMATE."
+        }
+      ],
+      "_activityCategories": [
+        "social",
+        "nightlife"
+      ],
+      "_eventCount": 2
+    },
+    {
+      "slug": "tony-s-martini-bar",
+      "name": "Tony's Martini Bar",
+      "category": "Bar & Karaoke",
+      "tagline": "A fine bar in Ocean Beach",
+      "description": "Tony's Martini Bar is a longtime Ocean Beach staple serving specialty cocktails and martinis with an old-school vibe, complete with a juke box and pool tables. The bar hosts karaoke on Sunday and Thursday nights and live music on Wednesdays. It also features a small covered smoking patio.",
+      "logoUrl": "",
+      "website": "https://www.tonysob.com/",
+      "phone": "(619) 223-0558",
+      "email": "",
+      "instagram": "@tonysmartinibar",
+      "facebook": "",
+      "tiktok": "",
+      "address": "5034 Newport Ave, San Diego, CA 92107",
+      "lat": 32.7474,
+      "lng": -117.2512,
+      "neighborhood": "Ocean Beach",
+      "hours": "Mon-Sat 3pm-2am, Sun 12pm-2am",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Wednesday Karaoke at Tony's Martini Bar",
+          "date": "2026-09-16",
+          "time": "21:00",
+          "description": "Late karaoke at Tony's Martini Bar on Newport Ave, running 9pm to 1am. Small neighborhood bar, so the list moves fast early and fills up after 10."
+        },
+        {
+          "title": "Sunday Karaoke at Tony's Martini Bar",
+          "date": "2026-09-20",
+          "time": "21:00",
+          "description": "Tony's second karaoke night of the week, 9pm to 1am. Runs the same night as OB-o-Ke at Winstons a block over, so the two split the Sunday karaoke crowd."
+        }
+      ],
+      "_activityCategories": [
+        "nightlife"
+      ],
+      "_eventCount": 2
+    },
+    {
+      "slug": "ob-farmers-market",
+      "name": "OB Farmers Market",
+      "category": "Farmers Market",
+      "tagline": "OB's Wednesday night street market: fresh produce, artisans, and hot food.",
+      "description": "The OB Farmers Market is a Certified Farmers Market hosted by the Ocean Beach MainStreet Association on the 4900 block of Newport Ave between Cable and Bacon Streets. Held every Wednesday, rain or shine, it features over 100 vendors including certified farmers, artisans, crafters, and hot food from around the world. It's a lively weekly gathering at the heart of Ocean Beach's business district.",
+      "logoUrl": "",
+      "website": "https://oceanbeachsandiego.com/attractions/annual-events/farmers-market-wednesdays",
+      "phone": "(619) 279-0032",
+      "email": "",
+      "instagram": "",
+      "facebook": "https://www.facebook.com/OBFarmersMarket/",
+      "tiktok": "",
+      "address": "4900 Newport Ave, San Diego, CA 92107",
+      "lat": 32.7465,
+      "lng": -117.2494,
+      "neighborhood": "Ocean Beach",
+      "hours": "Wednesdays 4:00 PM - 8:00 PM, rain or shine",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "OB Farmers Market",
+          "date": "2026-09-09",
+          "time": "16:00",
+          "description": "Ocean Beach's certified farmers market, running the full 4900 block of Newport Avenue between Cable and Bacon every Wednesday afternoon. Produce, seafood, meat, dairy, prepared food, flowers and craft vendors, plus live music and street performers. Newport closes to traffic for it. The single most reliable weekly event in the neighborhood."
+        }
+      ],
+      "_activityCategories": [
+        "market"
+      ],
+      "_eventCount": 1
+    },
+    {
+      "slug": "the-inn-at-sunset-cliffs",
+      "name": "The Inn at Sunset Cliffs",
+      "category": "Hotel",
+      "tagline": "A tranquil oceanfront boutique inn steps from Ocean Beach",
+      "description": "The Inn at Sunset Cliffs is a boutique oceanfront hotel in the Point Loma/Ocean Beach area, one of the few San Diego hotels located directly on the Pacific Ocean. Originally built in the 1950s and updated in 2018, the 24-room inn is designed after Santorini, Greece, and features a heated pool, oceanview terraces, and event/wedding spaces.",
+      "logoUrl": "",
+      "website": "https://innatsunsetcliffs.com/",
+      "phone": "(619) 222-7901",
+      "email": "info@innatsunsetcliffs.com",
+      "instagram": "@innatsunsetcliffs",
+      "facebook": "https://www.facebook.com/InnatSunsetCliffs/",
+      "tiktok": "",
+      "address": "1370 Sunset Cliffs Blvd, San Diego, CA 92107",
+      "lat": 32.736319,
+      "lng": -117.255358,
+      "neighborhood": "Ocean Beach",
+      "hours": "",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Sunset Cliffs Auto Show",
+          "date": "2026-09-12",
+          "time": "10:00",
+          "description": "Annual family-friendly car show presented by Hodad's, held the weekend after Labor Day at the Inn at Sunset Cliffs. Classic and custom vehicles, food, live music and raffles. Free to walk through. One of the neighborhood's established annual events."
+        }
+      ],
+      "_activityCategories": [
+        "event"
+      ],
+      "_eventCount": 1
+    },
+    {
+      "slug": "the-template",
+      "name": "The Template",
+      "category": "Event Venue",
+      "tagline": "An OB art collective, cafe, and community venue uniting the curious",
+      "description": "The Template is an Ocean Beach cafe, community center, venue, and artist collective operating as a 501(c)(3) nonprofit dedicated to fostering creativity and supporting local art. The space hosts open mics, live music, workshops, markets, and art exhibitions, and offers a large event space with lighting, projectors, and green/white screens.",
+      "logoUrl": "",
+      "website": "https://www.obtemplate.com/",
+      "phone": "(619) 800-1651",
+      "email": "",
+      "instagram": "@thetemplateob",
+      "facebook": "theOBtemplate",
+      "tiktok": "",
+      "address": "5032 Niagara Ave, San Diego, CA 92107",
+      "lat": 32.746589,
+      "lng": -117.252206,
+      "neighborhood": "Ocean Beach",
+      "hours": "Daily 8am-6pm",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Kinder Rave",
+          "date": "2026-09-12",
+          "time": "13:00",
+          "description": "Daytime all-ages dance party at The Template on Niagara Ave. Family format, so the volume and the hours are set for kids rather than a club crowd. Afternoon only."
+        }
+      ],
+      "_activityCategories": [
+        "social"
+      ],
+      "_eventCount": 1
+    },
+    {
+      "slug": "connect-san-diego",
+      "name": "Connect San Diego",
+      "category": "Art Gallery & Event Space",
+      "tagline": "OB shop and secret gallery built on community and creativity",
+      "description": "Connect San Diego is an Ocean Beach store and gallery where artists and small businesses sell and showcase their work, featuring new, custom, and vintage clothing, jewelry, art, prints, and oddities. The space doubles as an event and gallery venue (SH!FT Gallery & Gatherings) hosting parties, photoshoots, and DJ nights.",
+      "logoUrl": "",
+      "website": "",
+      "phone": "(619) 929-0881",
+      "email": "",
+      "instagram": "@connectsandiego",
+      "facebook": "",
+      "tiktok": "",
+      "address": "4847 Newport Ave, San Diego, CA 92107",
+      "lat": 32.74516,
+      "lng": -117.248472,
+      "neighborhood": "Ocean Beach",
+      "hours": "Mon-Tue & Thu-Fri 12pm-6pm; Wed 4pm-9:30pm; Sat 12pm-8pm; Sun 12pm-6pm",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Night Circuit at Connect San Diego",
+          "date": "2026-09-12",
+          "time": "20:00",
+          "description": "Late night house and electronic set at Connect Gallery on Newport Ave, running from 8pm past midnight. Gallery space rather than a club, so the room is smaller and the sound is closer than a standard EDM night."
+        }
+      ],
+      "_activityCategories": [
+        "nightlife"
+      ],
+      "_eventCount": 1
+    },
+    {
+      "slug": "sine-wave-cafe",
+      "name": "Sine Wave Cafe",
+      "category": "Coffee Shop",
+      "tagline": "Neighborhood coffee & breakfast with a laid-back OB vibe",
+      "description": "Sine Wave Cafe is an Ocean Beach neighborhood coffee shop and breakfast cafe serving specialty coffee, matcha, handcrafted espresso drinks, and fresh brunch items made with quality ingredients. Founded in 2025, it functions as a relaxed community gathering space for locals, surfers, and visitors.",
+      "logoUrl": "",
+      "website": "https://www.sinewavecafe.com/",
+      "phone": "(619) 326-8660",
+      "email": "",
+      "instagram": "@sinewavecafe",
+      "facebook": "",
+      "tiktok": "",
+      "address": "4810 Santa Monica Ave, San Diego, CA 92107",
+      "lat": 32.746015,
+      "lng": -117.246905,
+      "neighborhood": "Ocean Beach",
+      "hours": "Daily 7am-2pm (extended weekend hours)",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Book and Puzzle Swap at Sine Wave Cafe",
+          "date": "2026-09-13",
+          "time": "11:00",
+          "description": "See You in SD's book and puzzle swap at Sine Wave Cafe on Santa Monica Ave. Bring what you have finished, take what you have not read. Cafe format, no ticket needed beyond signing up."
+        }
+      ],
+      "_activityCategories": [
+        "social"
+      ],
+      "_eventCount": 1
+    },
+    {
+      "slug": "ultreya-coffee-and-tea",
+      "name": "Ultreya Coffee and Tea",
+      "category": "Coffee Roaster",
+      "tagline": "Bold flavors, small-batch roasting, and your new favorite daily ritual",
+      "description": "Ultreya Coffee and Tea is an Ocean Beach coffee roaster and shop serving fresh, small-batch roasted coffee, specialty drinks, acai bowls, and creative breakfast options. The thoughtfully curated space also stocks gifts and goods, with owner Danielle Riggins serving coffee in OB since the early 2010s.",
+      "logoUrl": "",
+      "website": "https://ultreyacoffee.com/",
+      "phone": "(619) 992-5972",
+      "email": "",
+      "instagram": "@ultreya_coffee",
+      "facebook": "https://www.facebook.com/ultreyacoffee/",
+      "tiktok": "",
+      "address": "1785 Sunset Cliffs Blvd, San Diego, CA 92107",
+      "lat": 32.74287,
+      "lng": -117.249051,
+      "neighborhood": "Ocean Beach",
+      "hours": "Daily 6:30am-5pm",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Coffee Meet Up at Ultreya",
+          "date": "2026-09-13",
+          "time": "12:00",
+          "description": "Midday coffee social from Black Wolf Social Club at Ultreya Coffee and Tea on Sunset Cliffs Blvd. Informal, no agenda, aimed at people who want a low-commitment way to meet others in the neighborhood."
+        }
+      ],
+      "_activityCategories": [
+        "social"
+      ],
+      "_eventCount": 1
+    },
+    {
+      "slug": "ob-jiu-jitsu-collective",
+      "name": "OB Jiu-Jitsu Collective",
+      "category": "Jiu-Jitsu Gym",
+      "tagline": "Community-driven Jiu-Jitsu academy in the heart of Ocean Beach",
+      "description": "OB Jiu-Jitsu Collective is a community-driven grappling academy on Newport Ave offering adult and kids classes in both gi and no-gi Brazilian Jiu-Jitsu, plus Muay Thai. The program is led by black belt Andres Cervantes, who brings over 16 years of experience training under Michael Liera Jr. The space also houses an associated art gallery and supports the We Defy Foundation.",
+      "logoUrl": "",
+      "website": "https://objiujitsucollective.com/",
+      "phone": "(619) 752-4988",
+      "email": "thejiujitsucollectivesd@gmail.com",
+      "instagram": "@objiujitsucollective",
+      "facebook": "https://www.facebook.com/objiujitsucollective/",
+      "tiktok": "",
+      "address": "4944 Newport Ave Unit D, San Diego, CA 92107",
+      "lat": 32.746452,
+      "lng": -117.249976,
+      "neighborhood": "Ocean Beach",
+      "hours": "Mon/Wed/Fri 7-11:30am & 4-8:30pm, Tue/Thu 9-11:30am & 5-8:30pm, Sat 10am-12:30pm, Sun 10-11:30am",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "The Ocean Beach Sound Bath",
+          "date": "2026-09-13",
+          "time": "19:00",
+          "description": "Evening sound bath run by Guy Douglas out of the OB Jiu-Jitsu Collective mat room on Newport Ave. Billed as a nervous system reset. Mats on the floor, lights down, roughly 75 minutes."
+        }
+      ],
+      "_activityCategories": [
+        "wellness"
+      ],
+      "_eventCount": 1
+    },
+    {
+      "slug": "humble-heart",
+      "name": "Humble Heart",
+      "category": "Thrift Store & Music Venue",
+      "tagline": "Music and thrift in the heart of Ocean Beach",
+      "description": "Humble Heart is a thrift store by day and all-ages music venue by night on Newport Ave in Ocean Beach, located next to OB Hardware. Alongside shopping and donations, they host regular programming including monthly open mic nights, Freestyle Fridays, and live music shows.",
+      "logoUrl": "",
+      "website": "https://www.theheartob.com/",
+      "phone": "(858) 388-9204",
+      "email": "info@theheartob.com",
+      "instagram": "@humbleheart.ob",
+      "facebook": "https://www.facebook.com/humbleheartthriftstore",
+      "tiktok": "",
+      "address": "4873 Newport Ave, San Diego, CA 92107",
+      "lat": 32.745426,
+      "lng": -117.249002,
+      "neighborhood": "Ocean Beach",
+      "hours": "Mon-Sat 10:30am-6:30pm, Sun 12-6pm",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Kush Yoga Under the Sky Hybrid Flow",
+          "date": "2026-09-14",
+          "time": "18:30",
+          "description": "Evening hybrid flow from Kush Yoga at Humble Heart on Newport Ave. Hybrid means part indoor studio, part rooftop or outdoor depending on weather. Check the listing for what to bring."
+        }
+      ],
+      "_activityCategories": [
+        "fitness"
+      ],
+      "_eventCount": 1
+    },
+    {
+      "slug": "align-wellness-and-aesthetics",
+      "name": "Align Wellness and Aesthetics",
+      "category": "Med Spa & Wellness",
+      "tagline": "San Diego's science-backed care in a calming environment",
+      "description": "Align Wellness & Aesthetics is a boutique wellness studio on Voltaire St offering therapeutic Botox for TMJ and migraine relief, cosmetic injectables, and mindfulness classes. Led by Dr. Andrea Marr, the practice pairs medical treatments with meditation, yoga, and breathwork to support both physical pain relief and nervous-system health.",
+      "logoUrl": "",
+      "website": "https://www.alignbewell.com/",
+      "phone": "",
+      "email": "alignbewell@gmail.com",
+      "instagram": "@align.be.well",
+      "facebook": "https://www.facebook.com/p/Align-Wellness-Aesthetics-61552922103602/",
+      "tiktok": "",
+      "address": "4314 Voltaire St, San Diego, CA 92107",
+      "lat": 32.74555,
+      "lng": -117.23616,
+      "neighborhood": "Ocean Beach",
+      "hours": "Mon-Fri by appointment only",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "The Wellness Social at Align",
+          "date": "2026-09-20",
+          "time": "14:00",
+          "description": "Afternoon networking social for wellness practitioners and anyone in that orbit, at Align Wellness and Aesthetics on Voltaire St. Structured as a meet-and-mingle rather than a class or treatment."
+        }
+      ],
+      "_activityCategories": [
+        "networking"
+      ],
+      "_eventCount": 1
+    },
+    {
+      "slug": "ocean-beach-town-council",
+      "name": "Ocean Beach Town Council",
+      "category": "Community Organization",
+      "tagline": "All-volunteer nonprofit dedicated to the care and improvement of Ocean Beach.",
+      "description": "The Ocean Beach Town Council is an all-volunteer, non-profit community organization dedicated to expressing the will and representing the welfare of Ocean Beach. It provides a forum to discuss community issues, communicates residents' needs to appropriate agencies, and promotes the betterment and beautification of the neighborhood. Membership is free to all who live, work, or own property in the 92107 area.",
+      "logoUrl": "",
+      "website": "https://obtowncouncil.org/",
+      "phone": "(619) 224-4906",
+      "email": "",
+      "instagram": "@obtowncouncil",
+      "facebook": "https://www.facebook.com/obtowncouncil/",
+      "tiktok": "",
+      "address": "1711 Sunset Cliffs Blvd, San Diego, CA 92107",
+      "lat": 32.741492,
+      "lng": -117.250061,
+      "neighborhood": "Ocean Beach",
+      "hours": "",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Ocean Beach Town Council Public Meeting",
+          "date": "2026-09-23",
+          "time": "19:00",
+          "description": "Monthly public meeting of the Ocean Beach Town Council, open to the neighborhood. Covers local issues and community programming. VENUE AND SCHEDULE ARE UNCONFIRMED, the City listing still shows a fourth Wednesday 7pm meeting at 1711 Sunset Cliffs Blvd. Verify at obtowncouncil.org before pinning."
+        }
+      ],
+      "_activityCategories": [
+        "civic"
+      ],
+      "_eventCount": 1
+    },
+    {
+      "slug": "valkyrie-yoga",
+      "name": "Valkyrie Yoga",
+      "category": "Yoga & Healing Studio",
+      "tagline": "Yoga + Breathwork + Sound Healing",
+      "description": "Valkyrie Yoga is a community-centered, employee-owned healing center on Santa Monica Ave in Ocean Beach offering daily yoga, breathwork, and sound healing classes ranging from restorative and yin to vinyasa and hatha. Founded by Agnete, the space features natural bamboo floors, plants, and an outdoor garden, and hosts monthly events like open mic nights, ecstatic dance, and cacao ceremonies.",
+      "logoUrl": "",
+      "website": "https://www.valkyrieyoga.com/",
+      "phone": "(619) 488-9971",
+      "email": "info@valkyrieyoga.com",
+      "instagram": "@valkyrieyogasd",
+      "facebook": "",
+      "tiktok": "",
+      "address": "4876 Santa Monica Ave, San Diego, CA 92107",
+      "lat": 32.746666,
+      "lng": -117.247958,
+      "neighborhood": "Ocean Beach",
+      "hours": "Mon-Sun daily, varying class times",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Poetry Saves Lives at Valkyrie Yoga",
+          "date": "2026-09-25",
+          "time": "19:00",
+          "description": "Spoken word and poetry evening at Valkyrie Yoga on Santa Monica Ave. Studio space converted for a reading rather than a class. Small room, roughly 90 minutes."
+        }
+      ],
+      "_activityCategories": [
+        "social"
+      ],
+      "_eventCount": 1
+    },
+    {
+      "slug": "coffee-cycle-roasting",
+      "name": "Coffee Cycle Roasting",
+      "category": "Coffee Roaster",
+      "tagline": "San Diego small-batch roaster with an on-site OB roastery and cafe",
+      "description": "Coffee Cycle Roasting is a San Diego-born independent roaster that expanded from Pacific Beach into a 1,600-square-foot roastery and cafe on Voltaire Street in Ocean Beach. Founded by Chris O'Brien from a single pedal-driven coffee cart, the OB location roasts beans on-site with a five-kilo roaster.",
+      "logoUrl": "",
+      "website": "https://coffeecycleroasting.com/",
+      "phone": "(951) 363-3066",
+      "email": "",
+      "instagram": "@coffeecycleroasting",
+      "facebook": "https://www.facebook.com/coffeecycleroasting/",
+      "tiktok": "",
+      "address": "4856 Voltaire St, San Diego, CA 92107",
+      "lat": 32.750702,
+      "lng": -117.243929,
+      "neighborhood": "Ocean Beach",
+      "hours": "Mon-Fri 6:30am-3:30pm; Sat-Sun 7am-3:30pm",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Matcha and Moss Mini Plant Garden Workshop",
+          "date": "2026-09-27",
+          "time": "11:00",
+          "description": "Late morning terrarium workshop from The Plant Corner by Jasmine at Coffee Cycle Roasting on Voltaire St. Build a small planted garden to take home. Materials included, coffee is separate."
+        }
+      ],
+      "_activityCategories": [
+        "social"
+      ],
+      "_eventCount": 1
+    },
+    {
+      "slug": "origin-modern-health-and-wellness",
+      "name": "Origin Modern Health and Wellness",
+      "category": "Upper Cervical Chiropractic & Wellness",
+      "tagline": "Precise, non-invasive upper cervical care for the brain and nervous system",
+      "description": "Origin Modern Health & Wellness is a chiropractic practice on Sunset Cliffs Blvd founded by Dr. Vivek Soham, focused on the brain and nervous system. The clinic uses the NUCCA upper cervical technique, a gentle, non-invasive approach with no twisting, popping, or cracking, to address issues like vertigo, headaches, migraines, and hormonal imbalances.",
+      "logoUrl": "",
+      "website": "https://origin.health/",
+      "phone": "(858) 432-3072",
+      "email": "support@origin.health",
+      "instagram": "@origin_modernhealth",
+      "facebook": "OriginModernHealthWellness",
+      "tiktok": "",
+      "address": "2204 Sunset Cliffs Blvd, San Diego, CA 92107",
+      "lat": 32.750257,
+      "lng": -117.243159,
+      "neighborhood": "Ocean Beach",
+      "hours": "Mon-Fri 9am-5pm",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Chakra Breathwork at Origin Modern Health and Wellness",
+          "date": "2026-10-05",
+          "time": "18:30",
+          "description": "Chakra-specific breathwork class series at 2204 Sunset Cliffs Blvd. Recurring format across several sessions. END TIME IS AN ESTIMATE, the source listing returned an end time the following morning which is almost certainly a data error."
+        }
+      ],
+      "_activityCategories": [
+        "wellness"
+      ],
+      "_eventCount": 1
+    },
+    {
+      "slug": "ocean-beach-recreation-center",
+      "name": "Ocean Beach Recreation Center",
+      "category": "Recreation Center",
+      "tagline": "City of San Diego rec center in the heart of Ocean Beach.",
+      "description": "The Ocean Beach Recreation Center is a City of San Diego Parks and Recreation facility at 4726 Santa Monica Ave. It offers community recreation programs and activities for local residents. Programming is overseen by the Ocean Beach Community Recreation Group.",
+      "logoUrl": "",
+      "website": "https://www.sandiego.gov/park-and-recreation/centers/recctr/oceanb",
+      "phone": "(619) 531-1527",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "4726 Santa Monica Ave, San Diego, CA 92107",
+      "lat": 32.745274,
+      "lng": -117.24485,
+      "neighborhood": "Ocean Beach",
+      "hours": "Mon 10am-8pm; Tue-Thu 9am-8pm; Fri 9am-7pm; Sat morning; closed Sun",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Ocean Beach Planning Board General Meeting",
+          "date": "2026-10-06",
+          "time": "18:00",
+          "description": "Monthly general meeting of the Ocean Beach Planning Board, the community planning group for OB. First Tuesday of each month at the Ocean Beach Recreation Center on Santa Monica Ave. Open to the public, Brown Act noticed. Development projects, permits and community plan items."
+        }
+      ],
+      "_activityCategories": [
+        "civic"
+      ],
+      "_eventCount": 1
+    },
+    {
+      "slug": "barnes-tennis-center",
+      "name": "Barnes Tennis Center",
+      "category": "Tennis Center",
+      "tagline": "Public racquet-sports hub: tennis, pickleball, and padel by Youth Tennis San Diego.",
+      "description": "Barnes Tennis Center is a multi-sport racquet facility at 4490 W Point Loma Blvd, operated by the nonprofit Youth Tennis San Diego (YTSD). It offers tennis, pickleball, and padel courts, adult and junior programs, private lessons, court rentals, and hosts tournaments and events. The center serves as a community hub while supporting youth development through tennis.",
+      "logoUrl": "",
+      "website": "https://www.barnestenniscenter.com/",
+      "phone": "(619) 221-9000",
+      "email": "info@ytsd.org",
+      "instagram": "@barnestenniscenter",
+      "facebook": "https://www.facebook.com/barnestenniscenter",
+      "tiktok": "",
+      "address": "4490 W Point Loma Blvd, San Diego, CA 92107",
+      "lat": 32.752265,
+      "lng": -117.233836,
+      "neighborhood": "Ocean Beach",
+      "hours": "Mon-Fri 7am-10pm; Sat-Sun 7am-9pm",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Pride Out Pickleball Social and Open Play",
+          "date": "2026-10-24",
+          "time": "18:00",
+          "description": "Evening pickleball social and open play at Barnes Tennis Center on West Point Loma Blvd. Social format, all levels. Barnes sits at the eastern edge of the OB area near Robb Field."
+        }
+      ],
+      "_activityCategories": [
+        "sports"
+      ],
+      "_eventCount": 1
+    },
+    {
+      "slug": "robb-field",
+      "name": "Robb Field",
+      "category": "Athletic Field & Recreation",
+      "tagline": "Ocean Beach's expansive athletic complex with fields, courts, and a skate park.",
+      "description": "Robb Field (Ocean Beach Athletic Area) at 2525 Bacon St is a large City of San Diego recreation complex along the San Diego River. It includes softball and multipurpose fields, tennis, basketball and handball courts, a picnic area, the Robb Fitness Club, and the City's first skateboard park, which opened in 2000. It's a central hub for youth and adult sports in Ocean Beach.",
+      "logoUrl": "",
+      "website": "https://oceanbeachsandiego.com/attractions/parks/robb-athletic-field",
+      "phone": "(619) 531-1563",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "2525 Bacon St, San Diego, CA 92107",
+      "lat": 32.753341,
+      "lng": -117.245206,
+      "neighborhood": "Ocean Beach",
+      "hours": "Open daily",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "OB Kite Festival",
+          "date": "2027-05-15",
+          "time": "10:00",
+          "description": "The oldest children's kite festival in the United States, held at Robb Field. Kite building and decorating, flying demonstrations, carnival rides and crafts. Free family event run in partnership with OBMA. Confirm the 2027 date closer to the time."
+        }
+      ],
+      "_activityCategories": [
+        "event"
+      ],
+      "_eventCount": 1
+    },
+    {
+      "slug": "pizza-port-ocean-beach",
+      "name": "Pizza Port Ocean Beach",
+      "category": "Brewpub & Pizza",
+      "tagline": "Hand-made pizza and 40 taps of craft beer, one block from the beach.",
+      "description": "Pizza Port Ocean Beach opened in 2010 with a 15-barrel brewing system and pours from 40 taps just one block from the beach. The brewpub pairs award-winning house craft beer with hand-made pizza in a classic surf-town setting.",
+      "logoUrl": "",
+      "website": "https://www.pizzaport.com/brewpubs/ocean-beach/",
+      "phone": "(619) 224-4700",
+      "email": "",
+      "instagram": "@pizzaportbrewingco",
+      "facebook": "https://www.facebook.com/pizzaportbrewingco/",
+      "tiktok": "",
+      "address": "1956 Bacon St, San Diego, CA 92107",
+      "lat": 32.7477,
+      "lng": -117.2504,
+      "neighborhood": "Ocean Beach",
+      "hours": "Sun-Thu 11am-10pm; Fri-Sat 11am-11pm",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Trivia Night at Pizza Port Ocean Beach",
+          "date": "2026-09-17",
+          "time": "18:00",
+          "description": "Thursday team trivia at Pizza Port on Bacon St, 6 to 8pm. Early slot and a pizza-and-beer room, so it skews friendlier to groups coming straight from work."
+        }
+      ],
+      "_activityCategories": [
+        "nightlife"
+      ],
+      "_eventCount": 1
+    },
+    {
+      "slug": "dirty-birds-ocean-beach",
+      "name": "Dirty Birds Ocean Beach",
+      "category": "Wings & Sports Bar",
+      "tagline": "Best wings in San Diego, 24 TVs and dog-friendly patios.",
+      "description": "Dirty Birds Ocean Beach is a wing-focused sports bar on Cable Street with a spacious open floor plan, 24 4K TVs and rotating craft taps. Multiple dog-friendly patios make it a go-to for game days, happy hour, business lunches and large-party events.",
+      "logoUrl": "",
+      "website": "https://www.dirtybirdsbarandgrill.com/about/ocean-beach",
+      "phone": "(619) 241-2922",
+      "email": "dboceanbeach@gmail.com",
+      "instagram": "@dirtybirdspb",
+      "facebook": "https://www.facebook.com/dirtybirdsbarandgrill",
+      "tiktok": "",
+      "address": "1929 Cable St, San Diego, CA 92107",
+      "lat": 32.7468,
+      "lng": -117.2493,
+      "neighborhood": "Ocean Beach",
+      "hours": "Mon-Fri 12pm-10pm; Sat-Sun 11am-10pm (opens 9:30am Sun in NFL season)",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Friday Trivia at Dirty Birds Ocean Beach",
+          "date": "2026-09-18",
+          "time": "19:00",
+          "description": "Sunset Trivia's Friday game at Dirty Birds on Cable St, 7 to 9pm. Prizes for the top three teams and scores carry across a season, so regulars chase standings. CONFIRM STILL RUNNING."
+        }
+      ],
+      "_activityCategories": [
+        "nightlife"
+      ],
+      "_eventCount": 1
+    },
+    {
+      "slug": "dharma-center",
+      "name": "Dharma Center",
+      "category": "Wellness",
+      "tagline": "Pay-what-you-wish meditation center on Newport Ave",
+      "description": "The Dharma Center of Trikaya Buddhism has taught meditation and mindfulness in Ocean Beach for over 20 years, with hour-long classes that pair seated meditation instruction with a dharma talk, offered on a pay-what-you-wish basis.",
+      "logoUrl": "",
+      "website": "https://dharmacenter.com/",
+      "phone": "(619) 797-5483",
+      "email": "",
+      "instagram": "@dharmacenter",
+      "facebook": "DharmaCenterMeditation",
+      "tiktok": "",
+      "address": "5059 Newport Ave Suite 303, San Diego, CA 92107",
+      "lat": 32.7478,
+      "lng": -117.2524,
+      "neighborhood": "Ocean Beach",
+      "hours": "Sat 11:30am meditation class (in person + Zoom); Mon 7pm and Thu 8pm classes online only",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "Saturday Meditation Class at Dharma Center",
+          "date": "2026-09-19",
+          "time": "11:30",
+          "description": "Hour-long meditation class with seated instruction and a dharma talk on mindfulness, in person on Newport Ave and on Zoom. Pay what you wish, no one turned away."
+        }
+      ]
+    },
+    {
+      "slug": "california-wild-ales-ocean-beach",
+      "name": "California Wild Ales Ocean Beach",
+      "category": "Brewery",
+      "tagline": "San Diego's sour house, with a taproom on Newport Ave",
+      "description": "The Ocean Beach tasting room of California Wild Ales, a San Diego brewery known for barrel-aged sours and wild ales, and home of the monthly Bricks 'n' Brews LEGO meetup.",
+      "logoUrl": "",
+      "website": "https://californiawildales.com/",
+      "phone": "(855) 945-3253",
+      "email": "",
+      "instagram": "@californiawildales",
+      "facebook": "californiawildales",
+      "tiktok": "",
+      "address": "4896 Newport Ave, San Diego, CA 92107",
+      "lat": 32.7482,
+      "lng": -117.2497,
+      "neighborhood": "Ocean Beach",
+      "hours": "Mon-Thu 12pm-10pm, Fri 12pm-12am, Sat 11am-10pm, Sun 10am-10pm",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "Bricks 'n' Brews at California Wild Ales",
+          "date": "2026-10-10",
+          "time": "11:30",
+          "description": "Monthly LEGO racing and building meetup hosted by Mortarless Bricks at the California Wild Ales taproom. Free admission, all ages welcome."
+        }
+      ]
+    },
+    {
+      "slug": "ob-joyfull",
+      "name": "OB Joyfull",
+      "category": "Community Space",
+      "tagline": "Community venue on Sunset Cliffs Blvd",
+      "description": "The community space at 1984 Sunset Cliffs Blvd (former Point Loma Methodist Church site) that hosts the Ocean Beach Historical Society's monthly programs.",
+      "logoUrl": "",
+      "website": "",
+      "phone": "",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "1984 Sunset Cliffs Blvd, San Diego, CA 92107",
+      "lat": 32.748,
+      "lng": -117.2466,
+      "neighborhood": "Ocean Beach",
+      "hours": "Varies by event",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "Picnic on the Island: The Story of Shelter Island",
+          "date": "2026-09-17",
+          "time": "19:00",
+          "description": "Ocean Beach Historical Society program presented by Eric DuVall on how Shelter Island went from a shifting sandbar to a connected landmark. Free."
+        },
+        {
+          "title": "Ocean Beach Historical Society Monthly Program",
+          "date": "2026-10-15",
+          "time": "19:00",
+          "description": "Free monthly local history talk from the Ocean Beach Historical Society, held the third Thursday of each month. Topic announced a few weeks ahead on obhistory.org."
+        }
+      ]
+    },
+    {
+      "slug": "episcopal-church-center",
+      "name": "Episcopal Church Center",
+      "category": "Church",
+      "tagline": "Headquarters of the Episcopal Diocese of San Diego",
+      "description": "The Ocean Beach headquarters of the Episcopal Diocese of San Diego, which also hosts The Street Dog Coalition's free monthly vet clinic for pets of people experiencing homelessness.",
+      "logoUrl": "",
+      "website": "https://edsd.org/",
+      "phone": "(619) 291-5947",
+      "email": "",
+      "instagram": "@diosandiego",
+      "facebook": "diosandiego",
+      "tiktok": "",
+      "address": "2083 Sunset Cliffs Blvd, San Diego, CA 92107",
+      "lat": 32.7466,
+      "lng": -117.2462,
+      "neighborhood": "Ocean Beach",
+      "hours": "",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "Street Dog Coalition Free Pet Clinic",
+          "date": "2026-09-26",
+          "time": "08:30",
+          "description": "Free monthly vet clinic from The Street Dog Coalition for pets of people experiencing homelessness, with vaccines, basic care and supplies. Held the fourth Saturday of each month; volunteers welcome."
+        }
+      ]
+    }
+  ],
+  "_deferredEnrichment": {
+    "mortarless-bricks": {
+      "website": "http://www.mortarlessbricks.com/",
+      "phone": "(619) 915-6169",
+      "hours": "",
+      "instagram": "@mortarlessbricks",
+      "facebook": "mortarlessbricks",
+      "tiktok": "",
+      "category": "Retail",
+      "tagline": "Ocean Beach LEGO shop for bricks, minifigs and sets",
+      "description": "An independent LEGO-focused shop on Newport Ave selling curated bricks, minifigures and sets, and host of the monthly Bricks 'n' Brews building and racing meetup.",
+      "address": "4967 Newport Ave #13, San Diego, CA 92107",
+      "lat": 32.746307,
+      "lng": -117.250777,
+      "_addressSource": "directory.oceanbeachsandiego.com",
+      "_addressConfidence": "high"
+    },
+    "ocean-beach-historical-society": {
+      "website": "https://obhistory.org/",
+      "phone": "(619) 226-8125",
+      "hours": "Free programs 3rd Thursday of the month, 7pm; archive visits by appointment",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "category": "Nonprofit",
+      "tagline": "Preserving and sharing OB's history since the Sea Scrolls",
+      "description": "A 501(c)(3) nonprofit that preserves Ocean Beach history through its archives, the Sea Scrolls newsletter, free monthly history talks and the annual OB Exposed! photo contest.",
+      "address": "1984 Sunset Cliffs Blvd, San Diego, CA 92107",
+      "lat": 32.746359,
+      "lng": -117.246563,
+      "_addressSource": "obhistory.org/archives",
+      "_addressConfidence": "medium",
+      "_addressNote": "Archive/mailing address (upstairs at Water’s Edge Church); appointment-only, not a walk-in."
+    },
+    "ob-mainstreet-association": {
+      "website": "https://oceanbeachsandiego.com/",
+      "phone": "(619) 224-4906",
+      "hours": "Mon-Fri 10am-4pm, Wed until 6pm",
+      "instagram": "@oceanbeachca",
+      "facebook": "OBMA92107",
+      "tiktok": "",
+      "category": "Nonprofit",
+      "tagline": "The business improvement district behind OB's big events",
+      "description": "The nonprofit that manages the Ocean Beach Business Improvement District, producing the OB Farmers Market, Oktoberfest, Holiday Parade and Street Fair, with public committee meetings each month.",
+      "address": "1868 Bacon St Ste A, San Diego, CA 92107",
+      "lat": 32.746528,
+      "lng": -117.251696,
+      "_addressSource": "oceanbeachsandiego.com",
+      "_addressConfidence": "high"
+    },
+    "ocean-beach-green-center": {
+      "website": "http://www.oceanbeachgreencenter.org/",
+      "phone": "",
+      "hours": "",
+      "instagram": "",
+      "facebook": "p/Ocean-Beach-Green-Center-100072492273565",
+      "tiktok": "",
+      "category": "Nonprofit",
+      "tagline": "OB's environmental, peace and social justice resource center",
+      "description": "An independent resource center founded on Earth Day 1989 offering free public education on environmental, peace and social justice issues, with a documentary library and a monthly regional events calendar.",
+      "address": "4862 Voltaire St, San Diego, CA 92107",
+      "lat": 32.750764,
+      "lng": -117.244022,
+      "_addressSource": "oceanbeachgreencenter.org",
+      "_addressConfidence": "medium",
+      "_addressNote": "Public hours reduced (film nights on hold) but location active."
+    },
+    "the-street-dog-coalition": {
+      "website": "https://www.thestreetdogcoalition.org/san-diego-ca",
+      "phone": "",
+      "hours": "OB clinic 4th Saturday of the month, 8:30am-10am",
+      "instagram": "@thestreetdogcoalition",
+      "facebook": "thestreetdogcoalition",
+      "tiktok": "",
+      "category": "Nonprofit",
+      "tagline": "Free vet care for pets of people experiencing homelessness",
+      "description": "A national nonprofit running free street clinics with vaccines, basic vet care and supplies for pets of people experiencing homelessness, including a monthly Ocean Beach clinic on Sunset Cliffs Blvd.",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "_addressSource": "thestreetdogcoalition.org/san-diego-ca",
+      "_addressConfidence": "high",
+      "_addressNote": "Mobile/clinic-at-host-site only; national HQ in Fort Collins CO. OB clinic hosted at 2083 Sunset Cliffs Blvd (Episcopal Church Center)."
+    }
+  },
+  "_deferredNote": "Standalone organizers with no activity of their own and no coords yet. Add address+lat/lng, then move into vendors[] and re-seed."
+}

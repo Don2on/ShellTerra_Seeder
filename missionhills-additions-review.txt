@@ -1,0 +1,64 @@
+EXCLUDE-VENUE harley-gray-kitchen-bar: CLOSED permanently on December 19, 2025 after 12 years. NOTE its addre
+EXCLUDE-VENUE thorn-brewing-mission-hills: CLOSED. Still listed in the BID directory, which is out of date. The s
+EXCLUDE-VENUE mission-hills-venue-old-town: OUT OF AREA, name is a trap. This venue is literally called 'Mission H
+EXCLUDE-VENUE spin-nightclub: OUT OF AREA. Hancock St is 92110 (Midway/Old Town), not Mission Hills.
+EXCLUDE-VENUE cueva-bar: OUT OF AREA. University Heights, 92116. Do not re-research.
+EXCLUDE-VENUE meze-greek-fusion: OUT OF AREA. Gaslamp Quarter, 92101. Do not re-research.
+EXCLUDE-VENUE piacere-mio: OUT OF AREA. South Park and Del Sur only; no Mission Hills location ex
+EXCLUDE-VENUE trattoria-ponte-vecchio: CLOSED and OUT OF AREA. Was in Del Mar. Do not re-research.
+EXCLUDE-VENUE saiko-sushi: OUT OF AREA. Coronado only; the North Park location closed. Do not re-
+EXCLUDE-VENUE bird-rock-coffee-roasters: OUT OF AREA. The official cafe list has no Mission Hills location. Do 
+EXCLUDE-VENUE better-buzz-coffee: OUT OF AREA. Nearest store is Hillcrest. Do not re-research.
+GEOCODE-ERR mission-hills-town-council: Mapbox 400
+VENDOR-SKIP mission-hills-town-council (no coords)
+HH-SKIP aero-club-bar "Four Roses Friday" (no start)
+HH-SKIP shakespeare-pub-grille "Burger Me Monday" (no start)
+HH-SKIP shakespeare-pub-grille "Guinness Beef Stew Tuesday" (no start)
+HH-SKIP shakespeare-pub-grille "Wine Wednesday" (no start)
+HH-SKIP shakespeare-pub-grille "Tikka Thursday" (no start)
+HH-SKIP shakespeare-pub-grille "Fish Friday" (no start)
+HH-SKIP pizza-e-birra "Happy Hour" (no start)
+HH-DUP pizza-e-birra "Thursday Happy Hour" (4@15:00)
+HH-DUP communion "Daily Happy Hour" (1,2,3,4,5,6,7@16:00)
+HH-SKIP the-red-door-restaurant-wine-bar "Half Off Select Wines (restaurant)" (no start)
+HH-SKIP the-red-door-restaurant-wine-bar "Half Off Select Wines (Bar by Red Door)" (no start)
+HH-DUP fort-oak "Happy Hour" (3,4,5,6,7@16:00)
+HH-DUP fort-oak "Oyster Monday" (1@16:00)
+HH-DUP cardellino "Happy Hour" (2,3,4,5,6,7@17:00)
+HH-SKIP farmers-bottega "Wine Thursdays" (no start)
+HH-SKIP farmers-bottega "Monday Date Night" (no start)
+ACT-DUP(rec) "Eat Your Feelings Kitchen" @ Aero Club Bar
+ACT-SKIP aero-club-bar "The Signature cheesesteak pop-up" (no coords/start)
+ACT-DUP(rec) "Premier League & Champions League Showings" @ Shakespeare Pub & Grille
+ACT-DUP(date) "Daou Wine Dinner with Daniel Brunner" @ Wine Vault & Bistro 2026-10-03
+ACT-DUP(date) "Daou Wine Dinner with Daniel Brunner" @ Wine Vault & Bistro 2026-10-04
+ACT-DUP(date) "Mauritson + Rockpile Wine Dinner with Clay Mauritson" @ Wine Vault & Bistro 2026-10-10
+ACT-DUP(date) "Mauritson + Rockpile Wine Dinner with Clay Mauritson" @ Wine Vault & Bistro 2026-10-11
+ACT-DUP(date) "Daou Wine Dinner with Daniel Brunner" @ Wine Vault & Bistro 2026-10-24
+ACT-DUP(rec) "Chef's Tasting Menu" @ Wine Vault & Bistro
+ACT-DUP(rec) "Mainstage Improv" @ National Comedy Theatre
+ACT-DUP(rec) "Sunday Company" @ National Comedy Theatre
+ACT-DUP(rec) "House Teams" @ National Comedy Theatre
+ACT-DUP(date) "On the Spot: An Improvised Musical" @ National Comedy Theatre 2026-10-29
+ACT-DUP(rec) "Trivia Night" @ Pizza e Birra
+ACT-SKIP pizza-e-birra "9th Anniversary Celebration" (no coords/start)
+ACT-DUP(rec) "Sunday Rooftop Brunch" @ Communion
+ACT-DUP(rec) "Karaoke" @ The Lamplighter
+ACT-DUP(rec) "Tuesday Night Trivia" @ The Lamplighter
+ACT-DUP(rec) "Bottle Service" @ The Lamplighter
+ACT-SKIP la-puerta-mission-hills "Taco Tuesday" (no coords/start)
+ACT-DUP(rec) "Weekend Screenings" @ Cinema Under The Stars
+ACT-DUP(date) "The Birds (1963)" @ Cinema Under The Stars 2026-09-25
+ACT-DUP(date) "The Birds (1963)" @ Cinema Under The Stars 2026-09-26
+ACT-DUP(date) "The Birds (1963)" @ Cinema Under The Stars 2026-09-27
+ACT-DUP(date) "Beetlejuice (1988)" @ Cinema Under The Stars 2026-10-02
+ACT-DUP(date) "Beetlejuice (1988)" @ Cinema Under The Stars 2026-10-04
+ACT-DUP(date) "San Diego Halloween Film Festival" @ Cinema Under The Stars 2026-10-31
+ACT-DUP(date) "Warren Miller Ski Night 2026" @ Cinema Under The Stars 2026-12-04
+ACT-SKIP mission-hills-business-improvement-district "Taste of Mission Hills 2026" (no coords/start)
+ACT-SKIP mission-hills-business-improvement-district "BID Annual Meeting & 2027 Board of Directors Election" (no coords/start)
+ACT-SKIP mission-hills-business-improvement-district "Shop Small in Mission Hills" (no coords/start)
+ACT-SKIP mission-hills-town-council "Town Hall Meeting" (no coords/start)
+ACT-SKIP mission-hills-town-council "Board of Trustees Meeting" (no coords/start)
+ACT-SKIP mission-hills-town-council "Board of Trustees Meeting" (no coords/start)
+ACT-DUP(date) "300 Hour Yoga Teacher Training" @ Yoga One 2026-10-02

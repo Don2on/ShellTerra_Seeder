@@ -1,0 +1,2079 @@
+{
+  "generated": "2026-09-23",
+  "neighborhood": "Mission Hills, San Diego (92103)",
+  "sources": [
+    "venue websites",
+    "Instagram (logged-in browse)",
+    "Eventbrite",
+    "Mission Hills BID",
+    "Mission Hills Town Council",
+    "third-party listings where noted"
+  ],
+  "schema": {
+    "happyHours": "recurring food and drink deals",
+    "activities": "things to attend; recurring=true uses days+start, recurring=false uses date+start",
+    "deferred": "known events with no confirmed forward date; do not seed"
+  },
+  "vendors": [
+    {
+      "slug": "aero-club-bar",
+      "name": "Aero Club Bar",
+      "category": "Dive bar / whiskey bar",
+      "address": "3365 India St, San Diego, CA 92103",
+      "website": "https://aeroclubbar.com/",
+      "instagram": "@aeroclubbar",
+      "phone": "(619) 297-7211",
+      "hours": "MO-TH 14:00-02:00; FR-SU 12:00-02:00",
+      "tagline": "Whiskey dive bar with a 1,200+ bottle wall and the Dyno Bar arcade",
+      "isNew": false,
+      "siteNotes": "Open. Weekly specials rotate the featured brand, so the brands named in the deals below are from the Sept 7 IG flyer and will change. Pinball tournament dates are announced only on Instagram."
+    },
+    {
+      "slug": "shakespeare-pub-grille",
+      "name": "Shakespeare Pub & Grille",
+      "category": "British pub / restaurant",
+      "address": "3701 India St, San Diego, CA 92103",
+      "website": "https://www.shakespearepub.com/",
+      "instagram": "@shakespearepub",
+      "phone": "(619) 299-0230",
+      "hours": "MO-TH 10:30-22:30; FR 10:30-23:30; SA 08:00-23:30; SU 08:00-21:30",
+      "tagline": "Voted best fish and chips in San Diego",
+      "isNew": false,
+      "siteNotes": "Open. Daily themed food specials are named on the homepage but no times or prices are published for them, so they carry empty deals. /events and /events-specials return 404."
+    },
+    {
+      "slug": "wine-vault-bistro",
+      "name": "Wine Vault & Bistro",
+      "category": "Wine bar / prix-fixe bistro",
+      "address": "3731 India St #A (upstairs), San Diego, CA 92103",
+      "website": "https://www.winevaultbistro.com/",
+      "instagram": "",
+      "phone": "(619) 295-3939",
+      "hours": "Dinner on weekends with a scheduled dinner only; otherwise closed",
+      "tagline": "Multi-course winemaker dinners with a pairing for every course, 21+",
+      "isNew": false,
+      "siteNotes": "Open by event only, no happy hour. Dates live in a Google Calendar iframe that resists scraping; the calendar was opened in a browser and September showed a Stolpman dinner and a SOLD OUT Oct 3 entry, which corroborates the Daou date. The Oct 4, 10, 11 and 24 dinners below carry over from the Sept 11 research and were NOT re-confirmed. Call 619-295-3939 before publishing."
+    },
+    {
+      "slug": "national-comedy-theatre",
+      "name": "National Comedy Theatre",
+      "category": "Improv comedy theatre",
+      "address": "3717 India St, San Diego, CA 92103",
+      "website": "https://nationalcomedy.com/",
+      "instagram": "@NCTSanDiego",
+      "phone": "(619) 295-4999",
+      "hours": "Show nights Thursday to Sunday, shows at 19:30",
+      "tagline": "San Diego's longest-running professional improv show, since 1999",
+      "isNew": false,
+      "siteNotes": "Open. Ticket prices are not published on the site; the calendar loads through an external ticketing widget that could not be read. A tourism listing gives a $20-$25 range for Mainstage and $18 for Sunday Company, unverified."
+    },
+    {
+      "slug": "pizza-e-birra",
+      "name": "Pizza e Birra",
+      "category": "Pizzeria / Italian",
+      "address": "3625 India St Ste 101, San Diego, CA 92103",
+      "website": "https://pizzaebirrasandiego.com/",
+      "instagram": "@pizzaebirrasandiego",
+      "phone": "(619) 550-5796",
+      "hours": "MO closed; TU-TH 11:00-21:00; FR-SA 11:00-22:00; SU 11:00-21:00",
+      "tagline": "Neapolitan pizza and beer on India Street",
+      "isNew": false,
+      "siteNotes": "Open. The happy hour page is explicit. The site advertises a 9-year anniversary on October 1 but publishes no time or detail. /events/ returns 404."
+    },
+    {
+      "slug": "shakespeares-corner-shoppe",
+      "name": "Shakespeare's Corner Shoppe",
+      "category": "British grocery & gift shop",
+      "address": "3719 India St, San Diego, CA 92103",
+      "website": "https://www.britishshoppesandiego.com/",
+      "instagram": "",
+      "phone": "(619) 683-2748",
+      "hours": "SU-TH 10:00-19:00; FR-SA 10:00-20:00",
+      "tagline": "British import grocery, pies and gifts",
+      "isNew": false,
+      "siteNotes": "Open. Retail only, no alcohol and no happy hour. IMPORTANT CHANGE: the full afternoon tea service has MOVED to a separate venue, The Britannia Tearooms, so tea seatings should no longer be listed at this address."
+    },
+    {
+      "slug": "gelato-vero-caffe",
+      "name": "Gelato Vero Caffe",
+      "category": "Gelateria / cafe",
+      "address": "3753 India St, San Diego, CA 92103",
+      "website": "https://www.gelatoverocaffe.com/",
+      "instagram": "@gelatoverocaffe",
+      "phone": "(619) 295-9269",
+      "hours": "MO-FR 06:00-21:00; SA-SU 07:00-21:00",
+      "tagline": "India Street's long-running gelato and espresso corner",
+      "isNew": true,
+      "siteNotes": "Open. No happy hour, specials or events anywhere on the venue's own site. NOTE: this venue was previously researched as a Hillcrest candidate and ruled out; it belongs to Mission Hills."
+    },
+    {
+      "slug": "el-indio",
+      "name": "El Indio",
+      "category": "Mexican restaurant",
+      "address": "3695 India St, San Diego, CA 92103",
+      "website": "https://elindiosandiego.com/",
+      "instagram": "@elindiomexicanrestaurant",
+      "phone": "(619) 299-0333",
+      "hours": "MO-FR 09:00-20:00; SA-SU 08:00-20:00",
+      "tagline": "San Diego institution since 1940, home of the original taquito",
+      "isNew": true,
+      "siteNotes": "Open. The homepage links to a specials page but elindiosandiego.com/specials/ returns 404 and no happy hour days, times or prices appear anywhere on the venue's own site."
+    },
+    {
+      "slug": "saffron-thai",
+      "name": "Saffron Thai",
+      "category": "Thai restaurant",
+      "address": "3737 India St, San Diego, CA 92103",
+      "website": "https://saffronthai.com/",
+      "instagram": "",
+      "phone": "(619) 574-7737",
+      "hours": "Daily 11:00-20:45",
+      "tagline": "Su-Mei Yu's India Street Thai grill and noodle house",
+      "isNew": true,
+      "siteNotes": "Open. saffronthai.com blocks automated fetching, so hours come from the restaurant's own Toast ordering page, which lists the address as 3731 India St even though signage uses 3737. No happy hour verifiable."
+    },
+    {
+      "slug": "blue-water-seafood-market-grill",
+      "name": "Blue Water Seafood Market & Grill",
+      "category": "Seafood market & grill",
+      "address": "3667 India St, San Diego, CA 92103",
+      "website": "https://bluewaterseafoodsandiego.com/",
+      "instagram": "@bluewaterseafoodsd",
+      "phone": "(619) 497-0914",
+      "hours": "MO-TH 11:30-20:00; FR-SU 11:30-21:00",
+      "tagline": "Fish straight off the boat, as seen on Diners, Drive-Ins and Dives",
+      "isNew": true,
+      "siteNotes": "Open. Counter service. The venue's own site lists no happy hour, events or specials."
+    },
+    {
+      "slug": "starlite",
+      "name": "Starlite",
+      "category": "Cocktail bar / gastropub",
+      "address": "3175 India St, San Diego, CA 92103",
+      "website": "https://www.starlitesandiego.com/",
+      "instagram": "@starlitesd",
+      "phone": "(619) 358-9766",
+      "hours": "SU-WE 17:00-01:00; TH-SA 17:00-02:00; 21+",
+      "tagline": "The hexagonal cocktail room on India Street",
+      "isNew": true,
+      "siteNotes": "Open. CONFLICT RESOLVED TOWARD IG: the website's About page says closed Sunday and Monday, but the Instagram bio gives Sun-Wed 5pm-1am and Thu-Sat 5pm-2am. The website was returning a Cloudflare 521 (server down) at time of research, so the IG hours are used. The happy hour below is third-party only and could not be checked against the venue's own page. IG bio also advertises vinyl selectors every weekend, with no days or times given."
+    },
+    {
+      "slug": "communion",
+      "name": "Communion",
+      "category": "Rooftop restaurant & bar",
+      "address": "901 W Washington St, San Diego, CA 92103",
+      "website": "https://www.dinecommunionsd.com/",
+      "instagram": "@dinecommunion",
+      "phone": "619-606-5568",
+      "hours": "Dinner daily from 16:00; Sunday brunch 10:00-14:00",
+      "tagline": "Rooftop dining and cocktails in Mission Hills",
+      "isNew": false,
+      "siteNotes": "Open. Happy hour times are published but the itemized menu is a linked PDF that could not be parsed, so no deal items are listed. Eventbrite carries three near-duplicate listings of the same Sept 30 singles mixer; only one is kept here."
+    },
+    {
+      "slug": "the-lamplighter",
+      "name": "The Lamplighter",
+      "category": "Karaoke bar",
+      "address": "817 W Washington St, San Diego, CA 92103",
+      "website": "https://www.thelamplightersd.com/",
+      "instagram": "@thelamplightersd",
+      "phone": "(619) 298-3624",
+      "hours": "Daily 06:00-02:00",
+      "tagline": "Cocktails & Karaoke",
+      "isNew": false,
+      "siteNotes": "Open. Cash only with ATMs on site. NO happy hour is published anywhere on the official site, so none is listed."
+    },
+    {
+      "slug": "the-red-door-restaurant-wine-bar",
+      "name": "The Red Door Restaurant & Wine Bar",
+      "category": "Italian restaurant & wine bar",
+      "address": "741 W Washington St, San Diego, CA 92103",
+      "website": "https://thereddoorsd.com/",
+      "instagram": "@reddoorsd",
+      "phone": "(619) 295-6000",
+      "hours": "MO-TH 17:00-21:00; FR-SA 17:00-22:00; SU 11:30-21:00",
+      "tagline": "Italian restaurant and wine bar in Mission Hills",
+      "isNew": true,
+      "siteNotes": "Open. No traditional happy hour; the Specials page lists half-off wine nights instead. CONFLICT on the venue's own site: the Specials page says brunch is Saturday and Sunday 10:00-14:30 while the homepage hours show Saturday opening at 17:00. The Events page reads 'Red Door events coming soon!'. The adjacent Bar by Red Door shares this address; its own domain could not be fetched."
+    },
+    {
+      "slug": "la-puerta-mission-hills",
+      "name": "La Puerta Mission Hills",
+      "category": "Mexican restaurant & tequila bar",
+      "address": "4020 Goldfinch St, San Diego, CA 92103",
+      "website": "https://lapuertasd.com/",
+      "instagram": "@lapuertasd",
+      "phone": "619-876-5200",
+      "hours": "MO-TH 11:00-22:30; FR 11:00-23:00; SA 09:00-23:00; SU 09:00-22:30",
+      "tagline": "Mexican food, tequila and mezcal",
+      "isNew": false,
+      "siteNotes": "Open. IMPORTANT: lapuertasd.com/happy-hour lists itemized deals (half-off Monday, $3 Taco Tuesday, late-night specials) but that page shows ONLY the Downtown/Gaslamp address, so those deals are NOT applied here. The only Mission Hills happy hour statement on the site is '3-5 daily' printed next to the Goldfinch address. The owners are also taking over the former Harley Gray space on W Washington for a new concept."
+    },
+    {
+      "slug": "cinema-under-the-stars",
+      "name": "Cinema Under The Stars",
+      "category": "Outdoor movie theater",
+      "address": "4040 Goldfinch St, San Diego, CA 92103",
+      "website": "https://www.topspresents.com/",
+      "instagram": "",
+      "phone": "619-295-4221",
+      "hours": "Screenings at 20:00 on scheduled nights, typically Friday to Sunday",
+      "tagline": "San Diego's open-air movie theater",
+      "isNew": false,
+      "siteNotes": "Open. Ticket prices could NOT be confirmed on the venue's own site (films.php, information.php and membership.php all returned HTTP 409). A KPBS listing gives $17 members, $18 at the box office, $20 booking online, plus $125 annual membership for two; treat as indicative. Saturday Oct 3 is a private rental with no public access and is excluded."
+    },
+    {
+      "slug": "fort-oak",
+      "name": "Fort Oak",
+      "category": "New American restaurant & bar",
+      "address": "1011 Fort Stockton Dr, San Diego, CA 92103",
+      "website": "https://www.fortoaksd.com/",
+      "instagram": "@fortoaksd",
+      "phone": "619.722.3398",
+      "hours": "Dinner daily 17:00-close; closed Tuesday",
+      "tagline": "Wood-fired cooking in Mission Hills",
+      "isNew": false,
+      "siteNotes": "Open, closed Tuesdays. Happy hour and Oyster Monday menus are fully itemized on the venue's own site. Happy hour is walk-ins only."
+    },
+    {
+      "slug": "cardellino",
+      "name": "Cardellino",
+      "category": "Italian restaurant",
+      "address": "4033 Goldfinch St, San Diego, CA 92103",
+      "website": "https://www.cardellinosd.com/",
+      "instagram": "",
+      "phone": "(619) 600-5311",
+      "hours": "TU-SU 17:00-close; closed MO",
+      "tagline": "A midwest chophouse blended with an Italian trattoria",
+      "isNew": true,
+      "siteNotes": "Open. Happy hour times are stated but no deal items or prices are published."
+    },
+    {
+      "slug": "farmers-bottega",
+      "name": "Farmer's Bottega",
+      "category": "Farm-to-table restaurant",
+      "address": "860 W Washington St, San Diego, CA 92103",
+      "website": "https://www.farmersbottega.com/",
+      "instagram": "",
+      "phone": "(619) 458-9929",
+      "hours": "Brunch 08:00-14:00; dinner 16:00-21:00",
+      "tagline": "Mission Hills farm-to-table",
+      "isNew": true,
+      "siteNotes": "Open. CONFLICT on the venue's own site: the happy hour section says 16:00-18:00 while another part of the same page shows 3:30pm-5:30pm. The 16:00-18:00 figure is the one in the happy hour section and is used here. The /happy-hour/ and /menu/ URLs 404."
+    },
+    {
+      "slug": "longball-cocktail-club",
+      "name": "Longball Cocktail Club & Golf Simulator",
+      "category": "Cocktail bar / golf simulator",
+      "address": "4026 Hawk St A, San Diego, CA 92103",
+      "website": "",
+      "instagram": "",
+      "phone": "",
+      "hours": "",
+      "tagline": "Cocktails and golf simulator bays",
+      "isNew": true,
+      "siteNotes": "NEW VENUE, discovered via Eventbrite. It occupies 4026 Hawk St Suite A, the space vacated by the closed Thorn Brewing Mission Hills taproom. No official website or Instagram confirmed yet, and no hours or happy hour found. Worth a direct check."
+    },
+    {
+      "slug": "wolf-in-the-woods",
+      "name": "Wolf in the Woods",
+      "category": "Wine bar",
+      "address": "1920 Fort Stockton Dr Suite C, San Diego, CA 92103",
+      "website": "https://www.thewolfinthewoods.com/",
+      "instagram": "@wolfinthewoodsmissionhills",
+      "phone": "(619) 234-2597",
+      "hours": "TU-TH 16:00-21:00; FR-SA 16:00-21:30; closed SU, MO",
+      "tagline": "Curated old and new world wines and small plates",
+      "isNew": true,
+      "siteNotes": "Open. No happy hour and no recurring events published on the venue's own site."
+    },
+    {
+      "slug": "izakaya-masa",
+      "name": "Izakaya Masa",
+      "category": "Japanese izakaya",
+      "address": "928 Fort Stockton Dr, San Diego, CA 92103",
+      "website": "https://izakayamasa.com/",
+      "instagram": "",
+      "phone": "(619) 542-1354",
+      "hours": "TU, TH-SU 17:30-22:45; closed MO, WE",
+      "tagline": "Authentic Japanese izakaya since 2006",
+      "isNew": true,
+      "siteNotes": "Open. No take-out. No happy hour or events published."
+    },
+    {
+      "slug": "komatsuya",
+      "name": "Komatsuya",
+      "category": "Japanese kaiseki / omakase",
+      "address": "4015 Goldfinch St, San Diego, CA 92103",
+      "website": "https://www.komatsuya-sandiego.com/",
+      "instagram": "",
+      "phone": "(619) 705-9759",
+      "hours": "TH-MO 18:00-22:00, last seating 20:00; closed TU, WE",
+      "tagline": "Kaiseki-style omakase with natural wine and sake",
+      "isNew": true,
+      "siteNotes": "Open. Monthly changing menu; the site mentions pop-ups but publishes no dates and no happy hour."
+    },
+    {
+      "slug": "the-huddle",
+      "name": "The Huddle",
+      "category": "American diner",
+      "address": "4023 Goldfinch St, San Diego, CA 92103",
+      "website": "https://www.thehuddlerestaurant.com/",
+      "instagram": "",
+      "phone": "(619) 291-5950",
+      "hours": "MO-FR 07:00-13:30; SA-SU 08:00-13:00",
+      "tagline": "Where good friends meet",
+      "isNew": true,
+      "siteNotes": "Open. Breakfast and lunch only, so no happy hour. Promos appear only as graphics with no readable dates or prices."
+    },
+    {
+      "slug": "leftys-chicago-pizzeria",
+      "name": "Lefty's Chicago Pizzeria",
+      "category": "Pizzeria",
+      "address": "4030 Goldfinch St, San Diego, CA 92103",
+      "website": "https://leftyspizza.com/",
+      "instagram": "@leftyschicagopizzeria",
+      "phone": "(619) 299-4030",
+      "hours": "",
+      "tagline": "Chicago-style deep dish",
+      "isNew": true,
+      "siteNotes": "Open (address from the Mission Hills BID directory). The brand's own /mission-hills/ location page returns an error, so hours and any happy hour could not be verified first-party."
+    },
+    {
+      "slug": "what-de-health-thai",
+      "name": "What De Health Thai",
+      "category": "Thai restaurant",
+      "address": "928 Fort Stockton Dr Ste 101, San Diego, CA 92103",
+      "website": "https://www.whatdehealththai.com/",
+      "instagram": "@whatdehealththai",
+      "phone": "(619) 955-5777",
+      "hours": "TU-SU 11:00-21:00",
+      "tagline": "Light and fresh Thai cuisine",
+      "isNew": true,
+      "siteNotes": "Open. The venue's own site explicitly carries no happy hour or promotions."
+    },
+    {
+      "slug": "kettle-and-stone",
+      "name": "Kettle & Stone",
+      "category": "Coffee shop and cafe",
+      "address": "1619 W Lewis St, San Diego, CA 92103",
+      "website": "http://www.kettleandstonecafe.com/",
+      "instagram": "@kettleandstone",
+      "phone": "(619) 915-6051",
+      "hours": "MO-SA 07:00-14:00; SU 08:00-14:00",
+      "tagline": "West Lewis Street coffee and tea",
+      "isNew": true,
+      "siteNotes": "Open. Sells work by local artists in store but publishes no dated events. Phone conflict: the BID directory lists (619) 608-9822 while the venue's own site says (619) 915-6051."
+    },
+    {
+      "slug": "heartwork-coffee-bar",
+      "name": "Heartwork Coffee Bar",
+      "category": "Coffee shop and roaster",
+      "address": "3993 Goldfinch St, San Diego, CA 92103",
+      "website": "https://heartworkcoffeebar.com/",
+      "instagram": "@heartworkcoffeebar",
+      "phone": "(619) 293-3300",
+      "hours": "",
+      "tagline": "Locally roasted coffee and baked goods",
+      "isNew": true,
+      "siteNotes": "Open. The site confirms the Mission Hills location and offers special events by arrangement, but publishes no hours and no scheduled public events."
+    },
+    {
+      "slug": "meshuggah-shack",
+      "name": "Meshuggah Shack",
+      "category": "Coffee shop",
+      "address": "4048 Goldfinch St, San Diego, CA 92103",
+      "website": "",
+      "instagram": "@meshuggahshack",
+      "phone": "(619) 417-0014",
+      "hours": "",
+      "tagline": "Goldfinch coffee shack",
+      "isNew": true,
+      "siteNotes": "Open (BID directory). No independent website, only social, so hours and any events could not be verified first-party."
+    },
+    {
+      "slug": "venissimo-cheese",
+      "name": "Venissimo Cheese",
+      "category": "Cheese shop",
+      "address": "754 W Washington St, San Diego, CA 92103",
+      "website": "https://www.venissimo.com/",
+      "instagram": "",
+      "phone": "(619) 549-9352",
+      "hours": "",
+      "tagline": "Cheese from all over the world",
+      "isNew": true,
+      "siteNotes": "Open. The brand runs an Events & Classes section and advertises tastings, but both the homepage and events page returned only metadata, so no dated classes could be confirmed. Worth re-checking for cheese classes."
+    },
+    {
+      "slug": "m-theory-music",
+      "name": "M-Theory Music",
+      "category": "Record store",
+      "address": "827 W Washington St, San Diego, CA 92103",
+      "website": "https://www.mtheorymusic.com/",
+      "instagram": "",
+      "phone": "(619) 218-3013",
+      "hours": "",
+      "tagline": "Independent Mission Hills vinyl record store",
+      "isNew": true,
+      "siteNotes": "Open. Known for in-store performances and Record Store Day and listed as a venue on Songkick, but mtheorymusic.com blocks automated fetching, so no event dates could be verified. High-value candidate for a manual check."
+    },
+    {
+      "slug": "saltwater-sweat-co",
+      "name": "Saltwater Sweat Co",
+      "category": "Fitness studio",
+      "address": "1618 W Lewis St, San Diego, CA 92103",
+      "website": "https://www.saltwatersweat.com/",
+      "instagram": "",
+      "phone": "(619) 991-9174",
+      "hours": "",
+      "tagline": "Full-body group workouts",
+      "isNew": true,
+      "siteNotes": "Open. Offers GTS Pilates, fusion cycling, small group and 1-on-1 training and HIIT, but the class schedule lives entirely in the Walla booking app so no days or times are published."
+    },
+    {
+      "slug": "jos-mission-hills-diner",
+      "name": "Jo's Mission Hills Diner",
+      "category": "Diner",
+      "address": "807 W Washington St, San Diego, CA 92103",
+      "website": "",
+      "instagram": "",
+      "phone": "(619) 323-2035",
+      "hours": "",
+      "tagline": "Neighborhood diner",
+      "isNew": true,
+      "siteNotes": "Open (BID directory). No first-party website found, so hours, specials and events could not be verified."
+    },
+    {
+      "slug": "karinas-ceviches-and-more",
+      "name": "Karina's Ceviches & More",
+      "category": "Mexican seafood restaurant",
+      "address": "3731 India St Ste B, San Diego, CA 92103",
+      "website": "https://karinasgroup.com/",
+      "instagram": "",
+      "phone": "(619) 574-7737",
+      "hours": "",
+      "tagline": "Mexican seafood and ceviches",
+      "isNew": true,
+      "siteNotes": "Open (BID directory, listed there as Karina's Mexican Seafood). The chain publishes a happy hour PDF but it is explicitly for the Otay and Bonita locations only, so no Mission Hills happy hour is confirmed. Do not copy the Chula Vista deals here."
+    },
+    {
+      "slug": "rubicon-deli-mission-hills",
+      "name": "Rubicon Deli Mission Hills",
+      "category": "Deli / sandwich shop",
+      "address": "3715 India St, San Diego, CA 92103",
+      "website": "https://rubicondeli.com/",
+      "instagram": "",
+      "phone": "(858) 488-3354",
+      "hours": "",
+      "tagline": "Mission Hills sandwich deli",
+      "isNew": true,
+      "siteNotes": "Open (BID directory). No happy hour or events on the brand's locations page."
+    },
+    {
+      "slug": "mission-hills-business-improvement-district",
+      "name": "Mission Hills Business Improvement District",
+      "category": "Neighborhood organization",
+      "address": "Mission Hills, San Diego, CA 92103",
+      "website": "https://missionhillsbid.com/",
+      "instagram": "",
+      "phone": "",
+      "hours": "",
+      "tagline": "Happenings in the Hills",
+      "isNew": false,
+      "siteNotes": "Not a venue but the organizer of neighborhood-wide events. Its business directory is the best single source for Mission Hills businesses but is out of date, still listing the closed Thorn Brewing and including some W Washington addresses that are effectively Hillcrest. The BID's /calendar/ page is a Google Calendar iframe with no server-rendered text."
+    },
+    {
+      "slug": "mission-hills-town-council",
+      "name": "Mission Hills Town Council",
+      "category": "Neighborhood organization",
+      "address": "",
+      "website": "https://www.missionhillstowncouncil.org/",
+      "instagram": "",
+      "phone": "",
+      "hours": "",
+      "tagline": "",
+      "isNew": false,
+      "siteNotes": "Holds quarterly member meetings plus monthly Board of Trustees meetings. Board meets at Safdie Rabines Architects, Town Halls at Francis Parker Lower School; NO street addresses are published for either venue on the MHTC site, so any addresses in an older seed file were assumed, not sourced. The Special Events and Concerts pages both currently read 'No upcoming events found'. Only Oct, Nov and Dec 2026 meetings are published; do not extrapolate into 2027."
+    },
+    {
+      "slug": "radiance-yoga-center",
+      "name": "Radiance Yoga & Therapeutic Exercise Center",
+      "category": "Yoga studio",
+      "address": "1612 W Lewis St, San Diego, CA 92103",
+      "website": "https://radyoga.com/",
+      "instagram": "",
+      "phone": "(619) 299-1443",
+      "hours": "",
+      "tagline": "Family owned yoga studio in San Diego since 1975",
+      "isNew": false,
+      "siteNotes": "Open. radyoga.com is fully JavaScript-rendered and returns only meta tags, so no class schedule, studio hours or workshop prices could be read first-party; everything dated below comes from Eventbrite. CAUTION: radiance-yoga.net is an UNRELATED studio in Alexandria, Virginia. Eventbrite also lists this venue under two spellings with slightly different pins, so pick one canonical record."
+    },
+    {
+      "slug": "yoga-one",
+      "name": "Yoga One",
+      "category": "Yoga studio",
+      "address": "1920 Fort Stockton Dr, San Diego, CA 92103",
+      "website": "https://www.yogaonesandiego.com/",
+      "instagram": "@yogaonesandiego",
+      "phone": "",
+      "hours": "",
+      "tagline": "",
+      "isNew": true,
+      "siteNotes": "Open. The /schedule page publishes no class days or times and defers to an external MindBody portal; most classes are hybrid. No phone published. Not listed in the BID directory."
+    },
+    {
+      "slug": "mission-hills-nursery",
+      "name": "Mission Hills Nursery",
+      "category": "Garden centre",
+      "address": "1525 Fort Stockton Dr, San Diego, CA 92103",
+      "website": "https://www.missionhillsnursery.com/",
+      "instagram": "@missionhillsnursery",
+      "phone": "619.295.2808",
+      "hours": "Daily 08:00-17:00",
+      "tagline": "Your one-stop destination for all things green and blooming",
+      "isNew": true,
+      "siteNotes": "Open. The FAQ says it runs Tomatomania, seasonal decor workshops and crafting sessions through the year, but the /event-list page is stale, showing only Tomatomania March 2025. Nothing on or after 2026-09-23 is published."
+    },
+    {
+      "slug": "pioneer-park",
+      "name": "Pioneer Park",
+      "category": "Park",
+      "address": "1521 Washington Place, San Diego, CA 92103",
+      "website": "https://www.sandiego.gov/park-and-recreation/parks/regional/presidio/missionhills",
+      "instagram": "",
+      "phone": "",
+      "hours": "Daily 06:00-dusk",
+      "tagline": "",
+      "isNew": true,
+      "siteNotes": "Grass area, playground, tennis courts across the street, restroom, small lot plus street parking. Reservable for picnics and weddings, capacity 300; no inflatables or glass, food permitted. The City page lists NO recurring programming. The Town Council's Concerts in the Park run here but have no published dates."
+    },
+    {
+      "slug": "harley-gray-kitchen-bar",
+      "name": "Harley Gray Kitchen & Bar",
+      "category": "New American restaurant",
+      "address": "902 W Washington St, San Diego, CA 92103",
+      "website": "",
+      "instagram": "",
+      "phone": "",
+      "hours": "",
+      "tagline": "",
+      "isNew": false,
+      "siteNotes": "CLOSED permanently on December 19, 2025 after 12 years. NOTE its address was 902 W Washington St, not 4040 Goldfinch St (that is Cinema Under The Stars). The space is being taken over by the La Puerta owners for a new, unnamed Mission Hills concept. Do not publish."
+    },
+    {
+      "slug": "thorn-brewing-mission-hills",
+      "name": "Thorn Brewing Mission Hills",
+      "category": "Brewery taproom",
+      "address": "4026 Hawk St Suite A, San Diego, CA 92103",
+      "website": "",
+      "instagram": "",
+      "phone": "",
+      "hours": "",
+      "tagline": "",
+      "isNew": false,
+      "siteNotes": "CLOSED. Still listed in the BID directory, which is out of date. The space is now Longball Cocktail Club & Golf Simulator. Do not publish."
+    },
+    {
+      "slug": "the-den-in-mission-hills",
+      "name": "The Den in Mission Hills",
+      "category": "Unconfirmed",
+      "address": "928 Fort Stockton Dr, San Diego, CA 92103 (unconfirmed)",
+      "website": "",
+      "instagram": "",
+      "phone": "",
+      "hours": "",
+      "tagline": "",
+      "isNew": false,
+      "siteNotes": "COULD NOT VERIFY THIS VENUE EXISTS. No website, Instagram or directory listing was found. The BID directory lists Izakaya Masa and What De Health Thai at 928 Fort Stockton Dr, not 'The Den'. An older seed file placed an AI & Tea Salon here on Sept 11, which has passed. Confirm the venue name before listing."
+    },
+    {
+      "slug": "mission-hills-venue-old-town",
+      "name": "'Mission Hills Venue' (Old Town)",
+      "category": "Event space",
+      "address": "1919 San Diego Ave, San Diego, CA 92110",
+      "website": "",
+      "instagram": "",
+      "phone": "",
+      "hours": "",
+      "tagline": "",
+      "isNew": false,
+      "siteNotes": "OUT OF AREA, name is a trap. This venue is literally called 'Mission Hills Venue' but sits in Old Town, 92110. Eventbrite lists its events (9D Breathwork Oct 10, Friday Social Sessions Oct 2) under Mission Hills. Do not seed them here."
+    },
+    {
+      "slug": "spin-nightclub",
+      "name": "Spin Nightclub",
+      "category": "Nightclub",
+      "address": "2028 Hancock St, San Diego, CA 92110",
+      "website": "",
+      "instagram": "",
+      "phone": "",
+      "hours": "",
+      "tagline": "",
+      "isNew": false,
+      "siteNotes": "OUT OF AREA. Hancock St is 92110 (Midway/Old Town), not Mission Hills. Eventbrite tags its events, and the Manhattan Men revue, as Mission Hills. Do not seed them here."
+    },
+    {
+      "slug": "cueva-bar",
+      "name": "Cueva Bar",
+      "category": "Tapas bar",
+      "address": "2123 Adams Ave, San Diego, CA 92116",
+      "website": "",
+      "instagram": "",
+      "phone": "",
+      "hours": "",
+      "tagline": "",
+      "isNew": false,
+      "siteNotes": "OUT OF AREA. University Heights, 92116. Do not re-research."
+    },
+    {
+      "slug": "meze-greek-fusion",
+      "name": "Meze Greek Fusion",
+      "category": "Greek restaurant",
+      "address": "345 6th Ave, San Diego, CA 92101",
+      "website": "",
+      "instagram": "",
+      "phone": "",
+      "hours": "",
+      "tagline": "",
+      "isNew": false,
+      "siteNotes": "OUT OF AREA. Gaslamp Quarter, 92101. Do not re-research."
+    },
+    {
+      "slug": "piacere-mio",
+      "name": "Piacere Mio",
+      "category": "Italian restaurant",
+      "address": "1947 Fern St, San Diego, CA 92102",
+      "website": "",
+      "instagram": "",
+      "phone": "",
+      "hours": "",
+      "tagline": "",
+      "isNew": false,
+      "siteNotes": "OUT OF AREA. South Park and Del Sur only; no Mission Hills location exists. Do not re-research."
+    },
+    {
+      "slug": "trattoria-ponte-vecchio",
+      "name": "Trattoria Ponte Vecchio",
+      "category": "Italian restaurant",
+      "address": "2334 Carmel Valley Rd, Del Mar, CA 92014",
+      "website": "",
+      "instagram": "",
+      "phone": "",
+      "hours": "",
+      "tagline": "",
+      "isNew": false,
+      "siteNotes": "CLOSED and OUT OF AREA. Was in Del Mar. Do not re-research."
+    },
+    {
+      "slug": "saiko-sushi",
+      "name": "Saiko Sushi",
+      "category": "Sushi restaurant",
+      "address": "Coronado, CA",
+      "website": "",
+      "instagram": "",
+      "phone": "",
+      "hours": "",
+      "tagline": "",
+      "isNew": false,
+      "siteNotes": "OUT OF AREA. Coronado only; the North Park location closed. Do not re-research."
+    },
+    {
+      "slug": "bird-rock-coffee-roasters",
+      "name": "Bird Rock Coffee Roasters",
+      "category": "Coffee roaster",
+      "address": "Multiple San Diego locations",
+      "website": "",
+      "instagram": "",
+      "phone": "",
+      "hours": "",
+      "tagline": "",
+      "isNew": false,
+      "siteNotes": "OUT OF AREA. The official cafe list has no Mission Hills location. Do not re-research."
+    },
+    {
+      "slug": "better-buzz-coffee",
+      "name": "Better Buzz Coffee",
+      "category": "Coffee shop",
+      "address": "Hillcrest, San Diego, CA",
+      "website": "",
+      "instagram": "",
+      "phone": "",
+      "hours": "",
+      "tagline": "",
+      "isNew": false,
+      "siteNotes": "OUT OF AREA. Nearest store is Hillcrest. Do not re-research."
+    }
+  ],
+  "happyHours": [
+    {
+      "venueSlug": "aero-club-bar",
+      "label": "Happy Hour",
+      "days": [
+        "MO",
+        "TU",
+        "WE",
+        "TH"
+      ],
+      "start": "14:00",
+      "end": "19:00",
+      "deals": [
+        "All beers $5",
+        "All wells $5",
+        "All house wines $5"
+      ],
+      "source": "https://aeroclubbar.com/happenings",
+      "verified": true
+    },
+    {
+      "venueSlug": "aero-club-bar",
+      "label": "Happy Hour (weekend)",
+      "days": [
+        "FR",
+        "SA",
+        "SU"
+      ],
+      "start": "12:00",
+      "end": "19:00",
+      "deals": [
+        "All beers $5",
+        "All wells $5",
+        "All house wines $5"
+      ],
+      "source": "https://aeroclubbar.com/happenings",
+      "verified": true
+    },
+    {
+      "venueSlug": "aero-club-bar",
+      "label": "Tequila Tuesday",
+      "days": [
+        "TU"
+      ],
+      "start": "14:00",
+      "end": "02:00",
+      "deals": [
+        "Featured tequila $5 single / $8 double all day (brand rotates; Gran Centenario on the Sept 7 flyer)",
+        "Margarita specials"
+      ],
+      "source": "https://www.instagram.com/aeroclubbar/p/Dc-h8FzMs-8/",
+      "verified": true
+    },
+    {
+      "venueSlug": "aero-club-bar",
+      "label": "Whiskey Wednesday",
+      "days": [
+        "WE"
+      ],
+      "start": "14:00",
+      "end": "02:00",
+      "deals": [
+        "Featured whiskey $5 single / $8 double (brand rotates; Woodinville bourbon, rye and apple stave on the Sept 7 flyer)",
+        "Pours from the 1,200+ bottle whiskey wall"
+      ],
+      "source": "https://www.instagram.com/aeroclubbar/p/Dc-h8FzMs-8/",
+      "verified": true
+    },
+    {
+      "venueSlug": "aero-club-bar",
+      "label": "Four Roses Friday",
+      "days": [
+        "FR"
+      ],
+      "start": "",
+      "end": "",
+      "deals": [
+        "$4 Four Roses shots"
+      ],
+      "source": "https://www.instagram.com/aeroclubbar/p/Dc-h8FzMs-8/",
+      "verified": true
+    },
+    {
+      "venueSlug": "aero-club-bar",
+      "label": "Red Zone Wings",
+      "days": [
+        "SU"
+      ],
+      "start": "13:00",
+      "end": "",
+      "deals": [
+        "Free wings during NFL season, while they last"
+      ],
+      "source": "https://aeroclubbar.com/happenings",
+      "verified": true
+    },
+    {
+      "venueSlug": "shakespeare-pub-grille",
+      "label": "Happy Hour",
+      "days": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "start": "15:00",
+      "end": "18:00",
+      "deals": [
+        "Draught pints $1 off (excludes cask ale, Black Velvets and the $6.50 Anytime selection)",
+        "Well liquor $5.50",
+        "House wine $5.00",
+        "Bottled beer $1 off"
+      ],
+      "source": "https://www.shakespearepub.com/happy-hour",
+      "verified": true
+    },
+    {
+      "venueSlug": "shakespeare-pub-grille",
+      "label": "Burger Me Monday",
+      "days": [
+        "MO"
+      ],
+      "start": "",
+      "end": "",
+      "deals": [
+        "Daily themed special; no time or price published"
+      ],
+      "source": "https://www.shakespearepub.com/",
+      "verified": true
+    },
+    {
+      "venueSlug": "shakespeare-pub-grille",
+      "label": "Guinness Beef Stew Tuesday",
+      "days": [
+        "TU"
+      ],
+      "start": "",
+      "end": "",
+      "deals": [
+        "Daily themed special; no time or price published"
+      ],
+      "source": "https://www.shakespearepub.com/",
+      "verified": true
+    },
+    {
+      "venueSlug": "shakespeare-pub-grille",
+      "label": "Wine Wednesday",
+      "days": [
+        "WE"
+      ],
+      "start": "",
+      "end": "",
+      "deals": [
+        "Daily themed special; no time or price published"
+      ],
+      "source": "https://www.shakespearepub.com/",
+      "verified": true
+    },
+    {
+      "venueSlug": "shakespeare-pub-grille",
+      "label": "Tikka Thursday",
+      "days": [
+        "TH"
+      ],
+      "start": "",
+      "end": "",
+      "deals": [
+        "Daily themed special; no time or price published"
+      ],
+      "source": "https://www.shakespearepub.com/",
+      "verified": true
+    },
+    {
+      "venueSlug": "shakespeare-pub-grille",
+      "label": "Fish Friday",
+      "days": [
+        "FR"
+      ],
+      "start": "",
+      "end": "",
+      "deals": [
+        "Daily themed special; no time or price published"
+      ],
+      "source": "https://www.shakespearepub.com/",
+      "verified": true
+    },
+    {
+      "venueSlug": "pizza-e-birra",
+      "label": "Happy Hour",
+      "days": [
+        "TU",
+        "WE",
+        "SU"
+      ],
+      "start": "",
+      "end": "",
+      "deals": [
+        "$12 any one of: 6 wings, fried goat cheese, bruschetta, meatball app, cheesy garlic bread, pizza fries",
+        "$5 off any small pizza",
+        "$7 all drafts",
+        "$6 rotating draft",
+        "Dine-in only",
+        "Tuesday and Wednesday, plus all day Sunday"
+      ],
+      "source": "https://pizzaebirrasandiego.com/happy-hour/",
+      "verified": true
+    },
+    {
+      "venueSlug": "pizza-e-birra",
+      "label": "Thursday Happy Hour",
+      "days": [
+        "TH"
+      ],
+      "start": "15:00",
+      "end": "21:00",
+      "deals": [
+        "$12 any one of: 6 wings, fried goat cheese, bruschetta, meatball app, cheesy garlic bread, pizza fries",
+        "$5 off any small pizza",
+        "$7 all drafts",
+        "$6 rotating draft",
+        "Dine-in only",
+        "3pm to close"
+      ],
+      "source": "https://pizzaebirrasandiego.com/happy-hour/",
+      "verified": true
+    },
+    {
+      "venueSlug": "pizza-e-birra",
+      "label": "Daily Lunch Special",
+      "days": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR",
+        "SA",
+        "SU"
+      ],
+      "start": "11:00",
+      "end": "15:30",
+      "deals": [
+        "$15.50 plus tax"
+      ],
+      "source": "https://pizzaebirrasandiego.com/",
+      "verified": true
+    },
+    {
+      "venueSlug": "starlite",
+      "label": "Happy Hour",
+      "days": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR",
+        "SA",
+        "SU"
+      ],
+      "start": "17:00",
+      "end": "19:00",
+      "deals": [
+        "$5 draft beers",
+        "$5 well drinks",
+        "$2 off specialty cocktails",
+        "$5 chickpea battered greens",
+        "$5 coffee rubbed pulled pork toast",
+        "$5 happy snack of the day"
+      ],
+      "source": "https://thehappyhourfinder.com/us_ca/san-diego/starlite/",
+      "verified": false
+    },
+    {
+      "venueSlug": "starlite",
+      "label": "Kentucky Colonel Wednesday",
+      "days": [
+        "WE"
+      ],
+      "start": "17:00",
+      "end": "00:00",
+      "deals": [
+        "$8 Kentucky Colonels all night"
+      ],
+      "source": "https://thehappyhourfinder.com/us_ca/san-diego/starlite/",
+      "verified": false
+    },
+    {
+      "venueSlug": "communion",
+      "label": "Daily Happy Hour",
+      "days": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR",
+        "SA",
+        "SU"
+      ],
+      "start": "16:00",
+      "end": "18:00",
+      "deals": [
+        "Itemized deals are in a PDF on the venue's menu page and could not be read"
+      ],
+      "source": "https://www.dinecommunionsd.com/",
+      "verified": true
+    },
+    {
+      "venueSlug": "communion",
+      "label": "All Night Happy Hour",
+      "days": [
+        "MO"
+      ],
+      "start": "16:00",
+      "end": "",
+      "deals": [
+        "Happy hour pricing all night Monday"
+      ],
+      "source": "https://www.dinecommunionsd.com/",
+      "verified": true
+    },
+    {
+      "venueSlug": "the-red-door-restaurant-wine-bar",
+      "label": "Half Off Select Wines (restaurant)",
+      "days": [
+        "TU"
+      ],
+      "start": "",
+      "end": "",
+      "deals": [
+        "Half off select wines in the restaurant"
+      ],
+      "source": "https://thereddoorsd.com/specials/",
+      "verified": true
+    },
+    {
+      "venueSlug": "the-red-door-restaurant-wine-bar",
+      "label": "Half Off Select Wines (Bar by Red Door)",
+      "days": [
+        "WE"
+      ],
+      "start": "",
+      "end": "",
+      "deals": [
+        "Half off select wines at the bar"
+      ],
+      "source": "https://thereddoorsd.com/specials/",
+      "verified": true
+    },
+    {
+      "venueSlug": "la-puerta-mission-hills",
+      "label": "Happy Hour",
+      "days": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR",
+        "SA",
+        "SU"
+      ],
+      "start": "15:00",
+      "end": "17:00",
+      "deals": [
+        "'Happy Hour: 3-5 daily' is the only statement published for this location; no items or prices"
+      ],
+      "source": "https://lapuertasd.com/",
+      "verified": true
+    },
+    {
+      "venueSlug": "fort-oak",
+      "label": "Happy Hour",
+      "days": [
+        "WE",
+        "TH",
+        "FR",
+        "SA",
+        "SU"
+      ],
+      "start": "16:00",
+      "end": "18:00",
+      "deals": [
+        "Crispy fried chicken wings $15",
+        "Broiled oysters $16",
+        "Baja shrimp cocktail $13",
+        "Esquites $11",
+        "Refried bean dip $12",
+        "Al pastor tostada $10",
+        "Wagyu longaniza $11",
+        "Burger $21",
+        "Kennebec fries $8",
+        "Lemon Drop, Gimlet, Margarita, Old Fashioned, Espresso Martini $10 each",
+        "Scarpetta Rosato / Bianco / Rosso $10 glass, $40 bottle",
+        "NON1 spirit-free $10",
+        "Pure Project Rain pilsner, Societe Harlot blonde, Coronado Weekend Vibes IPA, Athletic Upside Dawn N/A $6 each",
+        "Walk-ins only, no reservations during happy hour"
+      ],
+      "source": "https://www.fortoaksd.com/happy-hour",
+      "verified": true
+    },
+    {
+      "venueSlug": "fort-oak",
+      "label": "Oyster Monday",
+      "days": [
+        "MO"
+      ],
+      "start": "16:00",
+      "end": "18:00",
+      "deals": [
+        "Oysters on the half shell $1 each, by the half dozen or dozen",
+        "Gin + Tonic $10",
+        "Hugo Spritz $10",
+        "Dirty Martini $12",
+        "Gibson $12",
+        "Scarpetta Rosato $10 glass / $40 bottle",
+        "Taittinger Champagne 375ml $35"
+      ],
+      "source": "https://www.fortoaksd.com/oyster-monday",
+      "verified": true
+    },
+    {
+      "venueSlug": "cardellino",
+      "label": "Happy Hour",
+      "days": [
+        "TU",
+        "WE",
+        "TH",
+        "FR",
+        "SA",
+        "SU"
+      ],
+      "start": "17:00",
+      "end": "18:00",
+      "deals": [
+        "Times published; no items or prices on the venue's site"
+      ],
+      "source": "https://www.cardellinosd.com/contact",
+      "verified": true
+    },
+    {
+      "venueSlug": "farmers-bottega",
+      "label": "Happy Hour",
+      "days": [
+        "SU",
+        "MO",
+        "TU",
+        "WE",
+        "TH"
+      ],
+      "start": "16:00",
+      "end": "18:00",
+      "deals": [
+        "Draft beers $6",
+        "Happy hour appetizers including mussels, flatbreads and salads"
+      ],
+      "source": "https://www.farmersbottega.com/news/happy-hour-in-san-diegos-mission-hills-at-farmers-bottega/",
+      "verified": true
+    },
+    {
+      "venueSlug": "farmers-bottega",
+      "label": "Wine Thursdays",
+      "days": [
+        "TH"
+      ],
+      "start": "",
+      "end": "",
+      "deals": [
+        "50% off select bottles of wine, dine-in"
+      ],
+      "source": "https://www.farmersbottega.com/",
+      "verified": true
+    },
+    {
+      "venueSlug": "farmers-bottega",
+      "label": "Monday Date Night",
+      "days": [
+        "MO"
+      ],
+      "start": "",
+      "end": "",
+      "deals": [
+        "Date night pricing menu"
+      ],
+      "source": "https://www.farmersbottega.com/",
+      "verified": true
+    }
+  ],
+  "activities": [
+    {
+      "venueSlug": "aero-club-bar",
+      "title": "Eat Your Feelings Kitchen",
+      "recurring": true,
+      "days": [
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "date": null,
+      "start": "18:00",
+      "end": "",
+      "description": "Independent burger kitchen inside the bar, from 6pm Wed-Fri.",
+      "source": "https://aeroclubbar.com/",
+      "verified": true
+    },
+    {
+      "venueSlug": "aero-club-bar",
+      "title": "Eat Your Feelings Kitchen (weekend)",
+      "recurring": true,
+      "days": [
+        "SA",
+        "SU"
+      ],
+      "date": null,
+      "start": "17:00",
+      "end": "",
+      "description": "Independent burger kitchen inside the bar, from 5pm weekends.",
+      "source": "https://aeroclubbar.com/",
+      "verified": true
+    },
+    {
+      "venueSlug": "aero-club-bar",
+      "title": "Food Truck Tuesday",
+      "recurring": true,
+      "days": [
+        "TU"
+      ],
+      "date": null,
+      "start": "17:00",
+      "end": "",
+      "description": "Food truck on site from 5pm.",
+      "source": "https://www.instagram.com/aeroclubbar/p/Dc-h8FzMs-8/",
+      "verified": true
+    },
+    {
+      "venueSlug": "aero-club-bar",
+      "title": "The Signature cheesesteak pop-up",
+      "recurring": true,
+      "days": [
+        "MO"
+      ],
+      "date": null,
+      "start": "",
+      "end": "",
+      "description": "Cheesesteak pop-up by @thesignature.sd inside the bar.",
+      "source": "https://www.instagram.com/aeroclubbar/p/Dc-h8FzMs-8/",
+      "verified": true
+    },
+    {
+      "venueSlug": "shakespeare-pub-grille",
+      "title": "Premier League & Champions League Showings",
+      "recurring": true,
+      "days": [
+        "SA",
+        "SU"
+      ],
+      "date": null,
+      "start": "08:00",
+      "end": "",
+      "description": "Opens early for European kickoffs; also rugby, NFL, MLB, NBA, Padres and Chargers.",
+      "source": "https://www.shakespearepub.com/",
+      "verified": true
+    },
+    {
+      "venueSlug": "shakespeare-pub-grille",
+      "title": "Science Quiz",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-24",
+      "start": "19:00",
+      "end": "21:00",
+      "description": "Pub quiz, free entry, teams of 1-6. $100 Shakespeare gift card to the winners, $75 to the runner-up. Usually a packed house by 6pm.",
+      "source": "https://www.shakespearepub.com/quiz-nights",
+      "verified": true
+    },
+    {
+      "venueSlug": "shakespeare-pub-grille",
+      "title": "General Knowledge Quiz",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-27",
+      "start": "19:00",
+      "end": "21:00",
+      "description": "Pub quiz, free entry, teams of 1-6. $100 Shakespeare gift card to the winners, $75 to the runner-up. Usually a packed house by 6pm.",
+      "source": "https://www.shakespearepub.com/quiz-nights",
+      "verified": true
+    },
+    {
+      "venueSlug": "shakespeare-pub-grille",
+      "title": "Music Quiz",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-11",
+      "start": "19:00",
+      "end": "21:00",
+      "description": "Pub quiz, free entry, teams of 1-6. $100 Shakespeare gift card to the winners, $75 to the runner-up. Usually a packed house by 6pm.",
+      "source": "https://www.shakespearepub.com/quiz-nights",
+      "verified": true
+    },
+    {
+      "venueSlug": "shakespeare-pub-grille",
+      "title": "General Knowledge Quiz",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-25",
+      "start": "19:00",
+      "end": "21:00",
+      "description": "Pub quiz, free entry, teams of 1-6. $100 Shakespeare gift card to the winners, $75 to the runner-up. Usually a packed house by 6pm.",
+      "source": "https://www.shakespearepub.com/quiz-nights",
+      "verified": true
+    },
+    {
+      "venueSlug": "shakespeare-pub-grille",
+      "title": "Music Quiz",
+      "recurring": false,
+      "days": [],
+      "date": "2026-11-08",
+      "start": "19:00",
+      "end": "21:00",
+      "description": "Pub quiz, free entry, teams of 1-6. $100 Shakespeare gift card to the winners, $75 to the runner-up. Usually a packed house by 6pm.",
+      "source": "https://www.shakespearepub.com/quiz-nights",
+      "verified": true
+    },
+    {
+      "venueSlug": "shakespeare-pub-grille",
+      "title": "General Knowledge Quiz",
+      "recurring": false,
+      "days": [],
+      "date": "2026-11-29",
+      "start": "19:00",
+      "end": "21:00",
+      "description": "Pub quiz, free entry, teams of 1-6. $100 Shakespeare gift card to the winners, $75 to the runner-up. Usually a packed house by 6pm.",
+      "source": "https://www.shakespearepub.com/quiz-nights",
+      "verified": true
+    },
+    {
+      "venueSlug": "shakespeare-pub-grille",
+      "title": "Music Quiz",
+      "recurring": false,
+      "days": [],
+      "date": "2026-12-13",
+      "start": "19:00",
+      "end": "21:00",
+      "description": "Pub quiz, free entry, teams of 1-6. $100 Shakespeare gift card to the winners, $75 to the runner-up. Usually a packed house by 6pm.",
+      "source": "https://www.shakespearepub.com/quiz-nights",
+      "verified": true
+    },
+    {
+      "venueSlug": "shakespeare-pub-grille",
+      "title": "General Knowledge Quiz",
+      "recurring": false,
+      "days": [],
+      "date": "2026-12-27",
+      "start": "19:00",
+      "end": "21:00",
+      "description": "Pub quiz, free entry, teams of 1-6. $100 Shakespeare gift card to the winners, $75 to the runner-up. Usually a packed house by 6pm.",
+      "source": "https://www.shakespearepub.com/quiz-nights",
+      "verified": true
+    },
+    {
+      "venueSlug": "shakespeare-pub-grille",
+      "title": "Music Quiz",
+      "recurring": false,
+      "days": [],
+      "date": "2027-01-10",
+      "start": "19:00",
+      "end": "21:00",
+      "description": "Pub quiz, free entry, teams of 1-6. $100 Shakespeare gift card to the winners, $75 to the runner-up. Usually a packed house by 6pm.",
+      "source": "https://www.shakespearepub.com/quiz-nights",
+      "verified": true
+    },
+    {
+      "venueSlug": "shakespeare-pub-grille",
+      "title": "General Knowledge Quiz",
+      "recurring": false,
+      "days": [],
+      "date": "2027-01-31",
+      "start": "19:00",
+      "end": "21:00",
+      "description": "Pub quiz, free entry, teams of 1-6. $100 Shakespeare gift card to the winners, $75 to the runner-up. Usually a packed house by 6pm.",
+      "source": "https://www.shakespearepub.com/quiz-nights",
+      "verified": true
+    },
+    {
+      "venueSlug": "wine-vault-bistro",
+      "title": "Daou Wine Dinner with Daniel Brunner",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-03",
+      "start": "17:15",
+      "end": "20:30",
+      "description": "SOLD OUT per the venue calendar. Reception about 5:15pm, dinner 6pm-8:30pm. Comparable recent dinners ran $109.50-$119.50 per person plus tax and 20% gratuity; price for this date is not posted.",
+      "source": "https://winevaultbistro.com/calendar",
+      "verified": false
+    },
+    {
+      "venueSlug": "wine-vault-bistro",
+      "title": "Daou Wine Dinner with Daniel Brunner",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-04",
+      "start": "17:15",
+      "end": "20:30",
+      "description": "Second night. Reception about 5:15pm, dinner 6pm-8:30pm. Not re-confirmed since Sept 11. Comparable recent dinners ran $109.50-$119.50 per person plus tax and 20% gratuity; price for this date is not posted.",
+      "source": "https://winevaultbistro.com/calendar",
+      "verified": false
+    },
+    {
+      "venueSlug": "wine-vault-bistro",
+      "title": "Mauritson + Rockpile Wine Dinner with Clay Mauritson",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-10",
+      "start": "17:15",
+      "end": "20:30",
+      "description": "Reception about 5:15pm, dinner 6pm-8:30pm. Not re-confirmed since Sept 11. Comparable recent dinners ran $109.50-$119.50 per person plus tax and 20% gratuity; price for this date is not posted.",
+      "source": "https://winevaultbistro.com/calendar",
+      "verified": false
+    },
+    {
+      "venueSlug": "wine-vault-bistro",
+      "title": "Mauritson + Rockpile Wine Dinner with Clay Mauritson",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-11",
+      "start": "17:15",
+      "end": "20:30",
+      "description": "Second night. Not re-confirmed since Sept 11. Comparable recent dinners ran $109.50-$119.50 per person plus tax and 20% gratuity; price for this date is not posted.",
+      "source": "https://winevaultbistro.com/calendar",
+      "verified": false
+    },
+    {
+      "venueSlug": "wine-vault-bistro",
+      "title": "Daou Wine Dinner with Daniel Brunner",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-24",
+      "start": "17:15",
+      "end": "20:30",
+      "description": "Reception about 5:15pm, dinner 6pm-8:30pm. Not re-confirmed since Sept 11. Comparable recent dinners ran $109.50-$119.50 per person plus tax and 20% gratuity; price for this date is not posted.",
+      "source": "https://winevaultbistro.com/calendar",
+      "verified": false
+    },
+    {
+      "venueSlug": "wine-vault-bistro",
+      "title": "Chef's Tasting Menu",
+      "recurring": true,
+      "days": [
+        "TH",
+        "FR",
+        "SA"
+      ],
+      "date": null,
+      "start": "17:30",
+      "end": "20:30",
+      "description": "On weekends without a winemaker dinner: a five-course chef's tasting with paired wines, no choices, menu changes almost daily. A recent six-course ran $89.50 per person plus tax and 20% gratuity.",
+      "source": "https://winevaultbistro.com/",
+      "verified": true
+    },
+    {
+      "venueSlug": "national-comedy-theatre",
+      "title": "Mainstage Improv",
+      "recurring": true,
+      "days": [
+        "FR",
+        "SA"
+      ],
+      "date": null,
+      "start": "19:30",
+      "end": "21:10",
+      "description": "Fully unscripted from audience suggestions, about 100 minutes with an intermission.",
+      "source": "https://nationalcomedy.com/shows/",
+      "verified": true
+    },
+    {
+      "venueSlug": "national-comedy-theatre",
+      "title": "Sunday Company",
+      "recurring": true,
+      "days": [
+        "SU"
+      ],
+      "date": null,
+      "start": "19:30",
+      "end": "21:10",
+      "description": "Emerging performers in short-form and long-form improv.",
+      "source": "https://nationalcomedy.com/shows/",
+      "verified": true
+    },
+    {
+      "venueSlug": "national-comedy-theatre",
+      "title": "House Teams",
+      "recurring": true,
+      "days": [
+        "TH"
+      ],
+      "date": null,
+      "start": "19:30",
+      "end": "21:10",
+      "description": "Advanced former students in rotating ensembles. FIRST TWO THURSDAYS of each month only, not weekly.",
+      "source": "https://nationalcomedy.com/shows/",
+      "verified": true
+    },
+    {
+      "venueSlug": "national-comedy-theatre",
+      "title": "On the Spot: An Improvised Musical",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-29",
+      "start": "19:30",
+      "end": "21:10",
+      "description": "Fully improvised musical. The site states only 'October 29' with no year and no showtime; the 19:30 start is this venue's standard and is NOT stated on the page. These sell out.",
+      "source": "https://nationalcomedy.com/shows/",
+      "verified": false
+    },
+    {
+      "venueSlug": "pizza-e-birra",
+      "title": "Trivia Night",
+      "recurring": true,
+      "days": [
+        "TH"
+      ],
+      "date": null,
+      "start": "18:00",
+      "end": "",
+      "description": "Weekly Thursday trivia; happy hour runs 3pm to close the same night.",
+      "source": "https://pizzaebirrasandiego.com/happy-hour/",
+      "verified": true
+    },
+    {
+      "venueSlug": "pizza-e-birra",
+      "title": "9th Anniversary Celebration",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-01",
+      "start": "",
+      "end": "",
+      "description": "Ninth birthday with special deals. No times or deal detail published.",
+      "source": "https://pizzaebirrasandiego.com/",
+      "verified": true
+    },
+    {
+      "venueSlug": "communion",
+      "title": "Sunday Rooftop Brunch",
+      "recurring": true,
+      "days": [
+        "SU"
+      ],
+      "date": null,
+      "start": "10:00",
+      "end": "14:00",
+      "description": "Brunch on the rooftop with coastal skyline views.",
+      "source": "https://www.dinecommunionsd.com/",
+      "verified": true
+    },
+    {
+      "venueSlug": "communion",
+      "title": "Drag Brunch Bingo",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-27",
+      "start": "12:00",
+      "end": "14:00",
+      "description": "Drag brunch bingo with Mariam T plus a surprise guest queen. 21+, tickets required.",
+      "source": "https://www.dinecommunionsd.com/happenings",
+      "verified": true
+    },
+    {
+      "venueSlug": "communion",
+      "title": "Garrison Brothers Bourbon Dinner",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-29",
+      "start": "18:00",
+      "end": "20:00",
+      "description": "Four-course dinner with Garrison Brothers bourbon pairings. $198 per person, tickets required.",
+      "source": "https://www.dinecommunionsd.com/happenings",
+      "verified": true
+    },
+    {
+      "venueSlug": "communion",
+      "title": "Intelligent Singles Mixer on the Rooftop",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-30",
+      "start": "19:00",
+      "end": "22:00",
+      "description": "Singles mixer on the rooftop.",
+      "source": "https://www.eventbrite.com/e/intelligent-singles-mixer-on-rooftop-in-san-diego-tickets-1999093326955",
+      "verified": false
+    },
+    {
+      "venueSlug": "the-lamplighter",
+      "title": "Karaoke",
+      "recurring": true,
+      "days": [
+        "SU",
+        "MO",
+        "TU",
+        "WE",
+        "TH"
+      ],
+      "date": null,
+      "start": "21:00",
+      "end": "02:00",
+      "description": "Nightly karaoke on the main stage.",
+      "source": "https://www.thelamplightersd.com/",
+      "verified": true
+    },
+    {
+      "venueSlug": "the-lamplighter",
+      "title": "Karaoke (weekend)",
+      "recurring": true,
+      "days": [
+        "FR",
+        "SA"
+      ],
+      "date": null,
+      "start": "20:00",
+      "end": "02:00",
+      "description": "Weekend karaoke on the main stage.",
+      "source": "https://www.thelamplightersd.com/",
+      "verified": true
+    },
+    {
+      "venueSlug": "the-lamplighter",
+      "title": "Tuesday Night Trivia",
+      "recurring": true,
+      "days": [
+        "TU"
+      ],
+      "date": null,
+      "start": "19:00",
+      "end": "21:00",
+      "description": "Weekly trivia, followed by karaoke at 9pm. Entry price and prizes not published.",
+      "source": "https://www.thelamplightersd.com/",
+      "verified": true
+    },
+    {
+      "venueSlug": "the-lamplighter",
+      "title": "Bottle Service",
+      "recurring": true,
+      "days": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR",
+        "SA",
+        "SU"
+      ],
+      "date": null,
+      "start": "18:00",
+      "end": "02:00",
+      "description": "Reserved-table bottle service. Spotlight table $250 minimum, Headliner table $500 minimum.",
+      "source": "https://www.thelamplightersd.com/",
+      "verified": true
+    },
+    {
+      "venueSlug": "la-puerta-mission-hills",
+      "title": "Taco Tuesday",
+      "recurring": true,
+      "days": [
+        "TU"
+      ],
+      "date": null,
+      "start": "",
+      "end": "",
+      "description": "Taco Tuesday. Pricing is not published for the Mission Hills location.",
+      "source": "https://lapuertasd.com/",
+      "verified": false
+    },
+    {
+      "venueSlug": "cinema-under-the-stars",
+      "title": "Weekend Screenings",
+      "recurring": true,
+      "days": [
+        "FR",
+        "SA",
+        "SU"
+      ],
+      "date": null,
+      "start": "20:00",
+      "end": "22:30",
+      "description": "Open-air screenings year round, a vintage cartoon before each feature, box office opens 6pm. Prices not confirmed first-party.",
+      "source": "https://www.topspresents.com/",
+      "verified": true
+    },
+    {
+      "venueSlug": "cinema-under-the-stars",
+      "title": "The Birds (1963)",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-25",
+      "start": "20:00",
+      "end": "22:00",
+      "description": "Hitchcock's The Birds, 119 minutes.",
+      "source": "https://www.topspresents.com/",
+      "verified": true
+    },
+    {
+      "venueSlug": "cinema-under-the-stars",
+      "title": "The Birds (1963)",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-26",
+      "start": "20:00",
+      "end": "22:00",
+      "description": "Hitchcock's The Birds, 119 minutes.",
+      "source": "https://www.topspresents.com/",
+      "verified": true
+    },
+    {
+      "venueSlug": "cinema-under-the-stars",
+      "title": "The Birds (1963)",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-27",
+      "start": "20:00",
+      "end": "22:00",
+      "description": "Hitchcock's The Birds, 119 minutes.",
+      "source": "https://www.topspresents.com/",
+      "verified": true
+    },
+    {
+      "venueSlug": "cinema-under-the-stars",
+      "title": "Beetlejuice (1988)",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-02",
+      "start": "20:00",
+      "end": "21:45",
+      "description": "Beetlejuice, 92 minutes. Saturday Oct 3 is a private rental, not public.",
+      "source": "https://www.topspresents.com/",
+      "verified": true
+    },
+    {
+      "venueSlug": "cinema-under-the-stars",
+      "title": "Beetlejuice (1988)",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-04",
+      "start": "20:00",
+      "end": "21:45",
+      "description": "Beetlejuice, 92 minutes. Saturday Oct 3 is a private rental, not public.",
+      "source": "https://www.topspresents.com/",
+      "verified": true
+    },
+    {
+      "venueSlug": "cinema-under-the-stars",
+      "title": "San Diego Halloween Film Festival",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-31",
+      "start": "19:00",
+      "end": "23:59",
+      "description": "Catered costume party built around independent horror shorts and features, with a Crimson Carpet and candlelight seating. Presented by San Diego Citizens. One night only.",
+      "source": "https://www.eventbrite.com/e/san-diego-halloween-film-festival-tickets-1992860742126",
+      "verified": false
+    },
+    {
+      "venueSlug": "cinema-under-the-stars",
+      "title": "Warren Miller Ski Night 2026",
+      "recurring": false,
+      "days": [],
+      "date": "2026-12-04",
+      "start": "19:00",
+      "end": "22:00",
+      "description": "3rd annual Warren Miller ski night, sponsored by EXCELSA.",
+      "source": "https://www.eventbrite.com/e/warren-miller-ski-night-2026-sponsored-by-excelsa-tickets-1998467017647",
+      "verified": false
+    },
+    {
+      "venueSlug": "farmers-bottega",
+      "title": "Daily Brunch",
+      "recurring": true,
+      "days": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR",
+        "SA",
+        "SU"
+      ],
+      "date": null,
+      "start": "08:00",
+      "end": "14:00",
+      "description": "Daily brunch service with rotating specials.",
+      "source": "https://www.farmersbottega.com/",
+      "verified": true
+    },
+    {
+      "venueSlug": "longball-cocktail-club",
+      "title": "Spirits and Sorcery: A Live Magic Show",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-22",
+      "start": "19:00",
+      "end": "",
+      "description": "Magic show with cocktails, presented by Amaze and Wonder. VIP adds a close-up set at 6:30pm, reserved seating and a gift. Two drink minimum, non-alcoholic available. No food on site.",
+      "source": "https://www.eventbrite.com/e/spirits-and-sorcery-a-live-magic-show-at-longball-cocktail-club-tickets-2000860841639",
+      "verified": false
+    },
+    {
+      "venueSlug": "mission-hills-business-improvement-district",
+      "title": "Taste of Mission Hills 2026",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-14",
+      "start": "",
+      "end": "",
+      "description": "DATE CONFIRMED on the BID's own Taste page as Wednesday, October 14, 2026. NO start time and NO ticket price are published; the page still says plans 'are underway' and points to the mailing list. Walking and trolley route covers West Lewis St, Fort Stockton Dr, Goldfinch St, West Washington St, Reynard Way and India St, with Old Town Trolley transport included in the ticket. The 2025 edition ran 17:00-21:00 at $45 advance / $50 day-of across 28 venues, for reference only. Do not publish a time or price.",
+      "source": "https://missionhillsbid.com/taste/",
+      "verified": true
+    },
+    {
+      "venueSlug": "mission-hills-business-improvement-district",
+      "title": "BID Annual Meeting & 2027 Board of Directors Election",
+      "recurring": false,
+      "days": [],
+      "date": "2026-11-06",
+      "start": "",
+      "end": "",
+      "description": "Election of three board seats and officer positions. SOURCE INCONSISTENCY: the page says 'Thursday, November 6, 2026' but Nov 6, 2026 is a Friday. Location published as TBD, no start time.",
+      "source": "https://missionhillsbid.com/2027-mission-hills-business-improvement-district-board-of-directors-elections/",
+      "verified": true
+    },
+    {
+      "venueSlug": "mission-hills-business-improvement-district",
+      "title": "2027 BID Board candidate application deadline",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-20",
+      "start": "17:00",
+      "end": "",
+      "description": "Deadline, not a public event. Published as Tuesday, October 20, 2026 at 5:00 p.m.",
+      "source": "https://missionhillsbid.com/2027-mission-hills-business-improvement-district-board-of-directors-elections/",
+      "verified": true
+    },
+    {
+      "venueSlug": "mission-hills-business-improvement-district",
+      "title": "Shop Small in Mission Hills",
+      "recurring": false,
+      "days": [],
+      "date": "2026-11-28",
+      "start": "",
+      "end": "",
+      "description": "Small Business Saturday push across Washington St, Goldfinch St and India St. UNCONFIRMED DATE: the BID page says only 'Small Business Saturday annually' and publishes no 2026 date; Nov 28 is the calendar date of Small Business Saturday 2026, derived not stated. The previously assumed 10:00-18:00 hours were a placeholder and have been removed.",
+      "source": "https://missionhillsbid.com/events-happenings-in-the-hills/",
+      "verified": false
+    },
+    {
+      "venueSlug": "mission-hills-town-council",
+      "title": "Town Hall Meeting",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-08",
+      "start": "18:00",
+      "end": "20:00",
+      "description": "At Francis Parker Lower School. Guests are welcome; membership is not required.",
+      "source": "https://www.missionhillstowncouncil.org/what-we-do/events/",
+      "verified": true
+    },
+    {
+      "venueSlug": "mission-hills-town-council",
+      "title": "Board of Trustees Meeting",
+      "recurring": false,
+      "days": [],
+      "date": "2026-11-12",
+      "start": "18:00",
+      "end": "20:00",
+      "description": "Monthly board meeting at Safdie Rabines Architects. Guests welcome.",
+      "source": "https://www.missionhillstowncouncil.org/what-we-do/events/mhtc-meetings/",
+      "verified": true
+    },
+    {
+      "venueSlug": "mission-hills-town-council",
+      "title": "Board of Trustees Meeting",
+      "recurring": false,
+      "days": [],
+      "date": "2026-12-10",
+      "start": "18:00",
+      "end": "20:00",
+      "description": "Monthly board meeting at Safdie Rabines Architects. Guests welcome.",
+      "source": "https://www.missionhillstowncouncil.org/what-we-do/events/mhtc-meetings/",
+      "verified": true
+    },
+    {
+      "venueSlug": "radiance-yoga-center",
+      "title": "Birth Partner Coaching: A Birth Rehearsal Workshop",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-27",
+      "start": "11:00",
+      "end": "15:00",
+      "description": "Four-hour workshop for expecting couples. Partners practice how to move, breathe and work through birth together. Run by Nirvana.",
+      "source": "https://www.eventbrite.com/e/birth-partner-coaching-a-birth-rehearsal-workshop-tickets-1998491011413",
+      "verified": false
+    },
+    {
+      "venueSlug": "radiance-yoga-center",
+      "title": "Speed Dating Beyond Small Talk: Tantra Speed Date",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-11",
+      "start": "17:30",
+      "end": "20:30",
+      "description": "Structured speed dating.",
+      "source": "https://www.eventbrite.com/e/speed-dating-beyond-small-talk-san-diego-speed-dating-tantra-speed-date-tickets-1998407691200",
+      "verified": false
+    },
+    {
+      "venueSlug": "radiance-yoga-center",
+      "title": "Breath & Embodiment: A Somatic Reset",
+      "recurring": false,
+      "days": [],
+      "date": "2026-11-05",
+      "start": "18:30",
+      "end": "20:00",
+      "description": "Breathwork, music and movement.",
+      "source": "https://www.eventbrite.com/e/breath-embodiment-a-somatic-reset-san-diego-tickets-2000057262111",
+      "verified": false
+    },
+    {
+      "venueSlug": "radiance-yoga-center",
+      "title": "Dancing the Dark: A Mystery Movement Journey",
+      "recurring": false,
+      "days": [],
+      "date": "2026-11-08",
+      "start": "17:30",
+      "end": "",
+      "description": "Movement journey.",
+      "source": "https://www.eventbrite.com/e/dancing-the-dark-a-mystery-movement-journey-san-diego-tickets-2001035005568",
+      "verified": false
+    },
+    {
+      "venueSlug": "radiance-yoga-center",
+      "title": "Tantra Speed Date: San Diego",
+      "recurring": false,
+      "days": [],
+      "date": "2026-12-06",
+      "start": "12:30",
+      "end": "",
+      "description": "DATE CHANGED since the Sept 11 research: the same Eventbrite listing now shows Sunday Dec 6 at 12:30pm, not Dec 20 at 17:30. Use this one.",
+      "source": "https://www.eventbrite.com/e/tantra-speed-date-san-diego-meet-singles-speed-dating-tickets-1979039086181",
+      "verified": false
+    },
+    {
+      "venueSlug": "radiance-yoga-center",
+      "title": "Speed Dating Beyond Small Talk: Valentines",
+      "recurring": false,
+      "days": [],
+      "date": "2027-02-14",
+      "start": "12:00",
+      "end": "15:00",
+      "description": "Valentine's edition.",
+      "source": "https://www.eventbrite.com/e/speed-dating-beyond-small-talk-san-diego-speed-dating-tantra-speed-date-tickets-1997830597096",
+      "verified": false
+    },
+    {
+      "venueSlug": "yoga-one",
+      "title": "300 Hour Yoga Teacher Training",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-02",
+      "start": "12:00",
+      "end": "18:00",
+      "description": "Advanced training for people who already hold a 200-hour certificate. The Eventbrite date is the START of a longer program, not a one-off class.",
+      "source": "https://www.eventbrite.com/e/300-hour-yoga-teacher-training-tickets-1993044656218",
+      "verified": false
+    },
+    {
+      "venueSlug": "yoga-one",
+      "title": "Writing Workshop, Restorative Yoga & Sound Healing",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-11",
+      "start": "17:00",
+      "end": "",
+      "description": "Combined workshop.",
+      "source": "https://www.eventbrite.com/e/writing-workshop-restorative-yoga-sound-healing-tickets-2001630470620",
+      "verified": false
+    },
+    {
+      "venueSlug": "yoga-one",
+      "title": "QUANTUM Breathwork San Diego",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-18",
+      "start": "13:00",
+      "end": "",
+      "description": "Breathwork session.",
+      "source": "https://www.eventbrite.com/e/quantum-breathwork-san-diego-october-tickets-2002080420432",
+      "verified": false
+    }
+  ],
+  "deferred": [
+    {
+      "title": "Halloween in the Hills",
+      "what_the_page_says": "West Lewis Shopping District block party with live music, shopping and food trucks. NO 2026 date on either the BID or Town Council site; the MHTC event feed reads 'No upcoming events found' and the BID tag archive's newest post is from 2022. MHTC points to facebook.com/lewis.st.shopping/.",
+      "source": "https://www.missionhillstowncouncil.org/what-we-do/events/special-events/"
+    },
+    {
+      "title": "Holiday in the Hills",
+      "what_the_page_says": "Companion West Lewis block party. NO 2026 date published. The BID's most recent dedicated post is for December 13, 2025.",
+      "source": "https://www.missionhillstowncouncil.org/what-we-do/events/special-events/"
+    },
+    {
+      "title": "Mission Hills Concerts in the Park",
+      "what_the_page_says": "MHTC states it is 'an annual event that occurs on Fridays in Pioneer Park', referencing a 31st season, but the Concert Series Lineup block reads 'No upcoming events found'. No dates, times or performers.",
+      "source": "https://www.missionhillstowncouncil.org/what-we-do/events/concerts/"
+    },
+    {
+      "title": "Mission Hills 5K Run/Walk",
+      "what_the_page_says": "Annual 5K benefiting Grant TK-8. No date, time, venue or price published; MHTC refers to missionhills5k.com. CAUTION: that site still shows the March 21 date from the 2026 race as if upcoming, and March 21 is not a Saturday in 2027.",
+      "source": "https://www.missionhillstowncouncil.org/what-we-do/events/special-events/"
+    },
+    {
+      "title": "Colors on Canvas 2027 Banner Art Contest",
+      "what_the_page_says": "BID page states '2027 Banner Art Contest - Launching soon!' with no date or deadline. Students at Grant UTK8 paint local businesses onto seventy 30x94 inch banners installed through the neighborhood. A multi-week program, not a single evening.",
+      "source": "https://missionhillsbid.com/events-happenings-in-the-hills/"
+    },
+    {
+      "title": "Mission Hills 4th of July Parade and Concert",
+      "what_the_page_says": "MHTC signature annual event, costume and decorated bike parade ending at Pioneer Park, then games and live music. The MHTC schedule block reads 'No upcoming events found' and publishes no times.",
+      "source": "https://www.missionhillstowncouncil.org/what-we-do/events/special-events/"
+    },
+    {
+      "title": "MHTC quarterly member meetings",
+      "what_the_page_says": "MHTC states it holds quarterly meetings for all members in addition to monthly Board of Trustees meetings. No separate quarterly schedule is published; the Oct 8 Town Hall may be one of them.",
+      "source": "https://www.missionhillstowncouncil.org/what-we-do/events/mhtc-meetings/"
+    },
+    {
+      "title": "Mission Hills Nursery workshops",
+      "what_the_page_says": "FAQ advertises Tomatomania, seasonal decor workshops and crafting sessions. The /event-list page is stale, showing only Tomatomania March 8, 2025.",
+      "source": "https://www.missionhillsnursery.com/event-list"
+    },
+    {
+      "title": "Yoga One and Radiance Yoga class schedules",
+      "what_the_page_says": "Both studios defer their schedules to external booking systems (MindBody), so no class days or times are published on either operator site. Radiance's site is fully JS-rendered and returns only meta tags.",
+      "source": "https://www.yogaonesandiego.com/schedule"
+    },
+    {
+      "title": "M-Theory Music in-store performances",
+      "what_the_page_says": "Known for in-store performances and Record Store Day and listed as a venue on Songkick, but mtheorymusic.com blocks automated fetching so no dates could be read. Worth a manual browser check.",
+      "source": "https://www.mtheorymusic.com/"
+    },
+    {
+      "title": "Venissimo Cheese classes and tastings",
+      "what_the_page_says": "The brand runs an Events & Classes section and advertises tastings, but the homepage and events page both returned metadata only, so no dated classes could be confirmed.",
+      "source": "https://www.venissimo.com/shop/events-classes"
+    },
+    {
+      "title": "Aero Club monthly pinball tournament",
+      "what_the_page_says": "The venue states dates are announced only on Instagram (@aeroclubbar). Historically the second Tuesday with 6:30pm registration, $1 entry unranked and $6 otherwise, but no date is published. A previously seeded Oct 13 date was an assumption and has been removed.",
+      "source": "https://aeroclubbar.com/happenings"
+    },
+    {
+      "title": "Starlite happy hour, first-party confirmation",
+      "what_the_page_says": "starlitesandiego.com/happy-hour returned a Cloudflare 521 (web server down) during research, so the happy hour could not be confirmed against the venue's own page. The listed deals are third-party only.",
+      "source": "https://www.starlitesandiego.com/happy-hour"
+    },
+    {
+      "title": "Wine Vault & Bistro dinners after Oct 3",
+      "what_the_page_says": "The events calendar is a Google Calendar iframe. Opened in a browser, September showed a Stolpman dinner and the Oct 3 entry marked SOLD OUT, corroborating that date. The Oct 4, 10, 11 and 24 dinners carry over from Sept 11 research and were not re-confirmed.",
+      "source": "https://winevaultbistro.com/calendar"
+    },
+    {
+      "title": "Taste of Mission Hills start time and ticket price",
+      "what_the_page_says": "The BID's Taste page confirms Wednesday, October 14, 2026 but publishes no start time, end time or ticket price, stating only that plans 'are underway' and that ticket availability will go out by mailing list.",
+      "source": "https://missionhillsbid.com/taste/"
+    }
+  ]
+}

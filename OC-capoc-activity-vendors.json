@@ -1,0 +1,1606 @@
+{
+  "_comment": "OC food-distribution PROVIDER directory derived from OCFoodDistribution.json (seriesSlug grouping). Providers are food banks/pantries/churches/schools, not businesses; category fixed to Food Assistance. Tagline from schedulePattern + sourceOrg. _deferred sites (CSFP senior boxes, mobile pop-ups, registration-only, food-bank hub) appear as event-less \"call ahead\" cards.",
+  "_shell": "FoodDistributionOC",
+  "_shellId": "6aac35296621e11030a0",
+  "_collection": "vendors",
+  "_source": "OCFoodDistribution.json (OC Food Bank (Community Action Partnership of Orange County) TEFAP list, OC Food Bank/CSFP, Catholic Charities OC, independent OC pantries — Sep 2026).",
+  "_verify_before_running": "Confirm _shellId matches the seeded activities shell (6aac35296621e11030a0). _eventCount is informational; the seeder ignores it.",
+  "vendors": [
+    {
+      "slug": "anaheim-spanish-sda-anaheim",
+      "name": "Anaheim Spanish SDA",
+      "category": "Food Assistance",
+      "tagline": "Wednesday 6-9 PM · OC Food Bank (Community Action Partnership of Orange County)",
+      "description": "Free food distribution site (via OC Food Bank (Community Action Partnership of Orange County)). Schedule: Wednesday 6-9 PM. Call ahead to confirm hours - distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.freefood.org/l/ca_anaheim_anaheim-spanish-church",
+      "phone": "(714) 956-2726",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "1457 E. Romneya Dr., ANAHEIM, CA",
+      "lat": 33.851391,
+      "lng": -117.899031,
+      "neighborhood": "",
+      "hours": "Wed, 6 PM - 9 PM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-09-23",
+          "time": "18:00",
+          "title": "Anaheim Spanish SDA - Free Food Distribution",
+          "description": "Free food distribution at Anaheim Spanish SDA (OC Food Bank partner). Schedule: Wednesday 6-9 PM. Despensa/food pantry hours listed as Wednesdays 6-9pm across freefood.org / homelessshelterdirectory listings (also open Fri 7-9pm and Sat for services). Not confirmed on the church's own site; medium confidence. CAPOC partner. (714) 956-2726.. Call (714) 956-2726 to confirm before you go - distributions often end early when supplies run out. Source: https://www.freefood.org/l/ca_anaheim_anaheim-spanish-church."
+        },
+        {
+          "date": "2026-09-30",
+          "time": "18:00",
+          "title": "Anaheim Spanish SDA - Free Food Distribution",
+          "description": "Free food distribution at Anaheim Spanish SDA (OC Food Bank partner). Schedule: Wednesday 6-9 PM. Despensa/food pantry hours listed as Wednesdays 6-9pm across freefood.org / homelessshelterdirectory listings (also open Fri 7-9pm and Sat for services). Not confirmed on the church's own site; medium confidence. CAPOC partner. (714) 956-2726.. Call (714) 956-2726 to confirm before you go - distributions often end early when supplies run out. Source: https://www.freefood.org/l/ca_anaheim_anaheim-spanish-church."
+        },
+        {
+          "date": "2026-10-07",
+          "time": "18:00",
+          "title": "Anaheim Spanish SDA - Free Food Distribution",
+          "description": "Free food distribution at Anaheim Spanish SDA (OC Food Bank partner). Schedule: Wednesday 6-9 PM. Despensa/food pantry hours listed as Wednesdays 6-9pm across freefood.org / homelessshelterdirectory listings (also open Fri 7-9pm and Sat for services). Not confirmed on the church's own site; medium confidence. CAPOC partner. (714) 956-2726.. Call (714) 956-2726 to confirm before you go - distributions often end early when supplies run out. Source: https://www.freefood.org/l/ca_anaheim_anaheim-spanish-church."
+        },
+        {
+          "date": "2026-10-14",
+          "time": "18:00",
+          "title": "Anaheim Spanish SDA - Free Food Distribution",
+          "description": "Free food distribution at Anaheim Spanish SDA (OC Food Bank partner). Schedule: Wednesday 6-9 PM. Despensa/food pantry hours listed as Wednesdays 6-9pm across freefood.org / homelessshelterdirectory listings (also open Fri 7-9pm and Sat for services). Not confirmed on the church's own site; medium confidence. CAPOC partner. (714) 956-2726.. Call (714) 956-2726 to confirm before you go - distributions often end early when supplies run out. Source: https://www.freefood.org/l/ca_anaheim_anaheim-spanish-church."
+        },
+        {
+          "date": "2026-10-21",
+          "time": "18:00",
+          "title": "Anaheim Spanish SDA - Free Food Distribution",
+          "description": "Free food distribution at Anaheim Spanish SDA (OC Food Bank partner). Schedule: Wednesday 6-9 PM. Despensa/food pantry hours listed as Wednesdays 6-9pm across freefood.org / homelessshelterdirectory listings (also open Fri 7-9pm and Sat for services). Not confirmed on the church's own site; medium confidence. CAPOC partner. (714) 956-2726.. Call (714) 956-2726 to confirm before you go - distributions often end early when supplies run out. Source: https://www.freefood.org/l/ca_anaheim_anaheim-spanish-church."
+        },
+        {
+          "date": "2026-10-28",
+          "time": "18:00",
+          "title": "Anaheim Spanish SDA - Free Food Distribution",
+          "description": "Free food distribution at Anaheim Spanish SDA (OC Food Bank partner). Schedule: Wednesday 6-9 PM. Despensa/food pantry hours listed as Wednesdays 6-9pm across freefood.org / homelessshelterdirectory listings (also open Fri 7-9pm and Sat for services). Not confirmed on the church's own site; medium confidence. CAPOC partner. (714) 956-2726.. Call (714) 956-2726 to confirm before you go - distributions often end early when supplies run out. Source: https://www.freefood.org/l/ca_anaheim_anaheim-spanish-church."
+        },
+        {
+          "date": "2026-11-04",
+          "time": "18:00",
+          "title": "Anaheim Spanish SDA - Free Food Distribution",
+          "description": "Free food distribution at Anaheim Spanish SDA (OC Food Bank partner). Schedule: Wednesday 6-9 PM. Despensa/food pantry hours listed as Wednesdays 6-9pm across freefood.org / homelessshelterdirectory listings (also open Fri 7-9pm and Sat for services). Not confirmed on the church's own site; medium confidence. CAPOC partner. (714) 956-2726.. Call (714) 956-2726 to confirm before you go - distributions often end early when supplies run out. Source: https://www.freefood.org/l/ca_anaheim_anaheim-spanish-church."
+        },
+        {
+          "date": "2026-11-11",
+          "time": "18:00",
+          "title": "Anaheim Spanish SDA - Free Food Distribution",
+          "description": "Free food distribution at Anaheim Spanish SDA (OC Food Bank partner). Schedule: Wednesday 6-9 PM. Despensa/food pantry hours listed as Wednesdays 6-9pm across freefood.org / homelessshelterdirectory listings (also open Fri 7-9pm and Sat for services). Not confirmed on the church's own site; medium confidence. CAPOC partner. (714) 956-2726.. Call (714) 956-2726 to confirm before you go - distributions often end early when supplies run out. Source: https://www.freefood.org/l/ca_anaheim_anaheim-spanish-church."
+        },
+        {
+          "date": "2026-11-18",
+          "time": "18:00",
+          "title": "Anaheim Spanish SDA - Free Food Distribution",
+          "description": "Free food distribution at Anaheim Spanish SDA (OC Food Bank partner). Schedule: Wednesday 6-9 PM. Despensa/food pantry hours listed as Wednesdays 6-9pm across freefood.org / homelessshelterdirectory listings (also open Fri 7-9pm and Sat for services). Not confirmed on the church's own site; medium confidence. CAPOC partner. (714) 956-2726.. Call (714) 956-2726 to confirm before you go - distributions often end early when supplies run out. Source: https://www.freefood.org/l/ca_anaheim_anaheim-spanish-church."
+        },
+        {
+          "date": "2026-11-25",
+          "time": "18:00",
+          "title": "Anaheim Spanish SDA - Free Food Distribution",
+          "description": "Free food distribution at Anaheim Spanish SDA (OC Food Bank partner). Schedule: Wednesday 6-9 PM. Despensa/food pantry hours listed as Wednesdays 6-9pm across freefood.org / homelessshelterdirectory listings (also open Fri 7-9pm and Sat for services). Not confirmed on the church's own site; medium confidence. CAPOC partner. (714) 956-2726.. Call (714) 956-2726 to confirm before you go - distributions often end early when supplies run out. Source: https://www.freefood.org/l/ca_anaheim_anaheim-spanish-church."
+        },
+        {
+          "date": "2026-12-02",
+          "time": "18:00",
+          "title": "Anaheim Spanish SDA - Free Food Distribution",
+          "description": "Free food distribution at Anaheim Spanish SDA (OC Food Bank partner). Schedule: Wednesday 6-9 PM. Despensa/food pantry hours listed as Wednesdays 6-9pm across freefood.org / homelessshelterdirectory listings (also open Fri 7-9pm and Sat for services). Not confirmed on the church's own site; medium confidence. CAPOC partner. (714) 956-2726.. Call (714) 956-2726 to confirm before you go - distributions often end early when supplies run out. Source: https://www.freefood.org/l/ca_anaheim_anaheim-spanish-church."
+        },
+        {
+          "date": "2026-12-09",
+          "time": "18:00",
+          "title": "Anaheim Spanish SDA - Free Food Distribution",
+          "description": "Free food distribution at Anaheim Spanish SDA (OC Food Bank partner). Schedule: Wednesday 6-9 PM. Despensa/food pantry hours listed as Wednesdays 6-9pm across freefood.org / homelessshelterdirectory listings (also open Fri 7-9pm and Sat for services). Not confirmed on the church's own site; medium confidence. CAPOC partner. (714) 956-2726.. Call (714) 956-2726 to confirm before you go - distributions often end early when supplies run out. Source: https://www.freefood.org/l/ca_anaheim_anaheim-spanish-church."
+        },
+        {
+          "date": "2026-12-16",
+          "time": "18:00",
+          "title": "Anaheim Spanish SDA - Free Food Distribution",
+          "description": "Free food distribution at Anaheim Spanish SDA (OC Food Bank partner). Schedule: Wednesday 6-9 PM. Despensa/food pantry hours listed as Wednesdays 6-9pm across freefood.org / homelessshelterdirectory listings (also open Fri 7-9pm and Sat for services). Not confirmed on the church's own site; medium confidence. CAPOC partner. (714) 956-2726.. Call (714) 956-2726 to confirm before you go - distributions often end early when supplies run out. Source: https://www.freefood.org/l/ca_anaheim_anaheim-spanish-church."
+        },
+        {
+          "date": "2026-12-23",
+          "time": "18:00",
+          "title": "Anaheim Spanish SDA - Free Food Distribution",
+          "description": "Free food distribution at Anaheim Spanish SDA (OC Food Bank partner). Schedule: Wednesday 6-9 PM. Despensa/food pantry hours listed as Wednesdays 6-9pm across freefood.org / homelessshelterdirectory listings (also open Fri 7-9pm and Sat for services). Not confirmed on the church's own site; medium confidence. CAPOC partner. (714) 956-2726.. Call (714) 956-2726 to confirm before you go - distributions often end early when supplies run out. Source: https://www.freefood.org/l/ca_anaheim_anaheim-spanish-church."
+        },
+        {
+          "date": "2026-12-30",
+          "time": "18:00",
+          "title": "Anaheim Spanish SDA - Free Food Distribution",
+          "description": "Free food distribution at Anaheim Spanish SDA (OC Food Bank partner). Schedule: Wednesday 6-9 PM. Despensa/food pantry hours listed as Wednesdays 6-9pm across freefood.org / homelessshelterdirectory listings (also open Fri 7-9pm and Sat for services). Not confirmed on the church's own site; medium confidence. CAPOC partner. (714) 956-2726.. Call (714) 956-2726 to confirm before you go - distributions often end early when supplies run out. Source: https://www.freefood.org/l/ca_anaheim_anaheim-spanish-church."
+        }
+      ],
+      "_eventCount": 15
+    },
+    {
+      "slug": "emmanuel-spanish-sda-church-anaheim",
+      "name": "Emmanuel Spanish SDA Church",
+      "category": "Food Assistance",
+      "tagline": "1st Saturday 1-2 PM · OC Food Bank (Community Action Partnership of Orange County)",
+      "description": "Free food distribution site (via OC Food Bank (Community Action Partnership of Orange County)). Schedule: 1st Saturday 1-2 PM. Call ahead to confirm hours - distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://networks.whyhunger.org/organisation/27502",
+      "phone": "(714) 943-5768",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "1520 S. Lewis, ANAHEIM, CA",
+      "lat": 33.809651,
+      "lng": -117.897399,
+      "neighborhood": "",
+      "hours": "1st Sat, 1 PM - 2 PM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-10-03",
+          "time": "13:00",
+          "title": "Emmanuel Spanish SDA Church - Free Food Distribution",
+          "description": "Free food distribution at Emmanuel Spanish SDA Church (OC Food Bank partner). Schedule: 1st Saturday 1-2 PM. WhyHunger structured listing: 'Saturday: Every first Saturday 1:00 PM - 2:00 PM' at 1520 S Lewis St. CAPOC partner. (714) 943-5768.. Call (714) 943-5768 to confirm before you go - distributions often end early when supplies run out. Source: https://networks.whyhunger.org/organisation/27502."
+        },
+        {
+          "date": "2026-11-07",
+          "time": "13:00",
+          "title": "Emmanuel Spanish SDA Church - Free Food Distribution",
+          "description": "Free food distribution at Emmanuel Spanish SDA Church (OC Food Bank partner). Schedule: 1st Saturday 1-2 PM. WhyHunger structured listing: 'Saturday: Every first Saturday 1:00 PM - 2:00 PM' at 1520 S Lewis St. CAPOC partner. (714) 943-5768.. Call (714) 943-5768 to confirm before you go - distributions often end early when supplies run out. Source: https://networks.whyhunger.org/organisation/27502."
+        },
+        {
+          "date": "2026-12-05",
+          "time": "13:00",
+          "title": "Emmanuel Spanish SDA Church - Free Food Distribution",
+          "description": "Free food distribution at Emmanuel Spanish SDA Church (OC Food Bank partner). Schedule: 1st Saturday 1-2 PM. WhyHunger structured listing: 'Saturday: Every first Saturday 1:00 PM - 2:00 PM' at 1520 S Lewis St. CAPOC partner. (714) 943-5768.. Call (714) 943-5768 to confirm before you go - distributions often end early when supplies run out. Source: https://networks.whyhunger.org/organisation/27502."
+        }
+      ],
+      "_eventCount": 3
+    },
+    {
+      "slug": "higher-ground-youth-family-services-anaheim",
+      "name": "Higher Ground Youth & Family Services",
+      "category": "Food Assistance",
+      "tagline": "Friday 10-11 AM · OC Food Bank (Community Action Partnership of Orange County)",
+      "description": "Free food distribution site (via OC Food Bank (Community Action Partnership of Orange County)). Schedule: Friday 10-11 AM. Call ahead to confirm hours - distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://sites.google.com/auhsd.us/familyresources/food-resources",
+      "phone": "(714) 833-5087",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "1535 E. Broadway, ANAHEIM, CA",
+      "lat": 33.837642,
+      "lng": -117.89725,
+      "neighborhood": "",
+      "hours": "Fri, 10 AM - 11 AM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-09-25",
+          "time": "10:00",
+          "title": "Higher Ground Youth & Family Services - Free Food Distribution",
+          "description": "Free food distribution at Higher Ground Youth & Family Services (OC Food Bank partner). Schedule: Friday 10-11 AM. AUHSD (Anaheim Union HS District) family-resources page: 'Every Friday, 10:00 am to 11:00 am', free food, curbside + walk-ups welcome. That listing gives address 1413 E Broadway vs input 1535 E Broadway (same organization/campus). Org's own site/FB do not restate the schedule; medium confidence. (714) 833-5087.. Call (714) 833-5087 to confirm before you go - distributions often end early when supplies run out. Source: https://sites.google.com/auhsd.us/familyresources/food-resources."
+        },
+        {
+          "date": "2026-10-02",
+          "time": "10:00",
+          "title": "Higher Ground Youth & Family Services - Free Food Distribution",
+          "description": "Free food distribution at Higher Ground Youth & Family Services (OC Food Bank partner). Schedule: Friday 10-11 AM. AUHSD (Anaheim Union HS District) family-resources page: 'Every Friday, 10:00 am to 11:00 am', free food, curbside + walk-ups welcome. That listing gives address 1413 E Broadway vs input 1535 E Broadway (same organization/campus). Org's own site/FB do not restate the schedule; medium confidence. (714) 833-5087.. Call (714) 833-5087 to confirm before you go - distributions often end early when supplies run out. Source: https://sites.google.com/auhsd.us/familyresources/food-resources."
+        },
+        {
+          "date": "2026-10-09",
+          "time": "10:00",
+          "title": "Higher Ground Youth & Family Services - Free Food Distribution",
+          "description": "Free food distribution at Higher Ground Youth & Family Services (OC Food Bank partner). Schedule: Friday 10-11 AM. AUHSD (Anaheim Union HS District) family-resources page: 'Every Friday, 10:00 am to 11:00 am', free food, curbside + walk-ups welcome. That listing gives address 1413 E Broadway vs input 1535 E Broadway (same organization/campus). Org's own site/FB do not restate the schedule; medium confidence. (714) 833-5087.. Call (714) 833-5087 to confirm before you go - distributions often end early when supplies run out. Source: https://sites.google.com/auhsd.us/familyresources/food-resources."
+        },
+        {
+          "date": "2026-10-16",
+          "time": "10:00",
+          "title": "Higher Ground Youth & Family Services - Free Food Distribution",
+          "description": "Free food distribution at Higher Ground Youth & Family Services (OC Food Bank partner). Schedule: Friday 10-11 AM. AUHSD (Anaheim Union HS District) family-resources page: 'Every Friday, 10:00 am to 11:00 am', free food, curbside + walk-ups welcome. That listing gives address 1413 E Broadway vs input 1535 E Broadway (same organization/campus). Org's own site/FB do not restate the schedule; medium confidence. (714) 833-5087.. Call (714) 833-5087 to confirm before you go - distributions often end early when supplies run out. Source: https://sites.google.com/auhsd.us/familyresources/food-resources."
+        },
+        {
+          "date": "2026-10-23",
+          "time": "10:00",
+          "title": "Higher Ground Youth & Family Services - Free Food Distribution",
+          "description": "Free food distribution at Higher Ground Youth & Family Services (OC Food Bank partner). Schedule: Friday 10-11 AM. AUHSD (Anaheim Union HS District) family-resources page: 'Every Friday, 10:00 am to 11:00 am', free food, curbside + walk-ups welcome. That listing gives address 1413 E Broadway vs input 1535 E Broadway (same organization/campus). Org's own site/FB do not restate the schedule; medium confidence. (714) 833-5087.. Call (714) 833-5087 to confirm before you go - distributions often end early when supplies run out. Source: https://sites.google.com/auhsd.us/familyresources/food-resources."
+        },
+        {
+          "date": "2026-10-30",
+          "time": "10:00",
+          "title": "Higher Ground Youth & Family Services - Free Food Distribution",
+          "description": "Free food distribution at Higher Ground Youth & Family Services (OC Food Bank partner). Schedule: Friday 10-11 AM. AUHSD (Anaheim Union HS District) family-resources page: 'Every Friday, 10:00 am to 11:00 am', free food, curbside + walk-ups welcome. That listing gives address 1413 E Broadway vs input 1535 E Broadway (same organization/campus). Org's own site/FB do not restate the schedule; medium confidence. (714) 833-5087.. Call (714) 833-5087 to confirm before you go - distributions often end early when supplies run out. Source: https://sites.google.com/auhsd.us/familyresources/food-resources."
+        },
+        {
+          "date": "2026-11-06",
+          "time": "10:00",
+          "title": "Higher Ground Youth & Family Services - Free Food Distribution",
+          "description": "Free food distribution at Higher Ground Youth & Family Services (OC Food Bank partner). Schedule: Friday 10-11 AM. AUHSD (Anaheim Union HS District) family-resources page: 'Every Friday, 10:00 am to 11:00 am', free food, curbside + walk-ups welcome. That listing gives address 1413 E Broadway vs input 1535 E Broadway (same organization/campus). Org's own site/FB do not restate the schedule; medium confidence. (714) 833-5087.. Call (714) 833-5087 to confirm before you go - distributions often end early when supplies run out. Source: https://sites.google.com/auhsd.us/familyresources/food-resources."
+        },
+        {
+          "date": "2026-11-13",
+          "time": "10:00",
+          "title": "Higher Ground Youth & Family Services - Free Food Distribution",
+          "description": "Free food distribution at Higher Ground Youth & Family Services (OC Food Bank partner). Schedule: Friday 10-11 AM. AUHSD (Anaheim Union HS District) family-resources page: 'Every Friday, 10:00 am to 11:00 am', free food, curbside + walk-ups welcome. That listing gives address 1413 E Broadway vs input 1535 E Broadway (same organization/campus). Org's own site/FB do not restate the schedule; medium confidence. (714) 833-5087.. Call (714) 833-5087 to confirm before you go - distributions often end early when supplies run out. Source: https://sites.google.com/auhsd.us/familyresources/food-resources."
+        },
+        {
+          "date": "2026-11-20",
+          "time": "10:00",
+          "title": "Higher Ground Youth & Family Services - Free Food Distribution",
+          "description": "Free food distribution at Higher Ground Youth & Family Services (OC Food Bank partner). Schedule: Friday 10-11 AM. AUHSD (Anaheim Union HS District) family-resources page: 'Every Friday, 10:00 am to 11:00 am', free food, curbside + walk-ups welcome. That listing gives address 1413 E Broadway vs input 1535 E Broadway (same organization/campus). Org's own site/FB do not restate the schedule; medium confidence. (714) 833-5087.. Call (714) 833-5087 to confirm before you go - distributions often end early when supplies run out. Source: https://sites.google.com/auhsd.us/familyresources/food-resources."
+        },
+        {
+          "date": "2026-11-27",
+          "time": "10:00",
+          "title": "Higher Ground Youth & Family Services - Free Food Distribution",
+          "description": "Free food distribution at Higher Ground Youth & Family Services (OC Food Bank partner). Schedule: Friday 10-11 AM. AUHSD (Anaheim Union HS District) family-resources page: 'Every Friday, 10:00 am to 11:00 am', free food, curbside + walk-ups welcome. That listing gives address 1413 E Broadway vs input 1535 E Broadway (same organization/campus). Org's own site/FB do not restate the schedule; medium confidence. (714) 833-5087.. Call (714) 833-5087 to confirm before you go - distributions often end early when supplies run out. Source: https://sites.google.com/auhsd.us/familyresources/food-resources."
+        },
+        {
+          "date": "2026-12-04",
+          "time": "10:00",
+          "title": "Higher Ground Youth & Family Services - Free Food Distribution",
+          "description": "Free food distribution at Higher Ground Youth & Family Services (OC Food Bank partner). Schedule: Friday 10-11 AM. AUHSD (Anaheim Union HS District) family-resources page: 'Every Friday, 10:00 am to 11:00 am', free food, curbside + walk-ups welcome. That listing gives address 1413 E Broadway vs input 1535 E Broadway (same organization/campus). Org's own site/FB do not restate the schedule; medium confidence. (714) 833-5087.. Call (714) 833-5087 to confirm before you go - distributions often end early when supplies run out. Source: https://sites.google.com/auhsd.us/familyresources/food-resources."
+        },
+        {
+          "date": "2026-12-11",
+          "time": "10:00",
+          "title": "Higher Ground Youth & Family Services - Free Food Distribution",
+          "description": "Free food distribution at Higher Ground Youth & Family Services (OC Food Bank partner). Schedule: Friday 10-11 AM. AUHSD (Anaheim Union HS District) family-resources page: 'Every Friday, 10:00 am to 11:00 am', free food, curbside + walk-ups welcome. That listing gives address 1413 E Broadway vs input 1535 E Broadway (same organization/campus). Org's own site/FB do not restate the schedule; medium confidence. (714) 833-5087.. Call (714) 833-5087 to confirm before you go - distributions often end early when supplies run out. Source: https://sites.google.com/auhsd.us/familyresources/food-resources."
+        },
+        {
+          "date": "2026-12-18",
+          "time": "10:00",
+          "title": "Higher Ground Youth & Family Services - Free Food Distribution",
+          "description": "Free food distribution at Higher Ground Youth & Family Services (OC Food Bank partner). Schedule: Friday 10-11 AM. AUHSD (Anaheim Union HS District) family-resources page: 'Every Friday, 10:00 am to 11:00 am', free food, curbside + walk-ups welcome. That listing gives address 1413 E Broadway vs input 1535 E Broadway (same organization/campus). Org's own site/FB do not restate the schedule; medium confidence. (714) 833-5087.. Call (714) 833-5087 to confirm before you go - distributions often end early when supplies run out. Source: https://sites.google.com/auhsd.us/familyresources/food-resources."
+        },
+        {
+          "date": "2026-12-25",
+          "time": "10:00",
+          "title": "Higher Ground Youth & Family Services - Free Food Distribution",
+          "description": "Free food distribution at Higher Ground Youth & Family Services (OC Food Bank partner). Schedule: Friday 10-11 AM. AUHSD (Anaheim Union HS District) family-resources page: 'Every Friday, 10:00 am to 11:00 am', free food, curbside + walk-ups welcome. That listing gives address 1413 E Broadway vs input 1535 E Broadway (same organization/campus). Org's own site/FB do not restate the schedule; medium confidence. (714) 833-5087.. Call (714) 833-5087 to confirm before you go - distributions often end early when supplies run out. Source: https://sites.google.com/auhsd.us/familyresources/food-resources."
+        }
+      ],
+      "_eventCount": 14
+    },
+    {
+      "slug": "knott-avenue-christian-church-anaheim",
+      "name": "Knott Avenue Christian Church",
+      "category": "Food Assistance",
+      "tagline": "Thursday 1:30-3:30 PM · OC Food Bank (Community Action Partnership of Orange County)",
+      "description": "Free food distribution site (via OC Food Bank (Community Action Partnership of Orange County)). Schedule: Thursday 1:30-3:30 PM. Call ahead to confirm hours - distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.freefood.org/l/ca_anaheim_knott-avenue-christian-church-pantry",
+      "phone": "714-527-5195",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "315 S. Knott Avenue, ANAHEIM, CA",
+      "lat": 33.8277,
+      "lng": -118.011313,
+      "neighborhood": "",
+      "hours": "Thu, 1:30 PM - 3:30 PM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-09-24",
+          "time": "13:30",
+          "title": "Knott Avenue Christian Church - Free Food Distribution",
+          "description": "Free food distribution at Knott Avenue Christian Church (OC Food Bank partner). Schedule: Thursday 1:30-3:30 PM. Two directory sources (freefood.org and foodpantries.org) agree on Thursday 1:30-3:30 PM. Some listings show a slightly shorter/biweekly window (e.g., Thu 12-1 PM drive-thru 'until food runs out'); all agree the day is Thursday. Recommend calling 714-527-5195 to confirm.. Call (714) 527-5195 to confirm before you go - distributions often end early when supplies run out. Source: https://www.freefood.org/l/ca_anaheim_knott-avenue-christian-church-pantry."
+        },
+        {
+          "date": "2026-10-01",
+          "time": "13:30",
+          "title": "Knott Avenue Christian Church - Free Food Distribution",
+          "description": "Free food distribution at Knott Avenue Christian Church (OC Food Bank partner). Schedule: Thursday 1:30-3:30 PM. Two directory sources (freefood.org and foodpantries.org) agree on Thursday 1:30-3:30 PM. Some listings show a slightly shorter/biweekly window (e.g., Thu 12-1 PM drive-thru 'until food runs out'); all agree the day is Thursday. Recommend calling 714-527-5195 to confirm.. Call (714) 527-5195 to confirm before you go - distributions often end early when supplies run out. Source: https://www.freefood.org/l/ca_anaheim_knott-avenue-christian-church-pantry."
+        },
+        {
+          "date": "2026-10-08",
+          "time": "13:30",
+          "title": "Knott Avenue Christian Church - Free Food Distribution",
+          "description": "Free food distribution at Knott Avenue Christian Church (OC Food Bank partner). Schedule: Thursday 1:30-3:30 PM. Two directory sources (freefood.org and foodpantries.org) agree on Thursday 1:30-3:30 PM. Some listings show a slightly shorter/biweekly window (e.g., Thu 12-1 PM drive-thru 'until food runs out'); all agree the day is Thursday. Recommend calling 714-527-5195 to confirm.. Call (714) 527-5195 to confirm before you go - distributions often end early when supplies run out. Source: https://www.freefood.org/l/ca_anaheim_knott-avenue-christian-church-pantry."
+        },
+        {
+          "date": "2026-10-15",
+          "time": "13:30",
+          "title": "Knott Avenue Christian Church - Free Food Distribution",
+          "description": "Free food distribution at Knott Avenue Christian Church (OC Food Bank partner). Schedule: Thursday 1:30-3:30 PM. Two directory sources (freefood.org and foodpantries.org) agree on Thursday 1:30-3:30 PM. Some listings show a slightly shorter/biweekly window (e.g., Thu 12-1 PM drive-thru 'until food runs out'); all agree the day is Thursday. Recommend calling 714-527-5195 to confirm.. Call (714) 527-5195 to confirm before you go - distributions often end early when supplies run out. Source: https://www.freefood.org/l/ca_anaheim_knott-avenue-christian-church-pantry."
+        },
+        {
+          "date": "2026-10-22",
+          "time": "13:30",
+          "title": "Knott Avenue Christian Church - Free Food Distribution",
+          "description": "Free food distribution at Knott Avenue Christian Church (OC Food Bank partner). Schedule: Thursday 1:30-3:30 PM. Two directory sources (freefood.org and foodpantries.org) agree on Thursday 1:30-3:30 PM. Some listings show a slightly shorter/biweekly window (e.g., Thu 12-1 PM drive-thru 'until food runs out'); all agree the day is Thursday. Recommend calling 714-527-5195 to confirm.. Call (714) 527-5195 to confirm before you go - distributions often end early when supplies run out. Source: https://www.freefood.org/l/ca_anaheim_knott-avenue-christian-church-pantry."
+        },
+        {
+          "date": "2026-10-29",
+          "time": "13:30",
+          "title": "Knott Avenue Christian Church - Free Food Distribution",
+          "description": "Free food distribution at Knott Avenue Christian Church (OC Food Bank partner). Schedule: Thursday 1:30-3:30 PM. Two directory sources (freefood.org and foodpantries.org) agree on Thursday 1:30-3:30 PM. Some listings show a slightly shorter/biweekly window (e.g., Thu 12-1 PM drive-thru 'until food runs out'); all agree the day is Thursday. Recommend calling 714-527-5195 to confirm.. Call (714) 527-5195 to confirm before you go - distributions often end early when supplies run out. Source: https://www.freefood.org/l/ca_anaheim_knott-avenue-christian-church-pantry."
+        },
+        {
+          "date": "2026-11-05",
+          "time": "13:30",
+          "title": "Knott Avenue Christian Church - Free Food Distribution",
+          "description": "Free food distribution at Knott Avenue Christian Church (OC Food Bank partner). Schedule: Thursday 1:30-3:30 PM. Two directory sources (freefood.org and foodpantries.org) agree on Thursday 1:30-3:30 PM. Some listings show a slightly shorter/biweekly window (e.g., Thu 12-1 PM drive-thru 'until food runs out'); all agree the day is Thursday. Recommend calling 714-527-5195 to confirm.. Call (714) 527-5195 to confirm before you go - distributions often end early when supplies run out. Source: https://www.freefood.org/l/ca_anaheim_knott-avenue-christian-church-pantry."
+        },
+        {
+          "date": "2026-11-12",
+          "time": "13:30",
+          "title": "Knott Avenue Christian Church - Free Food Distribution",
+          "description": "Free food distribution at Knott Avenue Christian Church (OC Food Bank partner). Schedule: Thursday 1:30-3:30 PM. Two directory sources (freefood.org and foodpantries.org) agree on Thursday 1:30-3:30 PM. Some listings show a slightly shorter/biweekly window (e.g., Thu 12-1 PM drive-thru 'until food runs out'); all agree the day is Thursday. Recommend calling 714-527-5195 to confirm.. Call (714) 527-5195 to confirm before you go - distributions often end early when supplies run out. Source: https://www.freefood.org/l/ca_anaheim_knott-avenue-christian-church-pantry."
+        },
+        {
+          "date": "2026-11-19",
+          "time": "13:30",
+          "title": "Knott Avenue Christian Church - Free Food Distribution",
+          "description": "Free food distribution at Knott Avenue Christian Church (OC Food Bank partner). Schedule: Thursday 1:30-3:30 PM. Two directory sources (freefood.org and foodpantries.org) agree on Thursday 1:30-3:30 PM. Some listings show a slightly shorter/biweekly window (e.g., Thu 12-1 PM drive-thru 'until food runs out'); all agree the day is Thursday. Recommend calling 714-527-5195 to confirm.. Call (714) 527-5195 to confirm before you go - distributions often end early when supplies run out. Source: https://www.freefood.org/l/ca_anaheim_knott-avenue-christian-church-pantry."
+        },
+        {
+          "date": "2026-11-26",
+          "time": "13:30",
+          "title": "Knott Avenue Christian Church - Free Food Distribution",
+          "description": "Free food distribution at Knott Avenue Christian Church (OC Food Bank partner). Schedule: Thursday 1:30-3:30 PM. Two directory sources (freefood.org and foodpantries.org) agree on Thursday 1:30-3:30 PM. Some listings show a slightly shorter/biweekly window (e.g., Thu 12-1 PM drive-thru 'until food runs out'); all agree the day is Thursday. Recommend calling 714-527-5195 to confirm.. Call (714) 527-5195 to confirm before you go - distributions often end early when supplies run out. Source: https://www.freefood.org/l/ca_anaheim_knott-avenue-christian-church-pantry."
+        },
+        {
+          "date": "2026-12-03",
+          "time": "13:30",
+          "title": "Knott Avenue Christian Church - Free Food Distribution",
+          "description": "Free food distribution at Knott Avenue Christian Church (OC Food Bank partner). Schedule: Thursday 1:30-3:30 PM. Two directory sources (freefood.org and foodpantries.org) agree on Thursday 1:30-3:30 PM. Some listings show a slightly shorter/biweekly window (e.g., Thu 12-1 PM drive-thru 'until food runs out'); all agree the day is Thursday. Recommend calling 714-527-5195 to confirm.. Call (714) 527-5195 to confirm before you go - distributions often end early when supplies run out. Source: https://www.freefood.org/l/ca_anaheim_knott-avenue-christian-church-pantry."
+        },
+        {
+          "date": "2026-12-10",
+          "time": "13:30",
+          "title": "Knott Avenue Christian Church - Free Food Distribution",
+          "description": "Free food distribution at Knott Avenue Christian Church (OC Food Bank partner). Schedule: Thursday 1:30-3:30 PM. Two directory sources (freefood.org and foodpantries.org) agree on Thursday 1:30-3:30 PM. Some listings show a slightly shorter/biweekly window (e.g., Thu 12-1 PM drive-thru 'until food runs out'); all agree the day is Thursday. Recommend calling 714-527-5195 to confirm.. Call (714) 527-5195 to confirm before you go - distributions often end early when supplies run out. Source: https://www.freefood.org/l/ca_anaheim_knott-avenue-christian-church-pantry."
+        },
+        {
+          "date": "2026-12-17",
+          "time": "13:30",
+          "title": "Knott Avenue Christian Church - Free Food Distribution",
+          "description": "Free food distribution at Knott Avenue Christian Church (OC Food Bank partner). Schedule: Thursday 1:30-3:30 PM. Two directory sources (freefood.org and foodpantries.org) agree on Thursday 1:30-3:30 PM. Some listings show a slightly shorter/biweekly window (e.g., Thu 12-1 PM drive-thru 'until food runs out'); all agree the day is Thursday. Recommend calling 714-527-5195 to confirm.. Call (714) 527-5195 to confirm before you go - distributions often end early when supplies run out. Source: https://www.freefood.org/l/ca_anaheim_knott-avenue-christian-church-pantry."
+        },
+        {
+          "date": "2026-12-24",
+          "time": "13:30",
+          "title": "Knott Avenue Christian Church - Free Food Distribution",
+          "description": "Free food distribution at Knott Avenue Christian Church (OC Food Bank partner). Schedule: Thursday 1:30-3:30 PM. Two directory sources (freefood.org and foodpantries.org) agree on Thursday 1:30-3:30 PM. Some listings show a slightly shorter/biweekly window (e.g., Thu 12-1 PM drive-thru 'until food runs out'); all agree the day is Thursday. Recommend calling 714-527-5195 to confirm.. Call (714) 527-5195 to confirm before you go - distributions often end early when supplies run out. Source: https://www.freefood.org/l/ca_anaheim_knott-avenue-christian-church-pantry."
+        },
+        {
+          "date": "2026-12-31",
+          "time": "13:30",
+          "title": "Knott Avenue Christian Church - Free Food Distribution",
+          "description": "Free food distribution at Knott Avenue Christian Church (OC Food Bank partner). Schedule: Thursday 1:30-3:30 PM. Two directory sources (freefood.org and foodpantries.org) agree on Thursday 1:30-3:30 PM. Some listings show a slightly shorter/biweekly window (e.g., Thu 12-1 PM drive-thru 'until food runs out'); all agree the day is Thursday. Recommend calling 714-527-5195 to confirm.. Call (714) 527-5195 to confirm before you go - distributions often end early when supplies run out. Source: https://www.freefood.org/l/ca_anaheim_knott-avenue-christian-church-pantry."
+        }
+      ],
+      "_eventCount": 15
+    },
+    {
+      "slug": "crossroads-multinational-church-of-the-nazarene-cerrito",
+      "name": "Crossroads Multinational Church of the Nazarene",
+      "category": "Food Assistance",
+      "tagline": "Sunday 8:30-9:30 AM · OC Food Bank (Community Action Partnership of Orange County)",
+      "description": "Free food distribution site (via OC Food Bank (Community Action Partnership of Orange County)). Schedule: Sunday 8:30-9:30 AM. Call ahead to confirm hours - distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.cerritos.edu/calworks/_includes/docs/MarchFoodBank2021.pdf",
+      "phone": "(562) 809-4143",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "12229 E. Del Amo Blvd, CERRITOS, CA",
+      "lat": 33.846646,
+      "lng": -118.070972,
+      "neighborhood": "",
+      "hours": "Sun, 8:30 AM - 9:30 AM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-09-27",
+          "time": "08:30",
+          "title": "Crossroads Multinational Church of the Nazarene - Free Food Distribution",
+          "description": "Free food distribution at Crossroads Multinational Church of the Nazarene (OC Food Bank partner). Schedule: Sunday 8:30-9:30 AM. Free groceries every Sunday 8:30-9:30 AM, no requirements. Consistent across multiple food-bank guides (Cerritos College CalWORKs guide, LA Best Babies guide). Source documents date to 2021 so confidence lowered; recommend confirming at (562) 809-4143 / 505-1154.. Call (562) 505-1154 to confirm before you go - distributions often end early when supplies run out. Source: https://www.cerritos.edu/calworks/_includes/docs/MarchFoodBank2021.pdf."
+        },
+        {
+          "date": "2026-10-04",
+          "time": "08:30",
+          "title": "Crossroads Multinational Church of the Nazarene - Free Food Distribution",
+          "description": "Free food distribution at Crossroads Multinational Church of the Nazarene (OC Food Bank partner). Schedule: Sunday 8:30-9:30 AM. Free groceries every Sunday 8:30-9:30 AM, no requirements. Consistent across multiple food-bank guides (Cerritos College CalWORKs guide, LA Best Babies guide). Source documents date to 2021 so confidence lowered; recommend confirming at (562) 809-4143 / 505-1154.. Call (562) 505-1154 to confirm before you go - distributions often end early when supplies run out. Source: https://www.cerritos.edu/calworks/_includes/docs/MarchFoodBank2021.pdf."
+        },
+        {
+          "date": "2026-10-11",
+          "time": "08:30",
+          "title": "Crossroads Multinational Church of the Nazarene - Free Food Distribution",
+          "description": "Free food distribution at Crossroads Multinational Church of the Nazarene (OC Food Bank partner). Schedule: Sunday 8:30-9:30 AM. Free groceries every Sunday 8:30-9:30 AM, no requirements. Consistent across multiple food-bank guides (Cerritos College CalWORKs guide, LA Best Babies guide). Source documents date to 2021 so confidence lowered; recommend confirming at (562) 809-4143 / 505-1154.. Call (562) 505-1154 to confirm before you go - distributions often end early when supplies run out. Source: https://www.cerritos.edu/calworks/_includes/docs/MarchFoodBank2021.pdf."
+        },
+        {
+          "date": "2026-10-18",
+          "time": "08:30",
+          "title": "Crossroads Multinational Church of the Nazarene - Free Food Distribution",
+          "description": "Free food distribution at Crossroads Multinational Church of the Nazarene (OC Food Bank partner). Schedule: Sunday 8:30-9:30 AM. Free groceries every Sunday 8:30-9:30 AM, no requirements. Consistent across multiple food-bank guides (Cerritos College CalWORKs guide, LA Best Babies guide). Source documents date to 2021 so confidence lowered; recommend confirming at (562) 809-4143 / 505-1154.. Call (562) 505-1154 to confirm before you go - distributions often end early when supplies run out. Source: https://www.cerritos.edu/calworks/_includes/docs/MarchFoodBank2021.pdf."
+        },
+        {
+          "date": "2026-10-25",
+          "time": "08:30",
+          "title": "Crossroads Multinational Church of the Nazarene - Free Food Distribution",
+          "description": "Free food distribution at Crossroads Multinational Church of the Nazarene (OC Food Bank partner). Schedule: Sunday 8:30-9:30 AM. Free groceries every Sunday 8:30-9:30 AM, no requirements. Consistent across multiple food-bank guides (Cerritos College CalWORKs guide, LA Best Babies guide). Source documents date to 2021 so confidence lowered; recommend confirming at (562) 809-4143 / 505-1154.. Call (562) 505-1154 to confirm before you go - distributions often end early when supplies run out. Source: https://www.cerritos.edu/calworks/_includes/docs/MarchFoodBank2021.pdf."
+        },
+        {
+          "date": "2026-11-01",
+          "time": "08:30",
+          "title": "Crossroads Multinational Church of the Nazarene - Free Food Distribution",
+          "description": "Free food distribution at Crossroads Multinational Church of the Nazarene (OC Food Bank partner). Schedule: Sunday 8:30-9:30 AM. Free groceries every Sunday 8:30-9:30 AM, no requirements. Consistent across multiple food-bank guides (Cerritos College CalWORKs guide, LA Best Babies guide). Source documents date to 2021 so confidence lowered; recommend confirming at (562) 809-4143 / 505-1154.. Call (562) 505-1154 to confirm before you go - distributions often end early when supplies run out. Source: https://www.cerritos.edu/calworks/_includes/docs/MarchFoodBank2021.pdf."
+        },
+        {
+          "date": "2026-11-08",
+          "time": "08:30",
+          "title": "Crossroads Multinational Church of the Nazarene - Free Food Distribution",
+          "description": "Free food distribution at Crossroads Multinational Church of the Nazarene (OC Food Bank partner). Schedule: Sunday 8:30-9:30 AM. Free groceries every Sunday 8:30-9:30 AM, no requirements. Consistent across multiple food-bank guides (Cerritos College CalWORKs guide, LA Best Babies guide). Source documents date to 2021 so confidence lowered; recommend confirming at (562) 809-4143 / 505-1154.. Call (562) 505-1154 to confirm before you go - distributions often end early when supplies run out. Source: https://www.cerritos.edu/calworks/_includes/docs/MarchFoodBank2021.pdf."
+        },
+        {
+          "date": "2026-11-15",
+          "time": "08:30",
+          "title": "Crossroads Multinational Church of the Nazarene - Free Food Distribution",
+          "description": "Free food distribution at Crossroads Multinational Church of the Nazarene (OC Food Bank partner). Schedule: Sunday 8:30-9:30 AM. Free groceries every Sunday 8:30-9:30 AM, no requirements. Consistent across multiple food-bank guides (Cerritos College CalWORKs guide, LA Best Babies guide). Source documents date to 2021 so confidence lowered; recommend confirming at (562) 809-4143 / 505-1154.. Call (562) 505-1154 to confirm before you go - distributions often end early when supplies run out. Source: https://www.cerritos.edu/calworks/_includes/docs/MarchFoodBank2021.pdf."
+        },
+        {
+          "date": "2026-11-22",
+          "time": "08:30",
+          "title": "Crossroads Multinational Church of the Nazarene - Free Food Distribution",
+          "description": "Free food distribution at Crossroads Multinational Church of the Nazarene (OC Food Bank partner). Schedule: Sunday 8:30-9:30 AM. Free groceries every Sunday 8:30-9:30 AM, no requirements. Consistent across multiple food-bank guides (Cerritos College CalWORKs guide, LA Best Babies guide). Source documents date to 2021 so confidence lowered; recommend confirming at (562) 809-4143 / 505-1154.. Call (562) 505-1154 to confirm before you go - distributions often end early when supplies run out. Source: https://www.cerritos.edu/calworks/_includes/docs/MarchFoodBank2021.pdf."
+        },
+        {
+          "date": "2026-11-29",
+          "time": "08:30",
+          "title": "Crossroads Multinational Church of the Nazarene - Free Food Distribution",
+          "description": "Free food distribution at Crossroads Multinational Church of the Nazarene (OC Food Bank partner). Schedule: Sunday 8:30-9:30 AM. Free groceries every Sunday 8:30-9:30 AM, no requirements. Consistent across multiple food-bank guides (Cerritos College CalWORKs guide, LA Best Babies guide). Source documents date to 2021 so confidence lowered; recommend confirming at (562) 809-4143 / 505-1154.. Call (562) 505-1154 to confirm before you go - distributions often end early when supplies run out. Source: https://www.cerritos.edu/calworks/_includes/docs/MarchFoodBank2021.pdf."
+        },
+        {
+          "date": "2026-12-06",
+          "time": "08:30",
+          "title": "Crossroads Multinational Church of the Nazarene - Free Food Distribution",
+          "description": "Free food distribution at Crossroads Multinational Church of the Nazarene (OC Food Bank partner). Schedule: Sunday 8:30-9:30 AM. Free groceries every Sunday 8:30-9:30 AM, no requirements. Consistent across multiple food-bank guides (Cerritos College CalWORKs guide, LA Best Babies guide). Source documents date to 2021 so confidence lowered; recommend confirming at (562) 809-4143 / 505-1154.. Call (562) 505-1154 to confirm before you go - distributions often end early when supplies run out. Source: https://www.cerritos.edu/calworks/_includes/docs/MarchFoodBank2021.pdf."
+        },
+        {
+          "date": "2026-12-13",
+          "time": "08:30",
+          "title": "Crossroads Multinational Church of the Nazarene - Free Food Distribution",
+          "description": "Free food distribution at Crossroads Multinational Church of the Nazarene (OC Food Bank partner). Schedule: Sunday 8:30-9:30 AM. Free groceries every Sunday 8:30-9:30 AM, no requirements. Consistent across multiple food-bank guides (Cerritos College CalWORKs guide, LA Best Babies guide). Source documents date to 2021 so confidence lowered; recommend confirming at (562) 809-4143 / 505-1154.. Call (562) 505-1154 to confirm before you go - distributions often end early when supplies run out. Source: https://www.cerritos.edu/calworks/_includes/docs/MarchFoodBank2021.pdf."
+        },
+        {
+          "date": "2026-12-20",
+          "time": "08:30",
+          "title": "Crossroads Multinational Church of the Nazarene - Free Food Distribution",
+          "description": "Free food distribution at Crossroads Multinational Church of the Nazarene (OC Food Bank partner). Schedule: Sunday 8:30-9:30 AM. Free groceries every Sunday 8:30-9:30 AM, no requirements. Consistent across multiple food-bank guides (Cerritos College CalWORKs guide, LA Best Babies guide). Source documents date to 2021 so confidence lowered; recommend confirming at (562) 809-4143 / 505-1154.. Call (562) 505-1154 to confirm before you go - distributions often end early when supplies run out. Source: https://www.cerritos.edu/calworks/_includes/docs/MarchFoodBank2021.pdf."
+        },
+        {
+          "date": "2026-12-27",
+          "time": "08:30",
+          "title": "Crossroads Multinational Church of the Nazarene - Free Food Distribution",
+          "description": "Free food distribution at Crossroads Multinational Church of the Nazarene (OC Food Bank partner). Schedule: Sunday 8:30-9:30 AM. Free groceries every Sunday 8:30-9:30 AM, no requirements. Consistent across multiple food-bank guides (Cerritos College CalWORKs guide, LA Best Babies guide). Source documents date to 2021 so confidence lowered; recommend confirming at (562) 809-4143 / 505-1154.. Call (562) 505-1154 to confirm before you go - distributions often end early when supplies run out. Source: https://www.cerritos.edu/calworks/_includes/docs/MarchFoodBank2021.pdf."
+        }
+      ],
+      "_eventCount": 14
+    },
+    {
+      "slug": "calvary-chapel-westgrove-shining-light-garden-grove",
+      "name": "Calvary Chapel WestGrove/Shining Light",
+      "category": "Food Assistance",
+      "tagline": "Thursday, Friday 3-4:30 PM · OC Food Bank (Community Action Partnership of Orange County)",
+      "description": "Free food distribution site (via OC Food Bank (Community Action Partnership of Orange County)). Schedule: Thursday, Friday 3-4:30 PM. Call ahead to confirm hours - distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.foodpantries.org/li/calvary_chapel_westgrove_bread_of_life_92841",
+      "phone": "(714) 897-8972",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "12832 Knott Street, GARDEN GROVE, CA",
+      "lat": 33.775775,
+      "lng": -118.006612,
+      "neighborhood": "",
+      "hours": "Thu - Fri, 3 PM - 4:30 PM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-09-24",
+          "time": "15:00",
+          "title": "Calvary Chapel WestGrove/Shining Light - Free Food Distribution",
+          "description": "Free food distribution at Calvary Chapel WestGrove/Shining Light (OC Food Bank partner). Schedule: Thursday, Friday 3-4:30 PM. Calvary Chapel Westgrove 'Bread of Life' food pantry is open Thu & Fri 3:00-4:30 PM (photo ID required, any city). Confirmed by two directories (foodpantries.org and feedam.org/resource/200620). Separately, the 'Shining Light' ministry serves a MONTHLY hot meal on Mondays (~6-8:30 PM at Atlantis/Garden Grove Park) - not a specific weekly pantry, so schedule above reflects the Bread of Life pantry.. Call (714) 897-8972 to confirm before you go - distributions often end early when supplies run out. Source: https://www.foodpantries.org/li/calvary_chapel_westgrove_bread_of_life_92841."
+        },
+        {
+          "date": "2026-09-25",
+          "time": "15:00",
+          "title": "Calvary Chapel WestGrove/Shining Light - Free Food Distribution",
+          "description": "Free food distribution at Calvary Chapel WestGrove/Shining Light (OC Food Bank partner). Schedule: Thursday, Friday 3-4:30 PM. Calvary Chapel Westgrove 'Bread of Life' food pantry is open Thu & Fri 3:00-4:30 PM (photo ID required, any city). Confirmed by two directories (foodpantries.org and feedam.org/resource/200620). Separately, the 'Shining Light' ministry serves a MONTHLY hot meal on Mondays (~6-8:30 PM at Atlantis/Garden Grove Park) - not a specific weekly pantry, so schedule above reflects the Bread of Life pantry.. Call (714) 897-8972 to confirm before you go - distributions often end early when supplies run out. Source: https://www.foodpantries.org/li/calvary_chapel_westgrove_bread_of_life_92841."
+        },
+        {
+          "date": "2026-10-01",
+          "time": "15:00",
+          "title": "Calvary Chapel WestGrove/Shining Light - Free Food Distribution",
+          "description": "Free food distribution at Calvary Chapel WestGrove/Shining Light (OC Food Bank partner). Schedule: Thursday, Friday 3-4:30 PM. Calvary Chapel Westgrove 'Bread of Life' food pantry is open Thu & Fri 3:00-4:30 PM (photo ID required, any city). Confirmed by two directories (foodpantries.org and feedam.org/resource/200620). Separately, the 'Shining Light' ministry serves a MONTHLY hot meal on Mondays (~6-8:30 PM at Atlantis/Garden Grove Park) - not a specific weekly pantry, so schedule above reflects the Bread of Life pantry.. Call (714) 897-8972 to confirm before you go - distributions often end early when supplies run out. Source: https://www.foodpantries.org/li/calvary_chapel_westgrove_bread_of_life_92841."
+        },
+        {
+          "date": "2026-10-02",
+          "time": "15:00",
+          "title": "Calvary Chapel WestGrove/Shining Light - Free Food Distribution",
+          "description": "Free food distribution at Calvary Chapel WestGrove/Shining Light (OC Food Bank partner). Schedule: Thursday, Friday 3-4:30 PM. Calvary Chapel Westgrove 'Bread of Life' food pantry is open Thu & Fri 3:00-4:30 PM (photo ID required, any city). Confirmed by two directories (foodpantries.org and feedam.org/resource/200620). Separately, the 'Shining Light' ministry serves a MONTHLY hot meal on Mondays (~6-8:30 PM at Atlantis/Garden Grove Park) - not a specific weekly pantry, so schedule above reflects the Bread of Life pantry.. Call (714) 897-8972 to confirm before you go - distributions often end early when supplies run out. Source: https://www.foodpantries.org/li/calvary_chapel_westgrove_bread_of_life_92841."
+        },
+        {
+          "date": "2026-10-08",
+          "time": "15:00",
+          "title": "Calvary Chapel WestGrove/Shining Light - Free Food Distribution",
+          "description": "Free food distribution at Calvary Chapel WestGrove/Shining Light (OC Food Bank partner). Schedule: Thursday, Friday 3-4:30 PM. Calvary Chapel Westgrove 'Bread of Life' food pantry is open Thu & Fri 3:00-4:30 PM (photo ID required, any city). Confirmed by two directories (foodpantries.org and feedam.org/resource/200620). Separately, the 'Shining Light' ministry serves a MONTHLY hot meal on Mondays (~6-8:30 PM at Atlantis/Garden Grove Park) - not a specific weekly pantry, so schedule above reflects the Bread of Life pantry.. Call (714) 897-8972 to confirm before you go - distributions often end early when supplies run out. Source: https://www.foodpantries.org/li/calvary_chapel_westgrove_bread_of_life_92841."
+        },
+        {
+          "date": "2026-10-09",
+          "time": "15:00",
+          "title": "Calvary Chapel WestGrove/Shining Light - Free Food Distribution",
+          "description": "Free food distribution at Calvary Chapel WestGrove/Shining Light (OC Food Bank partner). Schedule: Thursday, Friday 3-4:30 PM. Calvary Chapel Westgrove 'Bread of Life' food pantry is open Thu & Fri 3:00-4:30 PM (photo ID required, any city). Confirmed by two directories (foodpantries.org and feedam.org/resource/200620). Separately, the 'Shining Light' ministry serves a MONTHLY hot meal on Mondays (~6-8:30 PM at Atlantis/Garden Grove Park) - not a specific weekly pantry, so schedule above reflects the Bread of Life pantry.. Call (714) 897-8972 to confirm before you go - distributions often end early when supplies run out. Source: https://www.foodpantries.org/li/calvary_chapel_westgrove_bread_of_life_92841."
+        },
+        {
+          "date": "2026-10-15",
+          "time": "15:00",
+          "title": "Calvary Chapel WestGrove/Shining Light - Free Food Distribution",
+          "description": "Free food distribution at Calvary Chapel WestGrove/Shining Light (OC Food Bank partner). Schedule: Thursday, Friday 3-4:30 PM. Calvary Chapel Westgrove 'Bread of Life' food pantry is open Thu & Fri 3:00-4:30 PM (photo ID required, any city). Confirmed by two directories (foodpantries.org and feedam.org/resource/200620). Separately, the 'Shining Light' ministry serves a MONTHLY hot meal on Mondays (~6-8:30 PM at Atlantis/Garden Grove Park) - not a specific weekly pantry, so schedule above reflects the Bread of Life pantry.. Call (714) 897-8972 to confirm before you go - distributions often end early when supplies run out. Source: https://www.foodpantries.org/li/calvary_chapel_westgrove_bread_of_life_92841."
+        },
+        {
+          "date": "2026-10-16",
+          "time": "15:00",
+          "title": "Calvary Chapel WestGrove/Shining Light - Free Food Distribution",
+          "description": "Free food distribution at Calvary Chapel WestGrove/Shining Light (OC Food Bank partner). Schedule: Thursday, Friday 3-4:30 PM. Calvary Chapel Westgrove 'Bread of Life' food pantry is open Thu & Fri 3:00-4:30 PM (photo ID required, any city). Confirmed by two directories (foodpantries.org and feedam.org/resource/200620). Separately, the 'Shining Light' ministry serves a MONTHLY hot meal on Mondays (~6-8:30 PM at Atlantis/Garden Grove Park) - not a specific weekly pantry, so schedule above reflects the Bread of Life pantry.. Call (714) 897-8972 to confirm before you go - distributions often end early when supplies run out. Source: https://www.foodpantries.org/li/calvary_chapel_westgrove_bread_of_life_92841."
+        },
+        {
+          "date": "2026-10-22",
+          "time": "15:00",
+          "title": "Calvary Chapel WestGrove/Shining Light - Free Food Distribution",
+          "description": "Free food distribution at Calvary Chapel WestGrove/Shining Light (OC Food Bank partner). Schedule: Thursday, Friday 3-4:30 PM. Calvary Chapel Westgrove 'Bread of Life' food pantry is open Thu & Fri 3:00-4:30 PM (photo ID required, any city). Confirmed by two directories (foodpantries.org and feedam.org/resource/200620). Separately, the 'Shining Light' ministry serves a MONTHLY hot meal on Mondays (~6-8:30 PM at Atlantis/Garden Grove Park) - not a specific weekly pantry, so schedule above reflects the Bread of Life pantry.. Call (714) 897-8972 to confirm before you go - distributions often end early when supplies run out. Source: https://www.foodpantries.org/li/calvary_chapel_westgrove_bread_of_life_92841."
+        },
+        {
+          "date": "2026-10-23",
+          "time": "15:00",
+          "title": "Calvary Chapel WestGrove/Shining Light - Free Food Distribution",
+          "description": "Free food distribution at Calvary Chapel WestGrove/Shining Light (OC Food Bank partner). Schedule: Thursday, Friday 3-4:30 PM. Calvary Chapel Westgrove 'Bread of Life' food pantry is open Thu & Fri 3:00-4:30 PM (photo ID required, any city). Confirmed by two directories (foodpantries.org and feedam.org/resource/200620). Separately, the 'Shining Light' ministry serves a MONTHLY hot meal on Mondays (~6-8:30 PM at Atlantis/Garden Grove Park) - not a specific weekly pantry, so schedule above reflects the Bread of Life pantry.. Call (714) 897-8972 to confirm before you go - distributions often end early when supplies run out. Source: https://www.foodpantries.org/li/calvary_chapel_westgrove_bread_of_life_92841."
+        },
+        {
+          "date": "2026-10-29",
+          "time": "15:00",
+          "title": "Calvary Chapel WestGrove/Shining Light - Free Food Distribution",
+          "description": "Free food distribution at Calvary Chapel WestGrove/Shining Light (OC Food Bank partner). Schedule: Thursday, Friday 3-4:30 PM. Calvary Chapel Westgrove 'Bread of Life' food pantry is open Thu & Fri 3:00-4:30 PM (photo ID required, any city). Confirmed by two directories (foodpantries.org and feedam.org/resource/200620). Separately, the 'Shining Light' ministry serves a MONTHLY hot meal on Mondays (~6-8:30 PM at Atlantis/Garden Grove Park) - not a specific weekly pantry, so schedule above reflects the Bread of Life pantry.. Call (714) 897-8972 to confirm before you go - distributions often end early when supplies run out. Source: https://www.foodpantries.org/li/calvary_chapel_westgrove_bread_of_life_92841."
+        },
+        {
+          "date": "2026-10-30",
+          "time": "15:00",
+          "title": "Calvary Chapel WestGrove/Shining Light - Free Food Distribution",
+          "description": "Free food distribution at Calvary Chapel WestGrove/Shining Light (OC Food Bank partner). Schedule: Thursday, Friday 3-4:30 PM. Calvary Chapel Westgrove 'Bread of Life' food pantry is open Thu & Fri 3:00-4:30 PM (photo ID required, any city). Confirmed by two directories (foodpantries.org and feedam.org/resource/200620). Separately, the 'Shining Light' ministry serves a MONTHLY hot meal on Mondays (~6-8:30 PM at Atlantis/Garden Grove Park) - not a specific weekly pantry, so schedule above reflects the Bread of Life pantry.. Call (714) 897-8972 to confirm before you go - distributions often end early when supplies run out. Source: https://www.foodpantries.org/li/calvary_chapel_westgrove_bread_of_life_92841."
+        },
+        {
+          "date": "2026-11-05",
+          "time": "15:00",
+          "title": "Calvary Chapel WestGrove/Shining Light - Free Food Distribution",
+          "description": "Free food distribution at Calvary Chapel WestGrove/Shining Light (OC Food Bank partner). Schedule: Thursday, Friday 3-4:30 PM. Calvary Chapel Westgrove 'Bread of Life' food pantry is open Thu & Fri 3:00-4:30 PM (photo ID required, any city). Confirmed by two directories (foodpantries.org and feedam.org/resource/200620). Separately, the 'Shining Light' ministry serves a MONTHLY hot meal on Mondays (~6-8:30 PM at Atlantis/Garden Grove Park) - not a specific weekly pantry, so schedule above reflects the Bread of Life pantry.. Call (714) 897-8972 to confirm before you go - distributions often end early when supplies run out. Source: https://www.foodpantries.org/li/calvary_chapel_westgrove_bread_of_life_92841."
+        },
+        {
+          "date": "2026-11-06",
+          "time": "15:00",
+          "title": "Calvary Chapel WestGrove/Shining Light - Free Food Distribution",
+          "description": "Free food distribution at Calvary Chapel WestGrove/Shining Light (OC Food Bank partner). Schedule: Thursday, Friday 3-4:30 PM. Calvary Chapel Westgrove 'Bread of Life' food pantry is open Thu & Fri 3:00-4:30 PM (photo ID required, any city). Confirmed by two directories (foodpantries.org and feedam.org/resource/200620). Separately, the 'Shining Light' ministry serves a MONTHLY hot meal on Mondays (~6-8:30 PM at Atlantis/Garden Grove Park) - not a specific weekly pantry, so schedule above reflects the Bread of Life pantry.. Call (714) 897-8972 to confirm before you go - distributions often end early when supplies run out. Source: https://www.foodpantries.org/li/calvary_chapel_westgrove_bread_of_life_92841."
+        },
+        {
+          "date": "2026-11-12",
+          "time": "15:00",
+          "title": "Calvary Chapel WestGrove/Shining Light - Free Food Distribution",
+          "description": "Free food distribution at Calvary Chapel WestGrove/Shining Light (OC Food Bank partner). Schedule: Thursday, Friday 3-4:30 PM. Calvary Chapel Westgrove 'Bread of Life' food pantry is open Thu & Fri 3:00-4:30 PM (photo ID required, any city). Confirmed by two directories (foodpantries.org and feedam.org/resource/200620). Separately, the 'Shining Light' ministry serves a MONTHLY hot meal on Mondays (~6-8:30 PM at Atlantis/Garden Grove Park) - not a specific weekly pantry, so schedule above reflects the Bread of Life pantry.. Call (714) 897-8972 to confirm before you go - distributions often end early when supplies run out. Source: https://www.foodpantries.org/li/calvary_chapel_westgrove_bread_of_life_92841."
+        },
+        {
+          "date": "2026-11-13",
+          "time": "15:00",
+          "title": "Calvary Chapel WestGrove/Shining Light - Free Food Distribution",
+          "description": "Free food distribution at Calvary Chapel WestGrove/Shining Light (OC Food Bank partner). Schedule: Thursday, Friday 3-4:30 PM. Calvary Chapel Westgrove 'Bread of Life' food pantry is open Thu & Fri 3:00-4:30 PM (photo ID required, any city). Confirmed by two directories (foodpantries.org and feedam.org/resource/200620). Separately, the 'Shining Light' ministry serves a MONTHLY hot meal on Mondays (~6-8:30 PM at Atlantis/Garden Grove Park) - not a specific weekly pantry, so schedule above reflects the Bread of Life pantry.. Call (714) 897-8972 to confirm before you go - distributions often end early when supplies run out. Source: https://www.foodpantries.org/li/calvary_chapel_westgrove_bread_of_life_92841."
+        },
+        {
+          "date": "2026-11-19",
+          "time": "15:00",
+          "title": "Calvary Chapel WestGrove/Shining Light - Free Food Distribution",
+          "description": "Free food distribution at Calvary Chapel WestGrove/Shining Light (OC Food Bank partner). Schedule: Thursday, Friday 3-4:30 PM. Calvary Chapel Westgrove 'Bread of Life' food pantry is open Thu & Fri 3:00-4:30 PM (photo ID required, any city). Confirmed by two directories (foodpantries.org and feedam.org/resource/200620). Separately, the 'Shining Light' ministry serves a MONTHLY hot meal on Mondays (~6-8:30 PM at Atlantis/Garden Grove Park) - not a specific weekly pantry, so schedule above reflects the Bread of Life pantry.. Call (714) 897-8972 to confirm before you go - distributions often end early when supplies run out. Source: https://www.foodpantries.org/li/calvary_chapel_westgrove_bread_of_life_92841."
+        },
+        {
+          "date": "2026-11-20",
+          "time": "15:00",
+          "title": "Calvary Chapel WestGrove/Shining Light - Free Food Distribution",
+          "description": "Free food distribution at Calvary Chapel WestGrove/Shining Light (OC Food Bank partner). Schedule: Thursday, Friday 3-4:30 PM. Calvary Chapel Westgrove 'Bread of Life' food pantry is open Thu & Fri 3:00-4:30 PM (photo ID required, any city). Confirmed by two directories (foodpantries.org and feedam.org/resource/200620). Separately, the 'Shining Light' ministry serves a MONTHLY hot meal on Mondays (~6-8:30 PM at Atlantis/Garden Grove Park) - not a specific weekly pantry, so schedule above reflects the Bread of Life pantry.. Call (714) 897-8972 to confirm before you go - distributions often end early when supplies run out. Source: https://www.foodpantries.org/li/calvary_chapel_westgrove_bread_of_life_92841."
+        },
+        {
+          "date": "2026-11-26",
+          "time": "15:00",
+          "title": "Calvary Chapel WestGrove/Shining Light - Free Food Distribution",
+          "description": "Free food distribution at Calvary Chapel WestGrove/Shining Light (OC Food Bank partner). Schedule: Thursday, Friday 3-4:30 PM. Calvary Chapel Westgrove 'Bread of Life' food pantry is open Thu & Fri 3:00-4:30 PM (photo ID required, any city). Confirmed by two directories (foodpantries.org and feedam.org/resource/200620). Separately, the 'Shining Light' ministry serves a MONTHLY hot meal on Mondays (~6-8:30 PM at Atlantis/Garden Grove Park) - not a specific weekly pantry, so schedule above reflects the Bread of Life pantry.. Call (714) 897-8972 to confirm before you go - distributions often end early when supplies run out. Source: https://www.foodpantries.org/li/calvary_chapel_westgrove_bread_of_life_92841."
+        },
+        {
+          "date": "2026-11-27",
+          "time": "15:00",
+          "title": "Calvary Chapel WestGrove/Shining Light - Free Food Distribution",
+          "description": "Free food distribution at Calvary Chapel WestGrove/Shining Light (OC Food Bank partner). Schedule: Thursday, Friday 3-4:30 PM. Calvary Chapel Westgrove 'Bread of Life' food pantry is open Thu & Fri 3:00-4:30 PM (photo ID required, any city). Confirmed by two directories (foodpantries.org and feedam.org/resource/200620). Separately, the 'Shining Light' ministry serves a MONTHLY hot meal on Mondays (~6-8:30 PM at Atlantis/Garden Grove Park) - not a specific weekly pantry, so schedule above reflects the Bread of Life pantry.. Call (714) 897-8972 to confirm before you go - distributions often end early when supplies run out. Source: https://www.foodpantries.org/li/calvary_chapel_westgrove_bread_of_life_92841."
+        },
+        {
+          "date": "2026-12-03",
+          "time": "15:00",
+          "title": "Calvary Chapel WestGrove/Shining Light - Free Food Distribution",
+          "description": "Free food distribution at Calvary Chapel WestGrove/Shining Light (OC Food Bank partner). Schedule: Thursday, Friday 3-4:30 PM. Calvary Chapel Westgrove 'Bread of Life' food pantry is open Thu & Fri 3:00-4:30 PM (photo ID required, any city). Confirmed by two directories (foodpantries.org and feedam.org/resource/200620). Separately, the 'Shining Light' ministry serves a MONTHLY hot meal on Mondays (~6-8:30 PM at Atlantis/Garden Grove Park) - not a specific weekly pantry, so schedule above reflects the Bread of Life pantry.. Call (714) 897-8972 to confirm before you go - distributions often end early when supplies run out. Source: https://www.foodpantries.org/li/calvary_chapel_westgrove_bread_of_life_92841."
+        },
+        {
+          "date": "2026-12-04",
+          "time": "15:00",
+          "title": "Calvary Chapel WestGrove/Shining Light - Free Food Distribution",
+          "description": "Free food distribution at Calvary Chapel WestGrove/Shining Light (OC Food Bank partner). Schedule: Thursday, Friday 3-4:30 PM. Calvary Chapel Westgrove 'Bread of Life' food pantry is open Thu & Fri 3:00-4:30 PM (photo ID required, any city). Confirmed by two directories (foodpantries.org and feedam.org/resource/200620). Separately, the 'Shining Light' ministry serves a MONTHLY hot meal on Mondays (~6-8:30 PM at Atlantis/Garden Grove Park) - not a specific weekly pantry, so schedule above reflects the Bread of Life pantry.. Call (714) 897-8972 to confirm before you go - distributions often end early when supplies run out. Source: https://www.foodpantries.org/li/calvary_chapel_westgrove_bread_of_life_92841."
+        },
+        {
+          "date": "2026-12-10",
+          "time": "15:00",
+          "title": "Calvary Chapel WestGrove/Shining Light - Free Food Distribution",
+          "description": "Free food distribution at Calvary Chapel WestGrove/Shining Light (OC Food Bank partner). Schedule: Thursday, Friday 3-4:30 PM. Calvary Chapel Westgrove 'Bread of Life' food pantry is open Thu & Fri 3:00-4:30 PM (photo ID required, any city). Confirmed by two directories (foodpantries.org and feedam.org/resource/200620). Separately, the 'Shining Light' ministry serves a MONTHLY hot meal on Mondays (~6-8:30 PM at Atlantis/Garden Grove Park) - not a specific weekly pantry, so schedule above reflects the Bread of Life pantry.. Call (714) 897-8972 to confirm before you go - distributions often end early when supplies run out. Source: https://www.foodpantries.org/li/calvary_chapel_westgrove_bread_of_life_92841."
+        },
+        {
+          "date": "2026-12-11",
+          "time": "15:00",
+          "title": "Calvary Chapel WestGrove/Shining Light - Free Food Distribution",
+          "description": "Free food distribution at Calvary Chapel WestGrove/Shining Light (OC Food Bank partner). Schedule: Thursday, Friday 3-4:30 PM. Calvary Chapel Westgrove 'Bread of Life' food pantry is open Thu & Fri 3:00-4:30 PM (photo ID required, any city). Confirmed by two directories (foodpantries.org and feedam.org/resource/200620). Separately, the 'Shining Light' ministry serves a MONTHLY hot meal on Mondays (~6-8:30 PM at Atlantis/Garden Grove Park) - not a specific weekly pantry, so schedule above reflects the Bread of Life pantry.. Call (714) 897-8972 to confirm before you go - distributions often end early when supplies run out. Source: https://www.foodpantries.org/li/calvary_chapel_westgrove_bread_of_life_92841."
+        },
+        {
+          "date": "2026-12-17",
+          "time": "15:00",
+          "title": "Calvary Chapel WestGrove/Shining Light - Free Food Distribution",
+          "description": "Free food distribution at Calvary Chapel WestGrove/Shining Light (OC Food Bank partner). Schedule: Thursday, Friday 3-4:30 PM. Calvary Chapel Westgrove 'Bread of Life' food pantry is open Thu & Fri 3:00-4:30 PM (photo ID required, any city). Confirmed by two directories (foodpantries.org and feedam.org/resource/200620). Separately, the 'Shining Light' ministry serves a MONTHLY hot meal on Mondays (~6-8:30 PM at Atlantis/Garden Grove Park) - not a specific weekly pantry, so schedule above reflects the Bread of Life pantry.. Call (714) 897-8972 to confirm before you go - distributions often end early when supplies run out. Source: https://www.foodpantries.org/li/calvary_chapel_westgrove_bread_of_life_92841."
+        },
+        {
+          "date": "2026-12-18",
+          "time": "15:00",
+          "title": "Calvary Chapel WestGrove/Shining Light - Free Food Distribution",
+          "description": "Free food distribution at Calvary Chapel WestGrove/Shining Light (OC Food Bank partner). Schedule: Thursday, Friday 3-4:30 PM. Calvary Chapel Westgrove 'Bread of Life' food pantry is open Thu & Fri 3:00-4:30 PM (photo ID required, any city). Confirmed by two directories (foodpantries.org and feedam.org/resource/200620). Separately, the 'Shining Light' ministry serves a MONTHLY hot meal on Mondays (~6-8:30 PM at Atlantis/Garden Grove Park) - not a specific weekly pantry, so schedule above reflects the Bread of Life pantry.. Call (714) 897-8972 to confirm before you go - distributions often end early when supplies run out. Source: https://www.foodpantries.org/li/calvary_chapel_westgrove_bread_of_life_92841."
+        },
+        {
+          "date": "2026-12-24",
+          "time": "15:00",
+          "title": "Calvary Chapel WestGrove/Shining Light - Free Food Distribution",
+          "description": "Free food distribution at Calvary Chapel WestGrove/Shining Light (OC Food Bank partner). Schedule: Thursday, Friday 3-4:30 PM. Calvary Chapel Westgrove 'Bread of Life' food pantry is open Thu & Fri 3:00-4:30 PM (photo ID required, any city). Confirmed by two directories (foodpantries.org and feedam.org/resource/200620). Separately, the 'Shining Light' ministry serves a MONTHLY hot meal on Mondays (~6-8:30 PM at Atlantis/Garden Grove Park) - not a specific weekly pantry, so schedule above reflects the Bread of Life pantry.. Call (714) 897-8972 to confirm before you go - distributions often end early when supplies run out. Source: https://www.foodpantries.org/li/calvary_chapel_westgrove_bread_of_life_92841."
+        },
+        {
+          "date": "2026-12-25",
+          "time": "15:00",
+          "title": "Calvary Chapel WestGrove/Shining Light - Free Food Distribution",
+          "description": "Free food distribution at Calvary Chapel WestGrove/Shining Light (OC Food Bank partner). Schedule: Thursday, Friday 3-4:30 PM. Calvary Chapel Westgrove 'Bread of Life' food pantry is open Thu & Fri 3:00-4:30 PM (photo ID required, any city). Confirmed by two directories (foodpantries.org and feedam.org/resource/200620). Separately, the 'Shining Light' ministry serves a MONTHLY hot meal on Mondays (~6-8:30 PM at Atlantis/Garden Grove Park) - not a specific weekly pantry, so schedule above reflects the Bread of Life pantry.. Call (714) 897-8972 to confirm before you go - distributions often end early when supplies run out. Source: https://www.foodpantries.org/li/calvary_chapel_westgrove_bread_of_life_92841."
+        },
+        {
+          "date": "2026-12-31",
+          "time": "15:00",
+          "title": "Calvary Chapel WestGrove/Shining Light - Free Food Distribution",
+          "description": "Free food distribution at Calvary Chapel WestGrove/Shining Light (OC Food Bank partner). Schedule: Thursday, Friday 3-4:30 PM. Calvary Chapel Westgrove 'Bread of Life' food pantry is open Thu & Fri 3:00-4:30 PM (photo ID required, any city). Confirmed by two directories (foodpantries.org and feedam.org/resource/200620). Separately, the 'Shining Light' ministry serves a MONTHLY hot meal on Mondays (~6-8:30 PM at Atlantis/Garden Grove Park) - not a specific weekly pantry, so schedule above reflects the Bread of Life pantry.. Call (714) 897-8972 to confirm before you go - distributions often end early when supplies run out. Source: https://www.foodpantries.org/li/calvary_chapel_westgrove_bread_of_life_92841."
+        }
+      ],
+      "_eventCount": 29
+    },
+    {
+      "slug": "anselm-episcopal-church-garden-grove",
+      "name": "Anselm Episcopal Church",
+      "category": "Food Assistance",
+      "tagline": "Saturday 8 AM-11 AM · OC Food Bank (Community Action Partnership of Orange County)",
+      "description": "Free food distribution site (via OC Food Bank (Community Action Partnership of Orange County)). Schedule: Saturday 8 AM-11 AM. Call ahead to confirm hours - distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.findhelp.org/food/food-pantry--garden-grove-ca",
+      "phone": "(714) 537-0604",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "13091 Galway St., GARDEN GROVE, CA",
+      "lat": 33.772567,
+      "lng": -117.963469,
+      "neighborhood": "",
+      "hours": "Sat, 8 AM - 11 AM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-09-26",
+          "time": "08:00",
+          "title": "Anselm Episcopal Church - Free Food Distribution",
+          "description": "Free food distribution at Anselm Episcopal Church (OC Food Bank partner). Schedule: Saturday 8 AM-11 AM. St. Anselm of Canterbury Episcopal Church, 13091 Galway St. Groceries handed out Saturday mornings ~8-11 AM per aggregated listing/search summary; could not directly confirm on the church's own site or an authoritative page, so confidence is low. Recommend calling (714) 537-0604 to verify.. Call (714) 537-0604 to confirm before you go - distributions often end early when supplies run out. Source: https://www.findhelp.org/food/food-pantry--garden-grove-ca."
+        },
+        {
+          "date": "2026-10-03",
+          "time": "08:00",
+          "title": "Anselm Episcopal Church - Free Food Distribution",
+          "description": "Free food distribution at Anselm Episcopal Church (OC Food Bank partner). Schedule: Saturday 8 AM-11 AM. St. Anselm of Canterbury Episcopal Church, 13091 Galway St. Groceries handed out Saturday mornings ~8-11 AM per aggregated listing/search summary; could not directly confirm on the church's own site or an authoritative page, so confidence is low. Recommend calling (714) 537-0604 to verify.. Call (714) 537-0604 to confirm before you go - distributions often end early when supplies run out. Source: https://www.findhelp.org/food/food-pantry--garden-grove-ca."
+        },
+        {
+          "date": "2026-10-10",
+          "time": "08:00",
+          "title": "Anselm Episcopal Church - Free Food Distribution",
+          "description": "Free food distribution at Anselm Episcopal Church (OC Food Bank partner). Schedule: Saturday 8 AM-11 AM. St. Anselm of Canterbury Episcopal Church, 13091 Galway St. Groceries handed out Saturday mornings ~8-11 AM per aggregated listing/search summary; could not directly confirm on the church's own site or an authoritative page, so confidence is low. Recommend calling (714) 537-0604 to verify.. Call (714) 537-0604 to confirm before you go - distributions often end early when supplies run out. Source: https://www.findhelp.org/food/food-pantry--garden-grove-ca."
+        },
+        {
+          "date": "2026-10-17",
+          "time": "08:00",
+          "title": "Anselm Episcopal Church - Free Food Distribution",
+          "description": "Free food distribution at Anselm Episcopal Church (OC Food Bank partner). Schedule: Saturday 8 AM-11 AM. St. Anselm of Canterbury Episcopal Church, 13091 Galway St. Groceries handed out Saturday mornings ~8-11 AM per aggregated listing/search summary; could not directly confirm on the church's own site or an authoritative page, so confidence is low. Recommend calling (714) 537-0604 to verify.. Call (714) 537-0604 to confirm before you go - distributions often end early when supplies run out. Source: https://www.findhelp.org/food/food-pantry--garden-grove-ca."
+        },
+        {
+          "date": "2026-10-24",
+          "time": "08:00",
+          "title": "Anselm Episcopal Church - Free Food Distribution",
+          "description": "Free food distribution at Anselm Episcopal Church (OC Food Bank partner). Schedule: Saturday 8 AM-11 AM. St. Anselm of Canterbury Episcopal Church, 13091 Galway St. Groceries handed out Saturday mornings ~8-11 AM per aggregated listing/search summary; could not directly confirm on the church's own site or an authoritative page, so confidence is low. Recommend calling (714) 537-0604 to verify.. Call (714) 537-0604 to confirm before you go - distributions often end early when supplies run out. Source: https://www.findhelp.org/food/food-pantry--garden-grove-ca."
+        },
+        {
+          "date": "2026-10-31",
+          "time": "08:00",
+          "title": "Anselm Episcopal Church - Free Food Distribution",
+          "description": "Free food distribution at Anselm Episcopal Church (OC Food Bank partner). Schedule: Saturday 8 AM-11 AM. St. Anselm of Canterbury Episcopal Church, 13091 Galway St. Groceries handed out Saturday mornings ~8-11 AM per aggregated listing/search summary; could not directly confirm on the church's own site or an authoritative page, so confidence is low. Recommend calling (714) 537-0604 to verify.. Call (714) 537-0604 to confirm before you go - distributions often end early when supplies run out. Source: https://www.findhelp.org/food/food-pantry--garden-grove-ca."
+        },
+        {
+          "date": "2026-11-07",
+          "time": "08:00",
+          "title": "Anselm Episcopal Church - Free Food Distribution",
+          "description": "Free food distribution at Anselm Episcopal Church (OC Food Bank partner). Schedule: Saturday 8 AM-11 AM. St. Anselm of Canterbury Episcopal Church, 13091 Galway St. Groceries handed out Saturday mornings ~8-11 AM per aggregated listing/search summary; could not directly confirm on the church's own site or an authoritative page, so confidence is low. Recommend calling (714) 537-0604 to verify.. Call (714) 537-0604 to confirm before you go - distributions often end early when supplies run out. Source: https://www.findhelp.org/food/food-pantry--garden-grove-ca."
+        },
+        {
+          "date": "2026-11-14",
+          "time": "08:00",
+          "title": "Anselm Episcopal Church - Free Food Distribution",
+          "description": "Free food distribution at Anselm Episcopal Church (OC Food Bank partner). Schedule: Saturday 8 AM-11 AM. St. Anselm of Canterbury Episcopal Church, 13091 Galway St. Groceries handed out Saturday mornings ~8-11 AM per aggregated listing/search summary; could not directly confirm on the church's own site or an authoritative page, so confidence is low. Recommend calling (714) 537-0604 to verify.. Call (714) 537-0604 to confirm before you go - distributions often end early when supplies run out. Source: https://www.findhelp.org/food/food-pantry--garden-grove-ca."
+        },
+        {
+          "date": "2026-11-21",
+          "time": "08:00",
+          "title": "Anselm Episcopal Church - Free Food Distribution",
+          "description": "Free food distribution at Anselm Episcopal Church (OC Food Bank partner). Schedule: Saturday 8 AM-11 AM. St. Anselm of Canterbury Episcopal Church, 13091 Galway St. Groceries handed out Saturday mornings ~8-11 AM per aggregated listing/search summary; could not directly confirm on the church's own site or an authoritative page, so confidence is low. Recommend calling (714) 537-0604 to verify.. Call (714) 537-0604 to confirm before you go - distributions often end early when supplies run out. Source: https://www.findhelp.org/food/food-pantry--garden-grove-ca."
+        },
+        {
+          "date": "2026-11-28",
+          "time": "08:00",
+          "title": "Anselm Episcopal Church - Free Food Distribution",
+          "description": "Free food distribution at Anselm Episcopal Church (OC Food Bank partner). Schedule: Saturday 8 AM-11 AM. St. Anselm of Canterbury Episcopal Church, 13091 Galway St. Groceries handed out Saturday mornings ~8-11 AM per aggregated listing/search summary; could not directly confirm on the church's own site or an authoritative page, so confidence is low. Recommend calling (714) 537-0604 to verify.. Call (714) 537-0604 to confirm before you go - distributions often end early when supplies run out. Source: https://www.findhelp.org/food/food-pantry--garden-grove-ca."
+        },
+        {
+          "date": "2026-12-05",
+          "time": "08:00",
+          "title": "Anselm Episcopal Church - Free Food Distribution",
+          "description": "Free food distribution at Anselm Episcopal Church (OC Food Bank partner). Schedule: Saturday 8 AM-11 AM. St. Anselm of Canterbury Episcopal Church, 13091 Galway St. Groceries handed out Saturday mornings ~8-11 AM per aggregated listing/search summary; could not directly confirm on the church's own site or an authoritative page, so confidence is low. Recommend calling (714) 537-0604 to verify.. Call (714) 537-0604 to confirm before you go - distributions often end early when supplies run out. Source: https://www.findhelp.org/food/food-pantry--garden-grove-ca."
+        },
+        {
+          "date": "2026-12-12",
+          "time": "08:00",
+          "title": "Anselm Episcopal Church - Free Food Distribution",
+          "description": "Free food distribution at Anselm Episcopal Church (OC Food Bank partner). Schedule: Saturday 8 AM-11 AM. St. Anselm of Canterbury Episcopal Church, 13091 Galway St. Groceries handed out Saturday mornings ~8-11 AM per aggregated listing/search summary; could not directly confirm on the church's own site or an authoritative page, so confidence is low. Recommend calling (714) 537-0604 to verify.. Call (714) 537-0604 to confirm before you go - distributions often end early when supplies run out. Source: https://www.findhelp.org/food/food-pantry--garden-grove-ca."
+        },
+        {
+          "date": "2026-12-19",
+          "time": "08:00",
+          "title": "Anselm Episcopal Church - Free Food Distribution",
+          "description": "Free food distribution at Anselm Episcopal Church (OC Food Bank partner). Schedule: Saturday 8 AM-11 AM. St. Anselm of Canterbury Episcopal Church, 13091 Galway St. Groceries handed out Saturday mornings ~8-11 AM per aggregated listing/search summary; could not directly confirm on the church's own site or an authoritative page, so confidence is low. Recommend calling (714) 537-0604 to verify.. Call (714) 537-0604 to confirm before you go - distributions often end early when supplies run out. Source: https://www.findhelp.org/food/food-pantry--garden-grove-ca."
+        },
+        {
+          "date": "2026-12-26",
+          "time": "08:00",
+          "title": "Anselm Episcopal Church - Free Food Distribution",
+          "description": "Free food distribution at Anselm Episcopal Church (OC Food Bank partner). Schedule: Saturday 8 AM-11 AM. St. Anselm of Canterbury Episcopal Church, 13091 Galway St. Groceries handed out Saturday mornings ~8-11 AM per aggregated listing/search summary; could not directly confirm on the church's own site or an authoritative page, so confidence is low. Recommend calling (714) 537-0604 to verify.. Call (714) 537-0604 to confirm before you go - distributions often end early when supplies run out. Source: https://www.findhelp.org/food/food-pantry--garden-grove-ca."
+        }
+      ],
+      "_eventCount": 14
+    },
+    {
+      "slug": "transitions-in-motherhood-los-alamitos",
+      "name": "Transitions in Motherhood",
+      "category": "Food Assistance",
+      "tagline": "3rd Saturday 11 AM-1 PM · OC Food Bank (Community Action Partnership of Orange County)",
+      "description": "Free food distribution site (via OC Food Bank (Community Action Partnership of Orange County)). Schedule: 3rd Saturday 11 AM-1 PM. Call ahead to confirm hours - distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://cityoflosalamitos.org/Calendar.aspx?EID=1686",
+      "phone": "(562) 650-0474",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "4111 Katella Ave, LOS ALAMITOS, CA",
+      "lat": 33.803528,
+      "lng": -118.061062,
+      "neighborhood": "",
+      "hours": "3rd Sat, 11 AM - 1 PM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-10-17",
+          "time": "11:00",
+          "title": "Transitions in Motherhood - Free Food Distribution",
+          "description": "Free food distribution at Transitions in Motherhood (OC Food Bank partner). Schedule: 3rd Saturday 11 AM-1 PM. Free distribution (diapers, wipes, clothing, food) 3rd Saturday of each month, 11am-1pm, at 4111 Katella Ave, Los Alamitos. All welcome. Confirmed via City of Los Alamitos community calendar.. Call (562) 650-0474 to confirm before you go - distributions often end early when supplies run out. Source: https://cityoflosalamitos.org/Calendar.aspx?EID=1686."
+        },
+        {
+          "date": "2026-11-21",
+          "time": "11:00",
+          "title": "Transitions in Motherhood - Free Food Distribution",
+          "description": "Free food distribution at Transitions in Motherhood (OC Food Bank partner). Schedule: 3rd Saturday 11 AM-1 PM. Free distribution (diapers, wipes, clothing, food) 3rd Saturday of each month, 11am-1pm, at 4111 Katella Ave, Los Alamitos. All welcome. Confirmed via City of Los Alamitos community calendar.. Call (562) 650-0474 to confirm before you go - distributions often end early when supplies run out. Source: https://cityoflosalamitos.org/Calendar.aspx?EID=1686."
+        },
+        {
+          "date": "2026-12-19",
+          "time": "11:00",
+          "title": "Transitions in Motherhood - Free Food Distribution",
+          "description": "Free food distribution at Transitions in Motherhood (OC Food Bank partner). Schedule: 3rd Saturday 11 AM-1 PM. Free distribution (diapers, wipes, clothing, food) 3rd Saturday of each month, 11am-1pm, at 4111 Katella Ave, Los Alamitos. All welcome. Confirmed via City of Los Alamitos community calendar.. Call (562) 650-0474 to confirm before you go - distributions often end early when supplies run out. Source: https://cityoflosalamitos.org/Calendar.aspx?EID=1686."
+        }
+      ],
+      "_eventCount": 3
+    },
+    {
+      "slug": "creer-communidad-y-familia-san-juan-capistrano",
+      "name": "CREER Communidad Y Familia",
+      "category": "Food Assistance",
+      "tagline": "Tuesday 11 AM-2 PM · OC Food Bank (Community Action Partnership of Orange County)",
+      "description": "Free food distribution site (via OC Food Bank (Community Action Partnership of Orange County)). Schedule: Tuesday 11 AM-2 PM. Call ahead to confirm hours - distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.alignable.com/san-juan-capistrano-ca/creer-comunidad-y-familia/food-pantry",
+      "phone": "(714) 788-8339",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "31322 Camino Capistrano, SAN JUAN CAPISTRANO, CA",
+      "lat": 33.50763,
+      "lng": -117.66526,
+      "neighborhood": "",
+      "hours": "Tue, 11 AM - 2 PM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-09-22",
+          "time": "11:00",
+          "title": "CREER Communidad Y Familia - Free Food Distribution",
+          "description": "Free food distribution at CREER Communidad Y Familia (OC Food Bank partner). Schedule: Tuesday 11 AM-2 PM. Food pantry provides food Tuesdays 11 AM-2 PM at Stonefield Park, San Juan Capistrano (org address 31322 Camino Capistrano). Source is CREER's Alignable food-pantry listing; not cross-confirmed on their own site, hence medium confidence.. Call (714) 788-8339 to confirm before you go - distributions often end early when supplies run out. Source: https://www.alignable.com/san-juan-capistrano-ca/creer-comunidad-y-familia/food-pantry."
+        },
+        {
+          "date": "2026-09-29",
+          "time": "11:00",
+          "title": "CREER Communidad Y Familia - Free Food Distribution",
+          "description": "Free food distribution at CREER Communidad Y Familia (OC Food Bank partner). Schedule: Tuesday 11 AM-2 PM. Food pantry provides food Tuesdays 11 AM-2 PM at Stonefield Park, San Juan Capistrano (org address 31322 Camino Capistrano). Source is CREER's Alignable food-pantry listing; not cross-confirmed on their own site, hence medium confidence.. Call (714) 788-8339 to confirm before you go - distributions often end early when supplies run out. Source: https://www.alignable.com/san-juan-capistrano-ca/creer-comunidad-y-familia/food-pantry."
+        },
+        {
+          "date": "2026-10-06",
+          "time": "11:00",
+          "title": "CREER Communidad Y Familia - Free Food Distribution",
+          "description": "Free food distribution at CREER Communidad Y Familia (OC Food Bank partner). Schedule: Tuesday 11 AM-2 PM. Food pantry provides food Tuesdays 11 AM-2 PM at Stonefield Park, San Juan Capistrano (org address 31322 Camino Capistrano). Source is CREER's Alignable food-pantry listing; not cross-confirmed on their own site, hence medium confidence.. Call (714) 788-8339 to confirm before you go - distributions often end early when supplies run out. Source: https://www.alignable.com/san-juan-capistrano-ca/creer-comunidad-y-familia/food-pantry."
+        },
+        {
+          "date": "2026-10-13",
+          "time": "11:00",
+          "title": "CREER Communidad Y Familia - Free Food Distribution",
+          "description": "Free food distribution at CREER Communidad Y Familia (OC Food Bank partner). Schedule: Tuesday 11 AM-2 PM. Food pantry provides food Tuesdays 11 AM-2 PM at Stonefield Park, San Juan Capistrano (org address 31322 Camino Capistrano). Source is CREER's Alignable food-pantry listing; not cross-confirmed on their own site, hence medium confidence.. Call (714) 788-8339 to confirm before you go - distributions often end early when supplies run out. Source: https://www.alignable.com/san-juan-capistrano-ca/creer-comunidad-y-familia/food-pantry."
+        },
+        {
+          "date": "2026-10-20",
+          "time": "11:00",
+          "title": "CREER Communidad Y Familia - Free Food Distribution",
+          "description": "Free food distribution at CREER Communidad Y Familia (OC Food Bank partner). Schedule: Tuesday 11 AM-2 PM. Food pantry provides food Tuesdays 11 AM-2 PM at Stonefield Park, San Juan Capistrano (org address 31322 Camino Capistrano). Source is CREER's Alignable food-pantry listing; not cross-confirmed on their own site, hence medium confidence.. Call (714) 788-8339 to confirm before you go - distributions often end early when supplies run out. Source: https://www.alignable.com/san-juan-capistrano-ca/creer-comunidad-y-familia/food-pantry."
+        },
+        {
+          "date": "2026-10-27",
+          "time": "11:00",
+          "title": "CREER Communidad Y Familia - Free Food Distribution",
+          "description": "Free food distribution at CREER Communidad Y Familia (OC Food Bank partner). Schedule: Tuesday 11 AM-2 PM. Food pantry provides food Tuesdays 11 AM-2 PM at Stonefield Park, San Juan Capistrano (org address 31322 Camino Capistrano). Source is CREER's Alignable food-pantry listing; not cross-confirmed on their own site, hence medium confidence.. Call (714) 788-8339 to confirm before you go - distributions often end early when supplies run out. Source: https://www.alignable.com/san-juan-capistrano-ca/creer-comunidad-y-familia/food-pantry."
+        },
+        {
+          "date": "2026-11-03",
+          "time": "11:00",
+          "title": "CREER Communidad Y Familia - Free Food Distribution",
+          "description": "Free food distribution at CREER Communidad Y Familia (OC Food Bank partner). Schedule: Tuesday 11 AM-2 PM. Food pantry provides food Tuesdays 11 AM-2 PM at Stonefield Park, San Juan Capistrano (org address 31322 Camino Capistrano). Source is CREER's Alignable food-pantry listing; not cross-confirmed on their own site, hence medium confidence.. Call (714) 788-8339 to confirm before you go - distributions often end early when supplies run out. Source: https://www.alignable.com/san-juan-capistrano-ca/creer-comunidad-y-familia/food-pantry."
+        },
+        {
+          "date": "2026-11-10",
+          "time": "11:00",
+          "title": "CREER Communidad Y Familia - Free Food Distribution",
+          "description": "Free food distribution at CREER Communidad Y Familia (OC Food Bank partner). Schedule: Tuesday 11 AM-2 PM. Food pantry provides food Tuesdays 11 AM-2 PM at Stonefield Park, San Juan Capistrano (org address 31322 Camino Capistrano). Source is CREER's Alignable food-pantry listing; not cross-confirmed on their own site, hence medium confidence.. Call (714) 788-8339 to confirm before you go - distributions often end early when supplies run out. Source: https://www.alignable.com/san-juan-capistrano-ca/creer-comunidad-y-familia/food-pantry."
+        },
+        {
+          "date": "2026-11-17",
+          "time": "11:00",
+          "title": "CREER Communidad Y Familia - Free Food Distribution",
+          "description": "Free food distribution at CREER Communidad Y Familia (OC Food Bank partner). Schedule: Tuesday 11 AM-2 PM. Food pantry provides food Tuesdays 11 AM-2 PM at Stonefield Park, San Juan Capistrano (org address 31322 Camino Capistrano). Source is CREER's Alignable food-pantry listing; not cross-confirmed on their own site, hence medium confidence.. Call (714) 788-8339 to confirm before you go - distributions often end early when supplies run out. Source: https://www.alignable.com/san-juan-capistrano-ca/creer-comunidad-y-familia/food-pantry."
+        },
+        {
+          "date": "2026-11-24",
+          "time": "11:00",
+          "title": "CREER Communidad Y Familia - Free Food Distribution",
+          "description": "Free food distribution at CREER Communidad Y Familia (OC Food Bank partner). Schedule: Tuesday 11 AM-2 PM. Food pantry provides food Tuesdays 11 AM-2 PM at Stonefield Park, San Juan Capistrano (org address 31322 Camino Capistrano). Source is CREER's Alignable food-pantry listing; not cross-confirmed on their own site, hence medium confidence.. Call (714) 788-8339 to confirm before you go - distributions often end early when supplies run out. Source: https://www.alignable.com/san-juan-capistrano-ca/creer-comunidad-y-familia/food-pantry."
+        },
+        {
+          "date": "2026-12-01",
+          "time": "11:00",
+          "title": "CREER Communidad Y Familia - Free Food Distribution",
+          "description": "Free food distribution at CREER Communidad Y Familia (OC Food Bank partner). Schedule: Tuesday 11 AM-2 PM. Food pantry provides food Tuesdays 11 AM-2 PM at Stonefield Park, San Juan Capistrano (org address 31322 Camino Capistrano). Source is CREER's Alignable food-pantry listing; not cross-confirmed on their own site, hence medium confidence.. Call (714) 788-8339 to confirm before you go - distributions often end early when supplies run out. Source: https://www.alignable.com/san-juan-capistrano-ca/creer-comunidad-y-familia/food-pantry."
+        },
+        {
+          "date": "2026-12-08",
+          "time": "11:00",
+          "title": "CREER Communidad Y Familia - Free Food Distribution",
+          "description": "Free food distribution at CREER Communidad Y Familia (OC Food Bank partner). Schedule: Tuesday 11 AM-2 PM. Food pantry provides food Tuesdays 11 AM-2 PM at Stonefield Park, San Juan Capistrano (org address 31322 Camino Capistrano). Source is CREER's Alignable food-pantry listing; not cross-confirmed on their own site, hence medium confidence.. Call (714) 788-8339 to confirm before you go - distributions often end early when supplies run out. Source: https://www.alignable.com/san-juan-capistrano-ca/creer-comunidad-y-familia/food-pantry."
+        },
+        {
+          "date": "2026-12-15",
+          "time": "11:00",
+          "title": "CREER Communidad Y Familia - Free Food Distribution",
+          "description": "Free food distribution at CREER Communidad Y Familia (OC Food Bank partner). Schedule: Tuesday 11 AM-2 PM. Food pantry provides food Tuesdays 11 AM-2 PM at Stonefield Park, San Juan Capistrano (org address 31322 Camino Capistrano). Source is CREER's Alignable food-pantry listing; not cross-confirmed on their own site, hence medium confidence.. Call (714) 788-8339 to confirm before you go - distributions often end early when supplies run out. Source: https://www.alignable.com/san-juan-capistrano-ca/creer-comunidad-y-familia/food-pantry."
+        },
+        {
+          "date": "2026-12-22",
+          "time": "11:00",
+          "title": "CREER Communidad Y Familia - Free Food Distribution",
+          "description": "Free food distribution at CREER Communidad Y Familia (OC Food Bank partner). Schedule: Tuesday 11 AM-2 PM. Food pantry provides food Tuesdays 11 AM-2 PM at Stonefield Park, San Juan Capistrano (org address 31322 Camino Capistrano). Source is CREER's Alignable food-pantry listing; not cross-confirmed on their own site, hence medium confidence.. Call (714) 788-8339 to confirm before you go - distributions often end early when supplies run out. Source: https://www.alignable.com/san-juan-capistrano-ca/creer-comunidad-y-familia/food-pantry."
+        },
+        {
+          "date": "2026-12-29",
+          "time": "11:00",
+          "title": "CREER Communidad Y Familia - Free Food Distribution",
+          "description": "Free food distribution at CREER Communidad Y Familia (OC Food Bank partner). Schedule: Tuesday 11 AM-2 PM. Food pantry provides food Tuesdays 11 AM-2 PM at Stonefield Park, San Juan Capistrano (org address 31322 Camino Capistrano). Source is CREER's Alignable food-pantry listing; not cross-confirmed on their own site, hence medium confidence.. Call (714) 788-8339 to confirm before you go - distributions often end early when supplies run out. Source: https://www.alignable.com/san-juan-capistrano-ca/creer-comunidad-y-familia/food-pantry."
+        }
+      ],
+      "_eventCount": 15
+    },
+    {
+      "slug": "focus-north-america-santa-ana",
+      "name": "Focus North America",
+      "category": "Food Assistance",
+      "tagline": "3rd Friday and Saturday 10 AM-1 PM · OC Food Bank (Community Action Partnership of Orange County)",
+      "description": "Free food distribution site (via OC Food Bank (Community Action Partnership of Orange County)). Schedule: 3rd Friday and Saturday 10 AM-1 PM. Call ahead to confirm hours - distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.focusna.org/orangecounty/help/",
+      "phone": "(714) 812-1565",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "2737 S. Croddy Way Suite D, SANTA ANA, CA",
+      "lat": 33.710202,
+      "lng": -117.921552,
+      "neighborhood": "",
+      "hours": "3rd Fri & 3rd Sat, 10 AM - 1 PM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-10-16",
+          "time": "10:00",
+          "title": "Focus North America - Free Food Distribution",
+          "description": "Free food distribution at Focus North America (OC Food Bank partner). Schedule: 3rd Friday and Saturday 10 AM-1 PM. FOCUS Orange County food pantry, 2737 S. Croddy Way Suite D (entry at rear of building). Also serves a local youth shelter. Otherwise by appointment.. Call (714) 812-1565 to confirm before you go - distributions often end early when supplies run out. Source: https://www.focusna.org/orangecounty/help/."
+        },
+        {
+          "date": "2026-10-17",
+          "time": "10:00",
+          "title": "Focus North America - Free Food Distribution",
+          "description": "Free food distribution at Focus North America (OC Food Bank partner). Schedule: 3rd Friday and Saturday 10 AM-1 PM. FOCUS Orange County food pantry, 2737 S. Croddy Way Suite D (entry at rear of building). Also serves a local youth shelter. Otherwise by appointment.. Call (714) 812-1565 to confirm before you go - distributions often end early when supplies run out. Source: https://www.focusna.org/orangecounty/help/."
+        },
+        {
+          "date": "2026-11-20",
+          "time": "10:00",
+          "title": "Focus North America - Free Food Distribution",
+          "description": "Free food distribution at Focus North America (OC Food Bank partner). Schedule: 3rd Friday and Saturday 10 AM-1 PM. FOCUS Orange County food pantry, 2737 S. Croddy Way Suite D (entry at rear of building). Also serves a local youth shelter. Otherwise by appointment.. Call (714) 812-1565 to confirm before you go - distributions often end early when supplies run out. Source: https://www.focusna.org/orangecounty/help/."
+        },
+        {
+          "date": "2026-11-21",
+          "time": "10:00",
+          "title": "Focus North America - Free Food Distribution",
+          "description": "Free food distribution at Focus North America (OC Food Bank partner). Schedule: 3rd Friday and Saturday 10 AM-1 PM. FOCUS Orange County food pantry, 2737 S. Croddy Way Suite D (entry at rear of building). Also serves a local youth shelter. Otherwise by appointment.. Call (714) 812-1565 to confirm before you go - distributions often end early when supplies run out. Source: https://www.focusna.org/orangecounty/help/."
+        },
+        {
+          "date": "2026-12-18",
+          "time": "10:00",
+          "title": "Focus North America - Free Food Distribution",
+          "description": "Free food distribution at Focus North America (OC Food Bank partner). Schedule: 3rd Friday and Saturday 10 AM-1 PM. FOCUS Orange County food pantry, 2737 S. Croddy Way Suite D (entry at rear of building). Also serves a local youth shelter. Otherwise by appointment.. Call (714) 812-1565 to confirm before you go - distributions often end early when supplies run out. Source: https://www.focusna.org/orangecounty/help/."
+        },
+        {
+          "date": "2026-12-19",
+          "time": "10:00",
+          "title": "Focus North America - Free Food Distribution",
+          "description": "Free food distribution at Focus North America (OC Food Bank partner). Schedule: 3rd Friday and Saturday 10 AM-1 PM. FOCUS Orange County food pantry, 2737 S. Croddy Way Suite D (entry at rear of building). Also serves a local youth shelter. Otherwise by appointment.. Call (714) 812-1565 to confirm before you go - distributions often end early when supplies run out. Source: https://www.focusna.org/orangecounty/help/."
+        }
+      ],
+      "_eventCount": 6
+    },
+    {
+      "slug": "sda-broadway-spanish-santa-ana",
+      "name": "SDA Broadway Spanish",
+      "category": "Food Assistance",
+      "tagline": "2nd and 4th Wednesday 6:30-7:00 PM · OC Food Bank (Community Action Partnership of Orange County)",
+      "description": "Free food distribution site (via OC Food Bank (Community Action Partnership of Orange County)). Schedule: 2nd and 4th Wednesday 6:30-7:00 PM. Call ahead to confirm hours - distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.freefood.org/l/ca_santa-ana_7th-day-adventist-church1",
+      "phone": "714-543-3595",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "1314 N. Broadway, SANTA ANA, CA",
+      "lat": 33.75634,
+      "lng": -117.87,
+      "neighborhood": "",
+      "hours": "2nd & 4th Wed, 6:30 PM - 7 PM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-09-23",
+          "time": "18:30",
+          "title": "SDA Broadway Spanish - Free Food Distribution",
+          "description": "Free food distribution at SDA Broadway Spanish (OC Food Bank partner). Schedule: 2nd and 4th Wednesday 6:30-7:00 PM. 7th Day Adventist Church pantry at 1314 N. Broadway (phone 714-543-3595 matches input). Walk-ins accepted. Listing: 'Every 2nd and 4th Wednesday of the Month 6:30 p.m. - 7:00 p.m.'. Call (714) 543-3595 to confirm before you go - distributions often end early when supplies run out. Source: https://www.freefood.org/l/ca_santa-ana_7th-day-adventist-church1."
+        },
+        {
+          "date": "2026-10-14",
+          "time": "18:30",
+          "title": "SDA Broadway Spanish - Free Food Distribution",
+          "description": "Free food distribution at SDA Broadway Spanish (OC Food Bank partner). Schedule: 2nd and 4th Wednesday 6:30-7:00 PM. 7th Day Adventist Church pantry at 1314 N. Broadway (phone 714-543-3595 matches input). Walk-ins accepted. Listing: 'Every 2nd and 4th Wednesday of the Month 6:30 p.m. - 7:00 p.m.'. Call (714) 543-3595 to confirm before you go - distributions often end early when supplies run out. Source: https://www.freefood.org/l/ca_santa-ana_7th-day-adventist-church1."
+        },
+        {
+          "date": "2026-10-28",
+          "time": "18:30",
+          "title": "SDA Broadway Spanish - Free Food Distribution",
+          "description": "Free food distribution at SDA Broadway Spanish (OC Food Bank partner). Schedule: 2nd and 4th Wednesday 6:30-7:00 PM. 7th Day Adventist Church pantry at 1314 N. Broadway (phone 714-543-3595 matches input). Walk-ins accepted. Listing: 'Every 2nd and 4th Wednesday of the Month 6:30 p.m. - 7:00 p.m.'. Call (714) 543-3595 to confirm before you go - distributions often end early when supplies run out. Source: https://www.freefood.org/l/ca_santa-ana_7th-day-adventist-church1."
+        },
+        {
+          "date": "2026-11-11",
+          "time": "18:30",
+          "title": "SDA Broadway Spanish - Free Food Distribution",
+          "description": "Free food distribution at SDA Broadway Spanish (OC Food Bank partner). Schedule: 2nd and 4th Wednesday 6:30-7:00 PM. 7th Day Adventist Church pantry at 1314 N. Broadway (phone 714-543-3595 matches input). Walk-ins accepted. Listing: 'Every 2nd and 4th Wednesday of the Month 6:30 p.m. - 7:00 p.m.'. Call (714) 543-3595 to confirm before you go - distributions often end early when supplies run out. Source: https://www.freefood.org/l/ca_santa-ana_7th-day-adventist-church1."
+        },
+        {
+          "date": "2026-11-25",
+          "time": "18:30",
+          "title": "SDA Broadway Spanish - Free Food Distribution",
+          "description": "Free food distribution at SDA Broadway Spanish (OC Food Bank partner). Schedule: 2nd and 4th Wednesday 6:30-7:00 PM. 7th Day Adventist Church pantry at 1314 N. Broadway (phone 714-543-3595 matches input). Walk-ins accepted. Listing: 'Every 2nd and 4th Wednesday of the Month 6:30 p.m. - 7:00 p.m.'. Call (714) 543-3595 to confirm before you go - distributions often end early when supplies run out. Source: https://www.freefood.org/l/ca_santa-ana_7th-day-adventist-church1."
+        },
+        {
+          "date": "2026-12-09",
+          "time": "18:30",
+          "title": "SDA Broadway Spanish - Free Food Distribution",
+          "description": "Free food distribution at SDA Broadway Spanish (OC Food Bank partner). Schedule: 2nd and 4th Wednesday 6:30-7:00 PM. 7th Day Adventist Church pantry at 1314 N. Broadway (phone 714-543-3595 matches input). Walk-ins accepted. Listing: 'Every 2nd and 4th Wednesday of the Month 6:30 p.m. - 7:00 p.m.'. Call (714) 543-3595 to confirm before you go - distributions often end early when supplies run out. Source: https://www.freefood.org/l/ca_santa-ana_7th-day-adventist-church1."
+        },
+        {
+          "date": "2026-12-23",
+          "time": "18:30",
+          "title": "SDA Broadway Spanish - Free Food Distribution",
+          "description": "Free food distribution at SDA Broadway Spanish (OC Food Bank partner). Schedule: 2nd and 4th Wednesday 6:30-7:00 PM. 7th Day Adventist Church pantry at 1314 N. Broadway (phone 714-543-3595 matches input). Walk-ins accepted. Listing: 'Every 2nd and 4th Wednesday of the Month 6:30 p.m. - 7:00 p.m.'. Call (714) 543-3595 to confirm before you go - distributions often end early when supplies run out. Source: https://www.freefood.org/l/ca_santa-ana_7th-day-adventist-church1."
+        }
+      ],
+      "_eventCount": 7
+    },
+    {
+      "slug": "serve-the-people-santa-ana",
+      "name": "Serve The People",
+      "category": "Food Assistance",
+      "tagline": "1st and 3rd Saturday 4-7 AM · OC Food Bank (Community Action Partnership of Orange County)",
+      "description": "Free food distribution site (via OC Food Bank (Community Action Partnership of Orange County)). Schedule: 1st and 3rd Saturday 4-7 AM. Call ahead to confirm hours - distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.servethepeople.org/food-pantry",
+      "phone": "(714) 357-0587",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "Inc, 1206 E. 17th St. #204, SANTA ANA, CA",
+      "lat": 33.759529,
+      "lng": -117.854032,
+      "neighborhood": "",
+      "hours": "1st & 3rd Sat, 4 AM - 7 AM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-10-03",
+          "time": "04:00",
+          "title": "Serve The People - Free Food Distribution",
+          "description": "Free food distribution at Serve The People (OC Food Bank partner). Schedule: 1st and 3rd Saturday 4-7 AM. Confirmed by org site and City of Santa Ana food page: 1st & 3rd Saturday monthly, 4:00-7:00 AM. Free grocery bag + produce; no appointment/pre-registration required. 1206 E. 17th St.. Call (714) 357-0587 to confirm before you go - distributions often end early when supplies run out. Source: https://www.servethepeople.org/food-pantry."
+        },
+        {
+          "date": "2026-10-17",
+          "time": "04:00",
+          "title": "Serve The People - Free Food Distribution",
+          "description": "Free food distribution at Serve The People (OC Food Bank partner). Schedule: 1st and 3rd Saturday 4-7 AM. Confirmed by org site and City of Santa Ana food page: 1st & 3rd Saturday monthly, 4:00-7:00 AM. Free grocery bag + produce; no appointment/pre-registration required. 1206 E. 17th St.. Call (714) 357-0587 to confirm before you go - distributions often end early when supplies run out. Source: https://www.servethepeople.org/food-pantry."
+        },
+        {
+          "date": "2026-11-07",
+          "time": "04:00",
+          "title": "Serve The People - Free Food Distribution",
+          "description": "Free food distribution at Serve The People (OC Food Bank partner). Schedule: 1st and 3rd Saturday 4-7 AM. Confirmed by org site and City of Santa Ana food page: 1st & 3rd Saturday monthly, 4:00-7:00 AM. Free grocery bag + produce; no appointment/pre-registration required. 1206 E. 17th St.. Call (714) 357-0587 to confirm before you go - distributions often end early when supplies run out. Source: https://www.servethepeople.org/food-pantry."
+        },
+        {
+          "date": "2026-11-21",
+          "time": "04:00",
+          "title": "Serve The People - Free Food Distribution",
+          "description": "Free food distribution at Serve The People (OC Food Bank partner). Schedule: 1st and 3rd Saturday 4-7 AM. Confirmed by org site and City of Santa Ana food page: 1st & 3rd Saturday monthly, 4:00-7:00 AM. Free grocery bag + produce; no appointment/pre-registration required. 1206 E. 17th St.. Call (714) 357-0587 to confirm before you go - distributions often end early when supplies run out. Source: https://www.servethepeople.org/food-pantry."
+        },
+        {
+          "date": "2026-12-05",
+          "time": "04:00",
+          "title": "Serve The People - Free Food Distribution",
+          "description": "Free food distribution at Serve The People (OC Food Bank partner). Schedule: 1st and 3rd Saturday 4-7 AM. Confirmed by org site and City of Santa Ana food page: 1st & 3rd Saturday monthly, 4:00-7:00 AM. Free grocery bag + produce; no appointment/pre-registration required. 1206 E. 17th St.. Call (714) 357-0587 to confirm before you go - distributions often end early when supplies run out. Source: https://www.servethepeople.org/food-pantry."
+        },
+        {
+          "date": "2026-12-19",
+          "time": "04:00",
+          "title": "Serve The People - Free Food Distribution",
+          "description": "Free food distribution at Serve The People (OC Food Bank partner). Schedule: 1st and 3rd Saturday 4-7 AM. Confirmed by org site and City of Santa Ana food page: 1st & 3rd Saturday monthly, 4:00-7:00 AM. Free grocery bag + produce; no appointment/pre-registration required. 1206 E. 17th St.. Call (714) 357-0587 to confirm before you go - distributions often end early when supplies run out. Source: https://www.servethepeople.org/food-pantry."
+        }
+      ],
+      "_eventCount": 6
+    },
+    {
+      "slug": "templo-getsemani-assemblies-of-god-santa-ana",
+      "name": "Templo Getsemani Assemblies of God",
+      "category": "Food Assistance",
+      "tagline": "Thursday 11 AM-12 PM · OC Food Bank (Community Action Partnership of Orange County)",
+      "description": "Free food distribution site (via OC Food Bank (Community Action Partnership of Orange County)). Schedule: Thursday 11 AM-12 PM. Call ahead to confirm hours - distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://networks.whyhunger.org/organisation/27575",
+      "phone": "714-767-2283",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "4822 W. Hazard Ave., SANTA ANA, CA",
+      "lat": 33.752029,
+      "lng": -117.933522,
+      "neighborhood": "",
+      "hours": "Thu, 11 AM - 12 PM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-09-24",
+          "time": "11:00",
+          "title": "Templo Getsemani Assemblies of God - Free Food Distribution",
+          "description": "Free food distribution at Templo Getsemani Assemblies of God (OC Food Bank partner). Schedule: Thursday 11 AM-12 PM. WhyHunger listing for 4822 Hazard Ave shows food pantry Thursday 11 AM-noon and Sunday 1 PM. Only Thursday has a complete time range; Sunday 1 PM lacks an end time so not included in scheduleText. Recommend calling 714-767-2283 to confirm.. Call (714) 767-2283 to confirm before you go - distributions often end early when supplies run out. Source: https://networks.whyhunger.org/organisation/27575."
+        },
+        {
+          "date": "2026-10-01",
+          "time": "11:00",
+          "title": "Templo Getsemani Assemblies of God - Free Food Distribution",
+          "description": "Free food distribution at Templo Getsemani Assemblies of God (OC Food Bank partner). Schedule: Thursday 11 AM-12 PM. WhyHunger listing for 4822 Hazard Ave shows food pantry Thursday 11 AM-noon and Sunday 1 PM. Only Thursday has a complete time range; Sunday 1 PM lacks an end time so not included in scheduleText. Recommend calling 714-767-2283 to confirm.. Call (714) 767-2283 to confirm before you go - distributions often end early when supplies run out. Source: https://networks.whyhunger.org/organisation/27575."
+        },
+        {
+          "date": "2026-10-08",
+          "time": "11:00",
+          "title": "Templo Getsemani Assemblies of God - Free Food Distribution",
+          "description": "Free food distribution at Templo Getsemani Assemblies of God (OC Food Bank partner). Schedule: Thursday 11 AM-12 PM. WhyHunger listing for 4822 Hazard Ave shows food pantry Thursday 11 AM-noon and Sunday 1 PM. Only Thursday has a complete time range; Sunday 1 PM lacks an end time so not included in scheduleText. Recommend calling 714-767-2283 to confirm.. Call (714) 767-2283 to confirm before you go - distributions often end early when supplies run out. Source: https://networks.whyhunger.org/organisation/27575."
+        },
+        {
+          "date": "2026-10-15",
+          "time": "11:00",
+          "title": "Templo Getsemani Assemblies of God - Free Food Distribution",
+          "description": "Free food distribution at Templo Getsemani Assemblies of God (OC Food Bank partner). Schedule: Thursday 11 AM-12 PM. WhyHunger listing for 4822 Hazard Ave shows food pantry Thursday 11 AM-noon and Sunday 1 PM. Only Thursday has a complete time range; Sunday 1 PM lacks an end time so not included in scheduleText. Recommend calling 714-767-2283 to confirm.. Call (714) 767-2283 to confirm before you go - distributions often end early when supplies run out. Source: https://networks.whyhunger.org/organisation/27575."
+        },
+        {
+          "date": "2026-10-22",
+          "time": "11:00",
+          "title": "Templo Getsemani Assemblies of God - Free Food Distribution",
+          "description": "Free food distribution at Templo Getsemani Assemblies of God (OC Food Bank partner). Schedule: Thursday 11 AM-12 PM. WhyHunger listing for 4822 Hazard Ave shows food pantry Thursday 11 AM-noon and Sunday 1 PM. Only Thursday has a complete time range; Sunday 1 PM lacks an end time so not included in scheduleText. Recommend calling 714-767-2283 to confirm.. Call (714) 767-2283 to confirm before you go - distributions often end early when supplies run out. Source: https://networks.whyhunger.org/organisation/27575."
+        },
+        {
+          "date": "2026-10-29",
+          "time": "11:00",
+          "title": "Templo Getsemani Assemblies of God - Free Food Distribution",
+          "description": "Free food distribution at Templo Getsemani Assemblies of God (OC Food Bank partner). Schedule: Thursday 11 AM-12 PM. WhyHunger listing for 4822 Hazard Ave shows food pantry Thursday 11 AM-noon and Sunday 1 PM. Only Thursday has a complete time range; Sunday 1 PM lacks an end time so not included in scheduleText. Recommend calling 714-767-2283 to confirm.. Call (714) 767-2283 to confirm before you go - distributions often end early when supplies run out. Source: https://networks.whyhunger.org/organisation/27575."
+        },
+        {
+          "date": "2026-11-05",
+          "time": "11:00",
+          "title": "Templo Getsemani Assemblies of God - Free Food Distribution",
+          "description": "Free food distribution at Templo Getsemani Assemblies of God (OC Food Bank partner). Schedule: Thursday 11 AM-12 PM. WhyHunger listing for 4822 Hazard Ave shows food pantry Thursday 11 AM-noon and Sunday 1 PM. Only Thursday has a complete time range; Sunday 1 PM lacks an end time so not included in scheduleText. Recommend calling 714-767-2283 to confirm.. Call (714) 767-2283 to confirm before you go - distributions often end early when supplies run out. Source: https://networks.whyhunger.org/organisation/27575."
+        },
+        {
+          "date": "2026-11-12",
+          "time": "11:00",
+          "title": "Templo Getsemani Assemblies of God - Free Food Distribution",
+          "description": "Free food distribution at Templo Getsemani Assemblies of God (OC Food Bank partner). Schedule: Thursday 11 AM-12 PM. WhyHunger listing for 4822 Hazard Ave shows food pantry Thursday 11 AM-noon and Sunday 1 PM. Only Thursday has a complete time range; Sunday 1 PM lacks an end time so not included in scheduleText. Recommend calling 714-767-2283 to confirm.. Call (714) 767-2283 to confirm before you go - distributions often end early when supplies run out. Source: https://networks.whyhunger.org/organisation/27575."
+        },
+        {
+          "date": "2026-11-19",
+          "time": "11:00",
+          "title": "Templo Getsemani Assemblies of God - Free Food Distribution",
+          "description": "Free food distribution at Templo Getsemani Assemblies of God (OC Food Bank partner). Schedule: Thursday 11 AM-12 PM. WhyHunger listing for 4822 Hazard Ave shows food pantry Thursday 11 AM-noon and Sunday 1 PM. Only Thursday has a complete time range; Sunday 1 PM lacks an end time so not included in scheduleText. Recommend calling 714-767-2283 to confirm.. Call (714) 767-2283 to confirm before you go - distributions often end early when supplies run out. Source: https://networks.whyhunger.org/organisation/27575."
+        },
+        {
+          "date": "2026-11-26",
+          "time": "11:00",
+          "title": "Templo Getsemani Assemblies of God - Free Food Distribution",
+          "description": "Free food distribution at Templo Getsemani Assemblies of God (OC Food Bank partner). Schedule: Thursday 11 AM-12 PM. WhyHunger listing for 4822 Hazard Ave shows food pantry Thursday 11 AM-noon and Sunday 1 PM. Only Thursday has a complete time range; Sunday 1 PM lacks an end time so not included in scheduleText. Recommend calling 714-767-2283 to confirm.. Call (714) 767-2283 to confirm before you go - distributions often end early when supplies run out. Source: https://networks.whyhunger.org/organisation/27575."
+        },
+        {
+          "date": "2026-12-03",
+          "time": "11:00",
+          "title": "Templo Getsemani Assemblies of God - Free Food Distribution",
+          "description": "Free food distribution at Templo Getsemani Assemblies of God (OC Food Bank partner). Schedule: Thursday 11 AM-12 PM. WhyHunger listing for 4822 Hazard Ave shows food pantry Thursday 11 AM-noon and Sunday 1 PM. Only Thursday has a complete time range; Sunday 1 PM lacks an end time so not included in scheduleText. Recommend calling 714-767-2283 to confirm.. Call (714) 767-2283 to confirm before you go - distributions often end early when supplies run out. Source: https://networks.whyhunger.org/organisation/27575."
+        },
+        {
+          "date": "2026-12-10",
+          "time": "11:00",
+          "title": "Templo Getsemani Assemblies of God - Free Food Distribution",
+          "description": "Free food distribution at Templo Getsemani Assemblies of God (OC Food Bank partner). Schedule: Thursday 11 AM-12 PM. WhyHunger listing for 4822 Hazard Ave shows food pantry Thursday 11 AM-noon and Sunday 1 PM. Only Thursday has a complete time range; Sunday 1 PM lacks an end time so not included in scheduleText. Recommend calling 714-767-2283 to confirm.. Call (714) 767-2283 to confirm before you go - distributions often end early when supplies run out. Source: https://networks.whyhunger.org/organisation/27575."
+        },
+        {
+          "date": "2026-12-17",
+          "time": "11:00",
+          "title": "Templo Getsemani Assemblies of God - Free Food Distribution",
+          "description": "Free food distribution at Templo Getsemani Assemblies of God (OC Food Bank partner). Schedule: Thursday 11 AM-12 PM. WhyHunger listing for 4822 Hazard Ave shows food pantry Thursday 11 AM-noon and Sunday 1 PM. Only Thursday has a complete time range; Sunday 1 PM lacks an end time so not included in scheduleText. Recommend calling 714-767-2283 to confirm.. Call (714) 767-2283 to confirm before you go - distributions often end early when supplies run out. Source: https://networks.whyhunger.org/organisation/27575."
+        },
+        {
+          "date": "2026-12-24",
+          "time": "11:00",
+          "title": "Templo Getsemani Assemblies of God - Free Food Distribution",
+          "description": "Free food distribution at Templo Getsemani Assemblies of God (OC Food Bank partner). Schedule: Thursday 11 AM-12 PM. WhyHunger listing for 4822 Hazard Ave shows food pantry Thursday 11 AM-noon and Sunday 1 PM. Only Thursday has a complete time range; Sunday 1 PM lacks an end time so not included in scheduleText. Recommend calling 714-767-2283 to confirm.. Call (714) 767-2283 to confirm before you go - distributions often end early when supplies run out. Source: https://networks.whyhunger.org/organisation/27575."
+        },
+        {
+          "date": "2026-12-31",
+          "time": "11:00",
+          "title": "Templo Getsemani Assemblies of God - Free Food Distribution",
+          "description": "Free food distribution at Templo Getsemani Assemblies of God (OC Food Bank partner). Schedule: Thursday 11 AM-12 PM. WhyHunger listing for 4822 Hazard Ave shows food pantry Thursday 11 AM-noon and Sunday 1 PM. Only Thursday has a complete time range; Sunday 1 PM lacks an end time so not included in scheduleText. Recommend calling 714-767-2283 to confirm.. Call (714) 767-2283 to confirm before you go - distributions often end early when supplies run out. Source: https://networks.whyhunger.org/organisation/27575."
+        }
+      ],
+      "_eventCount": 15
+    },
+    {
+      "slug": "polycarp-family-support-center-stanton",
+      "name": "Polycarp Family Support Center",
+      "category": "Food Assistance",
+      "tagline": "Monday, Wednesday, Friday 9 AM-12 PM · OC Food Bank (Community Action Partnership of Orange County)",
+      "description": "Free food distribution site (via OC Food Bank (Community Action Partnership of Orange County)). Schedule: Monday, Wednesday, Friday 9 AM-12 PM. Call ahead to confirm hours - distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.homelessshelterdirectory.org/foodbanks/city/ca-stanton.html",
+      "phone": "(714) 821-7672",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "8100 Chapman Ave, STANTON, CA",
+      "lat": 33.787959,
+      "lng": -117.990673,
+      "neighborhood": "",
+      "hours": "Mon, Wed, Fri, 9 AM - 12 PM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-09-21",
+          "time": "09:00",
+          "title": "Polycarp Family Support Center - Free Food Distribution",
+          "description": "Free food distribution at Polycarp Family Support Center (OC Food Bank partner). Schedule: Monday, Wednesday, Friday 9 AM-12 PM. St. Vincent de Paul food pantry at St. Polycarp Catholic Church (8100 Chapman Ave). M/W/F 9am-12pm confirmed by two independent listings (homelessshelterdirectory.org and foodpantries/Yelp-derived listing). Eligibility note: one source states it serves Westminster residents only - verify eligibility by phone (714) 821-7672.. Call (714) 821-7672 to confirm before you go - distributions often end early when supplies run out. Source: https://www.homelessshelterdirectory.org/foodbanks/city/ca-stanton.html."
+        },
+        {
+          "date": "2026-09-23",
+          "time": "09:00",
+          "title": "Polycarp Family Support Center - Free Food Distribution",
+          "description": "Free food distribution at Polycarp Family Support Center (OC Food Bank partner). Schedule: Monday, Wednesday, Friday 9 AM-12 PM. St. Vincent de Paul food pantry at St. Polycarp Catholic Church (8100 Chapman Ave). M/W/F 9am-12pm confirmed by two independent listings (homelessshelterdirectory.org and foodpantries/Yelp-derived listing). Eligibility note: one source states it serves Westminster residents only - verify eligibility by phone (714) 821-7672.. Call (714) 821-7672 to confirm before you go - distributions often end early when supplies run out. Source: https://www.homelessshelterdirectory.org/foodbanks/city/ca-stanton.html."
+        },
+        {
+          "date": "2026-09-25",
+          "time": "09:00",
+          "title": "Polycarp Family Support Center - Free Food Distribution",
+          "description": "Free food distribution at Polycarp Family Support Center (OC Food Bank partner). Schedule: Monday, Wednesday, Friday 9 AM-12 PM. St. Vincent de Paul food pantry at St. Polycarp Catholic Church (8100 Chapman Ave). M/W/F 9am-12pm confirmed by two independent listings (homelessshelterdirectory.org and foodpantries/Yelp-derived listing). Eligibility note: one source states it serves Westminster residents only - verify eligibility by phone (714) 821-7672.. Call (714) 821-7672 to confirm before you go - distributions often end early when supplies run out. Source: https://www.homelessshelterdirectory.org/foodbanks/city/ca-stanton.html."
+        },
+        {
+          "date": "2026-09-28",
+          "time": "09:00",
+          "title": "Polycarp Family Support Center - Free Food Distribution",
+          "description": "Free food distribution at Polycarp Family Support Center (OC Food Bank partner). Schedule: Monday, Wednesday, Friday 9 AM-12 PM. St. Vincent de Paul food pantry at St. Polycarp Catholic Church (8100 Chapman Ave). M/W/F 9am-12pm confirmed by two independent listings (homelessshelterdirectory.org and foodpantries/Yelp-derived listing). Eligibility note: one source states it serves Westminster residents only - verify eligibility by phone (714) 821-7672.. Call (714) 821-7672 to confirm before you go - distributions often end early when supplies run out. Source: https://www.homelessshelterdirectory.org/foodbanks/city/ca-stanton.html."
+        },
+        {
+          "date": "2026-09-30",
+          "time": "09:00",
+          "title": "Polycarp Family Support Center - Free Food Distribution",
+          "description": "Free food distribution at Polycarp Family Support Center (OC Food Bank partner). Schedule: Monday, Wednesday, Friday 9 AM-12 PM. St. Vincent de Paul food pantry at St. Polycarp Catholic Church (8100 Chapman Ave). M/W/F 9am-12pm confirmed by two independent listings (homelessshelterdirectory.org and foodpantries/Yelp-derived listing). Eligibility note: one source states it serves Westminster residents only - verify eligibility by phone (714) 821-7672.. Call (714) 821-7672 to confirm before you go - distributions often end early when supplies run out. Source: https://www.homelessshelterdirectory.org/foodbanks/city/ca-stanton.html."
+        },
+        {
+          "date": "2026-10-02",
+          "time": "09:00",
+          "title": "Polycarp Family Support Center - Free Food Distribution",
+          "description": "Free food distribution at Polycarp Family Support Center (OC Food Bank partner). Schedule: Monday, Wednesday, Friday 9 AM-12 PM. St. Vincent de Paul food pantry at St. Polycarp Catholic Church (8100 Chapman Ave). M/W/F 9am-12pm confirmed by two independent listings (homelessshelterdirectory.org and foodpantries/Yelp-derived listing). Eligibility note: one source states it serves Westminster residents only - verify eligibility by phone (714) 821-7672.. Call (714) 821-7672 to confirm before you go - distributions often end early when supplies run out. Source: https://www.homelessshelterdirectory.org/foodbanks/city/ca-stanton.html."
+        },
+        {
+          "date": "2026-10-05",
+          "time": "09:00",
+          "title": "Polycarp Family Support Center - Free Food Distribution",
+          "description": "Free food distribution at Polycarp Family Support Center (OC Food Bank partner). Schedule: Monday, Wednesday, Friday 9 AM-12 PM. St. Vincent de Paul food pantry at St. Polycarp Catholic Church (8100 Chapman Ave). M/W/F 9am-12pm confirmed by two independent listings (homelessshelterdirectory.org and foodpantries/Yelp-derived listing). Eligibility note: one source states it serves Westminster residents only - verify eligibility by phone (714) 821-7672.. Call (714) 821-7672 to confirm before you go - distributions often end early when supplies run out. Source: https://www.homelessshelterdirectory.org/foodbanks/city/ca-stanton.html."
+        },
+        {
+          "date": "2026-10-07",
+          "time": "09:00",
+          "title": "Polycarp Family Support Center - Free Food Distribution",
+          "description": "Free food distribution at Polycarp Family Support Center (OC Food Bank partner). Schedule: Monday, Wednesday, Friday 9 AM-12 PM. St. Vincent de Paul food pantry at St. Polycarp Catholic Church (8100 Chapman Ave). M/W/F 9am-12pm confirmed by two independent listings (homelessshelterdirectory.org and foodpantries/Yelp-derived listing). Eligibility note: one source states it serves Westminster residents only - verify eligibility by phone (714) 821-7672.. Call (714) 821-7672 to confirm before you go - distributions often end early when supplies run out. Source: https://www.homelessshelterdirectory.org/foodbanks/city/ca-stanton.html."
+        },
+        {
+          "date": "2026-10-09",
+          "time": "09:00",
+          "title": "Polycarp Family Support Center - Free Food Distribution",
+          "description": "Free food distribution at Polycarp Family Support Center (OC Food Bank partner). Schedule: Monday, Wednesday, Friday 9 AM-12 PM. St. Vincent de Paul food pantry at St. Polycarp Catholic Church (8100 Chapman Ave). M/W/F 9am-12pm confirmed by two independent listings (homelessshelterdirectory.org and foodpantries/Yelp-derived listing). Eligibility note: one source states it serves Westminster residents only - verify eligibility by phone (714) 821-7672.. Call (714) 821-7672 to confirm before you go - distributions often end early when supplies run out. Source: https://www.homelessshelterdirectory.org/foodbanks/city/ca-stanton.html."
+        },
+        {
+          "date": "2026-10-12",
+          "time": "09:00",
+          "title": "Polycarp Family Support Center - Free Food Distribution",
+          "description": "Free food distribution at Polycarp Family Support Center (OC Food Bank partner). Schedule: Monday, Wednesday, Friday 9 AM-12 PM. St. Vincent de Paul food pantry at St. Polycarp Catholic Church (8100 Chapman Ave). M/W/F 9am-12pm confirmed by two independent listings (homelessshelterdirectory.org and foodpantries/Yelp-derived listing). Eligibility note: one source states it serves Westminster residents only - verify eligibility by phone (714) 821-7672.. Call (714) 821-7672 to confirm before you go - distributions often end early when supplies run out. Source: https://www.homelessshelterdirectory.org/foodbanks/city/ca-stanton.html."
+        },
+        {
+          "date": "2026-10-14",
+          "time": "09:00",
+          "title": "Polycarp Family Support Center - Free Food Distribution",
+          "description": "Free food distribution at Polycarp Family Support Center (OC Food Bank partner). Schedule: Monday, Wednesday, Friday 9 AM-12 PM. St. Vincent de Paul food pantry at St. Polycarp Catholic Church (8100 Chapman Ave). M/W/F 9am-12pm confirmed by two independent listings (homelessshelterdirectory.org and foodpantries/Yelp-derived listing). Eligibility note: one source states it serves Westminster residents only - verify eligibility by phone (714) 821-7672.. Call (714) 821-7672 to confirm before you go - distributions often end early when supplies run out. Source: https://www.homelessshelterdirectory.org/foodbanks/city/ca-stanton.html."
+        },
+        {
+          "date": "2026-10-16",
+          "time": "09:00",
+          "title": "Polycarp Family Support Center - Free Food Distribution",
+          "description": "Free food distribution at Polycarp Family Support Center (OC Food Bank partner). Schedule: Monday, Wednesday, Friday 9 AM-12 PM. St. Vincent de Paul food pantry at St. Polycarp Catholic Church (8100 Chapman Ave). M/W/F 9am-12pm confirmed by two independent listings (homelessshelterdirectory.org and foodpantries/Yelp-derived listing). Eligibility note: one source states it serves Westminster residents only - verify eligibility by phone (714) 821-7672.. Call (714) 821-7672 to confirm before you go - distributions often end early when supplies run out. Source: https://www.homelessshelterdirectory.org/foodbanks/city/ca-stanton.html."
+        },
+        {
+          "date": "2026-10-19",
+          "time": "09:00",
+          "title": "Polycarp Family Support Center - Free Food Distribution",
+          "description": "Free food distribution at Polycarp Family Support Center (OC Food Bank partner). Schedule: Monday, Wednesday, Friday 9 AM-12 PM. St. Vincent de Paul food pantry at St. Polycarp Catholic Church (8100 Chapman Ave). M/W/F 9am-12pm confirmed by two independent listings (homelessshelterdirectory.org and foodpantries/Yelp-derived listing). Eligibility note: one source states it serves Westminster residents only - verify eligibility by phone (714) 821-7672.. Call (714) 821-7672 to confirm before you go - distributions often end early when supplies run out. Source: https://www.homelessshelterdirectory.org/foodbanks/city/ca-stanton.html."
+        },
+        {
+          "date": "2026-10-21",
+          "time": "09:00",
+          "title": "Polycarp Family Support Center - Free Food Distribution",
+          "description": "Free food distribution at Polycarp Family Support Center (OC Food Bank partner). Schedule: Monday, Wednesday, Friday 9 AM-12 PM. St. Vincent de Paul food pantry at St. Polycarp Catholic Church (8100 Chapman Ave). M/W/F 9am-12pm confirmed by two independent listings (homelessshelterdirectory.org and foodpantries/Yelp-derived listing). Eligibility note: one source states it serves Westminster residents only - verify eligibility by phone (714) 821-7672.. Call (714) 821-7672 to confirm before you go - distributions often end early when supplies run out. Source: https://www.homelessshelterdirectory.org/foodbanks/city/ca-stanton.html."
+        },
+        {
+          "date": "2026-10-23",
+          "time": "09:00",
+          "title": "Polycarp Family Support Center - Free Food Distribution",
+          "description": "Free food distribution at Polycarp Family Support Center (OC Food Bank partner). Schedule: Monday, Wednesday, Friday 9 AM-12 PM. St. Vincent de Paul food pantry at St. Polycarp Catholic Church (8100 Chapman Ave). M/W/F 9am-12pm confirmed by two independent listings (homelessshelterdirectory.org and foodpantries/Yelp-derived listing). Eligibility note: one source states it serves Westminster residents only - verify eligibility by phone (714) 821-7672.. Call (714) 821-7672 to confirm before you go - distributions often end early when supplies run out. Source: https://www.homelessshelterdirectory.org/foodbanks/city/ca-stanton.html."
+        },
+        {
+          "date": "2026-10-26",
+          "time": "09:00",
+          "title": "Polycarp Family Support Center - Free Food Distribution",
+          "description": "Free food distribution at Polycarp Family Support Center (OC Food Bank partner). Schedule: Monday, Wednesday, Friday 9 AM-12 PM. St. Vincent de Paul food pantry at St. Polycarp Catholic Church (8100 Chapman Ave). M/W/F 9am-12pm confirmed by two independent listings (homelessshelterdirectory.org and foodpantries/Yelp-derived listing). Eligibility note: one source states it serves Westminster residents only - verify eligibility by phone (714) 821-7672.. Call (714) 821-7672 to confirm before you go - distributions often end early when supplies run out. Source: https://www.homelessshelterdirectory.org/foodbanks/city/ca-stanton.html."
+        },
+        {
+          "date": "2026-10-28",
+          "time": "09:00",
+          "title": "Polycarp Family Support Center - Free Food Distribution",
+          "description": "Free food distribution at Polycarp Family Support Center (OC Food Bank partner). Schedule: Monday, Wednesday, Friday 9 AM-12 PM. St. Vincent de Paul food pantry at St. Polycarp Catholic Church (8100 Chapman Ave). M/W/F 9am-12pm confirmed by two independent listings (homelessshelterdirectory.org and foodpantries/Yelp-derived listing). Eligibility note: one source states it serves Westminster residents only - verify eligibility by phone (714) 821-7672.. Call (714) 821-7672 to confirm before you go - distributions often end early when supplies run out. Source: https://www.homelessshelterdirectory.org/foodbanks/city/ca-stanton.html."
+        },
+        {
+          "date": "2026-10-30",
+          "time": "09:00",
+          "title": "Polycarp Family Support Center - Free Food Distribution",
+          "description": "Free food distribution at Polycarp Family Support Center (OC Food Bank partner). Schedule: Monday, Wednesday, Friday 9 AM-12 PM. St. Vincent de Paul food pantry at St. Polycarp Catholic Church (8100 Chapman Ave). M/W/F 9am-12pm confirmed by two independent listings (homelessshelterdirectory.org and foodpantries/Yelp-derived listing). Eligibility note: one source states it serves Westminster residents only - verify eligibility by phone (714) 821-7672.. Call (714) 821-7672 to confirm before you go - distributions often end early when supplies run out. Source: https://www.homelessshelterdirectory.org/foodbanks/city/ca-stanton.html."
+        },
+        {
+          "date": "2026-11-02",
+          "time": "09:00",
+          "title": "Polycarp Family Support Center - Free Food Distribution",
+          "description": "Free food distribution at Polycarp Family Support Center (OC Food Bank partner). Schedule: Monday, Wednesday, Friday 9 AM-12 PM. St. Vincent de Paul food pantry at St. Polycarp Catholic Church (8100 Chapman Ave). M/W/F 9am-12pm confirmed by two independent listings (homelessshelterdirectory.org and foodpantries/Yelp-derived listing). Eligibility note: one source states it serves Westminster residents only - verify eligibility by phone (714) 821-7672.. Call (714) 821-7672 to confirm before you go - distributions often end early when supplies run out. Source: https://www.homelessshelterdirectory.org/foodbanks/city/ca-stanton.html."
+        },
+        {
+          "date": "2026-11-04",
+          "time": "09:00",
+          "title": "Polycarp Family Support Center - Free Food Distribution",
+          "description": "Free food distribution at Polycarp Family Support Center (OC Food Bank partner). Schedule: Monday, Wednesday, Friday 9 AM-12 PM. St. Vincent de Paul food pantry at St. Polycarp Catholic Church (8100 Chapman Ave). M/W/F 9am-12pm confirmed by two independent listings (homelessshelterdirectory.org and foodpantries/Yelp-derived listing). Eligibility note: one source states it serves Westminster residents only - verify eligibility by phone (714) 821-7672.. Call (714) 821-7672 to confirm before you go - distributions often end early when supplies run out. Source: https://www.homelessshelterdirectory.org/foodbanks/city/ca-stanton.html."
+        },
+        {
+          "date": "2026-11-06",
+          "time": "09:00",
+          "title": "Polycarp Family Support Center - Free Food Distribution",
+          "description": "Free food distribution at Polycarp Family Support Center (OC Food Bank partner). Schedule: Monday, Wednesday, Friday 9 AM-12 PM. St. Vincent de Paul food pantry at St. Polycarp Catholic Church (8100 Chapman Ave). M/W/F 9am-12pm confirmed by two independent listings (homelessshelterdirectory.org and foodpantries/Yelp-derived listing). Eligibility note: one source states it serves Westminster residents only - verify eligibility by phone (714) 821-7672.. Call (714) 821-7672 to confirm before you go - distributions often end early when supplies run out. Source: https://www.homelessshelterdirectory.org/foodbanks/city/ca-stanton.html."
+        },
+        {
+          "date": "2026-11-09",
+          "time": "09:00",
+          "title": "Polycarp Family Support Center - Free Food Distribution",
+          "description": "Free food distribution at Polycarp Family Support Center (OC Food Bank partner). Schedule: Monday, Wednesday, Friday 9 AM-12 PM. St. Vincent de Paul food pantry at St. Polycarp Catholic Church (8100 Chapman Ave). M/W/F 9am-12pm confirmed by two independent listings (homelessshelterdirectory.org and foodpantries/Yelp-derived listing). Eligibility note: one source states it serves Westminster residents only - verify eligibility by phone (714) 821-7672.. Call (714) 821-7672 to confirm before you go - distributions often end early when supplies run out. Source: https://www.homelessshelterdirectory.org/foodbanks/city/ca-stanton.html."
+        },
+        {
+          "date": "2026-11-11",
+          "time": "09:00",
+          "title": "Polycarp Family Support Center - Free Food Distribution",
+          "description": "Free food distribution at Polycarp Family Support Center (OC Food Bank partner). Schedule: Monday, Wednesday, Friday 9 AM-12 PM. St. Vincent de Paul food pantry at St. Polycarp Catholic Church (8100 Chapman Ave). M/W/F 9am-12pm confirmed by two independent listings (homelessshelterdirectory.org and foodpantries/Yelp-derived listing). Eligibility note: one source states it serves Westminster residents only - verify eligibility by phone (714) 821-7672.. Call (714) 821-7672 to confirm before you go - distributions often end early when supplies run out. Source: https://www.homelessshelterdirectory.org/foodbanks/city/ca-stanton.html."
+        },
+        {
+          "date": "2026-11-13",
+          "time": "09:00",
+          "title": "Polycarp Family Support Center - Free Food Distribution",
+          "description": "Free food distribution at Polycarp Family Support Center (OC Food Bank partner). Schedule: Monday, Wednesday, Friday 9 AM-12 PM. St. Vincent de Paul food pantry at St. Polycarp Catholic Church (8100 Chapman Ave). M/W/F 9am-12pm confirmed by two independent listings (homelessshelterdirectory.org and foodpantries/Yelp-derived listing). Eligibility note: one source states it serves Westminster residents only - verify eligibility by phone (714) 821-7672.. Call (714) 821-7672 to confirm before you go - distributions often end early when supplies run out. Source: https://www.homelessshelterdirectory.org/foodbanks/city/ca-stanton.html."
+        },
+        {
+          "date": "2026-11-16",
+          "time": "09:00",
+          "title": "Polycarp Family Support Center - Free Food Distribution",
+          "description": "Free food distribution at Polycarp Family Support Center (OC Food Bank partner). Schedule: Monday, Wednesday, Friday 9 AM-12 PM. St. Vincent de Paul food pantry at St. Polycarp Catholic Church (8100 Chapman Ave). M/W/F 9am-12pm confirmed by two independent listings (homelessshelterdirectory.org and foodpantries/Yelp-derived listing). Eligibility note: one source states it serves Westminster residents only - verify eligibility by phone (714) 821-7672.. Call (714) 821-7672 to confirm before you go - distributions often end early when supplies run out. Source: https://www.homelessshelterdirectory.org/foodbanks/city/ca-stanton.html."
+        },
+        {
+          "date": "2026-11-18",
+          "time": "09:00",
+          "title": "Polycarp Family Support Center - Free Food Distribution",
+          "description": "Free food distribution at Polycarp Family Support Center (OC Food Bank partner). Schedule: Monday, Wednesday, Friday 9 AM-12 PM. St. Vincent de Paul food pantry at St. Polycarp Catholic Church (8100 Chapman Ave). M/W/F 9am-12pm confirmed by two independent listings (homelessshelterdirectory.org and foodpantries/Yelp-derived listing). Eligibility note: one source states it serves Westminster residents only - verify eligibility by phone (714) 821-7672.. Call (714) 821-7672 to confirm before you go - distributions often end early when supplies run out. Source: https://www.homelessshelterdirectory.org/foodbanks/city/ca-stanton.html."
+        },
+        {
+          "date": "2026-11-20",
+          "time": "09:00",
+          "title": "Polycarp Family Support Center - Free Food Distribution",
+          "description": "Free food distribution at Polycarp Family Support Center (OC Food Bank partner). Schedule: Monday, Wednesday, Friday 9 AM-12 PM. St. Vincent de Paul food pantry at St. Polycarp Catholic Church (8100 Chapman Ave). M/W/F 9am-12pm confirmed by two independent listings (homelessshelterdirectory.org and foodpantries/Yelp-derived listing). Eligibility note: one source states it serves Westminster residents only - verify eligibility by phone (714) 821-7672.. Call (714) 821-7672 to confirm before you go - distributions often end early when supplies run out. Source: https://www.homelessshelterdirectory.org/foodbanks/city/ca-stanton.html."
+        },
+        {
+          "date": "2026-11-23",
+          "time": "09:00",
+          "title": "Polycarp Family Support Center - Free Food Distribution",
+          "description": "Free food distribution at Polycarp Family Support Center (OC Food Bank partner). Schedule: Monday, Wednesday, Friday 9 AM-12 PM. St. Vincent de Paul food pantry at St. Polycarp Catholic Church (8100 Chapman Ave). M/W/F 9am-12pm confirmed by two independent listings (homelessshelterdirectory.org and foodpantries/Yelp-derived listing). Eligibility note: one source states it serves Westminster residents only - verify eligibility by phone (714) 821-7672.. Call (714) 821-7672 to confirm before you go - distributions often end early when supplies run out. Source: https://www.homelessshelterdirectory.org/foodbanks/city/ca-stanton.html."
+        },
+        {
+          "date": "2026-11-25",
+          "time": "09:00",
+          "title": "Polycarp Family Support Center - Free Food Distribution",
+          "description": "Free food distribution at Polycarp Family Support Center (OC Food Bank partner). Schedule: Monday, Wednesday, Friday 9 AM-12 PM. St. Vincent de Paul food pantry at St. Polycarp Catholic Church (8100 Chapman Ave). M/W/F 9am-12pm confirmed by two independent listings (homelessshelterdirectory.org and foodpantries/Yelp-derived listing). Eligibility note: one source states it serves Westminster residents only - verify eligibility by phone (714) 821-7672.. Call (714) 821-7672 to confirm before you go - distributions often end early when supplies run out. Source: https://www.homelessshelterdirectory.org/foodbanks/city/ca-stanton.html."
+        },
+        {
+          "date": "2026-11-27",
+          "time": "09:00",
+          "title": "Polycarp Family Support Center - Free Food Distribution",
+          "description": "Free food distribution at Polycarp Family Support Center (OC Food Bank partner). Schedule: Monday, Wednesday, Friday 9 AM-12 PM. St. Vincent de Paul food pantry at St. Polycarp Catholic Church (8100 Chapman Ave). M/W/F 9am-12pm confirmed by two independent listings (homelessshelterdirectory.org and foodpantries/Yelp-derived listing). Eligibility note: one source states it serves Westminster residents only - verify eligibility by phone (714) 821-7672.. Call (714) 821-7672 to confirm before you go - distributions often end early when supplies run out. Source: https://www.homelessshelterdirectory.org/foodbanks/city/ca-stanton.html."
+        },
+        {
+          "date": "2026-11-30",
+          "time": "09:00",
+          "title": "Polycarp Family Support Center - Free Food Distribution",
+          "description": "Free food distribution at Polycarp Family Support Center (OC Food Bank partner). Schedule: Monday, Wednesday, Friday 9 AM-12 PM. St. Vincent de Paul food pantry at St. Polycarp Catholic Church (8100 Chapman Ave). M/W/F 9am-12pm confirmed by two independent listings (homelessshelterdirectory.org and foodpantries/Yelp-derived listing). Eligibility note: one source states it serves Westminster residents only - verify eligibility by phone (714) 821-7672.. Call (714) 821-7672 to confirm before you go - distributions often end early when supplies run out. Source: https://www.homelessshelterdirectory.org/foodbanks/city/ca-stanton.html."
+        },
+        {
+          "date": "2026-12-02",
+          "time": "09:00",
+          "title": "Polycarp Family Support Center - Free Food Distribution",
+          "description": "Free food distribution at Polycarp Family Support Center (OC Food Bank partner). Schedule: Monday, Wednesday, Friday 9 AM-12 PM. St. Vincent de Paul food pantry at St. Polycarp Catholic Church (8100 Chapman Ave). M/W/F 9am-12pm confirmed by two independent listings (homelessshelterdirectory.org and foodpantries/Yelp-derived listing). Eligibility note: one source states it serves Westminster residents only - verify eligibility by phone (714) 821-7672.. Call (714) 821-7672 to confirm before you go - distributions often end early when supplies run out. Source: https://www.homelessshelterdirectory.org/foodbanks/city/ca-stanton.html."
+        },
+        {
+          "date": "2026-12-04",
+          "time": "09:00",
+          "title": "Polycarp Family Support Center - Free Food Distribution",
+          "description": "Free food distribution at Polycarp Family Support Center (OC Food Bank partner). Schedule: Monday, Wednesday, Friday 9 AM-12 PM. St. Vincent de Paul food pantry at St. Polycarp Catholic Church (8100 Chapman Ave). M/W/F 9am-12pm confirmed by two independent listings (homelessshelterdirectory.org and foodpantries/Yelp-derived listing). Eligibility note: one source states it serves Westminster residents only - verify eligibility by phone (714) 821-7672.. Call (714) 821-7672 to confirm before you go - distributions often end early when supplies run out. Source: https://www.homelessshelterdirectory.org/foodbanks/city/ca-stanton.html."
+        },
+        {
+          "date": "2026-12-07",
+          "time": "09:00",
+          "title": "Polycarp Family Support Center - Free Food Distribution",
+          "description": "Free food distribution at Polycarp Family Support Center (OC Food Bank partner). Schedule: Monday, Wednesday, Friday 9 AM-12 PM. St. Vincent de Paul food pantry at St. Polycarp Catholic Church (8100 Chapman Ave). M/W/F 9am-12pm confirmed by two independent listings (homelessshelterdirectory.org and foodpantries/Yelp-derived listing). Eligibility note: one source states it serves Westminster residents only - verify eligibility by phone (714) 821-7672.. Call (714) 821-7672 to confirm before you go - distributions often end early when supplies run out. Source: https://www.homelessshelterdirectory.org/foodbanks/city/ca-stanton.html."
+        },
+        {
+          "date": "2026-12-09",
+          "time": "09:00",
+          "title": "Polycarp Family Support Center - Free Food Distribution",
+          "description": "Free food distribution at Polycarp Family Support Center (OC Food Bank partner). Schedule: Monday, Wednesday, Friday 9 AM-12 PM. St. Vincent de Paul food pantry at St. Polycarp Catholic Church (8100 Chapman Ave). M/W/F 9am-12pm confirmed by two independent listings (homelessshelterdirectory.org and foodpantries/Yelp-derived listing). Eligibility note: one source states it serves Westminster residents only - verify eligibility by phone (714) 821-7672.. Call (714) 821-7672 to confirm before you go - distributions often end early when supplies run out. Source: https://www.homelessshelterdirectory.org/foodbanks/city/ca-stanton.html."
+        },
+        {
+          "date": "2026-12-11",
+          "time": "09:00",
+          "title": "Polycarp Family Support Center - Free Food Distribution",
+          "description": "Free food distribution at Polycarp Family Support Center (OC Food Bank partner). Schedule: Monday, Wednesday, Friday 9 AM-12 PM. St. Vincent de Paul food pantry at St. Polycarp Catholic Church (8100 Chapman Ave). M/W/F 9am-12pm confirmed by two independent listings (homelessshelterdirectory.org and foodpantries/Yelp-derived listing). Eligibility note: one source states it serves Westminster residents only - verify eligibility by phone (714) 821-7672.. Call (714) 821-7672 to confirm before you go - distributions often end early when supplies run out. Source: https://www.homelessshelterdirectory.org/foodbanks/city/ca-stanton.html."
+        },
+        {
+          "date": "2026-12-14",
+          "time": "09:00",
+          "title": "Polycarp Family Support Center - Free Food Distribution",
+          "description": "Free food distribution at Polycarp Family Support Center (OC Food Bank partner). Schedule: Monday, Wednesday, Friday 9 AM-12 PM. St. Vincent de Paul food pantry at St. Polycarp Catholic Church (8100 Chapman Ave). M/W/F 9am-12pm confirmed by two independent listings (homelessshelterdirectory.org and foodpantries/Yelp-derived listing). Eligibility note: one source states it serves Westminster residents only - verify eligibility by phone (714) 821-7672.. Call (714) 821-7672 to confirm before you go - distributions often end early when supplies run out. Source: https://www.homelessshelterdirectory.org/foodbanks/city/ca-stanton.html."
+        },
+        {
+          "date": "2026-12-16",
+          "time": "09:00",
+          "title": "Polycarp Family Support Center - Free Food Distribution",
+          "description": "Free food distribution at Polycarp Family Support Center (OC Food Bank partner). Schedule: Monday, Wednesday, Friday 9 AM-12 PM. St. Vincent de Paul food pantry at St. Polycarp Catholic Church (8100 Chapman Ave). M/W/F 9am-12pm confirmed by two independent listings (homelessshelterdirectory.org and foodpantries/Yelp-derived listing). Eligibility note: one source states it serves Westminster residents only - verify eligibility by phone (714) 821-7672.. Call (714) 821-7672 to confirm before you go - distributions often end early when supplies run out. Source: https://www.homelessshelterdirectory.org/foodbanks/city/ca-stanton.html."
+        },
+        {
+          "date": "2026-12-18",
+          "time": "09:00",
+          "title": "Polycarp Family Support Center - Free Food Distribution",
+          "description": "Free food distribution at Polycarp Family Support Center (OC Food Bank partner). Schedule: Monday, Wednesday, Friday 9 AM-12 PM. St. Vincent de Paul food pantry at St. Polycarp Catholic Church (8100 Chapman Ave). M/W/F 9am-12pm confirmed by two independent listings (homelessshelterdirectory.org and foodpantries/Yelp-derived listing). Eligibility note: one source states it serves Westminster residents only - verify eligibility by phone (714) 821-7672.. Call (714) 821-7672 to confirm before you go - distributions often end early when supplies run out. Source: https://www.homelessshelterdirectory.org/foodbanks/city/ca-stanton.html."
+        },
+        {
+          "date": "2026-12-21",
+          "time": "09:00",
+          "title": "Polycarp Family Support Center - Free Food Distribution",
+          "description": "Free food distribution at Polycarp Family Support Center (OC Food Bank partner). Schedule: Monday, Wednesday, Friday 9 AM-12 PM. St. Vincent de Paul food pantry at St. Polycarp Catholic Church (8100 Chapman Ave). M/W/F 9am-12pm confirmed by two independent listings (homelessshelterdirectory.org and foodpantries/Yelp-derived listing). Eligibility note: one source states it serves Westminster residents only - verify eligibility by phone (714) 821-7672.. Call (714) 821-7672 to confirm before you go - distributions often end early when supplies run out. Source: https://www.homelessshelterdirectory.org/foodbanks/city/ca-stanton.html."
+        },
+        {
+          "date": "2026-12-23",
+          "time": "09:00",
+          "title": "Polycarp Family Support Center - Free Food Distribution",
+          "description": "Free food distribution at Polycarp Family Support Center (OC Food Bank partner). Schedule: Monday, Wednesday, Friday 9 AM-12 PM. St. Vincent de Paul food pantry at St. Polycarp Catholic Church (8100 Chapman Ave). M/W/F 9am-12pm confirmed by two independent listings (homelessshelterdirectory.org and foodpantries/Yelp-derived listing). Eligibility note: one source states it serves Westminster residents only - verify eligibility by phone (714) 821-7672.. Call (714) 821-7672 to confirm before you go - distributions often end early when supplies run out. Source: https://www.homelessshelterdirectory.org/foodbanks/city/ca-stanton.html."
+        },
+        {
+          "date": "2026-12-25",
+          "time": "09:00",
+          "title": "Polycarp Family Support Center - Free Food Distribution",
+          "description": "Free food distribution at Polycarp Family Support Center (OC Food Bank partner). Schedule: Monday, Wednesday, Friday 9 AM-12 PM. St. Vincent de Paul food pantry at St. Polycarp Catholic Church (8100 Chapman Ave). M/W/F 9am-12pm confirmed by two independent listings (homelessshelterdirectory.org and foodpantries/Yelp-derived listing). Eligibility note: one source states it serves Westminster residents only - verify eligibility by phone (714) 821-7672.. Call (714) 821-7672 to confirm before you go - distributions often end early when supplies run out. Source: https://www.homelessshelterdirectory.org/foodbanks/city/ca-stanton.html."
+        },
+        {
+          "date": "2026-12-28",
+          "time": "09:00",
+          "title": "Polycarp Family Support Center - Free Food Distribution",
+          "description": "Free food distribution at Polycarp Family Support Center (OC Food Bank partner). Schedule: Monday, Wednesday, Friday 9 AM-12 PM. St. Vincent de Paul food pantry at St. Polycarp Catholic Church (8100 Chapman Ave). M/W/F 9am-12pm confirmed by two independent listings (homelessshelterdirectory.org and foodpantries/Yelp-derived listing). Eligibility note: one source states it serves Westminster residents only - verify eligibility by phone (714) 821-7672.. Call (714) 821-7672 to confirm before you go - distributions often end early when supplies run out. Source: https://www.homelessshelterdirectory.org/foodbanks/city/ca-stanton.html."
+        },
+        {
+          "date": "2026-12-30",
+          "time": "09:00",
+          "title": "Polycarp Family Support Center - Free Food Distribution",
+          "description": "Free food distribution at Polycarp Family Support Center (OC Food Bank partner). Schedule: Monday, Wednesday, Friday 9 AM-12 PM. St. Vincent de Paul food pantry at St. Polycarp Catholic Church (8100 Chapman Ave). M/W/F 9am-12pm confirmed by two independent listings (homelessshelterdirectory.org and foodpantries/Yelp-derived listing). Eligibility note: one source states it serves Westminster residents only - verify eligibility by phone (714) 821-7672.. Call (714) 821-7672 to confirm before you go - distributions often end early when supplies run out. Source: https://www.homelessshelterdirectory.org/foodbanks/city/ca-stanton.html."
+        }
+      ],
+      "_eventCount": 44
+    },
+    {
+      "slug": "the-seva-collective-tustin",
+      "name": "The Seva Collective",
+      "category": "Food Assistance",
+      "tagline": "1st and 3rd Saturday 9-11:30 AM · OC Food Bank (Community Action Partnership of Orange County)",
+      "description": "Free food distribution site (via OC Food Bank (Community Action Partnership of Orange County)). Schedule: 1st and 3rd Saturday 9-11:30 AM. Call ahead to confirm hours - distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.santa-ana.org/food/the-seva-collective/",
+      "phone": "(714) 584-7573",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "2552 Walnut Avenue, Suite 140, TUSTIN, CA",
+      "lat": 33.7167,
+      "lng": -117.808797,
+      "neighborhood": "",
+      "hours": "1st & 3rd Sat, 9 AM - 11:30 AM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-10-03",
+          "time": "09:00",
+          "title": "The Seva Collective - Free Food Distribution",
+          "description": "Free food distribution at The Seva Collective (OC Food Bank partner). Schedule: 1st and 3rd Saturday 9-11:30 AM. Drive-thru food pantry on 1st & 3rd Saturday of the month, 9-11:30 AM, held at Villa Fundamental Intermediate School, 1441 E. Chestnut Ave, Santa Ana (NOT the Tustin office address in the input). Day (1st & 3rd Sat) is corroborated across multiple sources; some older listings show earlier start times (4-7am/5-8am) but 2025-2026 City of Santa Ana listing gives 9-11:30 AM.. Call (714) 584-7573 to confirm before you go - distributions often end early when supplies run out. Source: https://www.santa-ana.org/food/the-seva-collective/."
+        },
+        {
+          "date": "2026-10-17",
+          "time": "09:00",
+          "title": "The Seva Collective - Free Food Distribution",
+          "description": "Free food distribution at The Seva Collective (OC Food Bank partner). Schedule: 1st and 3rd Saturday 9-11:30 AM. Drive-thru food pantry on 1st & 3rd Saturday of the month, 9-11:30 AM, held at Villa Fundamental Intermediate School, 1441 E. Chestnut Ave, Santa Ana (NOT the Tustin office address in the input). Day (1st & 3rd Sat) is corroborated across multiple sources; some older listings show earlier start times (4-7am/5-8am) but 2025-2026 City of Santa Ana listing gives 9-11:30 AM.. Call (714) 584-7573 to confirm before you go - distributions often end early when supplies run out. Source: https://www.santa-ana.org/food/the-seva-collective/."
+        },
+        {
+          "date": "2026-11-07",
+          "time": "09:00",
+          "title": "The Seva Collective - Free Food Distribution",
+          "description": "Free food distribution at The Seva Collective (OC Food Bank partner). Schedule: 1st and 3rd Saturday 9-11:30 AM. Drive-thru food pantry on 1st & 3rd Saturday of the month, 9-11:30 AM, held at Villa Fundamental Intermediate School, 1441 E. Chestnut Ave, Santa Ana (NOT the Tustin office address in the input). Day (1st & 3rd Sat) is corroborated across multiple sources; some older listings show earlier start times (4-7am/5-8am) but 2025-2026 City of Santa Ana listing gives 9-11:30 AM.. Call (714) 584-7573 to confirm before you go - distributions often end early when supplies run out. Source: https://www.santa-ana.org/food/the-seva-collective/."
+        },
+        {
+          "date": "2026-11-21",
+          "time": "09:00",
+          "title": "The Seva Collective - Free Food Distribution",
+          "description": "Free food distribution at The Seva Collective (OC Food Bank partner). Schedule: 1st and 3rd Saturday 9-11:30 AM. Drive-thru food pantry on 1st & 3rd Saturday of the month, 9-11:30 AM, held at Villa Fundamental Intermediate School, 1441 E. Chestnut Ave, Santa Ana (NOT the Tustin office address in the input). Day (1st & 3rd Sat) is corroborated across multiple sources; some older listings show earlier start times (4-7am/5-8am) but 2025-2026 City of Santa Ana listing gives 9-11:30 AM.. Call (714) 584-7573 to confirm before you go - distributions often end early when supplies run out. Source: https://www.santa-ana.org/food/the-seva-collective/."
+        },
+        {
+          "date": "2026-12-05",
+          "time": "09:00",
+          "title": "The Seva Collective - Free Food Distribution",
+          "description": "Free food distribution at The Seva Collective (OC Food Bank partner). Schedule: 1st and 3rd Saturday 9-11:30 AM. Drive-thru food pantry on 1st & 3rd Saturday of the month, 9-11:30 AM, held at Villa Fundamental Intermediate School, 1441 E. Chestnut Ave, Santa Ana (NOT the Tustin office address in the input). Day (1st & 3rd Sat) is corroborated across multiple sources; some older listings show earlier start times (4-7am/5-8am) but 2025-2026 City of Santa Ana listing gives 9-11:30 AM.. Call (714) 584-7573 to confirm before you go - distributions often end early when supplies run out. Source: https://www.santa-ana.org/food/the-seva-collective/."
+        },
+        {
+          "date": "2026-12-19",
+          "time": "09:00",
+          "title": "The Seva Collective - Free Food Distribution",
+          "description": "Free food distribution at The Seva Collective (OC Food Bank partner). Schedule: 1st and 3rd Saturday 9-11:30 AM. Drive-thru food pantry on 1st & 3rd Saturday of the month, 9-11:30 AM, held at Villa Fundamental Intermediate School, 1441 E. Chestnut Ave, Santa Ana (NOT the Tustin office address in the input). Day (1st & 3rd Sat) is corroborated across multiple sources; some older listings show earlier start times (4-7am/5-8am) but 2025-2026 City of Santa Ana listing gives 9-11:30 AM.. Call (714) 584-7573 to confirm before you go - distributions often end early when supplies run out. Source: https://www.santa-ana.org/food/the-seva-collective/."
+        }
+      ],
+      "_eventCount": 6
+    }
+  ]
+}

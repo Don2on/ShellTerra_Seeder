@@ -117,7 +117,10 @@ function buildActivityDoc(item, ctx) {
     // Vendor/host name. Drives seeded-shell vendor grouping in the app:
     // activities sharing a hostName collapse into one vendor card. Requires a
     // `hostName` (String) attribute on the activities collection.
-    hostName:     item.locationName || '',
+    // --no-host-grouping forces this empty so every activity stands alone in the
+    // Activities tab (used when the vendor directory lives ONLY in the Vendors
+    // tab and the Activities tab should show each occurrence as its own card).
+    hostName:     NO_HOST_GROUPING ? '' : (item.locationName || ''),
 
     recurrence:     ctx.recurrence,
     isPrivate:      !SEED_AS_PUBLIC,
@@ -343,6 +346,14 @@ const DRY = args.includes('--dry-run');
 // refreshed feed so hand-tuned existing rows aren't overwritten.
 const CREATE_ONLY = args.includes('--create-only');
 const DATA_FILE = valOf('--file') || './HillcrestToDo.json';
+
+// Optional CLI overrides. --shell-id targets a shell without editing .env
+// (the ambient SHELL_ID is usually set for a different activities shell).
+// --no-host-grouping writes empty hostName so activities aren't collapsed into
+// vendor cards in the Activities tab (see buildActivityDoc).
+const SHELL_ID_OVERRIDE = valOf('--shell-id');
+if (SHELL_ID_OVERRIDE) CFG.shellId = SHELL_ID_OVERRIDE;
+const NO_HOST_GROUPING = args.includes('--no-host-grouping');
 
 const client = new Client();
 if (CFG.endpoint && CFG.projectId && CFG.apiKey) {

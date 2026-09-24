@@ -1,0 +1,3212 @@
+{
+  "_comment": "Hillcrest vendor directory derived from HillcrestActivities.json venues. Enrichment fields filled by research pass.",
+  "_shell": "HillcrestActivities",
+  "_shellId": "6a964e8e04e1b63f6116",
+  "_collection": "vendors",
+  "_source": "HillcrestActivities.json (locationName grouping, variants merged)",
+  "_verify_before_running": "Confirm _shellId, verify enriched fields per vendor, drop _activityCategories/_eventCount before seeding.",
+  "_fields": "See BlackCommerceSD.json _fields.",
+  "vendors": [
+    {
+      "slug": "gossip-grill",
+      "name": "Gossip Grill",
+      "category": "Bar",
+      "tagline": "SoCal's premier women's & LGBTQ+ bar and restaurant",
+      "description": "A Hillcrest women's/LGBTQ+ bar and restaurant open 7 days a week, serving American comfort food with a patio bar and dance floor since 2009.",
+      "logoUrl": "",
+      "website": "https://gossipgrill.com/",
+      "phone": "(619) 260-8023",
+      "email": "",
+      "instagram": "@gossipgrill_",
+      "facebook": "GossipGrill",
+      "tiktok": "@gossipgrillsd",
+      "address": "1220 University Ave, San Diego, CA 92103",
+      "lat": 32.7488029,
+      "lng": -117.1530762,
+      "neighborhood": "Hillcrest",
+      "hours": "Mon 2pm-8pm, Tue-Thu 2pm-12am, Fri 2pm-2am, Sat 11am-2am, Sun 11am-10pm",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "Bingo Gone Bonkers: Trick Or Treat",
+          "date": "2026-09-02",
+          "time": "18:00",
+          "description": "Join San Diego's crankiest drag queen Mariam T. every Wednesday for Bingo Gone Bonkers! Dinner & Bingo, 2 Boards for $10. $20 minimum spend per guest. 18+ event."
+        },
+        {
+          "title": "TGIW!",
+          "date": "2026-09-02",
+          "time": "21:00",
+          "description": "Bingo Gone Bonkers with Mariam T from 6-8pm. TGIW with DJ Jocerlyn 9pm to Close - NO COVER! LateHER Happy Hour 8pm to Close."
+        },
+        {
+          "title": "SD History Center Paint & Sip",
+          "date": "2026-09-03",
+          "time": "18:00",
+          "description": "Paint and Sip with the Center for Women's History. Guided painting session with local artist Maira Meza. $40 per person. All materials provided."
+        },
+        {
+          "title": "$4 Thirsty Thursdays",
+          "date": "2026-09-03",
+          "time": "18:00",
+          "description": "$2.50 Select Shots, $4 16oz Drafts, $11.50 Philly Cheesesteak & Fries"
+        },
+        {
+          "title": "Finger Me Friday",
+          "date": "2026-09-04",
+          "time": "21:00",
+          "description": "Full nightclub and bar, rotating DJs, full dinner menu until 10pm. $15 cover after 10pm."
+        },
+        {
+          "title": "Smarty Pants Saturday Trivia Brunch",
+          "date": "2026-09-05",
+          "time": "11:00",
+          "description": "SMARTYPANTS SATURDAY Trivia Brunch! Brains, Brunch & Bubbles from 11am-2pm. Brunch cocktails, mimosa buckets."
+        },
+        {
+          "title": "Sapphic Saturdays",
+          "date": "2026-09-05",
+          "time": "21:00",
+          "description": "A woman/queer club experience. Open until 2am, kitchen until 10pm. Every Saturday. $15 cover after 10pm."
+        },
+        {
+          "title": "Souleil Labor Day Weekend",
+          "date": "2026-09-06",
+          "time": "15:00",
+          "description": "Labor Day weekend party at Gossip Grill."
+        },
+        {
+          "title": "Girls, Gays & Theys Sundays",
+          "date": "2026-09-06",
+          "time": "11:00",
+          "description": "Brunch 11-2. Rotating DJs & Special Events 3-7pm. Happy Hour 2-6pm. $5 Seltzer All Day. Sunday night specials 7-10pm."
+        },
+        {
+          "title": "Supper Club",
+          "date": "2026-09-06",
+          "time": "19:00",
+          "description": "First Sunday night of each month - special food and drink menus, curated experiences, vibrant entertainment. Movie nights, live music, burlesque, or drag."
+        },
+        {
+          "title": "Noodles & Doodles Mondays",
+          "date": "2026-09-07",
+          "time": "17:00",
+          "description": "ALL YOU CAN EAT SPAGHETTI & ALL NIGHT HAPPY HOUR. $8 spaghetti. Art supplies provided. Sensory-friendly."
+        },
+        {
+          "title": "Karaoke Tuesdays With Joey Adams",
+          "date": "2026-09-08",
+          "time": "19:00",
+          "description": "Karaoke Tuesdays from 7pm-11pm! $2.50 Shot specials, $4.00 Well Cocktails, $3.00 Tacos after 6pm."
+        },
+        {
+          "title": "Bingo Gone Bonkers: Trick Or Treat",
+          "date": "2026-09-09",
+          "time": "18:00",
+          "description": "Join San Diego's crankiest drag queen Mariam T. every Wednesday for Bingo Gone Bonkers! Dinner & Bingo, 2 Boards for $10. 18+ event."
+        },
+        {
+          "title": "TGIW!",
+          "date": "2026-09-09",
+          "time": "21:00",
+          "description": "TGIW with DJ Jocerlyn 9pm to Close - NO COVER! LateHER Happy Hour 8pm to Close."
+        },
+        {
+          "title": "$4 Thirsty Thursdays",
+          "date": "2026-09-10",
+          "time": "18:00",
+          "description": "$2.50 Select Shots, $4 Well Drinks, $4 16oz Drafts, $11.50 Philly Cheesesteak & Fries"
+        },
+        {
+          "title": "Top Shelf Tease",
+          "date": "2026-09-10",
+          "time": "21:00",
+          "description": "Starring Nina Bel Vande, hosted by Nadya Symone. Seating 8pm, show 9-10:45pm. $13 ticket, $20 min spend."
+        },
+        {
+          "title": "Kings Club Drag King Show",
+          "date": "2026-09-11",
+          "time": "19:00",
+          "description": "KINGS CLUB Drag King show - 2nd Friday of every month. Seating 7PM, show 8PM. Minimum food & drink purchase required."
+        },
+        {
+          "title": "Finger Me Friday",
+          "date": "2026-09-11",
+          "time": "21:00",
+          "description": "Full nightclub and bar, rotating DJs, full dinner menu until 10pm. $15 cover after 10pm."
+        },
+        {
+          "title": "Smarty Pants Saturday Trivia Brunch",
+          "date": "2026-09-12",
+          "time": "11:00",
+          "description": "SMARTYPANTS SATURDAY Trivia Brunch! 11am-2pm. Brunch cocktails, mimosa buckets."
+        },
+        {
+          "title": "Sapphic Saturdays",
+          "date": "2026-09-12",
+          "time": "21:00",
+          "description": "A woman/queer club experience. Open until 2am. $15 cover after 10pm."
+        },
+        {
+          "title": "Cabaret Drag Brunch",
+          "date": "2026-09-13",
+          "time": "11:00",
+          "description": "Seating 11am, show 11:45am. $13 tickets, 21+. $20 minimum spend including food and beverage."
+        },
+        {
+          "title": "Girls, Gays & Theys Sundays",
+          "date": "2026-09-13",
+          "time": "11:00",
+          "description": "Brunch 11-2. Rotating DJs & Special Events 3-7pm. Happy Hour 2-6pm. $5 Seltzer All Day."
+        },
+        {
+          "title": "69 BPM R&B Takeover: DJ Jocelin",
+          "date": "2026-09-13",
+          "time": "15:00",
+          "description": "R&B DJ set by Jocelin on the second Sunday afternoon of the month."
+        },
+        {
+          "title": "Noodles & Doodles Mondays",
+          "date": "2026-09-14",
+          "time": "17:00",
+          "description": "ALL YOU CAN EAT SPAGHETTI & ALL NIGHT HAPPY HOUR. Art supplies provided. Sensory-friendly."
+        },
+        {
+          "title": "EXP.Lore",
+          "date": "2026-09-14",
+          "time": "17:00",
+          "description": "Be Queer. Roll dice. A queer TTRPG experience exploring LGBTQ+ history through modern fantasy. Cocktail hour, 3 hours of gameplay, curated drinks. One-time event."
+        },
+        {
+          "title": "Karaoke Tuesdays With Joey Adams",
+          "date": "2026-09-15",
+          "time": "19:00",
+          "description": "Karaoke Tuesdays from 7pm-11pm! $2.50 Shot specials, $4.00 Well Cocktails, $3.00 Tacos after 6pm."
+        },
+        {
+          "title": "Bingo Gone Bonkers: Trick Or Treat",
+          "date": "2026-09-16",
+          "time": "18:00",
+          "description": "Bingo with Mariam T every Wednesday. Dinner & Bingo, 2 Boards for $10. 18+ event."
+        },
+        {
+          "title": "TGIW!",
+          "date": "2026-09-16",
+          "time": "21:00",
+          "description": "TGIW with DJ Jocerlyn 9pm to Close - NO COVER! LateHER Happy Hour 8pm to Close."
+        },
+        {
+          "title": "$4 Thirsty Thursdays",
+          "date": "2026-09-17",
+          "time": "18:00",
+          "description": "$2.50 Select Shots, $4 Well Drinks, $4 16oz Drafts, $11.50 Philly Cheesesteak & Fries"
+        },
+        {
+          "title": "Hot Girl Craft Club",
+          "date": "2026-09-17",
+          "time": "19:00",
+          "description": "A martini in one hand, a craft in the other. This month: custom embossed matchbooks. $25 ticket includes materials and Polaroids. Two-drink minimum."
+        },
+        {
+          "title": "Finger Me Friday",
+          "date": "2026-09-18",
+          "time": "21:00",
+          "description": "Full nightclub and bar, rotating DJs, full dinner menu until 10pm. $15 cover after 10pm."
+        },
+        {
+          "title": "Smarty Pants Saturday Trivia Brunch",
+          "date": "2026-09-19",
+          "time": "11:00",
+          "description": "SMARTYPANTS SATURDAY Trivia Brunch! 11am-2pm. Brunch cocktails, mimosa buckets."
+        },
+        {
+          "title": "Sapphic Saturdays",
+          "date": "2026-09-19",
+          "time": "21:00",
+          "description": "A woman/queer club experience. Open until 2am. $15 cover after 10pm."
+        },
+        {
+          "title": "Girls, Gays & Theys Sundays",
+          "date": "2026-09-20",
+          "time": "11:00",
+          "description": "Brunch 11-2. Rotating DJs & Special Events 3-7pm. Happy Hour 2-6pm. $5 Seltzer All Day."
+        },
+        {
+          "title": "Noodles & Doodles Mondays",
+          "date": "2026-09-21",
+          "time": "17:00",
+          "description": "ALL YOU CAN EAT SPAGHETTI & ALL NIGHT HAPPY HOUR. Art supplies provided. Sensory-friendly."
+        },
+        {
+          "title": "Karaoke Tuesdays With Joey Adams",
+          "date": "2026-09-22",
+          "time": "19:00",
+          "description": "Karaoke Tuesdays from 7pm-11pm! $2.50 Shot specials, $4.00 Well Cocktails, $3.00 Tacos after 6pm."
+        },
+        {
+          "title": "Bingo Gone Bonkers: Trick Or Treat",
+          "date": "2026-09-23",
+          "time": "18:00",
+          "description": "Bingo with Mariam T every Wednesday. Dinner & Bingo, 2 Boards for $10. 18+ event."
+        },
+        {
+          "title": "TGIW!",
+          "date": "2026-09-23",
+          "time": "21:00",
+          "description": "TGIW with DJ Jocerlyn 9pm to Close - NO COVER! LateHER Happy Hour 8pm to Close."
+        },
+        {
+          "title": "$4 Thirsty Thursdays",
+          "date": "2026-09-24",
+          "time": "18:00",
+          "description": "$2.50 Select Shots, $4 Well Drinks, $4 16oz Drafts, $11.50 Philly Cheesesteak & Fries"
+        },
+        {
+          "title": "Finger Me Friday",
+          "date": "2026-09-25",
+          "time": "21:00",
+          "description": "Full nightclub and bar, rotating DJs, full dinner menu until 10pm. $15 cover after 10pm."
+        },
+        {
+          "title": "Smarty Pants Saturday Trivia Brunch",
+          "date": "2026-09-26",
+          "time": "11:00",
+          "description": "SMARTYPANTS SATURDAY Trivia Brunch! 11am-2pm."
+        },
+        {
+          "title": "Wine Club",
+          "date": "2026-09-26",
+          "time": "14:30",
+          "description": "Last Saturday of the month. Hosted by Nadya Symone. 5 tastings, wine & gift raffles."
+        },
+        {
+          "title": "Sapphic Saturdays",
+          "date": "2026-09-26",
+          "time": "21:00",
+          "description": "A woman/queer club experience. Open until 2am. $15 cover after 10pm."
+        },
+        {
+          "title": "Cabaret Drag Brunch",
+          "date": "2026-09-27",
+          "time": "11:00",
+          "description": "Seating 11am, show 11:45am. $13 tickets, 21+. $20 minimum spend."
+        },
+        {
+          "title": "Girls, Gays & Theys Sundays",
+          "date": "2026-09-27",
+          "time": "11:00",
+          "description": "Brunch 11-2. Rotating DJs & Special Events 3-7pm. Happy Hour 2-6pm. $5 Seltzer All Day."
+        },
+        {
+          "title": "Noodles & Doodles Mondays",
+          "date": "2026-09-28",
+          "time": "17:00",
+          "description": "ALL YOU CAN EAT SPAGHETTI & ALL NIGHT HAPPY HOUR. Art supplies provided."
+        },
+        {
+          "title": "Karaoke Tuesdays With Joey Adams",
+          "date": "2026-09-29",
+          "time": "19:00",
+          "description": "Karaoke Tuesdays from 7pm-11pm! $2.50 Shot specials, $4.00 Well Cocktails, $3.00 Tacos after 6pm."
+        },
+        {
+          "title": "Bingo Gone Bonkers: Trick Or Treat",
+          "date": "2026-09-30",
+          "time": "18:00",
+          "description": "Bingo with Mariam T every Wednesday. Dinner & Bingo, 2 Boards for $10. 18+ event."
+        },
+        {
+          "title": "TGIW!",
+          "date": "2026-09-30",
+          "time": "21:00",
+          "description": "TGIW with DJ Jocerlyn 9pm to Close - NO COVER! LateHER Happy Hour 8pm to Close."
+        },
+        {
+          "title": "$4 Thirsty Thursdays",
+          "date": "2026-10-01",
+          "time": "18:00",
+          "description": "$2.50 Select Shots, $4 Well Drinks, $4 16oz Drafts, $11.50 Philly Cheesesteak & Fries"
+        },
+        {
+          "title": "Finger Me Friday",
+          "date": "2026-10-02",
+          "time": "21:00",
+          "description": "Full nightclub and bar, rotating DJs, full dinner menu until 10pm. $15 cover after 10pm."
+        },
+        {
+          "title": "Smarty Pants Saturday Trivia Brunch",
+          "date": "2026-10-03",
+          "time": "11:00",
+          "description": "SMARTYPANTS SATURDAY Trivia Brunch! 11am-2pm."
+        },
+        {
+          "title": "Sapphic Saturdays",
+          "date": "2026-10-03",
+          "time": "21:00",
+          "description": "A woman/queer club experience. Open until 2am. $15 cover after 10pm."
+        },
+        {
+          "title": "Girls, Gays & Theys Sundays",
+          "date": "2026-10-04",
+          "time": "11:00",
+          "description": "Brunch 11-2. Rotating DJs & Special Events 3-7pm. Happy Hour 2-6pm. $5 Seltzer All Day."
+        },
+        {
+          "title": "Supper Club",
+          "date": "2026-10-04",
+          "time": "19:00",
+          "description": "First Sunday night of each month - special food and drink menus, curated experiences, vibrant entertainment."
+        },
+        {
+          "title": "Noodles & Doodles Mondays",
+          "date": "2026-10-05",
+          "time": "17:00",
+          "description": "ALL YOU CAN EAT SPAGHETTI & ALL NIGHT HAPPY HOUR. Art supplies provided."
+        },
+        {
+          "title": "Karaoke Tuesdays With Joey Adams",
+          "date": "2026-10-06",
+          "time": "19:00",
+          "description": "Karaoke Tuesdays from 7pm-11pm! $2.50 Shot specials, $4.00 Well Cocktails, $3.00 Tacos after 6pm."
+        },
+        {
+          "title": "Bingo Gone Bonkers: Trick Or Treat",
+          "date": "2026-10-07",
+          "time": "18:00",
+          "description": "Bingo with Mariam T every Wednesday. Complimentary shot for wearing your Halloween costume. Dinner & Bingo, 2 Boards for $10. 18+ event."
+        },
+        {
+          "title": "TGIW!",
+          "date": "2026-10-07",
+          "time": "21:00",
+          "description": "TGIW with DJ Jocerlyn 9pm to Close - NO COVER! LateHER Happy Hour 8pm to Close."
+        },
+        {
+          "title": "$4 Thirsty Thursdays",
+          "date": "2026-10-08",
+          "time": "18:00",
+          "description": "$2.50 Select Shots, $4 Well Drinks, $4 16oz Drafts, $11.50 Philly Cheesesteak & Fries"
+        },
+        {
+          "title": "Top Shelf Tease",
+          "date": "2026-10-08",
+          "time": "21:00",
+          "description": "Starring Nina Bel Vande, hosted by Nadya Symone. Seating 8pm, show 9-10:45pm. $13 ticket, $20 min spend."
+        },
+        {
+          "title": "Kings Club Drag King Show",
+          "date": "2026-10-09",
+          "time": "19:00",
+          "description": "KINGS CLUB Drag King show - 2nd Friday of every month. Seating 7PM, show 8PM."
+        },
+        {
+          "title": "Finger Me Friday",
+          "date": "2026-10-09",
+          "time": "21:00",
+          "description": "Full nightclub and bar, rotating DJs, full dinner menu until 10pm. $15 cover after 10pm."
+        },
+        {
+          "title": "Smarty Pants Saturday Trivia Brunch",
+          "date": "2026-10-10",
+          "time": "11:00",
+          "description": "SMARTYPANTS SATURDAY Trivia Brunch! 11am-2pm."
+        },
+        {
+          "title": "Sapphic Saturdays",
+          "date": "2026-10-10",
+          "time": "21:00",
+          "description": "A woman/queer club experience. Open until 2am. $15 cover after 10pm."
+        },
+        {
+          "title": "Cabaret Drag Brunch",
+          "date": "2026-10-11",
+          "time": "11:00",
+          "description": "Seating 11am, show 11:45am. $13 tickets, 21+. $20 minimum spend."
+        },
+        {
+          "title": "Girls, Gays & Theys Sundays",
+          "date": "2026-10-11",
+          "time": "11:00",
+          "description": "Brunch 11-2. Rotating DJs & Special Events 3-7pm. Happy Hour 2-6pm. $5 Seltzer All Day."
+        },
+        {
+          "title": "69 BPM R&B Takeover: DJ Jocelin",
+          "date": "2026-10-11",
+          "time": "15:00",
+          "description": "R&B DJ set by Jocelin on the second Sunday afternoon of the month."
+        },
+        {
+          "title": "Noodles & Doodles Mondays",
+          "date": "2026-10-12",
+          "time": "17:00",
+          "description": "ALL YOU CAN EAT SPAGHETTI & ALL NIGHT HAPPY HOUR. Art supplies provided."
+        },
+        {
+          "title": "Karaoke Tuesdays With Joey Adams",
+          "date": "2026-10-13",
+          "time": "19:00",
+          "description": "Karaoke Tuesdays from 7pm-11pm! $2.50 Shot specials, $4.00 Well Cocktails, $3.00 Tacos after 6pm."
+        },
+        {
+          "title": "Bingo Gone Bonkers: Trick Or Treat",
+          "date": "2026-10-14",
+          "time": "18:00",
+          "description": "Bingo with Mariam T. Complimentary shot for wearing Halloween costume. Dinner & Bingo, 2 Boards for $10. 18+ event."
+        },
+        {
+          "title": "TGIW!",
+          "date": "2026-10-14",
+          "time": "21:00",
+          "description": "TGIW with DJ Jocerlyn 9pm to Close - NO COVER! LateHER Happy Hour 8pm to Close."
+        },
+        {
+          "title": "$4 Thirsty Thursdays",
+          "date": "2026-10-15",
+          "time": "18:00",
+          "description": "$2.50 Select Shots, $4 Well Drinks, $4 16oz Drafts, $11.50 Philly Cheesesteak & Fries"
+        },
+        {
+          "title": "Finger Me Friday",
+          "date": "2026-10-16",
+          "time": "21:00",
+          "description": "Full nightclub and bar, rotating DJs, full dinner menu until 10pm. $15 cover after 10pm."
+        },
+        {
+          "title": "Smarty Pants Saturday Trivia Brunch",
+          "date": "2026-10-17",
+          "time": "11:00",
+          "description": "SMARTYPANTS SATURDAY Trivia Brunch! 11am-2pm."
+        },
+        {
+          "title": "Halloween Market Pop Up",
+          "date": "2026-10-17",
+          "time": "12:00",
+          "description": "HALLOWEEN Pop Up Market, Oct 17, 12pm-5pm. Local Women & LGBTQ+ Artists and Shop Owners. Happy Hour 2-6pm."
+        },
+        {
+          "title": "Sapphic Saturdays",
+          "date": "2026-10-17",
+          "time": "21:00",
+          "description": "A woman/queer club experience. Open until 2am. $15 cover after 10pm."
+        },
+        {
+          "title": "Girls, Gays & Theys Sundays",
+          "date": "2026-10-18",
+          "time": "11:00",
+          "description": "Brunch 11-2. Rotating DJs & Special Events 3-7pm. Happy Hour 2-6pm. $5 Seltzer All Day."
+        },
+        {
+          "title": "Noodles & Doodles Mondays",
+          "date": "2026-10-19",
+          "time": "17:00",
+          "description": "ALL YOU CAN EAT SPAGHETTI & ALL NIGHT HAPPY HOUR. Art supplies provided."
+        },
+        {
+          "title": "Karaoke Tuesdays With Joey Adams",
+          "date": "2026-10-20",
+          "time": "19:00",
+          "description": "Karaoke Tuesdays from 7pm-11pm! $2.50 Shot specials, $4.00 Well Cocktails, $3.00 Tacos after 6pm."
+        },
+        {
+          "title": "Bingo Gone Bonkers: Trick Or Treat",
+          "date": "2026-10-21",
+          "time": "18:00",
+          "description": "Bingo with Mariam T. Complimentary shot for wearing Halloween costume. Dinner & Bingo, 2 Boards for $10. 18+ event."
+        },
+        {
+          "title": "TGIW!",
+          "date": "2026-10-21",
+          "time": "21:00",
+          "description": "TGIW with DJ Jocerlyn 9pm to Close - NO COVER! LateHER Happy Hour 8pm to Close."
+        },
+        {
+          "title": "$4 Thirsty Thursdays",
+          "date": "2026-10-22",
+          "time": "18:00",
+          "description": "$2.50 Select Shots, $4 Well Drinks, $4 16oz Drafts, $11.50 Philly Cheesesteak & Fries"
+        },
+        {
+          "title": "Finger Me Friday",
+          "date": "2026-10-23",
+          "time": "21:00",
+          "description": "Full nightclub and bar, rotating DJs, full dinner menu until 10pm. $15 cover after 10pm."
+        },
+        {
+          "title": "Smarty Pants Saturday Trivia Brunch",
+          "date": "2026-10-24",
+          "time": "11:00",
+          "description": "SMARTYPANTS SATURDAY Trivia Brunch! 11am-2pm."
+        },
+        {
+          "title": "Wine Club",
+          "date": "2026-10-24",
+          "time": "14:30",
+          "description": "Last Saturday of the month. Hosted by Nadya Symone. 5 tastings, wine & gift raffles."
+        },
+        {
+          "title": "Sapphic Saturdays",
+          "date": "2026-10-24",
+          "time": "21:00",
+          "description": "A woman/queer club experience. Open until 2am. $15 cover after 10pm."
+        },
+        {
+          "title": "Cabaret Drag Brunch",
+          "date": "2026-10-25",
+          "time": "11:00",
+          "description": "Seating 11am, show 11:45am. $13 tickets, 21+. $20 minimum spend."
+        },
+        {
+          "title": "Girls, Gays & Theys Sundays",
+          "date": "2026-10-25",
+          "time": "11:00",
+          "description": "Brunch 11-2. Rotating DJs & Special Events 3-7pm. Happy Hour 2-6pm. $5 Seltzer All Day."
+        },
+        {
+          "title": "Noodles & Doodles Mondays",
+          "date": "2026-10-26",
+          "time": "17:00",
+          "description": "ALL YOU CAN EAT SPAGHETTI & ALL NIGHT HAPPY HOUR. Art supplies provided."
+        },
+        {
+          "title": "EXP.Lore",
+          "date": "2026-10-26",
+          "time": "17:00",
+          "description": "Be Queer. Roll dice. A queer TTRPG experience exploring LGBTQ+ history. Cocktail hour, 3 hours of gameplay, curated drinks."
+        },
+        {
+          "title": "Halloween Karaoke with Joey Adams",
+          "date": "2026-10-27",
+          "time": "19:00",
+          "description": "Halloween Karaoke Tuesday! Come in costume for a costume contest. $2.50 Shot specials, $4.00 Well Cocktails, $3.00 Tacos after 6pm."
+        },
+        {
+          "title": "Bingo Gone Bonkers: Trick Or Treat",
+          "date": "2026-10-28",
+          "time": "18:00",
+          "description": "Bingo with Mariam T. Complimentary shot for wearing Halloween costume. Dinner & Bingo, 2 Boards for $10. 18+ event."
+        },
+        {
+          "title": "TGIW!",
+          "date": "2026-10-28",
+          "time": "21:00",
+          "description": "TGIW with DJ Jocerlyn 9pm to Close - NO COVER! LateHER Happy Hour 8pm to Close."
+        },
+        {
+          "title": "$4 Thirsty Thursdays",
+          "date": "2026-10-29",
+          "time": "18:00",
+          "description": "$2.50 Select Shots, $4 Well Drinks, $4 16oz Drafts, $11.50 Philly Cheesesteak & Fries"
+        },
+        {
+          "title": "Top Shelf Tease Presents: The Fetish Show",
+          "date": "2026-10-29",
+          "time": "20:00",
+          "description": "THE FETISH SHOW starring Nina Bel Vande, hosted by Barbie Z. Seating 8pm, show 9-10:45pm. $13 ticket, $20 min spend."
+        },
+        {
+          "title": "Finger Me Friday",
+          "date": "2026-10-30",
+          "time": "21:00",
+          "description": "Full nightclub and bar, rotating DJs, full dinner menu until 10pm. $15 cover after 10pm."
+        },
+        {
+          "title": "Smarty Pants Saturday Trivia Brunch",
+          "date": "2026-10-31",
+          "time": "11:00",
+          "description": "SMARTYPANTS SATURDAY Trivia Brunch! 11am-2pm."
+        },
+        {
+          "title": "Sapphic Saturdays",
+          "date": "2026-10-31",
+          "time": "21:00",
+          "description": "A woman/queer club experience. Open until 2am. $15 cover after 10pm."
+        },
+        {
+          "title": "Girls, Gays & Theys Sundays",
+          "date": "2026-11-01",
+          "time": "11:00",
+          "description": "Brunch 11-2. Rotating DJs & Special Events 3-7pm. Happy Hour 2-6pm. $5 Seltzer All Day."
+        },
+        {
+          "title": "Supper Club",
+          "date": "2026-11-01",
+          "time": "19:00",
+          "description": "First Sunday night of each month - special food and drink menus, curated experiences, vibrant entertainment."
+        },
+        {
+          "title": "Noodles & Doodles Mondays",
+          "date": "2026-11-02",
+          "time": "17:00",
+          "description": "ALL YOU CAN EAT SPAGHETTI & ALL NIGHT HAPPY HOUR. Art supplies provided."
+        },
+        {
+          "title": "Karaoke Tuesdays With Joey Adams",
+          "date": "2026-11-03",
+          "time": "19:00",
+          "description": "Karaoke Tuesdays from 7pm-11pm! $2.50 Shot specials, $4.00 Well Cocktails, $3.00 Tacos after 6pm."
+        },
+        {
+          "title": "Bingo Gone Bonkers",
+          "date": "2026-11-04",
+          "time": "18:00",
+          "description": "Bingo with Mariam T every Wednesday. Dinner & Bingo, 2 Boards for $10. 18+ event."
+        },
+        {
+          "title": "TGIW!",
+          "date": "2026-11-04",
+          "time": "21:00",
+          "description": "TGIW with DJ Jocerlyn 9pm to Close - NO COVER! LateHER Happy Hour 8pm to Close."
+        },
+        {
+          "title": "$4 Thirsty Thursdays",
+          "date": "2026-11-05",
+          "time": "18:00",
+          "description": "$2.50 Select Shots, $4 Well Drinks, $4 16oz Drafts, $11.50 Philly Cheesesteak & Fries"
+        },
+        {
+          "title": "Finger Me Friday",
+          "date": "2026-11-06",
+          "time": "21:00",
+          "description": "Full nightclub and bar, rotating DJs, full dinner menu until 10pm. $15 cover after 10pm."
+        },
+        {
+          "title": "Smarty Pants Saturday Trivia Brunch",
+          "date": "2026-11-07",
+          "time": "11:00",
+          "description": "SMARTYPANTS SATURDAY Trivia Brunch! 11am-2pm."
+        },
+        {
+          "title": "Sapphic Saturdays",
+          "date": "2026-11-07",
+          "time": "21:00",
+          "description": "A woman/queer club experience. Open until 2am. $15 cover after 10pm."
+        },
+        {
+          "title": "Girls, Gays & Theys Sundays",
+          "date": "2026-11-08",
+          "time": "11:00",
+          "description": "Brunch 11-2. Rotating DJs & Special Events 3-7pm. Happy Hour 2-6pm. $5 Seltzer All Day."
+        },
+        {
+          "title": "69 BPM R&B Takeover: DJ Jocelin",
+          "date": "2026-11-08",
+          "time": "15:00",
+          "description": "R&B DJ set by Jocelin on the second Sunday afternoon of the month."
+        },
+        {
+          "title": "Noodles & Doodles Mondays",
+          "date": "2026-11-09",
+          "time": "17:00",
+          "description": "ALL YOU CAN EAT SPAGHETTI & ALL NIGHT HAPPY HOUR. Art supplies provided."
+        },
+        {
+          "title": "Karaoke Tuesdays With Joey Adams",
+          "date": "2026-11-10",
+          "time": "19:00",
+          "description": "Karaoke Tuesdays from 7pm-11pm! $2.50 Shot specials, $4.00 Well Cocktails, $3.00 Tacos after 6pm."
+        },
+        {
+          "title": "Bingo Gone Bonkers",
+          "date": "2026-11-11",
+          "time": "18:00",
+          "description": "Bingo with Mariam T every Wednesday. Dinner & Bingo, 2 Boards for $10. 18+ event."
+        },
+        {
+          "title": "TGIW!",
+          "date": "2026-11-11",
+          "time": "21:00",
+          "description": "TGIW with DJ Jocerlyn 9pm to Close - NO COVER! LateHER Happy Hour 8pm to Close."
+        },
+        {
+          "title": "$4 Thirsty Thursdays",
+          "date": "2026-11-12",
+          "time": "18:00",
+          "description": "$2.50 Select Shots, $4 Well Drinks, $4 16oz Drafts, $11.50 Philly Cheesesteak & Fries"
+        },
+        {
+          "title": "Top Shelf Tease",
+          "date": "2026-11-12",
+          "time": "21:00",
+          "description": "Starring Nina Bel Vande, hosted by Nadya Symone. Seating 8pm, show 9-10:45pm. $13 ticket, $20 min spend."
+        },
+        {
+          "title": "Kings Club Drag King Show",
+          "date": "2026-11-13",
+          "time": "19:00",
+          "description": "KINGS CLUB Drag King show - 2nd Friday of every month. Seating 7PM, show 8PM."
+        },
+        {
+          "title": "Finger Me Friday",
+          "date": "2026-11-13",
+          "time": "21:00",
+          "description": "Full nightclub and bar, rotating DJs, full dinner menu until 10pm. $15 cover after 10pm."
+        },
+        {
+          "title": "Smarty Pants Saturday Trivia Brunch",
+          "date": "2026-11-14",
+          "time": "11:00",
+          "description": "SMARTYPANTS SATURDAY Trivia Brunch! 11am-2pm."
+        },
+        {
+          "title": "Sapphic Saturdays",
+          "date": "2026-11-14",
+          "time": "21:00",
+          "description": "A woman/queer club experience. Open until 2am. $15 cover after 10pm."
+        },
+        {
+          "title": "Cabaret Drag Brunch",
+          "date": "2026-11-15",
+          "time": "11:00",
+          "description": "Seating 11am, show 11:45am. $13 tickets, 21+. $20 minimum spend."
+        },
+        {
+          "title": "Girls, Gays & Theys Sundays",
+          "date": "2026-11-15",
+          "time": "11:00",
+          "description": "Brunch 11-2. Rotating DJs & Special Events 3-7pm. Happy Hour 2-6pm. $5 Seltzer All Day."
+        },
+        {
+          "title": "Noodles & Doodles Mondays",
+          "date": "2026-11-16",
+          "time": "17:00",
+          "description": "ALL YOU CAN EAT SPAGHETTI & ALL NIGHT HAPPY HOUR. Art supplies provided."
+        },
+        {
+          "title": "Karaoke Tuesdays With Joey Adams",
+          "date": "2026-11-17",
+          "time": "19:00",
+          "description": "Karaoke Tuesdays from 7pm-11pm! $2.50 Shot specials, $4.00 Well Cocktails, $3.00 Tacos after 6pm."
+        },
+        {
+          "title": "Bingo Gone Bonkers",
+          "date": "2026-11-18",
+          "time": "18:00",
+          "description": "Bingo with Mariam T every Wednesday. Dinner & Bingo, 2 Boards for $10. 18+ event."
+        },
+        {
+          "title": "TGIW!",
+          "date": "2026-11-18",
+          "time": "21:00",
+          "description": "TGIW with DJ Jocerlyn 9pm to Close - NO COVER! LateHER Happy Hour 8pm to Close."
+        },
+        {
+          "title": "$4 Thirsty Thursdays",
+          "date": "2026-11-19",
+          "time": "18:00",
+          "description": "$2.50 Select Shots, $4 Well Drinks, $4 16oz Drafts, $11.50 Philly Cheesesteak & Fries"
+        },
+        {
+          "title": "Finger Me Friday",
+          "date": "2026-11-20",
+          "time": "21:00",
+          "description": "Full nightclub and bar, rotating DJs, full dinner menu until 10pm. $15 cover after 10pm."
+        },
+        {
+          "title": "Smarty Pants Saturday Trivia Brunch",
+          "date": "2026-11-21",
+          "time": "11:00",
+          "description": "SMARTYPANTS SATURDAY Trivia Brunch! 11am-2pm."
+        },
+        {
+          "title": "Wine Club",
+          "date": "2026-11-21",
+          "time": "14:30",
+          "description": "Last Saturday of the month. Hosted by Nadya Symone. 5 tastings, wine & gift raffles."
+        },
+        {
+          "title": "Sapphic Saturdays",
+          "date": "2026-11-21",
+          "time": "21:00",
+          "description": "A woman/queer club experience. Open until 2am. $15 cover after 10pm."
+        },
+        {
+          "title": "Girls, Gays & Theys Sundays",
+          "date": "2026-11-22",
+          "time": "11:00",
+          "description": "Brunch 11-2. Rotating DJs & Special Events 3-7pm. Happy Hour 2-6pm. $5 Seltzer All Day."
+        },
+        {
+          "title": "Noodles & Doodles Mondays",
+          "date": "2026-11-23",
+          "time": "17:00",
+          "description": "ALL YOU CAN EAT SPAGHETTI & ALL NIGHT HAPPY HOUR. Art supplies provided."
+        },
+        {
+          "title": "Karaoke Tuesdays With Joey Adams",
+          "date": "2026-11-24",
+          "time": "19:00",
+          "description": "Karaoke Tuesdays from 7pm-11pm! $2.50 Shot specials, $4.00 Well Cocktails, $3.00 Tacos after 6pm."
+        },
+        {
+          "title": "Bingo Gone Bonkers",
+          "date": "2026-11-25",
+          "time": "18:00",
+          "description": "Bingo with Mariam T every Wednesday. Dinner & Bingo, 2 Boards for $10. 18+ event."
+        },
+        {
+          "title": "TGIW!",
+          "date": "2026-11-25",
+          "time": "21:00",
+          "description": "TGIW with DJ Jocerlyn 9pm to Close - NO COVER! LateHER Happy Hour 8pm to Close."
+        },
+        {
+          "title": "$4 Thirsty Thursdays",
+          "date": "2026-11-26",
+          "time": "18:00",
+          "description": "$2.50 Select Shots, $4 Well Drinks, $4 16oz Drafts, $11.50 Philly Cheesesteak & Fries"
+        },
+        {
+          "title": "Finger Me Friday",
+          "date": "2026-11-27",
+          "time": "21:00",
+          "description": "Full nightclub and bar, rotating DJs, full dinner menu until 10pm. $15 cover after 10pm."
+        },
+        {
+          "title": "Smarty Pants Saturday Trivia Brunch",
+          "date": "2026-11-28",
+          "time": "11:00",
+          "description": "SMARTYPANTS SATURDAY Trivia Brunch! 11am-2pm."
+        },
+        {
+          "title": "Sapphic Saturdays",
+          "date": "2026-11-28",
+          "time": "21:00",
+          "description": "A woman/queer club experience. Open until 2am. $15 cover after 10pm."
+        },
+        {
+          "title": "Girls, Gays & Theys Sundays",
+          "date": "2026-11-29",
+          "time": "11:00",
+          "description": "Brunch 11-2. Rotating DJs & Special Events 3-7pm. Happy Hour 2-6pm. $5 Seltzer All Day."
+        },
+        {
+          "title": "Noodles & Doodles Mondays",
+          "date": "2026-11-30",
+          "time": "17:00",
+          "description": "ALL YOU CAN EAT SPAGHETTI & ALL NIGHT HAPPY HOUR. Art supplies provided."
+        }
+      ]
+    },
+    {
+      "slug": "eq",
+      "name": "EQ",
+      "category": "Nightclub",
+      "tagline": "Hillcrest club for electronic, house & themed nights",
+      "description": "A 21+ Hillcrest nightclub in the former Merrow space with a Funktion-One sound system, LED ceiling and DJ-driven house, techno, bass and themed events.",
+      "logoUrl": "",
+      "website": "https://www.eqsandiego.com/",
+      "phone": "(619) 299-1983",
+      "email": "",
+      "instagram": "@eqsandiego",
+      "facebook": "EQSanDiego",
+      "tiktok": "@eqsandiego",
+      "address": "1271 University Ave, San Diego, CA 92103",
+      "lat": 32.748161,
+      "lng": -117.151933,
+      "neighborhood": "Hillcrest",
+      "hours": "Varies by event; typically Mon-Sat until 2am",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "SANCTUARY",
+          "date": "2026-09-01",
+          "time": "20:00",
+          "description": "Weekly Tuesday drum & bass and jungle night with resident selectors, free cover and happy hour specials all night."
+        },
+        {
+          "title": "DRESSCODE",
+          "date": "2026-09-02",
+          "time": "21:00",
+          "description": "Weekly Wednesday techno and house party at EQ with $5 well drinks all night."
+        },
+        {
+          "title": "The Techno Jungle",
+          "date": "2026-09-03",
+          "time": "21:00",
+          "description": "Fresh Press presents a high-energy techno night with immersive jungle visuals."
+        },
+        {
+          "title": "NIGHT GROOVES: Labor Day Weekend",
+          "date": "2026-09-04",
+          "time": "21:00",
+          "description": "Labor Day weekend house and tech-house night with DJ sets from Bobby Splash, ARP8, LizarDaVinci and Draz."
+        },
+        {
+          "title": "Bear Night",
+          "date": "2026-09-05",
+          "time": "21:00",
+          "description": "Bear Night returns with limited priority-entry presale tickets and general admission at the door from 9PM."
+        },
+        {
+          "title": "DAY GROOVES: Labor Day Weekend",
+          "date": "2026-09-06",
+          "time": "15:00",
+          "description": "Daytime patio house session for Labor Day weekend with sets from Femme A, She/Clay, Jinx Mirage and Bojak."
+        },
+        {
+          "title": "Blue Monday",
+          "date": "2026-09-07",
+          "time": "21:00",
+          "description": "Free weekly all-vinyl night of post-punk, new wave and glam rock with residents Camilla Robina and Faux Velvet."
+        },
+        {
+          "title": "SANCTUARY",
+          "date": "2026-09-08",
+          "time": "20:00",
+          "description": "Weekly Tuesday drum & bass and jungle night with resident selectors, free cover and happy hour specials all night."
+        },
+        {
+          "title": "DRESSCODE",
+          "date": "2026-09-09",
+          "time": "21:00",
+          "description": "Weekly Wednesday techno and house party at EQ with $5 well drinks all night."
+        },
+        {
+          "title": "REVERB",
+          "date": "2026-09-10",
+          "time": "21:00",
+          "description": "Weekly Thursday hard techno night showcasing local and emerging artists, no cover."
+        },
+        {
+          "title": "REVERB: Detroit Techno",
+          "date": "2026-09-10",
+          "time": "21:00",
+          "description": "A Detroit techno edition of EQ's weekly Reverb night, honoring the genre's birthplace."
+        },
+        {
+          "title": "LED presents: LINSKA",
+          "date": "2026-09-11",
+          "time": "22:00",
+          "description": "LED presents a late-night headline set from Linska."
+        },
+        {
+          "title": "Club Sabbat",
+          "date": "2026-09-12",
+          "time": "21:00",
+          "description": "Monthly darkwave, EBM and industrial ritual with DJs Robin Roth and Vaughn Avakian."
+        },
+        {
+          "title": "Blue Monday",
+          "date": "2026-09-14",
+          "time": "21:00",
+          "description": "Free weekly all-vinyl night of post-punk, new wave and glam rock with residents Camilla Robina and Faux Velvet."
+        },
+        {
+          "title": "SANCTUARY",
+          "date": "2026-09-15",
+          "time": "20:00",
+          "description": "Weekly Tuesday drum & bass and jungle night with resident selectors, free cover and happy hour specials all night."
+        },
+        {
+          "title": "DRESSCODE",
+          "date": "2026-09-16",
+          "time": "21:00",
+          "description": "Weekly Wednesday techno and house party at EQ with $5 well drinks all night."
+        },
+        {
+          "title": "REVERB",
+          "date": "2026-09-17",
+          "time": "21:00",
+          "description": "Weekly Thursday hard techno night showcasing local and emerging artists, no cover."
+        },
+        {
+          "title": "FUERZA",
+          "date": "2026-09-18",
+          "time": "21:00",
+          "description": "Hardgroove techno night spotlighting San Diego artists and BIPOC representation on the dancefloor."
+        },
+        {
+          "title": "Blue Monday",
+          "date": "2026-09-21",
+          "time": "21:00",
+          "description": "Free weekly all-vinyl night of post-punk, new wave and glam rock with residents Camilla Robina and Faux Velvet."
+        },
+        {
+          "title": "SANCTUARY",
+          "date": "2026-09-22",
+          "time": "20:00",
+          "description": "Weekly Tuesday drum & bass and jungle night with resident selectors, free cover and happy hour specials all night."
+        },
+        {
+          "title": "DRESSCODE",
+          "date": "2026-09-23",
+          "time": "21:00",
+          "description": "Weekly Wednesday techno and house party at EQ with $5 well drinks all night."
+        },
+        {
+          "title": "REVERB",
+          "date": "2026-09-24",
+          "time": "21:00",
+          "description": "Weekly Thursday hard techno night showcasing local and emerging artists, no cover."
+        },
+        {
+          "title": "Blue Monday",
+          "date": "2026-09-28",
+          "time": "21:00",
+          "description": "Free weekly all-vinyl night of post-punk, new wave and glam rock with residents Camilla Robina and Faux Velvet."
+        },
+        {
+          "title": "SANCTUARY",
+          "date": "2026-09-29",
+          "time": "20:00",
+          "description": "Weekly Tuesday drum & bass and jungle night with resident selectors, free cover and happy hour specials all night."
+        },
+        {
+          "title": "DRESSCODE",
+          "date": "2026-09-30",
+          "time": "21:00",
+          "description": "Weekly Wednesday techno and house party at EQ with $5 well drinks all night."
+        },
+        {
+          "title": "The Techno Jungle",
+          "date": "2026-10-01",
+          "time": "21:00",
+          "description": "Fresh Press presents a high-energy techno night with immersive jungle visuals."
+        },
+        {
+          "title": "PUNSO Throws A Party",
+          "date": "2026-10-02",
+          "time": "21:00",
+          "description": "San Diego DJ and producer Punso takes over EQ for a Homie Vibes-themed Friday night."
+        },
+        {
+          "title": "Blue Monday",
+          "date": "2026-10-05",
+          "time": "21:00",
+          "description": "Free weekly all-vinyl night of post-punk, new wave and glam rock with residents Camilla Robina and Faux Velvet."
+        },
+        {
+          "title": "SANCTUARY",
+          "date": "2026-10-06",
+          "time": "20:00",
+          "description": "Weekly Tuesday drum & bass and jungle night with resident selectors, free cover and happy hour specials all night."
+        },
+        {
+          "title": "DRESSCODE",
+          "date": "2026-10-07",
+          "time": "21:00",
+          "description": "Weekly Wednesday techno and house party at EQ with $5 well drinks all night."
+        },
+        {
+          "title": "REVERB",
+          "date": "2026-10-08",
+          "time": "21:00",
+          "description": "Weekly Thursday hard techno night showcasing local and emerging artists, no cover."
+        },
+        {
+          "title": "Club Sabbat",
+          "date": "2026-10-10",
+          "time": "21:00",
+          "description": "Monthly darkwave, EBM and industrial ritual with DJs Robin Roth and Vaughn Avakian."
+        },
+        {
+          "title": "Blue Monday",
+          "date": "2026-10-12",
+          "time": "21:00",
+          "description": "Free weekly all-vinyl night of post-punk, new wave and glam rock with residents Camilla Robina and Faux Velvet."
+        },
+        {
+          "title": "SANCTUARY",
+          "date": "2026-10-13",
+          "time": "20:00",
+          "description": "Weekly Tuesday drum & bass and jungle night with resident selectors, free cover and happy hour specials all night."
+        },
+        {
+          "title": "DRESSCODE",
+          "date": "2026-10-14",
+          "time": "21:00",
+          "description": "Weekly Wednesday techno and house party at EQ with $5 well drinks all night."
+        },
+        {
+          "title": "REVERB",
+          "date": "2026-10-15",
+          "time": "21:00",
+          "description": "Weekly Thursday hard techno night showcasing local and emerging artists, no cover."
+        },
+        {
+          "title": "GORILLAT: Inner Mind",
+          "date": "2026-10-17",
+          "time": "22:00",
+          "description": "Bass and dubstep night presented by Gorillat, with presale tickets available."
+        },
+        {
+          "title": "Blue Monday",
+          "date": "2026-10-19",
+          "time": "21:00",
+          "description": "Free weekly all-vinyl night of post-punk, new wave and glam rock with residents Camilla Robina and Faux Velvet."
+        },
+        {
+          "title": "SANCTUARY",
+          "date": "2026-10-20",
+          "time": "20:00",
+          "description": "Weekly Tuesday drum & bass and jungle night with resident selectors, free cover and happy hour specials all night."
+        },
+        {
+          "title": "DRESSCODE",
+          "date": "2026-10-21",
+          "time": "21:00",
+          "description": "Weekly Wednesday techno and house party at EQ with $5 well drinks all night."
+        },
+        {
+          "title": "REVERB",
+          "date": "2026-10-22",
+          "time": "21:00",
+          "description": "Weekly Thursday hard techno night showcasing local and emerging artists, no cover."
+        },
+        {
+          "title": "Blue Monday",
+          "date": "2026-10-26",
+          "time": "21:00",
+          "description": "Free weekly all-vinyl night of post-punk, new wave and glam rock with residents Camilla Robina and Faux Velvet."
+        },
+        {
+          "title": "SANCTUARY",
+          "date": "2026-10-27",
+          "time": "20:00",
+          "description": "Weekly Tuesday drum & bass and jungle night with resident selectors, free cover and happy hour specials all night."
+        },
+        {
+          "title": "DRESSCODE",
+          "date": "2026-10-28",
+          "time": "21:00",
+          "description": "Weekly Wednesday techno and house party at EQ with $5 well drinks all night."
+        },
+        {
+          "title": "REVERB",
+          "date": "2026-10-29",
+          "time": "21:00",
+          "description": "Weekly Thursday hard techno night showcasing local and emerging artists, no cover."
+        },
+        {
+          "title": "FNGRS CRSSD presents Christian Loffler",
+          "date": "2026-10-30",
+          "time": "21:00",
+          "description": "FNGRS CRSSD presents a headline performance from Christian Loffler."
+        },
+        {
+          "title": "Blue Monday",
+          "date": "2026-11-02",
+          "time": "21:00",
+          "description": "Free weekly all-vinyl night of post-punk, new wave and glam rock with residents Camilla Robina and Faux Velvet."
+        },
+        {
+          "title": "SANCTUARY",
+          "date": "2026-11-03",
+          "time": "20:00",
+          "description": "Weekly Tuesday drum & bass and jungle night with resident selectors, free cover and happy hour specials all night."
+        },
+        {
+          "title": "DRESSCODE",
+          "date": "2026-11-04",
+          "time": "21:00",
+          "description": "Weekly Wednesday techno and house party at EQ with $5 well drinks all night."
+        },
+        {
+          "title": "The Techno Jungle",
+          "date": "2026-11-05",
+          "time": "21:00",
+          "description": "Fresh Press presents a high-energy techno night with immersive jungle visuals."
+        },
+        {
+          "title": "LED presents DENNETT [In The Round]",
+          "date": "2026-11-06",
+          "time": "22:00",
+          "description": "LED presents Dennett in the round for the Back to the Roadhouse Tour, 21+, doors at 10PM."
+        },
+        {
+          "title": "Blue Monday",
+          "date": "2026-11-09",
+          "time": "21:00",
+          "description": "Free weekly all-vinyl night of post-punk, new wave and glam rock with residents Camilla Robina and Faux Velvet."
+        },
+        {
+          "title": "SANCTUARY",
+          "date": "2026-11-10",
+          "time": "20:00",
+          "description": "Weekly Tuesday drum & bass and jungle night with resident selectors, free cover and happy hour specials all night."
+        },
+        {
+          "title": "DRESSCODE",
+          "date": "2026-11-11",
+          "time": "21:00",
+          "description": "Weekly Wednesday techno and house party at EQ with $5 well drinks all night."
+        },
+        {
+          "title": "REVERB",
+          "date": "2026-11-12",
+          "time": "21:00",
+          "description": "Weekly Thursday hard techno night showcasing local and emerging artists, no cover."
+        },
+        {
+          "title": "Club Sabbat",
+          "date": "2026-11-14",
+          "time": "21:00",
+          "description": "Monthly darkwave, EBM and industrial ritual with DJs Robin Roth and Vaughn Avakian."
+        },
+        {
+          "title": "Blue Monday",
+          "date": "2026-11-16",
+          "time": "21:00",
+          "description": "Free weekly all-vinyl night of post-punk, new wave and glam rock with residents Camilla Robina and Faux Velvet."
+        },
+        {
+          "title": "SANCTUARY",
+          "date": "2026-11-17",
+          "time": "20:00",
+          "description": "Weekly Tuesday drum & bass and jungle night with resident selectors, free cover and happy hour specials all night."
+        },
+        {
+          "title": "DRESSCODE",
+          "date": "2026-11-18",
+          "time": "21:00",
+          "description": "Weekly Wednesday techno and house party at EQ with $5 well drinks all night."
+        },
+        {
+          "title": "REVERB",
+          "date": "2026-11-19",
+          "time": "21:00",
+          "description": "Weekly Thursday hard techno night showcasing local and emerging artists, no cover."
+        },
+        {
+          "title": "FNGRS CRSSD presents RINZEN",
+          "date": "2026-11-20",
+          "time": "22:00",
+          "description": "FNGRS CRSSD presents a headline performance from Rinzen."
+        },
+        {
+          "title": "Blue Monday",
+          "date": "2026-11-23",
+          "time": "21:00",
+          "description": "Free weekly all-vinyl night of post-punk, new wave and glam rock with residents Camilla Robina and Faux Velvet."
+        },
+        {
+          "title": "SANCTUARY",
+          "date": "2026-11-24",
+          "time": "20:00",
+          "description": "Weekly Tuesday drum & bass and jungle night with resident selectors, free cover and happy hour specials all night."
+        },
+        {
+          "title": "DRESSCODE",
+          "date": "2026-11-25",
+          "time": "21:00",
+          "description": "Weekly Wednesday techno and house party at EQ with $5 well drinks all night."
+        },
+        {
+          "title": "REVERB",
+          "date": "2026-11-26",
+          "time": "21:00",
+          "description": "Weekly Thursday hard techno night showcasing local and emerging artists, no cover."
+        }
+      ]
+    },
+    {
+      "slug": "the-brass-rail",
+      "name": "The Brass Rail",
+      "category": "Nightclub",
+      "tagline": "San Diego's oldest LGBTQ+ bar, established 1934",
+      "description": "A historic Hillcrest LGBTQ+ bar and nightclub operating since 1934, with a Main Stage hosting drag, Latin nights and DJ events.",
+      "logoUrl": "",
+      "website": "https://thebrassrailsd.com/",
+      "phone": "(619) 298-2233",
+      "email": "",
+      "instagram": "@brassrailsd",
+      "facebook": "TheRailSD",
+      "tiktok": "",
+      "address": "3796 Fifth Ave, San Diego, CA 92103",
+      "lat": 32.7468303,
+      "lng": -117.1607394,
+      "neighborhood": "Hillcrest",
+      "hours": "Mon 3pm-8pm, Tue 3pm-10pm, Wed-Fri 3pm-2am, Sat 12pm-2:30am, Sun 3pm-8pm",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "Heather & Friends",
+          "date": "2026-09-01",
+          "time": "18:00",
+          "description": "Join us at the historic @brassrailsd every second Tuesday of the month for New Wave Karaoke with Heather Hardcore and Mikey 🪩🦉🌙🖤"
+        },
+        {
+          "title": "4 The Drag Of It",
+          "date": "2026-09-02",
+          "time": "20:00",
+          "description": "🪩September is here, so that means another installment of @snowflake_hey.babyboy 's 4 The Drag of It is coming your way!!\n\nWed. Sept 2nd\n\nDoors at 8, show at 8:30"
+        },
+        {
+          "title": "Karaoke with Spencer",
+          "date": "2026-09-03",
+          "time": "18:00",
+          "description": "Come vibe and sing your song(s) with Spencer"
+        },
+        {
+          "title": "Golden Girls",
+          "date": "2026-09-04",
+          "time": "18:00",
+          "description": "The San Diego Golden Girls - COUNTRY STYLE\n\nFeaturing: AJAX | Jade Melrose | Normal Braxton | Ambrosia | Smokey Gonzalez | Hugh G. Rection\n\nSept. 4 2026 Seating 6pm Show 7pm $10"
+        },
+        {
+          "title": "SD Black Pride's \"B-DAY\"",
+          "date": "2026-09-04",
+          "time": "22:00",
+          "description": "🐝Beyhive, y'all ready for the B'Day Bash? Celebrate the Queen's birthday with us at @brassrailsd on September 4 for the 20th Anniversary of the \"B'Day\" album! We'll listen to the full album together and spin Yoncé allllll night long.\n\nHonor #VirgoSZN with this iconic celebration!"
+        },
+        {
+          "title": "Karaoke Saturdays!",
+          "date": "2026-09-05",
+          "time": "12:00",
+          "description": "All music styles welcome! Full bar. No cover."
+        },
+        {
+          "title": "Disco T-Dance",
+          "date": "2026-09-05",
+          "time": "16:00",
+          "description": "Disco T-Dance with Mike and Gerald. Gogos and good times. $4 beers, $8 beer pitchers, $6 wells."
+        },
+        {
+          "title": "Sabados En Fuego",
+          "date": "2026-09-05",
+          "time": "22:00",
+          "description": "Come party with us at the longest running Latin Music night in Hillcrest, Sabados En Fuego! We're spinning nothing but Latin beats until the wee hours!!"
+        },
+        {
+          "title": "Bounce House",
+          "date": "2026-09-06",
+          "time": "14:00",
+          "description": "This Labor Day weekend, things are getting bouncy at The Brass Rail! 😝\n\nSun. Sept. 6th, @djmyyon and @skellltin will be pumping nothing but bass heavy beats for the ultimate Sunday Funday, no work Monday, basement party. If you got a twerk in your heart, this is your moment!\n\nCome shake some 🍑 with us at BOUNCE HOUSE!\n\nRSVP Link Below"
+        },
+        {
+          "title": "Claws Out",
+          "date": "2026-09-06",
+          "time": "21:00",
+          "description": "PAK PRODUCTIONS PRESENTS: CLAWS OUT\n\nKinkier. Sexier. Darker.\n\nCalling all puppies and creatures of the night: get wild, gear up, and go on the hunt.\n\nThis Labor Day Weekend, CLAWS OUT takes over The Brass Rail.\n\n📅 Sunday, September 6\n⏰ 9PM - 2AM\n📍 The Brass Rail • San Diego's longest-running gay bar\n🎟️ $10 Cover (link in bio)\n🔞 21+\n\nRESPECT • CONSENT • COMMUNITY"
+        },
+        {
+          "title": "New Wave Karoke",
+          "date": "2026-09-08",
+          "time": "18:00",
+          "description": "Join us at the historic @brassrailsd every second Tuesday of the month for New Wave Karaoke with Heather Hardcore and Mikey 🪩🦉🌙🖤"
+        },
+        {
+          "title": "Karaoke with Spencer",
+          "date": "2026-09-10",
+          "time": "18:00",
+          "description": "Come vibe and sing your song(s) with Spencer"
+        },
+        {
+          "title": "GEAR XL",
+          "date": "2026-09-11",
+          "time": "21:00",
+          "description": "DJ BARBAROSSA is BACK ⚙️ Friday, September 11th at The Brass Rail from 9pm to 2am ‼️ Did you think we forgot about you, NOT A CHANCE! One of our local favorites Barbarossa is going to bring the September HEAT 🔥\n\nWe'd also like to welcome to new GoGo's to our GXL family, Joey @smolboar and Ares @lvrboi_heart, plus one we haven't seen in a little bit HunnyPot @gogohunnypot and of course the one and only Pup X @gogopupx 🐾"
+        },
+        {
+          "title": "Karaoke Saturdays!",
+          "date": "2026-09-12",
+          "time": "12:00",
+          "description": "All music styles welcome! Full bar. No cover."
+        },
+        {
+          "title": "Hillcrest Food Crawl",
+          "date": "2026-09-12",
+          "time": "13:30",
+          "description": "Guided tasting crawl through Hillcrest restaurants, kicking off at The Brass Rail."
+        },
+        {
+          "title": "Disco T-Dance",
+          "date": "2026-09-12",
+          "time": "16:00",
+          "description": "Disco T-Dance with Mike and Gerald. Gogos and good times. $4 beers, $8 beer pitchers, $6 wells."
+        },
+        {
+          "title": "Flaunt",
+          "date": "2026-09-12",
+          "time": "19:30",
+          "description": "Coco L'amour Presents : FLAUNT\nBurlesque Show and Dance Party\n\nHosts: Fanny Hypnaughty Stage Panther : Skky Masters\n\nFeaturing: Coco L'amour | Mercury West | Serena D. Siren | Sweet Serendipity | Butch Lea | Dahlia Reign\n\nDoors Open 7:30pm Show 8:30pm Cover $7"
+        },
+        {
+          "title": "Sabados En Fuego",
+          "date": "2026-09-12",
+          "time": "22:00",
+          "description": "Come party with us at the longest running Latin Music night in Hillcrest, Sabados En Fuego! We're spinning nothing but Latin beats until the wee hours!!"
+        },
+        {
+          "title": "Heather and Friends",
+          "date": "2026-09-15",
+          "time": "18:00",
+          "description": "Join us at the historic @brassrailsd every second Tuesday of the month for New Wave Karaoke with Heather Hardcore and Mikey 🪩🦉🌙🖤"
+        },
+        {
+          "title": "Karaoke with Spencer",
+          "date": "2026-09-17",
+          "time": "18:00",
+          "description": "Come vibe and sing your song(s) with Spencer"
+        },
+        {
+          "title": "STEAM Towel Party - September Edition",
+          "date": "2026-09-18",
+          "time": "22:00",
+          "description": "Monthly towel party at The Brass Rail."
+        },
+        {
+          "title": "Karaoke Saturdays!",
+          "date": "2026-09-19",
+          "time": "12:00",
+          "description": "All music styles welcome! Full bar. No cover."
+        },
+        {
+          "title": "Disco T-Dance",
+          "date": "2026-09-19",
+          "time": "16:00",
+          "description": "Disco T-Dance with Mike and Gerald. Gogos and good times. $4 beers, $8 beer pitchers, $6 wells."
+        },
+        {
+          "title": "Pasion Latina",
+          "date": "2026-09-19",
+          "time": "20:00",
+          "description": "The Best Female Impersonation since 1984 in San Diego\n\nHosted by Franceska\nAlejandra Sandoval\nLA Gran Ishalaa\n\nSpecial Guest: Tina Fernadez\n\nDJ Regina Styles\n\nNo Cover - Doors Open 8pm - Show time 9pm Sharp"
+        },
+        {
+          "title": "Sabados En Fuego",
+          "date": "2026-09-19",
+          "time": "22:00",
+          "description": "Come party with us at the longest running Latin Music night in Hillcrest, Sabados En Fuego! We're spinning nothing but Latin beats until the wee hours!!"
+        },
+        {
+          "title": "Goth Karoke",
+          "date": "2026-09-22",
+          "time": "19:00",
+          "description": "Tuesday, September 22nd! Goth Trivia & Karaoke\n\n🗓️ Every last Tuesday, 7pm - midnight\n\n📍The Brass Rail\n\nTrivia & karaoke hosted by @eatyourdog\n\n✍️ Trivia 7pm | 🎙️ Karaoke to follow\n\n🥂 Happy hour drinks all night @odinforte\n\n💸 Free | 21+ | with @heather_hardcore"
+        },
+        {
+          "title": "Karaoke with Spencer",
+          "date": "2026-09-24",
+          "time": "18:00",
+          "description": "Come vibe and sing your song(s) with Spencer"
+        },
+        {
+          "title": "Seance",
+          "date": "2026-09-24",
+          "time": "21:00",
+          "description": "The veil thins and the ghouls rise for our next🕯️Seance🕯️\nJoin @coven.party & @brassrailsd on Thursday|9/24 for a night filled with drag, filth and spirits from the beyond🔮\n\nHosted by Coven High Priestess @nykkyhex 🌹\nFeaturing performances by\nFoxy Jones\nCasanova\nAmber St. James\nCarmen Ultrasoft\n\nNO COVER\n📍@brassrailsd\n9pm Doors\n10pm Show"
+        },
+        {
+          "title": "Now That's R&B",
+          "date": "2026-09-25",
+          "time": "21:30",
+          "description": "R&B night. The listed venue address matches The Brass Rail."
+        },
+        {
+          "title": "Karaoke Saturdays!",
+          "date": "2026-09-26",
+          "time": "12:00",
+          "description": "All music styles welcome! Full bar. No cover."
+        },
+        {
+          "title": "Disco T-Dance",
+          "date": "2026-09-26",
+          "time": "16:00",
+          "description": "Disco T-Dance with Mike and Gerald. Gogos and good times. $4 beers, $8 beer pitchers, $6 wells."
+        },
+        {
+          "title": "Never Too Late",
+          "date": "2026-09-30",
+          "time": "16:00",
+          "description": "Hosted by Wanda Lust and returning to The Brass Rail on Sunday, September 13th, from 4 - 7 PM for an afternoon dedicated to Suicide Prevention Month and raising funds for San Diego Youth Services.\n\nJoin an incredible cast of performers as we share stories, raise awareness, and give a voice to those impacted by suicidal ideation and suicide attempts.\n\nFeaturing: Nykky Hex, Mariposa, Papi Culo, Phobia Faux, Monica Madness, and Texas Red.\n\n🎟️ NO COVER - donations at the door are encouraged!"
+        },
+        {
+          "title": "Karaoke with Spencer",
+          "date": "2026-10-01",
+          "time": "18:00",
+          "description": "Come vibe and sing your song(s) with Spencer"
+        },
+        {
+          "title": "Karaoke Saturdays!",
+          "date": "2026-10-03",
+          "time": "12:00",
+          "description": "All music styles welcome! Full bar. No cover."
+        },
+        {
+          "title": "Disco T-Dance",
+          "date": "2026-10-03",
+          "time": "16:00",
+          "description": "Disco T-Dance with Mike and Gerald. Gogos and good times. $4 beers, $8 beer pitchers, $6 wells."
+        },
+        {
+          "title": "Karaoke with Spencer",
+          "date": "2026-10-08",
+          "time": "18:00",
+          "description": "Come vibe and sing your song(s) with Spencer"
+        },
+        {
+          "title": "Karaoke Saturdays!",
+          "date": "2026-10-10",
+          "time": "12:00",
+          "description": "All music styles welcome! Full bar. No cover."
+        },
+        {
+          "title": "Disco T-Dance",
+          "date": "2026-10-10",
+          "time": "16:00",
+          "description": "Disco T-Dance with Mike and Gerald. Gogos and good times. $4 beers, $8 beer pitchers, $6 wells."
+        },
+        {
+          "title": "New Wave Karoke",
+          "date": "2026-10-13",
+          "time": "18:00",
+          "description": "Join us at the historic @brassrailsd every second Tuesday of the month for New Wave Karaoke with Heather Hardcore and Mikey 🪩🦉🌙🖤"
+        },
+        {
+          "title": "Vida",
+          "date": "2026-10-15",
+          "time": "18:00",
+          "description": "Día Nacional Concientización Sobre El VIH/SIDA en La Comunidad Latin\n\nJueves OCT 15 | 6-9pm\n\nAnfitrionas: Snowflake & Michele Ada\n\nBeneficiando: Eunime & Casita De Union Trans\n\nActuaciones De: Alejandra Sandoval | Nadya Symone | Marty Mars\n\nBoletos $20\n\nNational Latin HIV/AIDS Awareness Day\n\nThursday Oct 15 | 6-9pm\n\nHosted By: Snowflake & Michele Ada\n\nBenefitting: Eunime & Casita De Union Trans\n\nPerformances by: Alejandra Sandoval | Nadya Symone | Marty Mars\n\nTickets $20"
+        },
+        {
+          "title": "Karaoke with Spencer",
+          "date": "2026-10-15",
+          "time": "18:00",
+          "description": "Come vibe and sing your song(s) with Spencer"
+        },
+        {
+          "title": "MEGAWOOF San Diego - 11 Year Anniversary Tour",
+          "date": "2026-10-16",
+          "time": "21:30",
+          "description": "Touring MEGAWOOF party marking the brand's eleventh anniversary."
+        },
+        {
+          "title": "Karaoke Saturdays!",
+          "date": "2026-10-17",
+          "time": "12:00",
+          "description": "All music styles welcome! Full bar. No cover."
+        },
+        {
+          "title": "Disco T-Dance",
+          "date": "2026-10-17",
+          "time": "16:00",
+          "description": "Disco T-Dance with Mike and Gerald. Gogos and good times. $4 beers, $8 beer pitchers, $6 wells."
+        },
+        {
+          "title": "Karaoke with Spencer",
+          "date": "2026-10-22",
+          "time": "18:00",
+          "description": "Come vibe and sing your song(s) with Spencer"
+        },
+        {
+          "title": "Slaughterhaus: The SD Cut (21+)",
+          "date": "2026-10-23",
+          "time": "22:00",
+          "description": "Halloween-season party at The Brass Rail. 21+."
+        },
+        {
+          "title": "Karaoke Saturdays!",
+          "date": "2026-10-24",
+          "time": "12:00",
+          "description": "All music styles welcome! Full bar. No cover."
+        },
+        {
+          "title": "Disco T-Dance",
+          "date": "2026-10-24",
+          "time": "16:00",
+          "description": "Disco T-Dance with Mike and Gerald. Gogos and good times. $4 beers, $8 beer pitchers, $6 wells."
+        },
+        {
+          "title": "Karaoke with Spencer",
+          "date": "2026-10-29",
+          "time": "18:00",
+          "description": "Come vibe and sing your song(s) with Spencer"
+        },
+        {
+          "title": "Karaoke Saturdays!",
+          "date": "2026-10-31",
+          "time": "12:00",
+          "description": "All music styles welcome! Full bar. No cover."
+        },
+        {
+          "title": "Disco T-Dance",
+          "date": "2026-10-31",
+          "time": "16:00",
+          "description": "Disco T-Dance with Mike and Gerald. Gogos and good times. $4 beers, $8 beer pitchers, $6 wells."
+        },
+        {
+          "title": "Karaoke with Spencer",
+          "date": "2026-11-05",
+          "time": "18:00",
+          "description": "Come vibe and sing your song(s) with Spencer"
+        },
+        {
+          "title": "Karaoke Saturdays!",
+          "date": "2026-11-07",
+          "time": "12:00",
+          "description": "All music styles welcome! Full bar. No cover."
+        },
+        {
+          "title": "Disco T-Dance",
+          "date": "2026-11-07",
+          "time": "16:00",
+          "description": "Disco T-Dance with Mike and Gerald. Gogos and good times. $4 beers, $8 beer pitchers, $6 wells."
+        },
+        {
+          "title": "New Wave Karoke",
+          "date": "2026-11-10",
+          "time": "18:00",
+          "description": "Join us at the historic @brassrailsd every second Tuesday of the month for New Wave Karaoke with Heather Hardcore and Mikey 🪩🦉🌙🖤"
+        },
+        {
+          "title": "Karaoke with Spencer",
+          "date": "2026-11-12",
+          "time": "18:00",
+          "description": "Come vibe and sing your song(s) with Spencer"
+        },
+        {
+          "title": "Karaoke Saturdays!",
+          "date": "2026-11-14",
+          "time": "12:00",
+          "description": "All music styles welcome! Full bar. No cover."
+        },
+        {
+          "title": "Disco T-Dance",
+          "date": "2026-11-14",
+          "time": "16:00",
+          "description": "Disco T-Dance with Mike and Gerald. Gogos and good times. $4 beers, $8 beer pitchers, $6 wells."
+        },
+        {
+          "title": "Karaoke with Spencer",
+          "date": "2026-11-19",
+          "time": "18:00",
+          "description": "Come vibe and sing your song(s) with Spencer"
+        },
+        {
+          "title": "Karaoke Saturdays!",
+          "date": "2026-11-21",
+          "time": "12:00",
+          "description": "All music styles welcome! Full bar. No cover."
+        },
+        {
+          "title": "Disco T-Dance",
+          "date": "2026-11-21",
+          "time": "16:00",
+          "description": "Disco T-Dance with Mike and Gerald. Gogos and good times. $4 beers, $8 beer pitchers, $6 wells."
+        },
+        {
+          "title": "Karaoke with Spencer",
+          "date": "2026-11-26",
+          "time": "18:00",
+          "description": "Come vibe and sing your song(s) with Spencer"
+        },
+        {
+          "title": "Karaoke Saturdays!",
+          "date": "2026-11-28",
+          "time": "12:00",
+          "description": "All music styles welcome! Full bar. No cover."
+        },
+        {
+          "title": "Disco T-Dance",
+          "date": "2026-11-28",
+          "time": "16:00",
+          "description": "Disco T-Dance with Mike and Gerald. Gogos and good times. $4 beers, $8 beer pitchers, $6 wells."
+        }
+      ]
+    },
+    {
+      "slug": "negociant-winery",
+      "name": "Negociant Winery",
+      "category": "Winery",
+      "tagline": "Hillcrest urban winery with small-lot wines & live music",
+      "description": "A boutique urban winery and tasting room in Hillcrest crafting small-lot wines on-site, with flights, bottle sales, live jazz, trivia and community events.",
+      "logoUrl": "",
+      "website": "https://www.negociantwinery.com/",
+      "phone": "(619) 535-1747",
+      "email": "",
+      "instagram": "@negociantwinery",
+      "facebook": "negociantwinery",
+      "tiktok": "",
+      "address": "1263 University Ave, San Diego, CA 92103",
+      "lat": 32.7482963,
+      "lng": -117.1519921,
+      "neighborhood": "Hillcrest",
+      "hours": "Wed-Thu 4pm-9:30pm, Fri-Sat 4pm-10pm, Sun 12pm-4pm, closed Mon-Tue",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "Jazz Night In The Cellar",
+          "date": "2026-08-27",
+          "time": "18:30",
+          "description": "Join us every Thursday for Jazz Night in the Cellar, one of Negociant Winery's most popular weekly traditions."
+        },
+        {
+          "title": "Jazz Night In The Cellar",
+          "date": "2026-09-03",
+          "time": "18:30",
+          "description": "Join us every Thursday for Jazz Night in the Cellar, one of Negociant Winery's most popular weekly traditions."
+        },
+        {
+          "title": "Andy Anderson & Nathan Fry Live At Negociant Winery",
+          "date": "2026-09-05",
+          "time": "18:30",
+          "description": "Live music with Andy Anderson & Nathan Fry at Negociant Winery."
+        },
+        {
+          "title": "Naughty Bingo!",
+          "date": "2026-09-09",
+          "time": "19:00",
+          "description": "After-hours adults-only bingo night at Negociant Winery."
+        },
+        {
+          "title": "Jazz Night In The Cellar",
+          "date": "2026-09-10",
+          "time": "18:30",
+          "description": "Join us every Thursday for Jazz Night in the Cellar, one of Negociant Winery's most popular weekly traditions."
+        },
+        {
+          "title": "Ultimate 90s R&B with Kogee Soul & Friends",
+          "date": "2026-09-11",
+          "time": "19:00",
+          "description": "90s R&B set at Negociant Winery."
+        },
+        {
+          "title": "Jazz Night In The Cellar",
+          "date": "2026-09-17",
+          "time": "18:30",
+          "description": "Join us every Thursday for Jazz Night in the Cellar, one of Negociant Winery's most popular weekly traditions."
+        },
+        {
+          "title": "BINGO!",
+          "date": "2026-09-23",
+          "time": "19:00",
+          "description": "Bingo night at Negociant Winery."
+        },
+        {
+          "title": "Jazz Night In The Cellar",
+          "date": "2026-09-24",
+          "time": "18:30",
+          "description": "Join us every Thursday for Jazz Night in the Cellar, one of Negociant Winery's most popular weekly traditions."
+        },
+        {
+          "title": "Jazz Night In The Cellar",
+          "date": "2026-10-01",
+          "time": "18:30",
+          "description": "Join us every Thursday for Jazz Night in the Cellar, one of Negociant Winery's most popular weekly traditions."
+        },
+        {
+          "title": "Andy Anderson & Nathan Fry Live At Negociant Winery",
+          "date": "2026-10-03",
+          "time": "18:30",
+          "description": "Live music with Andy Anderson & Nathan Fry at Negociant Winery."
+        },
+        {
+          "title": "Jazz Night In The Cellar",
+          "date": "2026-10-08",
+          "time": "18:30",
+          "description": "Join us every Thursday for Jazz Night in the Cellar, one of Negociant Winery's most popular weekly traditions."
+        },
+        {
+          "title": "Naughty Bingo!",
+          "date": "2026-10-14",
+          "time": "19:00",
+          "description": "After-hours adults-only bingo night at Negociant Winery."
+        },
+        {
+          "title": "Jazz Night In The Cellar",
+          "date": "2026-10-15",
+          "time": "18:30",
+          "description": "Join us every Thursday for Jazz Night in the Cellar, one of Negociant Winery's most popular weekly traditions."
+        },
+        {
+          "title": "Jazz Night In The Cellar",
+          "date": "2026-10-22",
+          "time": "18:30",
+          "description": "Join us every Thursday for Jazz Night in the Cellar, one of Negociant Winery's most popular weekly traditions."
+        },
+        {
+          "title": "BINGO!",
+          "date": "2026-10-28",
+          "time": "19:00",
+          "description": "Bingo night at Negociant Winery."
+        },
+        {
+          "title": "Jazz Night In The Cellar",
+          "date": "2026-10-29",
+          "time": "18:30",
+          "description": "Join us every Thursday for Jazz Night in the Cellar, one of Negociant Winery's most popular weekly traditions."
+        },
+        {
+          "title": "Jazz Night In The Cellar",
+          "date": "2026-11-05",
+          "time": "18:30",
+          "description": "Join us every Thursday for Jazz Night in the Cellar, one of Negociant Winery's most popular weekly traditions."
+        },
+        {
+          "title": "Andy Anderson & Nathan Fry Live At Negociant Winery",
+          "date": "2026-11-07",
+          "time": "18:30",
+          "description": "Live music with Andy Anderson & Nathan Fry at Negociant Winery."
+        },
+        {
+          "title": "Naughty Bingo!",
+          "date": "2026-11-11",
+          "time": "19:00",
+          "description": "After-hours adults-only bingo night at Negociant Winery."
+        },
+        {
+          "title": "Jazz Night In The Cellar",
+          "date": "2026-11-12",
+          "time": "18:30",
+          "description": "Join us every Thursday for Jazz Night in the Cellar, one of Negociant Winery's most popular weekly traditions."
+        },
+        {
+          "title": "Jazz Night In The Cellar",
+          "date": "2026-11-19",
+          "time": "18:30",
+          "description": "Join us every Thursday for Jazz Night in the Cellar, one of Negociant Winery's most popular weekly traditions."
+        },
+        {
+          "title": "BINGO!",
+          "date": "2026-11-25",
+          "time": "19:00",
+          "description": "Bingo night at Negociant Winery."
+        },
+        {
+          "title": "Jazz Night In The Cellar",
+          "date": "2026-12-03",
+          "time": "18:30",
+          "description": "Join us every Thursday for Jazz Night in the Cellar, one of Negociant Winery's most popular weekly traditions."
+        },
+        {
+          "title": "Andy Anderson & Nathan Fry Live At Negociant Winery",
+          "date": "2026-12-05",
+          "time": "18:30",
+          "description": "Live music with Andy Anderson & Nathan Fry at Negociant Winery."
+        },
+        {
+          "title": "Naughty Bingo!",
+          "date": "2026-12-09",
+          "time": "19:00",
+          "description": "After-hours adults-only bingo night at Negociant Winery."
+        },
+        {
+          "title": "Jazz Night In The Cellar",
+          "date": "2026-12-10",
+          "time": "18:30",
+          "description": "Join us every Thursday for Jazz Night in the Cellar, one of Negociant Winery's most popular weekly traditions."
+        },
+        {
+          "title": "Jazz Night In The Cellar",
+          "date": "2026-12-17",
+          "time": "18:30",
+          "description": "Join us every Thursday for Jazz Night in the Cellar, one of Negociant Winery's most popular weekly traditions."
+        },
+        {
+          "title": "BINGO!",
+          "date": "2026-12-23",
+          "time": "19:00",
+          "description": "Bingo night at Negociant Winery."
+        }
+      ]
+    },
+    {
+      "slug": "rich-s",
+      "name": "Rich's",
+      "category": "Nightclub",
+      "tagline": "San Diego's largest LGBTQ+ dance nightclub",
+      "description": "A longtime Hillcrest LGBTQ+ nightclub with two rooms, each with its own bar, DJ and dance floor, plus VIP booths and outdoor patios.",
+      "logoUrl": "",
+      "website": "https://richssandiego.com/",
+      "phone": "(619) 578-9349",
+      "email": "",
+      "instagram": "@richssandiego",
+      "facebook": "richssd",
+      "tiktok": "",
+      "address": "1051 University Ave, San Diego, CA 92103",
+      "lat": 32.7482628,
+      "lng": -117.1540341,
+      "neighborhood": "Hillcrest",
+      "hours": "Wed 10pm-2am, Thu-Fri 9pm-2am, Sat 9pm-4am, Sun 9pm-2am, closed Mon-Tue",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "Mischief Wednesdays",
+          "date": "2026-09-02",
+          "time": "22:00",
+          "description": "Midweek party at Rich's, 10pm to close. Drag and multi-room beats on the club's smaller night - Wednesday and Thursday are the only 10pm opens. 21+."
+        },
+        {
+          "title": "Pop Rocks!",
+          "date": "2026-09-03",
+          "time": "22:00",
+          "description": "Thursday pop night across both dance floors. Ladies' night with bartender performances through the evening. 21+."
+        },
+        {
+          "title": "CatHaus Burlesque and Pole Dance Revue",
+          "date": "2026-09-03",
+          "time": "19:00",
+          "description": "Burlesque and pole revue, 7 to 10pm - an early show before Pop Rocks takes over at 10. 21+."
+        },
+        {
+          "title": "F-Word",
+          "date": "2026-09-04",
+          "time": "21:00",
+          "description": "Monthly queer club night at Rich's with rotating themes and live performance. 9pm to 2. 21+."
+        },
+        {
+          "title": "Labor Day MASSIVE with Kitty Glitter",
+          "date": "2026-09-05",
+          "time": "21:00",
+          "description": "Holiday weekend circuit party, 9pm through 4am. Saturdays are the only night Rich's runs to 4. 21+."
+        },
+        {
+          "title": "STUNT Labor Day Extravaganza",
+          "date": "2026-09-06",
+          "time": "21:00",
+          "description": "Rich's Sunday night party, 9pm to 2. Runs themed most weeks - Labor Day, Hispanic Heritage, and so on - but the slot is every Sunday. 21+."
+        },
+        {
+          "title": "Mischief Wednesdays",
+          "date": "2026-09-09",
+          "time": "22:00",
+          "description": "Midweek party at Rich's, 10pm to close. Drag and multi-room beats on the club's smaller night - Wednesday and Thursday are the only 10pm opens. 21+."
+        },
+        {
+          "title": "Pop Rocks!",
+          "date": "2026-09-10",
+          "time": "21:00",
+          "description": "Thursday pop night across both dance floors. Ladies' night with bartender performances through the evening. 21+."
+        },
+        {
+          "title": "Electro-POP!",
+          "date": "2026-09-11",
+          "time": "21:00",
+          "description": "Friday electro and pop night, 9pm to 2. Runs roughly every other Friday. 21+."
+        },
+        {
+          "title": "Turning Point U.S. Gay!",
+          "date": "2026-09-11",
+          "time": "20:00",
+          "description": "Early Friday show, 8 to 10pm, ahead of the club night. 21+."
+        },
+        {
+          "title": "Circuit Papi with Nina Flowers and Jesus Montanez",
+          "date": "2026-09-12",
+          "time": "21:00",
+          "description": "Circuit night with touring DJs, 9pm to 4am. 21+."
+        },
+        {
+          "title": "STUNT: Hispanic Heritage - Mexican Independence Day",
+          "date": "2026-09-13",
+          "time": "21:00",
+          "description": "Rich's Sunday night party, 9pm to 2. Runs themed most weeks - Labor Day, Hispanic Heritage, and so on - but the slot is every Sunday. 21+."
+        },
+        {
+          "title": "Mischief Wednesdays",
+          "date": "2026-09-16",
+          "time": "22:00",
+          "description": "Midweek party at Rich's, 10pm to close. Drag and multi-room beats on the club's smaller night - Wednesday and Thursday are the only 10pm opens. 21+."
+        },
+        {
+          "title": "Pop Rocks!",
+          "date": "2026-09-17",
+          "time": "22:00",
+          "description": "Thursday pop night across both dance floors. Ladies' night with bartender performances through the evening. 21+."
+        },
+        {
+          "title": "Slaygent Provocateur: The Sequel",
+          "date": "2026-09-17",
+          "time": "19:30",
+          "description": "Early Thursday performance, 7:30 to 9:30, before Pop Rocks. 21+."
+        },
+        {
+          "title": "Dirty-POP with Drew G",
+          "date": "2026-09-18",
+          "time": "21:00",
+          "description": "Friday night with resident DJ Drew G, 9pm to 2. 21+."
+        },
+        {
+          "title": "Truck Stop Tea Dance",
+          "date": "2026-09-19",
+          "time": "17:00",
+          "description": "Early Saturday tea dance, 5 to 10pm - before the late party takes the room. One of the few daylight events on Rich's calendar. 21+."
+        },
+        {
+          "title": "FUEL with Myxzlplix",
+          "date": "2026-09-19",
+          "time": "22:00",
+          "description": "Late Saturday party running 10pm to 4am, straight after the tea dance clears. 21+."
+        },
+        {
+          "title": "STUNT!",
+          "date": "2026-09-20",
+          "time": "21:00",
+          "description": "Rich's Sunday night party, 9pm to 2. Runs themed most weeks - Labor Day, Hispanic Heritage, and so on - but the slot is every Sunday. 21+."
+        },
+        {
+          "title": "Mischief Wednesdays",
+          "date": "2026-09-23",
+          "time": "22:00",
+          "description": "Midweek party at Rich's, 10pm to close. Drag and multi-room beats on the club's smaller night - Wednesday and Thursday are the only 10pm opens. 21+."
+        },
+        {
+          "title": "Big Fat Gay Rave",
+          "date": "2026-09-24",
+          "time": "21:00",
+          "description": "Thursday rave night, 9pm to 2. Replaces the usual Pop Rocks slot that week. 21+."
+        },
+        {
+          "title": "Electro-POP!",
+          "date": "2026-09-25",
+          "time": "21:00",
+          "description": "Friday electro and pop night, 9pm to 2. Runs roughly every other Friday. 21+."
+        },
+        {
+          "title": "Drageteria: Lady Gaga vs Madonna",
+          "date": "2026-09-25",
+          "time": "20:00",
+          "description": "Themed drag show, 8 to 10pm, ahead of Electro-POP. 21+."
+        },
+        {
+          "title": "CatHaus Burlesque and Pole Dance Revue",
+          "date": "2026-10-01",
+          "time": "20:00",
+          "description": "Burlesque and pole revue at Rich's. Same series as the Sep 3 show already in this shell."
+        }
+      ]
+    },
+    {
+      "slug": "first-unitarian-universalist-church-of-san-diego",
+      "name": "First Unitarian Universalist Church of San Diego",
+      "category": "Church",
+      "tagline": "Welcoming Unitarian Universalist congregation in Hillcrest",
+      "description": "A Unitarian Universalist congregation rooted in San Diego since 1873, with a Hillcrest campus offering worship, community programs and performance/event spaces.",
+      "logoUrl": "",
+      "website": "https://www.firstuusandiego.org/",
+      "phone": "(619) 298-9978",
+      "email": "",
+      "instagram": "@firstuusd",
+      "facebook": "FirstUUSD",
+      "tiktok": "",
+      "address": "4190 Front St, San Diego, CA 92103",
+      "lat": 32.753304,
+      "lng": -117.1665614,
+      "neighborhood": "Hillcrest",
+      "hours": "Sunday worship services; office hours vary",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "CRJ Presents: Falafel - Film Screening",
+          "date": "2026-09-10",
+          "time": "18:00",
+          "description": "Film screening presented by the San Diego Coalition for Reproductive Justice."
+        },
+        {
+          "title": "Sacred Sound Gathering: Mantra Circle & Vegetarian Potluck",
+          "date": "2026-09-12",
+          "time": "16:00",
+          "description": "Mantra circle followed by a vegetarian potluck. Runs again on Oct 10."
+        },
+        {
+          "title": "Social Justice Film Series: The Shadow Scholars",
+          "date": "2026-09-17",
+          "time": "18:00",
+          "description": "Documentary screening in the church's ongoing social justice film series."
+        },
+        {
+          "title": "TuYo Theatre presents Our Lady of the Convention Center",
+          "date": "2026-10-03",
+          "time": "16:00",
+          "description": "Theatre production staged at the First Unitarian Universalist Church."
+        },
+        {
+          "title": "Sacred Sound Gathering: Mantra Circle & Vegetarian Potluck",
+          "date": "2026-10-10",
+          "time": "16:00",
+          "description": "Mantra circle followed by a vegetarian potluck. Second of two dates this season."
+        },
+        {
+          "title": "Lesbians of San Diego Staged Play Reading: Coming Out Stories",
+          "date": "2026-11-07",
+          "time": "14:00",
+          "description": "Staged reading of coming-out stories at the First Unitarian Universalist Church."
+        },
+        {
+          "title": "Navidad Latina: A Holiday Concert",
+          "date": "2026-12-05",
+          "time": "19:30",
+          "description": "Free Latin holiday concert at the First Unitarian Universalist Church."
+        },
+        {
+          "title": "Winter Schminter Solstice Concert",
+          "date": "2026-12-19",
+          "time": "19:30",
+          "description": "Solstice concert at the First Unitarian Universalist Church."
+        }
+      ]
+    },
+    {
+      "slug": "cork-stem",
+      "name": "Cork & Stem",
+      "category": "Bar",
+      "tagline": "Hillcrest wine bar and flower shop under one roof",
+      "description": "A combined wine bar, flower shop and event space in Hillcrest offering wine, beer and light bites alongside a build-your-own flower bar, workshops and event florals.",
+      "logoUrl": "",
+      "website": "https://www.corkandstemsd.com/",
+      "phone": "(619) 535-0020",
+      "email": "",
+      "instagram": "@corkandstemsd",
+      "facebook": "corkandstemsd",
+      "tiktok": "",
+      "address": "1035 University Ave, San Diego, CA 92103",
+      "lat": 32.748115,
+      "lng": -117.154475,
+      "neighborhood": "Hillcrest",
+      "hours": "Wed-Fri 4pm-9pm, Sat 1pm-9pm, Sun 1pm-8pm",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "Wine Bar Book Club - September",
+          "date": "2026-09-03",
+          "time": "18:30",
+          "description": "Monthly book club at Cork & Stem. Run by the bar itself."
+        },
+        {
+          "title": "On The Spot Dating Show in Hillcrest",
+          "date": "2026-09-10",
+          "time": "19:00",
+          "description": "Live dating show format at Cork & Stem."
+        },
+        {
+          "title": "Sunday Bingo",
+          "date": "2026-09-20",
+          "time": "17:00",
+          "description": "Sunday bingo at Cork & Stem."
+        },
+        {
+          "title": "Hobby Hoes of SD - UFO",
+          "date": "2026-09-23",
+          "time": "18:00",
+          "description": "Craft-and-hobby meetup. No organizer is published on the Eventbrite listing."
+        },
+        {
+          "title": "September Mahjong at Cork & Stem",
+          "date": "2026-09-24",
+          "time": "18:00",
+          "description": "Monthly mahjong night run by Finest City Mahjong."
+        },
+        {
+          "title": "San Diego Lesbian, Bi, Trans & Queer+ Speed Dating",
+          "date": "2026-10-08",
+          "time": "18:00",
+          "description": "Speed dating night at Cork & Stem run by Little Gay Book."
+        },
+        {
+          "title": "Midweek Date Night in Hillcrest - Cityswoon, Ages 32-44",
+          "date": "2026-10-21",
+          "time": "19:00",
+          "description": "Matched date night run by Cityswoon for the 32-44 age bracket."
+        }
+      ]
+    },
+    {
+      "slug": "shift-pilates",
+      "name": "SHIFT Pilates",
+      "category": "Fitness",
+      "tagline": "Boutique Hillcrest Pilates studio for mindful movement",
+      "description": "A boutique Pilates studio in Hillcrest blending classical and contemporary Pilates with somatic principles, offering group classes, privates and teacher training.",
+      "logoUrl": "",
+      "website": "https://shiftsystem.org/",
+      "phone": "(619) 717-6998",
+      "email": "",
+      "instagram": "@shift.hillcrest",
+      "facebook": "",
+      "tiktok": "",
+      "address": "1419 University Ave, San Diego, CA 92103",
+      "lat": 32.748149,
+      "lng": -117.150757,
+      "neighborhood": "Hillcrest",
+      "hours": "Mon-Fri 6am-8pm, Sat 9am-12:30pm, Sun 7:30am-11:30am",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "Free Intro Reformer Pilates Class",
+          "date": "2026-09-18",
+          "time": "12:30",
+          "description": "Free introductory reformer class. Runs frequently - Eventbrite lists 27 further dates."
+        },
+        {
+          "title": "BODY + MIND: Movement and Neuro Emotional Technique",
+          "date": "2026-09-19",
+          "time": "13:30",
+          "description": "Movement session paired with Neuro Emotional Technique work."
+        }
+      ]
+    },
+    {
+      "slug": "all-saints-episcopal-church",
+      "name": "All Saints Episcopal Church",
+      "category": "Church",
+      "tagline": "Anglo-Catholic Episcopal parish in Hillcrest",
+      "description": "An Anglo-Catholic Episcopal church in Hillcrest offering Sunday Low Mass (8am) and Solemn Mass (10:30am) plus weekday services, Sunday School and adult formation.",
+      "logoUrl": "",
+      "website": "http://www.allsaintschurch.org/",
+      "phone": "(619) 298-7729",
+      "email": "",
+      "instagram": "",
+      "facebook": "AllSaintsSanDiego",
+      "tiktok": "",
+      "address": "625 Pennsylvania Ave, San Diego, CA 92103",
+      "lat": 32.744821,
+      "lng": -117.159221,
+      "neighborhood": "Hillcrest",
+      "hours": "Sun Mass 8am & 10:30am; weekday services Tue-Fri",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "Magical Story - Grieg's Peer Gynt and Dukas' The Sorcerer's Apprentice",
+          "date": "2026-09-27",
+          "time": "14:30",
+          "description": "Free orchestral concert. Part of the Greater San Diego Music Coterie season at All Saints."
+        },
+        {
+          "title": "Annual Celebration of All Saints and All Souls",
+          "date": "2026-10-25",
+          "time": "14:30",
+          "description": "Free annual concert by the Greater San Diego Music Coterie."
+        }
+      ]
+    },
+    {
+      "slug": "reset",
+      "name": "RESET",
+      "category": "Fitness",
+      "tagline": "Black-owned CrossFit and wellness studio in Hillcrest",
+      "description": "A Black-owned, veteran-founded fitness and wellness studio (formerly CrossFit Hillcrest) blending strength and conditioning with yoga, breathwork, sauna and cold plunge, plus 24/7 open gym.",
+      "logoUrl": "",
+      "website": "https://www.resetsd.com/",
+      "phone": "(619) 949-1934",
+      "email": "",
+      "instagram": "@resetcrossfit",
+      "facebook": "",
+      "tiktok": "",
+      "address": "3904 Park Blvd, San Diego, CA 92103",
+      "lat": 32.748703,
+      "lng": -117.146926,
+      "neighborhood": "Hillcrest",
+      "hours": "Mon-Thu 5:30am-7pm, Fri 5:30am-6pm, Sat 9-11:30am, Sun closed (24/7 open gym for members)",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "Sapphic Sweat Lifting Club",
+          "date": "2026-09-05",
+          "time": "11:30",
+          "description": "Group lifting session at RESET. No organizer is published on the Eventbrite listing."
+        }
+      ]
+    },
+    {
+      "slug": "r-place-bar-eatery",
+      "name": "R Place Bar & Eatery",
+      "category": "Bar",
+      "tagline": "LGBTQ+ and Latino-owned Hillcrest sports bar",
+      "description": "Hillcrest's LGBTQ+ and Latino-owned sports bar and eatery (opened 2025), serving Mexican-American bar fare, cocktails and draft beer with NFL Sunday Ticket, arcade games and a heated patio.",
+      "logoUrl": "",
+      "website": "https://rplacesandiego.com/",
+      "phone": "(619) 902-4646",
+      "email": "",
+      "instagram": "@rplacehillcrest",
+      "facebook": "rplacehillcrest",
+      "tiktok": "",
+      "address": "1027 University Ave, San Diego, CA 92103",
+      "lat": 32.748114,
+      "lng": -117.154636,
+      "neighborhood": "Hillcrest",
+      "hours": "Mon 3pm-12am, Tue closed, Wed-Thu 3pm-1am, Fri 3pm-2am, Sat 11am-2am, Sun 10am-12am",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "Bitch Stole My Look",
+          "date": "2026-09-10",
+          "time": "18:00",
+          "description": "Drag and performance night at R Place."
+        }
+      ]
+    },
+    {
+      "slug": "breakfast-bitch",
+      "name": "Breakfast Bitch",
+      "category": "Restaurant",
+      "tagline": "Sassy Black-owned all-day brunch spot",
+      "description": "A cheeky, Black-owned all-day brunch concept known for loaded croissants, pancakes and mimosas.",
+      "logoUrl": "",
+      "website": "",
+      "phone": "",
+      "email": "",
+      "instagram": "@breakfastbitch_official",
+      "facebook": "",
+      "tiktok": "",
+      "address": "3825 Fifth Ave, San Diego, CA 92103",
+      "lat": 32.7469,
+      "lng": -117.1604,
+      "neighborhood": "Hillcrest",
+      "hours": "",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "Shuck N Chill Date Nite",
+          "date": "2026-09-12",
+          "time": "17:00",
+          "description": "Oyster-and-drinks date night at Breakfast Bitch."
+        }
+      ]
+    },
+    {
+      "slug": "urban-mo-s-bar-grill",
+      "name": "Urban MO's Bar & Grill",
+      "category": "Bar",
+      "tagline": "Iconic Hillcrest gay bar, grill and dance venue",
+      "description": "San Diego's landmark LGBTQ bar and grill in Hillcrest, serving burgers and cocktails for 30+ years with drag shows, themed dance nights and a lively patio.",
+      "logoUrl": "",
+      "website": "https://urbanmos.com/",
+      "phone": "(619) 491-0400",
+      "email": "",
+      "instagram": "@urbanmos",
+      "facebook": "UrbanMOs",
+      "tiktok": "@urbanmos_sd",
+      "address": "308 University Ave, San Diego, CA 92103",
+      "lat": 32.74837,
+      "lng": -117.162427,
+      "neighborhood": "Hillcrest",
+      "hours": "Sun 9am-11pm, Mon-Thu 10am-11pm, Fri 10am-1am, Sat 9am-1am",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "Ghosted! by Roz Hernandez LIVE",
+          "date": "2026-09-12",
+          "time": "19:00",
+          "description": "Live taping of the Ghosted! show on the Roz Hernandez America Tour."
+        }
+      ]
+    },
+    {
+      "slug": "alibi",
+      "name": "Alibi",
+      "category": "Bar",
+      "tagline": "Cash-only Hillcrest dive bar with pool and patio",
+      "description": "A longstanding cash-only dive bar in Hillcrest featuring pool tables, video games, a large outdoor patio and free pool on Sundays.",
+      "logoUrl": "",
+      "website": "https://www.alibibars.com/",
+      "phone": "(619) 295-0881",
+      "email": "",
+      "instagram": "@alibihillcrest",
+      "facebook": "",
+      "tiktok": "",
+      "address": "1403 University Ave, San Diego, CA 92103",
+      "lat": 32.748289,
+      "lng": -117.151061,
+      "neighborhood": "Hillcrest",
+      "hours": "Daily 6am-2am",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "Unguided Group Painting Session",
+          "date": "2026-09-12",
+          "time": "20:00",
+          "description": "Open painting session - no instructor, materials-and-space format."
+        }
+      ]
+    },
+    {
+      "slug": "hillcrest-brewing-company",
+      "name": "Hillcrest Brewing Company",
+      "category": "Brewery",
+      "tagline": "The world's first LGBT brewery and pizzeria",
+      "description": "Billed as the world's first out-and-proud LGBT brewery (opened 2012), serving handcrafted beers alongside stone-oven thin-crust pizzas, with growlers and kegs to go.",
+      "logoUrl": "",
+      "website": "https://hillcrestbrewingcompany.com/",
+      "phone": "(619) 269-4323",
+      "email": "",
+      "instagram": "@hillcrestbrewingcompany",
+      "facebook": "HillcrestBrewingCompany",
+      "tiktok": "",
+      "address": "1458 University Ave, San Diego, CA 92103",
+      "lat": 32.7490365,
+      "lng": -117.1498417,
+      "neighborhood": "Hillcrest",
+      "hours": "Mon-Thu 2-9pm, Fri 2-10pm, Sat 11am-10pm, Sun 10am-8pm",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "Farmers Market Tour & Social Cooking Class",
+          "date": "2026-09-13",
+          "time": "11:00",
+          "description": "Walk the Hillcrest farmers market for ingredients, then cook them at Hillcrest Brewing Company."
+        }
+      ]
+    },
+    {
+      "slug": "artreach-san-diego",
+      "name": "ArtReach San Diego",
+      "category": "Nonprofit",
+      "tagline": "Youth visual-arts education nonprofit in Hillcrest",
+      "description": "A women-owned 501(c)(3) nonprofit providing visual arts education and collaborative mural programs to TK-12 youth across San Diego County, with a community art studio in Hillcrest.",
+      "logoUrl": "",
+      "website": "https://www.artreachsandiego.org/",
+      "phone": "(619) 940-7278",
+      "email": "",
+      "instagram": "@artreachsd",
+      "facebook": "ArtReachSD",
+      "tiktok": "",
+      "address": "1065 University Ave, San Diego, CA 92103",
+      "lat": 32.7481624,
+      "lng": -117.1536816,
+      "neighborhood": "Hillcrest",
+      "hours": "",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "October Healing Through Artplay Workshop",
+          "date": "2026-10-09",
+          "time": "18:30",
+          "description": "Monthly expressive-arts workshop at ArtReach San Diego."
+        }
+      ]
+    },
+    {
+      "slug": "baja-betty-s",
+      "name": "Baja Betty's",
+      "category": "Mexican restaurant & bar",
+      "tagline": "Serving Colorful People Colorful Drinks",
+      "description": "Serving Colorful People Colorful Drinks",
+      "logoUrl": "",
+      "website": "https://bajabettyssd.com/",
+      "phone": "619-269-8510",
+      "email": "",
+      "instagram": "@bajabettys",
+      "facebook": "",
+      "tiktok": "",
+      "address": "1421 University Ave, San Diego, CA 92103",
+      "lat": 32.748204,
+      "lng": -117.15061,
+      "neighborhood": "Hillcrest",
+      "hours": "Mon, Wed, Thu 11am-9pm; Tue & Fri 11am-10pm; Sat 10am-10pm; Sun 10am-9pm",
+      "featured": false,
+      "verified": false,
+      "events": []
+    },
+    {
+      "slug": "nunu-s-tavern",
+      "name": "Nunu's Tavern",
+      "category": "Dive bar / tavern",
+      "tagline": "Hillcrest's oldest tavern, established 1962",
+      "description": "Hillcrest's oldest tavern, established 1962",
+      "logoUrl": "",
+      "website": "https://nunustavern.com/",
+      "phone": "(619) 295-2878",
+      "email": "",
+      "instagram": "@nunustavern",
+      "facebook": "",
+      "tiktok": "",
+      "address": "3537 5th Ave, San Diego, CA 92103",
+      "lat": 32.742246,
+      "lng": -117.160174,
+      "neighborhood": "Hillcrest",
+      "hours": "Mon-Thu 5pm-2am; Fri-Sun 1pm-2am",
+      "featured": false,
+      "verified": false,
+      "events": []
+    },
+    {
+      "slug": "1-fifth-avenue",
+      "name": "#1 Fifth Avenue",
+      "category": "Gay dive bar",
+      "tagline": "Gay Dive Bar in Hillcrest San Diego",
+      "description": "Gay Dive Bar in Hillcrest San Diego",
+      "logoUrl": "",
+      "website": "https://www.numberonefifth.com/",
+      "phone": "(619) 299-1911",
+      "email": "",
+      "instagram": "@number_one_fifth",
+      "facebook": "",
+      "tiktok": "",
+      "address": "3845 Fifth Ave, San Diego, CA 92103",
+      "lat": 32.74778,
+      "lng": -117.160206,
+      "neighborhood": "Hillcrest",
+      "hours": "Mon-Thu 3pm-1:30am; Fri-Sat 12pm-2am; Sun 12pm-1:30am",
+      "featured": false,
+      "verified": false,
+      "events": []
+    },
+    {
+      "slug": "flicks",
+      "name": "Flicks",
+      "category": "Gay video bar",
+      "tagline": "Best Gay Bar in San Diego",
+      "description": "Best Gay Bar in San Diego",
+      "logoUrl": "",
+      "website": "https://www.sdflicks.com/",
+      "phone": "(619) 297-2056",
+      "email": "",
+      "instagram": "@flicks_sd",
+      "facebook": "",
+      "tiktok": "",
+      "address": "1017 University Ave, San Diego, CA 92103",
+      "lat": 32.748184,
+      "lng": -117.154781,
+      "neighborhood": "Hillcrest",
+      "hours": "Mon-Thu 4pm-2am; Fri-Sat 2pm-2am; Sun 12pm-2am",
+      "featured": false,
+      "verified": false,
+      "events": []
+    },
+    {
+      "slug": "uptown-tavern",
+      "name": "Uptown Tavern",
+      "category": "Tavern / restaurant",
+      "tagline": "",
+      "description": "Uptown Tavern in Hillcrest, San Diego.",
+      "logoUrl": "",
+      "website": "https://uptowntavernsd.com/",
+      "phone": "(619) 241-2710",
+      "email": "",
+      "instagram": "@uptowntavernsd",
+      "facebook": "",
+      "tiktok": "",
+      "address": "1236 University Ave, San Diego, CA 92103",
+      "lat": 32.74871,
+      "lng": -117.152615,
+      "neighborhood": "Hillcrest",
+      "hours": "Tue-Wed 4pm-11pm; Thu-Fri 4pm-12am; Sat 12pm-12am; Sun 11am-11pm; Mon closed",
+      "featured": false,
+      "verified": false,
+      "events": []
+    },
+    {
+      "slug": "insideout",
+      "name": "insideOUT",
+      "category": "LGBTQ-owned restaurant & bar",
+      "tagline": "LGBTQ-owned, chef-led California-Mediterranean kitchen in an open-air urban oasis",
+      "description": "LGBTQ-owned, chef-led California-Mediterranean kitchen in an open-air urban oasis",
+      "logoUrl": "",
+      "website": "https://www.insideoutsd.com/",
+      "phone": "(619) 888-8623",
+      "email": "",
+      "instagram": "@insideoutsd",
+      "facebook": "",
+      "tiktok": "",
+      "address": "1642 University Ave, Suite 100, San Diego, CA 92103",
+      "lat": 32.748587,
+      "lng": -117.148628,
+      "neighborhood": "Hillcrest",
+      "hours": "Mon closed; Tue-Thu 4pm-10:30pm; Fri-Sat 4pm-12am; Sat-Sun brunch 10am-5pm",
+      "featured": false,
+      "verified": false,
+      "events": []
+    },
+    {
+      "slug": "hillcrest-farmers-market",
+      "name": "Hillcrest Farmers Market",
+      "category": "Farmers market",
+      "tagline": "San Diego's original and largest farmers market",
+      "description": "San Diego's original and largest farmers market",
+      "logoUrl": "",
+      "website": "https://hillcrestfarmersmarket.com/",
+      "phone": "619-299-3330",
+      "email": "",
+      "instagram": "@hillcrestfarmersmkt",
+      "facebook": "",
+      "tiktok": "",
+      "address": "1601 University Ave, San Diego, CA 92103",
+      "lat": 32.74825,
+      "lng": -117.149078,
+      "neighborhood": "Hillcrest",
+      "hours": "Sundays 9am-2pm, rain or shine",
+      "featured": false,
+      "verified": false,
+      "events": []
+    },
+    {
+      "slug": "the-san-diego-lgbt-community-center",
+      "name": "The San Diego LGBT Community Center",
+      "category": "Community center",
+      "tagline": "",
+      "description": "The San Diego LGBT Community Center in Hillcrest, San Diego.",
+      "logoUrl": "",
+      "website": "https://thecentersd.org/",
+      "phone": "619-692-2077",
+      "email": "",
+      "instagram": "@lgbtcenter",
+      "facebook": "",
+      "tiktok": "",
+      "address": "3909 Centre St, San Diego, CA 92103",
+      "lat": 32.74892,
+      "lng": -117.147728,
+      "neighborhood": "Hillcrest",
+      "hours": "",
+      "featured": false,
+      "verified": false,
+      "events": []
+    },
+    {
+      "slug": "pali-wine-co",
+      "name": "Pali Wine Co. (Hillcrest Tasting Room)",
+      "category": "Wine bar / tasting room",
+      "tagline": "",
+      "description": "Pali Wine Co. (Hillcrest Tasting Room) in Hillcrest, San Diego.",
+      "logoUrl": "",
+      "website": "https://paliwineco.com/pages/san-diego-tasting-room",
+      "phone": "(619) 876-4099",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "1440 University Ave, San Diego, CA 92103",
+      "lat": 32.748788,
+      "lng": -117.150241,
+      "neighborhood": "Hillcrest",
+      "hours": "Mon-Tue closed; Wed-Fri 2pm-10pm; Sat 12pm-10pm; Sun 12pm-9pm",
+      "featured": false,
+      "verified": false,
+      "events": []
+    },
+    {
+      "slug": "trust-restaurant",
+      "name": "Trust Restaurant",
+      "category": "Restaurant",
+      "tagline": "Wood Fired, New American Fare",
+      "description": "Wood Fired, New American Fare",
+      "logoUrl": "",
+      "website": "https://trustrestaurantsd.com/",
+      "phone": "619-795-6901",
+      "email": "",
+      "instagram": "@trustrestaurantsd",
+      "facebook": "",
+      "tiktok": "",
+      "address": "3752 Park Blvd, San Diego, CA 92103",
+      "lat": 32.746605,
+      "lng": -117.146635,
+      "neighborhood": "Hillcrest",
+      "hours": "Dinner Wed-Mon 5pm-close; brunch Sat-Sun 9am-2pm",
+      "featured": false,
+      "verified": false,
+      "events": []
+    },
+    {
+      "slug": "common-stock",
+      "name": "Common Stock",
+      "category": "Restaurant / cocktail bar",
+      "tagline": "Dine Different",
+      "description": "Dine Different",
+      "logoUrl": "",
+      "website": "https://www.eatcommonstock.com/",
+      "phone": "(619) 310-5298",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "3805 5th Ave, San Diego, CA 92103",
+      "lat": 32.747191,
+      "lng": -117.160232,
+      "neighborhood": "Hillcrest",
+      "hours": "",
+      "featured": false,
+      "verified": false,
+      "events": []
+    },
+    {
+      "slug": "nola-on-5th",
+      "name": "NOLA on 5th",
+      "category": "New Orleans restaurant & bar",
+      "tagline": "The flavors and spirit of New Orleans dining in San Diego",
+      "description": "The flavors and spirit of New Orleans dining in San Diego",
+      "logoUrl": "",
+      "website": "https://nolaon5th.com/",
+      "phone": "(858) 444-6173",
+      "email": "",
+      "instagram": "@nolaon5th",
+      "facebook": "",
+      "tiktok": "",
+      "address": "3683 Fifth Ave, San Diego, CA 92103",
+      "lat": 32.744712,
+      "lng": -117.160167,
+      "neighborhood": "Hillcrest",
+      "hours": "Mon-Thu 12pm-9pm; Fri 11am-10pm; Sat 10am-10pm; Sun 10am-9pm",
+      "featured": false,
+      "verified": false,
+      "events": []
+    },
+    {
+      "slug": "frenchys-hideout",
+      "name": "Frenchy's Hideout",
+      "category": "French restaurant / wine bar",
+      "tagline": "Where Parisian elegance meets San Diego",
+      "description": "Where Parisian elegance meets San Diego",
+      "logoUrl": "",
+      "website": "https://frenchyshideout.com/",
+      "phone": "(858) 345-7379",
+      "email": "",
+      "instagram": "@frenchyshideout",
+      "facebook": "",
+      "tiktok": "",
+      "address": "142 W University Ave, Ste C, San Diego, CA 92103",
+      "lat": 32.748237,
+      "lng": -117.164002,
+      "neighborhood": "Hillcrest",
+      "hours": "Lunch Tue-Fri 12pm-3pm; dinner Tue-Sat 5pm-9pm; Sun brunch 9am-2:30pm; Mon closed",
+      "featured": false,
+      "verified": false,
+      "events": []
+    },
+    {
+      "slug": "los-panchos-tacos-and-cantina",
+      "name": "Los Panchos Tacos and Cantina",
+      "category": "Mexican restaurant / cantina",
+      "tagline": "",
+      "description": "Los Panchos Tacos and Cantina in Hillcrest, San Diego.",
+      "logoUrl": "",
+      "website": "https://lospanchostacosandcantina.com/",
+      "phone": "(619) 295-5828",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "441 Washington St, San Diego, CA 92103",
+      "lat": 32.749703,
+      "lng": -117.160719,
+      "neighborhood": "Hillcrest",
+      "hours": "",
+      "featured": false,
+      "verified": false,
+      "events": []
+    },
+    {
+      "slug": "the-studio-door",
+      "name": "The Studio Door",
+      "category": "Art gallery",
+      "tagline": "Hillcrest's art gallery and artist studios",
+      "description": "Hillcrest's art gallery and artist studios",
+      "logoUrl": "",
+      "website": "https://thestudiodoor.com/",
+      "phone": "619-255-2867",
+      "email": "",
+      "instagram": "@thestudiodoor",
+      "facebook": "",
+      "tiktok": "",
+      "address": "3867 Fourth Ave, San Diego, CA 92103",
+      "lat": 32.747933,
+      "lng": -117.161416,
+      "neighborhood": "Hillcrest",
+      "hours": "Tue-Sat 11am-6pm or by appointment",
+      "featured": false,
+      "verified": false,
+      "events": []
+    },
+    {
+      "slug": "babycakes",
+      "name": "Babycakes",
+      "category": "Cupcake bakery / bar",
+      "tagline": "We bake good vibes into every treat.",
+      "description": "We bake good vibes into every treat.",
+      "logoUrl": "",
+      "website": "https://www.babycakessandiego.com/hillcrest/",
+      "phone": "(619) 990-2282",
+      "email": "",
+      "instagram": "@babycakessandiego",
+      "facebook": "",
+      "tiktok": "",
+      "address": "3795 Fourth Ave, San Diego, CA 92103",
+      "lat": 32.746825,
+      "lng": -117.161395,
+      "neighborhood": "Hillcrest",
+      "hours": "Daily 9am-9pm (official page; may be stale)",
+      "featured": false,
+      "verified": false,
+      "events": []
+    },
+    {
+      "slug": "bread-and-cie",
+      "name": "Bread & Cie",
+      "category": "Bakery / café",
+      "tagline": "San Diego's Most Awarded Bakery",
+      "description": "San Diego's Most Awarded Bakery",
+      "logoUrl": "",
+      "website": "https://breadandcie.com/",
+      "phone": "619-683-9322",
+      "email": "",
+      "instagram": "@breadandcie",
+      "facebook": "",
+      "tiktok": "",
+      "address": "350 University Ave, San Diego, CA 92103",
+      "lat": 32.748451,
+      "lng": -117.161865,
+      "neighborhood": "Hillcrest",
+      "hours": "Daily 7:30am-4pm",
+      "featured": false,
+      "verified": false,
+      "events": []
+    },
+    {
+      "slug": "snooze-an-am-eatery",
+      "name": "Snooze, an A.M. Eatery (Hillcrest)",
+      "category": "Breakfast & brunch",
+      "tagline": "",
+      "description": "Snooze, an A.M. Eatery (Hillcrest) in Hillcrest, San Diego.",
+      "logoUrl": "",
+      "website": "https://www.snoozeeatery.com/restaurant/california/hillcrest",
+      "phone": "(619) 500-3344",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "3940 Fifth Ave, San Diego, CA 92103",
+      "lat": 32.748988,
+      "lng": -117.160704,
+      "neighborhood": "Hillcrest",
+      "hours": "Mon-Fri 6:30am-2:30pm; Sat-Sun 6:30am-3:30pm",
+      "featured": false,
+      "verified": false,
+      "events": []
+    },
+    {
+      "slug": "hash-house-a-go-go",
+      "name": "Hash House A Go Go (Hillcrest)",
+      "category": "Breakfast & brunch",
+      "tagline": "Twisted farm food",
+      "description": "Twisted farm food",
+      "logoUrl": "",
+      "website": "https://www.hashhouseagogo.com/location/san-diego-california/",
+      "phone": "619-298-4646",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "3628 Fifth Ave, San Diego, CA 92103",
+      "lat": 32.743885,
+      "lng": -117.160586,
+      "neighborhood": "Hillcrest",
+      "hours": "Mon-Fri 7:30am-2pm; Sat-Sun 7:30am-3pm",
+      "featured": false,
+      "verified": false,
+      "events": []
+    },
+    {
+      "slug": "great-maple",
+      "name": "Great Maple (Hillcrest)",
+      "category": "American restaurant / brunch",
+      "tagline": "",
+      "description": "Great Maple (Hillcrest) in Hillcrest, San Diego.",
+      "logoUrl": "",
+      "website": "https://thegreatmaple.com/san-diego/",
+      "phone": "(619) 255-2282",
+      "email": "",
+      "instagram": "@greatmaple_hillcrest",
+      "facebook": "",
+      "tiktok": "",
+      "address": "1451 Washington St, San Diego, CA 92103",
+      "lat": 32.751681,
+      "lng": -117.149496,
+      "neighborhood": "Hillcrest",
+      "hours": "Mon-Fri 8am-2pm; Sat-Sun 8am-2:30pm; Fri-Sat dinner 5pm-9pm",
+      "featured": false,
+      "verified": false,
+      "events": []
+    },
+    {
+      "slug": "crest-cafe",
+      "name": "Crest Cafe",
+      "category": "Café / diner",
+      "tagline": "Neon Lights, Timeless Bites",
+      "description": "Neon Lights, Timeless Bites",
+      "logoUrl": "",
+      "website": "https://crestcafe.com/",
+      "phone": "(619) 295-2510",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "425 Robinson Ave, San Diego, CA 92103",
+      "lat": 32.746846,
+      "lng": -117.160907,
+      "neighborhood": "Hillcrest",
+      "hours": "Daily 7am-10pm",
+      "featured": false,
+      "verified": false,
+      "events": []
+    },
+    {
+      "slug": "the-loft",
+      "name": "The Loft",
+      "category": "LGBTQ+ dive bar",
+      "tagline": "",
+      "description": "The Loft in Hillcrest, San Diego.",
+      "logoUrl": "",
+      "website": "",
+      "phone": "(619) 296-6407",
+      "email": "",
+      "instagram": "@theloftsandiego",
+      "facebook": "",
+      "tiktok": "",
+      "address": "3610 5th Ave, San Diego, CA 92103",
+      "lat": 32.743575,
+      "lng": -117.160555,
+      "neighborhood": "Hillcrest",
+      "hours": "Daily 11am-2am (third-party)",
+      "featured": false,
+      "verified": false,
+      "events": []
+    },
+    {
+      "slug": "lestats-hillcrest",
+      "name": "Lestat's Hillcrest",
+      "category": "Coffee house",
+      "tagline": "",
+      "description": "Lestat's Hillcrest in Hillcrest, San Diego.",
+      "logoUrl": "",
+      "website": "https://www.lestats.com/",
+      "phone": "619-564-6616",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "1041 University Ave, San Diego, CA 92103",
+      "lat": 32.748206,
+      "lng": -117.154214,
+      "neighborhood": "Hillcrest",
+      "hours": "Daily 8am-12am",
+      "featured": false,
+      "verified": false,
+      "events": []
+    },
+    {
+      "slug": "the-merrow",
+      "name": "The Merrow",
+      "category": "Nightclub",
+      "tagline": "",
+      "description": "The Merrow in Hillcrest, San Diego.",
+      "logoUrl": "",
+      "website": "",
+      "phone": "",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "1271 University Ave, San Diego, CA 92103",
+      "lat": 32.748115,
+      "lng": -117.151992,
+      "neighborhood": "Hillcrest",
+      "hours": "",
+      "featured": false,
+      "verified": false,
+      "events": []
+    },
+    {
+      "slug": "gelato-vero-caffe",
+      "name": "Gelato Vero Caffe",
+      "category": "Café / gelato",
+      "tagline": "",
+      "description": "Gelato Vero Caffe in Hillcrest, San Diego.",
+      "logoUrl": "",
+      "website": "https://www.gelatoverocaffe.com/",
+      "phone": "",
+      "email": "",
+      "instagram": "@gelatoverocaffe",
+      "facebook": "",
+      "tiktok": "",
+      "address": "3753 India St, San Diego, CA 92103",
+      "lat": 32.74327,
+      "lng": -117.18085,
+      "neighborhood": "Hillcrest",
+      "hours": "",
+      "featured": false,
+      "verified": false,
+      "events": []
+    },
+    {
+      "slug": "extraordinary-desserts",
+      "name": "Extraordinary Desserts",
+      "category": "Dessert café",
+      "tagline": "",
+      "description": "Extraordinary Desserts in Hillcrest, San Diego.",
+      "logoUrl": "",
+      "website": "https://www.extraordinarydesserts.com/",
+      "phone": "",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "2870 4th Ave, San Diego, CA 92103",
+      "lat": 32.735194,
+      "lng": -117.161475,
+      "neighborhood": "Hillcrest",
+      "hours": "",
+      "featured": false,
+      "verified": false,
+      "events": []
+    },
+    {
+      "slug": "pecs-bar",
+      "name": "Pecs Bar",
+      "category": "Gay bar",
+      "tagline": "",
+      "description": "Pecs Bar in Hillcrest, San Diego.",
+      "logoUrl": "",
+      "website": "http://www.pecsbar.com/",
+      "phone": "",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "2046 University Ave, San Diego, CA 92104",
+      "lat": 32.748587,
+      "lng": -117.142689,
+      "neighborhood": "Hillcrest",
+      "hours": "",
+      "featured": false,
+      "verified": false,
+      "events": []
+    },
+    {
+      "slug": "redwing-bar-grill",
+      "name": "Redwing Bar & Grill",
+      "category": "Bar & grill",
+      "tagline": "",
+      "description": "Redwing Bar & Grill in Hillcrest, San Diego.",
+      "logoUrl": "",
+      "website": "http://redwingbar.com/",
+      "phone": "",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "4012 30th St, San Diego, CA 92104",
+      "lat": 32.750664,
+      "lng": -117.130331,
+      "neighborhood": "Hillcrest",
+      "hours": "",
+      "featured": false,
+      "verified": false,
+      "events": []
+    },
+    {
+      "slug": "lips-san-diego",
+      "name": "Lips San Diego",
+      "category": "Drag dinner show",
+      "tagline": "",
+      "description": "Lips San Diego in Hillcrest, San Diego.",
+      "logoUrl": "",
+      "website": "",
+      "phone": "",
+      "email": "",
+      "instagram": "@lipssd",
+      "facebook": "",
+      "tiktok": "",
+      "address": "3036 El Cajon Blvd, San Diego, CA 92104",
+      "lat": 32.755644,
+      "lng": -117.129275,
+      "neighborhood": "Hillcrest",
+      "hours": "",
+      "featured": false,
+      "verified": false,
+      "events": []
+    },
+    {
+      "slug": "trilogy-sanctuary",
+      "name": "Trilogy Sanctuary",
+      "category": "Yoga studio / vegan café",
+      "tagline": "",
+      "description": "Trilogy Sanctuary in Hillcrest, San Diego.",
+      "logoUrl": "",
+      "website": "https://www.trilogysanctuary.com/",
+      "phone": "(858) 633-3893",
+      "email": "",
+      "instagram": "@trilogysanctuary",
+      "facebook": "",
+      "tiktok": "",
+      "address": "7650 Girard Ave, Suite 400, La Jolla, CA 92037",
+      "lat": 32.842991,
+      "lng": -117.273683,
+      "neighborhood": "Hillcrest",
+      "hours": "",
+      "featured": false,
+      "verified": false,
+      "events": []
+    },
+    {
+      "slug": "pardon-my-french",
+      "name": "Pardon My French",
+      "category": "Restaurant / bar",
+      "tagline": "",
+      "description": "Pardon My French in Hillcrest, San Diego.",
+      "logoUrl": "",
+      "website": "",
+      "phone": "",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "3797 Park Blvd, San Diego, CA 92103",
+      "lat": 32.747455,
+      "lng": -117.146125,
+      "neighborhood": "Hillcrest",
+      "hours": "",
+      "featured": false,
+      "verified": false,
+      "events": []
+    },
+    {
+      "slug": "cellar-hand",
+      "name": "Cellar Hand",
+      "category": "Restaurant / wine bar",
+      "tagline": "",
+      "description": "Cellar Hand in Hillcrest, San Diego.",
+      "logoUrl": "",
+      "website": "",
+      "phone": "",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "1440 University Ave, San Diego, CA 92103",
+      "lat": 32.748788,
+      "lng": -117.150241,
+      "neighborhood": "Hillcrest",
+      "hours": "",
+      "featured": false,
+      "verified": false,
+      "events": []
+    },
+    {
+      "slug": "landmark-hillcrest-cinemas",
+      "name": "Landmark Hillcrest Cinemas",
+      "category": "Movie theater",
+      "tagline": "",
+      "description": "Landmark Hillcrest Cinemas in Hillcrest, San Diego.",
+      "logoUrl": "",
+      "website": "",
+      "phone": "",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "3965 Fifth Ave, San Diego, CA 92103",
+      "lat": 32.749329,
+      "lng": -117.159871,
+      "neighborhood": "Hillcrest",
+      "hours": "",
+      "featured": false,
+      "verified": false,
+      "events": []
+    }
+  ],
+  "_generated": "2026-09-14"
+}

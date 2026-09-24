@@ -1,0 +1,52 @@
+[
+  {
+    "name": "River City Food Bank — Midtown",
+    "location": "1800 28th Street, Sacramento, CA 95816",
+    "website": "https://rivercityfoodbank.org/emergency-food-distribution/",
+    "phone": "916-446-2627",
+    "programs": [
+      "Emergency Food Distribution",
+      "CalFresh Assistance"
+    ],
+    "schedules": [
+      {
+        "prog": "Emergency Food Distribution",
+        "rrule": "FREQ=WEEKLY;BYDAY=TU,TH",
+        "date": "2026-09-01",
+        "time": "10:30",
+        "endTime": "13:30",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "River City Food Bank — Arden Arcade (Center at St. Matthew's)",
+    "location": "2300 Edison Ave, Sacramento, CA 95821",
+    "website": "https://rivercityfoodbank.org/emergency-food-distribution/",
+    "phone": "916-446-2627",
+    "programs": [
+      "Emergency Food Distribution",
+      "CalFresh Assistance",
+      "Diaper Distribution"
+    ],
+    "schedules": [
+      {
+        "prog": "Emergency Food Distribution",
+        "rrule": "FREQ=WEEKLY;BYDAY=WE,FR",
+        "date": "2026-09-01",
+        "time": "10:30",
+        "endTime": "13:30",
+        "exdates": []
+      },
+      {
+        "prog": "Diaper Distribution",
+        "rrule": "FREQ=MONTHLY;BYDAY=2MO",
+        "date": "2026-09-01",
+        "time": "10:30",
+        "endTime": "12:00",
+        "note": "Diapers only — no food on these days. Children ages 0–4, Sacramento County residents.",
+        "exdates": []
+      }
+    ]
+  }
+]

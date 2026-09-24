@@ -1,0 +1,1385 @@
+{
+  "_comment": "ShellTerra MissionHillsActivities seed data. Shell: MissionHillsActivities. Times are San Diego local, 24h, no timezone suffix. kind is 'activity'. Sources: Mission Hills Business Improvement District events page (missionhillsbid.com), Mission Hills Town Council events section (missionhillstowncouncil.org), and Eventbrite, all scraped September 11, 2026. COORDINATES: every Eventbrite-sourced item carries Eventbrite's own geocoded lat/lng and is trustworthy; the four non-Eventbrite items (three MHTC meetings and Shop Small) still carry estimated coords and are flagged below. Eventbrite's 'Mission Hills' pages are San Diego-wide, not neighborhood-scoped: 970 listings were pulled across 49 pages and filtered to 92103 Mission Hills street addresses, which left 12. Near-misses are in _out_of_area.",
+  "_shell": "MissionHillsActivities",
+  "_shellId": "6a8bafa72d35f648b78f",
+  "_verify_before_running": [
+    "SHELL_ID in .env must be the Mission Hills shell ID, NOT the Gaslamp ID 6a966244cb2082796b17",
+    "Coordinates on the 12 Eventbrite items come from Eventbrite's own geocoder and replaced earlier hand estimates. The four non-Eventbrite items (mhtc-town-hall, both mhtc-board-meeting entries, mission-hills-small-business-saturday) still have ESTIMATED coords - verify those four pins only",
+    "Safdie Rabines Architects address (925 Fort Stockton Dr) and Francis Parker Lower School address (4201 Randolph St) are mine; MHTC publishes venue names only",
+    "AI & Tea Salon is dated Sep 11 2026 on its event page but the search card said 'Tomorrow'. Either way it is now past. Confirm whether it is a recurring salon before dropping it",
+    "Small Business Saturday date (Nov 28, 2026) is derived from Thanksgiving falling on Nov 26, 2026; the BID page gives no date. Hours 10:00-18:00 are a PLACEHOLDER",
+    "Categories 'community', 'wellness' and 'dating' are new and do not appear in the Gaslamp seed file. Confirm the seeder and app accept them, or remap",
+    "CONTENT REVIEW: six of the sixteen items are dating or tantra events at Radiance Yoga and Communion. That is a heavy skew for a neighborhood shell. Decide how many belong in a public feed before seeding",
+    "Descriptions on Eventbrite-sourced items are organizer marketing copy, lightly cleaned. Rewrite in ShellTerra's voice before they go live",
+    "Radiance Yoga (1612 W Lewis St) appears under two Eventbrite venue spellings with slightly different coords. Pick one canonical venue record",
+    "No 'yearly' recurrence example exists in the Gaslamp file, so annual events are not seeded as recurring series",
+    "MHTC meeting series is 2nd Thursday monthly at 18:00. Only Oct/Nov/Dec 2026 are published. Do not extrapolate into 2027 - they go dark some months"
+  ],
+  "_deferred": {
+    "_why": "Mission Hills events referenced on the BID or Town Council sites without a confirmed forward date and time. Do not paste into items[] until a real start date and time is in hand.",
+    "taste-of-mission-hills": {
+      "title": "Taste of Mission Hills",
+      "status": "Annual October food walk and the BID's main fundraiser. Ticket includes Old Town Trolley transport along a 5+ mile route covering West Lewis St, Ft. Stockton Dr, Goldfinch St, West Washington St, Reynard Way, and India St. The BID page says 2026 plans are underway but publishes no date and no ticket link. Highest-value Mission Hills item once dated. Watch missionhillsbid.com or join their mailing list."
+    },
+    "mhtc-4th-of-july": {
+      "title": "Mission Hills 4th of July Parade and Concert",
+      "status": "MHTC's signature annual community event. Costume and decorated bike/wagon parade through Mission Hills ending at Pioneer Park, with prizes for Best Costume and Best Bike/Wagon decor, then games and live music through the afternoon while families picnic. Residents head to neighborhood vista points for bay fireworks at night. The MHTC schedule block reads 'No upcoming events found' and publishes no times. Date is fixed (July 4, 2027) but start times are unknown."
+    },
+    "mhtc-concerts-in-the-park": {
+      "title": "Mission Hills Concerts in the Park",
+      "status": "Annual summer series on Fridays at Pioneer Park, currently in its 31st season. Picnic-basket format. The lineup block reads 'No upcoming events found', so the 2026 season has ended and 2027 dates are not posted. Once dated this is a strong weekly recurring series for the shell, same shape as the Gaslamp weekly residencies."
+    },
+    "mission-hills-5k": {
+      "title": "Mission Hills 5K Run/Walk",
+      "status": "Annual 5K benefiting Grant TK-8 through the Grant School Community Foundation, over $200,000 raised to date. The 2026 race (11th annual) ran Saturday March 21, 2026 at 08:00 and its results and photos are posted. CAUTION: missionhills5k.com still displays the March 21 date as if upcoming, but that is stale 2026 copy - March 21 is not a Saturday in 2027. Wait for the real 2027 date."
+    },
+    "halloween-in-the-hills": {
+      "title": "Halloween in the Hills",
+      "status": "Block party on the West Lewis Street Shopping District with live music, shopping, and food trucks. Referenced on the MHTC special events page but with no date, and its only 'more info' link points to Instagram rather than a listing. Likely late October 2026, so this one is worth chasing now. Check @missionhillssd or the West Lewis merchants directly."
+    },
+    "holiday-in-the-hills": {
+      "title": "Holiday in the Hills",
+      "status": "Companion block party to Halloween in the Hills on West Lewis Street, same format - live music, shopping, food trucks. No date published on the MHTC site. Likely early December 2026. Same chase as above."
+    },
+    "colors-on-canvas-banner-contest": {
+      "title": "Colors on Canvas - Banner Art Contest",
+      "status": "Annual BID banner art contest. Students at Grant UTK8 School paint local Mission Hills businesses onto seventy 30x94 inch banners installed throughout the neighborhood, with Artist in Residence Sarah Ekedal. The 2027 edition is 'launching soon' with no date. This is a multi-week program, not a single evening, so once the banners are installed it may fit better as a landmark series or timemarks than as an activity."
+    },
+    "mission-hills-progressive-summer-mixer": {
+      "title": "Mission Hills Progressive Summer Mixer",
+      "status": "2026 edition ran Wednesday June 24, 2026, 17:30-19:00 at 325 W Washington St. Already passed. Annual, so expect a late-June 2027 date."
+    },
+    "mission-hills-community-garage-sale": {
+      "title": "Mission Hills Community Garage Sale",
+      "status": "2026 edition ran Saturday May 16, 2026 starting at 08:00, sponsored by Maureen Tess Fieberg and Antoinette Embry. Already passed. Annual, expect mid-May 2027. Neighborhood-wide with no single venue, so it needs a pin decision when seeded."
+    },
+    "mission-hills-spring-business-mixer": {
+      "title": "Mission Hills Spring Business Mixer",
+      "status": "2026 edition ran Wednesday March 18, 2026, 17:30-19:00 at US Bank, paired with that branch's grand re-opening. Already passed. The mixer looks annual but the US Bank tie-in was one-time, so the 2027 venue will differ."
+    },
+    "mhtc-quarterly-member-meetings": {
+      "title": "MHTC Quarterly Member Meetings",
+      "status": "MHTC states it holds quarterly meetings for all members and interested parties in addition to monthly Board of Trustees meetings. The October 8 Town Hall in items[] may be one of these. No separate quarterly schedule is published, so the rest cannot be seeded."
+    }
+  },
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "ai-tea-salon-2026-09-11",
+      "title": "AI & Tea Salon",
+      "description": "An evening of open discussion about artificial intelligence, held over a curated tea service at The Den in Mission Hills. No slides, no pitch, no panel, just a hosted conversation about what AI means for work, creativity, relationships, and how we make sense of things. The group is capped deliberately to keep the conversation real.",
+      "locationName": "The Den in Mission Hills",
+      "address": "928 Fort Stockton, San Diego, CA 92103",
+      "lat": 32.7512013,
+      "lng": -117.1719403,
+      "category": "community",
+      "start": "2026-09-11T17:30",
+      "end": "2026-09-11T20:30",
+      "url": "https://www.eventbrite.com/e/1999042876055"
+    },
+    {
+      "kind": "activity",
+      "slug": "2nd-annual-mission-hills-oktoberfest-2026-2026-09-18",
+      "title": "2nd Annual Mission Hills Oktoberfest",
+      "description": "Oktoberfest in Pioneer Park hosted by the Grant School Community Foundation, the same group behind the Mission Hills 5K. Family fun, entertainment, crafts, food, and a Dachshund race. Headliner is Sauer Sam & the Tablecloth Band. Ticketing runs from General Admission up through Biergarten Chic, Rustic Comfort, and Luxury table tiers, so this is a fundraiser format rather than a drop-in street festival. No refunds.",
+      "locationName": "Pioneer Park",
+      "address": "1521 Washington Place, San Diego, CA 92103",
+      "lat": 32.749058,
+      "lng": -117.1775418,
+      "category": "food",
+      "start": "2026-09-18T16:00",
+      "end": "2026-09-18T20:00",
+      "url": "https://www.eventbrite.com/e/1991881112026"
+    },
+    {
+      "kind": "activity",
+      "slug": "birth-partner-coaching-a-birth-rehearsal-workshop-2026-09-27",
+      "title": "Birth Partner Coaching: A Birth Rehearsal Workshop",
+      "description": "A four-hour workshop at Radiance Yoga on West Lewis for expecting couples. Where most childbirth classes teach what happens during labor, this one has partners practice what to do: how to move, breathe, and work through birth together. Run by Nirvana.",
+      "locationName": "Radiance Yoga Center Inc",
+      "address": "1612 West Lewis Street, San Diego, CA 92103",
+      "lat": 32.7520167,
+      "lng": -117.1780045,
+      "category": "wellness",
+      "start": "2026-09-27T11:00",
+      "end": "2026-09-27T15:00",
+      "url": "https://www.eventbrite.com/e/1998491011413"
+    },
+    {
+      "kind": "activity",
+      "slug": "intelligent-singles-mixer-on-rooftop-in-san-diego-2026-09-30",
+      "title": "Intelligent Singles Mixer on Rooftop in San Diego",
+      "description": "Meet San Diego singles for a fun night out where rooftop views make conversation easy.",
+      "locationName": "Communion Mission Hills",
+      "address": "901 West Washington Street #Suite 801, San Diego, CA 92103",
+      "lat": 32.7496673,
+      "lng": -117.1715788,
+      "category": "dating",
+      "start": "2026-09-30T19:00",
+      "end": "2026-09-30T22:00",
+      "url": "https://www.eventbrite.com/e/1999093326955"
+    },
+    {
+      "kind": "activity",
+      "slug": "300-hour-yoga-teacher-training-2026-10-02",
+      "title": "300 Hour Yoga Teacher Training",
+      "description": "Advanced teacher training at Yoga One on Fort Stockton, open to people who already hold a 200-hour yoga teaching certificate. Taught by their in-house team. This is a certification program rather than a drop-in class, so the Eventbrite date is the start of a longer commitment.",
+      "locationName": "Yoga One",
+      "address": "1920 Fort Stockton Drive, San Diego, CA 92103",
+      "lat": 32.7529676,
+      "lng": -117.1831035,
+      "category": "wellness",
+      "start": "2026-10-02T12:00",
+      "end": "2026-10-02T18:00",
+      "url": "https://www.eventbrite.com/e/1993044656218"
+    },
+    {
+      "kind": "activity",
+      "slug": "mhtc-town-hall-2026-10-08",
+      "title": "Mission Hills Town Council - Town Hall Meeting",
+      "description": "Open town hall run by the Mission Hills Town Council. Larger and more public-facing than the monthly trustees meetings, held at Francis Parker Lower School rather than the usual venue. This is where neighborhood issues get raised directly with the council. Guests are welcome; you do not need to be a member to attend. MHTC standing committees cover Membership and Publicity, Finance, Elections and Bylaws, and the Washington Street Maintenance Assessment District, with special committees for Beautification, Events, and Safety.",
+      "locationName": "Francis Parker Lower School",
+      "address": "4201 Randolph St, San Diego, CA 92103",
+      "lat": 32.7478,
+      "lng": -117.1668,
+      "category": "community",
+      "start": "2026-10-08T18:00",
+      "end": "2026-10-08T20:00",
+      "url": "https://www.missionhillstowncouncil.org/what-we-do/events/mhtc-meetings/"
+    },
+    {
+      "kind": "activity",
+      "slug": "tantra-date-night-for-couples-2026-10-09",
+      "title": "Tantra Date Night for Couples",
+      "description": "A guided evening workshop for couples at Radiance Yoga on West Lewis, run by The Heart Centered Being. Part of an ongoing San Diego series. Ticketed, partner required.",
+      "locationName": "Radiance Yoga",
+      "address": "1612 W Lewis St, San Diego, CA 92103",
+      "lat": 32.7520396,
+      "lng": -117.1779826,
+      "category": "dating",
+      "start": "2026-10-09T18:30",
+      "end": "2026-10-09T22:00",
+      "url": "https://www.eventbrite.com/e/1987766537222"
+    },
+    {
+      "kind": "activity",
+      "slug": "speed-dating-beyond-small-talk-tantra-speed-date-2026-10-11",
+      "title": "Speed Dating Beyond Small Talk - Tantra Speed Date",
+      "description": "An experiment in chemistry and connection beyond small talk. More than speed dating.",
+      "locationName": "Radiance Yoga",
+      "address": "1612 W Lewis St, San Diego, CA 92103",
+      "lat": 32.7520396,
+      "lng": -117.1779826,
+      "category": "dating",
+      "start": "2026-10-11T17:30",
+      "end": "2026-10-11T20:30",
+      "url": "https://www.eventbrite.com/e/1998407691200"
+    },
+    {
+      "kind": "activity",
+      "slug": "san-diego-halloween-film-festival-2026-10-31",
+      "title": "San Diego Halloween Film Festival",
+      "description": "Halloween night at Cinema Under the Stars on Goldfinch, Mission Hills' outdoor screening venue. A catered costume party built around a curated lineup of independent horror shorts and features from local and national filmmakers. There is a Crimson Carpet on the way in and candlelight seating under the open sky. Presented by San Diego Citizens. One night only.",
+      "locationName": "Cinema Under The Stars",
+      "address": "4040 Goldfinch Street, San Diego, CA 92103",
+      "lat": 32.7505964,
+      "lng": -117.1716797,
+      "category": "arts",
+      "start": "2026-10-31T19:00",
+      "end": "2026-10-31T23:59",
+      "url": "https://www.eventbrite.com/e/1992860742126"
+    },
+    {
+      "kind": "activity",
+      "slug": "breath-embodiment-a-somatic-reset-2026-11-05",
+      "title": "Breath & Embodiment: A Somatic Reset",
+      "description": "A somatic reset through breathwork, music and movement. Release tension, clear emotion, return to center.",
+      "locationName": "Radiance Yoga Center",
+      "address": "1612 West Lewis Street, San Diego, CA 92103",
+      "lat": 32.7520396,
+      "lng": -117.1779826,
+      "category": "wellness",
+      "start": "2026-11-05T18:30",
+      "end": "2026-11-05T20:00",
+      "url": "https://www.eventbrite.com/e/2000057262111"
+    },
+    {
+      "kind": "activity",
+      "slug": "mhtc-board-meeting-2026-11-12",
+      "seriesId": "mhtc-board-meeting",
+      "title": "Mission Hills Town Council - Board of Trustees Meeting",
+      "description": "Monthly Board of Trustees meeting for the Mission Hills Town Council, held on the second Thursday at Safdie Rabines Architects. Guests are welcome. This is where the council works through neighborhood projects, city requests, and committee business. If you want to know what is actually happening in Mission Hills before it is announced, this is the room.",
+      "locationName": "Safdie Rabines Architects",
+      "address": "925 Fort Stockton Dr, San Diego, CA 92103",
+      "lat": 32.7475,
+      "lng": -117.174,
+      "category": "community",
+      "start": "2026-11-12T18:00",
+      "end": "2026-11-12T20:00",
+      "url": "https://www.missionhillstowncouncil.org/what-we-do/events/mhtc-meetings/"
+    },
+    {
+      "kind": "activity",
+      "slug": "mission-hills-small-business-saturday-2026-11-28",
+      "title": "Shop Small in Mission Hills - Small Business Saturday",
+      "description": "Mission Hills businesses along Washington St, Goldfinch St, and India St participate in Small Business Saturday, the kickoff to holiday shopping at independent shops. The BID promotes it every year as a neighborhood-wide push rather than a single-venue event. Roughly two thirds of every dollar spent at a small business stays in the local community. Follow @missionhillssd on Instagram for the day's special offers, which the BID posts rather than listing on their site.",
+      "locationName": "Mission Hills business district",
+      "address": "W Washington St and Goldfinch St, San Diego, CA 92103",
+      "lat": 32.7486,
+      "lng": -117.1723,
+      "category": "community",
+      "start": "2026-11-28T10:00",
+      "end": "2026-11-28T18:00",
+      "url": "https://missionhillsbid.com/events-happenings-in-the-hills/"
+    },
+    {
+      "kind": "activity",
+      "slug": "warren-miller-ski-night-2026-2026-12-04",
+      "title": "Warren Miller Ski Night 2026",
+      "description": "3rd annual Warren Miller ski night at Cinema Under the Stars, sponsored by EXCELSA. Details to come.",
+      "locationName": "Cinema Under The Stars",
+      "address": "4040 Goldfinch Street, San Diego, CA 92103",
+      "lat": 32.7505964,
+      "lng": -117.1716797,
+      "category": "arts",
+      "start": "2026-12-04T19:00",
+      "end": "2026-12-04T22:00",
+      "url": "https://www.eventbrite.com/e/1998467017647"
+    },
+    {
+      "kind": "activity",
+      "slug": "mhtc-board-meeting-2026-12-10",
+      "seriesId": "mhtc-board-meeting",
+      "title": "Mission Hills Town Council - Board of Trustees Meeting",
+      "description": "Monthly Board of Trustees meeting for the Mission Hills Town Council, held on the second Thursday at Safdie Rabines Architects. Guests are welcome. This is where the council works through neighborhood projects, city requests, and committee business. If you want to know what is actually happening in Mission Hills before it is announced, this is the room.",
+      "locationName": "Safdie Rabines Architects",
+      "address": "925 Fort Stockton Dr, San Diego, CA 92103",
+      "lat": 32.7475,
+      "lng": -117.174,
+      "category": "community",
+      "start": "2026-12-10T18:00",
+      "end": "2026-12-10T20:00",
+      "url": "https://www.missionhillstowncouncil.org/what-we-do/events/mhtc-meetings/"
+    },
+    {
+      "kind": "activity",
+      "slug": "tantra-speed-date-san-diego-2026-12-20",
+      "title": "Tantra Speed Date - San Diego",
+      "description": "Join the speed dating revolution with a 94% connection rate. Meet singles and ignite sparks.",
+      "locationName": "Radiance Yoga",
+      "address": "1612 W Lewis St, San Diego, CA 92103",
+      "lat": 32.7520396,
+      "lng": -117.1779826,
+      "category": "dating",
+      "start": "2026-12-20T17:30",
+      "end": "2026-12-20T20:30",
+      "url": "https://www.eventbrite.com/e/1979039086181"
+    },
+    {
+      "kind": "activity",
+      "slug": "speed-dating-beyond-small-talk-valentines-2027-02-14",
+      "title": "Speed Dating Beyond Small Talk - Valentines",
+      "description": "An experiment in chemistry and connection beyond small talk. More than speed dating.",
+      "locationName": "Radiance Yoga",
+      "address": "1612 W Lewis St, San Diego, CA 92103",
+      "lat": 32.7520396,
+      "lng": -117.1779826,
+      "category": "dating",
+      "start": "2027-02-14T12:00",
+      "end": "2027-02-14T15:00",
+      "url": "https://www.eventbrite.com/e/1997830597096"
+    },
+    {
+      "kind": "recurring",
+      "slug": "communion-sunday-brunch",
+      "seriesId": "communion-sunday-brunch",
+      "title": "Sunday Rooftop Brunch",
+      "description": "Sunday brunch 10am to 2pm on the rooftop with coastal skyline views.",
+      "locationName": "Communion",
+      "address": "901 W Washington St, San Diego, CA 92103",
+      "lat": 32.7497849,
+      "lng": -117.1714429,
+      "category": "Brunch",
+      "start": "2026-09-27T10:00:00",
+      "end": "2026-09-27T14:00:00",
+      "recurrence": {
+        "freq": "WEEKLY",
+        "interval": 1,
+        "byDay": [
+          "SU"
+        ],
+        "until": null
+      },
+      "url": "https://www.dinecommunionsd.com/",
+      "vendorSlug": "communion-mission-hills",
+      "_geocode": {
+        "source": "US Census geocoder (onelineaddress, Public_AR_Current)",
+        "census_crosscheck": null,
+        "verified_from_street_address": true,
+        "note": "Mission Hills venues have no Gaslamp-Quarter-style association listing, so there is no Google Places cross-check. Census interpolates along the street, so pins can sit 10-30m off the entrance."
+      }
+    },
+    {
+      "kind": "event",
+      "slug": "communion-drag-bingo-brunch",
+      "seriesId": "communion-drag-bingo-brunch",
+      "title": "Drag Bingo Brunch",
+      "description": "Drag bingo brunch hosted by Mariam T on select Sundays. Ticketed through OpenTable, limited spots. Runs occasionally; confirm the next date.",
+      "locationName": "Communion",
+      "address": "901 W Washington St, San Diego, CA 92103",
+      "lat": 32.7497849,
+      "lng": -117.1714429,
+      "category": "Brunch",
+      "start": "2026-09-27T10:00:00",
+      "end": "2026-09-27T14:00:00",
+      "recurrence": null,
+      "url": "https://www.instagram.com/dinecommunion/",
+      "vendorSlug": "communion-mission-hills",
+      "_geocode": {
+        "source": "US Census geocoder (onelineaddress, Public_AR_Current)",
+        "census_crosscheck": null,
+        "verified_from_street_address": true,
+        "note": "Mission Hills venues have no Gaslamp-Quarter-style association listing, so there is no Google Places cross-check. Census interpolates along the street, so pins can sit 10-30m off the entrance."
+      },
+      "_source": "Instagram (via VidIQ), Sept 2026"
+    },
+    {
+      "kind": "recurring",
+      "slug": "la-puerta-mh-taco-tuesday",
+      "seriesId": "la-puerta-mh-taco-tuesday",
+      "title": "Taco Tuesday",
+      "description": "Taco Tuesday at the Mission Hills location of the Gaslamp original. Pricing is not published on the venue's own site.",
+      "locationName": "La Puerta Mission Hills",
+      "address": "4020 Goldfinch St, San Diego, CA 92103",
+      "lat": 32.7503528,
+      "lng": -117.1714516,
+      "category": "Food Special",
+      "start": "2026-09-29T11:00:00",
+      "end": "2026-09-29T22:00:00",
+      "recurrence": {
+        "freq": "WEEKLY",
+        "interval": 1,
+        "byDay": [
+          "TU"
+        ],
+        "until": null
+      },
+      "url": "https://lapuerta.gotoeat.net/",
+      "vendorSlug": "la-puerta-mission-hills",
+      "_geocode": {
+        "source": "US Census geocoder (onelineaddress, Public_AR_Current)",
+        "census_crosscheck": null,
+        "verified_from_street_address": true,
+        "note": "Mission Hills venues have no Gaslamp-Quarter-style association listing, so there is no Google Places cross-check. Census interpolates along the street, so pins can sit 10-30m off the entrance."
+      }
+    },
+    {
+      "kind": "recurring",
+      "slug": "shakespeare-quiz-thursday",
+      "seriesId": "shakespeare-quiz-thursday",
+      "title": "Pub Quiz Night",
+      "description": "Quiz night 7pm to 9pm, teams of 1 to 6. $100 Shakespeare gift card for 1st, $75 for 2nd. Rotating themes: general knowledge, TV and film, sport, pop culture, literature. Packed by 6pm, add your name to the wait-list on arrival.",
+      "locationName": "Shakespeare Pub & Grille",
+      "address": "3701 India St, San Diego, CA 92103",
+      "lat": 32.7424626,
+      "lng": -117.1804581,
+      "category": "Trivia",
+      "start": "2026-09-24T19:00:00",
+      "end": "2026-09-24T21:00:00",
+      "recurrence": {
+        "freq": "WEEKLY",
+        "interval": 1,
+        "byDay": [
+          "TH"
+        ],
+        "until": null
+      },
+      "url": "https://www.shakespearepub.com/",
+      "vendorSlug": "shakespeare-pub-grille",
+      "_geocode": {
+        "source": "US Census geocoder (onelineaddress, Public_AR_Current)",
+        "census_crosscheck": null,
+        "verified_from_street_address": true,
+        "note": "Mission Hills venues have no Gaslamp-Quarter-style association listing, so there is no Google Places cross-check. Census interpolates along the street, so pins can sit 10-30m off the entrance."
+      }
+    },
+    {
+      "kind": "recurring",
+      "slug": "shakespeare-quiz-sunday",
+      "seriesId": "shakespeare-quiz-sunday",
+      "title": "Pub Quiz Night",
+      "description": "Quiz night 7pm to 9pm, teams of 1 to 6. $100 Shakespeare gift card for 1st, $75 for 2nd. A music quiz runs monthly on a Sunday.",
+      "locationName": "Shakespeare Pub & Grille",
+      "address": "3701 India St, San Diego, CA 92103",
+      "lat": 32.7424626,
+      "lng": -117.1804581,
+      "category": "Trivia",
+      "start": "2026-09-27T19:00:00",
+      "end": "2026-09-27T21:00:00",
+      "recurrence": {
+        "freq": "WEEKLY",
+        "interval": 1,
+        "byDay": [
+          "SU"
+        ],
+        "until": null
+      },
+      "url": "https://www.shakespearepub.com/",
+      "vendorSlug": "shakespeare-pub-grille",
+      "_geocode": {
+        "source": "US Census geocoder (onelineaddress, Public_AR_Current)",
+        "census_crosscheck": null,
+        "verified_from_street_address": true,
+        "note": "Mission Hills venues have no Gaslamp-Quarter-style association listing, so there is no Google Places cross-check. Census interpolates along the street, so pins can sit 10-30m off the entrance."
+      }
+    },
+    {
+      "kind": "recurring",
+      "slug": "shakespeare-burger-monday",
+      "seriesId": "shakespeare-burger-monday",
+      "title": "Burger Me Monday",
+      "description": "Monday burger special.",
+      "locationName": "Shakespeare Pub & Grille",
+      "address": "3701 India St, San Diego, CA 92103",
+      "lat": 32.7424626,
+      "lng": -117.1804581,
+      "category": "Food Special",
+      "start": "2026-09-28T11:00:00",
+      "end": "2026-09-28T21:00:00",
+      "recurrence": {
+        "freq": "WEEKLY",
+        "interval": 1,
+        "byDay": [
+          "MO"
+        ],
+        "until": null
+      },
+      "url": "https://www.shakespearepub.com/",
+      "vendorSlug": "shakespeare-pub-grille",
+      "_geocode": {
+        "source": "US Census geocoder (onelineaddress, Public_AR_Current)",
+        "census_crosscheck": null,
+        "verified_from_street_address": true,
+        "note": "Mission Hills venues have no Gaslamp-Quarter-style association listing, so there is no Google Places cross-check. Census interpolates along the street, so pins can sit 10-30m off the entrance."
+      }
+    },
+    {
+      "kind": "recurring",
+      "slug": "shakespeare-stew-tuesday",
+      "seriesId": "shakespeare-stew-tuesday",
+      "title": "Guinness Beef Stew Tuesday",
+      "description": "Tuesday Guinness beef stew special.",
+      "locationName": "Shakespeare Pub & Grille",
+      "address": "3701 India St, San Diego, CA 92103",
+      "lat": 32.7424626,
+      "lng": -117.1804581,
+      "category": "Food Special",
+      "start": "2026-09-29T11:00:00",
+      "end": "2026-09-29T21:00:00",
+      "recurrence": {
+        "freq": "WEEKLY",
+        "interval": 1,
+        "byDay": [
+          "TU"
+        ],
+        "until": null
+      },
+      "url": "https://www.shakespearepub.com/",
+      "vendorSlug": "shakespeare-pub-grille",
+      "_geocode": {
+        "source": "US Census geocoder (onelineaddress, Public_AR_Current)",
+        "census_crosscheck": null,
+        "verified_from_street_address": true,
+        "note": "Mission Hills venues have no Gaslamp-Quarter-style association listing, so there is no Google Places cross-check. Census interpolates along the street, so pins can sit 10-30m off the entrance."
+      }
+    },
+    {
+      "kind": "recurring",
+      "slug": "shakespeare-wine-wednesday",
+      "seriesId": "shakespeare-wine-wednesday",
+      "title": "Wine Wednesday",
+      "description": "Wednesday wine special alongside happy hour.",
+      "locationName": "Shakespeare Pub & Grille",
+      "address": "3701 India St, San Diego, CA 92103",
+      "lat": 32.7424626,
+      "lng": -117.1804581,
+      "category": "Drink Special",
+      "start": "2026-09-30T11:00:00",
+      "end": "2026-09-30T21:00:00",
+      "recurrence": {
+        "freq": "WEEKLY",
+        "interval": 1,
+        "byDay": [
+          "WE"
+        ],
+        "until": null
+      },
+      "url": "https://www.shakespearepub.com/",
+      "vendorSlug": "shakespeare-pub-grille",
+      "_geocode": {
+        "source": "US Census geocoder (onelineaddress, Public_AR_Current)",
+        "census_crosscheck": null,
+        "verified_from_street_address": true,
+        "note": "Mission Hills venues have no Gaslamp-Quarter-style association listing, so there is no Google Places cross-check. Census interpolates along the street, so pins can sit 10-30m off the entrance."
+      }
+    },
+    {
+      "kind": "recurring",
+      "slug": "shakespeare-tikka-thursday",
+      "seriesId": "shakespeare-tikka-thursday",
+      "title": "Tikka Thursday",
+      "description": "Thursday chicken tikka special.",
+      "locationName": "Shakespeare Pub & Grille",
+      "address": "3701 India St, San Diego, CA 92103",
+      "lat": 32.7424626,
+      "lng": -117.1804581,
+      "category": "Food Special",
+      "start": "2026-09-24T11:00:00",
+      "end": "2026-09-24T21:00:00",
+      "recurrence": {
+        "freq": "WEEKLY",
+        "interval": 1,
+        "byDay": [
+          "TH"
+        ],
+        "until": null
+      },
+      "url": "https://www.shakespearepub.com/",
+      "vendorSlug": "shakespeare-pub-grille",
+      "_geocode": {
+        "source": "US Census geocoder (onelineaddress, Public_AR_Current)",
+        "census_crosscheck": null,
+        "verified_from_street_address": true,
+        "note": "Mission Hills venues have no Gaslamp-Quarter-style association listing, so there is no Google Places cross-check. Census interpolates along the street, so pins can sit 10-30m off the entrance."
+      }
+    },
+    {
+      "kind": "recurring",
+      "slug": "shakespeare-fish-friday",
+      "seriesId": "shakespeare-fish-friday",
+      "title": "Fish Friday Special",
+      "description": "Friday fish and chips special at the pub voted America's #1 sports bar by Yelp in 2026.",
+      "locationName": "Shakespeare Pub & Grille",
+      "address": "3701 India St, San Diego, CA 92103",
+      "lat": 32.7424626,
+      "lng": -117.1804581,
+      "category": "Food Special",
+      "start": "2026-09-25T11:00:00",
+      "end": "2026-09-25T21:00:00",
+      "recurrence": {
+        "freq": "WEEKLY",
+        "interval": 1,
+        "byDay": [
+          "FR"
+        ],
+        "until": null
+      },
+      "url": "https://www.shakespearepub.com/",
+      "vendorSlug": "shakespeare-pub-grille",
+      "_geocode": {
+        "source": "US Census geocoder (onelineaddress, Public_AR_Current)",
+        "census_crosscheck": null,
+        "verified_from_street_address": true,
+        "note": "Mission Hills venues have no Gaslamp-Quarter-style association listing, so there is no Google Places cross-check. Census interpolates along the street, so pins can sit 10-30m off the entrance."
+      }
+    },
+    {
+      "kind": "recurring",
+      "slug": "shakespeare-football-showings",
+      "seriesId": "shakespeare-football-showings",
+      "title": "Premier League & Champions League Showings",
+      "description": "Home of football in San Diego: Premier League and Champions League, plus rugby, NFL, MLB, NBA, Padres and Chargers. Opens early for European kickoffs.",
+      "locationName": "Shakespeare Pub & Grille",
+      "address": "3701 India St, San Diego, CA 92103",
+      "lat": 32.7424626,
+      "lng": -117.1804581,
+      "category": "Sports",
+      "start": "2026-09-26T08:00:00",
+      "end": "2026-09-26T14:00:00",
+      "recurrence": {
+        "freq": "WEEKLY",
+        "interval": 1,
+        "byDay": [
+          "SA",
+          "SU"
+        ],
+        "until": null
+      },
+      "url": "https://www.shakespearepub.com/",
+      "vendorSlug": "shakespeare-pub-grille",
+      "_geocode": {
+        "source": "US Census geocoder (onelineaddress, Public_AR_Current)",
+        "census_crosscheck": null,
+        "verified_from_street_address": true,
+        "note": "Mission Hills venues have no Gaslamp-Quarter-style association listing, so there is no Google Places cross-check. Census interpolates along the street, so pins can sit 10-30m off the entrance."
+      }
+    },
+    {
+      "kind": "event",
+      "slug": "taste-of-mission-hills-2026-10-14",
+      "seriesId": "taste-of-mission-hills-2026-10-14",
+      "title": "Taste of Mission Hills",
+      "description": "14th Annual Taste of Mission Hills, Wednesday 14 October 2026. Evening tasting event run by the Mission Hills BID across W Washington St, Reynard Way, W Lewis St, Goldfinch St, Ft. Stockton Dr and India St, with Old Town Trolley transport between stops. Start time, ticket price and the participating venue list were not yet announced at time of research; the 2025 edition ran 5pm-9pm at $45 advance / $50 day-of across 28 venues.",
+      "locationName": "Fort Oak",
+      "address": "1011 Fort Stockton Dr, San Diego, CA 92103",
+      "lat": 32.7508011,
+      "lng": -117.1724541,
+      "category": "Community",
+      "start": "2026-10-14T17:00:00",
+      "end": "2026-10-14T21:00:00",
+      "recurrence": null,
+      "url": "https://missionhillsbid.com/taste/",
+      "vendorSlug": "fort-oak",
+      "_geocode": {
+        "source": "US Census geocoder (onelineaddress, Public_AR_Current)",
+        "census_crosscheck": null,
+        "verified_from_street_address": true,
+        "note": "Mission Hills venues have no Gaslamp-Quarter-style association listing, so there is no Google Places cross-check. Census interpolates along the street, so pins can sit 10-30m off the entrance."
+      }
+    },
+    {
+      "kind": "recurring",
+      "slug": "aero-club-tequila-tuesday",
+      "seriesId": "aero-club-tequila-tuesday",
+      "title": "Tequila Tuesday",
+      "description": "Tequila pour and margarita specials all night. Pricing not published.",
+      "locationName": "Aero Club Bar",
+      "address": "3365 India St, San Diego, CA 92103",
+      "lat": 32.7379001,
+      "lng": -117.1764367,
+      "category": "Drink Special",
+      "start": "2026-09-29T14:00:00",
+      "end": "2026-09-30T02:00:00",
+      "recurrence": {
+        "freq": "WEEKLY",
+        "interval": 1,
+        "byDay": [
+          "TU"
+        ],
+        "until": null
+      },
+      "url": "https://aeroclubbar.com/",
+      "vendorSlug": "aero-club-bar",
+      "_geocode": {
+        "source": "US Census geocoder (onelineaddress, Public_AR_Current)",
+        "census_crosscheck": null,
+        "verified_from_street_address": true,
+        "note": "Mission Hills venues have no business-association listing, so there is no Google Places cross-check. Census interpolates along the street, so pins can sit 10-30m off the entrance."
+      }
+    },
+    {
+      "kind": "recurring",
+      "slug": "aero-club-whiskey-wednesday",
+      "seriesId": "aero-club-whiskey-wednesday",
+      "title": "Whiskey Wednesday",
+      "description": "Featured pours from a collection of over 1,200 bottles, all night. Pricing not published.",
+      "locationName": "Aero Club Bar",
+      "address": "3365 India St, San Diego, CA 92103",
+      "lat": 32.7379001,
+      "lng": -117.1764367,
+      "category": "Drink Special",
+      "start": "2026-09-30T14:00:00",
+      "end": "2026-10-01T02:00:00",
+      "recurrence": {
+        "freq": "WEEKLY",
+        "interval": 1,
+        "byDay": [
+          "WE"
+        ],
+        "until": null
+      },
+      "url": "https://aeroclubbar.com/",
+      "vendorSlug": "aero-club-bar",
+      "_geocode": {
+        "source": "US Census geocoder (onelineaddress, Public_AR_Current)",
+        "census_crosscheck": null,
+        "verified_from_street_address": true,
+        "note": "Mission Hills venues have no business-association listing, so there is no Google Places cross-check. Census interpolates along the street, so pins can sit 10-30m off the entrance."
+      }
+    },
+    {
+      "kind": "recurring",
+      "slug": "aero-club-eat-your-feelings",
+      "seriesId": "aero-club-eat-your-feelings",
+      "title": "Eat Your Feelings Kitchen",
+      "description": "Independent kitchen operating inside the bar: burgers Wednesday to Friday from 6pm, Saturday and Sunday from 5pm, tacos Tuesday from about 5pm. Closed Mondays.",
+      "locationName": "Aero Club Bar",
+      "address": "3365 India St, San Diego, CA 92103",
+      "lat": 32.7379001,
+      "lng": -117.1764367,
+      "category": "Food Special",
+      "start": "2026-09-23T18:00:00",
+      "end": "2026-09-23T23:00:00",
+      "recurrence": {
+        "freq": "WEEKLY",
+        "interval": 1,
+        "byDay": [
+          "TU",
+          "WE",
+          "TH",
+          "FR",
+          "SA",
+          "SU"
+        ],
+        "until": null
+      },
+      "url": "https://aeroclubbar.com/",
+      "vendorSlug": "aero-club-bar",
+      "_geocode": {
+        "source": "US Census geocoder (onelineaddress, Public_AR_Current)",
+        "census_crosscheck": null,
+        "verified_from_street_address": true,
+        "note": "Mission Hills venues have no business-association listing, so there is no Google Places cross-check. Census interpolates along the street, so pins can sit 10-30m off the entrance."
+      }
+    },
+    {
+      "kind": "event",
+      "slug": "aero-club-pinball-tournament",
+      "seriesId": "aero-club-pinball-tournament",
+      "title": "Dyno Bar Pinball Tournament",
+      "description": "Monthly pinball tournament in the Dyno Bar arcade room next door. The bar publishes no fixed date and points to Instagram; historically the second Tuesday, 6:30pm registration, $1 entry for unranked players and $6 otherwise. Confirm the date before publishing.",
+      "locationName": "Aero Club Bar",
+      "address": "3365 India St, San Diego, CA 92103",
+      "lat": 32.7379001,
+      "lng": -117.1764367,
+      "category": "Games",
+      "start": "2026-10-13T18:30:00",
+      "end": "2026-10-13T22:00:00",
+      "recurrence": null,
+      "url": "https://www.instagram.com/aeroclubsd/",
+      "vendorSlug": "aero-club-bar",
+      "_geocode": {
+        "source": "US Census geocoder (onelineaddress, Public_AR_Current)",
+        "census_crosscheck": null,
+        "verified_from_street_address": true,
+        "note": "Mission Hills venues have no business-association listing, so there is no Google Places cross-check. Census interpolates along the street, so pins can sit 10-30m off the entrance."
+      }
+    },
+    {
+      "kind": "recurring",
+      "slug": "pizza-e-birra-trivia",
+      "seriesId": "pizza-e-birra-trivia",
+      "title": "Trivia Night",
+      "description": "Trivia starts 6pm Thursday, with happy hour drink pricing from 3pm to close.",
+      "locationName": "Pizza e Birra",
+      "address": "3625 India St Ste 101, San Diego, CA 92103",
+      "lat": 32.741094,
+      "lng": -117.1792342,
+      "category": "Trivia",
+      "start": "2026-09-24T18:00:00",
+      "end": "2026-09-24T21:00:00",
+      "recurrence": {
+        "freq": "WEEKLY",
+        "interval": 1,
+        "byDay": [
+          "TH"
+        ],
+        "until": null
+      },
+      "url": "https://pizzaebirrasandiego.com/",
+      "vendorSlug": "pizza-e-birra",
+      "_geocode": {
+        "source": "US Census geocoder (onelineaddress, Public_AR_Current)",
+        "census_crosscheck": null,
+        "verified_from_street_address": true,
+        "note": "Mission Hills venues have no business-association listing, so there is no Google Places cross-check. Census interpolates along the street, so pins can sit 10-30m off the entrance."
+      }
+    },
+    {
+      "kind": "recurring",
+      "slug": "pizza-e-birra-lunch-special",
+      "seriesId": "pizza-e-birra-lunch-special",
+      "title": "Daily Lunch Special",
+      "description": "Lunch specials 11am to 3:30pm every day, $15.50 plus tax.",
+      "locationName": "Pizza e Birra",
+      "address": "3625 India St Ste 101, San Diego, CA 92103",
+      "lat": 32.741094,
+      "lng": -117.1792342,
+      "category": "Food Special",
+      "start": "2026-09-23T11:00:00",
+      "end": "2026-09-23T15:30:00",
+      "recurrence": {
+        "freq": "WEEKLY",
+        "interval": 1,
+        "byDay": [
+          "MO",
+          "TU",
+          "WE",
+          "TH",
+          "FR",
+          "SA",
+          "SU"
+        ],
+        "until": null
+      },
+      "url": "https://pizzaebirrasandiego.com/",
+      "vendorSlug": "pizza-e-birra",
+      "_geocode": {
+        "source": "US Census geocoder (onelineaddress, Public_AR_Current)",
+        "census_crosscheck": null,
+        "verified_from_street_address": true,
+        "note": "Mission Hills venues have no business-association listing, so there is no Google Places cross-check. Census interpolates along the street, so pins can sit 10-30m off the entrance."
+      }
+    },
+    {
+      "kind": "event",
+      "slug": "pizza-e-birra-anniversary-2026",
+      "seriesId": "pizza-e-birra-anniversary-2026",
+      "title": "9th Anniversary Celebration",
+      "description": "Ninth birthday celebration with special deals. Deals and times not published.",
+      "locationName": "Pizza e Birra",
+      "address": "3625 India St Ste 101, San Diego, CA 92103",
+      "lat": 32.741094,
+      "lng": -117.1792342,
+      "category": "Community",
+      "start": "2026-10-01T11:00:00",
+      "end": "2026-10-01T21:00:00",
+      "recurrence": null,
+      "url": "https://pizzaebirrasandiego.com/",
+      "vendorSlug": "pizza-e-birra",
+      "_geocode": {
+        "source": "US Census geocoder (onelineaddress, Public_AR_Current)",
+        "census_crosscheck": null,
+        "verified_from_street_address": true,
+        "note": "Mission Hills venues have no business-association listing, so there is no Google Places cross-check. Census interpolates along the street, so pins can sit 10-30m off the entrance."
+      }
+    },
+    {
+      "kind": "recurring",
+      "slug": "lamplighter-karaoke-weeknights",
+      "seriesId": "lamplighter-karaoke-weeknights",
+      "title": "Karaoke",
+      "description": "Karaoke on the main stage, Sunday to Thursday 9pm to 2am. Cash only, ATMs on site.",
+      "locationName": "The Lamplighter",
+      "address": "817 W Washington St, San Diego, CA 92103",
+      "lat": 32.7497828,
+      "lng": -117.1706561,
+      "category": "Karaoke",
+      "start": "2026-09-23T21:00:00",
+      "end": "2026-09-24T02:00:00",
+      "recurrence": {
+        "freq": "WEEKLY",
+        "interval": 1,
+        "byDay": [
+          "SU",
+          "MO",
+          "TU",
+          "WE",
+          "TH"
+        ],
+        "until": null
+      },
+      "url": "https://www.thelamplightersd.com/",
+      "vendorSlug": "the-lamplighter",
+      "_geocode": {
+        "source": "US Census geocoder (onelineaddress, Public_AR_Current)",
+        "census_crosscheck": null,
+        "verified_from_street_address": true,
+        "note": "Mission Hills venues have no business-association listing, so there is no Google Places cross-check. Census interpolates along the street, so pins can sit 10-30m off the entrance."
+      }
+    },
+    {
+      "kind": "recurring",
+      "slug": "lamplighter-karaoke-weekend",
+      "seriesId": "lamplighter-karaoke-weekend",
+      "title": "Karaoke",
+      "description": "Karaoke on the main stage, Friday and Saturday 8pm to 2am. Cash only.",
+      "locationName": "The Lamplighter",
+      "address": "817 W Washington St, San Diego, CA 92103",
+      "lat": 32.7497828,
+      "lng": -117.1706561,
+      "category": "Karaoke",
+      "start": "2026-09-25T20:00:00",
+      "end": "2026-09-26T02:00:00",
+      "recurrence": {
+        "freq": "WEEKLY",
+        "interval": 1,
+        "byDay": [
+          "FR",
+          "SA"
+        ],
+        "until": null
+      },
+      "url": "https://www.thelamplightersd.com/",
+      "vendorSlug": "the-lamplighter",
+      "_geocode": {
+        "source": "US Census geocoder (onelineaddress, Public_AR_Current)",
+        "census_crosscheck": null,
+        "verified_from_street_address": true,
+        "note": "Mission Hills venues have no business-association listing, so there is no Google Places cross-check. Census interpolates along the street, so pins can sit 10-30m off the entrance."
+      }
+    },
+    {
+      "kind": "recurring",
+      "slug": "lamplighter-trivia",
+      "seriesId": "lamplighter-trivia",
+      "title": "Tuesday Night Trivia",
+      "description": "Trivia at 7pm, followed by karaoke at 9pm. Entry price and prizes not published.",
+      "locationName": "The Lamplighter",
+      "address": "817 W Washington St, San Diego, CA 92103",
+      "lat": 32.7497828,
+      "lng": -117.1706561,
+      "category": "Trivia",
+      "start": "2026-09-29T19:00:00",
+      "end": "2026-09-29T21:00:00",
+      "recurrence": {
+        "freq": "WEEKLY",
+        "interval": 1,
+        "byDay": [
+          "TU"
+        ],
+        "until": null
+      },
+      "url": "https://www.thelamplightersd.com/",
+      "vendorSlug": "the-lamplighter",
+      "_geocode": {
+        "source": "US Census geocoder (onelineaddress, Public_AR_Current)",
+        "census_crosscheck": null,
+        "verified_from_street_address": true,
+        "note": "Mission Hills venues have no business-association listing, so there is no Google Places cross-check. Census interpolates along the street, so pins can sit 10-30m off the entrance."
+      }
+    },
+    {
+      "kind": "recurring",
+      "slug": "lamplighter-bottle-service",
+      "seriesId": "lamplighter-bottle-service",
+      "title": "Bottle Service",
+      "description": "Reserved-table bottle service nightly 6pm to 2am. Spotlight table $250 minimum, Headliner table $500 minimum.",
+      "locationName": "The Lamplighter",
+      "address": "817 W Washington St, San Diego, CA 92103",
+      "lat": 32.7497828,
+      "lng": -117.1706561,
+      "category": "Nightlife",
+      "start": "2026-09-23T18:00:00",
+      "end": "2026-09-24T02:00:00",
+      "recurrence": {
+        "freq": "WEEKLY",
+        "interval": 1,
+        "byDay": [
+          "MO",
+          "TU",
+          "WE",
+          "TH",
+          "FR",
+          "SA",
+          "SU"
+        ],
+        "until": null
+      },
+      "url": "https://www.thelamplightersd.com/",
+      "vendorSlug": "the-lamplighter",
+      "_geocode": {
+        "source": "US Census geocoder (onelineaddress, Public_AR_Current)",
+        "census_crosscheck": null,
+        "verified_from_street_address": true,
+        "note": "Mission Hills venues have no business-association listing, so there is no Google Places cross-check. Census interpolates along the street, so pins can sit 10-30m off the entrance."
+      }
+    },
+    {
+      "kind": "recurring",
+      "slug": "nct-mainstage",
+      "seriesId": "nct-mainstage",
+      "title": "Mainstage Improv",
+      "description": "Fully unscripted improv from audience suggestions, about 100 minutes with an intermission. Friday and Saturday at 7:30pm. Ticket price not published on the venue's own page; a tourism listing gives a $20-$25 range.",
+      "locationName": "National Comedy Theatre",
+      "address": "3717 India St, San Diego, CA 92103",
+      "lat": 32.7425647,
+      "lng": -117.1805445,
+      "category": "Comedy",
+      "start": "2026-09-25T19:30:00",
+      "end": "2026-09-25T21:10:00",
+      "recurrence": {
+        "freq": "WEEKLY",
+        "interval": 1,
+        "byDay": [
+          "FR",
+          "SA"
+        ],
+        "until": null
+      },
+      "url": "https://nationalcomedy.com/",
+      "vendorSlug": "national-comedy-theatre",
+      "_geocode": {
+        "source": "US Census geocoder (onelineaddress, Public_AR_Current)",
+        "census_crosscheck": null,
+        "verified_from_street_address": true,
+        "note": "Mission Hills venues have no business-association listing, so there is no Google Places cross-check. Census interpolates along the street, so pins can sit 10-30m off the entrance."
+      }
+    },
+    {
+      "kind": "recurring",
+      "slug": "nct-sunday-company",
+      "seriesId": "nct-sunday-company",
+      "title": "Sunday Company",
+      "description": "Sunday improv show at 7:30pm, $18 per ticket.",
+      "locationName": "National Comedy Theatre",
+      "address": "3717 India St, San Diego, CA 92103",
+      "lat": 32.7425647,
+      "lng": -117.1805445,
+      "category": "Comedy",
+      "start": "2026-09-27T19:30:00",
+      "end": "2026-09-27T21:10:00",
+      "recurrence": {
+        "freq": "WEEKLY",
+        "interval": 1,
+        "byDay": [
+          "SU"
+        ],
+        "until": null
+      },
+      "url": "https://nationalcomedy.com/",
+      "vendorSlug": "national-comedy-theatre",
+      "_geocode": {
+        "source": "US Census geocoder (onelineaddress, Public_AR_Current)",
+        "census_crosscheck": null,
+        "verified_from_street_address": true,
+        "note": "Mission Hills venues have no business-association listing, so there is no Google Places cross-check. Census interpolates along the street, so pins can sit 10-30m off the entrance."
+      }
+    },
+    {
+      "kind": "event",
+      "slug": "nct-house-teams-2026-10-01",
+      "seriesId": "nct-house-teams-2026-10-01",
+      "title": "House Teams",
+      "description": "Advanced former students perform. First two Thursdays of each month, 7:30pm. Price not published.",
+      "locationName": "National Comedy Theatre",
+      "address": "3717 India St, San Diego, CA 92103",
+      "lat": 32.7425647,
+      "lng": -117.1805445,
+      "category": "Comedy",
+      "start": "2026-10-01T19:30:00",
+      "end": "2026-10-01T21:10:00",
+      "recurrence": null,
+      "url": "https://nationalcomedy.com/",
+      "vendorSlug": "national-comedy-theatre",
+      "_geocode": {
+        "source": "US Census geocoder (onelineaddress, Public_AR_Current)",
+        "census_crosscheck": null,
+        "verified_from_street_address": true,
+        "note": "Mission Hills venues have no business-association listing, so there is no Google Places cross-check. Census interpolates along the street, so pins can sit 10-30m off the entrance."
+      }
+    },
+    {
+      "kind": "event",
+      "slug": "nct-house-teams-2026-10-08",
+      "seriesId": "nct-house-teams-2026-10-08",
+      "title": "House Teams",
+      "description": "Advanced former students perform. First two Thursdays of each month, 7:30pm. Price not published.",
+      "locationName": "National Comedy Theatre",
+      "address": "3717 India St, San Diego, CA 92103",
+      "lat": 32.7425647,
+      "lng": -117.1805445,
+      "category": "Comedy",
+      "start": "2026-10-08T19:30:00",
+      "end": "2026-10-08T21:10:00",
+      "recurrence": null,
+      "url": "https://nationalcomedy.com/",
+      "vendorSlug": "national-comedy-theatre",
+      "_geocode": {
+        "source": "US Census geocoder (onelineaddress, Public_AR_Current)",
+        "census_crosscheck": null,
+        "verified_from_street_address": true,
+        "note": "Mission Hills venues have no business-association listing, so there is no Google Places cross-check. Census interpolates along the street, so pins can sit 10-30m off the entrance."
+      }
+    },
+    {
+      "kind": "event",
+      "slug": "nct-improvised-musical-2026-10-29",
+      "seriesId": "nct-improvised-musical-2026-10-29",
+      "title": "On the Spot: An Improvised Musical",
+      "description": "Fully improvised musical. Showtime and price not published; the venue notes these sell out.",
+      "locationName": "National Comedy Theatre",
+      "address": "3717 India St, San Diego, CA 92103",
+      "lat": 32.7425647,
+      "lng": -117.1805445,
+      "category": "Comedy",
+      "start": "2026-10-29T19:30:00",
+      "end": "2026-10-29T21:10:00",
+      "recurrence": null,
+      "url": "https://nationalcomedy.com/",
+      "vendorSlug": "national-comedy-theatre",
+      "_geocode": {
+        "source": "US Census geocoder (onelineaddress, Public_AR_Current)",
+        "census_crosscheck": null,
+        "verified_from_street_address": true,
+        "note": "Mission Hills venues have no business-association listing, so there is no Google Places cross-check. Census interpolates along the street, so pins can sit 10-30m off the entrance."
+      }
+    },
+    {
+      "kind": "event",
+      "slug": "wine-vault-daou-2026-10-03",
+      "seriesId": "wine-vault-daou-2026-10-03",
+      "title": "Daou Wine Dinner with Daniel Brunner",
+      "description": "Winemaker dinner, five to seven courses each paired with a different wine, hosted by the winemaker. Communal long tables, no course choices, 21+. Reception typically 5:15pm, dinner 6pm to 8:30pm. Recent comparable dinners ran $109.50-$119.50 per person plus tax and 20% gratuity; price for this date not yet posted.",
+      "locationName": "Wine Vault & Bistro",
+      "address": "3731 India St #A, San Diego, CA 92103",
+      "lat": 32.7426861,
+      "lng": -117.1806477,
+      "category": "Wine Dinner",
+      "start": "2026-10-03T17:15:00",
+      "end": "2026-10-03T20:30:00",
+      "recurrence": null,
+      "url": "https://winevaultbistro.com/",
+      "vendorSlug": "wine-vault-bistro",
+      "_geocode": {
+        "source": "US Census geocoder (onelineaddress, Public_AR_Current)",
+        "census_crosscheck": null,
+        "verified_from_street_address": true,
+        "note": "Mission Hills venues have no business-association listing, so there is no Google Places cross-check. Census interpolates along the street, so pins can sit 10-30m off the entrance."
+      }
+    },
+    {
+      "kind": "event",
+      "slug": "wine-vault-daou-2026-10-04",
+      "seriesId": "wine-vault-daou-2026-10-04",
+      "title": "Daou Wine Dinner with Daniel Brunner",
+      "description": "Second night of the Daou winemaker dinner. Reception typically 5:15pm, dinner 6pm to 8:30pm. Price not yet posted.",
+      "locationName": "Wine Vault & Bistro",
+      "address": "3731 India St #A, San Diego, CA 92103",
+      "lat": 32.7426861,
+      "lng": -117.1806477,
+      "category": "Wine Dinner",
+      "start": "2026-10-04T17:15:00",
+      "end": "2026-10-04T20:30:00",
+      "recurrence": null,
+      "url": "https://winevaultbistro.com/",
+      "vendorSlug": "wine-vault-bistro",
+      "_geocode": {
+        "source": "US Census geocoder (onelineaddress, Public_AR_Current)",
+        "census_crosscheck": null,
+        "verified_from_street_address": true,
+        "note": "Mission Hills venues have no business-association listing, so there is no Google Places cross-check. Census interpolates along the street, so pins can sit 10-30m off the entrance."
+      }
+    },
+    {
+      "kind": "event",
+      "slug": "wine-vault-mauritson-2026-10-10",
+      "seriesId": "wine-vault-mauritson-2026-10-10",
+      "title": "Mauritson + Rockpile Wine Dinner with Clay Mauritson",
+      "description": "Winemaker dinner hosted by Clay Mauritson. Reception typically 5:15pm, dinner 6pm to 8:30pm. Price not yet posted.",
+      "locationName": "Wine Vault & Bistro",
+      "address": "3731 India St #A, San Diego, CA 92103",
+      "lat": 32.7426861,
+      "lng": -117.1806477,
+      "category": "Wine Dinner",
+      "start": "2026-10-10T17:15:00",
+      "end": "2026-10-10T20:30:00",
+      "recurrence": null,
+      "url": "https://winevaultbistro.com/",
+      "vendorSlug": "wine-vault-bistro",
+      "_geocode": {
+        "source": "US Census geocoder (onelineaddress, Public_AR_Current)",
+        "census_crosscheck": null,
+        "verified_from_street_address": true,
+        "note": "Mission Hills venues have no business-association listing, so there is no Google Places cross-check. Census interpolates along the street, so pins can sit 10-30m off the entrance."
+      }
+    },
+    {
+      "kind": "event",
+      "slug": "wine-vault-mauritson-2026-10-11",
+      "seriesId": "wine-vault-mauritson-2026-10-11",
+      "title": "Mauritson + Rockpile Wine Dinner with Clay Mauritson",
+      "description": "Second night. Reception typically 5:15pm, dinner 6pm to 8:30pm. Price not yet posted.",
+      "locationName": "Wine Vault & Bistro",
+      "address": "3731 India St #A, San Diego, CA 92103",
+      "lat": 32.7426861,
+      "lng": -117.1806477,
+      "category": "Wine Dinner",
+      "start": "2026-10-11T17:15:00",
+      "end": "2026-10-11T20:30:00",
+      "recurrence": null,
+      "url": "https://winevaultbistro.com/",
+      "vendorSlug": "wine-vault-bistro",
+      "_geocode": {
+        "source": "US Census geocoder (onelineaddress, Public_AR_Current)",
+        "census_crosscheck": null,
+        "verified_from_street_address": true,
+        "note": "Mission Hills venues have no business-association listing, so there is no Google Places cross-check. Census interpolates along the street, so pins can sit 10-30m off the entrance."
+      }
+    },
+    {
+      "kind": "event",
+      "slug": "wine-vault-daou-2026-10-24",
+      "seriesId": "wine-vault-daou-2026-10-24",
+      "title": "Daou Wine Dinner with Daniel Brunner",
+      "description": "Winemaker dinner. Reception typically 5:15pm, dinner 6pm to 8:30pm. Price not yet posted.",
+      "locationName": "Wine Vault & Bistro",
+      "address": "3731 India St #A, San Diego, CA 92103",
+      "lat": 32.7426861,
+      "lng": -117.1806477,
+      "category": "Wine Dinner",
+      "start": "2026-10-24T17:15:00",
+      "end": "2026-10-24T20:30:00",
+      "recurrence": null,
+      "url": "https://winevaultbistro.com/",
+      "vendorSlug": "wine-vault-bistro",
+      "_geocode": {
+        "source": "US Census geocoder (onelineaddress, Public_AR_Current)",
+        "census_crosscheck": null,
+        "verified_from_street_address": true,
+        "note": "Mission Hills venues have no business-association listing, so there is no Google Places cross-check. Census interpolates along the street, so pins can sit 10-30m off the entrance."
+      }
+    },
+    {
+      "kind": "recurring",
+      "slug": "wine-vault-chefs-tasting",
+      "seriesId": "wine-vault-chefs-tasting",
+      "title": "Chef's Tasting Menu",
+      "description": "On weekends without a winemaker dinner: a five-course chef's tasting with paired wines, no choices, menu changes almost daily. A recent six-course ran $89.50 per person plus tax and 20% gratuity.",
+      "locationName": "Wine Vault & Bistro",
+      "address": "3731 India St #A, San Diego, CA 92103",
+      "lat": 32.7426861,
+      "lng": -117.1806477,
+      "category": "Wine Dinner",
+      "start": "2026-09-26T17:30:00",
+      "end": "2026-09-26T20:30:00",
+      "recurrence": {
+        "freq": "WEEKLY",
+        "interval": 1,
+        "byDay": [
+          "TH",
+          "FR",
+          "SA"
+        ],
+        "until": null
+      },
+      "url": "https://winevaultbistro.com/",
+      "vendorSlug": "wine-vault-bistro",
+      "_geocode": {
+        "source": "US Census geocoder (onelineaddress, Public_AR_Current)",
+        "census_crosscheck": null,
+        "verified_from_street_address": true,
+        "note": "Mission Hills venues have no business-association listing, so there is no Google Places cross-check. Census interpolates along the street, so pins can sit 10-30m off the entrance."
+      }
+    },
+    {
+      "kind": "recurring",
+      "slug": "shakespeares-patio-tea",
+      "seriesId": "shakespeares-patio-tea",
+      "title": "Tea on the Patio",
+      "description": "Cups of tea on the patio all day, 10am to 5pm, open seating. Price not published. Note: the full afternoon tea service has moved to the Britannia Tearooms on Midway Drive, outside Mission Hills.",
+      "locationName": "Shakespeare's Corner Shoppe",
+      "address": "3719 India St, San Diego, CA 92103",
+      "lat": 32.742582,
+      "lng": -117.1805592,
+      "category": "Food Special",
+      "start": "2026-09-23T10:00:00",
+      "end": "2026-09-23T17:00:00",
+      "recurrence": {
+        "freq": "WEEKLY",
+        "interval": 1,
+        "byDay": [
+          "MO",
+          "TU",
+          "WE",
+          "TH",
+          "FR",
+          "SA",
+          "SU"
+        ],
+        "until": null
+      },
+      "url": "https://britishshoppesandiego.com/",
+      "vendorSlug": "shakespeares-corner-shoppe",
+      "_geocode": {
+        "source": "US Census geocoder (onelineaddress, Public_AR_Current)",
+        "census_crosscheck": null,
+        "verified_from_street_address": true,
+        "note": "Mission Hills venues have no business-association listing, so there is no Google Places cross-check. Census interpolates along the street, so pins can sit 10-30m off the entrance."
+      }
+    },
+    {
+      "kind": "recurring",
+      "slug": "cinema-under-stars-weekend-screenings",
+      "seriesId": "cinema-under-stars-weekend-screenings",
+      "title": "Weekend Screenings",
+      "description": "Open-air screenings Friday, Saturday and Sunday at 8pm, year round. A vintage cartoon precedes each feature. Box office opens 6pm. $17 members, $18 at the box office, $20 booking online.",
+      "locationName": "Cinema Under The Stars",
+      "address": "4040 Goldfinch St, San Diego, CA 92103",
+      "lat": 32.750805,
+      "lng": -117.1714583,
+      "category": "Film",
+      "start": "2026-09-25T20:00:00",
+      "end": "2026-09-25T22:30:00",
+      "recurrence": {
+        "freq": "WEEKLY",
+        "interval": 1,
+        "byDay": [
+          "FR",
+          "SA",
+          "SU"
+        ],
+        "until": null
+      },
+      "url": "https://topspresents.com/",
+      "vendorSlug": "cinema-under-the-stars",
+      "_geocode": {
+        "source": "US Census geocoder (onelineaddress, Public_AR_Current)",
+        "census_crosscheck": null,
+        "verified_from_street_address": true,
+        "note": "Mission Hills venues have no business-association listing, so there is no Google Places cross-check."
+      }
+    },
+    {
+      "kind": "event",
+      "slug": "cinema-under-stars-the-birds-2026-09-25",
+      "seriesId": "cinema-under-stars-the-birds-2026-09-25",
+      "title": "The Birds (1963)",
+      "description": "Hitchcock's The Birds, 119 minutes, screening Friday 25, Saturday 26 and Sunday 27 September at 8pm.",
+      "locationName": "Cinema Under The Stars",
+      "address": "4040 Goldfinch St, San Diego, CA 92103",
+      "lat": 32.750805,
+      "lng": -117.1714583,
+      "category": "Film",
+      "start": "2026-09-25T20:00:00",
+      "end": "2026-09-25T22:00:00",
+      "recurrence": null,
+      "url": "https://topspresents.com/",
+      "vendorSlug": "cinema-under-the-stars",
+      "_geocode": {
+        "source": "US Census geocoder (onelineaddress, Public_AR_Current)",
+        "census_crosscheck": null,
+        "verified_from_street_address": true,
+        "note": "Mission Hills venues have no business-association listing, so there is no Google Places cross-check."
+      }
+    },
+    {
+      "kind": "event",
+      "slug": "cinema-under-stars-beetlejuice-2026-10-02",
+      "seriesId": "cinema-under-stars-beetlejuice-2026-10-02",
+      "title": "Beetlejuice (1988)",
+      "description": "Beetlejuice, 92 minutes, screening Friday 2 and Sunday 4 October at 8pm. Saturday 3 October is a private rental with no public access.",
+      "locationName": "Cinema Under The Stars",
+      "address": "4040 Goldfinch St, San Diego, CA 92103",
+      "lat": 32.750805,
+      "lng": -117.1714583,
+      "category": "Film",
+      "start": "2026-10-02T20:00:00",
+      "end": "2026-10-02T21:45:00",
+      "recurrence": null,
+      "url": "https://topspresents.com/",
+      "vendorSlug": "cinema-under-the-stars",
+      "_geocode": {
+        "source": "US Census geocoder (onelineaddress, Public_AR_Current)",
+        "census_crosscheck": null,
+        "verified_from_street_address": true,
+        "note": "Mission Hills venues have no business-association listing, so there is no Google Places cross-check."
+      }
+    }
+  ],
+  "_out_of_area": {
+    "_why": "Listings that surfaced on Eventbrite's 'Mission Hills, San Diego' page but are NOT in Mission Hills. Recorded so they are not mistakenly re-added on a future scrape. Eventbrite's neighborhood pages are metro-wide, so every listing needs its street address checked against 92103 before it goes in items[].",
+    "9d-breathwork-mission-hills-venue": {
+      "title": "9D Breathwork San Diego",
+      "reason": "Venue is literally named 'Mission Hills Venue' but sits at 1919 San Diego Avenue, 92110, which is Old Town. The name is a trap. Sat Sep 19, 10:30-12:00. Belongs in an Old Town shell."
+    },
+    "wellness-market-eve-radd": {
+      "title": "Wellness Market San Diego",
+      "reason": "At EVE at RaDD Waterfront downtown, not Mission Hills. Sun Sep 13, 11:00-16:00. Would belong to a downtown or Embarcadero shell."
+    },
+    "eventbrite-metro-remainder": {
+      "title": "The other 958 Eventbrite listings",
+      "reason": "The full crawl of Eventbrite's Mission Hills pages returned 970 San Diego listings across 49 pages. After filtering to 92103 Mission Hills street addresses only 12 survived. The rest were bucketed by address into Gaslamp Quarter (159), Pacific Beach (59), La Jolla (47), North Park (35), Ocean Beach (23), Little Italy (20), El Cajon Boulevard (17), Hillcrest (15) and Old Town (12), with the remainder outside these districts or online-only. Those buckets are extracted and ready to become their own seed files."
+    }
+  }
+}

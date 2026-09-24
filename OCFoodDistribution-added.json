@@ -1,0 +1,468 @@
+{
+  "_meta": {
+    "topic": "OC food distributions — additions batch (CAP OC partners, city/org pages)",
+    "shellId": "6aac35296621e11030a0",
+    "source": "OCFreeFood-added-raw.json, deduped against raw+new by directional-agnostic address"
+  },
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "the-american-soldier-outreach-taso-food-sa-w-0800",
+      "seriesSlug": "the-american-soldier-outreach-taso",
+      "title": "The American Soldier Outreach (TASO) - Free Food Distribution",
+      "description": "Free groceries. Every Saturday, 8 AM to 12 PM. Site note: Food, clothing, shoes and home goods. Veteran-focused org, no stated restriction. Phone: (657) 744-0426.",
+      "locationName": "The American Soldier Outreach (TASO)",
+      "address": "1535 E Edinger Ave, Santa Ana, CA 92705",
+      "lat": 33.726886,
+      "lng": -117.849526,
+      "category": "food-assistance",
+      "start": "2026-09-19T08:00",
+      "end": "2026-09-19T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6",
+      "sourceOrg": "TASO website (CAP OC partner)",
+      "url": "https://theamericansoldieroutreach.org/",
+      "schedulePattern": ""
+    },
+    {
+      "kind": "activity",
+      "slug": "love-community-outreach-food-with-love-food-sa-w-1000",
+      "seriesSlug": "love-community-outreach-food-with-love",
+      "title": "Love Community Outreach (Food with Love) - Free Food Distribution",
+      "description": "Free groceries. Every Saturday, 10 AM to 2 PM. Site note: First come, first served. No documentation required. Phone: (714) 852-3738.",
+      "locationName": "Love Community Outreach (Food with Love)",
+      "address": "1920 W Chestnut Ave, Santa Ana, CA 92703",
+      "lat": 33.742765,
+      "lng": -117.895083,
+      "category": "food-assistance",
+      "start": "2026-09-19T10:00",
+      "end": "2026-09-19T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6",
+      "sourceOrg": "foodpantries.org (updated 2026-05-12)",
+      "url": "https://www.foodpantries.org/li/ca_92703_love-community-outreach",
+      "schedulePattern": ""
+    },
+    {
+      "kind": "activity",
+      "slug": "santa-ana-senior-center-seniormeal-mo-w-1130",
+      "seriesSlug": "santa-ana-senior-center",
+      "title": "Santa Ana Senior Center - Senior Lunch",
+      "description": "Hot lunch for older adults. Monday through Friday, 11:30 AM to 12 PM. Appointment or call-ahead required, see notes. Eligibility: adults 60+ ($3 suggested donation; guests under 60 pay $5). Site note: Registration required, can be done on site. Phone: (714) 647-6540. Appointment or call-ahead required.",
+      "locationName": "Santa Ana Senior Center",
+      "address": "424 W 3rd St, Santa Ana, CA 92701",
+      "lat": 33.747058,
+      "lng": -117.871286,
+      "category": "senior-meals",
+      "start": "2026-09-18T11:30",
+      "end": "2026-09-18T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5",
+      "sourceOrg": "Meals on Wheels OC Lunch Cafe",
+      "url": "https://www.mealsonwheelsoc.org/our-services/lunch-cafe/",
+      "schedulePattern": ""
+    },
+    {
+      "kind": "activity",
+      "slug": "southwest-senior-center-seniormeal-mo-w-1130",
+      "seriesSlug": "southwest-senior-center",
+      "title": "Southwest Senior Center - Senior Lunch",
+      "description": "Hot lunch for older adults. Monday through Friday, 11:30 AM to 12 PM. Appointment or call-ahead required, see notes. Eligibility: adults 60+ ($3 suggested donation; guests under 60 pay $5). Site note: Registration required. Phone: (714) 647-5306. Appointment or call-ahead required.",
+      "locationName": "Southwest Senior Center",
+      "address": "2201 W McFadden Ave, Santa Ana, CA 92704",
+      "lat": 33.734545,
+      "lng": -117.898189,
+      "category": "senior-meals",
+      "start": "2026-09-18T11:30",
+      "end": "2026-09-18T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5",
+      "sourceOrg": "Meals on Wheels OC Lunch Cafe",
+      "url": "https://www.mealsonwheelsoc.org/our-services/lunch-cafe/",
+      "schedulePattern": ""
+    },
+    {
+      "kind": "activity",
+      "slug": "new-hope-presbyterian-church-food-we-w-1100",
+      "seriesSlug": "new-hope-presbyterian-church",
+      "title": "New Hope Presbyterian Church - Free Food Distribution",
+      "description": "Free groceries. Every Wednesday, 11 AM to 1 PM. Site note: Food pantry and community garden program. Call ahead. Phone: (714) 288-9986.",
+      "locationName": "New Hope Presbyterian Church",
+      "address": "2580 W Orange Ave, Anaheim, CA 92804",
+      "lat": 33.824872,
+      "lng": -117.972253,
+      "category": "food-assistance",
+      "start": "2026-09-23T11:00",
+      "end": "2026-09-23T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3",
+      "sourceOrg": "New Hope Presbyterian website (CAP OC partner)",
+      "url": "https://mynewhopepres.org/ministries/",
+      "schedulePattern": ""
+    },
+    {
+      "kind": "activity",
+      "slug": "lambertian-ministry-center-5-bread-and-2-fish-food-pantry-food-fr-w-1000",
+      "seriesSlug": "lambertian-ministry-center-5-bread-and-2-fish-food-pantry",
+      "title": "Lambertian Ministry Center (5 Bread & 2 Fish Food Pantry) - Free Food Distribution",
+      "description": "Free groceries. Every Friday, 10 AM to 11:30 AM. Phone: (657) 231-0110.",
+      "locationName": "Lambertian Ministry Center (5 Bread & 2 Fish Food Pantry)",
+      "address": "12211 Magnolia St, Garden Grove, CA 92841",
+      "lat": 33.784975,
+      "lng": -117.975462,
+      "category": "food-assistance",
+      "start": "2026-09-18T10:00",
+      "end": "2026-09-18T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5",
+      "sourceOrg": "Lambertian Ministry Center website (CAP OC partner)",
+      "url": "https://www.lhcla.org/lhc-food-pantry",
+      "schedulePattern": ""
+    },
+    {
+      "kind": "activity",
+      "slug": "we-care-of-los-alamitos-food-mo-w-1330",
+      "seriesSlug": "we-care-of-los-alamitos",
+      "title": "We Care of Los Alamitos - Free Food Distribution",
+      "description": "Free groceries. Every Monday, 1:30 PM to 3:30 PM. Eligibility: serves NW Orange County (Los Alamitos, Seal Beach, Cypress, Rossmoor, Stanton, Fountain Valley, Huntington Beach). Site note: No appointment needed. Client-choice shopping. Phone: (562) 598-9790.",
+      "locationName": "We Care of Los Alamitos",
+      "address": "3788 Cerritos Ave #B, Los Alamitos, CA 90720",
+      "lat": 33.810305,
+      "lng": -118.066441,
+      "category": "food-assistance",
+      "start": "2026-09-21T13:30",
+      "end": "2026-09-21T15:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1",
+      "sourceOrg": "We Care website (CAP OC partner)",
+      "url": "https://wecareorangecounty.org/how-to-access-services/",
+      "schedulePattern": ""
+    },
+    {
+      "kind": "activity",
+      "slug": "we-care-of-los-alamitos-food-tu-w-0930",
+      "seriesSlug": "we-care-of-los-alamitos",
+      "title": "We Care of Los Alamitos - Free Food Distribution",
+      "description": "Free groceries. Every Tuesday, 9:30 AM to 12 PM. Eligibility: serves NW Orange County (Los Alamitos, Seal Beach, Cypress, Rossmoor, Stanton, Fountain Valley, Huntington Beach). Site note: No appointment needed. Client-choice shopping. Phone: (562) 598-9790.",
+      "locationName": "We Care of Los Alamitos",
+      "address": "3788 Cerritos Ave #B, Los Alamitos, CA 90720",
+      "lat": 33.810305,
+      "lng": -118.066441,
+      "category": "food-assistance",
+      "start": "2026-09-22T09:30",
+      "end": "2026-09-22T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2",
+      "sourceOrg": "We Care website (CAP OC partner)",
+      "url": "https://wecareorangecounty.org/how-to-access-services/",
+      "schedulePattern": ""
+    },
+    {
+      "kind": "activity",
+      "slug": "holy-cross-lutheran-church-food-tu-w-1000",
+      "seriesSlug": "holy-cross-lutheran-church",
+      "title": "Holy Cross Lutheran Church - Free Food Distribution",
+      "description": "Free groceries. Every Tuesday, 10 AM to 12 PM. Site note: Pick up in the parish hall through the big gate near the office. Phone: (714) 527-7225.",
+      "locationName": "Holy Cross Lutheran Church",
+      "address": "4321 Cerritos Ave, Cypress, CA 90630",
+      "lat": 33.81046,
+      "lng": -118.057586,
+      "category": "food-assistance",
+      "start": "2026-09-22T10:00",
+      "end": "2026-09-22T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2",
+      "sourceOrg": "foodpantries.org",
+      "url": "https://www.foodpantries.org/li/holy-cross-lutheran-food-pantry",
+      "schedulePattern": ""
+    },
+    {
+      "kind": "activity",
+      "slug": "city-of-irvine-free-grocery-food-box-box-th-2-0900",
+      "seriesSlug": "city-of-irvine-free-grocery-food-box",
+      "title": "City of Irvine Free Grocery Food Box - Free Grocery Box",
+      "description": "Free grocery box (TEFAP federal food); you may be asked for name, county, and household size. 2nd Thursday of the month, 9 AM to 12 PM. Eligibility: income-qualified (TEFAP self-certify). Site note: Drive-thru, about 30 lbs per household, first come first served. foodbox@cityofirvine.org Phone: (949) 724-6650.",
+      "locationName": "City of Irvine Free Grocery Food Box",
+      "address": "Great Park Parking Lot 2, 14280 Cadence, Irvine, CA 92618",
+      "lat": 33.676126,
+      "lng": -117.743727,
+      "category": "food-assistance",
+      "start": "2026-10-08T09:00",
+      "end": "2026-10-08T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "2:4",
+      "sourceOrg": "City of Irvine food pantries page",
+      "url": "https://cityofirvine.gov/food-pantries",
+      "schedulePattern": ""
+    },
+    {
+      "kind": "activity",
+      "slug": "mariners-church-irvine-food-tu-w-0930",
+      "seriesSlug": "mariners-church-irvine",
+      "title": "Mariners Church Irvine - Free Food Distribution",
+      "description": "Free groceries. Every Tuesday, 9:30 AM to 12:30 PM. Site note: Choice-based pantry at the Mariners Community Center. Phone: (949) 769-8131.",
+      "locationName": "Mariners Church Irvine",
+      "address": "5001 Newport Coast Dr, Irvine, CA 92603",
+      "lat": 33.63248,
+      "lng": -117.83121,
+      "category": "food-assistance",
+      "start": "2026-09-22T09:30",
+      "end": "2026-09-22T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2",
+      "sourceOrg": "Mariners Church website",
+      "url": "https://www.marinerschurch.org/food-pantry-thrift-store/",
+      "schedulePattern": ""
+    },
+    {
+      "kind": "activity",
+      "slug": "mariners-church-irvine-food-we-w-0930",
+      "seriesSlug": "mariners-church-irvine",
+      "title": "Mariners Church Irvine - Free Food Distribution",
+      "description": "Free groceries. Every Wednesday, 9:30 AM to 12:30 PM. Site note: Choice-based pantry at the Mariners Community Center. Phone: (949) 769-8131.",
+      "locationName": "Mariners Church Irvine",
+      "address": "5001 Newport Coast Dr, Irvine, CA 92603",
+      "lat": 33.63248,
+      "lng": -117.83121,
+      "category": "food-assistance",
+      "start": "2026-09-23T09:30",
+      "end": "2026-09-23T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3",
+      "sourceOrg": "Mariners Church website",
+      "url": "https://www.marinerschurch.org/food-pantry-thrift-store/",
+      "schedulePattern": ""
+    },
+    {
+      "kind": "activity",
+      "slug": "mariners-church-irvine-food-th-w-0930",
+      "seriesSlug": "mariners-church-irvine",
+      "title": "Mariners Church Irvine - Free Food Distribution",
+      "description": "Free groceries. Every Thursday, 9:30 AM to 12:30 PM. Site note: Choice-based pantry at the Mariners Community Center. Phone: (949) 769-8131.",
+      "locationName": "Mariners Church Irvine",
+      "address": "5001 Newport Coast Dr, Irvine, CA 92603",
+      "lat": 33.63248,
+      "lng": -117.83121,
+      "category": "food-assistance",
+      "start": "2026-09-24T09:30",
+      "end": "2026-09-24T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4",
+      "sourceOrg": "Mariners Church website",
+      "url": "https://www.marinerschurch.org/food-pantry-thrift-store/",
+      "schedulePattern": ""
+    },
+    {
+      "kind": "activity",
+      "slug": "mariners-church-irvine-food-fr-w-0930",
+      "seriesSlug": "mariners-church-irvine",
+      "title": "Mariners Church Irvine - Free Food Distribution",
+      "description": "Free groceries. Every Friday, 9:30 AM to 12:30 PM. Site note: Choice-based pantry at the Mariners Community Center. Phone: (949) 769-8131.",
+      "locationName": "Mariners Church Irvine",
+      "address": "5001 Newport Coast Dr, Irvine, CA 92603",
+      "lat": 33.63248,
+      "lng": -117.83121,
+      "category": "food-assistance",
+      "start": "2026-09-18T09:30",
+      "end": "2026-09-18T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5",
+      "sourceOrg": "Mariners Church website",
+      "url": "https://www.marinerschurch.org/food-pantry-thrift-store/",
+      "schedulePattern": ""
+    },
+    {
+      "kind": "activity",
+      "slug": "casa-de-oracion-house-of-prayer-food-sa-w-0900",
+      "seriesSlug": "casa-de-oracion-house-of-prayer",
+      "title": "Casa De Oracion (House of Prayer) - Free Food Distribution",
+      "description": "Free groceries. Every Saturday, 9 AM to 11 AM. Phone: (562) 232-6215.",
+      "locationName": "Casa De Oracion (House of Prayer)",
+      "address": "150 E 1st Ave, La Habra, CA 90631",
+      "lat": 33.930757,
+      "lng": -117.94546,
+      "category": "food-assistance",
+      "start": "2026-09-19T09:00",
+      "end": "2026-09-19T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6",
+      "sourceOrg": "City of La Habra food assistance page",
+      "url": "https://lahabraca.gov/951/Food-Assistance-for-Individuals-Families",
+      "schedulePattern": ""
+    },
+    {
+      "kind": "activity",
+      "slug": "la-habra-christian-church-food-sa-1-0900",
+      "seriesSlug": "la-habra-christian-church",
+      "title": "La Habra Christian Church - Free Food Distribution",
+      "description": "Free groceries. 1st Saturday of the month, 9 AM to 11 AM. Phone: (562) 691-0514.",
+      "locationName": "La Habra Christian Church",
+      "address": "1400 Bella Vista Dr, La Habra, CA 90631",
+      "lat": 33.950341,
+      "lng": -117.925141,
+      "category": "food-assistance",
+      "start": "2026-10-03T09:00",
+      "end": "2026-10-03T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "1:6",
+      "sourceOrg": "City of La Habra food assistance page",
+      "url": "https://lahabraca.gov/951/Food-Assistance-for-Individuals-Families",
+      "schedulePattern": ""
+    },
+    {
+      "kind": "activity",
+      "slug": "church-of-christ-la-habra-food-sa-4-0900",
+      "seriesSlug": "church-of-christ-la-habra",
+      "title": "Church of Christ La Habra - Free Food Distribution",
+      "description": "Free groceries. 4th Saturday of the month, 9 AM to 11 AM.",
+      "locationName": "Church of Christ La Habra",
+      "address": "1621 W Lambert Rd, La Habra, CA 90631",
+      "lat": 33.924652,
+      "lng": -117.963841,
+      "category": "food-assistance",
+      "start": "2026-09-26T09:00",
+      "end": "2026-09-26T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "4:6",
+      "sourceOrg": "City of La Habra food assistance page",
+      "url": "https://lahabraca.gov/951/Food-Assistance-for-Individuals-Families",
+      "schedulePattern": ""
+    },
+    {
+      "kind": "activity",
+      "slug": "vineyard-church-laguna-niguel-mercy-warehouse-food-mo-w-1600",
+      "seriesSlug": "vineyard-church-laguna-niguel-mercy-warehouse",
+      "title": "Vineyard Church Laguna Niguel - Mercy Warehouse - Free Food Distribution",
+      "description": "Free groceries. Every Monday, 4 PM to 5 PM. Site note: Arrive at the time slot to check in. Pre-packed week's-worth grocery boxes (milk, eggs, produce, meat, staples). Phone: (949) 425-3787.",
+      "locationName": "Vineyard Church Laguna Niguel - Mercy Warehouse",
+      "address": "27632 El Lazo, Laguna Niguel, CA 92677",
+      "lat": 33.562659,
+      "lng": -117.709631,
+      "category": "food-assistance",
+      "start": "2026-09-21T16:00",
+      "end": "2026-09-21T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1",
+      "sourceOrg": "Vineyard Laguna Niguel website",
+      "url": "https://www.vineyardln.com/mercy-warehouse",
+      "schedulePattern": ""
+    },
+    {
+      "kind": "activity",
+      "slug": "vineyard-church-laguna-niguel-mercy-warehouse-food-we-w-1200",
+      "seriesSlug": "vineyard-church-laguna-niguel-mercy-warehouse",
+      "title": "Vineyard Church Laguna Niguel - Mercy Warehouse - Free Food Distribution",
+      "description": "Free groceries. Every Wednesday, 12 PM to 1 PM. Site note: Arrive at the time slot to check in. Pre-packed week's-worth grocery boxes (milk, eggs, produce, meat, staples). Phone: (949) 425-3787.",
+      "locationName": "Vineyard Church Laguna Niguel - Mercy Warehouse",
+      "address": "27632 El Lazo, Laguna Niguel, CA 92677",
+      "lat": 33.562659,
+      "lng": -117.709631,
+      "category": "food-assistance",
+      "start": "2026-09-23T12:00",
+      "end": "2026-09-23T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3",
+      "sourceOrg": "Vineyard Laguna Niguel website",
+      "url": "https://www.vineyardln.com/mercy-warehouse",
+      "schedulePattern": ""
+    },
+    {
+      "kind": "activity",
+      "slug": "vineyard-church-laguna-niguel-mercy-warehouse-food-fr-w-1200",
+      "seriesSlug": "vineyard-church-laguna-niguel-mercy-warehouse",
+      "title": "Vineyard Church Laguna Niguel - Mercy Warehouse - Free Food Distribution",
+      "description": "Free groceries. Every Friday, 12 PM to 1 PM. Site note: Arrive at the time slot to check in. Pre-packed week's-worth grocery boxes (milk, eggs, produce, meat, staples). Phone: (949) 425-3787.",
+      "locationName": "Vineyard Church Laguna Niguel - Mercy Warehouse",
+      "address": "27632 El Lazo, Laguna Niguel, CA 92677",
+      "lat": 33.562659,
+      "lng": -117.709631,
+      "category": "food-assistance",
+      "start": "2026-09-18T12:00",
+      "end": "2026-09-18T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5",
+      "sourceOrg": "Vineyard Laguna Niguel website",
+      "url": "https://www.vineyardln.com/mercy-warehouse",
+      "schedulePattern": ""
+    },
+    {
+      "kind": "activity",
+      "slug": "the-neighborhood-feeding-program-food-mo-w-1200",
+      "seriesSlug": "the-neighborhood-feeding-program",
+      "title": "The Neighborhood Feeding Program - Free Food Distribution",
+      "description": "Free groceries. Every Monday, 12 PM to 3 PM. Site note: Weekly Monday distribution. Phone: (714) 496-4926.",
+      "locationName": "The Neighborhood Feeding Program",
+      "address": "6940 Knott Ave, Buena Park, CA 90621",
+      "lat": 33.860067,
+      "lng": -118.010714,
+      "category": "food-assistance",
+      "start": "2026-09-21T12:00",
+      "end": "2026-09-21T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1",
+      "sourceOrg": "Neighborhood Feeding Program website (CAP OC partner)",
+      "url": "https://theneighborhoodfeedingprogram.org/upcoming-events",
+      "schedulePattern": ""
+    }
+  ]
+}

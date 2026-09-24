@@ -1,0 +1,3074 @@
+{
+  "_comment": "Gaslamp vendor directory derived from GaslampActivities.json venues. Enrichment fields filled by research pass.",
+  "_shell": "GaslampActivities",
+  "_shellId": "6a966244cb2082796b17",
+  "_collection": "vendors",
+  "_source": "GaslampActivities.json (locationName grouping, variants merged)",
+  "_verify_before_running": "Confirm _shellId, verify enriched phone/hours/website/socials per vendor, drop _activityCategories/_eventCount before seeding.",
+  "_fields": "See BlackCommerceSD.json _fields.",
+  "vendors": [
+    {
+      "slug": "the-yellow-door",
+      "name": "The Yellow Door",
+      "category": "Comedy",
+      "tagline": "National Lampoon comedy club in the Gaslamp",
+      "description": "An intimate National Lampoon-branded comedy club in the Gaslamp Quarter with nightly stand-up shows, a full bar and food menu.",
+      "logoUrl": "",
+      "website": "https://nlyellowdoor.com/sandiego/",
+      "phone": "",
+      "email": "",
+      "instagram": "",
+      "facebook": "nlyellowdoor",
+      "tiktok": "",
+      "address": "750 Sixth Avenue 2nd Floor, San Diego, CA 92101",
+      "lat": 32.713299,
+      "lng": -117.159419,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Thu-Fri 5pm-12am, Sat 6pm-12am, closed Sun-Wed",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "National Lampoon's Yellow Door - Thursday",
+          "date": "2026-09-03",
+          "time": "20:00",
+          "description": "Thursday night comedy at the Yellow Door on Sixth. National Lampoon-branded room with local and touring acts. Smaller room than Laugh Factory, which means closer to the stage and a different vibe. Good option if you want standup without the weekend crowd."
+        },
+        {
+          "title": "National Lampoon's Yellow Door - Friday Night",
+          "date": "2026-09-04",
+          "time": "21:00",
+          "description": "Friday standup at the Yellow Door. The Friday show often runs later than Thursday. Check their site for current headliners and two-drink minimum policy."
+        },
+        {
+          "title": "National Lampoon's Yellow Door - Saturday Night",
+          "date": "2026-09-05",
+          "time": "21:00",
+          "description": "Saturday show at the Yellow Door. Often a different comic from Friday. Some Saturdays they run two shows back to back - confirm on the site before you go."
+        },
+        {
+          "title": "Hot Sets - Stand-up Comedy at National Lampoon: The Yellow Door",
+          "date": "2026-09-05",
+          "time": "19:00",
+          "description": "Hot Sets. Come feel the heat. Hot Sets is your go-to comedy showcase bringing high-energy comics, bold punchlines, and no-holding-back."
+        },
+        {
+          "title": "Last Laugh! Sunday Stand-up Comedy at National Lampoon: The Yellow Door",
+          "date": "2026-09-06",
+          "time": "19:00",
+          "description": "Last fun of the weekend is at The Yellow Door! Come laugh before the weekend ends. Secret drop-ins! Surprise guests!"
+        },
+        {
+          "title": "Open Mic Comedy at National Lampoon: The Yellow Door",
+          "date": "2026-09-09",
+          "time": "20:00",
+          "description": "Open Mic is for comics to test out new material. It's a training ground for all levels of comedians. Laugh at or with them."
+        },
+        {
+          "title": "Free Comedy Show Guest List (Limited)",
+          "date": "2026-09-10",
+          "time": "21:30",
+          "description": "Grab your spot on the guest list for a night full of laughs before seats run out!"
+        },
+        {
+          "title": "Local Laughs - Secret Lineup Stand-up Comedy Showcase",
+          "date": "2026-09-10",
+          "time": "21:30",
+          "description": "You never know who is dropping in! The best comedy show in San Diego is at The Yellow Door Comedy Club every Thursday night in Gaslamp!"
+        },
+        {
+          "title": "Ha Ha’s for Heroes Comedy Show",
+          "date": "2026-09-11",
+          "time": "21:30",
+          "description": "We’re bringing together military veterans and comedians for an evening that celebrates resilience."
+        },
+        {
+          "title": "Comedy Madness with Michael Quu: Stand-up Comedy at National Lampoon",
+          "date": "2026-09-15",
+          "time": "20:00",
+          "description": "A stand-up comedy showcase featuring a rotating lineup of the funniest comics!"
+        },
+        {
+          "title": "National Lampoon's Yellow Door - Special Friday Show",
+          "date": "2026-09-18",
+          "time": "20:00",
+          "description": "Featured standup night at the Yellow Door with a touring headliner. Larger ticket price than the regular Friday show. Check yellowdoorcomedy.com for the confirmed comedian - these shows typically book out faster than the weekly residency slots."
+        },
+        {
+          "title": "Sara Weinshenk: Live in San Diego",
+          "date": "2026-09-18",
+          "time": "19:00",
+          "description": "Come on out for an amazing night of stand-up comedy!"
+        },
+        {
+          "title": "Girl Talk with Paige Gallagher and Taylor P. Miller",
+          "date": "2026-09-18",
+          "time": "21:30",
+          "description": "Come on out for an amazing night of stand-up comedy!"
+        },
+        {
+          "title": "Luz Pazos: Live in San Diego",
+          "date": "2026-09-19",
+          "time": "19:00",
+          "description": "Luz Pazos is a Peruvian-born stand-up comedian and actress based in Los Angeles!"
+        },
+        {
+          "title": "Crack Em Up Comedy: Live in San Diego",
+          "date": "2026-09-19",
+          "time": "21:30",
+          "description": "Come on out for an amazing night of stand-up comedy!"
+        },
+        {
+          "title": "Blxck Out Comedy Show",
+          "date": "2026-09-20",
+          "time": "19:00",
+          "description": "Come to the inaugural Blxck Out Comedy Show at everyone's favorite Gaslamp comedy venue: the National Lampoon's the Yellow Door."
+        },
+        {
+          "title": "Gerald \"Slink\" Johnson : Live in San Diego",
+          "date": "2026-09-25",
+          "time": "19:00",
+          "description": "Come on out for an amazing night of stand-up comedy!"
+        },
+        {
+          "title": "Stood-Up Live! - A Blind Dating Experience",
+          "date": "2026-09-26",
+          "time": "19:00",
+          "description": "“Stood Up Live\" combines the dating game with the dynamic of YouTube's \"Kill Tony,\""
+        },
+        {
+          "title": "Michael Redd & Friends: Live in San Diego!",
+          "date": "2026-09-27",
+          "time": "19:00",
+          "description": "Come on out for an amazing night of stand-up comedy!"
+        },
+        {
+          "title": "Kim McVicar: Live in San Diego",
+          "date": "2026-10-02",
+          "time": "19:00",
+          "description": "High energy and fearless crowd work!"
+        },
+        {
+          "title": "Aaron Monte and Max Castillo: Live in San Diego",
+          "date": "2026-10-02",
+          "time": "21:30",
+          "description": "Stand-up. Comedy rap. Internet insanity. One very funny late show."
+        },
+        {
+          "title": "Bryson Banks: Live in San Diego",
+          "date": "2026-10-03",
+          "time": "19:00",
+          "description": "Rising stand-up star Bryson Banks brings his high-energy, crowd-driven comedy to San Diego for two shows in one night."
+        },
+        {
+          "title": "Your Disposable Friends Do Standup",
+          "date": "2026-10-09",
+          "time": "19:00",
+          "description": "Your Disposable Friends Do Standup brings the LA-based sketch group to San Diego for a one-night-only show packed with the same chaos"
+        },
+        {
+          "title": "BIG LAUGHS COMEDY FESTIVAL PRESENTS: PASS THE MIC",
+          "date": "2026-10-09",
+          "time": "21:30",
+          "description": "An amazing night of hilarious stand-up comedy!"
+        },
+        {
+          "title": "Natasha Collier + Noah Copfer: Live in San Diego",
+          "date": "2026-10-10",
+          "time": "19:00",
+          "description": "Come on out for an amazing night of stand-up comedy!"
+        },
+        {
+          "title": "RICH PEARSON PRESENTS: UNAPOLOGETIC & UNHINGED",
+          "date": "2026-10-15",
+          "time": "19:00",
+          "description": "High energy and fearless crowd work!"
+        },
+        {
+          "title": "MAX MEISEL: THE L.A. SOBER TOUR - LIVE IN SAN DIEGO",
+          "date": "2026-10-16",
+          "time": "19:00",
+          "description": "Max Meisel brings his L.A. Sober Tour to National Lampoon: The Yellow Door for one night of hilarious, high-energy stand-up in San Diego."
+        },
+        {
+          "title": "MICHAEL TURNER: LIVE IN SAN DIEGO",
+          "date": "2026-10-17",
+          "time": "19:00",
+          "description": "Kevin Hart’s Funny AF on Netflix • BET ComicView • Don’t Tell Comedy"
+        },
+        {
+          "title": "MC RAIDER: LIVE IN SAN DIEGO",
+          "date": "2026-10-23",
+          "time": "19:00",
+          "description": "Comedy. Cultura. Raider Nation."
+        },
+        {
+          "title": "Rocky Osborn: Live in San Diego",
+          "date": "2026-10-23",
+          "time": "21:30",
+          "description": "Rocky Osborn has been making audiences laugh for more than 35 years, bringing sharp wit, fearless honesty, and nonstop energy!"
+        },
+        {
+          "title": "Brian Monarch: Live in San Diego",
+          "date": "2026-10-24",
+          "time": "19:00",
+          "description": "Get ready for an evening of fearless, no-holds-barred stand-up with Brian Monarch, one of Los Angeles' most battle-tested comedians."
+        },
+        {
+          "title": "Cocky Rocky Comedy Show: Live in San Diego",
+          "date": "2026-11-11",
+          "time": "19:30",
+          "description": "A night of big personalities, sharp stand-up, and a stacked lineup of hilarious guest comics."
+        },
+        {
+          "title": "Matt Puzhitsky: Live in San Diego",
+          "date": "2027-01-21",
+          "time": "19:30",
+          "description": "Matt Puzhitsky is a rising star in comedy, blending sharp writing with the absurdity of immigrant life and Slavic culture."
+        }
+      ]
+    },
+    {
+      "slug": "toro",
+      "name": "TORO",
+      "category": "Nightclub",
+      "tagline": "Two-level nightclub and taco cantina on Fifth Ave",
+      "description": "A two-level bar/nightclub and gourmet taco cantina on Fifth Avenue playing Top 40 and Latin/reggaeton across multiple floors with live DJs.",
+      "logoUrl": "",
+      "website": "https://torosd.com/",
+      "phone": "(619) 922-4771",
+      "email": "",
+      "instagram": "@toronightclub",
+      "facebook": "torosandiego",
+      "tiktok": "@toronightclub",
+      "address": "672 Fifth Avenue, San Diego, CA 92101",
+      "lat": 32.712397,
+      "lng": -117.160424,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Thu 9pm-2am, Fri-Sat 6pm-2am, Sun 9pm-2am, closed Mon-Wed",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "No cover Fridays before 10:30pm",
+          "date": "2026-09-11",
+          "time": "20:00",
+          "description": "Show this at the door for free cover before 10:30pm TORO nightclub on Friday."
+        },
+        {
+          "title": "Fly Eagles Fly! Rams vs Eagles Watch Party",
+          "date": "2026-10-04",
+          "time": "10:00",
+          "description": "Get ready to cheer loud and proud with fellow Eagles fans as the Rams take on the Eagles in an epic watch party!"
+        },
+        {
+          "title": "Fly Eagles Fly! Jags vs Eagles Watch Party",
+          "date": "2026-10-11",
+          "time": "06:30",
+          "description": "Get ready to cheer loud and proud with fellow Eagles fans as the Jags take on the Eagles in an epic watch party!"
+        },
+        {
+          "title": "Fly Eagles Fly! Panthers vs Eagles Watch Party",
+          "date": "2026-10-18",
+          "time": "10:00",
+          "description": "Get ready to cheer loud and proud with fellow Eagles fans as the Titans take on the Eagles in an epic watch party!"
+        },
+        {
+          "title": "Pre-Halloween Bar Crawl - 5 Day Party Pass",
+          "date": "2026-10-23",
+          "time": "19:00",
+          "description": "Get ready to hit the town for five wild nights of drinks and spooky fun before Halloween!"
+        },
+        {
+          "title": "Bed By 10pm - San Diego",
+          "date": "2026-10-24",
+          "time": "16:00",
+          "description": "Bed By 10: The Ultimate 30+ Clubbing Experience!"
+        },
+        {
+          "title": "Monday Night Football Fly Eagles Fly! Cowboys vs Eagles Watch Party",
+          "date": "2026-10-26",
+          "time": "17:15",
+          "description": "Get ready to cheer loud and proud with fellow Eagles fans as the Cowboys take on the Eagles in an epic watch party!"
+        },
+        {
+          "title": "5 Day Halloween Bar Crawl",
+          "date": "2026-10-30",
+          "time": "19:00",
+          "description": "Get ready to hit up spooky spots and sip on creepy cocktails all week long!"
+        },
+        {
+          "title": "Fly Eagles Fly! Commanders vs Eagles Watch Party",
+          "date": "2026-11-01",
+          "time": "17:15",
+          "description": "Get ready to cheer loud and proud with fellow Eagles fans as the Commanders take on the Eagles in an epic watch party!"
+        },
+        {
+          "title": "Fly Eagles Fly! Giants vs Eagles Watch Party",
+          "date": "2026-11-08",
+          "time": "10:00",
+          "description": "Get ready to cheer loud and proud with fellow Eagles fans as the Giants take on the Eagles in an epic watch party!"
+        },
+        {
+          "title": "7th Annual TwitchCon Themed Bar Crawl",
+          "date": "2026-11-13",
+          "time": "20:00",
+          "description": "Unleash Your Inner Gamer at the Gaslamp San Diego Bar Crawl!"
+        },
+        {
+          "title": "Fly Eagles Fly! Steelers vs Eagles Watch Party",
+          "date": "2026-11-22",
+          "time": "13:25",
+          "description": "Get ready to cheer loud and proud with fellow Eagles fans as the Steelers take on the Eagles in an epic watch party!"
+        },
+        {
+          "title": "Thanksgiving Fly Eagles Fly! Cowboys vs Eagles Watch Party",
+          "date": "2026-11-26",
+          "time": "13:25",
+          "description": "Get ready to cheer loud and proud with fellow Eagles fans as the Cowboys take on the Eagles in an epic watch party!"
+        },
+        {
+          "title": "Fly Eagles Fly! Cowboys vs Eagles Watch Party",
+          "date": "2026-12-06",
+          "time": "13:00",
+          "description": "Get ready to cheer loud and proud with fellow Eagles fans as the Cardinals take on the Eagles in an epic watch party!"
+        },
+        {
+          "title": "Fly Eagles Fly! Colts vs Eagles Watch Party",
+          "date": "2026-12-13",
+          "time": "10:00",
+          "description": "Get ready to cheer loud and proud with fellow Eagles fans as the Colts take on the Eagles in an epic watch party!"
+        },
+        {
+          "title": "Fly Eagles Fly! Seahawks vs Eagles Watch Party",
+          "date": "2026-12-19",
+          "time": "14:00",
+          "description": "Get ready to cheer loud and proud with fellow Eagles fans as the Seahawks take on the Eagles in an epic watch party!"
+        },
+        {
+          "title": "Christmas Eve Fly Eagles Fly! Texans vs Eagles Watch Party",
+          "date": "2026-12-24",
+          "time": "17:00",
+          "description": "Get ready to cheer loud and proud with fellow Eagles fans as the Texans take on the Eagles in an epic watch party!"
+        },
+        {
+          "title": "NYE Countdown at TORO",
+          "date": "2026-12-31",
+          "time": "20:00",
+          "description": "New Year's Eve party at TORO with a midnight countdown, champagne toast, and DJ. Ticket includes entry and the midnight toast. TORO's Fifth Ave location puts you in the middle of the Gaslamp NYE crowd - ball drop on the screens, street energy outside. Book well in advance; this is their biggest ticketed event of the year."
+        },
+        {
+          "title": "Fly Eagles Fly! 49ers vs Eagles Watch Party",
+          "date": "2027-01-03",
+          "time": "17:00",
+          "description": "Get ready to cheer loud and proud with fellow Eagles fans as the 49ers take on the Eagles in an epic watch party!"
+        }
+      ]
+    },
+    {
+      "slug": "garage-kitchen-bar",
+      "name": "GARAGE Kitchen + Bar",
+      "category": "Bar",
+      "tagline": "Gaslamp sports bar with brunch and craft burgers",
+      "description": "A high-energy downtown sports bar known for happy hour, bottomless-mimosa brunch, big-screen game-day watch parties and craft burgers.",
+      "logoUrl": "",
+      "website": "https://garagekitchenbar.com/",
+      "phone": "(619) 231-6700",
+      "email": "",
+      "instagram": "@garagekitchenbar",
+      "facebook": "garagekitchenbar",
+      "tiktok": "",
+      "address": "655 Fourth Avenue, San Diego, CA 92101",
+      "lat": 32.712149,
+      "lng": -117.160904,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Tue-Thu 3pm-9pm, Fri-Sat 11am-11pm, Sun 11am-9pm, closed Mon",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "Strive Networking Happy Hour",
+          "date": "2026-09-09",
+          "time": "18:00",
+          "description": "Monthly networking happy hour hosted by Strive at GARAGE Kitchen + Bar. Mix of San Diego professionals - tech, real estate, and creative industries tend to show up. Free to attend. First round happy hour pricing at the bar."
+        },
+        {
+          "title": "Real Estate Investor Networking San Diego | Property Deal Network PDN",
+          "date": "2026-09-10",
+          "time": "19:00",
+          "description": "Free monthly real estate investor networking meetup in San Diego. Bring a deal, find capital, JV partners, agents, lenders, developers."
+        },
+        {
+          "title": "Acting, Production & Business Networking|Elevating YourPotential-San Diego",
+          "date": "2026-10-21",
+          "time": "18:00",
+          "description": "Strive welcomes you to 'Acting, Production, and Business Networking', an event for tenured and newcomers at Garage Bar! Event is 21+."
+        },
+        {
+          "title": "Blockchain and Business Networking | Elevating Your Potential - San Diego",
+          "date": "2026-10-21",
+          "time": "18:00",
+          "description": "Strive welcomes you to 'Blockchain and Business Networking', an event for tenured and newcomers at Garage Bar! Event is 21+. Limited Tickets"
+        },
+        {
+          "title": "Engineering and Business Networking | Elevating Your Potential - San Diego",
+          "date": "2026-10-21",
+          "time": "18:00",
+          "description": "Strive welcomes you to 'Engineering and Business Networking', an event for tenured and newcomers at Garage Bar! Event is 21+."
+        },
+        {
+          "title": "Fashion and Business Networking | Elevating Your Potential - San Diego",
+          "date": "2026-10-21",
+          "time": "18:00",
+          "description": "Strive welcomes you to 'Fashion and Business Networking', an event for tenured and newcomers at Garage Bar! Event is 21+. Limited Tickets."
+        },
+        {
+          "title": "Finance and Business Networking | Elevating Your Potential - San Diego",
+          "date": "2026-10-21",
+          "time": "18:00",
+          "description": "Strive welcomes you to 'Finance and Business Networking', an event for tenured and newcomers at Garage Bar! Event is 21+. Limited Tickets."
+        },
+        {
+          "title": "General Business Networking | Elevating Your Potential - San Diego",
+          "date": "2026-10-21",
+          "time": "18:00",
+          "description": "Strive welcomes you to 'General Business Networking', an event for tenured and newcomers at Garage Bar! Event is 21+. Limited Tickets."
+        },
+        {
+          "title": "Healthcare and Business Networking | Elevating Your Potential - San Diego",
+          "date": "2026-10-21",
+          "time": "18:00",
+          "description": "Strive welcomes you to 'Healthcare and Business Networking', an event for tenured and newcomers at Garage Bar! Event is 21+. Limited Tickets"
+        },
+        {
+          "title": "Hospitality and Business Networking | Elevating Your Potential - San Diego",
+          "date": "2026-10-21",
+          "time": "18:00",
+          "description": "Strive welcomes you to 'Hospitality and Business Networking', an event for tenured and newcomers at Garage Bar! Event is 21+."
+        },
+        {
+          "title": "Law and Business Networking | Elevating Your Potential - San Diego",
+          "date": "2026-10-21",
+          "time": "18:00",
+          "description": "Strive welcomes you to 'Law and Business Networking', an event for tenured and newcomers at Garage Bar! Event is 21+. Limited Tickets."
+        },
+        {
+          "title": "Media and Business Networking | Elevating Your Potential - San Diego",
+          "date": "2026-10-21",
+          "time": "18:00",
+          "description": "Strive welcomes you to 'Media and Business Networking', an event for tenured and newcomers at Garage Bar ! Event is 21+. Limited Tickets."
+        },
+        {
+          "title": "Multi-Vertical Business Networking | Elevating Your Potential - San Diego",
+          "date": "2026-10-21",
+          "time": "18:00",
+          "description": "Strive welcomes you to 'Multi-Vertical Business Networking', an event for tenured and newcomers at Garage Bar! Event is 21+. Limited Tickets"
+        },
+        {
+          "title": "Music and Business Networking | Elevating Your Potential - San Diego",
+          "date": "2026-10-21",
+          "time": "18:00",
+          "description": "Strive welcomes you to 'Music and Business Networking', an event for tenured and newcomers at Garage Bar! Event is 21+. Limited Tickets."
+        },
+        {
+          "title": "Non-Profits and Business Networking | Elevating Your Potential - San Diego",
+          "date": "2026-10-21",
+          "time": "18:00",
+          "description": "Strive welcomes you to 'Non-Profits and Business Networking', an event for tenured and newcomers at Garage Bar! Event is 21+."
+        },
+        {
+          "title": "Politics and Business Networking | Elevating Your Potential - San Diego",
+          "date": "2026-10-21",
+          "time": "18:00",
+          "description": "Strive welcomes you to 'Politics and Business Networking', an event for tenured and newcomers at Garage Bar! Event is 21+. Limited Tickets."
+        },
+        {
+          "title": "Real Estate and Business Networking | Elevating Your Potential - San Diego",
+          "date": "2026-10-21",
+          "time": "18:00",
+          "description": "Strive welcomes you to 'RE and Business Networking', an event for tenured and newcomers at Garage Bar! Event is 21+. Limited Tickets."
+        },
+        {
+          "title": "Tech and Business Networking | Elevating Your Potential - San Diego",
+          "date": "2026-10-21",
+          "time": "18:00",
+          "description": "Strive welcomes you to 'Tech and Business Networking', an event for tenured and newcomers at Garage Bar! Event is 21+. Limited Tickets."
+        }
+      ]
+    },
+    {
+      "slug": "good-night-john-boy",
+      "name": "Good Night John Boy",
+      "category": "Nightclub",
+      "tagline": "1970s disco bar and dance club in the Carriage Works",
+      "description": "An 11,000-sq-ft 1970s-themed disco bar and nightclub inside the historic Carriage Works building, spinning 70s/80s remixes with themed events.",
+      "logoUrl": "",
+      "website": "https://goodnightjb.com/sandiego",
+      "phone": "(619) 403-2646",
+      "email": "",
+      "instagram": "@goodnightjohnb",
+      "facebook": "",
+      "tiktok": "",
+      "address": "401 G Street, San Diego, CA 92101",
+      "lat": 32.712436,
+      "lng": -117.160909,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Thu 7pm-1am, Fri-Sat 7pm-2am, closed Sun-Wed",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "Labor Day Weekend Gaslamp Downtown Bar Crawl - 5 Clubs in 1 Night",
+          "date": "2026-09-03",
+          "time": "21:00",
+          "description": "Come join us for No Cover at venues, amazing discounts, and free welcome shots"
+        },
+        {
+          "title": "Gaslamp Downtown Bar Crawl - VIP Table Options",
+          "date": "2026-09-05",
+          "time": "20:55",
+          "description": "Come join us for No Cover at venues, amazing discounts, and free welcome shots"
+        },
+        {
+          "title": "Gaslamp Experience Party Pass -10 CLUBS IN 1 NIGHT",
+          "date": "2026-09-05",
+          "time": "20:55",
+          "description": "Experience the ultimate Gaslamp nightlife with our tour hitting 10 clubs in one night - guided or unguided, your choice! Free shots & Drinks"
+        },
+        {
+          "title": "Gaslamp Experience Party Pass -15 CLUBS IN 1 NIGHT",
+          "date": "2026-09-05",
+          "time": "20:55",
+          "description": "Experience the ultimate Gaslamp nightlife with our tour hitting 15 clubs in one night - guided or unguided, your choice! Free shots & Drinks"
+        },
+        {
+          "title": "Number 1 VIP Nightlife Tours - Guided & Unguided Tour Options",
+          "date": "2026-09-05",
+          "time": "20:55",
+          "description": "Get ready for an adventure like no other as we celebrate the weekend in the heart of downtown San Diego!"
+        },
+        {
+          "title": "San Diego VIP Nightlife Hopping - Guided & Unguided Tour Options",
+          "date": "2026-09-05",
+          "time": "20:55",
+          "description": "Get ready for an adventure like no other as we celebrate the weekend in the heart of downtown San Diego!"
+        },
+        {
+          "title": "Bachelor / Bachelorette VIP Nightlife Pass - Guided & Unguided Options",
+          "date": "2026-09-05",
+          "time": "21:00",
+          "description": "Get ready for an adventure like no other as we celebrate the weekend in the heart of downtown San Diego!"
+        },
+        {
+          "title": "Bar Hop San Diego- 5 Clubs in 1 Night",
+          "date": "2026-09-05",
+          "time": "21:00",
+          "description": "Come join us for No Cover at venues, amazing discounts, and free welcome shots"
+        },
+        {
+          "title": "Clubs, Pubs, and Nightclubs Party Pass - Guided & Unguided Tour Options",
+          "date": "2026-09-05",
+          "time": "21:00",
+          "description": "Get ready for an adventure like no other as we celebrate the weekend in the heart of downtown San Diego!"
+        },
+        {
+          "title": "Gaslamp Experience 10 CLUBS IN 1 NIGHT - Party Pass",
+          "date": "2026-09-05",
+          "time": "21:00",
+          "description": "Experience the ultimate Gaslamp nightlife with our tour hitting 10 clubs in one night - guided or unguided, your choice! Free shots & Drinks"
+        },
+        {
+          "title": "Gaslamp Experience 15 CLUBS IN 1 NIGHT - Party Pass",
+          "date": "2026-09-05",
+          "time": "21:00",
+          "description": "Experience the ultimate Gaslamp nightlife with our tour hitting 15 clubs in one night - guided or unguided, your choice! Free shots & Drinks"
+        },
+        {
+          "title": "Labor Day Weekend Gaslamp Downtown Bar Crawl - 5 Clubs in 1 Night",
+          "date": "2026-09-05",
+          "time": "21:00",
+          "description": "Come join us for No Cover at venues, amazing discounts, and free welcome shots"
+        },
+        {
+          "title": "San Diego Bar Crawl | Party With Us",
+          "date": "2026-09-05",
+          "time": "21:00",
+          "description": "Join SD’s favorite party professionals on our weekend bar crawls in Gaslamp SD. Walk to our favorite 4 clubs out of 10 to choose from!"
+        },
+        {
+          "title": "San Diego Nightlife Tours 10 CLUBS IN 1 NIGHT - Party Pass",
+          "date": "2026-09-05",
+          "time": "21:00",
+          "description": "Experience the ultimate Gaslamp nightlife with our tour hitting 10 clubs in one night - guided or unguided, your choice! Free shots & Drinks"
+        },
+        {
+          "title": "Single and Mingle Party Group - Guided & Unguided Tour Options",
+          "date": "2026-09-05",
+          "time": "21:00",
+          "description": "Get ready for an adventure like no other as we celebrate the weekend in the heart of downtown San Diego!"
+        },
+        {
+          "title": "NYE San Diego Experience Crawl",
+          "date": "2026-12-31",
+          "time": "20:00",
+          "description": "Join us for the ultimate New Year's Eve celebration in San Diego, where we'll be bar hopping all night long!"
+        },
+        {
+          "title": "8th Annual Massive Official Downtown San Diego Onesie Bar Crawl and Ball",
+          "date": "2027-01-15",
+          "time": "21:00",
+          "description": "One bar crawl with so many friends!!! Get ready for our 8th Annual Onesie Downtown Bar Crawl and Ball"
+        }
+      ]
+    },
+    {
+      "slug": "el-after-social-club",
+      "name": "El After Social Club",
+      "category": "Nightclub",
+      "tagline": "Late-night Latin dance club and bar in the Gaslamp",
+      "description": "A late-night restaurant, bar and dance club in the Gaslamp with a full food menu and DJ-driven nights leaning Latin, reggaeton, house and hip-hop.",
+      "logoUrl": "",
+      "website": "https://elaftersocialclub.com/",
+      "phone": "(619) 815-7035",
+      "email": "",
+      "instagram": "@elaftersocialclub",
+      "facebook": "ElAfterSocialClub",
+      "tiktok": "",
+      "address": "815 Fifth Avenue, San Diego, CA 92101",
+      "lat": 32.713967,
+      "lng": -117.159951,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Wed-Sun 5pm-2am, closed Mon-Tue",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "🖤 EMO AFTER - San Diego’s Emo Night",
+          "date": "2026-01-02",
+          "time": "21:00",
+          "description": "Emo night at El After Social Club."
+        },
+        {
+          "title": "🖤 EMO AFTER - San Diego’s Emo Night",
+          "date": "2026-01-23",
+          "time": "21:00",
+          "description": "Emo night at El After Social Club."
+        },
+        {
+          "title": "🖤 EMO AFTER - San Diego’s Emo Night",
+          "date": "2026-05-22",
+          "time": "18:00",
+          "description": "Emo night at El After Social Club."
+        },
+        {
+          "title": "🖤 EMO AFTER - San Diego’s Emo Night",
+          "date": "2026-05-29",
+          "time": "18:00",
+          "description": "Emo night at El After Social Club."
+        },
+        {
+          "title": "🖤 EMO AFTER - San Diego’s Emo Night",
+          "date": "2026-07-10",
+          "time": "18:00",
+          "description": "Emo night at El After Social Club."
+        },
+        {
+          "title": "🖤 EMO AFTER - San Diego’s Emo Night",
+          "date": "2026-07-24",
+          "time": "18:00",
+          "description": "Emo night at El After Social Club."
+        },
+        {
+          "title": "🖤 EMO AFTER - San Diego’s Emo Night",
+          "date": "2026-07-31",
+          "time": "18:00",
+          "description": "Emo night at El After Social Club."
+        },
+        {
+          "title": "🖤 EMO AFTER - San Diego’s Emo Night",
+          "date": "2026-08-07",
+          "time": "18:00",
+          "description": "Emo night at El After Social Club."
+        },
+        {
+          "title": "🖤 EMO AFTER - San Diego’s Emo Night",
+          "date": "2026-08-28",
+          "time": "18:00",
+          "description": "Emo night at El After Social Club."
+        },
+        {
+          "title": "CANDELA NIGHTS 🔥",
+          "date": "2026-09-03",
+          "time": "19:00",
+          "description": "Candela Nights at El After Social Club."
+        },
+        {
+          "title": "🖤 EMO AFTER - San Diego’s Emo Night",
+          "date": "2026-09-04",
+          "time": "18:00",
+          "description": "Emo night at El After Social Club."
+        },
+        {
+          "title": "Cafecito Y Corridos",
+          "date": "2026-09-06",
+          "time": "10:00",
+          "description": "Únete a Cafecito Y Corridos para pasarla chido con buena música y café bien sabroso."
+        },
+        {
+          "title": "Azulito: De Noche",
+          "date": "2026-09-06",
+          "time": "21:00",
+          "description": "azulito"
+        },
+        {
+          "title": "LAS GUARACHERAS EN SAN DIEGO",
+          "date": "2026-09-16",
+          "time": "20:00",
+          "description": "Las Guaracheras are a powerful Latin music sextet formed in 2017 in the city of Cali, Colombia. PERFORMING LIVE! EL AFTER SOCIAL CLUB"
+        },
+        {
+          "title": "Deftones fan meet up / comedy night",
+          "date": "2026-11-06",
+          "time": "20:00",
+          "description": "We're back! Deftones fan meet-up, Chino Moreno look alike contest, prizes & more! The ultimate fan pergame before DDLD."
+        }
+      ]
+    },
+    {
+      "slug": "laugh-factory",
+      "name": "Laugh Factory",
+      "category": "Comedy",
+      "tagline": "San Diego outpost of the Laugh Factory comedy chain",
+      "description": "The San Diego location of the national Laugh Factory brand, a stand-up comedy club with 21+ shows and a two-item minimum.",
+      "logoUrl": "",
+      "website": "https://www.laughfactory.com/san-diego",
+      "phone": "",
+      "email": "",
+      "instagram": "",
+      "facebook": "laughfactorysandiego",
+      "tiktok": "",
+      "address": "432 F street, San Diego, CA 92101",
+      "lat": 32.713799,
+      "lng": -117.160436,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Wed 7pm-10pm, Thu-Sat 6pm-12am, Sun 6pm-10pm, closed Mon-Tue",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "Laugh Factory San Diego - Friday Night",
+          "date": "2026-09-04",
+          "time": "20:00",
+          "description": "Friday night standup at the Laugh Factory's San Diego location in the Gaslamp. Rotating headliners from the national touring circuit. Tickets and lineup on their site - shows sell out weekends, worth booking ahead."
+        },
+        {
+          "title": "Laugh Factory San Diego - Saturday Night",
+          "date": "2026-09-05",
+          "time": "20:00",
+          "description": "Saturday standup at Laugh Factory Gaslamp. Usually the stronger lineup of the weekend - they often book the same headliner Friday and Saturday. Check the calendar for who's up."
+        },
+        {
+          "title": "Marco DelVecchio Live! 8:00 PM",
+          "date": "2026-09-05",
+          "time": "20:00",
+          "description": "See Marco DelVecchio Live! as he takes the stage with his stand-up and signature comedic style."
+        },
+        {
+          "title": "#SUNDAY 7:00 PM",
+          "date": "2026-09-06",
+          "time": "19:00",
+          "description": "The best way to ease into another week is with a Sunday night of comedy!"
+        },
+        {
+          "title": "Throwdown Thursdays Comedy Show 8:00 PM",
+          "date": "2026-09-10",
+          "time": "20:00",
+          "description": "Join us for Throwdown Thursdays Comedy Show and trade the weekday routine for a night of live comedy."
+        },
+        {
+          "title": "Fresh Comedy Fridays 8:00 PM",
+          "date": "2026-09-11",
+          "time": "20:00",
+          "description": "It's all in the name."
+        },
+        {
+          "title": "Nika King & Friends 8:00 PM",
+          "date": "2026-09-12",
+          "time": "20:00",
+          "description": "Catch Nika King of HBO’s Euphoria as she takes the stage with friends for an evening of storytelling."
+        },
+        {
+          "title": "Jeremy Scippio & Friends 8:00 PM",
+          "date": "2026-09-18",
+          "time": "20:00",
+          "description": "Jeremy Scippio & Friends brings together a lineup of comedians for a night of fresh material, funny stories, and unexpected moments."
+        },
+        {
+          "title": "No Hablo Inglés 8:00 PM",
+          "date": "2026-09-19",
+          "time": "20:00",
+          "description": "Created by Daniela Inés Calvo, No Hablo Inglés showcases rising Spanish comedians."
+        },
+        {
+          "title": "Saturday Night Laughs 8:00 PM",
+          "date": "2026-09-26",
+          "time": "20:00",
+          "description": "Saturday night at the world famous Laugh Factory San Diego is where you'll find the top tier laughs!"
+        },
+        {
+          "title": "Sunday Showcase 7:00 PM",
+          "date": "2026-09-27",
+          "time": "19:00",
+          "description": "Kick off your weekend with a night of humor that leans into Latin culture, bringing fresh and established voices to the San Diego stage."
+        },
+        {
+          "title": "Gaurav Kapoor 7:30 PM",
+          "date": "2026-10-03",
+          "time": "19:30",
+          "description": "Experience Gaurav Kapoor's latest stand-up show, BUNTY, featuring his signature storytelling and sharp observational humor."
+        }
+      ]
+    },
+    {
+      "slug": "cafe-sevilla",
+      "name": "Cafe Sevilla",
+      "category": "Restaurant",
+      "tagline": "Spanish tapas restaurant with a nightclub downstairs",
+      "description": "A longtime Spanish tapas bar and restaurant on Fifth Avenue serving tapas and paella, with an attached Sevilla Nightclub for late-night Latin dancing.",
+      "logoUrl": "",
+      "website": "https://www.cafesevilla.com/location/san-diego/",
+      "phone": "(619) 233-5979",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "353 Fifth Avenue, San Diego, CA 92101",
+      "lat": 32.708935,
+      "lng": -117.159969,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Mon-Fri 4:30pm-1:30am, Sat 4pm-1:30am, Sun 3:30pm-1:30am",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "Cafe Sevilla - Friday Salsa Night",
+          "date": "2026-09-04",
+          "time": "21:00",
+          "description": "Friday salsa dancing at Sevilla. Free lesson earlier in the evening, then open dancing until late. The room is authentic - Sevilla has been the Gaslamp's salsa spot for decades. Dress code applies; confirm on their site."
+        },
+        {
+          "title": "Cafe Sevilla - Saturday Night",
+          "date": "2026-09-05",
+          "time": "21:30",
+          "description": "Saturday night at Sevilla runs salsa, bachata, and sometimes live flamenco depending on the booking. Check their calendar for specific nights with a flamenco performance - those are worth the ticket price."
+        },
+        {
+          "title": "Live Latin Music - Every Day at Sevilla San Diego",
+          "date": "2026-09-05",
+          "time": "20:00",
+          "description": "Live Latin Music, Salsa & more every day at Sevilla’s Tapas Bar Live. Music, dancing, and late-night dining in San Diego."
+        },
+        {
+          "title": "San Diego Latin Nights - Fridays & Saturdays at Sevilla Nightclub",
+          "date": "2026-09-05",
+          "time": "22:00",
+          "description": "Top Latin party in San Diego! Fridays from $20, Saturdays $20. Guaranteed entry + front of line."
+        },
+        {
+          "title": "Sevilla Nightclub San Diego | VIP Bottle Service Reservations",
+          "date": "2026-09-05",
+          "time": "22:00",
+          "description": "Reserve VIP Bottle Service at Sevilla Nightclub San Diego. $50 deposit. Free entry for 5 guests per bottle"
+        },
+        {
+          "title": "Sevilla singles night- FREE! BY COLOMBIANITA SD",
+          "date": "2026-09-06",
+          "time": "22:00",
+          "description": "Latina baddies & papacitos, it’s Singles Night at Sevilla! FREE entry, RSVP before we sell out. Wristband available Red=Taken Yellow=Single."
+        },
+        {
+          "title": "✨ Bachata Room Tuesdays - Latin Dance at Sevilla San Diego",
+          "date": "2026-09-08",
+          "time": "20:30",
+          "description": "$15 entry includes dance lessons + after party. Tuesdays: Bachata Room"
+        },
+        {
+          "title": "Club Sevilla Comedy Night",
+          "date": "2026-09-11",
+          "time": "18:30",
+          "description": "Cold Blooded Comedy presents Chistes y Tapas Comedy Night at Sevilla Nightclub!"
+        },
+        {
+          "title": "The Art of Flamenco Dinner Show at Cafe Sevilla of San Diego",
+          "date": "2026-09-12",
+          "time": "18:30",
+          "description": "Intimate Flamenco Dinner Show Experience at Cafe Sevilla Including 3-Course Spanish Paella Dinner & Nightclub Entry"
+        },
+        {
+          "title": "Wine + Painting Night at Cafe Sevilla",
+          "date": "2026-09-26",
+          "time": "18:00",
+          "description": "Guided painting class inside Cafe Sevilla - canvas, paint, and wine included with the ticket. Instructor walks the room; no experience needed. The setting is more interesting than the typical art studio version of this. Runs about two hours."
+        }
+      ]
+    },
+    {
+      "slug": "onyx-room",
+      "name": "Onyx Room",
+      "category": "Nightclub",
+      "tagline": "Multi-room Gaslamp dance club",
+      "description": "A downtown Gaslamp nightclub with multiple rooms spanning hip-hop, top hits, reggaeton and a Latin salsa/bachata room.",
+      "logoUrl": "",
+      "website": "https://www.onyxroom.com/",
+      "phone": "(619) 235-6699",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "852 Fifth Ave, San Diego, CA 92101",
+      "lat": 32.7143742,
+      "lng": -117.1603214,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Fri 9pm-3am, Sat 9pm-2am",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "Onyx Room - Friday Night",
+          "date": "2026-09-04",
+          "time": "22:00",
+          "description": "Friday night at the Onyx Room, one of the Gaslamp's underground club rooms. Bass-heavy programming - house, techno, hip-hop depending on the resident DJ. Basement room with low ceilings and a good sound system."
+        },
+        {
+          "title": "Onyx Saturdays | San Diego Event - September 5th",
+          "date": "2026-09-05",
+          "time": "21:00",
+          "description": "Join us September 5th at Onyx Nightclub! NO COVER on the guest list before 10pm."
+        },
+        {
+          "title": "BollywoodParties.com | #1 SAN DIEGO BOLLYWOOD ESCAPE ~ LABOR DAY WEEKEND",
+          "date": "2026-09-06",
+          "time": "21:00",
+          "description": "San Diego’s desi crowd is taking over Onyx Room for a Labor Day Weekend Bollywood blowout - bring the energy, leave with memories."
+        },
+        {
+          "title": "Labor Day Sunday | San Diego Event - September 6th",
+          "date": "2026-09-06",
+          "time": "21:00",
+          "description": "Join us September 6th at Onyx Nightclub! NO COVER on the guest list before 10pm or inquire about VIP."
+        },
+        {
+          "title": "San Diego Bollywood Escape, Labor Day Weekend @ONYX Nightclub",
+          "date": "2026-09-06",
+          "time": "21:00",
+          "description": "USA's #1 desi party, @Onyx Nightclub on Sep 6th! Where Bollywood music meets Gaslamp's nightlife!"
+        },
+        {
+          "title": "Pre-Mexican Independence | Maluma Night | San Diego Event - September 11th",
+          "date": "2026-09-11",
+          "time": "21:00",
+          "description": "Join us September 11th at Onyx Nightclub! NO COVER on the guest list before 10pm or inquire about VIP."
+        },
+        {
+          "title": "Bellakeo | San Diego - Onyx Nightclub September 18th",
+          "date": "2026-09-18",
+          "time": "21:00",
+          "description": "Join us September 18th at Onyx Nightclub! NO COVER on the guest list before 10pm or inquire about VIP."
+        },
+        {
+          "title": "San Diego Bollywood Escape, Labor Day Weekend @ONYX Nightclub",
+          "date": "2026-10-11",
+          "time": "10:00",
+          "description": "USA's #1 desi party, @Onyx Nightclub on Sep 6th! Where Bollywood music meets Gaslamp's nightlife!"
+        },
+        {
+          "title": "Onyx Room - Halloween Ball",
+          "date": "2026-10-31",
+          "time": "21:00",
+          "description": "Halloween night party at Onyx Room. Costume contest with a cash prize, themed cocktails, and the room in full production mode. They limit the guestlist - this is one of their biggest nights of the year and it sells out. Pre-sale tickets are much cheaper than door."
+        }
+      ]
+    },
+    {
+      "slug": "f6ix",
+      "name": "F6ix",
+      "category": "Nightclub",
+      "tagline": "Underground hip-hop nightclub in the Gaslamp",
+      "description": "A 6,000-sq-ft underground hip-hop nightclub beneath F Street and Sixth Avenue in the Gaslamp Quarter.",
+      "logoUrl": "",
+      "website": "https://f6ixsd.com/",
+      "phone": "(619) 238-0138",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "526 F Street, San Diego, CA 92101",
+      "lat": 32.71379,
+      "lng": -117.159425,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Thu-Sat 9:30pm-2am, Sun 10pm-2am, closed Mon-Wed",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "F6ix - Saturday Night",
+          "date": "2026-09-05",
+          "time": "22:00",
+          "description": "F6ix is the large-format club option in the Gaslamp. Saturday nights run mainstream hip-hop and dance. Bottle service, elevated stage, and a production light rig. The kind of place where lines form before midnight."
+        },
+        {
+          "title": "LABOR DAY WEEKEND AT F6IX | SEPTEMBER 5TH EVENT",
+          "date": "2026-09-05",
+          "time": "21:30",
+          "description": "Kick off Labor Day Weekend on Sept. 5 with top DJs, glowing vibes, and nonstop dancing at F6ix. Party starts here!"
+        },
+        {
+          "title": "Labor Day Weekend SD Is Reggae Dancehall Afrobeat Soca Kompa Hip Hop & RNB",
+          "date": "2026-09-06",
+          "time": "22:00",
+          "description": "Wolfpack Entertainment Our Goal Is To Bring Quality Music To Quality People Good Vibes Only Inside F6ix Nightclub 526 F. Street Downtown SD"
+        },
+        {
+          "title": "Obsession Halloween Party 18+/21+",
+          "date": "2026-10-29",
+          "time": "21:00",
+          "description": "Join us Thursday Oct. 29th as we kick off halloween weekend at the biggest 18+/21+ club in San Diego"
+        },
+        {
+          "title": "Halloween Costume Party Friday Oct 30th 18+/21+",
+          "date": "2026-10-30",
+          "time": "21:00",
+          "description": "Join us for the Biggest 18+/21+ Halloween costume party in San Diego!"
+        },
+        {
+          "title": "F6ix - Thanksgiving Eve",
+          "date": "2026-11-25",
+          "time": "21:00",
+          "description": "Thanksgiving Eve at F6ix - one of the highest-traffic bar nights of the year as people come home for the holiday and end up downtown. No special admission beyond the regular cover. The bar does not close early; expect a standard nightclub turnout."
+        }
+      ]
+    },
+    {
+      "slug": "hard-rock-hotel-san-diego",
+      "name": "Hard Rock Hotel San Diego",
+      "category": "Hotel",
+      "tagline": "Music-themed hotel at the Gaslamp entrance",
+      "description": "A music-themed hotel at the entrance to the Gaslamp Quarter, steps from the convention center and one block from Petco Park, with dining and event venues.",
+      "logoUrl": "",
+      "website": "https://hotel.hardrock.com/san-diego/",
+      "phone": "(619) 702-3000",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "207 Fifth Avenue, San Diego, CA 92101",
+      "lat": 32.707554,
+      "lng": -117.159878,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Open 24 hours (front desk)",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "Hard Rock Hotel - Friday Live Music",
+          "date": "2026-09-04",
+          "time": "21:00",
+          "description": "Live music at the Hard Rock Gaslamp. The lobby bar and Float rooftop both book acts on Friday nights. Programming runs from cover bands to DJ sets depending on the week. Free to enter the lobby; the rooftop sometimes has a cover."
+        },
+        {
+          "title": "Sunset Social at Float Rooftop",
+          "date": "2026-09-11",
+          "time": "18:00",
+          "description": "Every Friday | 6-9PM"
+        },
+        {
+          "title": "The ICSC Pre-Game Hosted By CBRE IE",
+          "date": "2026-09-15",
+          "time": "16:00",
+          "description": "Get ready to kick off ICSC with good vibes and great company at The ICSC Pre-Game hosted by CBRE IE!"
+        },
+        {
+          "title": "Kyle Cooke: DayClub Takeover at Hard Rock",
+          "date": "2026-10-03",
+          "time": "13:00",
+          "description": "San Diego, get ready - Kyle Cooke is taking over Float Rooftop for one high-energy afternoon."
+        },
+        {
+          "title": "Boots & Dukes Country Fest",
+          "date": "2026-10-10",
+          "time": "15:00",
+          "description": "Coming to San Diego this October!"
+        },
+        {
+          "title": "Hard Rock Halloween • Haunted Manor • Saturday October 31st",
+          "date": "2026-10-31",
+          "time": "21:00",
+          "description": "\"Haunted Manor\" Halloween by Hard Rock • Eventvibe • RMD • LGNDRY 3 Floors • 4 Stages • 7 Rooms • 15+ DJ’s • 60,000 sq ft of space!"
+        }
+      ]
+    },
+    {
+      "slug": "hilton-san-diego-gaslamp-quarter",
+      "name": "Hilton San Diego Gaslamp Quarter",
+      "category": "Hotel",
+      "tagline": "Upscale hotel at the gateway to the Gaslamp",
+      "description": "Full-service Hilton hotel across from the San Diego Convention Center and three blocks from Petco Park, with an outdoor pool, fitness center, and on-site dining.",
+      "logoUrl": "",
+      "website": "https://www.hilton.com/en/hotels/sangqhf-hilton-san-diego-gaslamp-quarter/",
+      "phone": "(619) 231-4040",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "401 K Street, San Diego, CA 92101",
+      "lat": 32.708026,
+      "lng": -117.160777,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Front desk open 24 hours; check-in 4pm, check-out 11am",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "QUE Group Conference 2026",
+          "date": "2026-09-16",
+          "time": "09:00",
+          "description": "QUE Group Conference 2026 is back in sunny San Diego for a full two-day event consisting of networking, learning, and everything Quantum!"
+        },
+        {
+          "title": "Love Isn't Blind | Live Comedy/Dating Show | San Diego",
+          "date": "2026-09-25",
+          "time": "18:30",
+          "description": "Four men. One bachelorette. The twist? The men can't speak."
+        },
+        {
+          "title": "About Last Night: Dating Disaster Stories San Diego!",
+          "date": "2026-09-26",
+          "time": "20:00",
+          "description": "San Diego get on stage and share their worst dating / hookup stories while a live musician turns the stories into songs after."
+        },
+        {
+          "title": "Ghostbusters Halloween Movie Night Under the Stars",
+          "date": "2026-10-24",
+          "time": "20:00",
+          "description": "Celebrate spooky season with a family-friendly movie night under the stars at Hilton San Diego Gaslamp Quarter!"
+        },
+        {
+          "title": "Hilton Gaslamp - Holiday Social",
+          "date": "2026-12-12",
+          "time": "17:00",
+          "description": "Annual holiday social at the Hilton Gaslamp Quarter. Open to hotel guests and the public - a mix of downtown professionals and convention center overflow. Live music in the lobby bar, seasonal cocktail menu, and a holiday pop-up market in the lobby. No ticket required; drinks are priced at the hotel bar."
+        }
+      ]
+    },
+    {
+      "slug": "mad-house-comedy-club",
+      "name": "Mad House Comedy Club",
+      "category": "Comedy",
+      "tagline": "Gaslamp's home for stand-up comedy",
+      "description": "Downtown Gaslamp comedy club featuring established and up-and-coming stand-up comedians, located in the historic Ingle Building at 4th & F.",
+      "logoUrl": "",
+      "website": "https://madhousecomedyclub.com/",
+      "phone": "(619) 269-1987",
+      "email": "",
+      "instagram": "@madhousecomedyclub",
+      "facebook": "madhousecomedy",
+      "tiktok": "",
+      "address": "801 Fourth Avenue, San Diego, CA 92101",
+      "lat": 32.713801,
+      "lng": -117.16081,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Open Wed-Sun; box office 12-8pm (until 10pm Fri/Sat)",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "Sunday Night Open Mic • The World Famous Mad House Comedy Club • Free Stand-Up Comedy Show",
+          "date": "2026-09-06",
+          "time": "21:30",
+          "description": "Open Mic at The World Famous Mad House Comedy Club. Free Show 7 nights a week. The Open Mic is always after the last reg show of the night."
+        },
+        {
+          "title": "Mad House Comedy Club's Favorites Starring Char Ramtin!",
+          "date": "2026-09-23",
+          "time": "19:30",
+          "description": "Come enjoy a night of comedy starring Char Ramtin, as seen at the Netflix Is a Joke Festival and more, on Wednesday, September 23rd!"
+        },
+        {
+          "title": "Jay Light Headlines Mad House Comedy Club!",
+          "date": "2026-09-30",
+          "time": "20:00",
+          "description": "Standup comedy, roasting, crowd work, and more from Comedy Central's Jay Light!"
+        },
+        {
+          "title": "Jono Zalay @ Madhouse Comedy Club",
+          "date": "2026-10-15",
+          "time": "20:00",
+          "description": "Get ready for an unbeatable night of standup! #comedyshows, #DateNightIdeas, #GaslampQuarter, #standupcomedy, #thingstodoinSanDiego, Comedy"
+        },
+        {
+          "title": "The Mad House Comedy Club Showcase Special • Friday Night 8:00 PM Stand-Up Comedy in San Diego",
+          "date": "2026-10-16",
+          "time": "20:00",
+          "description": "8 hilarious comedians, one show! See live stand-up comedy at the World Famous Mad House Comedy Club in San Diego’s Gaslamp Quarter."
+        }
+      ]
+    },
+    {
+      "slug": "wild-hare-bar",
+      "name": "Wild Hare Bar",
+      "category": "Bar",
+      "tagline": "Rabbit-themed garden bar at the Hilton Gaslamp",
+      "description": "An indoor-outdoor, rabbit-themed bar and restaurant at the Hilton San Diego Gaslamp Quarter serving California cuisine, brunch and cocktails.",
+      "logoUrl": "",
+      "website": "https://www.wildharebargarden.com/",
+      "phone": "(619) 231-4040",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "401 K Street, San Diego, CA 92101",
+      "lat": 32.707992,
+      "lng": -117.160761,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Breakfast Mon-Fri 6:30-11am, Sat-Sun 6:30am-12pm; dinner daily 4pm-10pm",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "Booze 'n' Brains™ Interactive Drinking Games - Wild Hare Bar",
+          "date": "2026-09-05",
+          "time": "11:00",
+          "description": "Booze 'n' Brains™ is a series of interactive activities that include puzzle solving, creativity, photos, trivia, riddles, silly games, etc."
+        },
+        {
+          "title": "Bark to the ’90s: Yappy Hour at Wild Hare",
+          "date": "2026-09-19",
+          "time": "16:00",
+          "description": "Calling all fly dogs. We’re turning back the clock for a totally ’90s edition of Yappy Hour at Wild Hare Bar & Garden!"
+        },
+        {
+          "title": "Bunnies & Brunch | Wild Hare Bar Garden",
+          "date": "2026-09-26",
+          "time": "11:00",
+          "description": "Celebrate National Bunny Day with Bunnies & Brunch at Wild Hare Bar Garden!"
+        },
+        {
+          "title": "Barks & Boos Yappy Hour",
+          "date": "2026-10-24",
+          "time": "16:00",
+          "description": "Bring your pup in their best Halloween look and join us for an afternoon of seasonal sips, pup-friendly treats and plenty of spooky fun on t"
+        }
+      ]
+    },
+    {
+      "slug": "prohibition-lounge",
+      "name": "Prohibition Lounge",
+      "category": "Bar",
+      "tagline": "Hidden 1920s speakeasy with live music",
+      "description": "A Prohibition-era speakeasy in the Gaslamp entered through a discreet 'law office' door, offering craft cocktails and nightly live jazz and blues.",
+      "logoUrl": "",
+      "website": "https://prohibitionsd.com/",
+      "phone": "(619) 501-1919",
+      "email": "",
+      "instagram": "@prohibitionsd",
+      "facebook": "prohibitionsd",
+      "tiktok": "",
+      "address": "548 Fifth Avenue, San Diego, CA 92101",
+      "lat": 32.711115,
+      "lng": -117.160353,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Daily 8pm-1:30am",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "Prohibition Cocktail Class - Maestro Dobel Tequila",
+          "date": "2026-09-09",
+          "time": "18:00",
+          "description": "Join us for our next Prohibition Cocktail Class - hosted by Maestro Dobel Tequila."
+        },
+        {
+          "title": "Prohibition Cocktail Class w/ Sagamore Whiskey",
+          "date": "2026-09-23",
+          "time": "18:00",
+          "description": "Join us for our next Prohibition Cocktail Class featuring Sagamore Whiskey"
+        },
+        {
+          "title": "Prohibition Cocktail Class w/ Prohibition Gin",
+          "date": "2026-09-30",
+          "time": "18:00",
+          "description": "Join us for our next Prohibition Cocktail Class featuring Prohibition Gin"
+        },
+        {
+          "title": "Prohibition Cocktail Class w/ Fosforo Mezcal",
+          "date": "2026-10-07",
+          "time": "18:00",
+          "description": "Join us for our next Prohibition Cocktail Class featuring Fosforo Mezcal"
+        }
+      ]
+    },
+    {
+      "slug": "american-junkie",
+      "name": "American Junkie",
+      "category": "Bar",
+      "tagline": "Gaslamp sports bar by day, nightclub by night",
+      "description": "A Fifth Avenue bar and nightclub that runs as a sports bar during the day and shifts to a high-energy club atmosphere at night.",
+      "logoUrl": "",
+      "website": "https://www.americanjunkiesd.com/",
+      "phone": "(619) 255-1981",
+      "email": "",
+      "instagram": "@americanjunkiesd",
+      "facebook": "",
+      "tiktok": "",
+      "address": "628 Fifth Avenue, San Diego, CA 92101",
+      "lat": 32.712125,
+      "lng": -117.160371,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Tue-Fri 5pm-2am, Sat 1pm-2am, Sun 10am-10pm, closed Mon",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "Thursdays $1 All Draft Beer from 9-11pm",
+          "date": "2026-09-10",
+          "time": "17:00",
+          "description": "American Junkie is now offering $1` Drafts an extra hour 9-11pm! On top of it enjoy$1 pizza slices! Beer pong tournament starting at 9pm :)"
+        },
+        {
+          "title": "LGNDRY Group Presents: After Dark at American Junkie!",
+          "date": "2026-09-11",
+          "time": "21:00",
+          "description": "Join us for an unforgettable evening filled with music, drinks, and good vibes."
+        },
+        {
+          "title": "LGNDRY Group Presents: TACO TUESDAY at American Junkie",
+          "date": "2026-09-15",
+          "time": "17:00",
+          "description": "Join us for a night of all you can eat delicious tacos and good vibes at American Junkie from 5pm-10pm!"
+        },
+        {
+          "title": "2026 San Diego Zombie Crawl | 2 Halloween Weekends: Oct 23, 24, 30, 31!",
+          "date": "2026-10-23",
+          "time": "18:00",
+          "description": "Gaslamp Quarter's #1 Halloween Celebration. Ticket incl. Free Entry to 28 Bars, 8 Shots, Killer Deals on Drinks, Dining, Hotels & Parking"
+        }
+      ]
+    },
+    {
+      "slug": "whiskey-girl",
+      "name": "Whiskey Girl",
+      "category": "Bar",
+      "tagline": "Longtime Gaslamp bar with 70+ whiskeys",
+      "description": "One of the longest-running entertainment venues in the Gaslamp, serving American classics, 70+ whiskeys, nightly live music and video DJs, with all sports packages.",
+      "logoUrl": "",
+      "website": "https://whiskeygirl.com/",
+      "phone": "(619) 236-1616",
+      "email": "",
+      "instagram": "@WhiskeyGirlSD",
+      "facebook": "",
+      "tiktok": "@whiskeygirlsd",
+      "address": "702 Fifth Avenue, San Diego, CA 92101",
+      "lat": 32.712745,
+      "lng": -117.160275,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Daily 11am-1:30am",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "Pacific Beach Singles Mixer 2026",
+          "date": "2026-09-12",
+          "time": "19:00",
+          "description": "Join the Pacific Beach Singles Mixer 2026 featuring drink specials, name tags, and easy ice breakers. A fun way to meet new people!"
+        },
+        {
+          "title": "Speed Dating Pacific Beach Singles 24-39",
+          "date": "2026-09-19",
+          "time": "14:00",
+          "description": "Get ready to join a fun and interactive speed dating experience in Pacific Beach! We want you to find your match!"
+        },
+        {
+          "title": "Speed Dating San Diego Singles 24-39",
+          "date": "2026-09-19",
+          "time": "14:00",
+          "description": "Get ready to join a fun and interactive speed dating experience in San Diego! We want you to find your match!"
+        },
+        {
+          "title": "San Diego Official Halloween Bar Crawl",
+          "date": "2026-10-31",
+          "time": "15:00",
+          "description": "The Official Halloween event of the century on October 31st, 2026!"
+        }
+      ]
+    },
+    {
+      "slug": "nova-sd",
+      "name": "NOVA SD",
+      "category": "Nightclub",
+      "tagline": "19,000 sq ft Gaslamp club with a rooftop terrace",
+      "description": "Main dance floor, balcony and rooftop terrace with world touring DJs every weekend and bottle service.",
+      "logoUrl": "images/vendors/GaslampActivities/nova-sd.png",
+      "website": "https://novasd.com/",
+      "phone": null,
+      "email": null,
+      "instagram": "https://www.instagram.com/novasdclub/",
+      "facebook": null,
+      "tiktok": null,
+      "address": "454 6th Ave, San Diego, CA 92101",
+      "lat": 32.7099592,
+      "lng": -117.1592685,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Fri-Sat 9:30pm-2am, Sun 9:30pm-2am on three day holiday weekends",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Nova presents Audien",
+          "date": "2026-10-10",
+          "time": "10:00 PM",
+          "description": "Doors 10pm"
+        }
+      ],
+      "_notes": "Instagram checked Sept 2026 via VidIQ. Confirmed doors 10pm and 21+. Added one show the ticketing calendar did not list: Marie Vaunt with T78 on Friday 12/11. Pin is the US Census geocode; no Google Places coordinate is published.",
+      "_pinSource": "ESTIMATED from street numbering - no published coordinates found. Must be fixed before running.",
+      "_geocode": {
+        "source": "US Census geocoder (onelineaddress, Public_AR_Current)",
+        "census_crosscheck": {
+          "lat": 32.7099592,
+          "lng": -117.1592685,
+          "offset_meters": 0
+        },
+        "verified_from_street_address": true
+      },
+      "_instagram_checked": "2026-09-23 via VidIQ (public profile + reels)"
+    },
+    {
+      "slug": "casablanca-lounge",
+      "name": "Casablanca Lounge",
+      "category": "Hookah Lounge & Restaurant",
+      "tagline": "Gaslamp hookah, cocktails and patio",
+      "description": "Hookah lounge and restaurant with patio seating, cocktails, tacos and late weekend hours.",
+      "logoUrl": "images/vendors/GaslampActivities/casablanca-lounge.png",
+      "website": "https://casablancasd.net/",
+      "phone": "(619) 233-1333",
+      "email": null,
+      "instagram": "https://www.instagram.com/casablanca.sd/",
+      "facebook": "https://www.facebook.com/p/Casablanca-Hookah-Lounge-100066499160731/",
+      "tiktok": null,
+      "address": "836 5th Ave, San Diego, CA 92101",
+      "lat": 32.7141147,
+      "lng": -117.1604084,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Mon-Thu 8pm-2am, Fri-Sat 6pm-4am, Sun 6pm-2am",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Taco Tuesday",
+          "date": "Weekly",
+          "time": "8:00 PM",
+          "description": "Details not published"
+        }
+      ],
+      "_notes": "Instagram handle CONFIRMED as @casablanca.sd: the bio hours match the website exactly (Mon-Thu 8pm-2am, Fri-Sat 6pm-4am, Sun 6pm-2am). The other candidate, @casablancahoookahlounge, is a Pennsylvania venue. Confirmed programming: Strictly Rhythm on Saturdays (music 10pm, $5 cover after 11pm), Latin house Fridays, live performances and an annual Super Bowl watch party. Taco Tuesday still has no published time or price.",
+      "_pinSource": "gaslamp.org listing",
+      "_geocode": {
+        "source": "Gaslamp Quarter Association listing (Google Places)",
+        "census_crosscheck": {
+          "lat": 32.7140164,
+          "lng": -117.1602163,
+          "offset_meters": 21.1
+        },
+        "verified_from_street_address": true
+      },
+      "_instagram_checked": "2026-09-23 via VidIQ (public profile + reels)"
+    },
+    {
+      "slug": "wine-girl-san-diego",
+      "name": "Wine Girl San Diego",
+      "category": "Bar",
+      "tagline": "Instagram-ready wine bar with signature swings",
+      "description": "A pastel-pink Gaslamp wine bar (opened 2025) with rotating wines on tap, curated bottles, shareable bites and photo-ready swings.",
+      "logoUrl": "",
+      "website": "https://winegirl.com/",
+      "phone": "",
+      "email": "",
+      "instagram": "@winegirlsd",
+      "facebook": "",
+      "tiktok": "",
+      "address": "460 Fifth Avenue #Ste 2-113, San Diego, CA 92101",
+      "lat": 32.709964,
+      "lng": -117.160262,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Mon-Thu 12pm-10pm, Fri-Sat 11am-12am, Sun 11am-10pm",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "SD Networking Events September 2026 Business Networking Mixer",
+          "date": "2026-09-10",
+          "time": "17:00",
+          "description": "SD Networking Events September 2026 Business Networking Mixer"
+        },
+        {
+          "title": "BROGI YOGA x WINE GIRL SPICY SCULPT ️️️",
+          "date": "2026-09-13",
+          "time": "09:00",
+          "description": "Get spicy with us! Sweat it out with Brogi, then stick around for wine, good vibes & a post-class hang."
+        },
+        {
+          "title": "Paint and Sip in Gaslamp San Diego",
+          "date": "2026-09-23",
+          "time": "18:00",
+          "description": "Join us for a wine-inspired paint and sip event in Gaslamp. Together we'll recreate a colorful painting, step-by-step."
+        }
+      ]
+    },
+    {
+      "slug": "the-tipsy-crow",
+      "name": "The Tipsy Crow",
+      "category": "Bar & Lounge",
+      "tagline": "San Diego's longest-standing bar, three levels",
+      "description": "Three-level bar at 5th and F running the Drink Exchange, a guest-driven happy hour where prices rise and fall with demand. Live music, games and themed weeknights.",
+      "logoUrl": "images/vendors/GaslampActivities/the-tipsy-crow.png",
+      "website": "https://thetipsycrow.com/",
+      "phone": "(619) 338-9300",
+      "email": null,
+      "instagram": "https://www.instagram.com/thetipsycrow/",
+      "facebook": null,
+      "tiktok": null,
+      "address": "770 5th Ave, San Diego, CA 92101",
+      "lat": 32.713466,
+      "lng": -117.1603425,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Daily 12pm-2am",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Drink Exchange",
+          "date": "Daily",
+          "time": "Varies",
+          "description": "Prices move with demand"
+        }
+      ],
+      "_notes": "Phone differs between the venue site (619-717-2769) and the Gaslamp Quarter listing (619-338-9300); card uses the listing. Drink Exchange prices are dynamic by design and cannot be published.",
+      "_geocode": {
+        "source": "Gaslamp Quarter Association listing (Google Places)",
+        "census_crosscheck": {
+          "lat": 32.713466,
+          "lng": -117.1603425,
+          "offset_meters": 0
+        },
+        "verified_from_street_address": true
+      }
+    },
+    {
+      "slug": "vybz-kitchen-lounge",
+      "name": "VYBZ Kitchen & Lounge",
+      "category": "Nightclub",
+      "tagline": "Gaslamp eatery, lounge & bottle service",
+      "description": "A lively Gaslamp kitchen and cocktail lounge at 840 Fifth Ave with a full bar, 35 TVs, mezzanine VIP bottle service and late-night dancing.",
+      "logoUrl": "",
+      "website": "https://www.vybzsd.com",
+      "phone": "(619) 255-0533",
+      "email": "",
+      "instagram": "",
+      "facebook": "vybzsd",
+      "tiktok": "",
+      "address": "840 Fifth Ave #100, San Diego, CA 92101",
+      "lat": 32.714194,
+      "lng": -117.160343,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Thu 8pm-2am; Fri-Sat 7pm-2am (nightlife-focused; other days vary)",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "TAPSD 2026 - Sept 20th - #LiveAuditions [San Diego CA]",
+          "date": "2026-09-20",
+          "time": "15:00",
+          "description": "Join us Sept 20th for TAPSD 2026, where artists tour and get placed live - don’t miss the fun in person!"
+        },
+        {
+          "title": "The Fright Crawl | San Diego Halloween Bar Crawl 2026 | Fri, Oct 30",
+          "date": "2026-10-30",
+          "time": "19:30",
+          "description": "San Diego's hottest Halloween bar crawl on Friday, October 30th. Featuring the city's best bars & clubs, live DJs, and no cover!"
+        },
+        {
+          "title": "The Fright Crawl | San Diego's #1 Halloween Bar Crawl 2026 | Sat, Oct 31",
+          "date": "2026-10-31",
+          "time": "19:30",
+          "description": "San Diego's biggest Halloween bar crawl. The city's best bars & clubs, live DJs, no cover. Sat, Oct 31 - 800 spots."
+        }
+      ]
+    },
+    {
+      "slug": "sidebar",
+      "name": "SideBar",
+      "category": "Nightclub",
+      "tagline": "Intimate boutique nightclub & lounge in the Gaslamp",
+      "description": "A downtown San Diego nightlife staple since 2003, renovated into a New York-style boutique club and lounge with craft cocktails, live DJs and VIP table service.",
+      "logoUrl": "",
+      "website": "https://www.sidebarsd.com",
+      "phone": "(833) 715-3804",
+      "email": "",
+      "instagram": "@sidebarsd",
+      "facebook": "SideBarSD",
+      "tiktok": "",
+      "address": "536 Market St, San Diego, CA 92101",
+      "lat": 32.7116509,
+      "lng": -117.1594046,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Wed-Thu 8:30pm-2am; Fri-Sat 7:30pm-2am; closed Sun-Tue",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "Side Bar - Saturday Night",
+          "date": "2026-09-05",
+          "time": "22:00",
+          "description": "Saturday at Side Bar skews toward indie, alternative, and throwback dance nights depending on the month's residency. Check their social for the current resident DJ or themed night. One of the better spots on Market St for dancing without the bottle service pressure."
+        },
+        {
+          "title": "LGNDRY Group Presents: Sidebar Industry Wednesdays",
+          "date": "2026-09-09",
+          "time": "21:00",
+          "description": "A midweek gathering for hospitality, nightlife, and creative professionals featuring music, cocktails, and industry connections."
+        }
+      ]
+    },
+    {
+      "slug": "andaz-san-diego",
+      "name": "Andaz San Diego",
+      "category": "Hotel",
+      "tagline": "Boutique Gaslamp hotel with a rooftop bar & pool",
+      "description": "A 159-room lifestyle boutique hotel by Hyatt in a historic 1913 building at 600 F St, featuring RoofTop600, the Gaslamp Quarter's largest rooftop with a restaurant, bar and pool.",
+      "logoUrl": "",
+      "website": "https://www.hyatt.com/andaz/en-US/sanas-andaz-san-diego",
+      "phone": "(619) 849-1234",
+      "email": "",
+      "instagram": "@andazsandiego",
+      "facebook": "",
+      "tiktok": "",
+      "address": "600 F St, San Diego, CA 92101",
+      "lat": 32.7138553,
+      "lng": -117.1587941,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Open 24 hours (front desk); check-in 3pm, check-out 11am",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "Andaz San Diego - Rooftop Thursday",
+          "date": "2026-09-03",
+          "time": "16:00",
+          "description": "Thursday happy hour on the Andaz rooftop bar, one of the better outdoor spots in the Gaslamp with a city view. Runs 4-7pm typically. Drinks are priced like a hotel rooftop but the setting justifies it on a nice evening."
+        },
+        {
+          "title": "Andaz Holiday Jazz Night",
+          "date": "2026-12-19",
+          "time": "19:00",
+          "description": "Live jazz in the Andaz lobby bar during the holiday season. A small ensemble - piano, bass, and a horn - playing standards for three or four hours. No cover; the bar stays open late. The lobby is worth walking through regardless; they do a serious holiday installation."
+        }
+      ]
+    },
+    {
+      "slug": "el-chingon",
+      "name": "El Chingon",
+      "category": "Mexican Restaurant & Tequila Bar",
+      "tagline": "Bad ass Mexican in the Gaslamp",
+      "description": "Mexican restaurant and tequila bar, Lamplighter award winner for Favorite Bar, Best Tequila Bar, Best Bar Menu and Best Chips and Salsa. Theme brunches and VIP bottle service.",
+      "logoUrl": "images/vendors/GaslampActivities/el-chingon.png",
+      "website": "https://elchingon.com/san-diego/",
+      "phone": "(619) 501-1919",
+      "email": null,
+      "instagram": "https://www.instagram.com/elchingonsd/",
+      "facebook": "https://www.facebook.com/elchingonsd/",
+      "tiktok": null,
+      "address": "560 5th Ave, San Diego, CA 92101",
+      "lat": 32.7111779,
+      "lng": -117.160413,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Daily 11am-2am",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Taco Tuesday",
+          "date": "Weekly",
+          "time": "11:00 AM",
+          "description": "Eight taco varieties all day"
+        }
+      ],
+      "_notes": "Instagram checked Sept 2026 via VidIQ. Confirmed Taco Tuesday, Perreo Sunday (3-9pm, select Sundays), DEMBOW Saturdays and game day pregame programming. El Chingon also runs one-off national food day promos (half off fajitas, free carnitas in guac) that were not seeded because they do not recur.",
+      "_pinSource": "gaslamp.org listing",
+      "_geocode": {
+        "source": "Gaslamp Quarter Association listing (Google Places)",
+        "census_crosscheck": {
+          "lat": 32.7110639,
+          "lng": -117.1601878,
+          "offset_meters": 24.6
+        },
+        "verified_from_street_address": true
+      },
+      "_instagram_checked": "2026-09-23 via VidIQ (public profile + reels)"
+    },
+    {
+      "slug": "urban-india-restaurant-bar",
+      "name": "Urban India Restaurant & Bar",
+      "category": "Restaurant",
+      "tagline": "Modern Indian dining & weekend DJ bar",
+      "description": "Established in 2012, this Gaslamp Indian restaurant at 750 Fifth Ave serves traditional dishes with a modern twist plus a beer-and-wine bar, becoming a DJ-driven bar on weekends.",
+      "logoUrl": "",
+      "website": "https://urbanindiarestaurantsd.com",
+      "phone": "(619) 238-8380",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "750 Fifth Avenue, San Diego, CA 92101",
+      "lat": 32.713257,
+      "lng": -117.160377,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Daily 11am-3pm & 5pm-10pm (bar later on weekends)",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "Party at Urban India Saturday Nights",
+          "date": "2026-09-05",
+          "time": "22:00",
+          "description": "Party at Urban India every Saturday night, Latino Saturdays, dj plays Cumbia, Bachata, Reggaeton, Zapateado, Rock en Espanol, and much more!"
+        },
+        {
+          "title": "URBAN FRIDAY'S AT URBAN INDIA",
+          "date": "2026-09-11",
+          "time": "22:00",
+          "description": "Join us for a wild night of urban vibes and spicy beats at Urban India - get ready to dance the night away!"
+        }
+      ]
+    },
+    {
+      "slug": "moxy-san-diego-gaslamp-quarter",
+      "name": "Moxy San Diego Gaslamp Quarter",
+      "category": "Hotel",
+      "tagline": "Playful, design-forward Gaslamp hotel with Bar Moxy",
+      "description": "A chic Marriott Moxy hotel at 831 Sixth Ave with 126 rooms, a marine theme, a lively lobby Bar Moxy where guests check in and 24/7 grab-and-go food and drinks.",
+      "logoUrl": "",
+      "website": "https://www.marriott.com/en-us/hotels/sanox-moxy-san-diego-downtown-gaslamp-quarter/overview/",
+      "phone": "(619) 239-6699",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "831 Sixth Avenue, San Diego, CA 92101",
+      "lat": 32.714091,
+      "lng": -117.158954,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Open 24 hours (front desk); check-in at the bar",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "Trivia Night at Moxy San Diego",
+          "date": "2026-09-08",
+          "time": "19:00",
+          "description": "Your Weekly Bar Trivia Challenge! Drink a beer, munch some food, and compete for glory & prizes! FREE to play!"
+        },
+        {
+          "title": "San Diego Singles Event: Happy Hour (Ages 40-55)",
+          "date": "2026-09-19",
+          "time": "19:00",
+          "description": "Single in San Diego? Join us for a fun, relaxed Singles Happy Hour designed to spark real connections. Hosted by Jigsaw Dating®"
+        }
+      ]
+    },
+    {
+      "slug": "taste-thirst",
+      "name": "Taste & Thirst",
+      "category": "Bar",
+      "tagline": "Gaslamp sports bar with Southern eats & happy hour",
+      "description": "Established in 2008 at 715 Fourth Ave, a laid-back Gaslamp sports bar and eatery with 14 HD TVs, Southern-inspired fare, cocktails and daily happy hour specials.",
+      "logoUrl": "",
+      "website": "https://tasteandthirst.com",
+      "phone": "(619) 955-5995",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "715 Fourth Avenue, San Diego, CA 92101",
+      "lat": 32.71287,
+      "lng": -117.160934,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Mon-Wed 1pm-1am; Thu 1pm-2am; Fri-Sat 11am-2am; Sun 10:30am-2am",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "San Diego SantaCon Bar Crawl 2026",
+          "date": "2026-12-12",
+          "time": "12:00",
+          "description": "San Diego SantaCon Bar Crawl 2026The San Diego SantaCon Bar Crawl 2026 is the biggest holiday bar crawl in San Diego. On December 12th, 2026"
+        },
+        {
+          "title": "San Diego New Years Eve Pub Crawl Party 2027",
+          "date": "2026-12-31",
+          "time": "18:00",
+          "description": "Enjoy the ultimate New Years Eve night out w/ drink specials at the biggest & best Pub Crawl San Diego has to offer this New Years Eve 2027."
+        }
+      ]
+    },
+    {
+      "slug": "gaslamp-museum-at-the-davis-horton-house",
+      "name": "Gaslamp Museum at the Davis-Horton House",
+      "category": "Museum",
+      "tagline": "San Diego's oldest house & Gaslamp history museum",
+      "description": "Housed in the 1850 Davis-Horton House, the oldest structure in the Gaslamp Quarter, this museum offers self-guided and audio tours plus weekly walking tours.",
+      "logoUrl": "",
+      "website": "https://www.gaslampmuseum.org",
+      "phone": "(619) 233-4692",
+      "email": "",
+      "instagram": "",
+      "facebook": "gaslamp.museum",
+      "tiktok": "",
+      "address": "410 Island Ave, San Diego, CA 92101",
+      "lat": 32.7105762,
+      "lng": -117.1606887,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Thu-Sat 10am-4pm (last tickets 3:30pm); closed Sun-Wed",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "Gaslamp Quarter History Walk",
+          "date": "2026-09-05",
+          "time": "11:00",
+          "description": "Saturday morning walking tour run by the Gaslamp Quarter Historical Foundation. Departs from the William Heath Davis House (the oldest standing structure in downtown San Diego, built 1850). The tour covers Victorian architecture, the red light district history, and how the neighborhood got cleaned up for the 1915 Panama - California Exposition. About 90 minutes, comfortable walking pace."
+        }
+      ]
+    },
+    {
+      "slug": "horton-plaza-park",
+      "name": "Horton Plaza Park",
+      "category": "Landmark",
+      "tagline": "Historic downtown plaza with the 1910 Broadway Fountain",
+      "description": "A 1.8-acre downtown park at Fourth & Broadway featuring the restored 1910 Broadway Fountain, an interactive pop-jet fountain and an amphitheater; hosts concerts and film screenings.",
+      "logoUrl": "",
+      "website": "",
+      "phone": "",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "397 Broadway, San Diego, CA 92101",
+      "lat": 32.7154214,
+      "lng": -117.1615444,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Public park, open daily (hosts 200+ events/year)",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "Gaslamp Ghost Walk",
+          "date": "2026-10-11",
+          "time": "19:00",
+          "description": "Evening walking ghost tour through the Gaslamp's Victorian blocks. Guide covers the Stingaree district history, old hotel scandals, and a few spots with documented paranormal reports. About 90 minutes, departing from Horton Plaza Park. Runs most October Sundays - confirm the specific date is still active before going."
+        }
+      ]
+    },
+    {
+      "slug": "san-diego-free-tour",
+      "name": "San Diego Free Tour",
+      "category": "Tours",
+      "tagline": "Pay-what-you-wish Gaslamp walking tours, EN & ES",
+      "description": "A pay-as-you-wish walking tour operator meeting by the Gaslamp Quarter Arch on Fifth Ave, running roughly two-hour guided tours in English and Spanish.",
+      "logoUrl": "",
+      "website": "https://sdfreetour.com",
+      "phone": "",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "199 Fifth Avenue, San Diego, CA 92101",
+      "lat": 32.707283,
+      "lng": -117.160194,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Daily; English 10am, Espanol 10:30am (~2 hrs)",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "San Diego Free Tour",
+          "date": "2026-09-05",
+          "time": "10:00",
+          "description": "You will hear many stories, immerse in the culture of the city, make new friends and learn the past and present of our beautiful San Diego!"
+        }
+      ]
+    },
+    {
+      "slug": "saya-brasserie",
+      "name": "Saya Brasserie",
+      "category": "Cafe",
+      "tagline": "Dubai-born pink brasserie cafe in the Gaslamp",
+      "description": "A Dubai-born, social-media-driven cafe brasserie serving breakfast and lunch fare in the Gaslamp Quarter, its U.S. debut location.",
+      "logoUrl": "",
+      "website": "https://www.instagram.com/sayabrasseriesd/",
+      "phone": "",
+      "email": "",
+      "instagram": "@sayabrasseriesd",
+      "facebook": "",
+      "tiktok": "",
+      "address": "411 Broadway, San Diego, CA 92101",
+      "lat": 32.715586,
+      "lng": -117.160902,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Daily 8am-3pm",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "The Pink Palace Drag Brunch",
+          "date": "2026-09-05",
+          "time": "12:00",
+          "description": "Get ready to sip, snack, and sashay at the fiercest drag brunch around!"
+        }
+      ]
+    },
+    {
+      "slug": "bang-san-diego",
+      "name": "Bang San Diego",
+      "category": "Nightclub",
+      "tagline": "Sushi, flaming boats and a giant disco ball",
+      "description": "Bang SD (formerly Bang on 5th) is a multi-level Asian-fusion restaurant and nightclub in the Gaslamp featuring sushi, craft cocktails, live DJs and a huge disco ball.",
+      "logoUrl": "",
+      "website": "https://bangsd.com/",
+      "phone": "(619) 677-5650",
+      "email": "",
+      "instagram": "@bang_sandiego",
+      "facebook": "",
+      "tiktok": "",
+      "address": "762 Fifth Avenue, San Diego, CA 92101",
+      "lat": 32.713406,
+      "lng": -117.160459,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Thu-Sat 5pm-2am (dinner 5-10pm, club 10pm-2am)",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "Hamptons In San Diego: Upscale Day Party Experience",
+          "date": "2026-09-05",
+          "time": "14:00",
+          "description": "Join us for the hottest party for Labor Day Weekend! We’re bring the Hamptons vibe with a R&B and Hip Hop flare !"
+        }
+      ]
+    },
+    {
+      "slug": "vin-de-syrah-nightclub",
+      "name": "Vin de Syrah Nightclub",
+      "category": "Bar",
+      "tagline": "Whimsical underground wine and cocktail parlor",
+      "description": "An Alice-in-Wonderland-themed underground spirit and wine parlor in the Gaslamp with botanical decor, bistro bites and weekend DJs and live jazz.",
+      "logoUrl": "",
+      "website": "https://syrahwineparlor.com/",
+      "phone": "(619) 234-4166",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "901 Fifth Avenue, San Diego, CA 92101",
+      "lat": 32.7148,
+      "lng": -117.159956,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Fri-Sat 5pm-late (food to 9pm); DJs Fri & Sat",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "San Diego Drink, Mingle, and Dance Club Tour (4 clubs included)",
+          "date": "2026-09-05",
+          "time": "21:00",
+          "description": "#1 for birthday, bachelorette/bachelor parties!! 4 popular clubs / 1 night - YASS!! MEET. MAKE MEMORIES. REPEAT."
+        }
+      ]
+    },
+    {
+      "slug": "double-deuce",
+      "name": "Double Deuce",
+      "category": "Bar",
+      "tagline": "Boot-stompin' mechanical bull bar, 21+",
+      "description": "A multi-level country-and-rock entertainment bar in the Gaslamp with San Diego's only mechanical bull, video DJs, karaoke and beer pong.",
+      "logoUrl": "",
+      "website": "https://doubledeucesd.com/",
+      "phone": "(619) 450-6522",
+      "email": "",
+      "instagram": "@doubledeucesd",
+      "facebook": "",
+      "tiktok": "",
+      "address": "528 F Street, San Diego, CA 92101",
+      "lat": 32.713748,
+      "lng": -117.159531,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Tue-Thu 7pm-1:30am, Fri-Sat 5pm-1:30am; closed Sun-Mon",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "San Diego Drink, Ride, Sing, and Dance Bar Tour (4 bars included)",
+          "date": "2026-09-05",
+          "time": "21:00",
+          "description": "#1 for birthday, bachelorette/bachelor parties!! 4 lively bars / 1 exciting night - LET'S DO IT!! MEET. MAKE MEMORIES. REPEAT."
+        }
+      ]
+    },
+    {
+      "slug": "blarney-stone-pub",
+      "name": "Blarney Stone Pub",
+      "category": "Bar",
+      "tagline": "San Diego's original Gaslamp Irish pub",
+      "description": "A family-run Irish pub in the Gaslamp Quarter serving Guinness, pub grub and burgers with live Irish music and an old-Ireland atmosphere.",
+      "logoUrl": "",
+      "website": "https://blarneystonesandiego.com/",
+      "phone": "(619) 233-8519",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "502 Fifth Avenue, San Diego, CA 92101",
+      "lat": 32.710625,
+      "lng": -117.160275,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Mon-Thu 6pm-2am, Fri-Sun 4pm-2am",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "Blarney Stone Comedy Show",
+          "date": "2026-09-10",
+          "time": "20:00",
+          "description": "Get ready for laughs and good times at the Blarney Stone Comedy Show - funny folks, live and in person!"
+        }
+      ]
+    },
+    {
+      "slug": "hotel-indigo-san-diego-gaslamp-quarter",
+      "name": "Hotel Indigo San Diego Gaslamp Quarter",
+      "category": "Hotel",
+      "tagline": "Boutique IHG hotel with a rooftop bar",
+      "description": "A boutique IHG hotel near Petco Park featuring a rooftop bar and lounge overlooking the East Village and ballpark.",
+      "logoUrl": "",
+      "website": "https://www.ihg.com/hotelindigo/hotels/us/en/san-diego/sanis/hoteldetail",
+      "phone": "(619) 727-4000",
+      "email": "",
+      "instagram": "",
+      "facebook": "HotelIndigoSanDiegoGaslampQuarter",
+      "tiktok": "",
+      "address": "509 Ninth Ave, San Diego, CA 92101",
+      "lat": 32.710754,
+      "lng": -117.156162,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Open 24 hours (front desk)",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "San Diego Healthcare, Pharma & Business Networking Event",
+          "date": "2026-09-17",
+          "time": "19:00",
+          "description": "SUM OF FIVE | Meet Professionals In Healthcare, Pharma & Business"
+        }
+      ]
+    },
+    {
+      "slug": "5-o-clock-somewhere-rooftop-bar",
+      "name": "5 O'Clock Somewhere Rooftop Bar",
+      "category": "Bar",
+      "tagline": "Margaritaville rooftop bar near Petco Park",
+      "description": "The rooftop bar atop the Margaritaville Hotel San Diego in the Gaslamp, serving frozen cocktails and island fare with East Village and ballpark views.",
+      "logoUrl": "",
+      "website": "https://www.margaritavilleresorts.com/margaritaville-hotel-san-diego/eat-drink/5-oclock-somewhere-rooftop-bar",
+      "phone": "(619) 819-9770",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "616 J Street, San Diego, CA 92101",
+      "lat": 32.709616,
+      "lng": -117.158929,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Sun-Thu 11am-10pm, Fri-Sat 11am-11pm",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "Rooftop Pilates & Mimosas",
+          "date": "2026-09-19",
+          "time": "10:00",
+          "description": "Start your Saturday with rooftop views, a guided sculpt, and a post-class mimosa at Margaritaville Hotel San Diego."
+        }
+      ]
+    },
+    {
+      "slug": "petco-park",
+      "name": "Petco Park",
+      "category": "Landmark",
+      "tagline": "Downtown ballpark, home of the Padres",
+      "description": "The downtown San Diego ballpark that opened in 2004 and is home to the MLB San Diego Padres, hosting games, concerts and daily ballpark tours.",
+      "logoUrl": "",
+      "website": "https://www.mlb.com/padres/ballpark",
+      "phone": "(619) 795-5000",
+      "email": "",
+      "instagram": "@petcopark",
+      "facebook": "",
+      "tiktok": "",
+      "address": "100 Park Boulevard, San Diego, CA 92101",
+      "lat": 32.707617,
+      "lng": -117.15704,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Varies by event; tours daily (see padres.com)",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "Padres VS Marlins Rotating Seats Group Night",
+          "date": "2026-09-20",
+          "time": "11:30",
+          "description": "A fun way to enjoy the game and meet others in the group"
+        }
+      ]
+    },
+    {
+      "slug": "havana-1920",
+      "name": "Havana 1920",
+      "category": "Cuban Restaurant & Bar",
+      "tagline": "Cuban dining and drinks in the Gaslamp",
+      "description": "Cuban restaurant and bar themed on 1920s Havana, with a long weekday happy hour and a Friday reverse happy hour.",
+      "logoUrl": "images/vendors/GaslampActivities/havana-1920.png",
+      "website": "https://havana1920.com/",
+      "phone": "(619) 369-1920",
+      "email": "info@gbodgroup.com",
+      "instagram": "https://www.instagram.com/havana1920/",
+      "facebook": null,
+      "tiktok": null,
+      "address": "548 5th Ave, San Diego, CA 92101",
+      "lat": 32.7111386,
+      "lng": -117.1602953,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Sun-Thu 11am-10pm, Fri-Sat 11am-11pm (venue site); the Gaslamp Quarter listing shows shorter Mon-Wed hours",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Reverse Happy Hour",
+          "date": "Weekly",
+          "time": "9:00 PM",
+          "description": "Fridays 9pm to midnight"
+        }
+      ],
+      "_notes": "Phone differs between the venue site (619-332-4301) and the Gaslamp Quarter listing (619-369-1920); card uses the listing. Tuesday BOGO empanadas and Thursday half-price sandwiches were not seeded because they carry no dollar figure.",
+      "_geocode": {
+        "source": "Gaslamp Quarter Association listing (Google Places)",
+        "census_crosscheck": {
+          "lat": 32.7111386,
+          "lng": -117.1602953,
+          "offset_meters": 0
+        },
+        "verified_from_street_address": true
+      }
+    },
+    {
+      "slug": "aka-san-diego",
+      "name": "AKA San Diego",
+      "category": "Nightclub",
+      "tagline": "Asian-fusion restaurant, bar and lounge",
+      "description": "An Asian-fusion restaurant, bar and lounge that opened November 2024 in the former Lavo space in the Gaslamp, with a dining-and-nightlife concept.",
+      "logoUrl": "",
+      "website": "https://www.akagaslamp.com/",
+      "phone": "(619) 780-0430",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "611 Fifth Avenue, San Diego, CA 92101",
+      "lat": 32.711723,
+      "lng": -117.159885,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Sun-Thu 5pm-11pm, Fri-Sat 5pm-2am",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "Dystopia San Diego",
+          "date": "2026-09-25",
+          "time": "22:00",
+          "description": "Reimagining Latin Nightlife"
+        }
+      ]
+    },
+    {
+      "slug": "bards-cards",
+      "name": "Bards & Cards",
+      "category": "Games",
+      "tagline": "Board games, TCGs and tabletop play in the Gaslamp",
+      "description": "A tabletop game shop and community play space in downtown San Diego stocking board games, Magic, Pokemon and RPGs, with weekly tournaments and open play nights.",
+      "logoUrl": "",
+      "website": "https://bardsandcards.com/",
+      "phone": "(619) 937-2211",
+      "email": "",
+      "instagram": "",
+      "facebook": "bardsandcards",
+      "tiktok": "",
+      "address": "936 Fifth Avenue, San Diego, CA 92101",
+      "lat": 32.715161,
+      "lng": -117.160459,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Tue-Thu 11am-8pm, Fri-Sat 11am-9pm, Sun 11am-8pm, closed Mon",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "Adventures @ Bards & Cards (DH)",
+          "date": "2026-09-26",
+          "time": "11:30",
+          "description": "An afternoon Daggerheart One-Shot at Bards & Cards! Come join the tabletop roleplaying community in in downtown San Diego."
+        }
+      ]
+    },
+    {
+      "slug": "tivoli-bar-and-grill",
+      "name": "Tivoli Bar and Grill",
+      "category": "Bar",
+      "tagline": "San Diego's oldest bar, pouring since the 1880s",
+      "description": "A historic Gaslamp dive bar billed as San Diego's oldest, dating to the 1880s, with an original wood bar, many beers on tap and casual grill food.",
+      "logoUrl": "",
+      "website": "https://tivolibarsd.com/",
+      "phone": "(619) 232-6754",
+      "email": "",
+      "instagram": "@tivolibarandgrill",
+      "facebook": "TivoliBarandGrill",
+      "tiktok": "",
+      "address": "505 Sixth Avenue, San Diego, CA 92101",
+      "lat": 32.710582,
+      "lng": -117.158968,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Daily ~11am-2am",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "The Gaslamp Foodie Crawl (San Diego)",
+          "date": "2026-09-26",
+          "time": "13:45",
+          "description": "Get a Taste of The Gaslamp's Secret Bites on a Fun Crawl and After Party Event!"
+        }
+      ]
+    },
+    {
+      "slug": "the-sinclair-on-g-street",
+      "name": "The Sinclair on G Street",
+      "category": "Venue",
+      "tagline": "Historic brick event and wedding space in the Gaslamp",
+      "description": "A 5,700-sq-ft creative event and wedding venue in a historic Gaslamp building featuring exposed brick, vaulted ceilings, wood floors and seating for about 165.",
+      "logoUrl": "",
+      "website": "https://thesinclairsandiego.com/",
+      "phone": "(858) 281-0981",
+      "email": "",
+      "instagram": "",
+      "facebook": "TheSinclaironGStreet",
+      "tiktok": "",
+      "address": "643 G Street, San Diego, CA 92101",
+      "lat": 32.712442,
+      "lng": -117.158742,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "By appointment / event-based",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "6th Annual Calienté Music & Spirits Fest!",
+          "date": "2026-10-17",
+          "time": "14:00",
+          "description": "Calienté! A Latin Music, Spirits Fest Celebration and Expo"
+        }
+      ]
+    },
+    {
+      "slug": "pushkin-lounge-bar",
+      "name": "Pushkin Lounge & Bar",
+      "category": "Bar",
+      "tagline": "Russian-inspired lounge, cocktails and hookah",
+      "description": "An upscale Gaslamp lounge and bar serving Russian and European-inspired cuisine with a full cocktail bar and hookah.",
+      "logoUrl": "",
+      "website": "https://www.pushkinlounge.com/",
+      "phone": "(619) 496-1908",
+      "email": "",
+      "instagram": "@pushkinloungebar",
+      "facebook": "pushkinsandiego",
+      "tiktok": "",
+      "address": "750 Sixth Avenue, San Diego, CA 92101",
+      "lat": 32.713336,
+      "lng": -117.159408,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Mon-Thu 6pm-1am, Fri 6pm-2am, Sat 5pm-2am, Sun 5pm-1am",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "Anton Lirnik Stand-up comedy in San Diego",
+          "date": "2026-10-17",
+          "time": "21:00",
+          "description": "Anton Lirnik brings his new stand-up show to San Diego - one unforgettable night of hilarious stories, sharp humor, and nonstop laughs!"
+        }
+      ]
+    },
+    {
+      "slug": "casa-octavio",
+      "name": "Casa Octavio",
+      "category": "Restaurant",
+      "tagline": "Elevated Mexican with tequila and mezcal cocktails",
+      "description": "A lively Gaslamp Mexican restaurant and mezcal/tequila cocktail bar near Petco Park, known for street tacos, ceviche, mole, weekend brunch and bottomless mimosas.",
+      "logoUrl": "",
+      "website": "https://casaoctaviosd.com/",
+      "phone": "(619) 915-6967",
+      "email": "",
+      "instagram": "@casaoctaviosd",
+      "facebook": "",
+      "tiktok": "",
+      "address": "935 J Street, San Diego, CA 92101",
+      "lat": 32.709278,
+      "lng": -117.155825,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Mon 2pm-12am, Tue-Sat 11am-12am, Sun brunch to evening",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "New Years Eve",
+          "date": "2026-12-31",
+          "time": "18:00",
+          "description": "Come ring in the New Year with us - fun vibes, great music, and good company all night long!"
+        }
+      ]
+    },
+    {
+      "slug": "stk-steakhouse",
+      "name": "STK Steakhouse",
+      "category": "Restaurant",
+      "tagline": "Chic steakhouse and rooftop at the Andaz",
+      "description": "An upscale, high-energy steakhouse on the ground floor of Andaz San Diego in the Gaslamp, with a rooftop lounge, weekend brunch and daily happy hour.",
+      "logoUrl": "",
+      "website": "https://stksteakhouse.com/en-us/location/san-diego/",
+      "phone": "(619) 354-5988",
+      "email": "",
+      "instagram": "@eatstk",
+      "facebook": "STKsandiego",
+      "tiktok": "",
+      "address": "600 F Street, San Diego, CA 92101",
+      "lat": 32.713867,
+      "lng": -117.15892,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Mon-Thu 2:30-11pm, Fri 2:30pm-12am, Sat 9am-12am, Sun 9am-11pm",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "SD Networking Events January 2027 Business Networking Mixer",
+          "date": "2027-01-14",
+          "time": "17:00",
+          "description": "SD Networking Events January 2027 Business Networking Mixer"
+        }
+      ]
+    },
+    {
+      "slug": "uc-san-diego-park-market",
+      "name": "UC San Diego Park & Market",
+      "category": "Venue",
+      "tagline": "UC San Diego's downtown events and learning hub",
+      "description": "A four-story UC San Diego mixed-use building in East Village hosting public programs, exhibitions and events, including the 220-seat Guggenheim Theatre.",
+      "logoUrl": "",
+      "website": "https://parkandmarket.ucsd.edu/",
+      "phone": "(858) 534-1010",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "1100 Market Street, San Diego, CA 92101",
+      "lat": 32.709219,
+      "lng": -117.160831,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Event and program-based",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "title": "SD Networking Events - Finance Summit 2027",
+          "date": "2027-01-21",
+          "time": "16:00",
+          "description": "Finance Summit 2027 - The Finance Summit brings together industry experts, thought leaders, and professionals."
+        }
+      ]
+    },
+    {
+      "slug": "union-kitchen-tap-gaslamp",
+      "name": "Union Kitchen & Tap Gaslamp",
+      "category": "Restaurant & Bar",
+      "tagline": "Farm-to-table American fare and the Gaslamp's Cowboys bar",
+      "description": "Craft beer and American kitchen steps from Petco Park. Home of Dallas Cowboys game days, Padres home game specials, Thursday trivia and champagne weekend brunch.",
+      "logoUrl": "images/vendors/GaslampActivities/union-kitchen-tap-gaslamp.png",
+      "website": "https://www.gaslampunion.com/",
+      "phone": "(619) 795-9463",
+      "email": "info@gaslampunion.com",
+      "instagram": "https://www.instagram.com/uniongaslamp/",
+      "facebook": null,
+      "tiktok": null,
+      "address": "333 5th Ave, San Diego, CA 92101",
+      "lat": 32.7085904,
+      "lng": -117.1598386,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Mon-Thu 11am-10pm, Fri 11am-12am, Sat 9am-12am, Sun 9am-10pm (Instagram)",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Thursday Trivia",
+          "date": "Weekly",
+          "time": "7:00 PM",
+          "description": "Weekly trivia night"
+        },
+        {
+          "title": "Cowboys vs Ravens",
+          "date": "2026-09-27",
+          "time": "1:25 PM",
+          "description": "Every Cowboys game with full sound"
+        }
+      ],
+      "_notes": "Hours conflict: website says Mon-Thu to 12am, Fri-Sat to 2am, Sun to 12am. Card uses Instagram hours.",
+      "_pinSource": "Gaslamp Quarter Association listing (Google Places pin); confirm in Google Maps before running",
+      "_geocode": {
+        "source": "Gaslamp Quarter Association listing (Google Places)",
+        "census_crosscheck": {
+          "lat": 32.7086894,
+          "lng": -117.1600271,
+          "offset_meters": 20.8
+        },
+        "verified_from_street_address": true
+      }
+    },
+    {
+      "slug": "werewolf-american-pub",
+      "name": "Werewolf American Pub",
+      "category": "Bar & Grill",
+      "tagline": "Brunch all day and karaoke every night",
+      "description": "American pub two blocks from Petco Park. Brunch daily 8am to 3pm, Almost Famous karaoke nightly with no cover, and a Halloween pop-up bar all October.",
+      "logoUrl": "images/vendors/GaslampActivities/werewolf-american-pub.png",
+      "website": "https://thewerewolf.net/",
+      "phone": "(619) 234-0094",
+      "email": null,
+      "instagram": "https://www.instagram.com/werewolfsd/",
+      "facebook": null,
+      "tiktok": null,
+      "address": "627 4th Ave, San Diego, CA 92101",
+      "lat": 32.7119428,
+      "lng": -117.1607806,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Daily 8am-2am",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Halloween Pop-Up Bar",
+          "date": "2026-10-01",
+          "time": "8:00 AM",
+          "description": "Runs through Nov 2"
+        },
+        {
+          "title": "Karaoke",
+          "date": "Nightly",
+          "time": "9:00 PM",
+          "description": "9pm to 1am"
+        }
+      ],
+      "_notes": "Phone is from the Gaslamp Quarter Association listing. That listing also shows shorter hours; card uses the venue website and Instagram (daily 8am-2am).",
+      "_pinSource": "Gaslamp Quarter Association listing (Google Places pin); confirm in Google Maps before running",
+      "_geocode": {
+        "source": "Gaslamp Quarter Association listing (Google Places)",
+        "census_crosscheck": {
+          "lat": 32.7117969,
+          "lng": -117.1609776,
+          "offset_meters": 24.6
+        },
+        "verified_from_street_address": true
+      }
+    },
+    {
+      "slug": "barleymash",
+      "name": "barleymash",
+      "category": "Sports Bar",
+      "tagline": "High-energy restaurant, bar and nightclub",
+      "description": "Beer and bourbon focused Gaslamp sports bar. $6 MNF mini menu, Sunday NFL Rewards prizes all season and Oktoberfest through Oct 4.",
+      "logoUrl": "images/vendors/GaslampActivities/barleymash.png",
+      "website": "https://www.barleymash.com/",
+      "phone": "(619) 255-7373",
+      "email": null,
+      "instagram": "https://www.instagram.com/barleymashsd/",
+      "facebook": null,
+      "tiktok": null,
+      "address": "600 5th Ave, San Diego, CA 92101",
+      "lat": 32.711697,
+      "lng": -117.16042,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Mon-Fri 12pm-2am, Sat-Sun 9am-2am (Instagram)",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Sunday NFL Rewards",
+          "date": "Weekly",
+          "time": "10:00 AM",
+          "description": "Weekly prizes, $1,000 grand prize in week 18"
+        },
+        {
+          "title": "Oktoberfest",
+          "date": "2026-10-04",
+          "time": "All day",
+          "description": "Last day of Oktoberfest specials"
+        }
+      ],
+      "_notes": "No email published. Happy hour was removed: the only source was a listing more than two years old, and barleymash does not post one. Collect in person.",
+      "_pinSource": "Gaslamp Quarter Association listing (Google Places pin); confirm in Google Maps before running",
+      "_geocode": {
+        "source": "Gaslamp Quarter Association listing (Google Places)",
+        "census_crosscheck": {
+          "lat": 32.7115456,
+          "lng": -117.1601899,
+          "offset_meters": 27.4
+        },
+        "verified_from_street_address": true
+      }
+    },
+    {
+      "slug": "the-field-irish-pub",
+      "name": "The Field Irish Pub",
+      "category": "Irish Pub",
+      "tagline": "A real Irish pub shipped piece by piece to the Gaslamp",
+      "description": "Irish pub and restaurant built from a pub shipped over from Ireland. Guinness, Irish fare, soccer and rugby, and Padres pregame specials.",
+      "logoUrl": "images/vendors/GaslampActivities/the-field-irish-pub.png",
+      "website": "https://thefield.com/",
+      "phone": "(619) 232-9840",
+      "email": "stacy@thefield.com",
+      "instagram": "https://www.instagram.com/thefieldsd/",
+      "facebook": "https://www.facebook.com/78972579002",
+      "tiktok": null,
+      "address": "544 5th Ave, San Diego, CA 92101",
+      "lat": 32.7110488,
+      "lng": -117.160413,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Mon-Thu 12pm-12am, Fri 12pm-2am, Sat 9am-2am, Sun 9am-12am",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Padres Pregame Specials",
+          "date": "2026-09-25",
+          "time": "4:40 PM",
+          "description": "Two hours before first pitch"
+        }
+      ],
+      "_notes": "Happy hour is from a third-party listing only (King of Happy Hour); the pub doesn't post it.",
+      "_pinSource": "Gaslamp Quarter Association listing (Google Places pin); confirm in Google Maps before running",
+      "_geocode": {
+        "source": "Gaslamp Quarter Association listing (Google Places)",
+        "census_crosscheck": {
+          "lat": 32.710909,
+          "lng": -117.1601876,
+          "offset_meters": 26.2
+        },
+        "verified_from_street_address": true
+      }
+    },
+    {
+      "slug": "patricks-gaslamp-pub",
+      "name": "Patrick's Gaslamp Pub",
+      "category": "Irish Pub & Live Music",
+      "tagline": "Blues, soul and rock 'n' roll since 1933",
+      "description": "One of the oldest bars in the Gaslamp, with live local bands nightly and Monday trivia.",
+      "logoUrl": "images/vendors/GaslampActivities/patricks-gaslamp-pub.png",
+      "website": "https://www.patricksgaslamppub.com/",
+      "phone": "(619) 230-5323",
+      "email": "info@patricksgaslamppub.com",
+      "instagram": "https://www.instagram.com/patricksgaslamppub/",
+      "facebook": null,
+      "tiktok": null,
+      "address": "428 F St, San Diego, CA 92101",
+      "lat": 32.7137431,
+      "lng": -117.160572,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Mon-Thu 4pm-2am, Fri 2pm-2am, Sat-Sun 12pm-2am",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Monday Trivia",
+          "date": "Weekly",
+          "time": "6:30 PM",
+          "description": "$5 Guinness, $6 wells and wine"
+        }
+      ],
+      "_notes": "Conflicts: Gaslamp Quarter listing has phone (619) 233-3077 and a 3pm weekday open. Card uses the pub's own website. Instagram bio says 'Go Bills' but no Bills watch parties are posted, so none were seeded.",
+      "_pinSource": "Gaslamp Quarter Association listing (Google Places pin); confirm in Google Maps before running",
+      "_geocode": {
+        "source": "Gaslamp Quarter Association listing (Google Places)",
+        "census_crosscheck": {
+          "lat": 32.7136787,
+          "lng": -117.1607785,
+          "offset_meters": 20.6
+        },
+        "verified_from_street_address": true
+      }
+    },
+    {
+      "slug": "happy-does",
+      "name": "Happy Does",
+      "category": "Bar & Game Hall",
+      "tagline": "San Diego's newest retro watering hole",
+      "description": "Retro bar with a patio, game hall and karaoke room: cornhole, darts, ping pong and shuffleboard, plus fried chicken and power packed drinks. 21+ after 7pm.",
+      "logoUrl": "images/vendors/GaslampActivities/happy-does.png",
+      "website": "https://www.happydoesbar.com/",
+      "phone": "(619) 877-1880",
+      "email": "info@happydoesbar.com",
+      "instagram": "https://www.instagram.com/happydoesbar/",
+      "facebook": null,
+      "tiktok": null,
+      "address": "340 5th Ave, San Diego, CA 92101",
+      "lat": 32.7089181,
+      "lng": -117.1603716,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Thu-Fri 3pm-2am, Sat 11am-2am, Sun 11am-10pm (kitchen closes 9:30pm, 9pm Sunday)",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Karaoke Night",
+          "date": "Thu-Sat",
+          "time": "8:30 PM",
+          "description": "In the karaoke room"
+        }
+      ],
+      "_notes": "Instagram checked Sept 2026 via VidIQ. Confirmed doors open 3pm and Club Happy at 9pm with a named resident DJ each night. Club Happy is tied to the Padres regular season and ends after 9/26, so its recurrence has an until date. Hours conflict with the Gaslamp Quarter listing remains; card uses the venue website.",
+      "_pinSource": "gaslamp.org listing",
+      "_geocode": {
+        "source": "Gaslamp Quarter Association listing (Google Places)",
+        "census_crosscheck": {
+          "lat": 32.7087644,
+          "lng": -117.1601644,
+          "offset_meters": 25.9
+        },
+        "verified_from_street_address": true
+      },
+      "_instagram_checked": "2026-09-23 via VidIQ (public profile + reels)"
+    },
+    {
+      "slug": "rustic-root",
+      "name": "Rustic Root",
+      "category": "Restaurant & Rooftop Bar",
+      "tagline": "Modern rooftop destination in the Gaslamp",
+      "description": "Rooftop bar and American kitchen with local seasonal cuisine, craft cocktails, a themed weekly lineup and bottomless weekend rooftop brunch.",
+      "logoUrl": "images/vendors/GaslampActivities/rustic-root.png",
+      "website": "https://www.rusticrootsd.com/",
+      "phone": "(619) 232-1747",
+      "email": null,
+      "instagram": "https://www.instagram.com/rusticrootsd/",
+      "facebook": "https://www.facebook.com/rusticrootsd/",
+      "tiktok": null,
+      "address": "535 5th Ave, San Diego, CA 92101",
+      "lat": 32.7109884,
+      "lng": -117.1598845,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Mon-Fri opens 5pm, Sat-Sun opens 10am",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Yacht Rock Brunch",
+          "date": "2026-10-10",
+          "time": "10:00 AM",
+          "description": "Themed rooftop brunch"
+        }
+      ],
+      "_notes": "Instagram checked Sept 2026 via VidIQ, which confirmed and priced the weekly lineup: Rustic Combo Monday is a chef burger plus fries plus a draft beer for $25 with a rotating burger of the month; Sunday Sauce is a $24 weekly pasta special with bottomless wine for $24 more; Tuesday is all night happy hour plus Girl Dinner. Start times are still placeholders because the venue posts none. Solana Beach is a second location and was not seeded.",
+      "_pinSource": "gaslamp.org listing",
+      "_geocode": {
+        "source": "Gaslamp Quarter Association listing (Google Places)",
+        "census_crosscheck": {
+          "lat": 32.7107963,
+          "lng": -117.1600525,
+          "offset_meters": 26.5
+        },
+        "verified_from_street_address": true
+      },
+      "_instagram_checked": "2026-09-23 via VidIQ (public profile + reels)"
+    },
+    {
+      "slug": "fat-tuesday-gaslamp",
+      "name": "Fat Tuesday",
+      "category": "Frozen Cocktail Bar",
+      "tagline": "Home of the 190 Octane",
+      "description": "3,600 sq ft flagship of the country's largest frozen cocktail brand, in the former Henry's Pub space. Frozen daiquiris, pizza and weekend entertainment.",
+      "logoUrl": "images/vendors/GaslampActivities/fat-tuesday-gaslamp.png",
+      "website": "https://www.fattuesday.com/",
+      "phone": "(619) 238-2389",
+      "email": "gaslamp@fat-tuesday.com",
+      "instagram": "https://www.instagram.com/fattuesdaysandiego/",
+      "facebook": null,
+      "tiktok": null,
+      "address": "618 5th Ave, San Diego, CA 92101",
+      "lat": 32.711918,
+      "lng": -117.1603056,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Mon-Fri 12pm-2am, Sat-Sun 10am-2am",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Game Day Specials",
+          "date": "Sundays",
+          "time": "10:00 AM",
+          "description": "$25 domestic beer buckets"
+        }
+      ],
+      "_notes": "Instagram handle CONFIRMED as @fattuesdaysandiego (verified account, 7.1K followers). Reels checked Sept 2026: no weekly schedule is posted, only a Dollar Daiqs Rewards loyalty program ($5 off your next round). Happy hour days and times still come from a third-party listing.",
+      "_pinSource": "gaslamp.org listing",
+      "_geocode": {
+        "source": "Gaslamp Quarter Association listing (Google Places)",
+        "census_crosscheck": {
+          "lat": 32.711722,
+          "lng": -117.1601924,
+          "offset_meters": 24.3
+        },
+        "verified_from_street_address": true
+      },
+      "_instagram_checked": "2026-09-23 via VidIQ (public profile + reels)"
+    },
+    {
+      "slug": "bang-sd",
+      "name": "Bang",
+      "category": "Nightclub & Asian Fusion",
+      "tagline": "Sushi dinner turned nightclub",
+      "description": "Asian-fusion restaurant and nightclub. Dinner service early, rotating DJs playing deep house, minimalist techno and EDM later.",
+      "logoUrl": "images/vendors/GaslampActivities/bang-sd.png",
+      "website": "https://bangsandiego.com/",
+      "phone": "(619) 677-5650",
+      "email": null,
+      "instagram": "https://www.instagram.com/bang_sandiego/",
+      "facebook": "https://www.facebook.com/BangBangSanDiego/",
+      "tiktok": null,
+      "address": "526 Market St, San Diego, CA 92101",
+      "lat": 32.7117449,
+      "lng": -117.159646,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Thu-Sat 5pm-2am, closed Sun-Wed (venue website)",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Weekend Nightclub",
+          "date": "Fri-Sat",
+          "time": "5:00 PM",
+          "description": "Cover reported $20-30 cash"
+        }
+      ],
+      "_notes": "Instagram checked Sept 2026 via VidIQ. Confirmed Thursday to Saturday, but Instagram says service starts at 6pm while the website says 5pm; the card keeps 5pm and flags the conflict. Signature Saturdays is a recurring promoter night. Red Room events run 5pm to 10pm, free with RSVP or $10 at the door.",
+      "_pinSource": "gaslamp.org listing",
+      "_geocode": {
+        "source": "Gaslamp Quarter Association listing (Google Places)",
+        "census_crosscheck": {
+          "lat": 32.7115515,
+          "lng": -117.1597655,
+          "offset_meters": 24.3
+        },
+        "verified_from_street_address": true
+      },
+      "_instagram_checked": "2026-09-23 via VidIQ (public profile + reels)"
+    },
+    {
+      "slug": "toro-gaslamp",
+      "name": "TORO",
+      "category": "Nightclub & Taco Restaurant",
+      "tagline": "Two-level jungle-themed club and gourmet tacos",
+      "description": "Two-level nightclub and gourmet taco restaurant: EDM, rap, hip hop and latin depending on the floor. Brunch, lunch and dinner earlier, weekly parties at night.",
+      "logoUrl": "images/vendors/GaslampActivities/toro-gaslamp.png",
+      "website": "https://torosd.com/",
+      "phone": "(619) 922-4771",
+      "email": "torogaslamp@gmail.com",
+      "instagram": "https://www.instagram.com/toronightclub/",
+      "facebook": "https://www.facebook.com/toroSDCA",
+      "tiktok": null,
+      "address": "672 5th Ave, San Diego, CA 92101",
+      "lat": 32.7123971,
+      "lng": -117.1604242,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Thu-Sat nights; Sunday on holiday weekends (Instagram)",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "TORO Fridays",
+          "date": "Weekly",
+          "time": "8:00 PM",
+          "description": "Two DJs across two dance floors"
+        }
+      ],
+      "_notes": "Instagram checked Sept 2026 via VidIQ. Confirmed: two levels, two DJs, hip hop / reggaeton / EDM by floor; free cover with RSVP on Fridays; $5 any drink until 10:30pm Thursdays; VIP by texting TORO to 818.239.9250. Sunday reggaeton parties are promoter-run (Perreo World) and not every week. Daytime food service is still not published.",
+      "_pinSource": "gaslamp.org listing",
+      "_geocode": {
+        "source": "Gaslamp Quarter Association listing (Google Places)",
+        "census_crosscheck": {
+          "lat": 32.7122512,
+          "lng": -117.1602006,
+          "offset_meters": 26.5
+        },
+        "verified_from_street_address": true
+      },
+      "_instagram_checked": "2026-09-23 via VidIQ (public profile + reels)"
+    },
+    {
+      "slug": "onyx-room-nightclub",
+      "name": "Onyx Room Nightclub",
+      "category": "Nightclub",
+      "tagline": "Three rooms, music to please everyone",
+      "description": "Downtown nightclub with three rooms and a Friday/Saturday resident lineup. VIP tables, guest list and bottle service.",
+      "logoUrl": "images/vendors/GaslampActivities/onyx-room-nightclub.png",
+      "website": "https://www.onyxroom.com/",
+      "phone": "(619) 235-6699",
+      "email": null,
+      "instagram": "https://www.instagram.com/onyxroomnightclub/",
+      "facebook": "https://www.facebook.com/onyxroomnightlcub",
+      "tiktok": null,
+      "address": "852 5th Ave, San Diego, CA 92101",
+      "lat": 32.7143492,
+      "lng": -117.1605279,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Fri-Sat nights, free entry before 10pm with guestlist RSVP",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Friday Night Essentials",
+          "date": "Weekly",
+          "time": "9:00 PM",
+          "description": "Weekly Friday club night"
+        }
+      ],
+      "_notes": "Instagram checked Sept 2026 via VidIQ. Confirmed: 852 Fifth Ave, three rooms, 21+ with valid ID, guestlist at onyxroom.com gives free entry before 10pm, and a downstairs room called The Grotto that hosts themed nights. Exact door times are still not published.",
+      "_pinSource": "gaslamp.org listing",
+      "_geocode": {
+        "source": "Gaslamp Quarter Association listing (Google Places)",
+        "census_crosscheck": {
+          "lat": 32.7141651,
+          "lng": -117.1602173,
+          "offset_meters": 35.6
+        },
+        "verified_from_street_address": true
+      },
+      "_instagram_checked": "2026-09-23 via VidIQ (public profile + reels)"
+    },
+    {
+      "slug": "the-whiskey-house",
+      "name": "The Whiskey House",
+      "category": "Whiskey Bar",
+      "tagline": "Guinness World Record holder for the most whiskeys",
+      "description": "Whiskey bar holding the Guinness World Record for the largest whiskey selection, a few blocks from Petco Park and the Convention Center. Daily happy hour and weekend brunch.",
+      "logoUrl": "images/vendors/GaslampActivities/the-whiskey-house.png",
+      "website": "https://www.thewhiskeyhousesd.com/",
+      "phone": "(619) 546-6289",
+      "email": null,
+      "instagram": "https://www.instagram.com/thewhiskeyhousesd/",
+      "facebook": null,
+      "tiktok": null,
+      "address": "420 3rd Ave, San Diego, CA 92101",
+      "lat": 32.7096184,
+      "lng": -117.161986,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Mon-Wed 4pm-11pm, Thu 4pm-12am, Fri-Sat 10am-1:30am, Sun 10am-11pm (brunch 10am-3pm Fri-Sun)",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Daily Happy Hour",
+          "date": "Daily",
+          "time": "4:00 PM",
+          "description": "$5 beers, $8 wine, $8 cocktails"
+        }
+      ],
+      "_notes": "Happy hour pricing does not apply to takeout. Pin is the US Census geocode; this venue has no Gaslamp Quarter Association listing.",
+      "_geocode": {
+        "source": "US Census geocoder (onelineaddress, Public_AR_Current)",
+        "census_crosscheck": {
+          "lat": 32.7096184,
+          "lng": -117.161986,
+          "offset_meters": 0
+        },
+        "verified_from_street_address": true
+      }
+    },
+    {
+      "slug": "gaslamp-tavern",
+      "name": "Gaslamp Tavern",
+      "category": "Sports Bar",
+      "tagline": "A sports bar, plain and simple",
+      "description": "Sports bar open since 2005 with open windows onto 5th Ave, wall-to-wall TVs, off-track betting and live music.",
+      "logoUrl": "images/vendors/GaslampActivities/gaslamp-tavern.png",
+      "website": "https://gaslamptavern.com/",
+      "phone": "(619) 239-3339",
+      "email": "info@gaslamptavern.com",
+      "instagram": "https://www.instagram.com/gaslamptavern/",
+      "facebook": null,
+      "tiktok": null,
+      "address": "868 5th Ave, San Diego, CA 92101",
+      "lat": 32.7144867,
+      "lng": -117.1605508,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Mon-Thu 11am-11pm, Fri 11am-1:30am, Sat 10am-1:30am, Sun 9am-11pm",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Daily Happy Hour",
+          "date": "Daily",
+          "time": "3:00 PM",
+          "description": "$6 well drinks, $2 shareables"
+        }
+      ],
+      "_notes": "Live music is advertised on the Gaslamp Quarter listing but no schedule is published; not seeded.",
+      "_geocode": {
+        "source": "Gaslamp Quarter Association listing (Google Places)",
+        "census_crosscheck": {
+          "lat": 32.7143137,
+          "lng": -117.1602182,
+          "offset_meters": 36.6
+        },
+        "verified_from_street_address": true
+      }
+    },
+    {
+      "slug": "greystone-prime-steakhouse",
+      "name": "Greystone Prime Steakhouse & Seafood",
+      "category": "Steakhouse",
+      "tagline": "Prime steak and seafood in the Gaslamp",
+      "description": "Wagyu-focused prime steakhouse and seafood restaurant with a daily happy hour.",
+      "logoUrl": "images/vendors/GaslampActivities/greystone-prime-steakhouse.png",
+      "website": "https://www.greystonesteakhouse.com/",
+      "phone": "(619) 232-0225",
+      "email": "Events@SanDiegoDiningGroup.com",
+      "instagram": "https://www.instagram.com/greystonesteak/",
+      "facebook": null,
+      "tiktok": null,
+      "address": "658 5th Ave, San Diego, CA 92101",
+      "lat": 32.7122843,
+      "lng": -117.160367,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Daily 4pm-10pm",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Daily Happy Hour",
+          "date": "Daily",
+          "time": "4:00 PM",
+          "description": "$6 bottled beers, cocktails $7-$10"
+        }
+      ],
+      "_notes": "Happy hour confirmed on the venue's own menu page.",
+      "_geocode": {
+        "source": "Gaslamp Quarter Association listing (Google Places)",
+        "census_crosscheck": {
+          "lat": 32.712114,
+          "lng": -117.1601985,
+          "offset_meters": 24.7
+        },
+        "verified_from_street_address": true
+      }
+    },
+    {
+      "slug": "osteria-panevino",
+      "name": "Osteria Panevino",
+      "category": "Italian Restaurant",
+      "tagline": "The Gaslamp's longest-standing Italian gem since 1992",
+      "description": "Sicilian kitchen with handmade pasta and wood-fired pizza under Chef Vincenzo Lo Verso, plus a regular and a late night happy hour.",
+      "logoUrl": "images/vendors/GaslampActivities/osteria-panevino.png",
+      "website": "https://www.osteriapanevino.com/",
+      "phone": "(619) 595-7959",
+      "email": null,
+      "instagram": "https://www.instagram.com/osteriapanevino/",
+      "facebook": null,
+      "tiktok": null,
+      "address": "722 5th Ave, San Diego, CA 92101",
+      "lat": 32.7129612,
+      "lng": -117.1605279,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Sun-Thu 4pm-9:30pm, Fri-Sat 4pm-10pm (venue site); the Gaslamp Quarter listing says Mon-Thu and Sun to 10pm, Fri-Sat to 11pm",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Happy Hour",
+          "date": "Daily",
+          "time": "4:00 PM",
+          "description": "Times and prices are PDF-only"
+        }
+      ],
+      "_notes": "NO HAPPY HOUR ROW: the restaurant publishes its happy hour and late night happy hour only as PDFs and an image, so no days, times or prices could be read. A 2022 Gaslamp Quarter article said Sun-Thu 4-6pm, which is too old to use. Collect in person.",
+      "_geocode": {
+        "source": "Gaslamp Quarter Association listing (Google Places)",
+        "census_crosscheck": {
+          "lat": 32.7129612,
+          "lng": -117.1605279,
+          "offset_meters": 0
+        },
+        "verified_from_street_address": true
+      }
+    },
+    {
+      "slug": "meze-greek-fusion",
+      "name": "Mezé Greek Fusion",
+      "category": "Greek Restaurant",
+      "tagline": "Greek fusion and small plates in a 7,000 sq ft Gaslamp space",
+      "description": "Greek fusion restaurant with mezze, handcrafted cocktails, private event rooms and a Saturday belly dance performance.",
+      "logoUrl": "images/vendors/GaslampActivities/meze-greek-fusion.png",
+      "website": "https://gaslampmeze.com/",
+      "phone": "(619) 550-1600",
+      "email": "info@gaslampmeze.com",
+      "instagram": "https://www.instagram.com/gaslampmeze/",
+      "facebook": null,
+      "tiktok": null,
+      "address": "345 6th Ave, San Diego, CA 92101",
+      "lat": 32.7089379,
+      "lng": -117.1588736,
+      "neighborhood": "Gaslamp Quarter",
+      "hours": "Sun-Thu 11:30am-9pm, Fri-Sat 11:30am-10pm",
+      "featured": false,
+      "verified": true,
+      "events": [
+        {
+          "title": "Belly Dance",
+          "date": "Weekly",
+          "time": "8:00 PM",
+          "description": "Every Saturday"
+        }
+      ],
+      "_notes": "Happy hour days and times are from the venue's own site; the price tiers come from a third-party menu listing. Phone differs between the venue site (619-639-8599) and the Gaslamp Quarter listing (619-550-1600); card uses the listing.",
+      "_geocode": {
+        "source": "Gaslamp Quarter Association listing (Google Places)",
+        "census_crosscheck": {
+          "lat": 32.7089379,
+          "lng": -117.1588736,
+          "offset_meters": 0
+        },
+        "verified_from_street_address": true
+      }
+    }
+  ],
+  "_generated": "2026-09-11 research pass (5 web-research agents)"
+}

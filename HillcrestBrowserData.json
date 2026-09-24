@@ -1,0 +1,3682 @@
+{
+  "generated": "2026-09-23",
+  "sources": [
+    "venue websites",
+    "Instagram (logged-in browse)",
+    "Eventbrite",
+    "third-party listings where noted"
+  ],
+  "schema": {
+    "happyHours": "recurring food and drink deals",
+    "activities": "things to attend; recurring=true uses days+start, recurring=false uses date+start"
+  },
+  "vendors": [
+    {
+      "slug": "gossip-grill",
+      "name": "Gossip Grill",
+      "category": "LGBTQ+ women's bar & restaurant",
+      "address": "1220 University Ave, San Diego, CA 92103",
+      "website": "https://gossipgrill.com/",
+      "instagram": "@gossipgrill_",
+      "phone": "619-260-8023",
+      "hours": "Mon closed; Tue-Thu 2pm-12am; Fri 2pm-2am; Sat 11am-2am; Sun 11am-10pm",
+      "tagline": "Southern California's women's bar known for its three finger pour, eats and sassy service",
+      "isNew": false,
+      "siteNotes": "Active. The site contradicts itself: the homepage says Monday CLOSED, but the happy hour page describes an all-day Monday happy hour. Instagram could not be loaded."
+    },
+    {
+      "slug": "eq",
+      "name": "EQ San Diego",
+      "category": "Bar / electronic music club",
+      "address": "1271 University Ave, San Diego, CA 92103",
+      "website": "https://www.eqsandiego.com/",
+      "instagram": "@eqsandiego",
+      "phone": "(619) 299-1983",
+      "hours": "Mon-Sat 12pm-2am; Sun 12pm-11:30pm",
+      "tagline": "Hillcrest's destination for electronic music",
+      "isNew": false,
+      "siteNotes": "Active. Occupies the former Merrow space. No happy hour on site or third-party pages. The events page gives titles and start times only. The weekly nights below are inferred from dated listings that repeat on back-to-back weeks. Instagram could not be loaded. The IG bio carries a night-by-night schedule that the website's event list does not fully match."
+    },
+    {
+      "slug": "the-brass-rail",
+      "name": "The Brass Rail",
+      "category": "LGBTQ+ nightclub & bar",
+      "address": "3796 Fifth Ave, San Diego, CA 92103",
+      "website": "https://thebrassrailsd.com/",
+      "instagram": "@brassrailsd",
+      "phone": "619-203-2047",
+      "hours": "Mon-Tue 11am-12am; Wed-Sun 11am-2am",
+      "tagline": "San Diego's historic LGBT nightlife destination for drag, VIP service and events",
+      "isNew": false,
+      "siteNotes": "Active. The site is JavaScript-rendered and was read in a browser. It lists no happy hour; the happy hour below is third-party (King of Happy Hour). The 'Never Too Late' listing shows Sep 30, but its description says Sunday Sep 13. The Oct 5 Monday Mamis listing shows an end time of '10:30 AM', likely a typo. November dates also exist on the site. Instagram could not be loaded. IG adds Sabados En Fuego (weekly Saturday Latin night, returning Oct 3) and several dated events the site does not list."
+    },
+    {
+      "slug": "negociant-winery",
+      "name": "Négociant Winery",
+      "category": "Urban winery / wine bar",
+      "address": "1263 University Ave, San Diego, CA 92103",
+      "website": "https://www.negociantwinery.com/",
+      "instagram": "@negociantwinery",
+      "phone": "619-535-1747",
+      "hours": "WE-TH 16:00-21:30; FR-SA 16:00-22:00; SU 12:00-16:00",
+      "tagline": "Bringing the craft of winemaking to an urban setting",
+      "isNew": false,
+      "siteNotes": "Active. The site gives happy hour times but no prices. Instagram was blocked. The IG bio gives a fuller weekly schedule than the site, including Wednesday trivia and Friday/Saturday live music, and later Friday/Saturday closing times (10pm)."
+    },
+    {
+      "slug": "rich-s",
+      "name": "Rich's San Diego",
+      "category": "Gay nightclub",
+      "address": "1051 University Ave, San Diego, CA 92103",
+      "website": "https://richssandiego.com/",
+      "instagram": "@richssandiego",
+      "phone": "619-990-2703",
+      "hours": "Mon-Tue closed; Wed-Thu 10pm-2am; Fri & Sun 9pm-2am; Sat 9pm-4am",
+      "tagline": "San Diego's largest gay nightclub",
+      "isNew": false,
+      "siteNotes": "Active. No happy hour. Events come from /thisweek/, which has titles and times only. For CatHaus, a third-party listing says 8pm; the official 7pm is used. Instagram could not be loaded."
+    },
+    {
+      "slug": "cork-stem",
+      "name": "Cork & Stem",
+      "category": "Wine bar & flower shop",
+      "address": "1035 University Ave, San Diego, CA 92103",
+      "website": "https://www.corkandstemsd.com/",
+      "instagram": "@corkandstemsd",
+      "phone": "619-535-0020",
+      "hours": "Wed-Fri 4pm-9pm; Sat 1pm-9pm; Sun 1pm-8pm",
+      "tagline": "San Diego's Wine Bar & Flower Shop",
+      "isNew": false,
+      "siteNotes": "The official site lists no hours and no happy hour; hours here come from the IG bio. The happy hour below is third-party only. IG shows monthly wine flight nights and regular workshops (candle-making, flowers), but most are posted without dates."
+    },
+    {
+      "slug": "r-place-bar-eatery",
+      "name": "R Place Bar & Eatery",
+      "category": "Sports bar & grill",
+      "address": "1027 University Ave, San Diego, CA 92103",
+      "website": "https://rplacesandiego.com/",
+      "instagram": "@rplacehillcrest",
+      "phone": "(619) 902-4646",
+      "hours": "Mon 3pm-12am; Wed-Thu 3pm-1am; Fri 3pm-2am; Sat 11am-2am; Sun 10am-12am (Tuesday not listed)",
+      "tagline": "American bar & grill in the heart of Hillcrest",
+      "isNew": false,
+      "siteNotes": "Active. The specials page has no Tuesday entry. The site also promotes NFL Sunday Ticket, college sports and Padres viewing. Instagram was blocked. CONFLICT: the IG bio says weekday happy hour is 4-6pm, while the website's specials page has happy hours starting at 3pm."
+    },
+    {
+      "slug": "breakfast-bitch",
+      "name": "Breakfast Bitch",
+      "category": "Breakfast & brunch",
+      "address": "3825 Fifth Ave, San Diego, CA 92103",
+      "website": "https://sd.eatbreakfastbitch.com/",
+      "instagram": "@breakfastbitch_official",
+      "phone": "",
+      "hours": "",
+      "tagline": "",
+      "isNew": false,
+      "siteNotes": "CLOSED. Yelp shows 'CLOSED - Updated September 2026'. The IG account now posts only from Phoenix. An active Eventbrite 'Sunday Funday' listing still carries the old 3825 Fifth Ave address, but its own description places the event at 330 E Roosevelt Rd, Phoenix, so the listing is stale. Do not create a card."
+    },
+    {
+      "slug": "urban-mo-s-bar-grill",
+      "name": "Urban MO's Bar & Grill",
+      "category": "LGBTQ+ bar & restaurant",
+      "address": "308 University Ave, San Diego, CA 92103",
+      "website": "https://urbanmos.com/",
+      "instagram": "@urbanmos",
+      "phone": "619-491-0400",
+      "hours": "Mon-Thu 10am-11pm; Fri 10am-1am; Sat 9am-1am; Sun 9am-11pm",
+      "tagline": "For over 30 years, a 'homo' away from home for the LGBTQ community",
+      "isNew": false,
+      "siteNotes": "Active. The happy hour page gives times but not prices; the '$6.50' figure comes from the events calendar. Instagram could not be loaded."
+    },
+    {
+      "slug": "alibi",
+      "name": "The Alibi",
+      "category": "Dive bar",
+      "address": "1403 University Ave, San Diego, CA 92103",
+      "website": "https://www.alibibars.com/",
+      "instagram": "@alibihillcrest",
+      "phone": "",
+      "hours": "",
+      "tagline": "You don't need a reason to drink, just an Alibi",
+      "isNew": false,
+      "siteNotes": "The official site (shared with the Santee location) has no hours, specials or events. It links @thealibibars on Instagram. Neither IG handle loaded. Third-party phone numbers conflict: (619) 922-2685 and (619) 295-0881."
+    },
+    {
+      "slug": "hillcrest-brewing-company",
+      "name": "Hillcrest Brewing Company",
+      "category": "Brewery / bar & pizzeria",
+      "address": "1458 University Ave, San Diego, CA 92103",
+      "website": "https://hillcrestbrewingcompany.com/",
+      "instagram": "@hillcrestbrewingcompany",
+      "phone": "(619) 269-4323",
+      "hours": "Opens Mon-Fri 2pm, Sat 11am, Sun 10am; kitchen closes Sun 8pm, Mon-Thu 9pm, Fri-Sat 10pm",
+      "tagline": "The first out & proud gay brewery in the world",
+      "isNew": false,
+      "siteNotes": "Active. No dated events are listed. Instagram was blocked."
+    },
+    {
+      "slug": "shift-pilates",
+      "name": "SHIFT Pilates",
+      "category": "Fitness",
+      "address": "1419 University Ave, Suite A, San Diego, CA 92103",
+      "website": "",
+      "instagram": "@shift.hillcrest",
+      "phone": "",
+      "hours": "",
+      "tagline": "Somatic Pilates in a boutique studio setting",
+      "isNew": false,
+      "siteNotes": "No official website found. The address is from Yelp. Booking goes through ClassPass/Mindbody, which needs JavaScript, so no schedule could be read. Instagram was blocked. IG confirms the address and studio type but posts no class schedule; booking stays behind Mindbody. Eventbrite carries a free intro reformer class with 22 dates, the only published schedule found for this studio."
+    },
+    {
+      "slug": "reset",
+      "name": "RESET CrossFit",
+      "category": "Fitness",
+      "address": "3904 Park Blvd, San Diego, CA 92103",
+      "website": "https://www.resetsd.com/",
+      "instagram": "@resetcrossfit",
+      "phone": "(619) 949-1934",
+      "hours": "",
+      "tagline": "Elevate Your Fitness & Wellness",
+      "isNew": false,
+      "siteNotes": "Active and welcomes drop-ins. The class schedule is an embedded PushPress calendar that couldn't be read. No events. Instagram was blocked. IG confirms an 8-week metabolic RESET program and bodywork sessions, but posts no class times."
+    },
+    {
+      "slug": "first-unitarian-universalist-church-of-san-diego",
+      "name": "First Unitarian Universalist Church of San Diego",
+      "category": "Church",
+      "address": "4190 Front St, San Diego, CA 92103",
+      "website": "https://www.firstuusandiego.org/",
+      "instagram": "@firstuusd",
+      "phone": "(619) 298-9978",
+      "hours": "",
+      "tagline": "",
+      "isNew": false,
+      "siteNotes": "Active. The site names groups but gives no meeting times. Off-site retreats and the South Bay campus are excluded. The Dec 19 concert page says 'Sunday', but Dec 19, 2026 is a Saturday. Instagram was blocked."
+    },
+    {
+      "slug": "artreach-san-diego",
+      "name": "ArtReach San Diego",
+      "category": "Arts nonprofit / studio",
+      "address": "1065 University Ave, San Diego, CA 92103",
+      "website": "https://www.artreachsandiego.org/",
+      "instagram": "@artreachsd",
+      "phone": "(619) 940-7278",
+      "hours": "",
+      "tagline": "Ignite Creativity. Build Skills. Foster Confidence.",
+      "isNew": false,
+      "siteNotes": "Active. The free family workshops listed are all past dates. The after-school session runs Aug 31 to Oct 8, 2026; no end times or prices are given. Instagram was blocked. IG: Holiday Art Market vendor applications close Oct 16."
+    },
+    {
+      "slug": "baja-betty-s",
+      "name": "Baja Betty's",
+      "category": "Mexican restaurant & bar",
+      "address": "1421 University Ave, San Diego, CA 92103",
+      "website": "https://bajabettyssd.com/",
+      "instagram": "@bajabettys",
+      "phone": "619-269-8510",
+      "hours": "Mon, Wed, Thu 11am-9pm; Tue & Fri 11am-10pm; Sat 10am-10pm; Sun 10am-9pm",
+      "tagline": "Serving Colorful People Colorful Drinks",
+      "isNew": true,
+      "siteNotes": "Active; a Mo's Universe venue. Papi Hour excludes holidays, special events and Agave Club. The events page shows no upcoming events. Instagram could not be loaded. IG confirms Papi Hour runs 2-6pm daily."
+    },
+    {
+      "slug": "nunu-s-tavern",
+      "name": "Nunu's Tavern",
+      "category": "Dive bar / tavern",
+      "address": "3537 5th Ave, San Diego, CA 92103",
+      "website": "https://nunustavern.com/",
+      "instagram": "@nunustavern",
+      "phone": "(619) 295-2878",
+      "hours": "Mon-Thu 5pm-2am; Fri-Sun 1pm-2am",
+      "tagline": "Hillcrest's oldest tavern, established 1962",
+      "isNew": true,
+      "siteNotes": "Now branded Nunu's Tavern (formerly Nunu's Cocktail Lounge). The official site has no happy hour or events. A Nov 2025 news article gives different hours; the site's hours are used. Instagram could not be loaded."
+    },
+    {
+      "slug": "1-fifth-avenue",
+      "name": "#1 Fifth Avenue",
+      "category": "Gay dive bar",
+      "address": "3845 Fifth Ave, San Diego, CA 92103",
+      "website": "https://www.numberonefifth.com/",
+      "instagram": "@number_one_fifth",
+      "phone": "(619) 299-1911",
+      "hours": "Mon-Thu 3pm-1:30am; Fri-Sat 12pm-2am; Sun 12pm-1:30am",
+      "tagline": "Gay Dive Bar in Hillcrest San Diego",
+      "isNew": true,
+      "siteNotes": "Active. CONFLICT: the website says happy hour is weekdays 2-6pm, but IG says 3-7pm (and the site's own hours say it opens at 3pm Mon-Thu). The IG times are used here. The weekly lineup comes from the venue's 'THIS WEEK AT A GLIMPSE' flyer for Sept 21-27, so the nights recur but the flyer is dated to that week. One Saturday act was not legible on the flyer."
+    },
+    {
+      "slug": "flicks",
+      "name": "Flicks",
+      "category": "Gay video bar",
+      "address": "1017 University Ave, San Diego, CA 92103",
+      "website": "https://www.sdflicks.com/",
+      "instagram": "@flicks_sd",
+      "phone": "(619) 297-2056",
+      "hours": "Mon-Thu 4pm-2am; Fri-Sat 2pm-2am; Sun 12pm-2am",
+      "tagline": "Best Gay Bar in San Diego",
+      "isNew": true,
+      "siteNotes": "Active. The phone number is from Yelp. The site lists no happy hour. Weekly nights have times but no descriptions. The /events page shows only past August entries. Instagram was blocked. The IG bio states a weekday happy hour until 8pm that the website does not list."
+    },
+    {
+      "slug": "uptown-tavern",
+      "name": "Uptown Tavern",
+      "category": "Tavern / restaurant",
+      "address": "1236 University Ave, San Diego, CA 92103",
+      "website": "https://uptowntavernsd.com/",
+      "instagram": "@uptowntavernsd",
+      "phone": "(619) 241-2710",
+      "hours": "Tue-Wed 4pm-11pm; Thu-Fri 4pm-12am; Sat 12pm-12am; Sun 11am-11pm; Mon closed",
+      "tagline": "",
+      "isNew": true,
+      "siteNotes": "Active. No dated events. Instagram was blocked. IG bio confirms happy hour 4-6pm, Sat 3-6pm."
+    },
+    {
+      "slug": "insideout",
+      "name": "insideOUT",
+      "category": "LGBTQ-owned restaurant & bar",
+      "address": "1642 University Ave, Suite 100, San Diego, CA 92103",
+      "website": "https://www.insideoutsd.com/",
+      "instagram": "@insideoutsd",
+      "phone": "(619) 888-8623",
+      "hours": "Mon closed; Tue-Thu 4pm-10:30pm; Fri-Sat 4pm-12am; Sat-Sun brunch 10am-5pm",
+      "tagline": "LGBTQ-owned, chef-led California-Mediterranean kitchen in an open-air urban oasis",
+      "isNew": true,
+      "siteNotes": "Active; a Mo's Universe venue. The Happenings page says events are being updated. An 'Enchanted Oasis Experience' is mentioned without dates. Instagram was blocked."
+    },
+    {
+      "slug": "hillcrest-farmers-market",
+      "name": "Hillcrest Farmers Market",
+      "category": "Farmers market",
+      "address": "1601 University Ave, San Diego, CA 92103",
+      "website": "https://hillcrestfarmersmarket.com/",
+      "instagram": "@hillcrestfarmersmkt",
+      "phone": "619-299-3330",
+      "hours": "Sundays 9am-2pm, rain or shine",
+      "tagline": "San Diego's original and largest farmers market",
+      "isNew": true,
+      "siteNotes": "Run by the Hillcrest Business Association. Temporarily on University Ave between Herbert St and Park Blvd during Normal St Promenade construction. IG puts the count at 180+ vendors and notes free parking at the DMV."
+    },
+    {
+      "slug": "the-san-diego-lgbt-community-center",
+      "name": "The San Diego LGBT Community Center",
+      "category": "Community center",
+      "address": "3909 Centre St, San Diego, CA 92103",
+      "website": "https://thecentersd.org/",
+      "instagram": "@lgbtcenter",
+      "phone": "619-692-2077",
+      "hours": "",
+      "tagline": "",
+      "isNew": true,
+      "siteNotes": "Active. Only on-site Hillcrest events are listed; the off-site Oct 6 and Oct 24 events are excluded. The calendar view fetched covered only a few days, so more events likely exist. The IG handle needs double-checking."
+    },
+    {
+      "slug": "pali-wine-co",
+      "name": "Pali Wine Co. (Hillcrest Tasting Room)",
+      "category": "Wine bar / tasting room",
+      "address": "1440 University Ave, San Diego, CA 92103",
+      "website": "https://paliwineco.com/pages/san-diego-tasting-room",
+      "instagram": "",
+      "phone": "(619) 876-4099",
+      "hours": "Mon-Tue closed; Wed-Fri 2pm-10pm; Sat 12pm-10pm; Sun 12pm-9pm",
+      "tagline": "",
+      "isNew": true,
+      "siteNotes": "New: opened Aug 2026 in the former Cellar Hand space. No happy hour prices are listed. Trivia and live music times are not given. Eventbrite confirms the Thursday trivia at 7pm (themed 'Twisted Trivia' editions) and shows a recurring women's chess social."
+    },
+    {
+      "slug": "trust-restaurant",
+      "name": "Trust Restaurant",
+      "category": "Restaurant",
+      "address": "3752 Park Blvd, San Diego, CA 92103",
+      "website": "https://trustrestaurantsd.com/",
+      "instagram": "@trustrestaurantsd",
+      "phone": "619-795-6901",
+      "hours": "Dinner Wed-Mon 5pm-close; brunch Sat-Sun 9am-2pm",
+      "tagline": "Wood Fired, New American Fare",
+      "isNew": true,
+      "siteNotes": "The happy hour page says 'Daily' at the bar, but dinner service is listed Wed-Mon (closed Tuesday)."
+    },
+    {
+      "slug": "common-stock",
+      "name": "Common Stock",
+      "category": "Restaurant / cocktail bar",
+      "address": "3805 5th Ave, San Diego, CA 92103",
+      "website": "https://www.eatcommonstock.com/",
+      "instagram": "",
+      "phone": "(619) 310-5298",
+      "hours": "",
+      "tagline": "Dine Different",
+      "isNew": true,
+      "siteNotes": "The official happy hour page couldn't be fetched. The happy hour below is third-party, and another third-party source conflicts with it. The official site confirms weekend brunch Sat-Sun."
+    },
+    {
+      "slug": "nola-on-5th",
+      "name": "NOLA on 5th",
+      "category": "New Orleans restaurant & bar",
+      "address": "3683 Fifth Ave, San Diego, CA 92103",
+      "website": "https://nolaon5th.com/",
+      "instagram": "@nolaon5th",
+      "phone": "(858) 444-6173",
+      "hours": "Mon-Thu 12pm-9pm; Fri 11am-10pm; Sat 10am-10pm; Sun 10am-9pm",
+      "tagline": "The flavors and spirit of New Orleans dining in San Diego",
+      "isNew": true,
+      "siteNotes": "The specials page lists happy hour by date for Sep 23-29 only and doesn't itemize deals. The weekly pattern is inferred from that one week."
+    },
+    {
+      "slug": "frenchys-hideout",
+      "name": "Frenchy's Hideout",
+      "category": "French restaurant / wine bar",
+      "address": "142 W University Ave, Ste C, San Diego, CA 92103",
+      "website": "https://frenchyshideout.com/",
+      "instagram": "@frenchyshideout",
+      "phone": "(858) 345-7379",
+      "hours": "Lunch Tue-Fri 12pm-3pm; dinner Tue-Sat 5pm-9pm; Sun brunch 9am-2:30pm; Mon closed",
+      "tagline": "Where Parisian elegance meets San Diego",
+      "isNew": true,
+      "siteNotes": "On the west edge of Hillcrest, bordering Mission Hills. Weekly wine dinners are mentioned without dates. IG bio confirms happy hour Tue-Sat 3-5pm."
+    },
+    {
+      "slug": "los-panchos-tacos-and-cantina",
+      "name": "Los Panchos Tacos and Cantina",
+      "category": "Mexican restaurant / cantina",
+      "address": "441 Washington St, San Diego, CA 92103",
+      "website": "https://lospanchostacosandcantina.com/",
+      "instagram": "",
+      "phone": "(619) 295-5828",
+      "hours": "",
+      "tagline": "",
+      "isNew": true,
+      "siteNotes": "The happy hour page is image-only, so its details couldn't be read and need a manual check. The site mentions Taco Tuesday without times."
+    },
+    {
+      "slug": "the-studio-door",
+      "name": "The Studio Door",
+      "category": "Art gallery",
+      "address": "3867 Fourth Ave, San Diego, CA 92103",
+      "website": "https://thestudiodoor.com/",
+      "instagram": "@thestudiodoor",
+      "phone": "619-255-2867",
+      "hours": "Tue-Sat 11am-6pm or by appointment",
+      "tagline": "Hillcrest's art gallery and artist studios",
+      "isNew": true,
+      "siteNotes": "Active. No opening times are given for exhibitions."
+    },
+    {
+      "slug": "babycakes",
+      "name": "Babycakes",
+      "category": "Cupcake bakery / bar",
+      "address": "3795 Fourth Ave, San Diego, CA 92103",
+      "website": "https://www.babycakessandiego.com/hillcrest/",
+      "instagram": "@babycakessandiego",
+      "phone": "(619) 990-2282",
+      "hours": "Daily 9am-9pm (official page; may be stale)",
+      "tagline": "We bake good vibes into every treat.",
+      "isNew": true,
+      "siteNotes": "Appears open, but the official site looks stale (2019 copyright). A third-party listing mentions a Sunday 'Church' happy hour without times. FLAG: the IG bio lists only 2315 Reo Dr (Paradise Hills, 92139), not the Hillcrest address. Verify the Hillcrest shop is still trading before publishing this card."
+    },
+    {
+      "slug": "bread-and-cie",
+      "name": "Bread & Cie",
+      "category": "Bakery / café",
+      "address": "350 University Ave, San Diego, CA 92103",
+      "website": "https://breadandcie.com/",
+      "instagram": "@breadandcie",
+      "phone": "619-683-9322",
+      "hours": "Daily 7:30am-4pm",
+      "tagline": "San Diego's Most Awarded Bakery",
+      "isNew": true,
+      "siteNotes": "Active. No happy hour or public events."
+    },
+    {
+      "slug": "snooze-an-am-eatery",
+      "name": "Snooze, an A.M. Eatery (Hillcrest)",
+      "category": "Breakfast & brunch",
+      "address": "3940 Fifth Ave, San Diego, CA 92103",
+      "website": "https://www.snoozeeatery.com/restaurant/california/hillcrest",
+      "instagram": "",
+      "phone": "(619) 500-3344",
+      "hours": "Mon-Fri 6:30am-2:30pm; Sat-Sun 6:30am-3:30pm",
+      "tagline": "",
+      "isNew": true,
+      "siteNotes": "Active. No happy hour or dated events. Participates in the Oct 10 Hillcrest Food Crawl (see Los Panchos)."
+    },
+    {
+      "slug": "hash-house-a-go-go",
+      "name": "Hash House A Go Go (Hillcrest)",
+      "category": "Breakfast & brunch",
+      "address": "3628 Fifth Ave, San Diego, CA 92103",
+      "website": "https://www.hashhouseagogo.com/location/san-diego-california/",
+      "instagram": "",
+      "phone": "619-298-4646",
+      "hours": "Mon-Fri 7:30am-2pm; Sat-Sun 7:30am-3pm",
+      "tagline": "Twisted farm food",
+      "isNew": true,
+      "siteNotes": "Active. The events page says 'no events right now.' No happy hour."
+    },
+    {
+      "slug": "great-maple",
+      "name": "Great Maple (Hillcrest)",
+      "category": "American restaurant / brunch",
+      "address": "1451 Washington St, San Diego, CA 92103",
+      "website": "https://thegreatmaple.com/san-diego/",
+      "instagram": "@greatmaple_hillcrest",
+      "phone": "(619) 255-2282",
+      "hours": "Mon-Fri 8am-2pm; Sat-Sun 8am-2:30pm; Fri-Sat dinner 5pm-9pm",
+      "tagline": "",
+      "isNew": true,
+      "siteNotes": "Active. The official site lists no happy hour or events."
+    },
+    {
+      "slug": "crest-cafe",
+      "name": "Crest Cafe",
+      "category": "Café / diner",
+      "address": "425 Robinson Ave, San Diego, CA 92103",
+      "website": "https://crestcafe.com/",
+      "instagram": "",
+      "phone": "(619) 295-2510",
+      "hours": "Daily 7am-10pm",
+      "tagline": "Neon Lights, Timeless Bites",
+      "isNew": true,
+      "siteNotes": "Active. No happy hour or dated events."
+    },
+    {
+      "slug": "the-loft",
+      "name": "The Loft",
+      "category": "LGBTQ+ dive bar",
+      "address": "3610 5th Ave, San Diego, CA 92103",
+      "website": "",
+      "instagram": "@theloftsandiego",
+      "phone": "(619) 296-6407",
+      "hours": "Daily 11am-2am (third-party)",
+      "tagline": "",
+      "isNew": true,
+      "siteNotes": "No official site. A third-party listing mentions $5 specials, happy hour, Tequila Tuesday, DJs and karaoke without days or times, so none are listed. Instagram was blocked. IG confirms the venue is active and posts weekly specials flyers, but none of them state times or prices."
+    },
+    {
+      "slug": "lestats-hillcrest",
+      "name": "Lestat's Hillcrest",
+      "category": "Coffee house",
+      "address": "1041 University Ave, San Diego, CA 92103",
+      "website": "https://www.lestats.com/",
+      "instagram": "",
+      "phone": "619-564-6616",
+      "hours": "Daily 8am-12am",
+      "tagline": "",
+      "isNew": true,
+      "siteNotes": "Active. The site's open mic and comedy nights are at Lestat's West (Normal Heights), not this location, so they are excluded."
+    },
+    {
+      "slug": "the-merrow",
+      "name": "The Merrow",
+      "category": "Nightclub",
+      "address": "1271 University Ave, San Diego, CA 92103",
+      "website": "",
+      "instagram": "",
+      "phone": "",
+      "hours": "",
+      "tagline": "",
+      "isNew": true,
+      "siteNotes": "NOW EQ SAN DIEGO: the space is EQ (see slug 'eq'). Do not create a separate card."
+    },
+    {
+      "slug": "gelato-vero-caffe",
+      "name": "Gelato Vero Caffe",
+      "category": "Café / gelato",
+      "address": "3753 India St, San Diego, CA 92103",
+      "website": "https://www.gelatoverocaffe.com/",
+      "instagram": "@gelatoverocaffe",
+      "phone": "",
+      "hours": "",
+      "tagline": "",
+      "isNew": true,
+      "siteNotes": "IN MISSION HILLS, not Hillcrest (same ZIP). The site returned errors, so nothing could be verified."
+    },
+    {
+      "slug": "extraordinary-desserts",
+      "name": "Extraordinary Desserts",
+      "category": "Dessert café",
+      "address": "2870 4th Ave, San Diego, CA 92103",
+      "website": "https://www.extraordinarydesserts.com/",
+      "instagram": "",
+      "phone": "",
+      "hours": "",
+      "tagline": "",
+      "isNew": true,
+      "siteNotes": "NOT IN HILLCREST: the Fifth Ave location closed in April 2019, and the business is now in Bankers Hill (https://www.sandiegoville.com/2019/04/extraordinary-desserts-to-unveil.html)."
+    },
+    {
+      "slug": "pecs-bar",
+      "name": "Pecs Bar",
+      "category": "Gay bar",
+      "address": "2046 University Ave, San Diego, CA 92104",
+      "website": "http://www.pecsbar.com/",
+      "instagram": "",
+      "phone": "",
+      "hours": "",
+      "tagline": "",
+      "isNew": true,
+      "siteNotes": "NOT IN HILLCREST: located in North Park. Not researched further."
+    },
+    {
+      "slug": "redwing-bar-grill",
+      "name": "Redwing Bar & Grill",
+      "category": "Bar & grill",
+      "address": "4012 30th St, San Diego, CA 92104",
+      "website": "http://redwingbar.com/",
+      "instagram": "",
+      "phone": "",
+      "hours": "",
+      "tagline": "",
+      "isNew": true,
+      "siteNotes": "NOT IN HILLCREST: located in North Park. Not researched further."
+    },
+    {
+      "slug": "lips-san-diego",
+      "name": "Lips San Diego",
+      "category": "Drag dinner show",
+      "address": "3036 El Cajon Blvd, San Diego, CA 92104",
+      "website": "",
+      "instagram": "@lipssd",
+      "phone": "",
+      "hours": "",
+      "tagline": "",
+      "isNew": true,
+      "siteNotes": "NOT IN HILLCREST: located in North Park. Not researched further."
+    },
+    {
+      "slug": "trilogy-sanctuary",
+      "name": "Trilogy Sanctuary",
+      "category": "Yoga studio / vegan café",
+      "address": "7650 Girard Ave, Suite 400, La Jolla, CA 92037",
+      "website": "https://www.trilogysanctuary.com/",
+      "instagram": "@trilogysanctuary",
+      "phone": "(858) 633-3893",
+      "hours": "",
+      "tagline": "",
+      "isNew": true,
+      "siteNotes": "NOT IN HILLCREST: its only location is in La Jolla."
+    },
+    {
+      "slug": "insurgent",
+      "name": "Insurgent",
+      "category": "Bar",
+      "address": "",
+      "website": "",
+      "instagram": "",
+      "phone": "",
+      "hours": "",
+      "tagline": "",
+      "isNew": true,
+      "siteNotes": "NOT FOUND: no San Diego bar by this name. The only match was Insurgente Tap Room in Tijuana. The name may be wrong."
+    },
+    {
+      "slug": "pardon-my-french",
+      "name": "Pardon My French",
+      "category": "Restaurant / bar",
+      "address": "3797 Park Blvd, San Diego, CA 92103",
+      "website": "",
+      "instagram": "",
+      "phone": "",
+      "hours": "",
+      "tagline": "",
+      "isNew": true,
+      "siteNotes": "CLOSED since July 2018 (https://www.sandiegoville.com/2018/07/pardon-my-french-bar-kitchen-announces.html)."
+    },
+    {
+      "slug": "cellar-hand",
+      "name": "Cellar Hand",
+      "category": "Restaurant / wine bar",
+      "address": "1440 University Ave, San Diego, CA 92103",
+      "website": "",
+      "instagram": "",
+      "phone": "",
+      "hours": "",
+      "tagline": "",
+      "isNew": true,
+      "siteNotes": "CLOSED July 19, 2026; the space is now Pali Wine Co. It is still listed in the Fabulous Hillcrest directory."
+    },
+    {
+      "slug": "landmark-hillcrest-cinemas",
+      "name": "Landmark Hillcrest Cinemas",
+      "category": "Movie theater",
+      "address": "3965 Fifth Ave, San Diego, CA 92103",
+      "website": "",
+      "instagram": "",
+      "phone": "",
+      "hours": "",
+      "tagline": "",
+      "isNew": true,
+      "siteNotes": "CLOSED January 5, 2025 (https://www.kpbs.org/news/arts-culture/2025/01/03/landmark-theatres-hillcrest-cinemas-closing)."
+    },
+    {
+      "slug": "all-saints-episcopal-church",
+      "name": "All Saints Episcopal Church",
+      "category": "Church / concert venue",
+      "address": "625 Pennsylvania Ave, San Diego, CA 92103",
+      "website": "",
+      "instagram": "",
+      "phone": "",
+      "hours": "",
+      "tagline": "",
+      "isNew": true,
+      "siteNotes": "Surfaced via Eventbrite as a Hillcrest concert and event venue. Address, website, hours and contact details still need to be confirmed from the parish's own site."
+    },
+    {
+      "slug": "pure-barre-hillcrest",
+      "name": "Pure Barre (Hillcrest)",
+      "category": "Fitness studio",
+      "address": "",
+      "website": "",
+      "instagram": "",
+      "phone": "",
+      "hours": "",
+      "tagline": "",
+      "isNew": true,
+      "siteNotes": "Surfaced via Eventbrite as a Hillcrest studio. Address, website, hours and class schedule still need confirming."
+    }
+  ],
+  "happyHours": [
+    {
+      "venueSlug": "gossip-grill",
+      "label": "Happy Hour",
+      "days": [
+        "TU",
+        "WE",
+        "TH",
+        "FR",
+        "SA",
+        "SU"
+      ],
+      "start": "14:00",
+      "end": "18:00",
+      "deals": [
+        "$3 off food menu",
+        "Buy one, get one token for next: bottled & canned beers, house wines & bubbles, seltzers & ciders, well spirits, draft beers"
+      ],
+      "source": "https://gossipgrill.com/menu/happy-hour/",
+      "verified": true
+    },
+    {
+      "venueSlug": "gossip-grill",
+      "label": "Monday All-Day Happy Hour (conflicts with homepage Monday CLOSED)",
+      "days": [
+        "MO"
+      ],
+      "start": "",
+      "end": "",
+      "deals": [
+        "$8 all-you-can-eat spaghetti (+$3 meatball, +$3 garlic bread)",
+        "BOGO drink token"
+      ],
+      "source": "https://gossipgrill.com/menu/happy-hour/",
+      "verified": true
+    },
+    {
+      "venueSlug": "gossip-grill",
+      "label": "Weekend Brunch",
+      "days": [
+        "SA",
+        "SU"
+      ],
+      "start": "11:00",
+      "end": "14:00",
+      "deals": [
+        "$22 mimosa buckets and specialty Bloody Marys"
+      ],
+      "source": "https://gossipgrill.com/menu/happy-hour/",
+      "verified": true
+    },
+    {
+      "venueSlug": "gossip-grill",
+      "label": "$4 Thirsty Thursdays",
+      "days": [
+        "TH"
+      ],
+      "start": "18:00",
+      "end": "",
+      "deals": [
+        "$4 Thirsty Thursdays (items not listed)"
+      ],
+      "source": "https://gossipgrill.com/events/",
+      "verified": true
+    },
+    {
+      "venueSlug": "the-brass-rail",
+      "label": "Happy Hour",
+      "days": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "start": "15:00",
+      "end": "20:00",
+      "deals": [
+        "$4 beers",
+        "$6 well drinks",
+        "$8 pitchers"
+      ],
+      "source": "https://kingofhappyhour.com/sandiego/bars/the_rail",
+      "verified": false
+    },
+    {
+      "venueSlug": "the-brass-rail",
+      "label": "Happy Hour (Saturday)",
+      "days": [
+        "SA"
+      ],
+      "start": "12:00",
+      "end": "20:00",
+      "deals": [
+        "$4 beers",
+        "$6 well drinks",
+        "$8 pitchers"
+      ],
+      "source": "https://kingofhappyhour.com/sandiego/bars/the_rail",
+      "verified": false
+    },
+    {
+      "venueSlug": "negociant-winery",
+      "label": "Happy Hour",
+      "days": [
+        "WE",
+        "TH",
+        "FR",
+        "SA"
+      ],
+      "start": "16:00",
+      "end": "18:00",
+      "deals": [],
+      "source": "https://www.negociantwinery.com/",
+      "verified": true
+    },
+    {
+      "venueSlug": "negociant-winery",
+      "label": "All-Day Sunday Happy Hour",
+      "days": [
+        "SU"
+      ],
+      "start": "12:00",
+      "end": "16:00",
+      "deals": [
+        "$5 mimosas",
+        "$5 draft beers",
+        "$4 wine specials",
+        "$7.50 sangria",
+        "$8 spritzes",
+        "Food specials"
+      ],
+      "source": "https://www.instagram.com/negociantwinery/p/DdhJknYtezo/",
+      "verified": true
+    },
+    {
+      "venueSlug": "cork-stem",
+      "label": "Happy Hour (Wednesday)",
+      "days": [
+        "WE"
+      ],
+      "start": "16:00",
+      "end": "21:00",
+      "deals": [
+        "$2 off beer and wine by the glass",
+        "$8 house wine",
+        "$10 wine flight",
+        "$35 bottle & board",
+        "$12 mini flower wrap"
+      ],
+      "source": "https://kingofhappyhour.com/location/san-diego/cork-stem",
+      "verified": false
+    },
+    {
+      "venueSlug": "cork-stem",
+      "label": "Happy Hour",
+      "days": [
+        "TH",
+        "FR",
+        "SA",
+        "SU"
+      ],
+      "start": "16:00",
+      "end": "18:00",
+      "deals": [
+        "$2 off beer and wine by the glass",
+        "$8 house wine",
+        "$10 wine flight",
+        "$35 bottle & board",
+        "$12 mini flower wrap"
+      ],
+      "source": "https://kingofhappyhour.com/location/san-diego/cork-stem",
+      "verified": false
+    },
+    {
+      "venueSlug": "r-place-bar-eatery",
+      "label": "Monday Happy Hour",
+      "days": [
+        "MO"
+      ],
+      "start": "15:00",
+      "end": "00:00",
+      "deals": [
+        "Drinks happy hour all day; food happy hour 3-7pm",
+        "$7 margarita",
+        "$12 big burritos (3-10pm)"
+      ],
+      "source": "https://rplacesandiego.com/san-diego-hillcrest-r-place-bar-and-eatery-happy-hours-specials",
+      "verified": true
+    },
+    {
+      "venueSlug": "r-place-bar-eatery",
+      "label": "Wednesday Happy Hour",
+      "days": [
+        "WE"
+      ],
+      "start": "15:00",
+      "end": "19:00",
+      "deals": [
+        "$10 wings (3-10pm)",
+        "$5 well, bottles and cans (all day)"
+      ],
+      "source": "https://rplacesandiego.com/san-diego-hillcrest-r-place-bar-and-eatery-happy-hours-specials",
+      "verified": true
+    },
+    {
+      "venueSlug": "r-place-bar-eatery",
+      "label": "Thursday All-Day Happy Hour Drinks",
+      "days": [
+        "TH"
+      ],
+      "start": "15:00",
+      "end": "01:00",
+      "deals": [
+        "Happy hour drinks all day"
+      ],
+      "source": "https://rplacesandiego.com/san-diego-hillcrest-r-place-bar-and-eatery-happy-hours-specials",
+      "verified": true
+    },
+    {
+      "venueSlug": "r-place-bar-eatery",
+      "label": "Friday Happy Hour",
+      "days": [
+        "FR"
+      ],
+      "start": "15:00",
+      "end": "19:00",
+      "deals": [
+        "$9 Paloma (all day)",
+        "$5 Fireball (all day)",
+        "$12 chicken strips (3-10pm)"
+      ],
+      "source": "https://rplacesandiego.com/san-diego-hillcrest-r-place-bar-and-eatery-happy-hours-specials",
+      "verified": true
+    },
+    {
+      "venueSlug": "r-place-bar-eatery",
+      "label": "Saturday Happy Hour & Brunch",
+      "days": [
+        "SA"
+      ],
+      "start": "15:00",
+      "end": "19:00",
+      "deals": [
+        "Brunch 11am-2pm",
+        "$15 carne asada (3-10pm)",
+        "$8 Absolut (all day)",
+        "$6 seltzers"
+      ],
+      "source": "https://rplacesandiego.com/san-diego-hillcrest-r-place-bar-and-eatery-happy-hours-specials",
+      "verified": true
+    },
+    {
+      "venueSlug": "r-place-bar-eatery",
+      "label": "Sunday Happy Hour & Brunch",
+      "days": [
+        "SU"
+      ],
+      "start": "15:00",
+      "end": "19:00",
+      "deals": [
+        "$6 wells",
+        "$6 drafts & hard seltzers",
+        "Brunch & bottomless mimosas 10am-2pm"
+      ],
+      "source": "https://rplacesandiego.com/san-diego-hillcrest-r-place-bar-and-eatery-happy-hours-specials",
+      "verified": true
+    },
+    {
+      "venueSlug": "urban-mo-s-bar-grill",
+      "label": "Happy Hour",
+      "days": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "start": "14:00",
+      "end": "19:00",
+      "deals": [
+        "$6.50 happy hour (per events calendar)"
+      ],
+      "source": "http://urbanmos.com/happyhour/",
+      "verified": true
+    },
+    {
+      "venueSlug": "urban-mo-s-bar-grill",
+      "label": "Martini Happy Hour",
+      "days": [
+        "FR"
+      ],
+      "start": "16:00",
+      "end": "19:00",
+      "deals": [
+        "$7 martinis"
+      ],
+      "source": "https://urbanmos.com/",
+      "verified": true
+    },
+    {
+      "venueSlug": "urban-mo-s-bar-grill",
+      "label": "$10 Cocktail Pitchers",
+      "days": [
+        "SA",
+        "SU"
+      ],
+      "start": "14:00",
+      "end": "19:00",
+      "deals": [
+        "$10 cocktail pitchers"
+      ],
+      "source": "https://www.instagram.com/urbanmos/reel/DLcwLa0x3ik/",
+      "verified": true
+    },
+    {
+      "venueSlug": "hillcrest-brewing-company",
+      "label": "Hoppy Hour",
+      "days": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR",
+        "SA",
+        "SU"
+      ],
+      "start": "14:00",
+      "end": "18:00",
+      "deals": [
+        "$2 off draught beer, wells & wine",
+        "Mon-Fri: $3 pizza by the slice"
+      ],
+      "source": "https://hillcrestbrewingcompany.com/",
+      "verified": true
+    },
+    {
+      "venueSlug": "hillcrest-brewing-company",
+      "label": "Dollar Wing Night + Monday Night Football",
+      "days": [
+        "MO"
+      ],
+      "start": "18:00",
+      "end": "21:00",
+      "deals": [
+        "$1 wings"
+      ],
+      "source": "https://hillcrestbrewingcompany.com/",
+      "verified": true
+    },
+    {
+      "venueSlug": "hillcrest-brewing-company",
+      "label": "Tequila + Taco Tuesday",
+      "days": [
+        "TU"
+      ],
+      "start": "",
+      "end": "",
+      "deals": [
+        "$5 off tequilas, margaritas and select pizzas"
+      ],
+      "source": "https://hillcrestbrewingcompany.com/",
+      "verified": true
+    },
+    {
+      "venueSlug": "hillcrest-brewing-company",
+      "label": "BOGO Spaghetti Wednesday",
+      "days": [
+        "WE"
+      ],
+      "start": "17:00",
+      "end": "",
+      "deals": [
+        "Buy one get one free spaghetti"
+      ],
+      "source": "https://hillcrestbrewingcompany.com/",
+      "verified": true
+    },
+    {
+      "venueSlug": "hillcrest-brewing-company",
+      "label": "Thrifty Thursday",
+      "days": [
+        "TH"
+      ],
+      "start": "18:00",
+      "end": "",
+      "deals": [
+        "$7 beers",
+        "$8 wells",
+        "$9 personal pizzas"
+      ],
+      "source": "https://hillcrestbrewingcompany.com/",
+      "verified": true
+    },
+    {
+      "venueSlug": "hillcrest-brewing-company",
+      "label": "Sunday Funday",
+      "days": [
+        "SU"
+      ],
+      "start": "",
+      "end": "",
+      "deals": [
+        "$7 wells/beers/seltzers",
+        "$5 pizza by the slice",
+        "Running every Sunday through the Super Bowl"
+      ],
+      "source": "https://www.instagram.com/hillcrestbrewingcompany/p/DdMlYq8T3XM/",
+      "verified": true
+    },
+    {
+      "venueSlug": "hillcrest-brewing-company",
+      "label": "College Football Gameday Brunch",
+      "days": [
+        "SA"
+      ],
+      "start": "11:00",
+      "end": "14:00",
+      "deals": [
+        "Brunch 11am-2pm, then Hoppy Hour 2-6pm"
+      ],
+      "source": "https://www.instagram.com/hillcrestbrewingcompany/p/DdeaTj4zcz4/",
+      "verified": true
+    },
+    {
+      "venueSlug": "hillcrest-brewing-company",
+      "label": "Weekend Brunch",
+      "days": [
+        "SA",
+        "SU"
+      ],
+      "start": "",
+      "end": "14:00",
+      "deals": [
+        "Brunch menu (The Oinker) available until 2pm"
+      ],
+      "source": "https://www.instagram.com/hillcrestbrewingcompany/p/DdMPGVXzShP/",
+      "verified": true
+    },
+    {
+      "venueSlug": "baja-betty-s",
+      "label": "Papi Hour",
+      "days": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "start": "14:00",
+      "end": "18:00",
+      "deals": [
+        "$6.75 Mi Casa margarita (rocks), house cocktails, house wine & sangria, draft beer, house shots",
+        "$8.75 frozen or mezcal margarita",
+        "$6.75 food: dips, TJ tacos, Mexican pizza, quesadilla, salads"
+      ],
+      "source": "https://bajabettyssd.com/food/papi-hour/",
+      "verified": true
+    },
+    {
+      "venueSlug": "baja-betty-s",
+      "label": "Weekend Papi Hour",
+      "days": [
+        "SA",
+        "SU"
+      ],
+      "start": "14:00",
+      "end": "18:00",
+      "deals": [
+        "$6.75 Mi Casa margarita rocks, wells, draft beer, house wine & sangria, dips",
+        "$8.75 frozen or mezcal margarita"
+      ],
+      "source": "https://bajabettyssd.com/food/monday-happy-hour/",
+      "verified": true
+    },
+    {
+      "venueSlug": "baja-betty-s",
+      "label": "Monday Extended Papi Hour",
+      "days": [
+        "MO"
+      ],
+      "start": "18:00",
+      "end": "",
+      "deals": [
+        "Same $6.75 / $8.75 Papi Hour menu, 6pm to close"
+      ],
+      "source": "https://bajabettyssd.com/food/monday-happy-hour/",
+      "verified": true
+    },
+    {
+      "venueSlug": "baja-betty-s",
+      "label": "Taco Tuesday",
+      "days": [
+        "TU"
+      ],
+      "start": "17:00",
+      "end": "22:00",
+      "deals": [
+        "Taco Tuesday (no prices listed)"
+      ],
+      "source": "https://bajabettyssd.com/events/",
+      "verified": true
+    },
+    {
+      "venueSlug": "baja-betty-s",
+      "label": "Weekend Brunch Buffet",
+      "days": [
+        "SA",
+        "SU"
+      ],
+      "start": "10:00",
+      "end": "14:00",
+      "deals": [
+        "Brunch buffet, last call 1:30pm"
+      ],
+      "source": "https://bajabettyssd.com/",
+      "verified": true
+    },
+    {
+      "venueSlug": "baja-betty-s",
+      "label": "Sunday $10 Personal Pitchers",
+      "days": [
+        "SU"
+      ],
+      "start": "18:00",
+      "end": "",
+      "deals": [
+        "$10 personal pitchers, 6pm to close"
+      ],
+      "source": "https://www.instagram.com/bajabettys/reel/DXFQztYjynW/",
+      "verified": true
+    },
+    {
+      "venueSlug": "1-fifth-avenue",
+      "label": "Happy Hour",
+      "days": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "start": "15:00",
+      "end": "19:00",
+      "deals": [
+        "$4.50 seltzers"
+      ],
+      "source": "https://www.instagram.com/number_one_fifth/reel/DdSG-oZyDdM/",
+      "verified": true
+    },
+    {
+      "venueSlug": "1-fifth-avenue",
+      "label": "Grey Goose Fridays",
+      "days": [
+        "FR"
+      ],
+      "start": "",
+      "end": "",
+      "deals": [
+        "$10 any Grey Goose cocktail, all day Friday"
+      ],
+      "source": "https://www.instagram.com/number_one_fifth/reel/DceYA_dvrjy/",
+      "verified": true
+    },
+    {
+      "venueSlug": "flicks",
+      "label": "Weekly Happy Hour",
+      "days": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "start": "",
+      "end": "20:00",
+      "deals": [
+        "Happy hour until 8pm (no prices stated)"
+      ],
+      "source": "https://www.instagram.com/flicks_sd/",
+      "verified": true
+    },
+    {
+      "venueSlug": "uptown-tavern",
+      "label": "Happy Hour",
+      "days": [
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "start": "16:00",
+      "end": "18:00",
+      "deals": [
+        "$7 signature mules, house wine, 14oz draft beer, well drinks",
+        "Appetizers $7-$9"
+      ],
+      "source": "https://uptowntavernsd.com/uptown-tavern-happy-hour-menu/",
+      "verified": true
+    },
+    {
+      "venueSlug": "uptown-tavern",
+      "label": "Happy Hour (Saturday)",
+      "days": [
+        "SA"
+      ],
+      "start": "15:00",
+      "end": "18:00",
+      "deals": [
+        "$7 signature mules, house wine, 14oz draft beer, well drinks",
+        "Appetizers $7-$9"
+      ],
+      "source": "https://uptowntavernsd.com/uptown-tavern-happy-hour-menu/",
+      "verified": true
+    },
+    {
+      "venueSlug": "uptown-tavern",
+      "label": "Bottomless Pasta Tuesday",
+      "days": [
+        "TU"
+      ],
+      "start": "16:00",
+      "end": "",
+      "deals": [
+        "Unlimited pasta $12"
+      ],
+      "source": "https://uptowntavernsd.com/",
+      "verified": true
+    },
+    {
+      "venueSlug": "uptown-tavern",
+      "label": "Wednesday Night Social Club",
+      "days": [
+        "WE"
+      ],
+      "start": "",
+      "end": "",
+      "deals": [
+        "$10 martinis all night"
+      ],
+      "source": "https://uptowntavernsd.com/",
+      "verified": true
+    },
+    {
+      "venueSlug": "uptown-tavern",
+      "label": "Saturday Brunch",
+      "days": [
+        "SA"
+      ],
+      "start": "12:00",
+      "end": "",
+      "deals": [
+        "$5 mimosas"
+      ],
+      "source": "https://uptowntavernsd.com/",
+      "verified": true
+    },
+    {
+      "venueSlug": "insideout",
+      "label": "Happy Hour",
+      "days": [
+        "TU",
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "start": "16:00",
+      "end": "18:00",
+      "deals": [
+        "Cocktails $8.50-$12",
+        "Wine by the glass $7",
+        "Well drinks $7",
+        "Draft beer $7"
+      ],
+      "source": "https://www.insideoutsd.com/san-diego-hillcrest-insideout-drink-menu-46740",
+      "verified": true
+    },
+    {
+      "venueSlug": "pali-wine-co",
+      "label": "Weekday Happy Hour",
+      "days": [
+        "WE",
+        "TH",
+        "FR"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "deals": [],
+      "source": "https://paliwineco.com/pages/san-diego-tasting-room",
+      "verified": true
+    },
+    {
+      "venueSlug": "pali-wine-co",
+      "label": "Sunday All-Day Happy Hour",
+      "days": [
+        "SU"
+      ],
+      "start": "",
+      "end": "",
+      "deals": [],
+      "source": "https://paliwineco.com/pages/san-diego-tasting-room",
+      "verified": true
+    },
+    {
+      "venueSlug": "trust-restaurant",
+      "label": "Bar Happy Hour (page says daily)",
+      "days": [
+        "MO",
+        "TU",
+        "WE",
+        "TH",
+        "FR",
+        "SA",
+        "SU"
+      ],
+      "start": "17:00",
+      "end": "18:00",
+      "deals": [
+        "$10 cocktails",
+        "$10 select wines",
+        "$6 draft beer",
+        "$10 smash burger with fries",
+        "$14 wild mushroom mac & cheese"
+      ],
+      "source": "https://trustrestaurantsd.com/happy-hour",
+      "verified": true
+    },
+    {
+      "venueSlug": "common-stock",
+      "label": "Happy Hour",
+      "days": [
+        "SU",
+        "MO",
+        "TU",
+        "WE",
+        "FR",
+        "SA"
+      ],
+      "start": "16:30",
+      "end": "18:00",
+      "deals": [
+        "$6 draft beer",
+        "$8 house wine",
+        "Cocktails $8-$10",
+        "Appetizers $8-$16"
+      ],
+      "source": "https://kingofhappyhour.com/location/san-diego/common-stock",
+      "verified": false
+    },
+    {
+      "venueSlug": "common-stock",
+      "label": "Thursday Extended Happy Hour",
+      "days": [
+        "TH"
+      ],
+      "start": "16:30",
+      "end": "22:00",
+      "deals": [
+        "Same happy hour menu"
+      ],
+      "source": "https://kingofhappyhour.com/location/san-diego/common-stock",
+      "verified": false
+    },
+    {
+      "venueSlug": "nola-on-5th",
+      "label": "Happy Hour",
+      "days": [
+        "TH",
+        "FR",
+        "SA",
+        "SU",
+        "MO",
+        "TU"
+      ],
+      "start": "15:00",
+      "end": "18:00",
+      "deals": [
+        "Food & drink specials (not itemized)"
+      ],
+      "source": "https://nolaon5th.com/specials",
+      "verified": true
+    },
+    {
+      "venueSlug": "nola-on-5th",
+      "label": "Wednesday All-Day Happy Hour",
+      "days": [
+        "WE"
+      ],
+      "start": "11:00",
+      "end": "23:00",
+      "deals": [
+        "Food & drink specials (not itemized)"
+      ],
+      "source": "https://nolaon5th.com/specials",
+      "verified": true
+    },
+    {
+      "venueSlug": "frenchys-hideout",
+      "label": "Happy Hour (bar, hightop, patio)",
+      "days": [
+        "TU",
+        "WE",
+        "TH",
+        "FR",
+        "SA"
+      ],
+      "start": "15:00",
+      "end": "17:00",
+      "deals": [],
+      "source": "https://frenchyshideout.com/",
+      "verified": true
+    },
+    {
+      "venueSlug": "frenchys-hideout",
+      "label": "Wine Wednesdays",
+      "days": [
+        "WE"
+      ],
+      "start": "",
+      "end": "",
+      "deals": [
+        "Wine flights $25"
+      ],
+      "source": "https://frenchyshideout.com/",
+      "verified": true
+    },
+    {
+      "venueSlug": "frenchys-hideout",
+      "label": "Tableside Cheese Cart Thursdays",
+      "days": [
+        "TH"
+      ],
+      "start": "",
+      "end": "",
+      "deals": [
+        "Tableside cheese cart"
+      ],
+      "source": "https://www.instagram.com/frenchyshideout/reel/DdkBvGiSHIg/",
+      "verified": true
+    },
+    {
+      "venueSlug": "los-panchos-tacos-and-cantina",
+      "label": "Taco Tuesday",
+      "days": [
+        "TU"
+      ],
+      "start": "",
+      "end": "",
+      "deals": [],
+      "source": "https://lospanchostacosandcantina.com/",
+      "verified": true
+    },
+    {
+      "venueSlug": "babycakes",
+      "label": "'Church' Sunday Happy Hour",
+      "days": [
+        "SU"
+      ],
+      "start": "",
+      "end": "",
+      "deals": [
+        "Indoor/outdoor happy hour with cupcakes (no times or prices stated)"
+      ],
+      "source": "https://sandiego.gaycities.com/restaurants/62671-babycakes-san-diego",
+      "verified": false
+    },
+    {
+      "venueSlug": "the-loft",
+      "label": "Industry Day",
+      "days": [
+        "MO"
+      ],
+      "start": "",
+      "end": "",
+      "deals": [
+        "Shot specials"
+      ],
+      "source": "https://www.instagram.com/theloftsandiego/p/Ddjzhonvlkr/",
+      "verified": true
+    },
+    {
+      "venueSlug": "the-loft",
+      "label": "Tequila & Mezcal Specials",
+      "days": [
+        "TU"
+      ],
+      "start": "",
+      "end": "",
+      "deals": [
+        "Tequila and mezcal specials"
+      ],
+      "source": "https://www.instagram.com/theloftsandiego/p/DdmNatlKtNQ/",
+      "verified": true
+    },
+    {
+      "venueSlug": "the-loft",
+      "label": "Sunday Funday",
+      "days": [
+        "SU"
+      ],
+      "start": "",
+      "end": "",
+      "deals": [
+        "Mimosas and Bloody Marys"
+      ],
+      "source": "https://www.instagram.com/theloftsandiego/p/DdhD15rKwmB/",
+      "verified": true
+    }
+  ],
+  "activities": [
+    {
+      "venueSlug": "gossip-grill",
+      "title": "Karaoke Tuesdays with Joey Adams",
+      "recurring": true,
+      "days": [
+        "TU"
+      ],
+      "date": null,
+      "start": "19:00",
+      "end": "23:00",
+      "description": "Karaoke",
+      "source": "https://gossipgrill.com/events/",
+      "verified": true
+    },
+    {
+      "venueSlug": "gossip-grill",
+      "title": "Finger Me Friday",
+      "recurring": true,
+      "days": [
+        "FR"
+      ],
+      "date": null,
+      "start": "21:00",
+      "end": "",
+      "description": "Friday night party",
+      "source": "https://gossipgrill.com/events/",
+      "verified": true
+    },
+    {
+      "venueSlug": "gossip-grill",
+      "title": "Smarty Pants Saturday Trivia Brunch",
+      "recurring": true,
+      "days": [
+        "SA"
+      ],
+      "date": null,
+      "start": "11:00",
+      "end": "14:00",
+      "description": "Trivia brunch",
+      "source": "https://gossipgrill.com/events/",
+      "verified": true
+    },
+    {
+      "venueSlug": "gossip-grill",
+      "title": "Sapphic Saturdays",
+      "recurring": true,
+      "days": [
+        "SA"
+      ],
+      "date": null,
+      "start": "21:00",
+      "end": "",
+      "description": "Saturday night party",
+      "source": "https://gossipgrill.com/events/",
+      "verified": true
+    },
+    {
+      "venueSlug": "gossip-grill",
+      "title": "Cabaret Drag Brunch",
+      "recurring": true,
+      "days": [
+        "SU"
+      ],
+      "date": null,
+      "start": "11:00",
+      "end": "14:00",
+      "description": "Drag brunch",
+      "source": "https://gossipgrill.com/events/",
+      "verified": true
+    },
+    {
+      "venueSlug": "gossip-grill",
+      "title": "Girls, Gays & Theys Sundays",
+      "recurring": true,
+      "days": [
+        "SU"
+      ],
+      "date": null,
+      "start": "11:00",
+      "end": "",
+      "description": "Sunday party",
+      "source": "https://gossipgrill.com/events/",
+      "verified": true
+    },
+    {
+      "venueSlug": "gossip-grill",
+      "title": "Bingo Gone Bonkers: Trick or Treat",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-23",
+      "start": "18:00",
+      "end": "",
+      "description": "Bingo night, 6-9pm.",
+      "source": "https://gossipgrill.com/events/",
+      "verified": true
+    },
+    {
+      "venueSlug": "gossip-grill",
+      "title": "TGIW!",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-23",
+      "start": "21:00",
+      "end": "",
+      "description": "Wednesday night party.",
+      "source": "https://gossipgrill.com/events/",
+      "verified": true
+    },
+    {
+      "venueSlug": "gossip-grill",
+      "title": "Wine Club",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-26",
+      "start": "14:30",
+      "end": "",
+      "description": "Wine Club, 2:30-5pm.",
+      "source": "https://gossipgrill.com/events/",
+      "verified": true
+    },
+    {
+      "venueSlug": "gossip-grill",
+      "title": "Bingo Gone Bonkers: Trick or Treat",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-30",
+      "start": "18:00",
+      "end": "",
+      "description": "Bingo night, 6-9pm.",
+      "source": "https://gossipgrill.com/events/",
+      "verified": true
+    },
+    {
+      "venueSlug": "gossip-grill",
+      "title": "TGIW!",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-30",
+      "start": "21:00",
+      "end": "",
+      "description": "Wednesday night party.",
+      "source": "https://gossipgrill.com/events/",
+      "verified": true
+    },
+    {
+      "venueSlug": "gossip-grill",
+      "title": "A Pint for a Pint Blood Drive",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-24",
+      "start": "12:00",
+      "end": "",
+      "description": "American Red Cross blood drive, noon-6pm. Donate a pint of blood, get a pint of beer.",
+      "source": "https://www.instagram.com/gossipgrill_/p/DdkmrwxR7OO/",
+      "verified": true
+    },
+    {
+      "venueSlug": "gossip-grill",
+      "title": "Supper Club: Rocky Horror Picture Show",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-04",
+      "start": "19:00",
+      "end": "",
+      "description": "Rocky Horror on the LED screen with sound, 7-10pm; themed bites menu; $5 tickets include a complimentary glass of bubbles.",
+      "source": "https://www.instagram.com/ggsupperclub/p/DdhuS2YP6zY/",
+      "verified": true
+    },
+    {
+      "venueSlug": "eq",
+      "title": "Blue Monday",
+      "recurring": true,
+      "days": [
+        "MO"
+      ],
+      "date": null,
+      "start": "21:00",
+      "end": "",
+      "description": "DJ night (listed Sep 28 & Oct 5)",
+      "source": "https://www.eqsandiego.com/events",
+      "verified": true
+    },
+    {
+      "venueSlug": "eq",
+      "title": "SANCTUARY",
+      "recurring": true,
+      "days": [
+        "TU"
+      ],
+      "date": null,
+      "start": "20:00",
+      "end": "",
+      "description": "DJ night (listed Sep 29 & Oct 6)",
+      "source": "https://www.eqsandiego.com/events",
+      "verified": true
+    },
+    {
+      "venueSlug": "eq",
+      "title": "DRESSCODE",
+      "recurring": true,
+      "days": [
+        "WE"
+      ],
+      "date": null,
+      "start": "21:00",
+      "end": "",
+      "description": "DJ night (listed Sep 23 & Sep 30)",
+      "source": "https://www.eqsandiego.com/events",
+      "verified": true
+    },
+    {
+      "venueSlug": "eq",
+      "title": "REVERB",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-24",
+      "start": "21:00",
+      "end": "",
+      "description": "Billed on IG as REVERB: HARDBOUNCE.",
+      "source": "https://www.eqsandiego.com/events",
+      "verified": true
+    },
+    {
+      "venueSlug": "eq",
+      "title": "The Techno Jungle",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-01",
+      "start": "21:00",
+      "end": "",
+      "description": "Techno night.",
+      "source": "https://www.eqsandiego.com/events",
+      "verified": true
+    },
+    {
+      "venueSlug": "eq",
+      "title": "PUNSO Throws a Party",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-02",
+      "start": "21:00",
+      "end": "",
+      "description": "Club night.",
+      "source": "https://www.eqsandiego.com/events",
+      "verified": true
+    },
+    {
+      "venueSlug": "eq",
+      "title": "1MORNING (All Vinyl)",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-25",
+      "start": "21:00",
+      "end": "",
+      "description": "All-vinyl groove night, 9pm-2am, with dj_theaveragejoe and kalerely.",
+      "source": "https://www.instagram.com/eqsandiego/p/DdKLC9ikq6M/",
+      "verified": true
+    },
+    {
+      "venueSlug": "eq",
+      "title": "CRSSD After Dark: NOTION",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-26",
+      "start": "",
+      "end": "",
+      "description": "CRSSD after-party.",
+      "source": "https://www.instagram.com/eqsandiego/",
+      "verified": true
+    },
+    {
+      "venueSlug": "the-brass-rail",
+      "title": "Monday Mamis",
+      "recurring": true,
+      "days": [
+        "MO"
+      ],
+      "date": null,
+      "start": "19:30",
+      "end": "22:30",
+      "description": "Weekly Monday party",
+      "source": "https://thebrassrailsd.com/events",
+      "verified": true
+    },
+    {
+      "venueSlug": "the-brass-rail",
+      "title": "Karaoke with Spencer",
+      "recurring": true,
+      "days": [
+        "TH"
+      ],
+      "date": null,
+      "start": "18:00",
+      "end": "21:00",
+      "description": "Karaoke",
+      "source": "https://thebrassrailsd.com/events",
+      "verified": true
+    },
+    {
+      "venueSlug": "the-brass-rail",
+      "title": "Karaoke Saturdays",
+      "recurring": true,
+      "days": [
+        "SA"
+      ],
+      "date": null,
+      "start": "12:00",
+      "end": "16:00",
+      "description": "Karaoke, full bar, no cover",
+      "source": "https://thebrassrailsd.com/events",
+      "verified": true
+    },
+    {
+      "venueSlug": "the-brass-rail",
+      "title": "Disco T-Dance",
+      "recurring": true,
+      "days": [
+        "SA"
+      ],
+      "date": null,
+      "start": "16:00",
+      "end": "20:00",
+      "description": "DJs Mike and Gerald, gogos; $4 beers; $8 beer pitchers; $6 wells",
+      "source": "https://thebrassrailsd.com/events",
+      "verified": true
+    },
+    {
+      "venueSlug": "the-brass-rail",
+      "title": "Sabados En Fuego",
+      "recurring": true,
+      "days": [
+        "SA"
+      ],
+      "date": null,
+      "start": "22:00",
+      "end": "02:00",
+      "description": "Latin music all night; $10 cover",
+      "source": "https://www.instagram.com/brassrailsd/reel/DcPpqJwO1XZ/",
+      "verified": true
+    },
+    {
+      "venueSlug": "the-brass-rail",
+      "title": "Seance",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-24",
+      "start": "21:00",
+      "end": "",
+      "description": "Drag night with @coven.party hosted by Nykky Hex. No cover; doors 9pm, show 10pm.",
+      "source": "https://thebrassrailsd.com/events",
+      "verified": true
+    },
+    {
+      "venueSlug": "the-brass-rail",
+      "title": "CDR",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-25",
+      "start": "18:30",
+      "end": "",
+      "description": "Country line dancing (last Friday monthly); lessons 7:30 & 8:30.",
+      "source": "https://thebrassrailsd.com/events",
+      "verified": true
+    },
+    {
+      "venueSlug": "the-brass-rail",
+      "title": "Now That's R&B",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-25",
+      "start": "21:30",
+      "end": "",
+      "description": "SD Melanin R&B night, last Friday monthly. Eventbrite lists 9:30pm, from $12.51 (the venue site says 9pm).",
+      "source": "https://thebrassrailsd.com/events",
+      "verified": true
+    },
+    {
+      "venueSlug": "the-brass-rail",
+      "title": "Never Too Late",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-30",
+      "start": "16:00",
+      "end": "",
+      "description": "Drag show hosted by Wanda Lust benefiting San Diego Youth Services. Date conflicts with description text (Sep 13).",
+      "source": "https://thebrassrailsd.com/events",
+      "verified": true
+    },
+    {
+      "venueSlug": "the-brass-rail",
+      "title": "4 The Drag of It",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-07",
+      "start": "20:00",
+      "end": "",
+      "description": "Snowflake presents a drag show.",
+      "source": "https://thebrassrailsd.com/events",
+      "verified": true
+    },
+    {
+      "venueSlug": "the-brass-rail",
+      "title": "GEAR XL",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-09",
+      "start": "21:00",
+      "end": "",
+      "description": "Monthly party, 2nd Friday. $14 limited advance / $18 presale / $20 door (per IG flyer).",
+      "source": "https://thebrassrailsd.com/events",
+      "verified": true
+    },
+    {
+      "venueSlug": "the-brass-rail",
+      "title": "New Wave Karaoke",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-13",
+      "start": "18:00",
+      "end": "",
+      "description": "With Heather Hardcore and Mikey, 2nd Tuesday monthly.",
+      "source": "https://thebrassrailsd.com/events",
+      "verified": true
+    },
+    {
+      "venueSlug": "the-brass-rail",
+      "title": "Vida",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-15",
+      "start": "18:00",
+      "end": "",
+      "description": "Drag show for National Latinx HIV/AIDS Awareness Day; tickets $20.",
+      "source": "https://thebrassrailsd.com/events",
+      "verified": true
+    },
+    {
+      "venueSlug": "the-brass-rail",
+      "title": "Womxn",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-16",
+      "start": "18:00",
+      "end": "",
+      "description": "Monthly Womxn's happy hour + dance party with Heidilicious.",
+      "source": "https://thebrassrailsd.com/events",
+      "verified": true
+    },
+    {
+      "venueSlug": "the-brass-rail",
+      "title": "MEGAWOOF San Diego: 11 Year Anniversary Tour",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-16",
+      "start": "21:30",
+      "end": "",
+      "description": "Club night. Eventbrite lists 9:30pm (the venue site says 10pm).",
+      "source": "https://thebrassrailsd.com/events",
+      "verified": true
+    },
+    {
+      "venueSlug": "the-brass-rail",
+      "title": "4 The Drag of It",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-21",
+      "start": "20:00",
+      "end": "",
+      "description": "Snowflake presents a drag show.",
+      "source": "https://thebrassrailsd.com/events",
+      "verified": true
+    },
+    {
+      "venueSlug": "the-brass-rail",
+      "title": "Seance",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-29",
+      "start": "21:00",
+      "end": "",
+      "description": "Drag night.",
+      "source": "https://thebrassrailsd.com/events",
+      "verified": true
+    },
+    {
+      "venueSlug": "the-brass-rail",
+      "title": "CDR",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-30",
+      "start": "18:30",
+      "end": "",
+      "description": "Country line dancing.",
+      "source": "https://thebrassrailsd.com/events",
+      "verified": true
+    },
+    {
+      "venueSlug": "the-brass-rail",
+      "title": "Now That's R&B",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-30",
+      "start": "21:30",
+      "end": "",
+      "description": "SD Melanin R&B night, last Friday monthly. Eventbrite lists 9:30pm, from $12.51 (the venue site says 9pm).",
+      "source": "https://thebrassrailsd.com/events",
+      "verified": true
+    },
+    {
+      "venueSlug": "the-brass-rail",
+      "title": "CRSSD After Dark",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-26",
+      "start": "21:00",
+      "end": "",
+      "description": "Afters with ayybo, rafael___music and aka__vinnie; open until 4am.",
+      "source": "https://www.instagram.com/brassrailsd/p/DdpcgaEiFwn/",
+      "verified": true
+    },
+    {
+      "venueSlug": "the-brass-rail",
+      "title": "CRSSD After Dark",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-27",
+      "start": "21:00",
+      "end": "",
+      "description": "Afters with genesiofc and kasst_live; open until 4am.",
+      "source": "https://www.instagram.com/brassrailsd/p/DdpcgaEiFwn/",
+      "verified": true
+    },
+    {
+      "venueSlug": "the-brass-rail",
+      "title": "Mexico vs Colombia Watch Party",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-26",
+      "start": "18:00",
+      "end": "",
+      "description": "Men's international friendly on screen; no cover, happy hour prices during the match.",
+      "source": "https://www.instagram.com/brassrailsd/p/DdmtIQLCKlP/",
+      "verified": true
+    },
+    {
+      "venueSlug": "the-brass-rail",
+      "title": "Slaughterhaus: Bloody Apron Party",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-23",
+      "start": "22:00",
+      "end": "",
+      "description": "Halloween-themed party featuring DJ mkik808; fake blood and theatrical props. Eventbrite lists it as 'Slaughterhaus: The SD Cut', 10pm, 21+, from $17.79.",
+      "source": "https://www.instagram.com/slaughterhausparty/reel/DdkAY4tyMAD/",
+      "verified": false
+    },
+    {
+      "venueSlug": "the-brass-rail",
+      "title": "UNZIP",
+      "recurring": false,
+      "days": [],
+      "date": "2026-11-20",
+      "start": "22:00",
+      "end": "",
+      "description": "Fanny pack popup party with DJ Mateo Segade. Eventbrite: 10pm.",
+      "source": "https://www.instagram.com/humpevents/p/Ddfa3LAmgqb/",
+      "verified": false
+    },
+    {
+      "venueSlug": "the-brass-rail",
+      "title": "STEAM: The Nightmare After Christmas",
+      "recurring": false,
+      "days": [],
+      "date": "2026-12-25",
+      "start": "22:00",
+      "end": "",
+      "description": "Towel party. Eventbrite: 10pm.",
+      "source": "https://www.instagram.com/humpevents/p/Ddfa3LAmgqb/",
+      "verified": false
+    },
+    {
+      "venueSlug": "negociant-winery",
+      "title": "Jazz Night in the Cellar",
+      "recurring": true,
+      "days": [
+        "TH"
+      ],
+      "date": null,
+      "start": "18:30",
+      "end": "21:30",
+      "description": "Live jazz 6:30-9:30pm; happy hour 4-6pm; reservations recommended, text (619) 535-1747",
+      "source": "https://www.negociantwinery.com/calender",
+      "verified": true
+    },
+    {
+      "venueSlug": "negociant-winery",
+      "title": "Sunday Funday",
+      "recurring": true,
+      "days": [
+        "SU"
+      ],
+      "date": null,
+      "start": "12:00",
+      "end": "",
+      "description": "Recurring Sunday event (listed Oct 4; Sep 27 is a private event)",
+      "source": "https://www.negociantwinery.com/calender",
+      "verified": true
+    },
+    {
+      "venueSlug": "negociant-winery",
+      "title": "Trivia Night",
+      "recurring": true,
+      "days": [
+        "WE"
+      ],
+      "date": null,
+      "start": "19:00",
+      "end": "",
+      "description": "Weekly trivia",
+      "source": "https://www.instagram.com/negociantwinery/",
+      "verified": true
+    },
+    {
+      "venueSlug": "negociant-winery",
+      "title": "Live Music",
+      "recurring": true,
+      "days": [
+        "FR",
+        "SA"
+      ],
+      "date": null,
+      "start": "18:30",
+      "end": "",
+      "description": "Live music at 6:30pm",
+      "source": "https://www.instagram.com/negociantwinery/",
+      "verified": true
+    },
+    {
+      "venueSlug": "negociant-winery",
+      "title": "Red Wine & Vibes: Paint Your Date!",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-23",
+      "start": "18:30",
+      "end": "",
+      "description": "Paint-your-date wine night, until 9:30pm.",
+      "source": "https://www.negociantwinery.com/calender",
+      "verified": true
+    },
+    {
+      "venueSlug": "negociant-winery",
+      "title": "Steffi Roche & John Opferkuch Live",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-25",
+      "start": "19:00",
+      "end": "",
+      "description": "Live music.",
+      "source": "https://www.negociantwinery.com/calender",
+      "verified": true
+    },
+    {
+      "venueSlug": "negociant-winery",
+      "title": "Joe's Café: Latin Jazz",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-26",
+      "start": "18:30",
+      "end": "",
+      "description": "Live Latin jazz.",
+      "source": "https://www.negociantwinery.com/calender",
+      "verified": true
+    },
+    {
+      "venueSlug": "negociant-winery",
+      "title": "Closed for Private Event",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-27",
+      "start": "12:00",
+      "end": "",
+      "description": "Closed to the public.",
+      "source": "https://www.negociantwinery.com/calender",
+      "verified": true
+    },
+    {
+      "venueSlug": "negociant-winery",
+      "title": "Andy Anderson & Nathan Fry Live",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-03",
+      "start": "18:30",
+      "end": "",
+      "description": "Live music.",
+      "source": "https://www.negociantwinery.com/calender",
+      "verified": true
+    },
+    {
+      "venueSlug": "negociant-winery",
+      "title": "Don L Live!",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-09",
+      "start": "18:30",
+      "end": "",
+      "description": "Live music.",
+      "source": "https://www.negociantwinery.com/calender",
+      "verified": true
+    },
+    {
+      "venueSlug": "rich-s",
+      "title": "Mischief Wednesdays",
+      "recurring": true,
+      "days": [
+        "WE"
+      ],
+      "date": null,
+      "start": "22:00",
+      "end": "02:00",
+      "description": "Weekly club night",
+      "source": "https://richssandiego.com/thisweek/",
+      "verified": true
+    },
+    {
+      "venueSlug": "rich-s",
+      "title": "Electro-POP!",
+      "recurring": true,
+      "days": [
+        "FR"
+      ],
+      "date": null,
+      "start": "21:00",
+      "end": "02:00",
+      "description": "Friday club night (listed Sep 25, Oct 2, Oct 9)",
+      "source": "https://richssandiego.com/thisweek/",
+      "verified": true
+    },
+    {
+      "venueSlug": "rich-s",
+      "title": "BIG FAT GAY RAVE",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-24",
+      "start": "21:00",
+      "end": "",
+      "description": "Club night.",
+      "source": "https://richssandiego.com/thisweek/",
+      "verified": true
+    },
+    {
+      "venueSlug": "rich-s",
+      "title": "DRAGETERIA: Lady Gaga vs Madonna Drag Concert",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-25",
+      "start": "20:00",
+      "end": "",
+      "description": "Pink carpet 8pm, showtime 8:30pm, featuring Laganja Estranja. Tickets via drageteria.eventbrite.com.",
+      "source": "https://richssandiego.com/thisweek/",
+      "verified": true
+    },
+    {
+      "venueSlug": "rich-s",
+      "title": "CRSSD After-Dark feat. Rossi, Jamback & Locklead",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-26",
+      "start": "21:00",
+      "end": "",
+      "description": "CRSSD after-party, until 4am.",
+      "source": "https://richssandiego.com/thisweek/",
+      "verified": true
+    },
+    {
+      "venueSlug": "rich-s",
+      "title": "CRSSD After-Dark feat. Adam Sellouk",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-27",
+      "start": "21:00",
+      "end": "",
+      "description": "CRSSD after-party, until 3am.",
+      "source": "https://richssandiego.com/thisweek/",
+      "verified": true
+    },
+    {
+      "venueSlug": "rich-s",
+      "title": "CatHaus Burlesque & Pole Dance Revue",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-01",
+      "start": "20:00",
+      "end": "",
+      "description": "Burlesque and pole show. CONFLICT: Eventbrite and DoSD both say 8pm; the venue's own site says 7pm.",
+      "source": "https://richssandiego.com/thisweek/",
+      "verified": true
+    },
+    {
+      "venueSlug": "rich-s",
+      "title": "Pop Rocks!",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-01",
+      "start": "22:00",
+      "end": "",
+      "description": "Club night.",
+      "source": "https://richssandiego.com/thisweek/",
+      "verified": true
+    },
+    {
+      "venueSlug": "rich-s",
+      "title": "Rich's 35 Year Anniversary",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-03",
+      "start": "21:00",
+      "end": "",
+      "description": "Anniversary party, 9pm-4am. Discord Adams as The Pope, Mia Starr as Bloody Mary, Joey Jay and Cynthia Lee Fontaine; DJs Casey Alva & Breezus (main room), Qoolee Kid & K-Swift (front room).",
+      "source": "https://richssandiego.com/thisweek/",
+      "verified": true
+    },
+    {
+      "venueSlug": "rich-s",
+      "title": "Pop Rocks!",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-08",
+      "start": "21:00",
+      "end": "",
+      "description": "Club night.",
+      "source": "https://richssandiego.com/thisweek/",
+      "verified": true
+    },
+    {
+      "venueSlug": "rich-s",
+      "title": "Official RED DRESS After Party",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-10",
+      "start": "21:00",
+      "end": "",
+      "description": "After party, until 4am.",
+      "source": "https://richssandiego.com/thisweek/",
+      "verified": true
+    },
+    {
+      "venueSlug": "rich-s",
+      "title": "The Real Dragwives of Hillcrest w/ Teresa Giudice",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-16",
+      "start": "20:00",
+      "end": "",
+      "description": "Doors 8pm, show 8:30-10pm. Teresa Giudice plus April Carrion, Godoy, Acacia Forgot, Kickxy Vixen, Naomi Daniels and Cassian.",
+      "source": "https://richssandiego.com/thisweek/",
+      "verified": true
+    },
+    {
+      "venueSlug": "rich-s",
+      "title": "Circuit Papi w/ DJ Verenzuela & DJ Dani Toro",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-24",
+      "start": "21:00",
+      "end": "",
+      "description": "Circuit party with DJs Dani Toro, Verenzuela, Ben LA and Sebas Lamadrid; queens April Carrion and Kimora Blac.",
+      "source": "https://richssandiego.com/thisweek/",
+      "verified": true
+    },
+    {
+      "venueSlug": "rich-s",
+      "title": "Darude: The Hype Tour",
+      "recurring": false,
+      "days": [],
+      "date": "2026-11-07",
+      "start": "21:00",
+      "end": "",
+      "description": "DJ set.",
+      "source": "https://richssandiego.com/thisweek/",
+      "verified": true
+    },
+    {
+      "venueSlug": "rich-s",
+      "title": "RESIST w/ Abel",
+      "recurring": false,
+      "days": [],
+      "date": "2026-11-14",
+      "start": "21:00",
+      "end": "",
+      "description": "Club night.",
+      "source": "https://richssandiego.com/thisweek/",
+      "verified": true
+    },
+    {
+      "venueSlug": "cork-stem",
+      "title": "Epoxy Made Simple art class",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-17",
+      "start": "",
+      "end": "",
+      "description": "Epoxy art workshop hosted at Cork & Stem.",
+      "source": "https://www.instagram.com/epoxymadesimple/p/DdZkgXajzy5/",
+      "verified": false
+    },
+    {
+      "venueSlug": "r-place-bar-eatery",
+      "title": "The Traitors Watch Party",
+      "recurring": true,
+      "days": [
+        "TH"
+      ],
+      "date": null,
+      "start": "19:00",
+      "end": "",
+      "description": "Weekly watch party; BOGO burgers",
+      "source": "https://www.instagram.com/rplacehillcrest/reel/DdpW_c5Rw-x/",
+      "verified": true
+    },
+    {
+      "venueSlug": "r-place-bar-eatery",
+      "title": "National Drink Beer Day",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-28",
+      "start": "11:00",
+      "end": "",
+      "description": "Craft beer day.",
+      "source": "https://rplacesandiego.com/san-diego-hillcrest-r-place-bar-and-eatery-events",
+      "verified": true
+    },
+    {
+      "venueSlug": "r-place-bar-eatery",
+      "title": "National Taco Day",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-06",
+      "start": "11:00",
+      "end": "",
+      "description": "Taco day.",
+      "source": "https://rplacesandiego.com/san-diego-hillcrest-r-place-bar-and-eatery-events",
+      "verified": true
+    },
+    {
+      "venueSlug": "r-place-bar-eatery",
+      "title": "National Dessert Day",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-14",
+      "start": "11:00",
+      "end": "",
+      "description": "Dinner and a dessert.",
+      "source": "https://rplacesandiego.com/san-diego-hillcrest-r-place-bar-and-eatery-events",
+      "verified": true
+    },
+    {
+      "venueSlug": "r-place-bar-eatery",
+      "title": "Halloween",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-31",
+      "start": "11:00",
+      "end": "",
+      "description": "Bring your best costume.",
+      "source": "https://rplacesandiego.com/san-diego-hillcrest-r-place-bar-and-eatery-events",
+      "verified": true
+    },
+    {
+      "venueSlug": "r-place-bar-eatery",
+      "title": "National Sandwich Day",
+      "recurring": false,
+      "days": [],
+      "date": "2026-11-03",
+      "start": "11:00",
+      "end": "",
+      "description": "Sandwich day.",
+      "source": "https://rplacesandiego.com/san-diego-hillcrest-r-place-bar-and-eatery-events",
+      "verified": true
+    },
+    {
+      "venueSlug": "r-place-bar-eatery",
+      "title": "Thanksgiving",
+      "recurring": false,
+      "days": [],
+      "date": "2026-11-26",
+      "start": "11:00",
+      "end": "",
+      "description": "Thanksgiving feast.",
+      "source": "https://rplacesandiego.com/san-diego-hillcrest-r-place-bar-and-eatery-events",
+      "verified": true
+    },
+    {
+      "venueSlug": "urban-mo-s-bar-grill",
+      "title": "Saturdays w/ DJ Miss Dust",
+      "recurring": true,
+      "days": [
+        "SA"
+      ],
+      "date": null,
+      "start": "14:00",
+      "end": "18:00",
+      "description": "DJ",
+      "source": "https://urbanmos.com/events/",
+      "verified": true
+    },
+    {
+      "venueSlug": "urban-mo-s-bar-grill",
+      "title": "Sassy Sunday Funday",
+      "recurring": true,
+      "days": [
+        "SU"
+      ],
+      "date": null,
+      "start": "14:00",
+      "end": "18:00",
+      "description": "Sunday party with Mariam T",
+      "source": "https://urbanmos.com/events/",
+      "verified": true
+    },
+    {
+      "venueSlug": "urban-mo-s-bar-grill",
+      "title": "The Traitors Watch Party",
+      "recurring": true,
+      "days": [
+        "TH"
+      ],
+      "date": null,
+      "start": "20:00",
+      "end": "",
+      "description": "Weekly watch party; first episode on the dance floor, later episodes on the patio",
+      "source": "https://www.instagram.com/urbanmos/p/DdZZSWkRVKN/",
+      "verified": true
+    },
+    {
+      "venueSlug": "urban-mo-s-bar-grill",
+      "title": "Dreamgirls Revue",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-23",
+      "start": "18:00",
+      "end": "",
+      "description": "Drag show; $20.",
+      "source": "https://urbanmos.com/events/",
+      "verified": true
+    },
+    {
+      "venueSlug": "urban-mo-s-bar-grill",
+      "title": "Twilight Trivia",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-24",
+      "start": "18:00",
+      "end": "",
+      "description": "Seating 6pm, trivia starts 7pm. Dress as a Twilight character; $100 gift card for 1st place; $6 SKYY drink specials all night. Part of a six-week spooky trivia run. $1.",
+      "source": "https://urbanmos.com/events/",
+      "verified": true
+    },
+    {
+      "venueSlug": "urban-mo-s-bar-grill",
+      "title": "The Traitors: New Blood Watch Party",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-24",
+      "start": "20:00",
+      "end": "",
+      "description": "Watch party; free.",
+      "source": "https://urbanmos.com/events/",
+      "verified": true
+    },
+    {
+      "venueSlug": "urban-mo-s-bar-grill",
+      "title": "SKYY Bottle Service Special",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-25",
+      "start": "17:00",
+      "end": "",
+      "description": "Runs through Sep 28 12am.",
+      "source": "https://urbanmos.com/events/",
+      "verified": true
+    },
+    {
+      "venueSlug": "urban-mo-s-bar-grill",
+      "title": "Dinner with Dolly & Friends",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-25",
+      "start": "18:00",
+      "end": "",
+      "description": "Seating 6pm, show 7pm. Hosted by Mariam T, featuring Chad Michaels, Trinna Modelle, Naomi Daniels and Angel Fairfax. $25.",
+      "source": "https://urbanmos.com/events/",
+      "verified": true
+    },
+    {
+      "venueSlug": "urban-mo-s-bar-grill",
+      "title": "Bubbles for Brunch",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-26",
+      "start": "11:00",
+      "end": "",
+      "description": "Brunch; $25.",
+      "source": "https://urbanmos.com/events/",
+      "verified": true
+    },
+    {
+      "venueSlug": "urban-mo-s-bar-grill",
+      "title": "$10 Pitchers",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-26",
+      "start": "14:00",
+      "end": "",
+      "description": "$10 pitchers through Sep 27 7pm.",
+      "source": "https://urbanmos.com/events/",
+      "verified": true
+    },
+    {
+      "venueSlug": "urban-mo-s-bar-grill",
+      "title": "Gayme Night",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-28",
+      "start": "17:00",
+      "end": "",
+      "description": "Game night.",
+      "source": "https://urbanmos.com/events/",
+      "verified": true
+    },
+    {
+      "venueSlug": "urban-mo-s-bar-grill",
+      "title": "$8 All You Can Eat Spaghetti",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-29",
+      "start": "17:00",
+      "end": "",
+      "description": "$8 all-you-can-eat spaghetti.",
+      "source": "https://urbanmos.com/events/",
+      "verified": true
+    },
+    {
+      "venueSlug": "urban-mo-s-bar-grill",
+      "title": "Dreamgirls Revue",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-30",
+      "start": "18:00",
+      "end": "",
+      "description": "Drag show; $30.",
+      "source": "https://urbanmos.com/events/",
+      "verified": true
+    },
+    {
+      "venueSlug": "urban-mo-s-bar-grill",
+      "title": "Tim Burton Trivia",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-01",
+      "start": "18:00",
+      "end": "",
+      "description": "Themed trivia; $1.",
+      "source": "https://urbanmos.com/events/",
+      "verified": true
+    },
+    {
+      "venueSlug": "urban-mo-s-bar-grill",
+      "title": "The Traitors: New Blood Watch Party",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-01",
+      "start": "20:00",
+      "end": "",
+      "description": "Watch party; free.",
+      "source": "https://urbanmos.com/events/",
+      "verified": true
+    },
+    {
+      "venueSlug": "urban-mo-s-bar-grill",
+      "title": "Bubbles for Brunch",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-03",
+      "start": "11:00",
+      "end": "",
+      "description": "Brunch; $25.",
+      "source": "https://urbanmos.com/events/",
+      "verified": true
+    },
+    {
+      "venueSlug": "urban-mo-s-bar-grill",
+      "title": "OMG: A Gay Afters",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-26",
+      "start": "21:00",
+      "end": "",
+      "description": "The Sapphic Raver x Le Parties. House, tech house and EDM, 9pm-late, 21+.",
+      "source": "https://www.instagram.com/djjohnjoseph/p/DdSDwThqYC8/",
+      "verified": false
+    },
+    {
+      "venueSlug": "urban-mo-s-bar-grill",
+      "title": "OMG: A Gay Afters",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-27",
+      "start": "21:00",
+      "end": "",
+      "description": "The Sapphic Raver x Le Parties. House, tech house and EDM, 9pm-late, 21+.",
+      "source": "https://www.instagram.com/djjohnjoseph/p/DdSDwThqYC8/",
+      "verified": false
+    },
+    {
+      "venueSlug": "first-unitarian-universalist-church-of-san-diego",
+      "title": "Sunday Worship Service",
+      "recurring": true,
+      "days": [
+        "SU"
+      ],
+      "date": null,
+      "start": "10:00",
+      "end": "",
+      "description": "Weekly service at the Hillcrest campus",
+      "source": "https://www.firstuusandiego.org/",
+      "verified": true
+    },
+    {
+      "venueSlug": "first-unitarian-universalist-church-of-san-diego",
+      "title": "TuYo Theatre: 'Our Lady of the San Diego Convention Center'",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-03",
+      "start": "16:00",
+      "end": "",
+      "description": "Play in Bard Hall.",
+      "source": "https://www.firstuusandiego.org/front-street-productions.html",
+      "verified": true
+    },
+    {
+      "venueSlug": "first-unitarian-universalist-church-of-san-diego",
+      "title": "Lesbians of San Diego Staged Reading: 'Coming Out Stories'",
+      "recurring": false,
+      "days": [],
+      "date": "2026-11-07",
+      "start": "13:00",
+      "end": "",
+      "description": "Social hour 1pm, performance 2pm, in the Meeting House.",
+      "source": "https://www.firstuusandiego.org/front-street-productions.html",
+      "verified": true
+    },
+    {
+      "venueSlug": "first-unitarian-universalist-church-of-san-diego",
+      "title": "Navidad Latina: A Holiday Concert",
+      "recurring": false,
+      "days": [],
+      "date": "2026-12-05",
+      "start": "19:30",
+      "end": "",
+      "description": "Spanish and Latin American carols.",
+      "source": "https://www.firstuusandiego.org/front-street-productions.html",
+      "verified": true
+    },
+    {
+      "venueSlug": "first-unitarian-universalist-church-of-san-diego",
+      "title": "Winter Schminter Solstice Concert",
+      "recurring": false,
+      "days": [],
+      "date": "2026-12-19",
+      "start": "19:30",
+      "end": "",
+      "description": "Music from many cultures (page says Sunday; the date is a Saturday).",
+      "source": "https://www.firstuusandiego.org/front-street-productions.html",
+      "verified": true
+    },
+    {
+      "venueSlug": "artreach-san-diego",
+      "title": "Drop-In Play",
+      "recurring": true,
+      "days": [
+        "TH",
+        "FR"
+      ],
+      "date": null,
+      "start": "10:00",
+      "end": "13:00",
+      "description": "Open play for walking toddlers to age 8",
+      "source": "https://www.artreachsandiego.org/studio/drop-in-play/",
+      "verified": true
+    },
+    {
+      "venueSlug": "artreach-san-diego",
+      "title": "Drop-In Play (Saturday)",
+      "recurring": true,
+      "days": [
+        "SA"
+      ],
+      "date": null,
+      "start": "09:00",
+      "end": "13:00",
+      "description": "Open play for walking toddlers to age 8",
+      "source": "https://www.artreachsandiego.org/studio/drop-in-play/",
+      "verified": true
+    },
+    {
+      "venueSlug": "artreach-san-diego",
+      "title": "After-School: Beginning Sewing",
+      "recurring": true,
+      "days": [
+        "MO"
+      ],
+      "date": null,
+      "start": "16:30",
+      "end": "",
+      "description": "Fall session through Oct 8",
+      "source": "https://www.artreachsandiego.org/studio/after-school/",
+      "verified": true
+    },
+    {
+      "venueSlug": "artreach-san-diego",
+      "title": "After-School: Collage",
+      "recurring": true,
+      "days": [
+        "TU"
+      ],
+      "date": null,
+      "start": "16:30",
+      "end": "",
+      "description": "Fall session through Oct 8",
+      "source": "https://www.artreachsandiego.org/studio/after-school/",
+      "verified": true
+    },
+    {
+      "venueSlug": "artreach-san-diego",
+      "title": "After-School: Advanced Sewing",
+      "recurring": true,
+      "days": [
+        "WE"
+      ],
+      "date": null,
+      "start": "16:30",
+      "end": "",
+      "description": "Fall session through Oct 8",
+      "source": "https://www.artreachsandiego.org/studio/after-school/",
+      "verified": true
+    },
+    {
+      "venueSlug": "artreach-san-diego",
+      "title": "After-School: Portrait Drawing",
+      "recurring": true,
+      "days": [
+        "TH"
+      ],
+      "date": null,
+      "start": "14:00",
+      "end": "",
+      "description": "Fall session through Oct 8",
+      "source": "https://www.artreachsandiego.org/studio/after-school/",
+      "verified": true
+    },
+    {
+      "venueSlug": "artreach-san-diego",
+      "title": "After-School: Clay",
+      "recurring": true,
+      "days": [
+        "TH"
+      ],
+      "date": null,
+      "start": "16:30",
+      "end": "",
+      "description": "Fall session through Oct 8",
+      "source": "https://www.artreachsandiego.org/studio/after-school/",
+      "verified": true
+    },
+    {
+      "venueSlug": "artreach-san-diego",
+      "title": "Holiday Art Market",
+      "recurring": false,
+      "days": [],
+      "date": "2026-12-05",
+      "start": "10:00",
+      "end": "",
+      "description": "Holiday art market 10am-3pm at the Hillcrest studio.",
+      "source": "https://www.artreachsandiego.org/holiday-art-market/",
+      "verified": true
+    },
+    {
+      "venueSlug": "artreach-san-diego",
+      "title": "Tween Night",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-21",
+      "start": "17:00",
+      "end": "",
+      "description": "Pizza, movies and crafts for tweens, 5-7pm (recently extended by 30 minutes).",
+      "source": "https://www.instagram.com/artreachsd/reel/Ddm35VCTT32/",
+      "verified": true
+    },
+    {
+      "venueSlug": "1-fifth-avenue",
+      "title": "MTV Mondays",
+      "recurring": true,
+      "days": [
+        "MO"
+      ],
+      "date": null,
+      "start": "19:00",
+      "end": "",
+      "description": "Weekly night",
+      "source": "https://www.instagram.com/number_one_fifth/p/DdjmwVVGoHG/",
+      "verified": true
+    },
+    {
+      "venueSlug": "1-fifth-avenue",
+      "title": "Tiger's Pictionary",
+      "recurring": true,
+      "days": [
+        "TU"
+      ],
+      "date": null,
+      "start": "19:30",
+      "end": "",
+      "description": "Weekly night",
+      "source": "https://www.instagram.com/number_one_fifth/p/DdjmwVVGoHG/",
+      "verified": true
+    },
+    {
+      "venueSlug": "1-fifth-avenue",
+      "title": "Karaoke",
+      "recurring": true,
+      "days": [
+        "TU"
+      ],
+      "date": null,
+      "start": "20:00",
+      "end": "",
+      "description": "Weekly night",
+      "source": "https://www.instagram.com/number_one_fifth/p/DdjmwVVGoHG/",
+      "verified": true
+    },
+    {
+      "venueSlug": "1-fifth-avenue",
+      "title": "Sheppardy!",
+      "recurring": true,
+      "days": [
+        "WE"
+      ],
+      "date": null,
+      "start": "20:00",
+      "end": "",
+      "description": "Weekly night",
+      "source": "https://www.instagram.com/number_one_fifth/p/DdjmwVVGoHG/",
+      "verified": true
+    },
+    {
+      "venueSlug": "1-fifth-avenue",
+      "title": "Late Night Karaoke",
+      "recurring": true,
+      "days": [
+        "TH"
+      ],
+      "date": null,
+      "start": "22:00",
+      "end": "",
+      "description": "Weekly night",
+      "source": "https://www.instagram.com/number_one_fifth/p/DdjmwVVGoHG/",
+      "verified": true
+    },
+    {
+      "venueSlug": "1-fifth-avenue",
+      "title": "Surge",
+      "recurring": true,
+      "days": [
+        "FR"
+      ],
+      "date": null,
+      "start": "21:00",
+      "end": "",
+      "description": "Weekly night",
+      "source": "https://www.instagram.com/number_one_fifth/p/DdjmwVVGoHG/",
+      "verified": true
+    },
+    {
+      "venueSlug": "1-fifth-avenue",
+      "title": "Saturday night party (name not legible on flyer)",
+      "recurring": true,
+      "days": [
+        "SA"
+      ],
+      "date": null,
+      "start": "22:00",
+      "end": "",
+      "description": "Weekly night",
+      "source": "https://www.instagram.com/number_one_fifth/p/DdjmwVVGoHG/",
+      "verified": true
+    },
+    {
+      "venueSlug": "1-fifth-avenue",
+      "title": "POP! beats by Zareen",
+      "recurring": true,
+      "days": [
+        "SU"
+      ],
+      "date": null,
+      "start": "16:00",
+      "end": "",
+      "description": "Weekly night",
+      "source": "https://www.instagram.com/number_one_fifth/p/DdjmwVVGoHG/",
+      "verified": true
+    },
+    {
+      "venueSlug": "flicks",
+      "title": "Welfare Wednesday",
+      "recurring": true,
+      "days": [
+        "WE"
+      ],
+      "date": null,
+      "start": "20:00",
+      "end": "02:00",
+      "description": "Weekly night (no specials listed)",
+      "source": "https://www.sdflicks.com/",
+      "verified": true
+    },
+    {
+      "venueSlug": "flicks",
+      "title": "Toxica",
+      "recurring": true,
+      "days": [
+        "TH"
+      ],
+      "date": null,
+      "start": "21:00",
+      "end": "02:00",
+      "description": "Weekly night",
+      "source": "https://www.sdflicks.com/",
+      "verified": true
+    },
+    {
+      "venueSlug": "flicks",
+      "title": "Seduction",
+      "recurring": true,
+      "days": [
+        "FR"
+      ],
+      "date": null,
+      "start": "21:00",
+      "end": "02:00",
+      "description": "Weekly night",
+      "source": "https://www.sdflicks.com/",
+      "verified": true
+    },
+    {
+      "venueSlug": "flicks",
+      "title": "Saturdays",
+      "recurring": true,
+      "days": [
+        "SA"
+      ],
+      "date": null,
+      "start": "21:00",
+      "end": "02:00",
+      "description": "Weekly night",
+      "source": "https://www.sdflicks.com/",
+      "verified": true
+    },
+    {
+      "venueSlug": "flicks",
+      "title": "NFL Sunday Ticket",
+      "recurring": true,
+      "days": [
+        "SU"
+      ],
+      "date": null,
+      "start": "09:30",
+      "end": "",
+      "description": "Doors 9:30am; All games shown, sound on for main games; Free hot dogs, nachos and popcorn",
+      "source": "https://www.instagram.com/flicks_sd/p/Dc7GvXcBxyP/",
+      "verified": true
+    },
+    {
+      "venueSlug": "uptown-tavern",
+      "title": "Sunday Funday Brunch & Live Music",
+      "recurring": true,
+      "days": [
+        "SU"
+      ],
+      "date": null,
+      "start": "11:00",
+      "end": "",
+      "description": "$5 mimosas; Open 11am for brunch; Live music from 2pm (site lists a DJ 2-6pm)",
+      "source": "https://www.instagram.com/uptowntavernsd/p/Ddg90bxF8ub/",
+      "verified": true
+    },
+    {
+      "venueSlug": "hillcrest-farmers-market",
+      "title": "Sunday Farmers Market",
+      "recurring": true,
+      "days": [
+        "SU"
+      ],
+      "date": null,
+      "start": "09:00",
+      "end": "14:00",
+      "description": "180+ vendors: produce, food and drink, art, music, artisans; Free parking at the DMV",
+      "source": "https://www.instagram.com/hillcrestfarmersmkt/",
+      "verified": true
+    },
+    {
+      "venueSlug": "the-san-diego-lgbt-community-center",
+      "title": "Trans(Gender) 101 Training",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-23",
+      "start": "14:00",
+      "end": "",
+      "description": "Training, 2-3pm.",
+      "source": "https://thecentersd.org/calendar/",
+      "verified": true
+    },
+    {
+      "venueSlug": "the-san-diego-lgbt-community-center",
+      "title": "Community Wall of Honor Induction Ceremony 2026",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-23",
+      "start": "18:00",
+      "end": "",
+      "description": "Ceremony, 6-8pm.",
+      "source": "https://thecentersd.org/calendar/",
+      "verified": true
+    },
+    {
+      "venueSlug": "the-san-diego-lgbt-community-center",
+      "title": "Men's Discussion Group",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-23",
+      "start": "18:00",
+      "end": "",
+      "description": "Discussion group, 6-7:30pm.",
+      "source": "https://thecentersd.org/calendar/",
+      "verified": true
+    },
+    {
+      "venueSlug": "the-san-diego-lgbt-community-center",
+      "title": "Trans(Gender) 101 Training",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-24",
+      "start": "18:00",
+      "end": "",
+      "description": "Training, 6-7pm.",
+      "source": "https://thecentersd.org/calendar/",
+      "verified": true
+    },
+    {
+      "venueSlug": "the-san-diego-lgbt-community-center",
+      "title": "Día de las Rebeldías Lésbicas",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-13",
+      "start": "17:00",
+      "end": "",
+      "description": "Panel on lesbian culture at the border, with light dinner.",
+      "source": "https://thecentersd.org/2026/09/14/celebrate-with-the-center-for-hispanic-latinx-heritage-month/",
+      "verified": true
+    },
+    {
+      "venueSlug": "the-san-diego-lgbt-community-center",
+      "title": "Pasión y Corazón: First Latinx Pageant",
+      "recurring": false,
+      "days": [],
+      "date": "2026-11-07",
+      "start": "18:00",
+      "end": "",
+      "description": "Latine drag pageant in The Center Auditorium.",
+      "source": "https://thecentersd.org/2026/09/14/celebrate-with-the-center-for-hispanic-latinx-heritage-month/",
+      "verified": true
+    },
+    {
+      "venueSlug": "pali-wine-co",
+      "title": "Trivia Night",
+      "recurring": true,
+      "days": [
+        "TH"
+      ],
+      "date": null,
+      "start": "19:00",
+      "end": "",
+      "description": "Weekly themed 'Twisted Trivia' (Eventbrite listings confirm a 7pm start)",
+      "source": "https://paliwineco.com/pages/san-diego-tasting-room",
+      "verified": true
+    },
+    {
+      "venueSlug": "pali-wine-co",
+      "title": "Weekend Live Music",
+      "recurring": true,
+      "days": [
+        "SA",
+        "SU"
+      ],
+      "date": null,
+      "start": "",
+      "end": "",
+      "description": "Live music",
+      "source": "https://paliwineco.com/pages/san-diego-tasting-room",
+      "verified": true
+    },
+    {
+      "venueSlug": "nola-on-5th",
+      "title": "National Drink Beer Day",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-28",
+      "start": "11:00",
+      "end": "",
+      "description": "Craft brews.",
+      "source": "https://nolaon5th.com/san-diego-hillcrest-nola-on-5th-events",
+      "verified": true
+    },
+    {
+      "venueSlug": "nola-on-5th",
+      "title": "National Sandwich Day",
+      "recurring": false,
+      "days": [],
+      "date": "2026-11-03",
+      "start": "11:00",
+      "end": "",
+      "description": "Sandwich day.",
+      "source": "https://nolaon5th.com/san-diego-hillcrest-nola-on-5th-events",
+      "verified": true
+    },
+    {
+      "venueSlug": "los-panchos-tacos-and-cantina",
+      "title": "4th Annual Hillcrest Food Crawl",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-10",
+      "start": "13:30",
+      "end": "",
+      "description": "Multi-venue food crawl, 1:30-5:30pm; check-in at The Brass Rail, 3796 Fifth Ave. Participating venues include Los Panchos, Urban Mo's and Snooze.",
+      "source": "https://www.eventbrite.com/e/the-4th-annual-hillcrest-food-crawl-tickets-1994103284604",
+      "verified": false
+    },
+    {
+      "venueSlug": "the-studio-door",
+      "title": "HOPE (juried group exhibition) opens",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-25",
+      "start": "",
+      "end": "",
+      "description": "Runs Sep 25 - Nov 6; 40+ artists.",
+      "source": "https://thestudiodoor.com/",
+      "verified": true
+    },
+    {
+      "venueSlug": "the-studio-door",
+      "title": "HOPE Artist Reception",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-17",
+      "start": "18:00",
+      "end": "",
+      "description": "Reception 6-9pm; free and open to the public.",
+      "source": "https://thestudiodoor.com/",
+      "verified": true
+    },
+    {
+      "venueSlug": "the-studio-door",
+      "title": "LIKHANG SINING (Filipino Artists) opens",
+      "recurring": false,
+      "days": [],
+      "date": "2026-11-13",
+      "start": "",
+      "end": "",
+      "description": "Runs Nov 13 - Dec 23.",
+      "source": "https://thestudiodoor.com/",
+      "verified": true
+    },
+    {
+      "venueSlug": "cork-stem",
+      "title": "September Mahjong at Cork & Stem",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-24",
+      "start": "18:00",
+      "end": "",
+      "description": "Mahjong night with Finest City Mahjong.",
+      "source": "https://www.eventbrite.com/e/september-mahjong-at-cork-stem-tickets-1995858119362",
+      "verified": false
+    },
+    {
+      "venueSlug": "cork-stem",
+      "title": "Wine Bar Book Club - October",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-01",
+      "start": "18:30",
+      "end": "",
+      "description": "Monthly book club.",
+      "source": "https://www.eventbrite.com/e/wine-bar-book-club-october-tickets-1998931027513",
+      "verified": false
+    },
+    {
+      "venueSlug": "cork-stem",
+      "title": "San Diego Lesbian, Bi, Trans & Queer+ Speed Dating",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-08",
+      "start": "18:00",
+      "end": "",
+      "description": "Speed dating.",
+      "source": "https://www.eventbrite.com/e/san-diego-lesbian-bi-trans-queer-speed-dating-tickets-1996885136197",
+      "verified": false
+    },
+    {
+      "venueSlug": "cork-stem",
+      "title": "Día de los Muertos Paint and Sip",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-14",
+      "start": "18:30",
+      "end": "",
+      "description": "Paint and sip.",
+      "source": "https://www.eventbrite.com/e/dia-de-los-muertos-paint-and-sip-tickets-2001031784935",
+      "verified": false
+    },
+    {
+      "venueSlug": "cork-stem",
+      "title": "Harvest & Haunt Candle Making Workshop",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-15",
+      "start": "18:30",
+      "end": "",
+      "description": "Candle-making workshop.",
+      "source": "https://www.eventbrite.com/e/harvest-haunt-candle-making-workshop-tickets-2001388028469",
+      "verified": false
+    },
+    {
+      "venueSlug": "cork-stem",
+      "title": "Lez-B Laughs Live Comedy Show",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-16",
+      "start": "19:30",
+      "end": "",
+      "description": "Stand-up comedy.",
+      "source": "https://www.eventbrite.com/e/lez-b-laughs-live-comedy-show-in-hillcrest-tickets-2001782969749",
+      "verified": false
+    },
+    {
+      "venueSlug": "cork-stem",
+      "title": "Resin Art Workshop: Botanical Charcuterie Plate",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-17",
+      "start": "15:00",
+      "end": "",
+      "description": "Resin art workshop.",
+      "source": "https://www.eventbrite.com/e/resin-art-workshop-create-your-own-botanical-charcuterie-plate-tickets-2001032560254",
+      "verified": false
+    },
+    {
+      "venueSlug": "cork-stem",
+      "title": "Midweek Date Night | Cityswoon | Ages 32-44",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-21",
+      "start": "19:00",
+      "end": "",
+      "description": "Matched date night.",
+      "source": "https://www.eventbrite.com/e/midweek-date-night-in-hillcrest-cityswoon-ages-32-44-tickets-1994282359221",
+      "verified": false
+    },
+    {
+      "venueSlug": "cork-stem",
+      "title": "Happy Hour Bingo",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-28",
+      "start": "18:30",
+      "end": "",
+      "description": "Bingo night.",
+      "source": "https://www.eventbrite.com/e/happy-hour-bingo-tickets-2001011063958",
+      "verified": false
+    },
+    {
+      "venueSlug": "gossip-grill",
+      "title": "Pride Point Network: LGBTQ+ Professionals October Mixer",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-19",
+      "start": "18:00",
+      "end": "",
+      "description": "Networking mixer for LGBTQ+ professionals.",
+      "source": "https://www.eventbrite.com/e/pride-point-network-lgbtq-professionals-october-mixer-tickets-1995174496628",
+      "verified": false
+    },
+    {
+      "venueSlug": "negociant-winery",
+      "title": "Gay Speed Dating (Ages 25+)",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-30",
+      "start": "18:30",
+      "end": "",
+      "description": "Speed dating.",
+      "source": "https://www.eventbrite.com/e/gay-speed-dating-ages-25-tickets-1999450725945",
+      "verified": false
+    },
+    {
+      "venueSlug": "shift-pilates",
+      "title": "FREE Intro Reformer Pilates Class",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-09",
+      "start": "12:30",
+      "end": "",
+      "description": "Free intro reformer class; Eventbrite lists 21 further dates.",
+      "source": "https://www.eventbrite.com/e/free-intro-reformer-pilates-class-tickets-1997155878996",
+      "verified": false
+    },
+    {
+      "venueSlug": "eq",
+      "title": "Bear Night",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-03",
+      "start": "21:00",
+      "end": "",
+      "description": "Bear night.",
+      "source": "https://www.eventbrite.com/e/bear-night-oct-3-tickets-2001389344405",
+      "verified": false
+    },
+    {
+      "venueSlug": "eq",
+      "title": "Club Sabbat: Spooky Season Kickoff",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-10",
+      "start": "21:00",
+      "end": "",
+      "description": "Club night.",
+      "source": "https://www.eventbrite.com/e/club-sabbat-spooky-season-kickoff-eq-tickets-2001891173389",
+      "verified": false
+    },
+    {
+      "venueSlug": "hillcrest-brewing-company",
+      "title": "Farmers Market Tour & Social Cooking Class @ Cucina Migrante",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-27",
+      "start": "11:00",
+      "end": "",
+      "description": "Farmers market tour plus cooking class; Eventbrite lists 6 further dates.",
+      "source": "https://www.eventbrite.com/e/farmers-market-tour-social-cooking-class-cucina-migrante-tickets-1985610875580",
+      "verified": false
+    },
+    {
+      "venueSlug": "urban-mo-s-bar-grill",
+      "title": "Out & Abt SD: 2010s Party",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-25",
+      "start": "21:00",
+      "end": "",
+      "description": "2010s throwback party.",
+      "source": "https://www.eventbrite.com/e/out-abt-sd-2010s-party-urban-mos-tickets-2001020863268",
+      "verified": false
+    },
+    {
+      "venueSlug": "urban-mo-s-bar-grill",
+      "title": "FERAL: Armana Khan",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-09",
+      "start": "22:00",
+      "end": "",
+      "description": "LGBTQ rager with Armana Khan.",
+      "source": "https://www.eventbrite.com/e/feral-armana-khan-san-diegos-lgbtq-rager-tickets-2002081678194",
+      "verified": false
+    },
+    {
+      "venueSlug": "insideout",
+      "title": "Sarti Cocktail Competition",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-26",
+      "start": "16:00",
+      "end": "",
+      "description": "Cocktail competition.",
+      "source": "https://www.eventbrite.com/e/sarti-cocktail-competition-tickets-2001027064817",
+      "verified": false
+    },
+    {
+      "venueSlug": "artreach-san-diego",
+      "title": "October Healing Through Artplay Workshop",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-09",
+      "start": "18:30",
+      "end": "",
+      "description": "Art therapy style workshop.",
+      "source": "https://www.eventbrite.com/e/october-healing-through-artplay-workshop-tickets-1997124978572",
+      "verified": false
+    },
+    {
+      "venueSlug": "pali-wine-co",
+      "title": "The Real Housewives Twisted Trivia",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-24",
+      "start": "19:00",
+      "end": "",
+      "description": "Themed trivia.",
+      "source": "https://www.eventbrite.com/e/the-real-housewives-twisted-trivia-tickets-2002170985314",
+      "verified": false
+    },
+    {
+      "venueSlug": "pali-wine-co",
+      "title": "White Lotus Twisted Trivia",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-01",
+      "start": "19:00",
+      "end": "",
+      "description": "Themed trivia.",
+      "source": "https://www.eventbrite.com/e/white-lotus-twisted-trivia-tickets-2002171642279",
+      "verified": false
+    },
+    {
+      "venueSlug": "pali-wine-co",
+      "title": "Women's Learn to Play Chess Class & Social (21+)",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-11",
+      "start": "12:00",
+      "end": "",
+      "description": "Chess class and social; Eventbrite lists 4 further dates.",
+      "source": "https://www.eventbrite.com/e/womens-learn-to-play-chess-class-social-21-tickets-2000665112207",
+      "verified": false
+    },
+    {
+      "venueSlug": "all-saints-episcopal-church",
+      "title": "Magical Story: Grieg's Peer Gynt and Dukas' The Sorcerer's Apprentice",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-27",
+      "start": "14:30",
+      "end": "",
+      "description": "Concert.",
+      "source": "https://www.eventbrite.com/e/magical-story-griegs-peer-gynt-and-dukas-the-sorcerers-apprentice-tickets-1998339863325",
+      "verified": false
+    },
+    {
+      "venueSlug": "all-saints-episcopal-church",
+      "title": "Annual Celebration of All Saints and All Souls",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-25",
+      "start": "14:30",
+      "end": "",
+      "description": "Choral celebration.",
+      "source": "https://www.eventbrite.com/e/annual-celebration-of-all-saints-and-all-souls-tickets-1998342788073",
+      "verified": false
+    },
+    {
+      "venueSlug": "first-unitarian-universalist-church-of-san-diego",
+      "title": "Sacred Sound Gathering: Mantra Circle & Vegetarian Potluck",
+      "recurring": false,
+      "days": [],
+      "date": "2026-10-10",
+      "start": "16:00",
+      "end": "",
+      "description": "Mantra circle and potluck at the Hillcrest campus.",
+      "source": "https://www.eventbrite.com/e/sacred-sound-gathering-mantra-circle-vegetarian-potluck-tickets-1992140032464",
+      "verified": false
+    },
+    {
+      "venueSlug": "pure-barre-hillcrest",
+      "title": "Barre for Bump: Prenatal Fitness Class",
+      "recurring": false,
+      "days": [],
+      "date": "2026-09-29",
+      "start": "13:00",
+      "end": "",
+      "description": "Prenatal barre class.",
+      "source": "https://www.eventbrite.com/e/barre-for-bump-a-prenatal-fitness-class-at-pure-barre-tickets-1998938120729",
+      "verified": false
+    }
+  ]
+}

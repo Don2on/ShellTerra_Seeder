@@ -1,0 +1,6047 @@
+[
+  {
+    "name": "Carson City Senior Center",
+    "kids": false,
+    "programs": [
+      "Mobile Harvest",
+      "Senior Box/CSFP"
+    ],
+    "location": "911 Beverly Dr, Carson City, NV 89706, USA",
+    "schedules": [
+      {
+        "prog": "Mobile Harvest",
+        "rrule": "FREQ=MONTHLY;BYDAY=1TU",
+        "date": "2022-04-05",
+        "time": "09:00",
+        "exdates": [
+          "2026-04-07"
+        ]
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=4TU",
+        "date": "2025-03-25",
+        "time": "10:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Peppermill",
+    "kids": false,
+    "programs": [
+      "Mobile Harvest"
+    ],
+    "location": "Peppermill Resort Spa Casino, 2707 S Virginia St, Reno, NV 89502, USA",
+    "schedules": [
+      {
+        "prog": "Mobile Harvest",
+        "rrule": "FREQ=MONTHLY;BYDAY=1WE",
+        "date": "2022-04-06",
+        "time": "13:00",
+        "exdates": [
+          "2022-08-03",
+          "2023-01-04",
+          "2025-01-01",
+          "2025-08-06",
+          "2026-08-05"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lovelock Food Pantry",
+    "kids": false,
+    "programs": [
+      "Mobile Harvest"
+    ],
+    "location": "8th Street, 8th St, Lovelock, NV 89419, USA",
+    "schedules": [
+      {
+        "prog": "Mobile Harvest",
+        "rrule": "FREQ=MONTHLY;BYDAY=4MO",
+        "date": "2024-01-22",
+        "time": "09:00",
+        "exdates": [
+          "2024-05-27",
+          "2024-12-23"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Reno Church of Jesus Christ – LDS",
+    "kids": false,
+    "programs": [
+      "Mobile Harvest"
+    ],
+    "location": "The Church of Jesus Christ of Latter-day Saints, 4751 Neil Rd, Reno, NV 89502, USA",
+    "schedules": [
+      {
+        "prog": "Mobile Harvest",
+        "rrule": "FREQ=MONTHLY;BYDAY=1WE",
+        "date": "2022-04-06",
+        "time": "09:00",
+        "exdates": [
+          "2025-01-01"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ely - First Baptist Church",
+    "kids": false,
+    "programs": [
+      "Mobile Harvest"
+    ],
+    "location": "First Baptist Church, 701 Ave N, Ely, NV 89315, USA",
+    "schedules": [
+      {
+        "prog": "Mobile Harvest",
+        "rrule": "FREQ=MONTHLY;BYDAY=1FR",
+        "date": "2022-04-01",
+        "time": "15:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Nixon Gym",
+    "kids": false,
+    "programs": [
+      "Mobile Harvest"
+    ],
+    "location": "Capitol Hill, Nixon, NV 89424, USA",
+    "schedules": [
+      {
+        "prog": "Mobile Harvest",
+        "rrule": "FREQ=MONTHLY;BYDAY=4TU",
+        "date": "2022-04-26",
+        "time": "10:15",
+        "exdates": [
+          "2023-12-26",
+          "2024-12-24"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sparks - Church of Jesus Christ of Latter-day Saints",
+    "kids": false,
+    "programs": [
+      "Mobile Harvest"
+    ],
+    "location": "2955 Rock Blvd, Sparks, NV 89431, USA",
+    "schedules": [
+      {
+        "prog": "Mobile Harvest",
+        "rrule": "FREQ=MONTHLY;BYDAY=3TU",
+        "date": "2026-02-17",
+        "time": "09:00",
+        "exdates": [
+          "2026-02-17",
+          "2026-03-17"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Pleasant Senior Center (Winnemucca Senior Center)",
+    "kids": false,
+    "programs": [
+      "Mobile Harvest"
+    ],
+    "location": "1480 Lay St, Winnemucca, NV 89445, USA",
+    "schedules": [
+      {
+        "prog": "Mobile Harvest",
+        "rrule": "FREQ=MONTHLY;BYDAY=4MO",
+        "date": "2023-11-27",
+        "time": "13:30",
+        "exdates": [
+          "2023-12-25",
+          "2024-05-27",
+          "2024-12-23"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Northern Nevada Public Health",
+    "kids": false,
+    "programs": [
+      "Mobile Harvest"
+    ],
+    "location": "1001 E 9th St # B, Reno, NV 89512",
+    "schedules": [
+      {
+        "prog": "Mobile Harvest",
+        "rrule": "FREQ=MONTHLY;BYDAY=1TU",
+        "date": "2026-08-04",
+        "time": "13:30",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Hawthorne - Consolidated Agencies of Human Services",
+    "kids": false,
+    "programs": [
+      "Mobile Harvest"
+    ],
+    "location": "CAHS-Consolidated Agency of Human Services, 924 5th St, Hawthorne, NV 89415, USA",
+    "schedules": [
+      {
+        "prog": "Mobile Harvest",
+        "rrule": "FREQ=MONTHLY;BYDAY=2WE",
+        "date": "2022-04-13",
+        "time": "12:30",
+        "exdates": [
+          "2026-02-11",
+          "2026-04-08"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Baldini's Casino - Sports Book Entrance",
+    "kids": false,
+    "programs": [
+      "Mobile Harvest"
+    ],
+    "location": "Baldini's Sports Casino and Restaurant, 865 S Rock Blvd, Sparks, NV 89431, USA",
+    "schedules": [
+      {
+        "prog": "Mobile Harvest",
+        "rrule": "FREQ=MONTHLY;BYDAY=3WE",
+        "date": "2022-04-20",
+        "time": "09:00",
+        "exdates": [
+          "2024-06-19",
+          "2025-08-20",
+          "2025-09-17",
+          "2026-02-18",
+          "2026-03-18",
+          "2026-04-15",
+          "2026-08-19"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Virginia City - D Street & Mill Street",
+    "kids": false,
+    "programs": [
+      "Mobile Harvest"
+    ],
+    "location": "D Street, D St, Virginia City, NV 89440, USA",
+    "schedules": [
+      {
+        "prog": "Mobile Harvest",
+        "rrule": "FREQ=MONTHLY;BYDAY=3MO",
+        "date": "2026-09-21",
+        "time": "12:30",
+        "exdates": []
+      },
+      {
+        "prog": "Mobile Harvest",
+        "rrule": "FREQ=MONTHLY;BYDAY=3TU",
+        "date": "2022-04-19",
+        "time": "10:00",
+        "exdates": [
+          "2026-02-17",
+          "2026-04-21",
+          "2026-09-15"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Walker - Senior Center",
+    "kids": false,
+    "programs": [
+      "Mobile Harvest"
+    ],
+    "location": "399 Mule Deer Rd, Coleville, CA 96107, USA",
+    "schedules": [
+      {
+        "prog": "Mobile Harvest",
+        "rrule": "FREQ=MONTHLY;BYDAY=4TH",
+        "date": "2025-10-23",
+        "time": "10:00",
+        "exdates": [
+          "2025-11-27",
+          "2025-12-25"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sun Valley - Church of Jesus Christ of Latter-day Saints",
+    "kids": false,
+    "programs": [
+      "Mobile Harvest"
+    ],
+    "location": "The Church of Jesus Christ of Latter-day Saints, 570 E 4th Ave, Sun Valley, NV 89433, USA",
+    "schedules": [
+      {
+        "prog": "Mobile Harvest",
+        "rrule": "FREQ=MONTHLY;BYDAY=2MO",
+        "date": "2022-04-11",
+        "time": "09:00",
+        "exdates": [
+          "2024-11-11",
+          "2025-08-11"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sparks Christian Fellowship",
+    "kids": false,
+    "programs": [
+      "Mobile Harvest",
+      "Food Pantries",
+      "Golden Groceries Pantry"
+    ],
+    "location": "Sparks Christian Fellowship, 510 Greenbrae Dr, Sparks, NV 89431, USA",
+    "schedules": [
+      {
+        "prog": "Mobile Harvest",
+        "rrule": "FREQ=MONTHLY;BYDAY=1TU",
+        "date": "2022-04-05",
+        "time": "09:00",
+        "exdates": [
+          "2023-01-03",
+          "2023-07-04",
+          "2026-03-03"
+        ]
+      },
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=WE",
+        "date": "2022-04-06",
+        "time": "10:00",
+        "exdates": [
+          "2023-06-07",
+          "2023-06-14",
+          "2023-06-21",
+          "2023-06-28",
+          "2024-06-05",
+          "2024-06-12",
+          "2024-06-19",
+          "2024-06-26",
+          "2025-06-18",
+          "2025-06-11",
+          "2025-06-25",
+          "2025-06-04"
+        ]
+      },
+      {
+        "prog": "Golden Groceries Pantry",
+        "rrule": "FREQ=WEEKLY;BYDAY=WE",
+        "date": "2022-04-06",
+        "time": "09:00",
+        "exdates": [
+          "2022-06-08",
+          "2022-06-01",
+          "2022-06-15",
+          "2022-06-22",
+          "2022-06-29",
+          "2023-06-07",
+          "2023-06-14",
+          "2023-06-21",
+          "2023-06-28",
+          "2024-06-26",
+          "2024-06-05",
+          "2024-06-19",
+          "2024-06-12"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Incline High School",
+    "kids": false,
+    "programs": [
+      "Mobile Harvest"
+    ],
+    "location": "Incline High School, 499 Village Blvd, Incline Village, NV 89451, USA",
+    "schedules": [
+      {
+        "prog": "Mobile Harvest",
+        "rrule": "FREQ=MONTHLY;BYDAY=2WE",
+        "date": "2022-04-13",
+        "time": "14:30",
+        "exdates": [
+          "2026-03-11"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bridgeport Mono County Museum",
+    "kids": false,
+    "programs": [
+      "Mobile Harvest"
+    ],
+    "location": "129 Emigrant St, Bridgeport, CA 93517, USA",
+    "schedules": [
+      {
+        "prog": "Mobile Harvest",
+        "rrule": "FREQ=MONTHLY;BYDAY=4TH",
+        "date": "2025-06-26",
+        "time": "12:30",
+        "exdates": [
+          "2025-11-27",
+          "2025-12-25"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "O'Brien Middle School",
+    "kids": false,
+    "programs": [
+      "Mobile Harvest"
+    ],
+    "location": "O'Brien Middle School, 5000 Silver Lake Rd, Reno, NV 89506, USA",
+    "schedules": [
+      {
+        "prog": "Mobile Harvest",
+        "rrule": "FREQ=MONTHLY;BYDAY=1MO",
+        "date": "2023-03-06",
+        "time": "12:45",
+        "exdates": [
+          "2023-07-03",
+          "2023-09-04",
+          "2024-07-01",
+          "2024-09-02",
+          "2025-09-01",
+          "2026-09-07"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Crosswinds Assembly of God",
+    "kids": false,
+    "programs": [
+      "Mobile Harvest"
+    ],
+    "location": "Crosswinds Assembly of God, 2100 El Rancho Dr, Sparks, NV 89431, USA",
+    "schedules": [
+      {
+        "prog": "Mobile Harvest",
+        "rrule": "FREQ=MONTHLY;BYDAY=2TU",
+        "date": "2022-04-12",
+        "time": "09:00",
+        "exdates": [
+          "2025-11-11"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Fernley - Living Faith Christian Fellowship",
+    "kids": false,
+    "programs": [
+      "Mobile Harvest"
+    ],
+    "location": "Living Faith Christian Fellowship, 110 S Center St, Fernley, NV 89408, USA",
+    "schedules": [
+      {
+        "prog": "Mobile Harvest",
+        "rrule": "FREQ=MONTHLY;BYDAY=2FR",
+        "date": "2022-04-08",
+        "time": "12:00",
+        "exdates": [
+          "2022-11-11",
+          "2023-11-10"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gerlach Senior Citizens Center",
+    "kids": false,
+    "programs": [
+      "Mobile Harvest"
+    ],
+    "location": "Gerlach Senior Citizens Center, 385 E Sunset Blvd, Gerlach, NV 89412, USA",
+    "schedules": [
+      {
+        "prog": "Mobile Harvest",
+        "rrule": "FREQ=MONTHLY;BYDAY=4TH",
+        "date": "2023-12-28",
+        "time": "12:30",
+        "exdates": [
+          "2024-11-28",
+          "2025-10-23",
+          "2025-11-27",
+          "2025-12-25",
+          "2026-02-26",
+          "2026-04-23",
+          "2026-09-24",
+          "2026-08-27"
+        ]
+      },
+      {
+        "prog": "Mobile Harvest",
+        "rrule": "FREQ=MONTHLY;BYDAY=4TU",
+        "date": "2022-04-26",
+        "time": "12:30",
+        "exdates": [
+          "2023-12-26",
+          "2024-12-24"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Echo Loder Elementary School",
+    "kids": false,
+    "programs": [
+      "Mobile Harvest"
+    ],
+    "location": "Echo Loder Elementary School, 600 Apple St, Reno, NV 89502, USA",
+    "schedules": [
+      {
+        "prog": "Mobile Harvest",
+        "rrule": "FREQ=MONTHLY;BYDAY=4TH",
+        "date": "2022-04-28",
+        "time": "09:00",
+        "exdates": [
+          "2022-11-24",
+          "2023-11-23",
+          "2023-12-28",
+          "2024-06-27",
+          "2024-11-28",
+          "2024-12-26",
+          "2025-06-26",
+          "2025-11-27",
+          "2025-12-25",
+          "2026-08-27"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cold Springs Inskeep Elementary School",
+    "kids": false,
+    "programs": [
+      "Mobile Harvest"
+    ],
+    "location": "18001 Briar Dr, Reno, NV 89508, USA",
+    "schedules": [
+      {
+        "prog": "Mobile Harvest",
+        "rrule": "FREQ=MONTHLY;BYDAY=1TH",
+        "date": "2026-08-06",
+        "time": "12:45",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Yerington - Mountain View Park",
+    "kids": false,
+    "programs": [
+      "Mobile Harvest"
+    ],
+    "location": "Mountain View Park, Yerington, NV 89447, USA",
+    "schedules": [
+      {
+        "prog": "Mobile Harvest",
+        "rrule": "FREQ=MONTHLY;BYDAY=2TU",
+        "date": "2022-04-12",
+        "time": "09:00",
+        "exdates": [
+          "2025-08-12",
+          "2025-11-11",
+          "2026-03-10",
+          "2026-09-08"
+        ]
+      },
+      {
+        "prog": "Mobile Harvest",
+        "rrule": "FREQ=MONTHLY;BYDAY=3MO",
+        "date": "2026-09-21",
+        "time": "09:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Dresslerville - Community Gym",
+    "kids": false,
+    "programs": [
+      "Mobile Harvest"
+    ],
+    "location": "Watshemu Drive, Watshemu Dr, Nevada, USA",
+    "schedules": [
+      {
+        "prog": "Mobile Harvest",
+        "rrule": "FREQ=MONTHLY;BYDAY=1TU",
+        "date": "2022-04-05",
+        "time": "15:00",
+        "exdates": [
+          "2023-01-03",
+          "2023-07-04",
+          "2026-04-07"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bishop - Tri County Fairgrounds",
+    "kids": false,
+    "programs": [
+      "Mobile Harvest"
+    ],
+    "location": "Bishop Tri-County Fairgrounds, 1234 Sierra St, Bishop, CA 93514, USA",
+    "schedules": [
+      {
+        "prog": "Mobile Harvest",
+        "rrule": "FREQ=MONTHLY;BYDAY=4FR",
+        "date": "2022-08-26",
+        "time": "15:00",
+        "exdates": [
+          "2022-11-25",
+          "2022-12-23",
+          "2023-10-27",
+          "2023-11-24",
+          "2024-06-28",
+          "2024-10-25",
+          "2025-11-28",
+          "2025-12-26"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Second Baptist Church",
+    "kids": false,
+    "programs": [
+      "Mobile Harvest"
+    ],
+    "location": "Second Baptist Church, 1265 Montello St, Reno, NV 89512, USA",
+    "schedules": [
+      {
+        "prog": "Mobile Harvest",
+        "rrule": "FREQ=MONTHLY;BYDAY=4TH",
+        "date": "2022-06-23",
+        "time": "12:30",
+        "exdates": [
+          "2022-11-24",
+          "2023-11-23",
+          "2023-12-28",
+          "2024-06-27",
+          "2024-11-28",
+          "2024-12-26",
+          "2025-06-26",
+          "2025-11-27",
+          "2025-12-25",
+          "2026-08-27"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Community Health Alliance",
+    "kids": false,
+    "programs": [
+      "Mobile Harvest"
+    ],
+    "location": "Community Health Alliance – Wells Ave. Health Center, 1055 S Wells Ave, Reno, NV 89502, USA",
+    "schedules": [
+      {
+        "prog": "Mobile Harvest",
+        "rrule": "FREQ=MONTHLY;BYDAY=4WE",
+        "date": "2022-11-23",
+        "time": "13:00",
+        "exdates": [
+          "2023-06-28",
+          "2024-06-26",
+          "2024-12-25",
+          "2025-12-24"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hillside Elementary School",
+    "kids": false,
+    "programs": [
+      "Mobile Harvest"
+    ],
+    "location": "Hillside Elementary School, Sparks, NV 89434, USA",
+    "schedules": [
+      {
+        "prog": "Mobile Harvest",
+        "rrule": "FREQ=MONTHLY;BYDAY=2WE",
+        "date": "2022-04-13",
+        "time": "10:00",
+        "exdates": [
+          "2026-03-11"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Capitol Hill Veterans Outreach Center",
+    "kids": false,
+    "programs": [
+      "Mobile Harvest"
+    ],
+    "location": "Capitol Hill VA Clinic, 350 Capitol Hill Ave, Reno, NV 89502, USA",
+    "schedules": [
+      {
+        "prog": "Mobile Harvest",
+        "rrule": "FREQ=MONTHLY;BYDAY=3MO",
+        "date": "2022-04-18",
+        "time": "13:30",
+        "exdates": [
+          "2022-06-20",
+          "2023-06-19",
+          "2024-02-19",
+          "2025-02-17",
+          "2026-02-16",
+          "2026-09-21",
+          "2026-08-17"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Battle Mountain FCC/FRC",
+    "kids": false,
+    "programs": [
+      "Mobile Harvest",
+      "Senior Box/CSFP"
+    ],
+    "location": "370 S Mountain St, Battle Mountain, NV 89820, USA",
+    "schedules": [
+      {
+        "prog": "Mobile Harvest",
+        "rrule": "FREQ=MONTHLY;BYDAY=4FR",
+        "date": "2025-04-25",
+        "time": "11:00",
+        "exdates": [
+          "2025-11-28",
+          "2025-12-26"
+        ]
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=4FR",
+        "date": "2025-04-25",
+        "time": "11:00",
+        "exdates": [
+          "2025-09-26",
+          "2025-11-28",
+          "2025-12-26"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Wadsworth Community Center",
+    "kids": false,
+    "programs": [
+      "Mobile Harvest"
+    ],
+    "location": "Wadsworth Community Building, Wadsworth, NV 89442, USA",
+    "schedules": [
+      {
+        "prog": "Mobile Harvest",
+        "rrule": "FREQ=MONTHLY;BYDAY=4TU",
+        "date": "2022-04-26",
+        "time": "08:30",
+        "exdates": [
+          "2023-12-26",
+          "2024-12-24"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Imlay Elementary School",
+    "kids": false,
+    "programs": [
+      "Mobile Harvest"
+    ],
+    "location": "Imlay Elementary, 380 Main St, Imlay, NV 89418, USA",
+    "schedules": [
+      {
+        "prog": "Mobile Harvest",
+        "rrule": "FREQ=MONTHLY;BYDAY=4MO",
+        "date": "2022-09-26",
+        "time": "11:15",
+        "exdates": [
+          "2022-12-26",
+          "2023-12-25",
+          "2024-05-27",
+          "2024-12-23"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Desert Skies Middle School",
+    "kids": false,
+    "programs": [
+      "Mobile Harvest"
+    ],
+    "location": "7550 Donatello Dr, Sun Valley, NV 89433, USA",
+    "schedules": [
+      {
+        "prog": "Mobile Harvest",
+        "rrule": "FREQ=MONTHLY;BYDAY=3MO",
+        "date": "2022-07-18",
+        "time": "09:00",
+        "exdates": [
+          "2023-06-19",
+          "2024-02-19",
+          "2025-02-17",
+          "2026-02-16",
+          "2026-09-21",
+          "2026-08-17"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "South Lake Tahoe - American Legion",
+    "kids": false,
+    "programs": [
+      "Mobile Harvest"
+    ],
+    "location": "American Legion, 2748 Young St, South Lake Tahoe, CA 96150, USA",
+    "schedules": [
+      {
+        "prog": "Mobile Harvest",
+        "rrule": "FREQ=MONTHLY;BYDAY=4MO",
+        "date": "2025-04-28",
+        "time": "11:00",
+        "exdates": [
+          "2026-03-23"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Desert Skies Middle School",
+    "kids": false,
+    "programs": [
+      "Mobile Harvest"
+    ],
+    "location": "Desert Skies Middle School, 7550 Donatello Dr, Sun Valley, NV 89433, USA",
+    "schedules": [
+      {
+        "prog": "Mobile Harvest",
+        "rrule": "FREQ=MONTHLY;BYDAY=1MO",
+        "date": "2022-04-04",
+        "time": "09:00",
+        "exdates": [
+          "2022-07-04",
+          "2022-09-05",
+          "2023-01-02",
+          "2023-07-03",
+          "2023-09-04",
+          "2024-07-01",
+          "2024-09-02",
+          "2025-09-01",
+          "2026-09-07"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Stead Airport",
+    "kids": false,
+    "programs": [
+      "Mobile Harvest"
+    ],
+    "location": "Reno Stead Airport, 4895 Texas Ave, Reno, NV 89506, USA",
+    "schedules": [
+      {
+        "prog": "Mobile Harvest",
+        "rrule": "FREQ=MONTHLY;BYDAY=3TH",
+        "date": "2022-04-21",
+        "time": "09:00",
+        "exdates": [
+          "2022-09-15",
+          "2024-09-19",
+          "2025-06-19",
+          "2026-02-19"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Schurz - Walker River Paiute Tribe",
+    "kids": false,
+    "programs": [
+      "Mobile Harvest"
+    ],
+    "location": "Walker River Paiute Tribe, 1022 Hospital Rd, Schurz, NV 89427, USA",
+    "schedules": [
+      {
+        "prog": "Mobile Harvest",
+        "rrule": "FREQ=MONTHLY;BYDAY=2WE",
+        "date": "2022-04-13",
+        "time": "09:30",
+        "exdates": [
+          "2026-02-11",
+          "2026-04-08"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Silver Springs - Church of Jesus Christ of Latter-day Saints",
+    "kids": false,
+    "programs": [
+      "Mobile Harvest"
+    ],
+    "location": "The Church of Jesus Christ of Latter-day Saints, 5470 Elm St, Silver Springs, NV 89429, USA",
+    "schedules": [
+      {
+        "prog": "Mobile Harvest",
+        "rrule": "FREQ=MONTHLY;BYDAY=2FR",
+        "date": "2022-04-08",
+        "time": "09:00",
+        "exdates": [
+          "2022-11-11",
+          "2023-11-10"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "North Valleys Church of the Nazarene",
+    "kids": false,
+    "programs": [
+      "Mobile Harvest"
+    ],
+    "location": "North Valleys Church of the Nazarene, 310 E Patrician Dr, Reno, NV 89506, USA",
+    "schedules": [
+      {
+        "prog": "Mobile Harvest",
+        "rrule": "FREQ=MONTHLY;BYDAY=1TH",
+        "date": "2022-04-07",
+        "time": "09:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Elko - F.I.S.H. Food Bank",
+    "kids": false,
+    "programs": [
+      "Mobile Harvest"
+    ],
+    "location": "F.I.S.H. - Food Distribution Center, 821 Water St, Elko, NV 89801, USA",
+    "schedules": [
+      {
+        "prog": "Mobile Harvest",
+        "rrule": "FREQ=MONTHLY;BYDAY=3WE",
+        "date": "2022-09-21",
+        "time": "11:00",
+        "exdates": [
+          "2024-06-19",
+          "2026-02-18"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Neil Road Recreation Center",
+    "kids": false,
+    "programs": [
+      "Mobile Harvest"
+    ],
+    "location": "Neil Road Recreation Center, 3925 Neil Rd, Reno, NV 89502, USA",
+    "schedules": [
+      {
+        "prog": "Mobile Harvest",
+        "rrule": "FREQ=MONTHLY;BYDAY=4WE",
+        "date": "2022-04-27",
+        "time": "09:00",
+        "exdates": [
+          "2023-06-28",
+          "2024-06-26",
+          "2024-12-25",
+          "2025-12-24"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Boys & Girls Club",
+    "kids": false,
+    "programs": [
+      "Mobile Harvest"
+    ],
+    "location": "1090 Bresson Ave, Reno, NV 89502, USA",
+    "schedules": [
+      {
+        "prog": "Mobile Harvest",
+        "rrule": "FREQ=MONTHLY;BYDAY=3TH",
+        "date": "2022-04-21",
+        "time": "12:45",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Carson Valley Community Food Closet",
+    "kids": false,
+    "programs": [
+      "Mobile Harvest",
+      "Food Pantries"
+    ],
+    "location": "Carson Valley Community Food Closet, 1251 Waterloo Ln, Gardnerville, NV 89410, USA",
+    "schedules": [
+      {
+        "prog": "Mobile Harvest",
+        "rrule": "FREQ=MONTHLY;BYDAY=1TU",
+        "date": "2022-04-05",
+        "time": "12:45",
+        "exdates": [
+          "2023-01-03",
+          "2023-07-04",
+          "2026-04-07"
+        ]
+      },
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;WKST=SU;BYDAY=FR,MO,TU,WE",
+        "date": "2022-04-04",
+        "time": "12:30",
+        "exdates": [
+          "2022-07-04",
+          "2022-09-05",
+          "2023-05-29",
+          "2023-07-04",
+          "2023-12-25",
+          "2024-09-02"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Note-Able (John McGraw Court / Orovada Senior Apts)",
+    "kids": false,
+    "programs": [
+      "Produce on Wheels",
+      "Senior Box/CSFP"
+    ],
+    "location": "2590 Orovada St, Reno, NV 89512, USA",
+    "schedules": [
+      {
+        "prog": "Produce on Wheels",
+        "rrule": "FREQ=MONTHLY;BYDAY=3MO",
+        "date": "2025-10-20",
+        "time": "10:00",
+        "exdates": [
+          "2026-06-15"
+        ]
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=2MO",
+        "date": "2025-03-10",
+        "time": "11:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Washoe Valley",
+    "kids": false,
+    "programs": [
+      "Produce on Wheels"
+    ],
+    "location": "440 McClellan Dr, New Washoe City, NV 89704, USA",
+    "schedules": [
+      {
+        "prog": "Produce on Wheels",
+        "rrule": "FREQ=MONTHLY;BYDAY=3WE",
+        "date": "2024-07-17",
+        "time": "09:00",
+        "exdates": [
+          "2025-09-17",
+          "2025-10-15",
+          "2025-11-19",
+          "2025-12-17",
+          "2026-01-21",
+          "2026-02-18",
+          "2026-04-15",
+          "2026-07-15",
+          "2026-09-16",
+          "2026-08-19"
+        ]
+      },
+      {
+        "prog": "Produce on Wheels",
+        "rrule": "FREQ=MONTHLY;BYDAY=1WE",
+        "date": "2024-08-07",
+        "time": "09:00",
+        "exdates": [
+          "2025-01-01",
+          "2026-07-01"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Vintage at the Crossings",
+    "kids": false,
+    "programs": [
+      "Produce on Wheels",
+      "Senior Box/CSFP"
+    ],
+    "location": "11565 Old Virginia Rd, Reno, NV 89521, USA",
+    "schedules": [
+      {
+        "prog": "Produce on Wheels",
+        "rrule": "FREQ=MONTHLY;BYDAY=3MO",
+        "date": "2024-09-16",
+        "time": "09:00",
+        "exdates": [
+          "2025-02-17",
+          "2025-09-15",
+          "2025-10-20",
+          "2025-11-17",
+          "2025-12-15",
+          "2026-01-19",
+          "2026-02-16",
+          "2026-04-20",
+          "2026-07-20",
+          "2026-09-21",
+          "2026-08-17"
+        ]
+      },
+      {
+        "prog": "Produce on Wheels",
+        "rrule": "FREQ=MONTHLY;BYDAY=1MO",
+        "date": "2024-11-04",
+        "time": "09:00",
+        "exdates": [
+          "2025-09-01",
+          "2026-09-07"
+        ]
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=3TU",
+        "date": "2025-11-18",
+        "time": "12:15",
+        "exdates": [
+          "2026-09-15"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Metropolitan Gardens Apartments",
+    "kids": false,
+    "programs": [
+      "Produce on Wheels",
+      "Senior Box/CSFP"
+    ],
+    "location": "325 E 7th St, Reno, NV 89512, USA",
+    "schedules": [
+      {
+        "prog": "Produce on Wheels",
+        "rrule": "FREQ=MONTHLY;BYDAY=1TU",
+        "date": "2025-03-04",
+        "time": "10:15",
+        "exdates": []
+      },
+      {
+        "prog": "Produce on Wheels",
+        "rrule": "FREQ=MONTHLY;BYDAY=3TU",
+        "date": "2025-04-15",
+        "time": "10:15",
+        "exdates": [
+          "2025-09-16",
+          "2025-10-21",
+          "2025-11-18",
+          "2025-12-16",
+          "2026-01-20",
+          "2026-02-17",
+          "2026-04-21",
+          "2026-07-21",
+          "2026-09-15",
+          "2026-08-18"
+        ]
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=2TU",
+        "date": "2025-04-08",
+        "time": "09:00",
+        "exdates": [
+          "2025-11-11"
+        ]
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=1FR",
+        "date": "2025-11-07",
+        "time": "09:00",
+        "exdates": [
+          "2025-12-05",
+          "2026-09-04"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Skyline Mobile Home Park (In front of the office)",
+    "kids": false,
+    "programs": [
+      "Produce on Wheels"
+    ],
+    "location": "7900 N Virginia St, Reno, NV 89506, USA",
+    "schedules": [
+      {
+        "prog": "Produce on Wheels",
+        "rrule": "FREQ=MONTHLY;BYDAY=3TH",
+        "date": "2025-04-17",
+        "time": "09:00",
+        "exdates": [
+          "2025-06-19",
+          "2026-02-19",
+          "2026-06-18"
+        ]
+      },
+      {
+        "prog": "Produce on Wheels",
+        "rrule": "FREQ=MONTHLY;BYDAY=1TH",
+        "date": "2025-03-06",
+        "time": "09:00",
+        "exdates": [
+          "2025-09-04",
+          "2025-11-06",
+          "2025-12-04",
+          "2026-01-01",
+          "2026-04-02",
+          "2026-07-02",
+          "2026-09-03",
+          "2026-08-06"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Fernley Senior Center",
+    "kids": false,
+    "programs": [
+      "Produce on Wheels"
+    ],
+    "location": "Fernley Senior Center, 105 Lois Ln, Fernley, NV 89408, USA",
+    "schedules": [
+      {
+        "prog": "Produce on Wheels",
+        "rrule": "FREQ=MONTHLY;BYDAY=2MO",
+        "date": "2025-10-13",
+        "time": "09:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Sun Valley Community Center",
+    "kids": false,
+    "programs": [
+      "Produce on Wheels",
+      "Senior Box/CSFP"
+    ],
+    "location": "115 W 6th Ave, Sun Valley, NV 89433, USA",
+    "schedules": [
+      {
+        "prog": "Produce on Wheels",
+        "rrule": "FREQ=MONTHLY;BYDAY=1TH",
+        "date": "2025-11-06",
+        "time": "09:00",
+        "exdates": [
+          "2026-01-01",
+          "2026-07-02"
+        ]
+      },
+      {
+        "prog": "Produce on Wheels",
+        "rrule": "FREQ=MONTHLY;BYDAY=2FR",
+        "date": "2025-04-11",
+        "time": "09:00",
+        "exdates": [
+          "2025-10-10",
+          "2025-11-14",
+          "2025-12-12",
+          "2026-04-10",
+          "2026-07-10",
+          "2026-09-11",
+          "2026-08-14"
+        ]
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=3TH",
+        "date": "2025-11-20",
+        "time": "11:30",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Fallon",
+    "kids": false,
+    "programs": [
+      "Produce on Wheels"
+    ],
+    "location": "William N. Pennington Life Center / Coalition for Senior Citizens, 952 S Maine St, Fallon, NV 89406, USA",
+    "schedules": [
+      {
+        "prog": "Produce on Wheels",
+        "rrule": "FREQ=MONTHLY;BYDAY=2TH",
+        "date": "2023-08-10",
+        "time": "09:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Sierra Manor Apt",
+    "kids": false,
+    "programs": [
+      "Produce on Wheels"
+    ],
+    "location": "2350 Paradise Dr, Reno, NV 89512, USA",
+    "schedules": [
+      {
+        "prog": "Produce on Wheels",
+        "rrule": "FREQ=MONTHLY;BYDAY=3MO",
+        "date": "2025-09-15",
+        "time": "09:00",
+        "exdates": [
+          "2026-06-15"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hawthorne",
+    "kids": false,
+    "programs": [
+      "Produce on Wheels"
+    ],
+    "location": "Mineral County Care & Share, 975 K St, Hawthorne, NV 89415, USA",
+    "schedules": [
+      {
+        "prog": "Produce on Wheels",
+        "rrule": "FREQ=MONTHLY;BYDAY=4TH",
+        "date": "2022-06-23",
+        "time": "10:30",
+        "exdates": [
+          "2022-11-24",
+          "2023-11-23",
+          "2024-06-27",
+          "2024-11-28",
+          "2024-12-26",
+          "2025-06-26",
+          "2025-09-25",
+          "2025-10-23",
+          "2025-11-27",
+          "2025-12-25",
+          "2026-01-22",
+          "2026-04-23",
+          "2026-06-25",
+          "2026-07-23",
+          "2026-09-24",
+          "2026-08-27"
+        ]
+      },
+      {
+        "prog": "Produce on Wheels",
+        "rrule": "FREQ=MONTHLY;BYDAY=3TU",
+        "date": "2025-09-16",
+        "time": "10:30",
+        "exdates": [
+          "2026-02-17",
+          "2026-06-16"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Fort McDermitt",
+    "kids": false,
+    "programs": [
+      "Produce on Wheels"
+    ],
+    "location": "111 N Rd, McDermitt, NV 89421, USA",
+    "schedules": [
+      {
+        "prog": "Produce on Wheels",
+        "rrule": "FREQ=MONTHLY;BYDAY=4TU",
+        "date": "2025-12-23",
+        "time": "12:00",
+        "exdates": [
+          "2026-06-23"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Grass Valley Community Center",
+    "kids": false,
+    "programs": [
+      "Produce on Wheels"
+    ],
+    "location": "13295 Grass Valley Rd, Winnemucca, NV 89445, USA",
+    "schedules": [
+      {
+        "prog": "Produce on Wheels",
+        "rrule": "FREQ=MONTHLY;BYDAY=4TU",
+        "date": "2025-03-25",
+        "time": "09:30",
+        "exdates": [
+          "2026-06-23"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Silver Springs",
+    "kids": false,
+    "programs": [
+      "Produce on Wheels"
+    ],
+    "location": "Silver Spring Senior Center, 2945 Ft Churchill St, Silver Springs, NV 89429, USA",
+    "schedules": [
+      {
+        "prog": "Produce on Wheels",
+        "rrule": "FREQ=MONTHLY;BYDAY=2MO",
+        "date": "2025-02-10",
+        "time": "11:00",
+        "exdates": [
+          "2025-10-13",
+          "2025-11-10",
+          "2025-12-08",
+          "2026-01-12",
+          "2026-04-13",
+          "2026-07-13",
+          "2026-09-14",
+          "2026-08-10"
+        ]
+      },
+      {
+        "prog": "Produce on Wheels",
+        "rrule": "FREQ=MONTHLY;BYDAY=4MO",
+        "date": "2025-01-27",
+        "time": "11:30",
+        "exdates": [
+          "2026-06-22"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Fernley",
+    "kids": false,
+    "programs": [
+      "Produce on Wheels"
+    ],
+    "location": "Fernley Senior Center, 105 Lois Ln, Fernley, NV 89408, USA",
+    "schedules": [
+      {
+        "prog": "Produce on Wheels",
+        "rrule": "FREQ=MONTHLY;BYDAY=4TU",
+        "date": "2023-10-24",
+        "time": "09:00",
+        "exdates": [
+          "2023-12-26",
+          "2024-12-24",
+          "2025-03-25",
+          "2025-06-24",
+          "2025-09-23",
+          "2025-10-28",
+          "2025-11-25",
+          "2025-12-23",
+          "2026-01-27",
+          "2026-04-28",
+          "2026-07-28",
+          "2026-09-22",
+          "2026-08-25"
+        ]
+      },
+      {
+        "prog": "Produce on Wheels",
+        "rrule": "FREQ=MONTHLY;BYDAY=2TU",
+        "date": "2023-10-10",
+        "time": "09:00",
+        "exdates": [
+          "2025-10-14",
+          "2025-11-11",
+          "2025-12-09",
+          "2026-01-13",
+          "2026-04-14",
+          "2026-07-14",
+          "2026-09-08",
+          "2026-08-11"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dayton",
+    "kids": false,
+    "programs": [
+      "Produce on Wheels"
+    ],
+    "location": "Dayton Senior Center, 320 Dayton Valley Rd, Dayton, NV 89403, USA",
+    "schedules": [
+      {
+        "prog": "Produce on Wheels",
+        "rrule": "FREQ=MONTHLY;BYDAY=1WE",
+        "date": "2024-05-01",
+        "time": "11:00",
+        "exdates": [
+          "2025-01-01",
+          "2026-07-01"
+        ]
+      },
+      {
+        "prog": "Produce on Wheels",
+        "rrule": "FREQ=MONTHLY;BYDAY=3WE",
+        "date": "2024-05-15",
+        "time": "11:00",
+        "exdates": [
+          "2024-06-19",
+          "2025-09-17",
+          "2025-10-15",
+          "2025-11-19",
+          "2025-12-17",
+          "2026-01-21",
+          "2026-02-18",
+          "2026-04-15",
+          "2026-07-15",
+          "2026-09-16",
+          "2026-08-19"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cold Springs Valley Church",
+    "kids": false,
+    "programs": [
+      "Produce on Wheels"
+    ],
+    "location": "3385 White Lake Pkwy, Reno, NV 89508, USA",
+    "schedules": [
+      {
+        "prog": "Produce on Wheels",
+        "rrule": "FREQ=MONTHLY;BYDAY=1TH",
+        "date": "2025-11-06",
+        "time": "10:30",
+        "exdates": [
+          "2026-01-01",
+          "2026-07-02"
+        ]
+      },
+      {
+        "prog": "Produce on Wheels",
+        "rrule": "FREQ=MONTHLY;BYDAY=4FR",
+        "date": "2024-06-28",
+        "time": "10:30",
+        "exdates": [
+          "2024-06-28",
+          "2024-10-25",
+          "2024-12-27",
+          "2025-06-27",
+          "2025-09-26",
+          "2025-10-24",
+          "2025-11-28",
+          "2025-12-26",
+          "2026-01-23",
+          "2026-04-24",
+          "2026-06-26",
+          "2026-07-24",
+          "2026-09-25",
+          "2026-08-28"
+        ]
+      },
+      {
+        "prog": "Produce on Wheels",
+        "rrule": "FREQ=MONTHLY;BYDAY=2FR",
+        "date": "2022-10-14",
+        "time": "10:30",
+        "exdates": [
+          "2023-11-10",
+          "2025-10-10",
+          "2025-11-14",
+          "2025-12-12",
+          "2026-04-10",
+          "2026-07-10",
+          "2026-09-11",
+          "2026-08-14"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Elko",
+    "kids": false,
+    "programs": [
+      "Produce on Wheels"
+    ],
+    "location": "Elko Senior Citizen Center Inc, 1795 Ruby View Dr, Elko, NV 89801, USA",
+    "schedules": [
+      {
+        "prog": "Produce on Wheels",
+        "rrule": "FREQ=MONTHLY;BYDAY=2WE",
+        "date": "2024-05-08",
+        "time": "11:30",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "River Place Apartment Homes",
+    "kids": false,
+    "programs": [
+      "Produce on Wheels"
+    ],
+    "location": "895 Kuenzli St, Reno, NV 89502, USA",
+    "schedules": [
+      {
+        "prog": "Produce on Wheels",
+        "rrule": "FREQ=MONTHLY;BYDAY=1TH",
+        "date": "2025-03-06",
+        "time": "10:15",
+        "exdates": [
+          "2025-09-04",
+          "2025-11-06",
+          "2025-12-04",
+          "2026-01-01",
+          "2026-04-02",
+          "2026-07-02",
+          "2026-09-03",
+          "2026-08-06"
+        ]
+      },
+      {
+        "prog": "Produce on Wheels",
+        "rrule": "FREQ=MONTHLY;BYDAY=3TH",
+        "date": "2025-04-17",
+        "time": "10:15",
+        "exdates": [
+          "2025-06-19",
+          "2026-02-19",
+          "2026-06-18"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Silverada Manor",
+    "kids": false,
+    "programs": [
+      "Produce on Wheels"
+    ],
+    "location": "2565 Tom Sawyer Dr, Reno, NV 89512, USA",
+    "schedules": [
+      {
+        "prog": "Produce on Wheels",
+        "rrule": "FREQ=MONTHLY;BYDAY=1TU",
+        "date": "2025-03-04",
+        "time": "09:00",
+        "exdates": [
+          "2026-05-05"
+        ]
+      },
+      {
+        "prog": "Produce on Wheels",
+        "rrule": "FREQ=MONTHLY;BYDAY=3TU",
+        "date": "2025-04-15",
+        "time": "09:00",
+        "exdates": [
+          "2025-09-16",
+          "2025-10-21",
+          "2025-11-18",
+          "2025-12-16",
+          "2026-01-20",
+          "2026-02-17",
+          "2026-04-21",
+          "2026-07-21",
+          "2026-09-15",
+          "2026-08-18"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Arbor Cove at Virginia Lake",
+    "kids": false,
+    "programs": [
+      "Produce on Wheels"
+    ],
+    "location": "2350 Lymbery St, Reno, NV 89509, USA",
+    "schedules": [
+      {
+        "prog": "Produce on Wheels",
+        "rrule": "FREQ=MONTHLY;BYDAY=3MO",
+        "date": "2025-04-21",
+        "time": "11:15",
+        "exdates": [
+          "2025-10-20",
+          "2025-11-17",
+          "2025-12-15",
+          "2026-01-19",
+          "2026-02-16",
+          "2026-04-20",
+          "2026-07-20",
+          "2026-09-21",
+          "2026-08-17"
+        ]
+      },
+      {
+        "prog": "Produce on Wheels",
+        "rrule": "FREQ=MONTHLY;BYDAY=3WE",
+        "date": "2025-10-15",
+        "time": "09:00",
+        "exdates": [
+          "2026-02-18",
+          "2026-06-17"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Yerington",
+    "kids": false,
+    "programs": [
+      "Produce on Wheels"
+    ],
+    "location": "Yerington Senior Citizens Center, 117 Tilson Way, Yerington, NV 89447, USA",
+    "schedules": [
+      {
+        "prog": "Produce on Wheels",
+        "rrule": "FREQ=MONTHLY;BYDAY=2MO",
+        "date": "2025-04-14",
+        "time": "09:00",
+        "exdates": [
+          "2025-09-08",
+          "2025-10-13",
+          "2025-11-10",
+          "2025-12-08",
+          "2026-01-12",
+          "2026-04-13",
+          "2026-07-13",
+          "2026-09-14",
+          "2026-08-10"
+        ]
+      },
+      {
+        "prog": "Produce on Wheels",
+        "rrule": "FREQ=MONTHLY;BYDAY=4MO",
+        "date": "2024-11-25",
+        "time": "09:00",
+        "exdates": [
+          "2024-12-23",
+          "2025-04-28",
+          "2025-05-26",
+          "2025-08-25",
+          "2026-06-22"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sun Valley Senior Center",
+    "kids": false,
+    "programs": [
+      "Produce on Wheels"
+    ],
+    "location": "115 W 6th Ave, Sun Valley, NV 89433, USA",
+    "schedules": [
+      {
+        "prog": "Produce on Wheels",
+        "rrule": "FREQ=MONTHLY;BYDAY=4FR",
+        "date": "2024-11-22",
+        "time": "09:00",
+        "exdates": [
+          "2024-12-27",
+          "2025-06-27",
+          "2025-09-26",
+          "2025-10-24",
+          "2025-11-28",
+          "2025-12-26",
+          "2026-01-23",
+          "2026-04-24",
+          "2026-06-26",
+          "2026-07-24",
+          "2026-09-25",
+          "2026-08-28"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Woodfords Gym",
+    "kids": false,
+    "programs": [
+      "Produce on Wheels"
+    ],
+    "location": "25 Washo Blvd, Markleeville, CA 96120, USA",
+    "schedules": [
+      {
+        "prog": "Produce on Wheels",
+        "rrule": "FREQ=MONTHLY;BYDAY=2TU",
+        "date": "2025-09-09",
+        "time": "09:00",
+        "exdates": [
+          "2025-11-11"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Silver Sage Senior Apartments",
+    "kids": false,
+    "programs": [
+      "Produce on Wheels",
+      "Senior Box/CSFP"
+    ],
+    "location": "3870 Neil Rd, Reno, NV 89502, USA",
+    "schedules": [
+      {
+        "prog": "Produce on Wheels",
+        "rrule": "FREQ=MONTHLY;BYDAY=1MO",
+        "date": "2025-03-03",
+        "time": "10:15",
+        "exdates": [
+          "2025-09-01",
+          "2026-09-07"
+        ]
+      },
+      {
+        "prog": "Produce on Wheels",
+        "rrule": "FREQ=MONTHLY;BYDAY=3MO",
+        "date": "2025-04-21",
+        "time": "10:15",
+        "exdates": [
+          "2025-09-15",
+          "2025-10-20",
+          "2025-11-17",
+          "2025-12-15",
+          "2026-01-19",
+          "2026-02-16",
+          "2026-04-20",
+          "2026-07-20",
+          "2026-09-21",
+          "2026-08-17"
+        ]
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=3TU",
+        "date": "2025-03-18",
+        "time": "10:00",
+        "exdates": [
+          "2026-09-15"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Vintage Hills Senior Apartments",
+    "kids": false,
+    "programs": [
+      "Produce on Wheels",
+      "Senior Box/CSFP"
+    ],
+    "location": "4195 W 7th St, Reno, NV 89503, USA",
+    "schedules": [
+      {
+        "prog": "Produce on Wheels",
+        "rrule": "FREQ=MONTHLY;BYDAY=3WE",
+        "date": "2025-10-15",
+        "time": "10:15",
+        "exdates": [
+          "2026-02-18",
+          "2026-06-17"
+        ]
+      },
+      {
+        "prog": "Produce on Wheels",
+        "rrule": "FREQ=MONTHLY;BYDAY=1TU",
+        "date": "2025-03-04",
+        "time": "11:15",
+        "exdates": [
+          "2025-09-02",
+          "2025-10-07",
+          "2025-11-04",
+          "2025-12-02",
+          "2026-04-07",
+          "2026-07-07",
+          "2026-09-01",
+          "2026-08-04"
+        ]
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=2MO",
+        "date": "2023-10-09",
+        "time": "09:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Lincoln Way Senior Apartment Living",
+    "kids": false,
+    "programs": [
+      "Produce on Wheels",
+      "Senior Box/CSFP"
+    ],
+    "location": "618 4th St, Sparks, NV 89431, USA",
+    "schedules": [
+      {
+        "prog": "Produce on Wheels",
+        "rrule": "FREQ=MONTHLY;BYDAY=3MO",
+        "date": "2025-10-20",
+        "time": "11:00",
+        "exdates": [
+          "2026-06-15"
+        ]
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=2TU",
+        "date": "2026-02-10",
+        "time": "12:30",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "School Pantry: Vaughn Middle School",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "1200 Bresson Ave, Reno, NV 89502, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=FR",
+        "date": "2023-09-01",
+        "time": "09:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Fort Sage Family Resource Center",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "Sierra Drive, Sierra Dr, Herlong, CA 96113, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=MONTHLY;BYDAY=3FR",
+        "date": "2023-12-15",
+        "time": "09:00",
+        "exdates": []
+      },
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=MONTHLY;BYDAY=4WE",
+        "date": "2023-12-27",
+        "time": "09:00",
+        "exdates": []
+      },
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=MONTHLY;BYDAY=3FR",
+        "date": "2023-12-15",
+        "time": "16:00",
+        "exdates": []
+      },
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=MONTHLY;BYDAY=2WE",
+        "date": "2023-12-13",
+        "time": "09:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Yerington Food Pantry",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "502 W Bridge St, Yerington, NV 89447, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;WKST=SU;BYDAY=TH,WE",
+        "date": "2023-04-26",
+        "time": "09:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Winnemucca Food Bank & Thrift Store",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "Winnemucca Food Bank & Thrift Store, 150 S Bridge St, Winnemucca, NV 89445, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;WKST=SU;BYDAY=FR,MO,WE",
+        "date": "2022-04-04",
+        "time": "13:00",
+        "exdates": [
+          "2022-07-04",
+          "2022-09-05",
+          "2023-05-29",
+          "2023-12-25",
+          "2024-09-02"
+        ]
+      },
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;WKST=SU;BYDAY=FR,MO,WE",
+        "date": "2022-04-04",
+        "time": "09:00",
+        "exdates": [
+          "2022-07-04",
+          "2022-09-05",
+          "2023-05-29",
+          "2023-12-25",
+          "2024-09-02"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "School Pantry: Duncan Elementary School",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "1200 Montello St, Reno, NV 89512, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=FR",
+        "date": "2024-09-06",
+        "time": "09:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Out of Egypt Food Pantry",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "Out of Egypt Food Pantry - Food Distribution Center, 1520 Grimes St, Fallon, NV 89406, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=TH",
+        "date": "2022-04-07",
+        "time": "09:30",
+        "exdates": [
+          "2022-11-24"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Living Faith Christian Fellowship",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "Living Faith Christian Fellowship, 110 S Center St, Fernley, NV 89408, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=WE",
+        "date": "2022-04-06",
+        "time": "08:00",
+        "exdates": []
+      },
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=TU",
+        "date": "2022-04-05",
+        "time": "18:00",
+        "exdates": [
+          "2023-07-04"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Shine Church",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "3690 US-395, Carson City, NV 89705, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;WKST=SU;BYDAY=MO,TU,WE",
+        "date": "2022-04-04",
+        "time": "09:30",
+        "exdates": [
+          "2022-07-04",
+          "2022-09-05",
+          "2023-05-29",
+          "2023-07-04",
+          "2023-12-25",
+          "2024-09-02"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Reno-Sparks Indian Colony Clinic",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "1715 Kuenzli St, Reno, NV 89502, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=TH",
+        "date": "2025-04-10",
+        "time": "12:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Epworth United Methodist Church",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "Epworth United Methodist Church, 280 E Stillwater Ave, Fallon, NV 89406, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=MO",
+        "date": "2022-04-04",
+        "time": "10:00",
+        "exdates": [
+          "2022-07-04",
+          "2022-09-05",
+          "2023-05-29",
+          "2023-12-25",
+          "2024-09-02"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "HOPE Food Pantry",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "635 Cottage St, Susanville, CA 96130, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=FR",
+        "date": "2022-10-28",
+        "time": "15:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Storey County Senior Citizens Center",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "100 Mill St, Virginia City, NV 89440, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=MONTHLY;BYDAY=2SA",
+        "date": "2022-04-09",
+        "time": "10:00",
+        "exdates": []
+      },
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;WKST=SU;BYDAY=FR,MO,TH",
+        "date": "2022-04-04",
+        "time": "12:00",
+        "exdates": [
+          "2022-07-04",
+          "2022-09-05",
+          "2022-11-24",
+          "2023-05-29",
+          "2023-12-25",
+          "2024-09-02"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Friends in Service Helping (F.I.S.H.)",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "138 E Long St, Carson City, NV 89706, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;WKST=SU;BYDAY=FR,MO,TH,TU,WE",
+        "date": "2025-06-23",
+        "time": "13:00",
+        "exdates": []
+      },
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;WKST=SU;BYDAY=FR,MO,TH,TU,WE",
+        "date": "2025-06-23",
+        "time": "09:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Black Wall Street",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "Black Wall Street, 1301 Cordone Ave Suite LL40, Reno, NV 89502, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=FR",
+        "date": "2025-09-26",
+        "time": "08:30",
+        "exdates": []
+      },
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=WE",
+        "date": "2025-09-24",
+        "time": "08:30",
+        "exdates": []
+      },
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=TH",
+        "date": "2025-09-25",
+        "time": "08:30",
+        "exdates": []
+      },
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=TU",
+        "date": "2025-07-01",
+        "time": "08:30",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Christmas Cheer",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "Christmas Cheer, 1120 3rd St, South Lake Tahoe, CA 96150, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;WKST=SU;BYDAY=TH,TU,WE",
+        "date": "2022-04-05",
+        "time": "11:00",
+        "exdates": [
+          "2022-11-24",
+          "2023-07-04"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "MAP Emergency Food Pantry",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "570 Reactor Wy, Reno, NV 89502, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=WE",
+        "date": "2025-04-09",
+        "time": "09:00",
+        "exdates": []
+      },
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=MO",
+        "date": "2025-04-07",
+        "time": "12:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Catholic Charities of Northern Nevada, Sun Valley",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "130 W Gepford Pkwy, Sun Valley, NV 89433, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;WKST=SU;BYDAY=MO,WE,FR",
+        "date": "2025-03-24",
+        "time": "12:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "The Community Food Pantry",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "The Community Food Pantry, 1135 12th St, Sparks, NV 89431, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=WE",
+        "date": "2022-04-06",
+        "time": "10:00",
+        "exdates": [
+          "2023-12-27"
+        ]
+      },
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=FR",
+        "date": "2025-04-04",
+        "time": "09:00",
+        "exdates": []
+      },
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=SA",
+        "date": "2022-04-09",
+        "time": "09:00",
+        "exdates": [
+          "2023-09-23",
+          "2023-10-07",
+          "2023-09-30",
+          "2023-12-23",
+          "2023-12-30"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "School Pantry: Desert Skies Middle School",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "7550 Donatello Dr, Sun Valley, NV 89433, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=TH",
+        "date": "2023-09-07",
+        "time": "12:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "University Family Fellowship",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "University Family Fellowship, 1125 Stanford Way, Sparks, NV 89431, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=MONTHLY;BYDAY=1SA",
+        "date": "2022-04-02",
+        "time": "09:30",
+        "exdates": []
+      },
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=MONTHLY;BYDAY=3SA",
+        "date": "2022-04-16",
+        "time": "09:30",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Calvary Chapel Northwest Reno/Sonrise",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "Calvary Chapel Northwest Reno, 246 Courtney Ln, Reno, NV 89523, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=MO",
+        "date": "2023-12-18",
+        "time": "11:00",
+        "exdates": [
+          "2023-12-25",
+          "2024-09-02"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ron Wood Family Resource Center",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "Ron Wood Family Resource Center, 2621 Northgate Ln, Carson City, NV 89706, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;WKST=SU;BYDAY=FR,MO,TH,TU",
+        "date": "2022-04-04",
+        "time": "10:00",
+        "exdates": [
+          "2022-07-04",
+          "2022-09-05",
+          "2022-11-24",
+          "2023-05-29",
+          "2023-07-04",
+          "2023-12-25",
+          "2024-09-02"
+        ]
+      },
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=WE",
+        "date": "2022-04-06",
+        "time": "11:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "St. Vincent's Food Pantry",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "St Vincent's Food Pantry, 500 E 4th St, Reno, NV 89512, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=FR,MO,TH,TU,WE",
+        "date": "2022-04-04",
+        "time": "13:00",
+        "exdates": [
+          "2022-07-04",
+          "2022-09-05",
+          "2022-11-24",
+          "2023-05-29",
+          "2023-07-04",
+          "2023-12-25",
+          "2024-09-02"
+        ]
+      },
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;WKST=SU;BYDAY=MO,TU,WE",
+        "date": "2025-03-24",
+        "time": "08:00",
+        "exdates": []
+      },
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=MONTHLY;WKST=SU;UNTIL=20270207T075959Z;BYDAY=1SA",
+        "date": "2025-02-01",
+        "time": "09:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "{TEMPORARILY CLOSED} Pantry: Bethel AME Church",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "Bethel AME Church, 2655 Rock Blvd, Sparks, NV 89431, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=MONTHLY;BYDAY=1TU",
+        "date": "2024-09-03",
+        "time": "16:30",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Silver Stage Food Pantry",
+    "kids": false,
+    "programs": [
+      "Food Pantries",
+      "Golden Groceries Pantry"
+    ],
+    "location": "1290 Lahontan St, Silver Springs, NV 89429, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;WKST=SU;BYDAY=FR,TH,WE",
+        "date": "2022-12-21",
+        "time": "10:00",
+        "exdates": []
+      },
+      {
+        "prog": "Golden Groceries Pantry",
+        "rrule": "FREQ=WEEKLY;WKST=SU;BYDAY=TH,WE",
+        "date": "2023-12-06",
+        "time": "08:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Catholic Charities of Northern Nevada, Moana",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "480 E Moana Ln, Reno, NV 89502, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;WKST=SU;BYDAY=TU,TH",
+        "date": "2025-03-25",
+        "time": "12:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "School Pantry: Desert Heights Elementary School",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "13948 Mt Bismark St, Reno, NV 89506, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=MONTHLY;BYDAY=4SA",
+        "date": "2026-04-25",
+        "time": "09:00",
+        "exdates": []
+      },
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=MONTHLY;BYDAY=2SA",
+        "date": "2026-05-09",
+        "time": "09:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Women and Children's Center of the Sierra",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "Women and Children’s Center of the Sierra, 3905 Neil Rd # 2, Reno, NV 89502, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=WE",
+        "date": "2024-09-25",
+        "time": "09:00",
+        "exdates": []
+      },
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;WKST=SU;BYDAY=MO,TU,TH",
+        "date": "2024-09-23",
+        "time": "13:00",
+        "exdates": []
+      },
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;WKST=SU;BYDAY=MO,TU,TH",
+        "date": "2024-09-23",
+        "time": "09:00",
+        "exdates": []
+      },
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=WE",
+        "date": "2024-09-25",
+        "time": "15:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Westwood Family Resource Center",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "Westwood One Stop Center/Westwood Family Resource Center, 125 Birch St, Westwood, CA 96137, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=MONTHLY;BYDAY=4FR",
+        "date": "2022-04-22",
+        "time": "13:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "New Frontier Treatment Center",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "New Frontier Treatment Center - Food Distribution Center, 1490 Grimes St, Fallon, NV 89406, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=WE",
+        "date": "2022-04-06",
+        "time": "09:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "The Salvation Army",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "911 E 2nd Street, Carson City",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;WKST=SU;BYDAY=MO",
+        "date": "2025-06-23",
+        "time": "09:00",
+        "exdates": []
+      },
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;WKST=SU;BYDAY=TH,TU",
+        "date": "2025-06-24",
+        "time": "10:00",
+        "exdates": []
+      },
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;WKST=SU;BYDAY=TH,TU",
+        "date": "2025-06-24",
+        "time": "13:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Macedonia Baptist Church",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "Macedonia Baptist Church, 991 D St, Hawthorne, NV 89415, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;WKST=SU;BYDAY=TU,TH",
+        "date": "2024-03-26",
+        "time": "10:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "New Life Assembly of God",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "New Life Assembly of God, 11000 Lemmon Dr, Reno, NV 89506, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=MONTHLY;BYDAY=4SA",
+        "date": "2022-04-23",
+        "time": "10:00",
+        "exdates": []
+      },
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=MONTHLY;BYDAY=2SA",
+        "date": "2022-04-09",
+        "time": "10:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "St. Francis of Assisi Food Pantry",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "St. Francis of Assisi Food Pantry, 160 Hubbard Way F, Reno, NV 89502, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;WKST=SU;BYDAY=MO,TH,TU",
+        "date": "2022-04-04",
+        "time": "13:00",
+        "exdates": [
+          "2022-07-04",
+          "2022-09-05",
+          "2022-11-24",
+          "2023-05-29",
+          "2023-05-30",
+          "2023-06-01",
+          "2023-06-05",
+          "2023-06-06",
+          "2023-06-08",
+          "2023-07-04",
+          "2023-12-25",
+          "2024-09-02",
+          "2025-09-01",
+          "2025-12-25",
+          "2025-08-18"
+        ]
+      },
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=MONTHLY;BYDAY=3WE",
+        "date": "2022-04-20",
+        "time": "17:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Friends in Service Helping (F.I.S.H.) - Elko Food Distribution Center",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "821 Water St, Elko, NV 89801, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;WKST=SU;BYDAY=MO,TH,TU",
+        "date": "2022-04-04",
+        "time": "09:00",
+        "exdates": [
+          "2022-07-04",
+          "2022-09-05",
+          "2022-11-24",
+          "2023-05-29",
+          "2023-07-04",
+          "2023-12-25",
+          "2024-09-02"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "School Pantry: North Valleys FRC (O'Brien Middle School)",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "5000 Silver Lake Rd, Reno, NV 89506, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=MONTHLY;BYDAY=2FR",
+        "date": "2023-09-08",
+        "time": "09:30",
+        "exdates": []
+      },
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=MONTHLY;BYDAY=4FR",
+        "date": "2023-09-22",
+        "time": "09:30",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Hawthorne - Consolidated Agencies of Human Services",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "924 5th St, Hawthorne, NV 89415, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=FR,MO,TH,TU,WE",
+        "date": "2022-04-04",
+        "time": "08:00",
+        "exdates": [
+          "2022-07-04",
+          "2022-09-05",
+          "2022-11-24",
+          "2023-05-29",
+          "2023-07-04",
+          "2023-12-25",
+          "2024-09-02"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Indian Valley Food Pantry",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "Indian Valley Food Pantry, 224 Mill St, Greenville, CA 95947, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=FR",
+        "date": "2022-04-01",
+        "time": "10:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Carson City Food Distribution Center - F.I.S.H.",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "Friends In Service Helping - Food Distribution Center, 138 E Long St, Carson City, NV 89706, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=FR,MO,TH,TU,WE",
+        "date": "2022-04-04",
+        "time": "14:00",
+        "exdates": [
+          "2022-07-04",
+          "2022-09-05",
+          "2022-11-24",
+          "2023-05-29",
+          "2023-07-04",
+          "2023-12-25",
+          "2024-09-02"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Wells Senior Center",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "Wells Senior Center, 213 1st St, Wells, NV 89835, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=MONTHLY;BYDAY=1FR",
+        "date": "2022-04-01",
+        "time": "09:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Dayton Food Pantry",
+    "kids": false,
+    "programs": [
+      "Food Pantries",
+      "Golden Groceries Pantry"
+    ],
+    "location": "Dayton Food Pantry - Food Distribution Center, 209 Dayton Valley Rd, Dayton, NV 89403, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;WKST=SU;BYDAY=WE,TH",
+        "date": "2023-12-06",
+        "time": "10:00",
+        "exdates": []
+      },
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=TU",
+        "date": "2023-12-05",
+        "time": "10:00",
+        "exdates": []
+      },
+      {
+        "prog": "Golden Groceries Pantry",
+        "rrule": "FREQ=WEEKLY;BYDAY=TU",
+        "date": "2023-12-05",
+        "time": "07:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Community Assistance Network",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "176 Lawrence St, Quincy, CA 95971, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;WKST=SU;BYDAY=FR,MO,WE",
+        "date": "2022-04-04",
+        "time": "10:00",
+        "exdates": [
+          "2022-07-04",
+          "2022-09-05",
+          "2023-05-29",
+          "2023-12-25",
+          "2024-09-02"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Battle Mountain Assembly of God",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "Stone Avenue, Stone Ave, Battle Mountain, NV 89820, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=MONTHLY;BYDAY=2FR",
+        "date": "2022-04-08",
+        "time": "08:00",
+        "exdates": []
+      },
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=MONTHLY;BYDAY=-1FR",
+        "date": "2022-04-29",
+        "time": "10:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "The Salvation Army",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "1931 Sutro St, Reno, NV 89512, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;WKST=SU;BYDAY=TH,MO,TU,WE,FR",
+        "date": "2025-07-07",
+        "time": "09:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "The Bridge Church",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "The Bridge Church, 1330 Foster Dr, Reno, NV 89509, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=MONTHLY;BYDAY=1TH",
+        "date": "2024-01-04",
+        "time": "17:00",
+        "exdates": []
+      },
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=MONTHLY;BYDAY=3TH",
+        "date": "2022-04-21",
+        "time": "08:00",
+        "exdates": []
+      },
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=MONTHLY;BYDAY=1TH",
+        "date": "2022-04-07",
+        "time": "08:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Carson City Seventh Day Adventist Church",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "Carson City Seventh-day Adventist Church, 405 E College Pkwy, Carson City, NV 89706, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=SU",
+        "date": "2022-04-03",
+        "time": "10:00",
+        "exdates": []
+      },
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=WE",
+        "date": "2024-11-06",
+        "time": "16:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Susanville - Salvation Army",
+    "kids": false,
+    "programs": [
+      "Food Pantries",
+      "Golden Groceries Pantry"
+    ],
+    "location": "1560 Main St, Susanville, CA 96130, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=FR,MO,TH,TU,WE",
+        "date": "2022-04-04",
+        "time": "09:00",
+        "exdates": [
+          "2022-07-04",
+          "2022-09-05",
+          "2022-11-24",
+          "2023-05-29",
+          "2023-07-04",
+          "2023-12-25",
+          "2024-09-02"
+        ]
+      },
+      {
+        "prog": "Golden Groceries Pantry",
+        "rrule": "FREQ=WEEKLY;BYDAY=FR,MO,TH,TU,WE",
+        "date": "2022-06-01",
+        "time": "08:00",
+        "exdates": [
+          "2022-07-04",
+          "2022-09-05",
+          "2022-11-24",
+          "2023-05-29",
+          "2023-07-04",
+          "2023-12-25",
+          "2024-09-02"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Eastern Plumas Community Assistance Network",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "120 Nevada St, Portola, CA 96122, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;WKST=SU;BYDAY=TH,TU",
+        "date": "2022-04-05",
+        "time": "12:30",
+        "exdates": [
+          "2022-11-24",
+          "2023-07-04"
+        ]
+      },
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;WKST=SU;BYDAY=MO,WE",
+        "date": "2022-04-04",
+        "time": "09:30",
+        "exdates": [
+          "2022-07-04",
+          "2022-09-05",
+          "2023-05-29",
+          "2023-12-25",
+          "2024-09-02"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Almanor Basin Food Pantry",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "386 Main St, Chester, CA 96020, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=MONTHLY;BYDAY=3SA",
+        "date": "2022-04-16",
+        "time": "10:00",
+        "exdates": []
+      },
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=MONTHLY;BYDAY=1SA",
+        "date": "2022-04-02",
+        "time": "10:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Nixon Gym",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "204 Capitol Hill, Nixon, NV 89424, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=MONTHLY;BYDAY=3TU",
+        "date": "2022-04-19",
+        "time": "13:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Pyramid Lake Paiute Tribe",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "11 Brady St, Wadsworth, NV 89442, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;WKST=SU;BYDAY=WE,TH,TU",
+        "date": "2025-07-08",
+        "time": "09:00",
+        "exdates": []
+      },
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=MO",
+        "date": "2024-08-12",
+        "time": "09:00",
+        "exdates": [
+          "2024-09-02"
+        ]
+      },
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=FR",
+        "date": "2025-07-11",
+        "time": "09:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Kings Beach - Sierra Community House",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "265 Bear St, Kings Beach, CA 96143, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=WE",
+        "date": "2022-04-06",
+        "time": "15:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Eureka Senior Citizens Center",
+    "kids": false,
+    "programs": [
+      "Food Pantries",
+      "Golden Groceries Pantry"
+    ],
+    "location": "20 Gold St, Eureka, NV 89316, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=MONTHLY;BYDAY=-1WE",
+        "date": "2022-04-27",
+        "time": "08:00",
+        "exdates": []
+      },
+      {
+        "prog": "Golden Groceries Pantry",
+        "rrule": "FREQ=MONTHLY;BYDAY=2TU",
+        "date": "2022-06-14",
+        "time": "13:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Renown Health Pantry",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "1095 E 2nd St, Reno, NV 89502, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;WKST=SU;BYDAY=TH",
+        "date": "2023-12-07",
+        "time": "11:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Phoenix Food Pantry",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "2733 Lake Tahoe Blvd, South Lake Tahoe, CA 96150, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;WKST=SU;BYDAY=MO",
+        "date": "2025-06-23",
+        "time": "11:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "St. Robert Bellarmine Catholic Church",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "St. Robert Bellarmine Catholic Church, 625 Desert Shadows Ln, Fernley, NV 89408, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=TH",
+        "date": "2022-04-07",
+        "time": "09:00",
+        "exdates": [
+          "2022-11-24"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Carson City - Salvation Army",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "Salvation Army Church, 911 E 2nd St, Carson City, NV 89701, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=FR,MO,TH,TU,WE",
+        "date": "2022-04-04",
+        "time": "09:00",
+        "exdates": [
+          "2022-07-04",
+          "2022-09-05",
+          "2022-11-24",
+          "2023-05-29",
+          "2023-07-04",
+          "2023-12-25",
+          "2024-09-02"
+        ]
+      },
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=FR,MO,TH,TU,WE",
+        "date": "2022-04-04",
+        "time": "13:00",
+        "exdates": [
+          "2022-07-04",
+          "2022-09-05",
+          "2022-11-24",
+          "2023-05-29",
+          "2023-07-04",
+          "2023-12-25",
+          "2024-09-02"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "School Pantry: Risley Elementary School",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "1900 Sullivan Ln, Sparks, NV 89431, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=TH",
+        "date": "2025-04-10",
+        "time": "09:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Bethel AME Church",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "Bethel AME Church, 2655 Rock Blvd, Sparks, NV 89431, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=MONTHLY;BYDAY=3TU",
+        "date": "2024-02-20",
+        "time": "17:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Hope Church of the Nazarene",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "205 W Gepford Pkwy, Sun Valley, NV 89433, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=MONTHLY;BYDAY=3SA",
+        "date": "2022-04-16",
+        "time": "09:00",
+        "exdates": []
+      },
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=MONTHLY;BYDAY=1SA",
+        "date": "2022-04-02",
+        "time": "09:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Tahoe City - Sierra Community House",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "330 Fairway Dr, Tahoe City, CA 96145, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=MO",
+        "date": "2022-04-04",
+        "time": "15:00",
+        "exdates": [
+          "2022-07-04",
+          "2022-09-05",
+          "2023-05-29",
+          "2023-06-19",
+          "2023-12-25",
+          "2024-09-02",
+          "2025-02-24"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Community Chest, Inc.",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "Community Chest, Inc., 991 S C St, Virginia City, NV 89440, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=TH",
+        "date": "2022-04-07",
+        "time": "11:00",
+        "exdates": [
+          "2022-11-24"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Truckee - Sierra Community House",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "10040 Estates Dr, Truckee, CA 96161, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=TU",
+        "date": "2022-04-05",
+        "time": "15:30",
+        "exdates": [
+          "2023-07-04"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "New Revival Church",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "205 W Gepford Pkwy, Sun Valley, NV 89433, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=MONTHLY;BYDAY=3SA",
+        "date": "2024-09-21",
+        "time": "10:00",
+        "exdates": []
+      },
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=MONTHLY;BYDAY=1SA",
+        "date": "2024-09-07",
+        "time": "10:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "School Pantry: A Plus Learning Center",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "4701 Neil Rd, Reno, NV 89502, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;WKST=SU;BYDAY=FR,WE",
+        "date": "2023-09-01",
+        "time": "09:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Our Lady of Tahoe Catholic Church",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "Our Lady of Tahoe Catholic Church, 1 Elks Point Rd, Zephyr Cove, NV 89448, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=MONTHLY;BYDAY=2SA",
+        "date": "2022-04-09",
+        "time": "09:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "The Salvation Army",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "The Salvation Army Corps Community Center, 1931 Sutro St, Reno, NV 89512, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=FR,MO,TH,TU,WE",
+        "date": "2022-04-04",
+        "time": "08:00",
+        "exdates": [
+          "2022-07-04",
+          "2022-09-05",
+          "2022-11-24",
+          "2023-05-29",
+          "2023-07-04",
+          "2023-12-25",
+          "2024-09-02"
+        ]
+      },
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=FR,MO,TH,TU,WE",
+        "date": "2022-04-04",
+        "time": "13:00",
+        "exdates": [
+          "2023-05-29",
+          "2023-07-04",
+          "2023-12-25",
+          "2024-09-02"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "High Sierras Family Services",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "High Sierras Family Resource Center, ​315 Main St, Loyalton, CA 96118, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=MONTHLY;BYDAY=1FR",
+        "date": "2022-04-01",
+        "time": "15:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Northern Nevada Dream Center",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "Northern Nevada Dream Center, 3579 Hwy 50 East #211, Carson City, NV 89701, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=MONTHLY;BYDAY=4SA",
+        "date": "2022-04-23",
+        "time": "12:00",
+        "exdates": []
+      },
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=MONTHLY;BYDAY=3FR",
+        "date": "2022-04-15",
+        "time": "12:00",
+        "exdates": []
+      },
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=MONTHLY;BYDAY=1FR",
+        "date": "2022-04-01",
+        "time": "12:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "School Pantry: Juniper Elementary School",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "225 Queen Way, Sparks, NV 89431, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;WKST=SU;BYDAY=WE",
+        "date": "2025-06-25",
+        "time": "14:15",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "St. Michael's Catholic Church",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "St Michael's Catholic Church, 14075 Mt Vida St, Reno, NV 89506, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=TH",
+        "date": "2023-04-27",
+        "time": "16:30",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Our Savior Lutheran Church",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "Our Savior Lutheran Church (LCMS), 1900 1st St, Sparks, NV 89431, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=MONTHLY;BYDAY=3SA",
+        "date": "2022-04-16",
+        "time": "10:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Lovelock Food Bank",
+    "kids": false,
+    "programs": [
+      "Food Pantries",
+      "Senior Box/CSFP"
+    ],
+    "location": "810 Franklin Ave, Lovelock, NV 89419, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;WKST=SU;BYDAY=MO,TH",
+        "date": "2022-04-04",
+        "time": "15:30",
+        "exdates": [
+          "2022-07-04",
+          "2022-09-05",
+          "2022-11-24",
+          "2023-05-29",
+          "2023-12-25",
+          "2024-09-02"
+        ]
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=1MO",
+        "date": "2023-10-02",
+        "time": "09:30",
+        "exdates": [
+          "2024-09-02",
+          "2026-09-07"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "School Pantry: North Valleys High School",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "1470 E Golden Valley Rd, Reno, NV 89506, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=FR",
+        "date": "2025-07-11",
+        "time": "14:00",
+        "exdates": []
+      },
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=FR",
+        "date": "2025-07-11",
+        "time": "08:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Reno-Sparks Indian Colony | Youth League",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "Loop Road, Loop Rd, Sparks, NV 89434, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=TH",
+        "date": "2025-04-10",
+        "time": "14:30",
+        "exdates": []
+      },
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=TU",
+        "date": "2025-04-08",
+        "time": "09:30",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Church of Jesus Christ Spirit-Filled",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "Church Of Jesus Christ Spirit Filled, 3175 Goldy Way, Sparks, NV 89434, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=TU",
+        "date": "2023-04-18",
+        "time": "20:30",
+        "exdates": [
+          "2023-07-04"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "School Pantry: Mitchell Elementary School",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "1216 Prater Way, Sparks, NV 89431, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=FR",
+        "date": "2023-09-01",
+        "time": "09:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Voice in the Wilderness",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "513 E 2nd St, Reno, NV 89502, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;WKST=SU;BYDAY=TH",
+        "date": "2025-06-26",
+        "time": "09:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Incline Village - Sierra Community House",
+    "kids": false,
+    "programs": [
+      "Food Pantries"
+    ],
+    "location": "341 Village Blvd, Incline Village, NV 89451, USA",
+    "schedules": [
+      {
+        "prog": "Food Pantries",
+        "rrule": "FREQ=WEEKLY;BYDAY=TH",
+        "date": "2022-04-07",
+        "time": "15:00",
+        "exdates": [
+          "2022-11-24"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Carson Valley Community Food Closet",
+    "kids": false,
+    "programs": [
+      "Golden Groceries Pantry"
+    ],
+    "location": "1251 Waterloo Ln, Gardnerville, NV 89410, USA",
+    "schedules": [
+      {
+        "prog": "Golden Groceries Pantry",
+        "rrule": "FREQ=WEEKLY;WKST=SU;BYDAY=FR",
+        "date": "2025-07-11",
+        "time": "11:30",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Capitol Hill Veterans Outreach Center",
+    "kids": false,
+    "programs": [
+      "Senior Box/CSFP"
+    ],
+    "location": "350 Capitol Hill Ave, Reno, NV 89502, USA",
+    "schedules": [
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=3TH",
+        "date": "2023-10-19",
+        "time": "12:15",
+        "exdates": [
+          "2025-11-20"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tonopah Senior Center",
+    "kids": false,
+    "programs": [
+      "Senior Box/CSFP"
+    ],
+    "location": "1 Senior Center Dr, Tonopah, NV 89049, USA",
+    "schedules": [
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=1FR",
+        "date": "2025-12-05",
+        "time": "08:30",
+        "exdates": [
+          "2026-09-04"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Battle Mountain FCC",
+    "kids": false,
+    "programs": [
+      "Senior Box/CSFP"
+    ],
+    "location": "370 S Mountain St, Battle Mountain, NV 89820, USA",
+    "schedules": [
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=3FR",
+        "date": "2026-07-17",
+        "time": "10:00",
+        "exdates": []
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=3WE",
+        "date": "2026-07-15",
+        "time": "10:00",
+        "exdates": []
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=3MO",
+        "date": "2026-07-20",
+        "time": "10:00",
+        "exdates": []
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=3TH",
+        "date": "2026-07-16",
+        "time": "10:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Sierra Crest Apartments",
+    "kids": false,
+    "programs": [
+      "Senior Box/CSFP"
+    ],
+    "location": "795 Prater Wy, Sparks, NV 89431, USA",
+    "schedules": [
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=2TU",
+        "date": "2026-07-14",
+        "time": "10:15",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Tonopah",
+    "kids": false,
+    "programs": [
+      "Senior Box/CSFP"
+    ],
+    "location": "701 E St, Sparks, NV 89431, USA",
+    "schedules": [
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=3FR",
+        "date": "2026-07-17",
+        "time": "08:30",
+        "exdates": []
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=3TU",
+        "date": "2026-07-21",
+        "time": "08:30",
+        "exdates": []
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=2TH",
+        "date": "2026-07-09",
+        "time": "08:30",
+        "exdates": []
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=2TU",
+        "date": "2026-07-14",
+        "time": "08:30",
+        "exdates": []
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=2WE",
+        "date": "2026-07-08",
+        "time": "08:30",
+        "exdates": []
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=3TH",
+        "date": "2026-07-16",
+        "time": "08:30",
+        "exdates": []
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=3WE",
+        "date": "2026-07-15",
+        "time": "08:30",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Ron Wood Family Resource Center",
+    "kids": false,
+    "programs": [
+      "Senior Box/CSFP"
+    ],
+    "location": "2621 Northgate Lane, Suite 62, Cason City, NV 89706",
+    "schedules": [
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=WEEKLY;BYDAY=FR",
+        "date": "2025-11-07",
+        "time": "10:00",
+        "exdates": [
+          "2025-11-28",
+          "2025-12-26",
+          "2026-04-17",
+          "2026-04-24",
+          "2026-07-17"
+        ]
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=WEEKLY;BYDAY=TU",
+        "date": "2025-11-04",
+        "time": "10:00",
+        "exdates": [
+          "2025-11-11",
+          "2025-12-30"
+        ]
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=3MO",
+        "date": "2025-11-17",
+        "time": "10:00",
+        "exdates": [
+          "2026-02-16"
+        ]
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=3FR",
+        "date": "2026-04-17",
+        "time": "10:00",
+        "exdates": []
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=3TH",
+        "date": "2025-11-20",
+        "time": "10:00",
+        "exdates": []
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=3WE",
+        "date": "2025-11-19",
+        "time": "10:00",
+        "exdates": []
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=2MO",
+        "date": "2025-11-10",
+        "time": "10:00",
+        "exdates": []
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=2TH",
+        "date": "2025-11-13",
+        "time": "10:00",
+        "exdates": []
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=2WE",
+        "date": "2025-11-12",
+        "time": "10:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Wells Family Resource Center",
+    "kids": false,
+    "programs": [
+      "Senior Box/CSFP"
+    ],
+    "location": "213 1st St, Wells, NV 89835, USA",
+    "schedules": [
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=3WE",
+        "date": "2025-11-19",
+        "time": "08:00",
+        "exdates": [
+          "2026-09-16"
+        ]
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=2WE",
+        "date": "2025-11-12",
+        "time": "08:00",
+        "exdates": [
+          "2026-09-09"
+        ]
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=2MO",
+        "date": "2025-11-10",
+        "time": "08:00",
+        "exdates": []
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=3FR",
+        "date": "2025-11-21",
+        "time": "08:00",
+        "exdates": []
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=3TH",
+        "date": "2025-11-20",
+        "time": "08:00",
+        "exdates": []
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=3MO",
+        "date": "2025-11-17",
+        "time": "08:00",
+        "exdates": [
+          "2026-02-16"
+        ]
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=1FR",
+        "date": "2025-11-07",
+        "time": "08:00",
+        "exdates": [
+          "2026-09-04"
+        ]
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=2TU",
+        "date": "2025-11-11",
+        "time": "08:00",
+        "exdates": [
+          "2025-11-11"
+        ]
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=2FR",
+        "date": "2025-11-14",
+        "time": "08:00",
+        "exdates": []
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=3TU",
+        "date": "2025-11-18",
+        "time": "08:00",
+        "exdates": []
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=2TH",
+        "date": "2025-11-13",
+        "time": "08:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Jackpot Helping Hands",
+    "kids": false,
+    "programs": [
+      "Senior Box/CSFP"
+    ],
+    "location": "1594 Pond Dr, Jackpot, NV 89825, USA",
+    "schedules": [
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=3WE",
+        "date": "2026-07-15",
+        "time": "11:00",
+        "exdates": []
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=3TH",
+        "date": "2026-07-16",
+        "time": "11:00",
+        "exdates": []
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=WEEKLY;BYDAY=TU",
+        "date": "2026-07-07",
+        "time": "13:00",
+        "exdates": [
+          "2026-07-28"
+        ]
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=2WE",
+        "date": "2026-07-08",
+        "time": "11:00",
+        "exdates": []
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=3FR",
+        "date": "2026-07-17",
+        "time": "11:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Eureka Senior Center",
+    "kids": false,
+    "programs": [
+      "Senior Box/CSFP"
+    ],
+    "location": "20 Gold St, Eureka, NV 89316, USA",
+    "schedules": [
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=3WE",
+        "date": "2026-07-15",
+        "time": "13:30",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Silvercrest Residence",
+    "kids": false,
+    "programs": [
+      "Senior Box/CSFP"
+    ],
+    "location": "1690 Wedekind Rd, Reno, NV 89512, USA",
+    "schedules": [
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=2MO",
+        "date": "2025-03-10",
+        "time": "10:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Macedonia Baptist Church Pantry",
+    "kids": false,
+    "programs": [
+      "Senior Box/CSFP"
+    ],
+    "location": "991 D St, Hawthorne, NV 89415, USA",
+    "schedules": [
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=WEEKLY;BYDAY=TH",
+        "date": "2025-12-04",
+        "time": "11:00",
+        "exdates": [
+          "2025-12-25",
+          "2026-01-01"
+        ]
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=WEEKLY;BYDAY=TU",
+        "date": "2026-07-14",
+        "time": "10:00",
+        "exdates": [
+          "2026-09-01",
+          "2026-07-28"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Wendover-JAS Foundation",
+    "kids": false,
+    "programs": [
+      "Senior Box/CSFP"
+    ],
+    "location": "1930 Plateau Way, West Wendover, NV 89883, USA",
+    "schedules": [
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=2TH",
+        "date": "2026-07-09",
+        "time": "08:00",
+        "exdates": []
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=2TU",
+        "date": "2026-07-14",
+        "time": "08:00",
+        "exdates": []
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=3TU",
+        "date": "2026-07-21",
+        "time": "08:00",
+        "exdates": []
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=2FR",
+        "date": "2026-07-10",
+        "time": "08:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Vintage at Sanctuary",
+    "kids": false,
+    "programs": [
+      "Senior Box/CSFP"
+    ],
+    "location": "301 Gentry Wy, Reno, NV 89502, USA",
+    "schedules": [
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=3TU",
+        "date": "2025-03-18",
+        "time": "11:00",
+        "exdates": [
+          "2026-09-15"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Northern Nevada HOPES",
+    "kids": false,
+    "programs": [
+      "Senior Box/CSFP"
+    ],
+    "location": "Northern Nevada HOPES, 580 W 5th St, Reno, NV 89503, USA",
+    "schedules": [
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=2TH",
+        "date": "2025-03-13",
+        "time": "11:45",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Autumn Village Apartments",
+    "kids": false,
+    "programs": [
+      "Senior Box/CSFP"
+    ],
+    "location": "1101 Beverly Dr, Carson City, NV 89706, USA",
+    "schedules": [
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=4TU",
+        "date": "2025-04-22",
+        "time": "09:45",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Cold Springs Family Center",
+    "kids": false,
+    "programs": [
+      "Senior Box/CSFP"
+    ],
+    "location": "18400 Village Pkwy, Reno, NV 89508, USA",
+    "schedules": [
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=3WE",
+        "date": "2025-10-15",
+        "time": "10:30",
+        "exdates": [
+          "2026-09-16"
+        ]
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=1WE",
+        "date": "2022-05-04",
+        "time": "10:15",
+        "exdates": [
+          "2026-09-02",
+          "2026-10-07"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Washoe County Senior Services",
+    "kids": false,
+    "programs": [
+      "Senior Box/CSFP"
+    ],
+    "location": "1155 E 9th St, Reno, NV 89512, USA",
+    "schedules": [
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=3TH",
+        "date": "2025-04-17",
+        "time": "09:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Tribal Offices, Fort McDermitt Tribe",
+    "kids": false,
+    "programs": [
+      "Senior Box/CSFP"
+    ],
+    "location": "Old Reservation Road, Old Reservation Rd, McDermitt, NV, USA",
+    "schedules": [
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=1WE",
+        "date": "2023-10-04",
+        "time": "11:00",
+        "exdates": [
+          "2025-01-01",
+          "2025-11-05",
+          "2025-12-03",
+          "2026-09-02",
+          "2026-10-07"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Winnemucca Food Bank & Thrift Store",
+    "kids": false,
+    "programs": [
+      "Senior Box/CSFP"
+    ],
+    "location": "150 S Bridge St, Winnemucca, NV 89445, USA",
+    "schedules": [
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=3WE",
+        "date": "2026-04-15",
+        "time": "09:00",
+        "exdates": [
+          "2026-09-16"
+        ]
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=1WE",
+        "date": "2026-04-01",
+        "time": "13:00",
+        "exdates": [
+          "2026-09-02",
+          "2026-10-07"
+        ]
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=2FR",
+        "date": "2026-04-10",
+        "time": "09:00",
+        "exdates": []
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=3FR",
+        "date": "2026-04-17",
+        "time": "13:00",
+        "exdates": []
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=2MO",
+        "date": "2026-04-13",
+        "time": "09:00",
+        "exdates": []
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=1FR",
+        "date": "2026-04-03",
+        "time": "13:00",
+        "exdates": []
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=1FR",
+        "date": "2026-04-03",
+        "time": "09:00",
+        "exdates": []
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=1WE",
+        "date": "2026-04-01",
+        "time": "09:00",
+        "exdates": [
+          "2026-09-02",
+          "2026-10-07"
+        ]
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=2WE",
+        "date": "2026-04-08",
+        "time": "09:00",
+        "exdates": []
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=3WE",
+        "date": "2026-04-15",
+        "time": "13:00",
+        "exdates": [
+          "2026-09-16"
+        ]
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=2MO",
+        "date": "2026-04-13",
+        "time": "13:00",
+        "exdates": []
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=3FR",
+        "date": "2026-04-17",
+        "time": "09:00",
+        "exdates": []
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=2FR",
+        "date": "2026-04-10",
+        "time": "13:00",
+        "exdates": []
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=1MO",
+        "date": "2026-03-02",
+        "time": "13:00",
+        "exdates": [
+          "2026-09-07"
+        ]
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=2WE",
+        "date": "2026-04-08",
+        "time": "13:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Grace Senior Apartments",
+    "kids": false,
+    "programs": [
+      "Senior Box/CSFP"
+    ],
+    "location": "1260 Commerce St, Sparks, NV 89431, USA",
+    "schedules": [
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=2MO",
+        "date": "2025-03-10",
+        "time": "12:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Carriage Stone Senior Apartments",
+    "kids": false,
+    "programs": [
+      "Senior Box/CSFP"
+    ],
+    "location": "695 S Center St, Reno, NV 89501, USA",
+    "schedules": [
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=2TH",
+        "date": "2025-03-13",
+        "time": "10:45",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Sierra Crest Senior Apartments",
+    "kids": false,
+    "programs": [
+      "Senior Box/CSFP"
+    ],
+    "location": "795 Prater Way, Sparks, NV 89431, USA",
+    "schedules": [
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=1FR",
+        "date": "2025-11-07",
+        "time": "10:15",
+        "exdates": [
+          "2026-09-04"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Willie J. Wynn Senior Apartments",
+    "kids": false,
+    "programs": [
+      "Senior Box/CSFP"
+    ],
+    "location": "1202 Hillboro Ave, Reno, NV 89512, USA",
+    "schedules": [
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=3TH",
+        "date": "2025-04-17",
+        "time": "10:45",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Carson Valley Community Food Closet",
+    "kids": false,
+    "programs": [
+      "Senior Box/CSFP"
+    ],
+    "location": "1255 Waterloo Lane, Gardnerville, NV 89410",
+    "schedules": [
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=1FR",
+        "date": "2026-04-03",
+        "time": "11:30",
+        "exdates": []
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=1WE",
+        "date": "2026-04-01",
+        "time": "12:30",
+        "exdates": [
+          "2026-09-02",
+          "2026-10-07"
+        ]
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=3FR",
+        "date": "2026-04-17",
+        "time": "11:30",
+        "exdates": []
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=2MO",
+        "date": "2026-04-13",
+        "time": "12:30",
+        "exdates": []
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=2WE",
+        "date": "2026-04-08",
+        "time": "12:30",
+        "exdates": []
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=2FR",
+        "date": "2026-04-10",
+        "time": "11:30",
+        "exdates": []
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=WEEKLY;BYDAY=TU",
+        "date": "2025-11-04",
+        "time": "12:30",
+        "exdates": [
+          "2025-11-11",
+          "2025-12-30",
+          "2026-04-28"
+        ]
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=3WE",
+        "date": "2025-11-19",
+        "time": "12:30",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Sparks Christian Fellowship",
+    "kids": false,
+    "programs": [
+      "Senior Box/CSFP"
+    ],
+    "location": "510 Greenbrae Dr, Sparks, NV 89431, USA",
+    "schedules": [
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=2TU",
+        "date": "2025-04-08",
+        "time": "11:45",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Imlay Baptist Church",
+    "kids": false,
+    "programs": [
+      "Senior Box/CSFP"
+    ],
+    "location": "420 Main St, Imlay, NV 89418, USA",
+    "schedules": [
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=1MO",
+        "date": "2022-05-02",
+        "time": "11:30",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Park Manor Apartments",
+    "kids": false,
+    "programs": [
+      "Senior Box/CSFP"
+    ],
+    "location": "Park Manor Apartments, 33 Park St, Reno, NV 89502, USA",
+    "schedules": [
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=2TH",
+        "date": "2025-03-13",
+        "time": "10:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Eureka Senior Center",
+    "kids": false,
+    "programs": [
+      "Senior Box/CSFP"
+    ],
+    "location": "20 West Gold St. Eureka, NV 89316",
+    "schedules": [
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=1FR",
+        "date": "2025-11-07",
+        "time": "13:30",
+        "exdates": [
+          "2026-09-04"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Silverada Manor Apartments",
+    "kids": false,
+    "programs": [
+      "Senior Box/CSFP"
+    ],
+    "location": "2565 Tom Sawyer Dr, Reno, NV 89512, USA",
+    "schedules": [
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=2WE",
+        "date": "2025-04-09",
+        "time": "09:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Sierra Manor Apartments",
+    "kids": false,
+    "programs": [
+      "Senior Box/CSFP"
+    ],
+    "location": "2350 Paradise Dr, Reno, NV 89512, USA",
+    "schedules": [
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=2WE",
+        "date": "2025-03-12",
+        "time": "10:15",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Jamaica Park",
+    "kids": false,
+    "programs": [
+      "Senior Box/CSFP"
+    ],
+    "location": "1000 Jamaica Ave, Reno, NV 89502, USA",
+    "schedules": [
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=3TU",
+        "date": "2025-04-15",
+        "time": "09:00",
+        "exdates": []
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "",
+        "date": "2026-09-22",
+        "time": "09:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Schurz/Walker River",
+    "kids": false,
+    "programs": [
+      "Senior Box/CSFP"
+    ],
+    "location": "Tribal Parking Lot, Schurz, 89427",
+    "schedules": [
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=3WE",
+        "date": "2026-07-15",
+        "time": "08:30",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Silverada Estates Mobile Home Park",
+    "kids": false,
+    "programs": [
+      "Senior Box/CSFP"
+    ],
+    "location": "13948 Mt Bismark St, Reno, NV 89506, USA",
+    "schedules": [
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=2WE",
+        "date": "2025-03-12",
+        "time": "11:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Oddie Boulevard & Sullivan Lane",
+    "kids": false,
+    "programs": [
+      "Senior Box/CSFP"
+    ],
+    "location": "1305 Sullivan Ln, Sparks, NV 89431, USA",
+    "schedules": [
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=2WE",
+        "date": "2025-03-12",
+        "time": "12:15",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Mark Twain Community Center",
+    "kids": false,
+    "programs": [
+      "Senior Box/CSFP"
+    ],
+    "location": "500 Sam Clemens Ave, Dayton, NV 89403, USA",
+    "schedules": [
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=1FR",
+        "date": "2025-12-05",
+        "time": "10:30",
+        "exdates": [
+          "2026-09-04"
+        ]
+      },
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=3FR",
+        "date": "2025-12-19",
+        "time": "10:30",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Mineral Country Care & Share",
+    "kids": false,
+    "programs": [
+      "Senior Box/CSFP"
+    ],
+    "location": "975 K St, Hawthorne, NV 89415, USA",
+    "schedules": [
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=1TH",
+        "date": "2023-10-05",
+        "time": "11:00",
+        "exdates": [
+          "2024-07-04",
+          "2025-11-06",
+          "2025-12-04",
+          "2026-01-01",
+          "2026-09-03"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gerlach Senior Citizens Center",
+    "kids": false,
+    "programs": [
+      "Senior Box/CSFP"
+    ],
+    "location": "385 E Sunset Blvd, Gerlach, NV 89412, USA",
+    "schedules": [
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=4TU",
+        "date": "2025-04-22",
+        "time": "12:30",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Desert Heights Elementary School",
+    "kids": false,
+    "programs": [
+      "Senior Box/CSFP"
+    ],
+    "location": "13948 Mt Bismark St, Reno, NV 89506, USA",
+    "schedules": [
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=2SA",
+        "date": "2025-10-11",
+        "time": "10:00",
+        "exdates": [
+          "2026-09-12"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Fallon Churchill County Regional Park",
+    "kids": false,
+    "programs": [
+      "Senior Box/CSFP"
+    ],
+    "location": "400 Miners Rd, Fallon, NV 89406, USA",
+    "schedules": [
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=4TH",
+        "date": "2025-05-22",
+        "time": "11:30",
+        "exdates": [
+          "2025-11-27",
+          "2025-12-25"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Yerington Senior Citizens Center",
+    "kids": false,
+    "programs": [
+      "Senior Box/CSFP"
+    ],
+    "location": "117 Tilson Way, Yerington, NV 89447, USA",
+    "schedules": [
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=1WE",
+        "date": "2023-10-04",
+        "time": "11:30",
+        "exdates": [
+          "2025-01-01",
+          "2026-10-07"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Washoe-Mill Apartments",
+    "kids": false,
+    "programs": [
+      "Senior Box/CSFP"
+    ],
+    "location": "1375 Mill St, Reno, NV 89502, USA",
+    "schedules": [
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=2TH",
+        "date": "2025-03-13",
+        "time": "09:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Silver Springs LDS",
+    "kids": false,
+    "programs": [
+      "Senior Box/CSFP"
+    ],
+    "location": "The Church of Jesus Christ of Latter-day Saints, 5470 Elm St, Silver Springs, NV 89429, USA",
+    "schedules": [
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=1WE",
+        "date": "2025-11-05",
+        "time": "09:00",
+        "exdates": [
+          "2026-10-07"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Fernley Pool",
+    "kids": false,
+    "programs": [
+      "Senior Box/CSFP"
+    ],
+    "location": "300 Cottonwood Ln, Fernley, NV 89408, USA",
+    "schedules": [
+      {
+        "prog": "Senior Box/CSFP",
+        "rrule": "FREQ=MONTHLY;BYDAY=4TH",
+        "date": "2024-08-22",
+        "time": "09:00",
+        "exdates": [
+          "2024-11-28",
+          "2025-11-27",
+          "2025-12-25"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Downtown Reno Library",
+    "kids": true,
+    "programs": [
+      "Kids Cafe Free Meals"
+    ],
+    "location": "Downtown Reno Library, 301 S Center St, Reno, NV 89501, USA",
+    "schedules": [
+      {
+        "prog": "Kids Cafe Free Meals",
+        "rrule": "FREQ=DAILY;WKST=SU;COUNT=5",
+        "date": "2023-10-02",
+        "time": "11:00",
+        "exdates": []
+      },
+      {
+        "prog": "Kids Cafe Free Meals",
+        "rrule": "FREQ=WEEKLY;WKST=SU;COUNT=10;BYDAY=FR,MO,TH,TU,WE",
+        "date": "2023-03-20",
+        "time": "11:30",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Evelyn Mount NECC",
+    "kids": true,
+    "programs": [
+      "Kids Cafe Free Meals"
+    ],
+    "location": "Evelyn Mount Northeast Community Center, 1301 Valley Rd, Reno, NV 89512, USA",
+    "schedules": [
+      {
+        "prog": "Kids Cafe Free Meals",
+        "rrule": "FREQ=WEEKLY;WKST=SU;COUNT=10;BYDAY=FR,MO,TH,TU,WE",
+        "date": "2023-03-20",
+        "time": "08:30",
+        "exdates": []
+      },
+      {
+        "prog": "Kids Cafe Free Meals",
+        "rrule": "FREQ=WEEKLY;WKST=SU;COUNT=10;BYDAY=FR,MO,TH,TU,WE",
+        "date": "2023-03-20",
+        "time": "12:00",
+        "exdates": []
+      },
+      {
+        "prog": "Kids Cafe Free Meals",
+        "rrule": "FREQ=DAILY;WKST=SU;COUNT=5",
+        "date": "2023-10-02",
+        "time": "12:00",
+        "exdates": []
+      },
+      {
+        "prog": "Kids Cafe Free Meals",
+        "rrule": "FREQ=DAILY;WKST=SU;COUNT=5",
+        "date": "2023-10-02",
+        "time": "08:30",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Ardmore Park",
+    "kids": true,
+    "programs": [
+      "Kids Cafe Free Meals"
+    ],
+    "location": "Ardmore Park, 1200 12th St, Sparks, NV 89431, USA",
+    "schedules": [
+      {
+        "prog": "Kids Cafe Free Meals",
+        "rrule": "FREQ=WEEKLY;WKST=SU;COUNT=10;BYDAY=FR,MO,TH,TU,WE",
+        "date": "2023-03-20",
+        "time": "12:00",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Sparks Rec Center",
+    "kids": true,
+    "programs": [
+      "Kids Cafe Free Meals"
+    ],
+    "location": "Sparks City Parks & Recreation, 98 Richards Way, Sparks, NV 89431, USA",
+    "schedules": [
+      {
+        "prog": "Kids Cafe Free Meals",
+        "rrule": "FREQ=DAILY;WKST=SU;COUNT=4",
+        "date": "2023-10-05",
+        "time": "12:00",
+        "exdates": [
+          "2023-10-06",
+          "2023-10-07",
+          "2023-10-08"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "North Valleys Library",
+    "kids": true,
+    "programs": [
+      "Kids Cafe Free Meals"
+    ],
+    "location": "North Valleys Library, 1075 N Hills Blvd, Reno, NV 89506, USA",
+    "schedules": [
+      {
+        "prog": "Kids Cafe Free Meals",
+        "rrule": "FREQ=DAILY;WKST=SU;COUNT=5",
+        "date": "2023-10-02",
+        "time": "11:30",
+        "exdates": []
+      },
+      {
+        "prog": "Kids Cafe Free Meals",
+        "rrule": "FREQ=WEEKLY;WKST=SU;COUNT=10;BYDAY=FR,MO,TH,TU,WE",
+        "date": "2023-03-20",
+        "time": "11:30",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Sparks Library",
+    "kids": true,
+    "programs": [
+      "Kids Cafe Free Meals"
+    ],
+    "location": "Sparks Library, 1125 12th St, Sparks, NV 89431, USA",
+    "schedules": [
+      {
+        "prog": "Kids Cafe Free Meals",
+        "rrule": "FREQ=DAILY;WKST=SU;COUNT=5",
+        "date": "2023-10-02",
+        "time": "12:15",
+        "exdates": []
+      },
+      {
+        "prog": "Kids Cafe Free Meals",
+        "rrule": "FREQ=WEEKLY;WKST=SU;COUNT=10;BYDAY=FR,MO,TH,TU,WE",
+        "date": "2023-03-20",
+        "time": "12:15",
+        "exdates": []
+      }
+    ]
+  },
+  {
+    "name": "Peavine Elementary",
+    "kids": true,
+    "programs": [
+      "Kids Cafe Free Meals"
+    ],
+    "location": "Peavine Elementary School, 1601 Grandview Ave, Reno, NV 89503, USA",
+    "schedules": [
+      {
+        "prog": "Kids Cafe Free Meals",
+        "rrule": "FREQ=WEEKLY;WKST=SU;UNTIL=20270602T065959Z;BYDAY=FR,MO,TH,TU",
+        "date": "2025-09-02",
+        "time": "15:30",
+        "exdates": [
+          "2025-10-06",
+          "2025-10-07",
+          "2025-10-09",
+          "2025-10-10",
+          "2025-12-22",
+          "2025-12-23",
+          "2025-12-25",
+          "2025-12-26",
+          "2025-12-29",
+          "2025-12-30",
+          "2026-01-01",
+          "2026-01-02"
+        ]
+      },
+      {
+        "prog": "Kids Cafe Free Meals",
+        "rrule": "FREQ=WEEKLY;WKST=SU;UNTIL=20270602T065959Z;BYDAY=WE",
+        "date": "2025-09-03",
+        "time": "14:45",
+        "exdates": [
+          "2025-10-08",
+          "2025-12-24",
+          "2025-12-31"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hidden Valley Elementary",
+    "kids": true,
+    "programs": [
+      "Kids Cafe Free Meals"
+    ],
+    "location": "Hidden Valley Elementary School, 2115 Alphabet Dr, Reno, NV 89502, USA",
+    "schedules": [
+      {
+        "prog": "Kids Cafe Free Meals",
+        "rrule": "FREQ=WEEKLY;WKST=SU;UNTIL=20270602T065959Z;BYDAY=FR,MO,TH,TU,WE",
+        "date": "2025-09-01",
+        "time": "15:00",
+        "exdates": [
+          "2025-10-06",
+          "2025-10-07",
+          "2025-10-08",
+          "2025-10-09",
+          "2025-10-10",
+          "2025-12-22",
+          "2025-12-23",
+          "2025-12-24",
+          "2025-12-25",
+          "2025-12-26",
+          "2025-12-29",
+          "2025-12-30",
+          "2025-12-31",
+          "2026-01-01",
+          "2026-01-02"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Duncan Elementary",
+    "kids": true,
+    "programs": [
+      "Kids Cafe Free Meals"
+    ],
+    "location": "Duncan Elementary School, 1200 Montello St, Reno, NV 89512, USA",
+    "schedules": [
+      {
+        "prog": "Kids Cafe Free Meals",
+        "rrule": "FREQ=WEEKLY;WKST=SU;UNTIL=20270602T065959Z;BYDAY=FR,MO,TH,TU,WE",
+        "date": "2025-09-01",
+        "time": "15:00",
+        "exdates": [
+          "2025-10-06",
+          "2025-10-07",
+          "2025-10-08",
+          "2025-10-09",
+          "2025-10-10",
+          "2025-12-22",
+          "2025-12-23",
+          "2025-12-24",
+          "2025-12-25",
+          "2025-12-26",
+          "2025-12-29",
+          "2025-12-30",
+          "2025-12-31",
+          "2026-01-01",
+          "2026-01-02"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Elmcrest Elementary",
+    "kids": true,
+    "programs": [
+      "Kids Cafe Free Meals"
+    ],
+    "location": "Elmcrest Elementary School, 855 Mc Donald Dr, Reno, NV 89503, USA",
+    "schedules": [
+      {
+        "prog": "Kids Cafe Free Meals",
+        "rrule": "FREQ=WEEKLY;WKST=SU;UNTIL=20270602T065959Z;BYDAY=FR,MO,TH,TU,WE",
+        "date": "2025-09-01",
+        "time": "15:00",
+        "exdates": [
+          "2025-10-06",
+          "2025-10-07",
+          "2025-10-08",
+          "2025-10-09",
+          "2025-10-10",
+          "2025-12-22",
+          "2025-12-23",
+          "2025-12-24",
+          "2025-12-25",
+          "2025-12-26",
+          "2025-12-29",
+          "2025-12-30",
+          "2025-12-31",
+          "2026-01-01",
+          "2026-01-02"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mariposa Academy",
+    "kids": true,
+    "programs": [
+      "Kids Cafe Free Meals"
+    ],
+    "location": "3875 Glen St, Reno, NV 89502, USA",
+    "schedules": [
+      {
+        "prog": "Kids Cafe Free Meals",
+        "rrule": "FREQ=WEEKLY;WKST=SU;UNTIL=20270602T065959Z;BYDAY=FR,MO,TH,TU,WE",
+        "date": "2025-09-01",
+        "time": "16:00",
+        "exdates": [
+          "2025-10-06",
+          "2025-10-07",
+          "2025-10-08",
+          "2025-10-09",
+          "2025-10-10",
+          "2025-12-22",
+          "2025-12-23",
+          "2025-12-24",
+          "2025-12-25",
+          "2025-12-26",
+          "2025-12-29",
+          "2025-12-30",
+          "2025-12-31",
+          "2026-01-01",
+          "2026-01-02"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lemelson Elementary",
+    "kids": true,
+    "programs": [
+      "Kids Cafe Free Meals"
+    ],
+    "location": "Dorothy Lemelson S.T.E.M. Academy Elementary School, 2001 Soaring Eagle Dr, Reno, NV 89512, USA",
+    "schedules": [
+      {
+        "prog": "Kids Cafe Free Meals",
+        "rrule": "FREQ=WEEKLY;WKST=SU;UNTIL=20270602T065959Z;BYDAY=FR,MO,TH,TU,WE",
+        "date": "2025-09-02",
+        "time": "15:00",
+        "exdates": [
+          "2025-10-06",
+          "2025-10-07",
+          "2025-10-08",
+          "2025-10-09",
+          "2025-10-10",
+          "2025-12-22",
+          "2025-12-23",
+          "2025-12-24",
+          "2025-12-25",
+          "2025-12-26",
+          "2025-12-29",
+          "2025-12-30",
+          "2025-12-31",
+          "2026-01-01",
+          "2026-01-02"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Donner Springs Elementary",
+    "kids": true,
+    "programs": [
+      "Kids Cafe Free Meals"
+    ],
+    "location": "Donner Springs Elementary School, 5125 Escuela Way, Reno, NV 89502, USA",
+    "schedules": [
+      {
+        "prog": "Kids Cafe Free Meals",
+        "rrule": "FREQ=WEEKLY;WKST=SU;UNTIL=20270602T065959Z;BYDAY=FR,MO,TH,TU",
+        "date": "2025-09-01",
+        "time": "15:30",
+        "exdates": [
+          "2025-10-06",
+          "2025-10-07",
+          "2025-10-09",
+          "2025-10-10",
+          "2025-12-22",
+          "2025-12-23",
+          "2025-12-25",
+          "2025-12-26",
+          "2025-12-29",
+          "2025-12-30",
+          "2026-01-01",
+          "2026-01-02"
+        ]
+      },
+      {
+        "prog": "Kids Cafe Free Meals",
+        "rrule": "FREQ=WEEKLY;WKST=SU;UNTIL=20270602T065959Z;BYDAY=WE",
+        "date": "2025-09-03",
+        "time": "14:45",
+        "exdates": [
+          "2025-10-08",
+          "2025-12-24",
+          "2025-12-31"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Greenbrae Elementary",
+    "kids": true,
+    "programs": [
+      "Kids Cafe Free Meals"
+    ],
+    "location": "Greenbrae Elementary School, 1840 4th St, Sparks, NV 89431, USA",
+    "schedules": [
+      {
+        "prog": "Kids Cafe Free Meals",
+        "rrule": "FREQ=WEEKLY;WKST=SU;UNTIL=20270602T065959Z;BYDAY=FR,MO,TH,TU,WE",
+        "date": "2025-09-02",
+        "time": "15:00",
+        "exdates": [
+          "2025-10-06",
+          "2025-10-07",
+          "2025-10-08",
+          "2025-10-09",
+          "2025-10-10",
+          "2025-12-22",
+          "2025-12-23",
+          "2025-12-24",
+          "2025-12-25",
+          "2025-12-26",
+          "2025-12-29",
+          "2025-12-30",
+          "2025-12-31",
+          "2026-01-01",
+          "2026-01-02"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Maxwell Elementary",
+    "kids": true,
+    "programs": [
+      "Kids Cafe Free Meals"
+    ],
+    "location": "Maxwell Elementary School, 2300 Rock Blvd, Sparks, NV 89431, USA",
+    "schedules": [
+      {
+        "prog": "Kids Cafe Free Meals",
+        "rrule": "FREQ=WEEKLY;WKST=SU;UNTIL=20270602T065959Z;BYDAY=FR,MO,TH,TU,WE",
+        "date": "2025-09-02",
+        "time": "15:00",
+        "exdates": [
+          "2025-10-06",
+          "2025-10-07",
+          "2025-10-08",
+          "2025-10-09",
+          "2025-10-10",
+          "2025-12-22",
+          "2025-12-23",
+          "2025-12-24",
+          "2025-12-25",
+          "2025-12-26",
+          "2025-12-29",
+          "2025-12-30",
+          "2025-12-31",
+          "2026-01-01",
+          "2026-01-02"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Silver Lake Elementary",
+    "kids": true,
+    "programs": [
+      "Kids Cafe Free Meals"
+    ],
+    "location": "Silver Lake Elementary School, 8719 Red Baron Blvd, Reno, NV 89506, USA",
+    "schedules": [
+      {
+        "prog": "Kids Cafe Free Meals",
+        "rrule": "FREQ=WEEKLY;WKST=SU;UNTIL=20270602T065959Z;BYDAY=FR,MO,TH,TU",
+        "date": "2025-09-02",
+        "time": "15:00",
+        "exdates": [
+          "2025-10-06",
+          "2025-10-07",
+          "2025-10-09",
+          "2025-10-10",
+          "2025-12-22",
+          "2025-12-23",
+          "2025-12-25",
+          "2025-12-26",
+          "2025-12-29",
+          "2025-12-30",
+          "2026-01-01",
+          "2026-01-02"
+        ]
+      },
+      {
+        "prog": "Kids Cafe Free Meals",
+        "rrule": "FREQ=WEEKLY;WKST=SU;UNTIL=20270602T065959Z;BYDAY=WE",
+        "date": "2025-09-03",
+        "time": "14:15",
+        "exdates": [
+          "2025-10-08",
+          "2025-12-24",
+          "2025-12-31"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cannan Elementary",
+    "kids": true,
+    "programs": [
+      "Kids Cafe Free Meals"
+    ],
+    "location": "Cannan Elementary School, 2450 Cannan St, Reno, NV 89512, USA",
+    "schedules": [
+      {
+        "prog": "Kids Cafe Free Meals",
+        "rrule": "FREQ=WEEKLY;WKST=SU;UNTIL=20270602T065959Z;BYDAY=FR,MO,TH,TU,WE",
+        "date": "2025-09-01",
+        "time": "15:30",
+        "exdates": [
+          "2025-10-06",
+          "2025-10-07",
+          "2025-10-08",
+          "2025-10-09",
+          "2025-10-10",
+          "2025-12-22",
+          "2025-12-23",
+          "2025-12-24",
+          "2025-12-25",
+          "2025-12-26",
+          "2025-12-29",
+          "2025-12-30",
+          "2025-12-31",
+          "2026-01-01",
+          "2026-01-02"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Anderson Elementary",
+    "kids": true,
+    "programs": [
+      "Kids Cafe Free Meals"
+    ],
+    "location": "Anderson Elementary School, 1055 Berrum Ln, Reno, NV 89509, USA",
+    "schedules": [
+      {
+        "prog": "Kids Cafe Free Meals",
+        "rrule": "FREQ=WEEKLY;WKST=SU;UNTIL=20270602T065959Z;BYDAY=FR,MO,TH,TU,WE",
+        "date": "2025-09-01",
+        "time": "15:00",
+        "exdates": [
+          "2025-10-06",
+          "2025-10-07",
+          "2025-10-08",
+          "2025-10-09",
+          "2025-10-10",
+          "2025-12-22",
+          "2025-12-23",
+          "2025-12-24",
+          "2025-12-25",
+          "2025-12-26",
+          "2025-12-29",
+          "2025-12-30",
+          "2025-12-31",
+          "2026-01-01",
+          "2026-01-02"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lemmon Valley Elementary",
+    "kids": true,
+    "programs": [
+      "Kids Cafe Free Meals"
+    ],
+    "location": "Lemmon Valley Elementary School, 255 W Patrician Dr, Reno, NV 89506, USA",
+    "schedules": [
+      {
+        "prog": "Kids Cafe Free Meals",
+        "rrule": "FREQ=WEEKLY;WKST=SU;UNTIL=20270602T065959Z;BYDAY=FR,MO,TH,TU,WE",
+        "date": "2025-09-02",
+        "time": "15:30",
+        "exdates": [
+          "2025-10-06",
+          "2025-10-07",
+          "2025-10-08",
+          "2025-10-09",
+          "2025-10-10",
+          "2025-12-22",
+          "2025-12-23",
+          "2025-12-24",
+          "2025-12-25",
+          "2025-12-26",
+          "2025-12-29",
+          "2025-12-30",
+          "2025-12-31",
+          "2026-01-01",
+          "2026-01-02"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Palmer Elementary",
+    "kids": true,
+    "programs": [
+      "Kids Cafe Free Meals"
+    ],
+    "location": "Palmer Elementary School, 5890 Klondike Dr, Sun Valley, NV 89433, USA",
+    "schedules": [
+      {
+        "prog": "Kids Cafe Free Meals",
+        "rrule": "FREQ=WEEKLY;WKST=SU;UNTIL=20270602T065959Z;BYDAY=FR,MO,TH,TU,WE",
+        "date": "2025-09-02",
+        "time": "15:00",
+        "exdates": [
+          "2025-10-06",
+          "2025-10-07",
+          "2025-10-08",
+          "2025-10-09",
+          "2025-10-10",
+          "2025-12-22",
+          "2025-12-23",
+          "2025-12-24",
+          "2025-12-25",
+          "2025-12-26",
+          "2025-12-29",
+          "2025-12-30",
+          "2025-12-31",
+          "2026-01-01",
+          "2026-01-02"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sun Valley Elementary",
+    "kids": true,
+    "programs": [
+      "Kids Cafe Free Meals"
+    ],
+    "location": "Sun Valley Elementary School, 5490 Leon Dr, Sun Valley, NV 89433, USA",
+    "schedules": [
+      {
+        "prog": "Kids Cafe Free Meals",
+        "rrule": "FREQ=WEEKLY;WKST=SU;UNTIL=20270602T065959Z;BYDAY=FR,MO,TH,TU,WE",
+        "date": "2025-09-02",
+        "time": "15:30",
+        "exdates": [
+          "2025-10-06",
+          "2025-10-07",
+          "2025-10-08",
+          "2025-10-09",
+          "2025-10-10",
+          "2025-12-22",
+          "2025-12-23",
+          "2025-12-24",
+          "2025-12-25",
+          "2025-12-26",
+          "2025-12-29",
+          "2025-12-30",
+          "2025-12-31",
+          "2026-01-01",
+          "2026-01-02"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bennett Elementary",
+    "kids": true,
+    "programs": [
+      "Kids Cafe Free Meals"
+    ],
+    "location": "Esther Bennett Elementary School, 5900 Sidehill Dr, Sun Valley, NV 89433, USA",
+    "schedules": [
+      {
+        "prog": "Kids Cafe Free Meals",
+        "rrule": "FREQ=WEEKLY;WKST=SU;UNTIL=20270602T065959Z;BYDAY=FR,MO,TH,TU,WE",
+        "date": "2025-09-02",
+        "time": "15:30",
+        "exdates": [
+          "2025-10-06",
+          "2025-10-07",
+          "2025-10-08",
+          "2025-10-09",
+          "2025-10-10",
+          "2025-12-22",
+          "2025-12-23",
+          "2025-12-24",
+          "2025-12-25",
+          "2025-12-26",
+          "2025-12-29",
+          "2025-12-30",
+          "2025-12-31",
+          "2026-01-01",
+          "2026-01-02"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Stead Elementary",
+    "kids": true,
+    "programs": [
+      "Kids Cafe Free Meals"
+    ],
+    "location": "Stead Elementary School, 10580 Stead Blvd, Reno, NV 89506, USA",
+    "schedules": [
+      {
+        "prog": "Kids Cafe Free Meals",
+        "rrule": "FREQ=WEEKLY;WKST=SU;UNTIL=20270602T065959Z;BYDAY=FR,MO,TH,TU,WE",
+        "date": "2025-09-02",
+        "time": "15:00",
+        "exdates": [
+          "2025-10-06",
+          "2025-10-07",
+          "2025-10-08",
+          "2025-10-09",
+          "2025-10-10",
+          "2025-12-22",
+          "2025-12-23",
+          "2025-12-24",
+          "2025-12-25",
+          "2025-12-26",
+          "2025-12-29",
+          "2025-12-30",
+          "2025-12-31",
+          "2026-01-01",
+          "2026-01-02"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mitchell Elementary",
+    "kids": true,
+    "programs": [
+      "Kids Cafe Free Meals"
+    ],
+    "location": "Mitchell Elementary School, 1216 Prater Way, Sparks, NV 89431, USA",
+    "schedules": [
+      {
+        "prog": "Kids Cafe Free Meals",
+        "rrule": "FREQ=WEEKLY;WKST=SU;UNTIL=20270602T065959Z;BYDAY=FR,MO,TH,TU,WE",
+        "date": "2025-09-02",
+        "time": "15:15",
+        "exdates": [
+          "2025-10-06",
+          "2025-10-07",
+          "2025-10-08",
+          "2025-10-09",
+          "2025-10-10",
+          "2025-12-22",
+          "2025-12-23",
+          "2025-12-24",
+          "2025-12-25",
+          "2025-12-26",
+          "2025-12-29",
+          "2025-12-30",
+          "2025-12-31",
+          "2026-01-01",
+          "2026-01-02"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Risley Elementary",
+    "kids": true,
+    "programs": [
+      "Kids Cafe Free Meals"
+    ],
+    "location": "Risley Elementary School, 1900 Sullivan Ln, Sparks, NV 89431, USA",
+    "schedules": [
+      {
+        "prog": "Kids Cafe Free Meals",
+        "rrule": "FREQ=WEEKLY;WKST=SU;UNTIL=20270602T065959Z;BYDAY=FR,MO,TH,TU,WE",
+        "date": "2025-09-02",
+        "time": "15:00",
+        "exdates": [
+          "2025-10-06",
+          "2025-10-07",
+          "2025-10-08",
+          "2025-10-09",
+          "2025-10-10",
+          "2025-12-22",
+          "2025-12-23",
+          "2025-12-24",
+          "2025-12-25",
+          "2025-12-26",
+          "2025-12-29",
+          "2025-12-30",
+          "2025-12-31",
+          "2026-01-01",
+          "2026-01-02"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Alice Smith Elementary",
+    "kids": true,
+    "programs": [
+      "Kids Cafe Free Meals"
+    ],
+    "location": "Alice Smith Elementary School, 1070 Beckwourth Dr, Reno, NV 89506, USA",
+    "schedules": [
+      {
+        "prog": "Kids Cafe Free Meals",
+        "rrule": "FREQ=WEEKLY;WKST=SU;UNTIL=20270602T065959Z;BYDAY=FR,MO,TH,TU,WE",
+        "date": "2025-09-02",
+        "time": "15:30",
+        "exdates": [
+          "2025-10-06",
+          "2025-10-07",
+          "2025-10-08",
+          "2025-10-09",
+          "2025-10-10",
+          "2025-12-22",
+          "2025-12-23",
+          "2025-12-24",
+          "2025-12-25",
+          "2025-12-26",
+          "2025-12-29",
+          "2025-12-30",
+          "2025-12-31",
+          "2026-01-01",
+          "2026-01-02"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Natchez Elementary",
+    "kids": true,
+    "programs": [
+      "Kids Cafe Free Meals"
+    ],
+    "location": "Natchez Elementary School, 1 NV-447, Wadsworth, NV 89442, USA",
+    "schedules": [
+      {
+        "prog": "Kids Cafe Free Meals",
+        "rrule": "FREQ=WEEKLY;WKST=SU;UNTIL=20270602T065959Z;BYDAY=MO,TH,TU,WE",
+        "date": "2025-09-02",
+        "time": "14:30",
+        "exdates": [
+          "2025-10-06",
+          "2025-10-07",
+          "2025-10-08",
+          "2025-10-09",
+          "2025-12-22",
+          "2025-12-23",
+          "2025-12-24",
+          "2025-12-25",
+          "2025-12-29",
+          "2025-12-30",
+          "2025-12-31",
+          "2026-01-01"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lois Allen Elementary",
+    "kids": true,
+    "programs": [
+      "Kids Cafe Free Meals"
+    ],
+    "location": "Lois Allen Elementary School, 5155 Mc Guffey Rd, Sun Valley, NV 89433, USA",
+    "schedules": [
+      {
+        "prog": "Kids Cafe Free Meals",
+        "rrule": "FREQ=WEEKLY;WKST=SU;UNTIL=20270602T065959Z;BYDAY=FR,MO,TH,TU,WE",
+        "date": "2025-09-02",
+        "time": "15:30",
+        "exdates": [
+          "2025-10-06",
+          "2025-10-07",
+          "2025-10-08",
+          "2025-10-09",
+          "2025-10-10",
+          "2025-12-22",
+          "2025-12-23",
+          "2025-12-24",
+          "2025-12-25",
+          "2025-12-26",
+          "2025-12-29",
+          "2025-12-30",
+          "2025-12-31",
+          "2026-01-01",
+          "2026-01-02"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sparks Middle School",
+    "kids": true,
+    "programs": [
+      "Kids Cafe Free Meals"
+    ],
+    "location": "Sparks Middle School, 2275 18th St, Sparks, NV 89431, USA",
+    "schedules": [
+      {
+        "prog": "Kids Cafe Free Meals",
+        "rrule": "FREQ=WEEKLY;WKST=SU;UNTIL=20270602T065959Z;BYDAY=FR,MO,TH,TU,WE",
+        "date": "2025-09-02",
+        "time": "14:00",
+        "exdates": [
+          "2025-10-06",
+          "2025-10-07",
+          "2025-10-08",
+          "2025-10-09",
+          "2025-10-10",
+          "2025-12-22",
+          "2025-12-23",
+          "2025-12-24",
+          "2025-12-25",
+          "2025-12-26",
+          "2025-12-29",
+          "2025-12-30",
+          "2025-12-31",
+          "2026-01-01",
+          "2026-01-02"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Desert Heights Elementary",
+    "kids": true,
+    "programs": [
+      "Kids Cafe Free Meals"
+    ],
+    "location": "Desert Heights Elementary School, 13948 Mt Bismark St, Reno, NV 89506, USA",
+    "schedules": [
+      {
+        "prog": "Kids Cafe Free Meals",
+        "rrule": "FREQ=WEEKLY;WKST=SU;UNTIL=20270602T065959Z;BYDAY=FR,MO,TH,TU,WE",
+        "date": "2025-09-02",
+        "time": "15:30",
+        "exdates": [
+          "2025-10-06",
+          "2025-10-07",
+          "2025-10-08",
+          "2025-10-09",
+          "2025-10-10",
+          "2025-12-22",
+          "2025-12-23",
+          "2025-12-24",
+          "2025-12-25",
+          "2025-12-26",
+          "2025-12-29",
+          "2025-12-30",
+          "2025-12-31",
+          "2026-01-01",
+          "2026-01-02"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dodson Elementary",
+    "kids": true,
+    "programs": [
+      "Kids Cafe Free Meals"
+    ],
+    "location": "Dodson Elementary School, 4355 Houston Dr, Reno, NV 89502, USA",
+    "schedules": [
+      {
+        "prog": "Kids Cafe Free Meals",
+        "rrule": "FREQ=WEEKLY;WKST=SU;UNTIL=20270602T065959Z;BYDAY=WE",
+        "date": "2025-09-03",
+        "time": "14:30",
+        "exdates": [
+          "2025-10-08",
+          "2025-12-24",
+          "2025-12-31"
+        ]
+      }
+    ]
+  }
+]
