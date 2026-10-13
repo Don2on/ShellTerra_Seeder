@@ -1,0 +1,317 @@
+{
+  "sites": [
+    {
+      "name": "Sikh Center of Orange County Food Pantry",
+      "org": "Sikh Center of Orange County (Gurdwara)",
+      "address": "2514 W Warner Ave, Santa Ana, CA 92704",
+      "phone": "(714) 756-8233",
+      "website": "https://sikhcenteroc.org/",
+      "eligibility": "Open to all, no questions asked",
+      "category": "faith",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "sat"
+          ],
+          "open": "09:00",
+          "close": "12:00",
+          "note": "Food pantry; gurdwara also serves daily langar free community meals"
+        }
+      ]
+    },
+    {
+      "name": "Orangethorpe Christian Church - Hot Meal Program",
+      "org": "Orangethorpe Christian Church (5-church collaborative)",
+      "address": "2200 W Orangethorpe Ave, Fullerton, CA 92833",
+      "phone": "(714) 871-3400",
+      "website": "",
+      "eligibility": "Anyone in need; no paperwork, no questions asked",
+      "category": "meal",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon"
+          ],
+          "open": "18:00",
+          "close": "19:00",
+          "note": "Free hot dinner"
+        }
+      ]
+    },
+    {
+      "name": "First Christian Church Fullerton - Hot Meals Ministry",
+      "org": "First Christian Church Fullerton",
+      "address": "109 E Wilshire Ave, Fullerton, CA 92832",
+      "phone": "(714) 525-5525",
+      "website": "https://www.fullertonfirstchristian.org/",
+      "eligibility": "Homeless and anyone in need; free",
+      "category": "meal",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "wed"
+          ],
+          "open": "18:00",
+          "close": "19:00",
+          "note": "Hot meal plus clothing and career counseling; ~100 served weekly"
+        }
+      ]
+    },
+    {
+      "name": "UCI Food Pantry (FRESH Basic Needs Center)",
+      "org": "University of California, Irvine - Basic Needs Center",
+      "address": "G302 Student Center, Irvine, CA 92697",
+      "phone": "",
+      "website": "https://basicneeds.uci.edu/food-pantry.php",
+      "eligibility": "UCI students (present Student ID or ID number)",
+      "category": "college",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "tue",
+            "wed"
+          ],
+          "open": "10:00",
+          "close": "15:00",
+          "note": "Fall 2025 hours; closed other days"
+        }
+      ]
+    },
+    {
+      "name": "CSUF ASI Food Pantry",
+      "org": "Associated Students, Cal State Fullerton",
+      "address": "Titan Student Union TSU-129, 800 N State College Blvd, Fullerton, CA 92831",
+      "phone": "",
+      "website": "https://asi.fullerton.edu/services/",
+      "eligibility": "Any enrolled CSUF student, regardless of financial status",
+      "category": "college",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon"
+          ],
+          "open": "13:00",
+          "close": "19:00",
+          "note": ""
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "tue",
+            "wed",
+            "thu"
+          ],
+          "open": "10:00",
+          "close": "19:00",
+          "note": ""
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "fri"
+          ],
+          "open": "10:00",
+          "close": "17:00",
+          "note": "Walk-ins accepted Fridays"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "sat"
+          ],
+          "open": "12:15",
+          "close": "15:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Chapman University - Panther Pantry",
+      "org": "Chapman University",
+      "address": "Morlan Hall 172, 318 N Glassell St, Orange, CA 92866",
+      "phone": "",
+      "website": "https://www.chapman.edu/students/services/food-pantry/index.aspx",
+      "eligibility": "Chapman students",
+      "category": "college",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open": "10:00",
+          "close": "18:00",
+          "note": "Fall/Spring hours"
+        }
+      ]
+    },
+    {
+      "name": "Santa Ana College - Fainbarg Chase Thrive Center",
+      "org": "Santa Ana College (RSCCD)",
+      "address": "2900 W Edinger Ave, Santa Ana, CA 92704",
+      "phone": "(714) 564-6458",
+      "website": "https://sac.edu/studentservices/thrivecenter/index.php",
+      "eligibility": "Santa Ana College students",
+      "category": "college",
+      "confidence": "medium",
+      "schedules": [],
+      "note": "Primary source (SAC SCE food-support page) confirms the Fainbarg Chase Thrive Center food pantry at Village-206, 2900 W Edinger Ave, Santa Ana CA 92704, phone (714) 564-6458, and that it is active for 2025-2026 (Spring 2026 programs listed). Specific food-pantry shopping hours are NOT reliably published: the Thrive Center office hours are Mon-Thu 8:00-17:00 / Fri 8:00-12:00, but these differ from pantry shopping hours (various unconfirmed snippets gave Mon-Thu 10:00-12:00 & 13:00-18:00, Fri 10:00-12:00). Pantry serves current SAC/SCE students only. Contact (714) 564-6458 / thrivecenter@sac.edu to confirm pantry hours. Note the main SAC campus is 1530 W 17th St 92706, but the SCE/Thrive food-support page lists the pantry at 2900 W Edinger Ave."
+    },
+    {
+      "name": "Golden West College - The Stand",
+      "org": "Golden West College (CCCD) - Basic Needs",
+      "address": "Recreation Building Room 100, 15744 Goldenwest St, Huntington Beach, CA 92647",
+      "phone": "(714) 892-7711 ext. 58160",
+      "website": "https://www.goldenwestcollege.edu/student-equity/the-stand/index.html",
+      "eligibility": "Golden West College students",
+      "category": "college",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "thu",
+            "fri"
+          ],
+          "open": "08:00",
+          "close": "17:00",
+          "note": ""
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "tue",
+            "wed"
+          ],
+          "open": "08:00",
+          "close": "10:00",
+          "note": "Closed ~10:00-13:00 for restocking"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "tue",
+            "wed"
+          ],
+          "open": "13:00",
+          "close": "17:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Saddleback College - Food Resource Center",
+      "org": "Saddleback College (SOCCCD) - Basic Needs",
+      "address": "Room PE 502, 28000 Marguerite Pkwy, Mission Viejo, CA 92692",
+      "phone": "(949) 348-6410",
+      "website": "https://www.saddleback.edu/student-support/care-corner",
+      "eligibility": "Saddleback College students",
+      "category": "college",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu"
+          ],
+          "open": "10:00",
+          "close": "16:00",
+          "note": ""
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "fri"
+          ],
+          "open": "10:00",
+          "close": "15:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Irvine Valley College - The Spot Pantry",
+      "org": "Irvine Valley College (SOCCCD) - Center for Basic Needs",
+      "address": "5500 Irvine Center Dr, Irvine, CA 92618",
+      "phone": "(949) 451-5364",
+      "website": "https://www.ivc.edu/the-spot/pantry",
+      "eligibility": "Irvine Valley College students",
+      "category": "college",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon"
+          ],
+          "open": "10:30",
+          "close": "13:00",
+          "note": ""
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "tue",
+            "wed",
+            "thu"
+          ],
+          "open": "10:30",
+          "close": "16:00",
+          "note": "Closed Fridays, weekends, holidays"
+        }
+      ]
+    },
+    {
+      "name": "Orange Coast College - Pirates' Cove Food Pantry",
+      "org": "Orange Coast College (CCCD) - OCC Cares Basic Needs",
+      "address": "Behind the bookstore, 2701 Fairview Rd, Costa Mesa, CA 92626",
+      "phone": "(714) 432-5794",
+      "website": "https://orangecoastcollege.edu/services-support/basic-needs/food-resources/",
+      "eligibility": "Orange Coast College students",
+      "category": "college",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu"
+          ],
+          "open": "10:00",
+          "close": "15:00",
+          "note": ""
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "fri"
+          ],
+          "open": "10:00",
+          "close": "13:00",
+          "note": ""
+        }
+      ]
+    }
+  ]
+}

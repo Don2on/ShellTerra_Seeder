@@ -1,0 +1,939 @@
+{
+  "sites": [
+    {
+      "name": "Mary's Table - Mary's Mercy Center",
+      "org": "Mary's Mercy Center",
+      "address": "641 Roberds Ave, San Bernardino, CA 92411",
+      "phone": "909-889-2558",
+      "website": "https://marysmercycenter.org/ministeries/marys-table/",
+      "eligibility": "Open to all; no ID required",
+      "category": "meal",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "sat",
+            "sun"
+          ],
+          "open": "11:30",
+          "close": "13:30",
+          "note": "Hot lunch; closed Fridays"
+        },
+        {
+          "freq": "monthly",
+          "days": [
+            "wed"
+          ],
+          "open": "08:00",
+          "close": "12:00",
+          "note": "Food baskets first three Wednesdays of each month"
+        }
+      ]
+    },
+    {
+      "name": "The Salvation Army - Ontario Corps",
+      "org": "The Salvation Army",
+      "address": "1412 S Euclid Ave, Ontario, CA 91762",
+      "phone": "909-986-6748",
+      "website": "https://www.salvationarmyusa.org/ca/ontario/s-euclid-avenue-corps/",
+      "eligibility": "Free; call to confirm",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "thu"
+          ],
+          "open": "09:30",
+          "close": "12:00",
+          "note": "By appointment only; call ahead"
+        }
+      ]
+    },
+    {
+      "name": "The Salvation Army - San Bernardino Corps",
+      "org": "The Salvation Army",
+      "address": "2626 Pacific St, Highland, CA 92346",
+      "phone": "909-792-6868",
+      "website": "https://sanbernardino.salvationarmy.org/",
+      "eligibility": "Free",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "wed"
+          ],
+          "open": "08:30",
+          "close": "15:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "The Salvation Army - Victor Valley Corps",
+      "org": "The Salvation Army",
+      "address": "14585 La Paz Dr, Victorville, CA 92395",
+      "phone": "760-245-2545",
+      "website": "https://victorvalley.salvationarmy.org/",
+      "eligibility": "Free",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "tue",
+            "wed",
+            "thu"
+          ],
+          "open": "09:00",
+          "close": "12:00",
+          "note": "Food pantry"
+        }
+      ]
+    },
+    {
+      "name": "Redlands Family Service Association",
+      "org": "Redlands Family Service Association",
+      "address": "612 Lawton St, Redlands, CA 92374",
+      "phone": "909-793-2673",
+      "website": "https://www.redlandsfamilyservice.org/",
+      "eligibility": "Open to the public; no eligibility requirement for meals",
+      "category": "meal",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open": "10:00",
+          "close": "11:00",
+          "note": "Nutritional support meals served to the public; food boxes also available during office hours 8:30-16:30"
+        }
+      ]
+    },
+    {
+      "name": "Foothill Family Shelter Food Pantry",
+      "org": "Foothill Family Shelter",
+      "address": "1501 W 9th St Ste D, Upland, CA 91786",
+      "phone": "909-920-0453",
+      "website": "https://www.foothillfamilyshelter.org/",
+      "eligibility": "Serves Upland, Rancho Cucamonga, Montclair, Ontario",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open": "09:00",
+          "close": "17:00",
+          "note": "Closed 12:00-13:00 for lunch"
+        }
+      ]
+    },
+    {
+      "name": "Eagle Food Pantry",
+      "org": "Eagle Food Pantry",
+      "address": "7950 Cherry Ave Unit 111, Fontana, CA 92336",
+      "phone": "951-313-6816",
+      "website": "",
+      "eligibility": "Free",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "tue"
+          ],
+          "open": "17:45",
+          "close": "18:45",
+          "note": ""
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "sat"
+          ],
+          "open": "09:30",
+          "close": "11:30",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Sunrise Church - Peace Community Resource Center",
+      "org": "Sunrise Church",
+      "address": "690 W Etiwanda Ave, Rialto, CA 92376",
+      "phone": "909-875-5566",
+      "website": "https://www.sunrisechurch.org/centrodepaz",
+      "eligibility": "Free; drive-thru",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon"
+          ],
+          "open": "09:00",
+          "close": "12:00",
+          "note": ""
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open": "09:00",
+          "close": "16:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Colton Community Church Food Pantry",
+      "org": "Colton Community Church",
+      "address": "1301 N Rancho Ave, Colton, CA 92324",
+      "phone": "909-825-0381",
+      "website": "https://www.coltoncommunitychurch.com/",
+      "eligibility": "Free",
+      "category": "faith",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "sun"
+          ],
+          "open": "12:00",
+          "close": "13:00",
+          "note": ""
+        },
+        {
+          "freq": "monthly",
+          "days": [
+            "mon"
+          ],
+          "open": "17:00",
+          "close": "18:30",
+          "note": "Last Monday of the month"
+        }
+      ]
+    },
+    {
+      "name": "Cucamonga Christian Fellowship - Compassion Center",
+      "org": "Cucamonga Christian Fellowship",
+      "address": "11376 5th Street, Rancho Cucamonga, CA 91730",
+      "phone": "909-945-5333",
+      "website": "https://www.ccflive.org",
+      "eligibility": "Free",
+      "category": "faith",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "sat"
+          ],
+          "open": "10:00",
+          "close": "12:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Neighborhood Vineyard Church Food Distribution",
+      "org": "Neighborhood Vineyard Church",
+      "address": "11966 Jack Benny Dr Suite 104, Rancho Cucamonga, CA 91739",
+      "phone": "909-646-8860",
+      "website": "https://nvcfamily.org/food-pantry/",
+      "eligibility": "Free; drive-through",
+      "category": "faith",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "days": [
+            "sat"
+          ],
+          "open": "10:00",
+          "close": "12:00",
+          "note": "3rd Saturday; drive-thru"
+        }
+      ]
+    },
+    {
+      "name": "Impact Christian Church Food Pantry (Victor Valley Rescue Mission)",
+      "org": "Impact Christian Church / Victor Valley Rescue Mission",
+      "address": "17746 George Blvd, Victorville, CA 92394",
+      "phone": "760-246-4100",
+      "website": "https://www.greaterimpact.cc/",
+      "eligibility": "Anyone in need, all ages; walk-ins accepted",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "tue"
+          ],
+          "open": "11:00",
+          "close": "12:00",
+          "note": "Drive-up"
+        }
+      ]
+    },
+    {
+      "name": "Samaritans Helping Hand Food Pantry",
+      "org": "Samaritans Helping Hand",
+      "address": "15527 8th St, Victorville, CA 92395",
+      "phone": "760-243-5933",
+      "website": "",
+      "eligibility": "ID and Social Security required",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open": "10:00",
+          "close": "12:00",
+          "note": "ID and SSN required"
+        }
+      ]
+    },
+    {
+      "name": "Restoration Center - Seventh-day Adventist Church",
+      "org": "Restoration Center SDA Church",
+      "address": "16673 Avalon Ave, Victorville, CA 92395",
+      "phone": "760-243-2525",
+      "website": "https://www.restorationcentersda.org/",
+      "eligibility": "Free; bring your own bags",
+      "category": "faith",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "wed"
+          ],
+          "open": "11:00",
+          "close": "13:30",
+          "note": "Bring your own bags"
+        }
+      ]
+    },
+    {
+      "name": "Victorville Peace Center - Sonrise Church",
+      "org": "Sonrise Church",
+      "address": "13495 Arrowhead Dr, Victorville, CA 92395",
+      "phone": "760-241-0168",
+      "website": "https://www.sunrisechurch.org/victorville",
+      "eligibility": "Free",
+      "category": "faith",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open": "09:00",
+          "close": "12:00",
+          "note": "Valid photo ID required; once per 7 days"
+        }
+      ]
+    },
+    {
+      "name": "The Gate Church Food Distribution",
+      "org": "The Gate Church",
+      "address": "11783 Amethyst Rd, Victorville, CA 92392",
+      "phone": "760-949-8979",
+      "website": "",
+      "eligibility": "ID and proof of residency required",
+      "category": "faith",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon"
+          ],
+          "open": "09:00",
+          "close": "12:00",
+          "note": "ID and proof of residency required"
+        }
+      ]
+    },
+    {
+      "name": "Trinity Lutheran Church Food Pantry",
+      "org": "Trinity Lutheran Church",
+      "address": "16138 Molino Dr, Victorville, CA 92395",
+      "phone": "760-245-3225",
+      "website": "",
+      "eligibility": "Free",
+      "category": "faith",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu"
+          ],
+          "open": "09:00",
+          "close": "13:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Holy Family Catholic Church Food Distribution",
+      "org": "Holy Family Catholic Church",
+      "address": "9974 I Ave, Hesperia, CA 92345",
+      "phone": "760-244-9180",
+      "website": "https://www.holyfamilyhd.org/",
+      "eligibility": "Free",
+      "category": "faith",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "days": [
+            "wed"
+          ],
+          "open": "10:00",
+          "close": "12:00",
+          "note": "2nd Wednesday of the month"
+        },
+        {
+          "freq": "monthly",
+          "days": [
+            "wed"
+          ],
+          "open": "10:00",
+          "close": "12:00",
+          "note": "3rd Wednesday of the month"
+        }
+      ]
+    },
+    {
+      "name": "Apple Valley Church of the Nazarene Food Distribution",
+      "org": "Apple Valley Church of the Nazarene",
+      "address": "12935 Central Rd, Apple Valley, CA 92308",
+      "phone": "760-247-8433",
+      "website": "https://avnaz.org/food-distribution",
+      "eligibility": "Free",
+      "category": "faith",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "days": [
+            "fri"
+          ],
+          "open": "10:00",
+          "close": "12:00",
+          "note": "3rd Friday; proof of income/ID/residency required"
+        }
+      ]
+    },
+    {
+      "name": "Oasis Community Church - Alex Ross Ford Food Pantry",
+      "org": "Oasis Community Church",
+      "address": "6631 Utah Trail, Twentynine Palms, CA 92277",
+      "phone": "442-529-2657",
+      "website": "https://occ29palms.org/",
+      "eligibility": "Free",
+      "category": "faith",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "thu"
+          ],
+          "open": "10:00",
+          "close": "12:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Set Free Church 29 Palms Food Pantry",
+      "org": "Set Free Church",
+      "address": "82575 Amboy Rd, Twentynine Palms, CA 92277",
+      "phone": "760-361-1339",
+      "website": "https://setfree-wondervalley.org/food-ministry",
+      "eligibility": "Free",
+      "category": "faith",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu"
+          ],
+          "open": "08:00",
+          "close": "17:00",
+          "note": "Primarily non-perishable"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "fri"
+          ],
+          "open": "13:00",
+          "close": "17:00",
+          "note": "Main distribution incl. perishables"
+        }
+      ],
+      "lat": 34.16426,
+      "lng": -115.85929
+    },
+    {
+      "name": "Sanctuary Church (Spirit and Truth) Food Distribution",
+      "org": "Sanctuary Church / Spirit and Truth",
+      "address": "4751 Adobe Rd, Twentynine Palms, CA 92277",
+      "phone": "760-361-2450",
+      "website": "",
+      "eligibility": "Free",
+      "category": "faith",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "tue"
+          ],
+          "open": "17:00",
+          "close": "18:00",
+          "note": "USDA distribution 3rd Tuesday of the month"
+        }
+      ]
+    },
+    {
+      "name": "Yucca Valley Church of the Nazarene Food Distribution",
+      "org": "Yucca Valley Church of the Nazarene",
+      "address": "56248 Buena Vista Dr, Yucca Valley, CA 92284",
+      "phone": "760-362-3581",
+      "website": "https://findfoodbank.org/locations/yucca-valley-church-of-the-nazarene/",
+      "eligibility": "Free; drive-thru only",
+      "category": "faith",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "days": [
+            "thu"
+          ],
+          "open": "11:30",
+          "close": "12:30",
+          "note": "2nd Thursday of the month or until all food is distributed"
+        }
+      ]
+    },
+    {
+      "name": "First Christian Church of Yucca Valley Food Pantry",
+      "org": "First Christian Church of Yucca Valley",
+      "address": "56284 Buena Vista Dr, Yucca Valley, CA 92284",
+      "phone": "760-365-4014",
+      "website": "https://firstchurchyuccavalley.com/",
+      "eligibility": "Free",
+      "category": "faith",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open": "09:00",
+          "close": "15:00",
+          "note": ""
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "sun"
+          ],
+          "open": "11:00",
+          "close": "12:30",
+          "note": "After church services"
+        }
+      ]
+    },
+    {
+      "name": "Obershaw DEN Food Pantry (CSUSB)",
+      "org": "California State University San Bernardino - Basic Needs",
+      "address": "5500 University Pkwy, San Bernardino, CA 92407",
+      "phone": "909-537-3663",
+      "website": "https://www.csusb.edu/basic-needs/food-security/obershaw-den",
+      "eligibility": "Currently enrolled CSUSB students",
+      "category": "college",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "tue",
+            "wed",
+            "thu"
+          ],
+          "open": "09:00",
+          "close": "17:00",
+          "note": "Student Union South 224; hours vary by term - call to confirm"
+        }
+      ]
+    },
+    {
+      "name": "Blue's Pantry (San Bernardino Valley College)",
+      "org": "San Bernardino Valley College - Basic Needs",
+      "address": "701 S Mt Vernon Ave, San Bernardino, CA 92410",
+      "phone": "909-384-4400",
+      "website": "https://www.valleycollege.edu/about-sbvc/facilities/blues-pantry/index.php",
+      "eligibility": "Currently enrolled SBVC students",
+      "category": "college",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "tue",
+            "wed",
+            "thu"
+          ],
+          "open": "10:00",
+          "close": "16:00",
+          "note": "Fall/Spring hours; call ahead"
+        }
+      ]
+    },
+    {
+      "name": "Crafton Hills College Campus Food Pantry",
+      "org": "Crafton Hills College - Basic Needs",
+      "address": "11711 Sand Canyon Rd, Yucaipa, CA 92399",
+      "phone": "909-389-3233",
+      "website": "https://www.craftonhills.edu/current-students/food-pantry/index.php",
+      "eligibility": "Registered CHC students only",
+      "category": "college",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "thu"
+          ],
+          "open": "09:00",
+          "close": "18:00",
+          "note": "Room CCR-153"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "tue",
+            "wed"
+          ],
+          "open": "09:00",
+          "close": "19:00",
+          "note": "Room CCR-153"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "fri"
+          ],
+          "open": "09:00",
+          "close": "13:00",
+          "note": "Room CCR-153"
+        }
+      ]
+    },
+    {
+      "name": "Chaffey College Panther Pantry (Panther Care)",
+      "org": "Chaffey College - Panther Care Program",
+      "address": "5885 Haven Ave, Rancho Cucamonga, CA 91737",
+      "phone": "909-652-6534",
+      "website": "https://www.chaffey.edu/spops/panther-care/index.php",
+      "eligibility": "Actively enrolled Chaffey College students (student ID required)",
+      "category": "college",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open": "07:30",
+          "close": "16:30",
+          "note": "Farmers Market Thursdays 11:00-14:00 open to community"
+        }
+      ]
+    },
+    {
+      "name": "VVC PEAK Pantry (Victor Valley College)",
+      "org": "Victor Valley College - Basic Needs / THRIVE",
+      "address": "18422 Bear Valley Rd, Victorville, CA 92395",
+      "phone": "760-245-4271",
+      "website": "https://www.vvc.edu/student-parents/food-cash-aid",
+      "eligibility": "Enrolled VVC students (student ID required)",
+      "category": "college",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open": "10:00",
+          "close": "15:00",
+          "note": "Student Activities Center (Bldg 44)"
+        }
+      ]
+    },
+    {
+      "name": "Chino Senior Center - Congregate Meals",
+      "org": "San Bernardino County Dept. of Aging and Adult Services",
+      "address": "13170 Central Ave, Chino, CA 91710",
+      "phone": "909-334-3453",
+      "website": "",
+      "eligibility": "Seniors 60+; suggested donation",
+      "category": "senior",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open": "11:30",
+          "close": "12:30",
+          "note": "Dine-in hot lunch"
+        }
+      ]
+    },
+    {
+      "name": "James L. Brulte Senior Center - Congregate Meals",
+      "org": "City of Rancho Cucamonga / San Bernardino County DAAS",
+      "address": "11200 Base Line Rd, Rancho Cucamonga, CA 91701",
+      "phone": "909-477-2780",
+      "website": "https://www.cityofrc.us/news/congregate-meals",
+      "eligibility": "Seniors 60+; suggested donation $3",
+      "category": "senior",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open": "11:30",
+          "close": "12:30",
+          "note": "David Dreier Hall; hot lunch"
+        }
+      ]
+    },
+    {
+      "name": "Lytle Creek Community Center - Senior Nutrition",
+      "org": "City of San Bernardino Parks, Recreation and Community Services",
+      "address": "380 S K St, San Bernardino, CA 92410",
+      "phone": "909-384-5424",
+      "website": "",
+      "eligibility": "Seniors 60+; suggested donation",
+      "category": "senior",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open": "12:00",
+          "close": "12:30",
+          "note": "Grab-and-go"
+        }
+      ]
+    },
+    {
+      "name": "Perris Hill Senior Center - Congregate Meals",
+      "org": "City of San Bernardino / San Bernardino County DAAS",
+      "address": "780 E 21st St, San Bernardino, CA 92404",
+      "phone": "909-384-5436",
+      "website": "",
+      "eligibility": "Seniors 60+; suggested donation",
+      "category": "senior",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open": "11:30",
+          "close": "12:30",
+          "note": "Grab-and-go/dine-in; shares building with Benjamin E. Jones center - verify"
+        }
+      ]
+    },
+    {
+      "name": "New Hope Family Center - Senior Nutrition",
+      "org": "San Bernardino County Dept. of Aging and Adult Services",
+      "address": "1505 W Highland Ave, San Bernardino, CA 92411",
+      "phone": "909-473-9120",
+      "website": "https://www.sanbernardino.gov/404/Older-Californians-Nutrition-Program",
+      "eligibility": "Seniors 60+; suggested donation",
+      "category": "senior",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open": "11:30",
+          "close": "12:30",
+          "note": "Grab-and-go; seniors 60+; $4 suggested donation"
+        }
+      ]
+    },
+    {
+      "name": "Scherer/Yucaipa Senior Nutrition Center (FSA)",
+      "org": "Family Service Association / City of Yucaipa",
+      "address": "12202 First St, Yucaipa, CA 92399",
+      "phone": "909-790-3170",
+      "website": "https://www.fsaca.org/programs/senior-nutrition/",
+      "eligibility": "Seniors 60+; suggested donation, none turned away",
+      "category": "senior",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open": "11:30",
+          "close": "12:30",
+          "note": "Check-in begins 10:45; next to Scherer Community Center"
+        }
+      ]
+    },
+    {
+      "name": "Redlands Community Center Senior Nutrition (FSA)",
+      "org": "Family Service Association",
+      "address": "111 W Lugonia Ave, Redlands, CA 92374",
+      "phone": "909-790-3170",
+      "website": "https://www.fsaca.org/programs/senior-nutrition/",
+      "eligibility": "Seniors 60+; suggested donation $3, none turned away",
+      "category": "senior",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open": "11:30",
+          "close": "12:30",
+          "note": "Hot lunch"
+        }
+      ]
+    },
+    {
+      "name": "George White Senior Nutrition - Fontana",
+      "org": "San Bernardino County Dept. of Aging and Adult Services",
+      "address": "8565 Nuevo St, Fontana, CA 92335",
+      "phone": "909-822-4493",
+      "website": "https://www.fsaca.org/",
+      "eligibility": "Seniors 60+; suggested donation",
+      "category": "senior",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "wed"
+          ],
+          "open": "10:30",
+          "close": "11:30",
+          "note": "Grab-and-go; seniors 60+; $1-$3 donation"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,730 @@
+{
+  "_meta": {
+    "topic": "Mendocino County food distributions",
+    "generated": "2026-10-11",
+    "source": "Hand-collected list (Mendo Food Network, Merced County Food Bank, T.E.A.C.H. Inc., IMACA/FBNN). Schedules parsed via LA clause parser. lat/lng geocoded downstream.",
+    "note": "Drop-in raw for prepare-food-additions.mjs. \"Monthly (date varies)\" / \"daily\" / single start-times route to _deferred."
+  },
+  "sites": [
+    {
+      "name": "Albion Pop-Up",
+      "org": "Albion Pop-Up",
+      "address": "3512 Albion Ridge Rd, Albion, CA 95410",
+      "phone": "(707) 615-6654",
+      "eligibility": "",
+      "website": "https://www.mendofood.org/find-food",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 4-5pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "16:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Comptche Food Pantry (Chapel of the Redwoods)",
+      "org": "Comptche Food Pantry (Chapel of the Redwoods)",
+      "address": "31201 Comptche Ukiah Rd, Comptche, CA 95427",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.mendofood.org/find-food",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 2-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "14:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Covelo Pop-Up",
+      "org": "Covelo Pop-Up",
+      "address": "24065 Riffe Rd, Covelo, CA 95428",
+      "phone": "(707) 615-6654",
+      "eligibility": "",
+      "website": "https://www.mendofood.org/find-food",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Thu 12-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Round Valley Food Bank",
+      "org": "Round Valley Food Bank",
+      "address": "24065 Riffe Rd, Covelo, CA 95428",
+      "phone": "(707) 983-6262",
+      "eligibility": "",
+      "website": "https://www.mendofood.org/find-food",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Fri 10am-2pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Fri"
+          ],
+          "open": "10:00",
+          "close": "14:00"
+        }
+      ],
+      "allowColocated": true
+    },
+    {
+      "name": "Fort Bragg Food Bank",
+      "org": "Fort Bragg Food Bank",
+      "address": "910 N Franklin St, Fort Bragg, CA 95437",
+      "phone": "(707) 964-9404",
+      "eligibility": "",
+      "website": "https://www.mendofood.org/find-food",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Seniors Mon, Wed, Fri 10-10:30am; all ages Mon 10:30am-4pm, Wed 10:30am-5:30pm, Fri 10:30am-4pm; curbside Tue 10am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed",
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "10:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "10:30",
+          "close": "16:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "10:30",
+          "close": "17:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "10:30",
+          "close": "16:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Mendocino Coast Hospitality House (meals)",
+      "org": "Mendocino Coast Hospitality House (meals)",
+      "address": "237 N. McPherson St, Fort Bragg, CA 95437",
+      "phone": "(707) 961-0172",
+      "eligibility": "",
+      "website": "https://www.mendofood.org/find-food",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Meals Mon-Fri 3pm; bag lunch Tue & Thu 10am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Redwood Coast Senior Center (lunch)",
+      "org": "Redwood Coast Senior Center (lunch)",
+      "address": "490 N Harold St, Fort Bragg, CA 95437",
+      "phone": "(707) 964-0443",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Daily lunch 11:30am-12:30pm",
+      "schedules": []
+    },
+    {
+      "name": "St. Vincent de Paul Bag Lunch",
+      "org": "St. Vincent de Paul Bag Lunch",
+      "address": "255 S. Harold St, Fort Bragg, CA 95437",
+      "phone": "(707) 964-8829",
+      "eligibility": "",
+      "website": "https://www.mendofood.org/find-food",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sun 12-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sun"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Trinity Lutheran Bag Lunch",
+      "org": "Trinity Lutheran Bag Lunch",
+      "address": "620 E Redwood Ave, Fort Bragg, CA 95437",
+      "phone": "(707) 964-0681",
+      "eligibility": "",
+      "website": "https://www.mendofood.org/find-food",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 12-12:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "00:00",
+          "close": "12:30"
+        }
+      ]
+    },
+    {
+      "name": "Coastal Seniors Community Lunch (Gualala)",
+      "org": "Coastal Seniors Community Lunch (Gualala)",
+      "address": "47950 Center St, Gualala, CA 95445",
+      "phone": "(707) 882-2137",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 11:30am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "11:30",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Gualala Food Bank (Gualala Baptist Church)",
+      "org": "Gualala Food Bank (Gualala Baptist Church)",
+      "address": "37300 Church St, Gualala, CA 95445",
+      "phone": "(707) 884-4330",
+      "eligibility": "",
+      "website": "https://www.mendofood.org/find-food",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Wed 11am-12:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed"
+          ],
+          "open": "11:00",
+          "close": "12:30"
+        }
+      ]
+    },
+    {
+      "name": "Laytonville Food Bank (Healthy Start)",
+      "org": "Laytonville Food Bank (Healthy Start)",
+      "address": "44400 Willis Ave, Laytonville, CA 95454",
+      "phone": "(707) 984-8089",
+      "eligibility": "",
+      "website": "https://www.mendofood.org/find-food",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Fri 1-4pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Fri"
+          ],
+          "open": "13:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Laytonville Pop-Up",
+      "org": "Laytonville Pop-Up",
+      "address": "300 Cahto Dr, Laytonville, CA 95454",
+      "phone": "(707) 615-6654",
+      "eligibility": "",
+      "website": "https://www.mendofood.org/find-food",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Thu 12-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Thu"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Leggett Food Pantry",
+      "org": "Leggett Food Pantry",
+      "address": "65100 Drive-Thru Tree Rd, Leggett, CA 95585",
+      "phone": "(707) 354-3465",
+      "eligibility": "",
+      "website": "https://www.mendofood.org/find-food",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Sat 10am-12:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "10:00",
+          "close": "12:30"
+        }
+      ]
+    },
+    {
+      "name": "Leggett Pop-Up",
+      "org": "Leggett Pop-Up",
+      "address": "65100 Drive-Thru Tree Rd, Leggett, CA 95585",
+      "phone": "(707) 615-6654",
+      "eligibility": "",
+      "website": "https://www.mendofood.org/find-food",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Tue 12-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Tue"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ],
+      "allowColocated": true
+    },
+    {
+      "name": "Mendocino Community Pantry (Mendocino Presbyterian Church)",
+      "org": "Mendocino Community Pantry (Mendocino Presbyterian Church)",
+      "address": "44831 Main St, Mendocino, CA 95460",
+      "phone": "(707) 937-5441",
+      "eligibility": "",
+      "website": "https://www.mendofood.org/find-food",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 1:30-3pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "13:30",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Anderson Valley Food Bank (Philo Grange)",
+      "org": "Anderson Valley Food Bank (Philo Grange)",
+      "address": "9800 Hwy 128, Philo, CA 95466",
+      "phone": "(707) 357-7735",
+      "eligibility": "",
+      "website": "https://www.mendofood.org/find-food",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Wed 2:30-5:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed",
+            "4th Wed"
+          ],
+          "open": "14:30",
+          "close": "17:30"
+        }
+      ]
+    },
+    {
+      "name": "Coastal Seniors / Point Arena Food Bank (Veterans Hall)",
+      "org": "Coastal Seniors / Point Arena Food Bank (Veterans Hall)",
+      "address": "24000 S. Hwy 1, Point Arena, CA 95468",
+      "phone": "(707) 882-2137",
+      "eligibility": "",
+      "website": "https://www.mendofood.org/find-food",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Tue 8:30-10:30am & 3-4pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue"
+          ],
+          "open": "08:30",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "Plowshares Peace and Justice Center (meals)",
+      "org": "Plowshares Peace and Justice Center (meals)",
+      "address": "1346 S. State St, Ukiah, CA 95482",
+      "phone": "(707) 462-8582",
+      "eligibility": "",
+      "website": "https://www.mendofood.org/find-food",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri lunch from 11:30am",
+      "schedules": []
+    },
+    {
+      "name": "Ukiah Community Food Bank",
+      "org": "Ukiah Community Food Bank",
+      "address": "888 N State St, Ukiah, CA 95482",
+      "phone": "(707) 463-2409",
+      "eligibility": "",
+      "website": "https://www.mendofood.org/find-food",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 9am-12pm; Wed 12-4pm; Thu 9am-2pm; Fri 12-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "12:00",
+          "close": "16:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "09:00",
+          "close": "14:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "12:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Ukiah Seventh Day Adventist",
+      "org": "Ukiah Seventh Day Adventist",
+      "address": "200 Wabash Ave, Ukiah, CA 95482",
+      "phone": "(707) 462-5455",
+      "eligibility": "",
+      "website": "https://www.mendofood.org/find-food",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 6-7pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "18:00",
+          "close": "19:00"
+        }
+      ]
+    },
+    {
+      "name": "United Disaster Relief of Northern California",
+      "org": "United Disaster Relief of Northern California",
+      "address": "650 Babcock Ln, Ukiah, CA 95482",
+      "phone": "(707) 489-3970",
+      "eligibility": "",
+      "website": "https://www.mendofood.org/find-food",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 10am-2pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Vision Family Resource Center",
+      "org": "Vision Family Resource Center",
+      "address": "102 Scott St, Ukiah, CA 95482",
+      "phone": "(707) 467-3210",
+      "eligibility": "",
+      "website": "https://www.mendofood.org/find-food",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 10am-5pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Westport Choice Pantry",
+      "org": "Westport Choice Pantry",
+      "address": "37551 N. Shoreline Hwy, Westport, CA 95488",
+      "phone": "(707) 972-3583",
+      "eligibility": "",
+      "website": "https://www.mendofood.org/find-food",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Wed 6-8pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Wed"
+          ],
+          "open": "18:00",
+          "close": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "Nuestra Alianza De Willits",
+      "org": "Nuestra Alianza De Willits",
+      "address": "291 School St, Willits, CA 95490",
+      "phone": "(707) 456-9418",
+      "eligibility": "",
+      "website": "https://www.mendofood.org/find-food",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 9am-5:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "09:00",
+          "close": "17:30"
+        }
+      ]
+    },
+    {
+      "name": "Willits Community Services and Food Bank",
+      "org": "Willits Community Services and Food Bank",
+      "address": "344 Railroad Ave, Willits, CA 95490",
+      "phone": "(707) 459-3333",
+      "eligibility": "",
+      "website": "https://www.mendofood.org/find-food",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed & Fri 11am-4:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed",
+            "Fri"
+          ],
+          "open": "11:00",
+          "close": "16:30"
+        }
+      ]
+    },
+    {
+      "name": "Willits Daily Bread (meals)",
+      "org": "Willits Daily Bread (meals)",
+      "address": "66 E Commercial St, Willits, CA 95490",
+      "phone": "(707) 367-5669",
+      "eligibility": "",
+      "website": "https://www.mendofood.org/find-food",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Thu 4:30-5:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "16:30",
+          "close": "17:30"
+        }
+      ]
+    },
+    {
+      "name": "Willits Pop-Up",
+      "org": "Willits Pop-Up",
+      "address": "1250 Blosser Ln, Willits, CA 95490",
+      "phone": "(707) 615-6654",
+      "eligibility": "",
+      "website": "https://www.mendofood.org/find-food",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Thu 10-11:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu"
+          ],
+          "open": "10:00",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Willits Senior Center (lunch)",
+      "org": "Willits Senior Center (lunch)",
+      "address": "1501 Baechtel Rd, Willits, CA 95490",
+      "phone": "(707) 459-6826",
+      "eligibility": "",
+      "website": "https://www.mendofood.org/find-food",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 11:45am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "11:45",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Community Care Management Corp.",
+      "org": "Community Care Management Corp.",
+      "address": "301 S State St, Ukiah, CA 95482",
+      "phone": "(707) 468-9347",
+      "eligibility": "",
+      "website": "https://www.mendofood.org/find-food",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "",
+      "schedules": []
+    },
+    {
+      "name": "Mendocino College (student pantry)",
+      "org": "Mendocino College (student pantry)",
+      "address": "1000 Hensley Creek Rd, Ukiah, CA 95482",
+      "phone": "(707) 468-3000",
+      "eligibility": "",
+      "website": "https://www.mendofood.org/find-food",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "",
+      "schedules": []
+    },
+    {
+      "name": "South Ukiah Rotary (children's backpack program)",
+      "org": "South Ukiah Rotary (children's backpack program)",
+      "address": "115 S Orchard Ave, Ukiah, CA 95482",
+      "phone": "(707) 674-7767",
+      "eligibility": "",
+      "website": "https://www.mendofood.org/find-food",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "",
+      "schedules": []
+    },
+    {
+      "name": "The Hunger Express (weekend sack lunches)",
+      "org": "The Hunger Express (weekend sack lunches)",
+      "address": ", Ukiah, CA 95482",
+      "phone": "(707) 972-3157",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "",
+      "schedules": []
+    }
+  ]
+}

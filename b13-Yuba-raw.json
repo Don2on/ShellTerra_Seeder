@@ -1,0 +1,55 @@
+{
+  "_meta": {
+    "topic": "Yuba County food distributions",
+    "generated": "2026-10-11",
+    "source": "Hand-collected list (FOOD Share of Ventura County, Yolo Food Bank, Feed America). Schedules parsed via LA clause parser.",
+    "note": "Ventura/Yuba net-new; Yolo = additions to existing shell (prepare with --existing + real --shell-id)."
+  },
+  "sites": [
+    {
+      "name": "St. John's Episcopal Church - Loaves and Britches Food Pantry",
+      "org": "St. John's Episcopal Church - Loaves and Britches Food Pantry",
+      "address": "800 D St, Marysville, CA 95901",
+      "phone": "(530) 741-1165",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 9:30am-11:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "09:30",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Foothill Intermediate School",
+      "org": "Foothill Intermediate School",
+      "address": "5351 Fruitland Rd, Loma Rica, CA 95901",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Thu 9:30am-10:15am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "09:30",
+          "close": "10:15"
+        }
+      ]
+    }
+  ]
+}

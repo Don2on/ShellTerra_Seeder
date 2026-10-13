@@ -1,0 +1,693 @@
+{
+  "_meta": {
+    "topic": "Net-new Kings County food distributions",
+    "generated": "2026-10-05",
+    "source": "Research supplementing shell PENDING-Kings; raw ./b14-Kings-raw.json."
+  },
+  "_deferred": {
+    "add-cos-hanford": {
+      "title": "COS Hanford",
+      "status": "College of the Sequoias students only Phone: 559-688-3060.",
+      "address": "925 13th Ave, Hanford, CA 93230",
+      "lat": 36.333668,
+      "lng": -119.689841,
+      "phone": "559-688-3060",
+      "eligibility": "",
+      "sourceUrl": "https://ccfoodbank.org/find-food/food-locator/"
+    }
+  },
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "add-armona-mobile-pantry-m14-1000",
+      "seriesSlug": "add-armona-mobile-pantry",
+      "title": "Armona Mobile Pantry — Free Food",
+      "description": "Free food at Armona Mobile Pantry. Schedule: 1st Thu 10 AM–12 PM. Call (559) 237-3663 ext. 1108 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Armona Mobile Pantry",
+      "address": "13701 Hood Ave, Armona, CA 93202",
+      "lat": 36.310294,
+      "lng": -119.703233,
+      "category": "food-assistance",
+      "sourceOrg": "Armona Mobile Pantry",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "1st Thu 10 AM–12 PM",
+      "start": "2026-10-08T10:00",
+      "end": "2026-10-08T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-kings-county-commission-on-aging-neighborhood-ma-m13-1000",
+      "seriesSlug": "add-kings-county-commission-on-aging-neighborhood-ma",
+      "title": "Kings County Commission on Aging - Neighborhood Market — Free Food",
+      "description": "Free food at Kings County Commission on Aging - Neighborhood Market. Schedule: 1st Wed 10 AM–12:30 PM. Call (559) 237-3663 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Kings County Commission on Aging - Neighborhood Market",
+      "address": "10953 14th St, Armona, CA 93202",
+      "lat": 36.314435,
+      "lng": -119.70862,
+      "category": "food-assistance",
+      "sourceOrg": "Kings County Commission on Aging - Neighborhood Market",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "1st Wed 10 AM–12:30 PM",
+      "start": "2026-10-07T10:00",
+      "end": "2026-10-07T12:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "1:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-avenal-rotary-club-m43-1000",
+      "seriesSlug": "add-avenal-rotary-club",
+      "title": "Avenal Rotary Club — Free Food",
+      "description": "Free food at Avenal Rotary Club. Schedule: 4th Wed 10 AM–12 PM. Call 559-572-4430 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Avenal Rotary Club",
+      "address": "108 W. Kings St, Avenal, CA 93204",
+      "lat": 36.002266,
+      "lng": -120.138457,
+      "category": "food-assistance",
+      "sourceOrg": "Avenal Rotary Club",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "4th Wed 10 AM–12 PM",
+      "start": "2026-10-07T10:00",
+      "end": "2026-10-07T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "4:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-casa-de-dios-christian-fellowship-m15-1500",
+      "seriesSlug": "add-casa-de-dios-christian-fellowship",
+      "title": "Casa De Dios Christian Fellowship — Free Food",
+      "description": "Free food at Casa De Dios Christian Fellowship. Schedule: 1st Fri 3 PM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Casa De Dios Christian Fellowship",
+      "address": "1037 S. 7th Ave, Avenal, CA 93204",
+      "lat": 35.99705,
+      "lng": -120.12845,
+      "category": "food-assistance",
+      "sourceOrg": "Casa De Dios Christian Fellowship",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "1st Fri 3 PM–5 PM",
+      "start": "2026-10-09T15:00",
+      "end": "2026-10-09T17:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "1:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-iglesia-cristiana-siervos-de-cristo-m31-1000",
+      "seriesSlug": "add-iglesia-cristiana-siervos-de-cristo",
+      "title": "Iglesia Cristiana Siervos de Cristo — Free Food",
+      "description": "Free food at Iglesia Cristiana Siervos de Cristo. Schedule: 3rd Mon 10 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Iglesia Cristiana Siervos de Cristo",
+      "address": "849 Skyline Blvd, Avenal, CA 93204",
+      "lat": 36.00658,
+      "lng": -120.12489,
+      "category": "food-assistance",
+      "sourceOrg": "Iglesia Cristiana Siervos de Cristo",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Mon 10 AM–12 PM",
+      "start": "2026-10-05T10:00",
+      "end": "2026-10-05T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "3:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-iglesia-cristiana-siervos-de-cristo-neighborhood-m31-0900",
+      "seriesSlug": "add-iglesia-cristiana-siervos-de-cristo-neighborhood",
+      "title": "Iglesia Cristiana Siervos de Cristo - Neighborhood Market — Free Food",
+      "description": "Free food at Iglesia Cristiana Siervos de Cristo - Neighborhood Market. Schedule: 3rd Mon 9 AM–12 PM. Call 559-816-5052 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Iglesia Cristiana Siervos de Cristo - Neighborhood Market",
+      "address": "849 Skyline Blvd, Avenal, CA 93204",
+      "lat": 36.00658,
+      "lng": -120.12489,
+      "category": "food-assistance",
+      "sourceOrg": "Iglesia Cristiana Siervos de Cristo - Neighborhood Market",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Mon 9 AM–12 PM",
+      "start": "2026-10-05T09:00",
+      "end": "2026-10-05T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "3:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-iglesia-cristiana-siervos-de-cristo-inc-pantry-w135-1700",
+      "seriesSlug": "add-iglesia-cristiana-siervos-de-cristo-inc-pantry",
+      "title": "Iglesia Cristiana Siervos de Cristo Inc. - Pantry — Free Food",
+      "description": "Free food at Iglesia Cristiana Siervos de Cristo Inc. - Pantry. Schedule: Mon, Wed, Fri 5 PM–7 PM. Call 559-816-5052 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Iglesia Cristiana Siervos de Cristo Inc. - Pantry",
+      "address": "849 Skyline Blvd, Avenal, CA 93204",
+      "lat": 36.00658,
+      "lng": -120.12489,
+      "category": "food-assistance",
+      "sourceOrg": "Iglesia Cristiana Siervos de Cristo Inc. - Pantry",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "Mon, Wed, Fri 5 PM–7 PM",
+      "start": "2026-09-28T17:00",
+      "end": "2026-09-28T19:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-valley-voices-avenal-m25-1400",
+      "seriesSlug": "add-valley-voices-avenal",
+      "title": "Valley Voices Avenal — Free Food",
+      "description": "Free food at Valley Voices Avenal. Schedule: 2nd Fri 2 PM–4 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Valley Voices Avenal",
+      "address": "108 W Kings St, Avenal, CA 93204",
+      "lat": 36.002266,
+      "lng": -120.138457,
+      "category": "food-assistance",
+      "sourceOrg": "Valley Voices Avenal",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "2nd Fri 2 PM–4 PM",
+      "start": "2026-10-09T14:00",
+      "end": "2026-10-09T16:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "2:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-corcoran-emergency-aid-m333435-0800",
+      "seriesSlug": "add-corcoran-emergency-aid",
+      "title": "Corcoran Emergency Aid — Free Food",
+      "description": "Free food at Corcoran Emergency Aid. Schedule: 3rd Wed & 3rd Thu & 3rd Fri 8 AM–12 PM. Call 559-992-2272 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Corcoran Emergency Aid",
+      "address": "2607 W. Whitley Ave, Corcoran, CA 93212",
+      "lat": 36.098067,
+      "lng": -119.566791,
+      "category": "food-assistance",
+      "sourceOrg": "Corcoran Emergency Aid",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Wed & 3rd Thu & 3rd Fri 8 AM–12 PM",
+      "start": "2026-10-07T08:00",
+      "end": "2026-10-07T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "3:3,3:4,3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-fountain-of-life-corcoran-m32-1130",
+      "seriesSlug": "add-fountain-of-life-corcoran",
+      "title": "Fountain of Life Corcoran — Free Food",
+      "description": "Free food at Fountain of Life Corcoran. Schedule: 3rd Tue 11:30 AM–1:30 PM. Call (559) 237-3663 ext. 1138 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Fountain of Life Corcoran",
+      "address": "1725 Chittenden Ave, Corcoran, CA 93212",
+      "lat": 36.09118,
+      "lng": -119.559489,
+      "category": "food-assistance",
+      "sourceOrg": "Fountain of Life Corcoran",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Tue 11:30 AM–1:30 PM",
+      "start": "2026-10-06T11:30",
+      "end": "2026-10-06T13:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "3:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-seventh-day-adventist-corcoran-m-14-0930",
+      "seriesSlug": "add-seventh-day-adventist-corcoran",
+      "title": "Seventh Day Adventist - Corcoran — Free Food",
+      "description": "Free food at Seventh Day Adventist - Corcoran. Schedule: last Thu 9:30 AM–12 PM. Call 661-371-5452 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Seventh Day Adventist - Corcoran",
+      "address": "1320 Norboe Ave, Corcoran, CA 93212",
+      "lat": 36.094621,
+      "lng": -119.562468,
+      "category": "food-assistance",
+      "sourceOrg": "Seventh Day Adventist - Corcoran",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "last Thu 9:30 AM–12 PM",
+      "start": "2026-10-08T09:30",
+      "end": "2026-10-08T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": -1,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "-1:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-episcopal-church-of-the-saviour-meals-w123456-1130",
+      "seriesSlug": "add-episcopal-church-of-the-saviour-meals",
+      "title": "Episcopal Church of the Saviour (meals) — Free Food",
+      "description": "Free food at Episcopal Church of the Saviour (meals). Schedule: Mon–Sat 11:30 AM–12:30 PM. Call 559-584-7706 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Episcopal Church of the Saviour (meals)",
+      "address": "519 N. Douty St, Hanford, CA 93230",
+      "lat": 36.330897,
+      "lng": -119.645726,
+      "category": "food-assistance",
+      "sourceOrg": "Episcopal Church of the Saviour (meals)",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "Mon–Sat 11:30 AM–12:30 PM",
+      "start": "2026-09-28T11:30",
+      "end": "2026-09-28T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5,6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-hanford-house-of-hope-m34-1100",
+      "seriesSlug": "add-hanford-house-of-hope",
+      "title": "Hanford House of Hope — Free Food",
+      "description": "Free food at Hanford House of Hope. Schedule: 3rd Thu 11 AM–1 PM. Call 559-470-1777 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Hanford House of Hope",
+      "address": "206 E. Ninth St, Hanford, CA 93230",
+      "lat": 36.329231,
+      "lng": -119.643999,
+      "category": "food-assistance",
+      "sourceOrg": "Hanford House of Hope",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Thu 11 AM–1 PM",
+      "start": "2026-10-08T11:00",
+      "end": "2026-10-08T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-mana-community-services-m24-1000",
+      "seriesSlug": "add-mana-community-services",
+      "title": "Mana Community Services — Free Food",
+      "description": "Free food at Mana Community Services. Schedule: 2nd Thu 10 AM–12 PM. Call 559-572-1794 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Mana Community Services",
+      "address": "311 W 3rd St, Hanford, CA 93230",
+      "lat": 36.32159,
+      "lng": -119.648544,
+      "category": "food-assistance",
+      "sourceOrg": "Mana Community Services",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "2nd Thu 10 AM–12 PM",
+      "start": "2026-10-08T10:00",
+      "end": "2026-10-08T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "2:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-mustard-seed-charities-m11-0930",
+      "seriesSlug": "add-mustard-seed-charities",
+      "title": "Mustard Seed Charities — Free Food",
+      "description": "Free food at Mustard Seed Charities. Schedule: 1st Mon 9:30 AM–11:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Mustard Seed Charities",
+      "address": "9615 Temple Dr, Hanford, CA 93230",
+      "lat": 36.301322,
+      "lng": -119.629947,
+      "category": "food-assistance",
+      "sourceOrg": "Mustard Seed Charities",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "1st Mon 9:30 AM–11:30 AM",
+      "start": "2026-10-05T09:30",
+      "end": "2026-10-05T11:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "1:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-seventh-day-adventist-hanford-m2242-0900",
+      "seriesSlug": "add-seventh-day-adventist-hanford",
+      "title": "Seventh Day Adventist - Hanford — Free Food",
+      "description": "Free food at Seventh Day Adventist - Hanford. Schedule: 2nd Tue & 4th Tue 9 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Seventh Day Adventist - Hanford",
+      "address": "900 N. Redington St, Hanford, CA 93230",
+      "lat": 36.334161,
+      "lng": -119.649565,
+      "category": "food-assistance",
+      "sourceOrg": "Seventh Day Adventist - Hanford",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "2nd Tue & 4th Tue 9 AM–12 PM",
+      "start": "2026-10-06T09:00",
+      "end": "2026-10-06T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 2
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "2:2,4:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-brigid-community-outreach-w135-0900",
+      "seriesSlug": "add-st-brigid-community-outreach",
+      "title": "St. Brigid Community Outreach — Free Food",
+      "description": "Free food at St. Brigid Community Outreach. Schedule: Mon, Wed, Fri 9 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Brigid Community Outreach",
+      "address": "115 W. 5th St, Hanford, CA 93230",
+      "lat": 36.32432,
+      "lng": -119.64574,
+      "category": "food-assistance",
+      "sourceOrg": "St. Brigid Community Outreach",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "Mon, Wed, Fri 9 AM–12 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-kings-pantry-koinonia-w35-0900",
+      "seriesSlug": "add-the-kings-pantry-koinonia",
+      "title": "The Kings Pantry - Koinonia — Free Food",
+      "description": "Free food at The Kings Pantry - Koinonia. Schedule: Wed, Fri 9 AM–12 PM. Call 559-582-1528 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Kings Pantry - Koinonia",
+      "address": "12536 Hanford Armona Rd, Hanford, CA 93230",
+      "lat": 36.31505,
+      "lng": -119.682541,
+      "category": "food-assistance",
+      "sourceOrg": "The Kings Pantry - Koinonia",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "Wed, Fri 9 AM–12 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-salvation-army-hanford-w1234-0830",
+      "seriesSlug": "add-the-salvation-army-hanford",
+      "title": "The Salvation Army - Hanford — Free Food",
+      "description": "Free food at The Salvation Army - Hanford. Schedule: Mon–Thu 8:30 AM–11:30 AM; Mon–Fri 7:30 AM–8:30 AM. Call 559-582-4434 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Salvation Army - Hanford",
+      "address": "380 E. Ivy St, Hanford, CA 93230",
+      "lat": 36.332528,
+      "lng": -119.641014,
+      "category": "food-assistance",
+      "sourceOrg": "The Salvation Army - Hanford",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "Mon–Thu 8:30 AM–11:30 AM; Mon–Fri 7:30 AM–8:30 AM",
+      "start": "2026-09-28T08:30",
+      "end": "2026-09-28T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-salvation-army-hanford-w12345-0730",
+      "seriesSlug": "add-the-salvation-army-hanford",
+      "title": "The Salvation Army - Hanford — Free Food",
+      "description": "Free food at The Salvation Army - Hanford. Schedule: Mon–Thu 8:30 AM–11:30 AM; Mon–Fri 7:30 AM–8:30 AM. Call 559-582-4434 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Salvation Army - Hanford",
+      "address": "380 E. Ivy St, Hanford, CA 93230",
+      "lat": 36.332528,
+      "lng": -119.641014,
+      "category": "food-assistance",
+      "sourceOrg": "The Salvation Army - Hanford",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "Mon–Thu 8:30 AM–11:30 AM; Mon–Fri 7:30 AM–8:30 AM",
+      "start": "2026-09-28T07:30",
+      "end": "2026-09-28T08:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-salvation-army-hanford-neighborhood-market-m35-0900",
+      "seriesSlug": "add-the-salvation-army-hanford-neighborhood-market",
+      "title": "The Salvation Army - Hanford - Neighborhood Market — Free Food",
+      "description": "Free food at The Salvation Army - Hanford - Neighborhood Market. Schedule: 3rd Fri 9 AM–11 AM. Call (559) 237-3663 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Salvation Army - Hanford - Neighborhood Market",
+      "address": "380 E. Ivy St, Hanford, CA 93230",
+      "lat": 36.332528,
+      "lng": -119.641014,
+      "category": "food-assistance",
+      "sourceOrg": "The Salvation Army - Hanford - Neighborhood Market",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Fri 9 AM–11 AM",
+      "start": "2026-10-09T09:00",
+      "end": "2026-10-09T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-casa-de-dios-agua-de-vida-m15-1400",
+      "seriesSlug": "add-casa-de-dios-agua-de-vida",
+      "title": "Casa De Dios Agua De Vida — Free Food",
+      "description": "Free food at Casa De Dios Agua De Vida. Schedule: 1st Fri 2 PM–4 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Casa De Dios Agua De Vida",
+      "address": "500 E. Bush Ave, Lemoore, CA 93245",
+      "lat": 36.298811,
+      "lng": -119.773028,
+      "category": "food-assistance",
+      "sourceOrg": "Casa De Dios Agua De Vida",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "1st Fri 2 PM–4 PM",
+      "start": "2026-10-09T14:00",
+      "end": "2026-10-09T16:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "1:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-lemoore-christian-aid-w1234-0900",
+      "seriesSlug": "add-lemoore-christian-aid",
+      "title": "Lemoore Christian Aid — Free Food",
+      "description": "Free food at Lemoore Christian Aid. Schedule: Mon–Thu 9 AM–1 PM. Call 559-924-2229 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Lemoore Christian Aid",
+      "address": "224 N. Lemoore Ave, Lemoore, CA 93245",
+      "lat": 36.301179,
+      "lng": -119.780504,
+      "category": "food-assistance",
+      "sourceOrg": "Lemoore Christian Aid",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "Mon–Thu 9 AM–1 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-south-valley-community-church-mobile-pantry-m11-1000",
+      "seriesSlug": "add-south-valley-community-church-mobile-pantry",
+      "title": "South Valley Community Church - Mobile Pantry — Free Food",
+      "description": "Free food at South Valley Community Church - Mobile Pantry. Schedule: 1st Mon 10 AM–12 PM. Call (559) 237-3663 ext. 1108 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "South Valley Community Church - Mobile Pantry",
+      "address": "1050 W. Bush St, Lemoore, CA 93245",
+      "lat": 36.298495,
+      "lng": -119.796353,
+      "category": "food-assistance",
+      "sourceOrg": "South Valley Community Church - Mobile Pantry",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "1st Mon 10 AM–12 PM",
+      "start": "2026-10-05T10:00",
+      "end": "2026-10-05T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "1:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-west-hills-college-lemoore-campus-mobile-pantry-m31-1000",
+      "seriesSlug": "add-west-hills-college-lemoore-campus-mobile-pantry",
+      "title": "West Hills College - Lemoore Campus - Mobile Pantry — Free Food",
+      "description": "Free food at West Hills College - Lemoore Campus - Mobile Pantry. Schedule: 3rd Mon 10 AM–12 PM. Call (559) 925-3704 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "West Hills College - Lemoore Campus - Mobile Pantry",
+      "address": "555 College Ave, Lemoore, CA 93245",
+      "lat": 36.29253,
+      "lng": -119.823203,
+      "category": "food-assistance",
+      "sourceOrg": "West Hills College - Lemoore Campus - Mobile Pantry",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Mon 10 AM–12 PM",
+      "start": "2026-10-05T10:00",
+      "end": "2026-10-05T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "3:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-valley-voices-stratford-m36-1000",
+      "seriesSlug": "add-valley-voices-stratford",
+      "title": "Valley Voices Stratford — Free Food",
+      "description": "Free food at Valley Voices Stratford. Schedule: 3rd Sat 10 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Valley Voices Stratford",
+      "address": "19300 Empire St, Stratford, CA 93266",
+      "lat": 36.191045,
+      "lng": -119.820383,
+      "category": "food-assistance",
+      "sourceOrg": "Valley Voices Stratford",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Sat 10 AM–12 PM",
+      "start": "2026-10-10T10:00",
+      "end": "2026-10-10T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "3:6"
+    }
+  ]
+}

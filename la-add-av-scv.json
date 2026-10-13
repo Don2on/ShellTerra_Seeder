@@ -1,0 +1,352 @@
+{
+  "sites": [
+    {
+      "name": "Antelope Valley Partners for Health - Jackman St Pantry",
+      "org": "Antelope Valley Partners for Health",
+      "address": "858 W. Jackman St, Lancaster, CA, 93534",
+      "phone": "661-942-4719",
+      "website": "https://www.avph.org/food-pantry-resources/",
+      "eligibility": "Open to the community; Gold Certified Pantry",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "monthly", "patterns": ["second friday", "fourth friday"], "open": "08:00", "close": "11:00", "note": "" }
+      ]
+    },
+    {
+      "name": "Antelope Valley Wellness Community Food Pantry",
+      "org": "Antelope Valley Wellness Community",
+      "address": "335-B East Ave K-6, Lancaster, CA, 93535",
+      "phone": "",
+      "website": "https://www.avph.org/food-pantry-resources/",
+      "eligibility": "Open to the community",
+      "category": "pantry",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "monthly", "patterns": ["third wednesday"], "open": "09:30", "close": "11:30", "note": "Starts 9:30am" }
+      ]
+    },
+    {
+      "name": "Cornerstone Church Food Pantry",
+      "org": "Cornerstone Church",
+      "address": "8533 E Ave T, Littlerock, CA, 93543",
+      "phone": "661-944-1880",
+      "website": "https://www.avph.org/food-pantry-resources/",
+      "eligibility": "Open to the community",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["wed"], "open": "12:00", "close": "14:00", "note": "" }
+      ]
+    },
+    {
+      "name": "Desert Vineyard Church - The Free Market",
+      "org": "Desert Vineyard Church",
+      "address": "1011 East Ave I, Lancaster, CA, 93535",
+      "phone": "661-945-2777",
+      "website": "https://www.desertvineyard.org/need-help/",
+      "eligibility": "Open to the community; free-choice grocery market",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["wed"], "open": "11:00", "close": "14:00", "note": "" }
+      ]
+    },
+    {
+      "name": "Eastside Union School District Community Center Pantry",
+      "org": "Rescue Mission Alliance Antelope Valley / Eastside Union",
+      "address": "45006 N 30th St East, Lancaster, CA, 93535",
+      "phone": "661-952-1200",
+      "website": "https://www.avdreamcenter.org/food-pantry-locations/",
+      "eligibility": "Open to the community; drive-thru",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "monthly", "patterns": ["second friday"], "open": "11:00", "close": "13:00", "note": "Drive-thru" }
+      ]
+    },
+    {
+      "name": "Guyman/Trend Community Pantry",
+      "org": "Guyman Avenue Community Pantry",
+      "address": "43028 Guyman Ave, Lancaster, CA, 93536",
+      "phone": "661-317-5915",
+      "website": "https://www.avph.org/food-pantry-resources/",
+      "eligibility": "Open to the community; Gold Certified Pantry",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "monthly", "patterns": ["second thursday", "fourth thursday"], "open": "14:30", "close": "16:00", "note": "Starts 2:30pm" }
+      ]
+    },
+    {
+      "name": "L.A. Care Community Resource Center Food Pantry",
+      "org": "L.A. Care Health Plan",
+      "address": "2072 E Palmdale Blvd, Palmdale, CA, 93550",
+      "phone": "213-438-5580",
+      "website": "https://www.avph.org/food-pantry-resources/",
+      "eligibility": "Gold Certified Pantry; ticket required",
+      "category": "pantry",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "monthly", "patterns": ["second thursday", "fourth thursday"], "open": "13:30", "close": "15:00", "note": "Ticket required" }
+      ]
+    },
+    {
+      "name": "Palmdale Vineyard Church Food Pantry",
+      "org": "Palmdale Vineyard Church",
+      "address": "509 E Palmdale Blvd #G, Palmdale, CA, 93550",
+      "phone": "661-947-2222",
+      "website": "https://www.avph.org/food-pantry-resources/",
+      "eligibility": "Open to the community",
+      "category": "pantry",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon", "tue", "wed", "thu"], "open": "09:00", "close": "15:00", "note": "" }
+      ]
+    },
+    {
+      "name": "RCCG Jesus Assembly Food Pantry",
+      "org": "RCCG Jesus Assembly",
+      "address": "340 W Milling St, Lancaster, CA, 93534",
+      "phone": "661-609-7661",
+      "website": "https://www.avph.org/food-pantry-resources/",
+      "eligibility": "Open to the community; Bronze Certified Pantry; drive-thru",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "monthly", "patterns": ["second friday", "fourth friday"], "open": "08:45", "close": "10:00", "note": "Drive-thru" }
+      ]
+    },
+    {
+      "name": "St. Vincent de Paul - Lancaster Food Pantry",
+      "org": "Society of St. Vincent de Paul",
+      "address": "45058 Trevor Ave, Lancaster, CA, 93534",
+      "phone": "661-942-3222",
+      "website": "https://www.avph.org/food-pantry-resources/",
+      "eligibility": "Open to the community",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon", "wed", "sat"], "open": "09:00", "close": "11:00", "note": "" }
+      ]
+    },
+    {
+      "name": "The Highlands Christian Fellowship Food Pantry",
+      "org": "The Highlands Christian Fellowship",
+      "address": "39625 20th St W, Palmdale, CA, 93551",
+      "phone": "661-273-1000",
+      "website": "https://www.avph.org/food-pantry-resources/",
+      "eligibility": "Open to the community; Gold Certified Pantry; drive-thru",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "monthly", "patterns": ["second saturday", "last saturday"], "open": "12:30", "close": "13:30", "note": "Drive-thru" }
+      ]
+    },
+    {
+      "name": "Renew Life Fellowship Food Pantry",
+      "org": "Renew Life Fellowship / Rescue Mission Alliance AV",
+      "address": "44950 Mall Loop Drive Unit 1-103, Lancaster, CA, 93536",
+      "phone": "",
+      "website": "https://www.avdreamcenter.org/food-pantry-locations/",
+      "eligibility": "Open to the community",
+      "category": "pantry",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "monthly", "patterns": ["second saturday"], "open": "10:30", "close": "11:30", "note": "" }
+      ]
+    },
+    {
+      "name": "Lighthouse Assembly of God Food Pantry",
+      "org": "Lighthouse Assembly of God Church / Rescue Mission Alliance AV",
+      "address": "38500 9th St East, Palmdale, CA, 93550",
+      "phone": "",
+      "website": "https://www.avdreamcenter.org/food-pantry-locations/",
+      "eligibility": "Open to the community",
+      "category": "pantry",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "weekly", "days": ["fri"], "open": "09:30", "close": "10:30", "note": "" }
+      ]
+    },
+    {
+      "name": "Christian Life Assembly Food Pantry",
+      "org": "Christian Life Assembly / Rescue Mission Alliance AV",
+      "address": "3250 Lancaster Blvd, Lancaster, CA, 93535",
+      "phone": "",
+      "website": "https://www.avdreamcenter.org/food-pantry-locations/",
+      "eligibility": "Open to the community",
+      "category": "pantry",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "monthly", "patterns": ["third sunday"], "open": "12:00", "close": "13:00", "note": "" }
+      ]
+    },
+    {
+      "name": "Nueva Vida Food Pantry",
+      "org": "Nueva Vida / Rescue Mission Alliance AV",
+      "address": "3030 E Ave R-8, Palmdale, CA, 93550",
+      "phone": "",
+      "website": "https://www.avdreamcenter.org/food-pantry-locations/",
+      "eligibility": "Open to the community",
+      "category": "pantry",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "weekly", "days": ["fri"], "open": "11:30", "close": "12:30", "note": "" }
+      ]
+    },
+    {
+      "name": "iLEAD Lancaster Food Pantry",
+      "org": "iLEAD Lancaster / Rescue Mission Alliance AV",
+      "address": "254 East Avenue K4, Lancaster, CA, 93535",
+      "phone": "",
+      "website": "https://www.avdreamcenter.org/food-pantry-locations/",
+      "eligibility": "Open to the community",
+      "category": "pantry",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "monthly", "patterns": ["third friday"], "open": "12:30", "close": "14:00", "note": "" }
+      ]
+    },
+    {
+      "name": "Lancaster Spanish SDA Church Food Pantry",
+      "org": "Lancaster Spanish Seventh-day Adventist Church / Rescue Mission Alliance AV",
+      "address": "4052 W. Ave L, Lancaster, CA, 93536",
+      "phone": "",
+      "website": "https://www.avdreamcenter.org/food-pantry-locations/",
+      "eligibility": "Open to the community",
+      "category": "church",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "weekly", "days": ["thu"], "open": "14:00", "close": "16:00", "note": "" }
+      ]
+    },
+    {
+      "name": "The Salvation Army Antelope Valley Corps Community Center",
+      "org": "The Salvation Army",
+      "address": "44517 Sierra Hwy, Lancaster, CA, 93534",
+      "phone": "661-948-3418",
+      "website": "https://www.salvationarmyusa.org/ca/lancaster/sierra-highway-corps/",
+      "eligibility": "Emergency food/groceries for residents in need",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon", "tue", "wed", "thu", "fri"], "open": "09:00", "close": "12:00", "note": "Call ahead to confirm; some sources list afternoon hours 1-3pm" }
+      ]
+    },
+    {
+      "name": "Grace Resources Hot Meal Dining Hall",
+      "org": "Grace Resource Center",
+      "address": "45134 N Sierra Hwy, Lancaster, CA, 93534",
+      "phone": "661-940-5272",
+      "website": "https://resources.relayinstitute.org/project/grace-resource-center-inc-local-meal-programs/",
+      "eligibility": "Hot meals open to anyone in need",
+      "category": "hot-meal",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["tue", "wed", "fri"], "open": "17:30", "close": "18:00", "note": "Dinner" },
+        { "freq": "weekly", "days": ["sun"], "open": "13:30", "close": "14:00", "note": "Lunch" }
+      ]
+    },
+    {
+      "name": "Antelope Valley College Basic Needs Food Pantry",
+      "org": "Antelope Valley College",
+      "address": "3041 W Ave K, Lancaster, CA, 93536",
+      "phone": "661-722-6300",
+      "website": "https://www.avc.edu/basicneeds/food",
+      "eligibility": "Currently enrolled AVC students",
+      "category": "college-pantry",
+      "confidence": "medium",
+      "schedules": []
+    },
+    {
+      "name": "College of the Canyons Basic Needs Center (BaNC)",
+      "org": "College of the Canyons",
+      "address": "26455 Rockwell Canyon Rd, Student Center Room 123B, Santa Clarita, CA, 91355",
+      "phone": "661-362-3261",
+      "website": "https://www.canyons.edu/studentservices/foodservices/",
+      "eligibility": "Currently enrolled COC students",
+      "category": "college-pantry",
+      "confidence": "high",
+      "schedules": []
+    },
+    {
+      "name": "Single Mothers Outreach Food Assistance",
+      "org": "Single Mothers Outreach",
+      "address": "24781 Valley Street, Santa Clarita, CA, 91321",
+      "phone": "661-288-0117",
+      "website": "https://singlemothersoutreach.org/programs-and-services/assist/",
+      "eligibility": "Single-parent families in SCV",
+      "category": "pantry",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon", "tue", "wed", "thu"], "open": "09:00", "close": "17:00", "note": "Call ahead; appointment-based assistance" }
+      ]
+    },
+    {
+      "name": "Bridge to Home - Client Services Center Meals",
+      "org": "Bridge to Home",
+      "address": "23031 Drayton Street, Santa Clarita, CA, 91350",
+      "phone": "661-254-4663",
+      "website": "https://btohome.org/contact",
+      "eligibility": "Ages 18+; homeless/low-income SCV residents",
+      "category": "hot-meal",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "weekly", "days": ["sun", "mon", "tue", "wed", "thu", "fri", "sat"], "open": "11:00", "close": "20:00", "note": "Free meals daily" }
+      ]
+    },
+    {
+      "name": "Santa Clarita Valley Senior Center at Bella Vida - Lunch Program",
+      "org": "Santa Clarita Valley Senior Center",
+      "address": "27180 Golden Valley Rd, Santa Clarita, CA, 91350",
+      "phone": "661-259-9444",
+      "website": "https://211la.org/agencies/Hxb9ewXKlHzey5pkuObPqvghONdlGw/santa-clarita-valley-senior-center",
+      "eligibility": "Ages 60+; suggested donation $3.50",
+      "category": "senior",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon", "tue", "wed", "thu", "fri"], "open": "11:00", "close": "13:00", "note": "Congregate lunch" }
+      ]
+    },
+    {
+      "name": "Grace Baptist Church Food Pantry",
+      "org": "Grace Baptist Church",
+      "address": "22833 Copper Hill Drive, Santa Clarita, CA, 91350",
+      "phone": "661-296-8737",
+      "website": "https://www.gracebaptist.org/food-pantry",
+      "eligibility": "Open to the community",
+      "category": "church",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon"], "open": "09:00", "close": "12:00", "note": "" }
+      ]
+    },
+    {
+      "name": "SCV Food Pantry Mobile - Castaic Lake Senior Village",
+      "org": "Santa Clarita Valley Food Pantry",
+      "address": "31900 Castaic Road, Castaic, CA, 91384",
+      "phone": "661-255-9930",
+      "website": "https://www.scvfoodpantry.org/location-and-hours",
+      "eligibility": "Residents of the mobile-site community",
+      "category": "mobile",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "monthly", "patterns": ["first tuesday"], "open": "09:30", "close": "11:00", "note": "Mobile distribution" }
+      ]
+    },
+    {
+      "name": "SCV Food Pantry Mobile - CalArts",
+      "org": "Santa Clarita Valley Food Pantry",
+      "address": "24700 McBean Parkway, Valencia, CA, 91355",
+      "phone": "661-255-9930",
+      "website": "https://www.scvfoodpantry.org/location-and-hours",
+      "eligibility": "CalArts community / open",
+      "category": "mobile",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "monthly", "patterns": ["second wednesday"], "open": "09:30", "close": "11:00", "note": "Mobile distribution" }
+      ]
+    }
+  ]
+}

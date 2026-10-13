@@ -1,0 +1,580 @@
+{
+  "_meta": {
+    "topic": "Net-new Humboldt County food distributions",
+    "generated": "2026-10-05",
+    "source": "Research supplementing shell PENDING-Humboldt; raw ./HumboldtAdditions-raw.json."
+  },
+  "_deferred": {
+    "add-eureka-rescue-mission-men-s-program-meals": {
+      "title": "Eureka Rescue Mission - Men's Program (meals)",
+      "status": "Dinner daily 6:30pm; breakfast 6am weekdays, 7am weekends Phone: (707) 443-4551.",
+      "address": "110 2nd St, Eureka, CA 95501",
+      "lat": 40.803668,
+      "lng": -124.170447,
+      "phone": "(707) 443-4551",
+      "eligibility": "",
+      "sourceUrl": "https://www.foodforpeople.org/programs/pantry-network"
+    },
+    "add-food-not-bombs-eureka-free-hot-vegan-meal": {
+      "title": "Food Not Bombs Eureka (free hot vegan meal)",
+      "status": "Sun 3pm",
+      "address": "3rd St and E St, Eureka, CA 95501",
+      "lat": 40.803457,
+      "lng": -124.167454,
+      "phone": "",
+      "eligibility": "",
+      "sourceUrl": "https://www.foodforpeople.org/programs/pantry-network"
+    }
+  },
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "add-arcata-house-partnership-annex-food-for-people-p-w3-1600",
+      "seriesSlug": "add-arcata-house-partnership-annex-food-for-people-p",
+      "title": "Arcata House Partnership Annex (Food for People pantry) — Free Food",
+      "description": "Free food at Arcata House Partnership Annex (Food for People pantry). Schedule: Wed 4 PM–6 PM. Call (707) 445-3166 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Arcata House Partnership Annex (Food for People pantry)",
+      "address": "501 9th St, Arcata, CA 95521",
+      "lat": 40.868735,
+      "lng": -124.083714,
+      "category": "food-assistance",
+      "sourceOrg": "Arcata House Partnership Annex (Food for People pantry)",
+      "url": "https://www.foodforpeople.org/programs/pantry-network",
+      "schedulePattern": "Wed 4 PM–6 PM",
+      "start": "2026-09-28T16:00",
+      "end": "2026-09-28T18:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-arcata-seniors-food-for-people-pantry-m34-1030",
+      "seriesSlug": "add-arcata-seniors-food-for-people-pantry",
+      "title": "Arcata Seniors (Food for People pantry) — Free Food",
+      "description": "Free food at Arcata Seniors (Food for People pantry). Schedule: 3rd Thu 10:30 AM–11 AM. Call (707) 825-2027 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Arcata Seniors (Food for People pantry)",
+      "address": "321 Martin Luther King Jr. Way, Arcata, CA 95521",
+      "lat": 40.85898,
+      "lng": -124.071967,
+      "category": "food-assistance",
+      "sourceOrg": "Arcata Seniors (Food for People pantry)",
+      "url": "https://www.foodforpeople.org/programs/pantry-network",
+      "schedulePattern": "3rd Thu 10:30 AM–11 AM",
+      "start": "2026-10-08T10:30",
+      "end": "2026-10-08T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-blue-lake-community-resource-center-m34-1000",
+      "seriesSlug": "add-blue-lake-community-resource-center",
+      "title": "Blue Lake Community Resource Center — Free Food",
+      "description": "Free food at Blue Lake Community Resource Center. Schedule: 3rd Thu 10 AM–2 PM. Call (707) 668-4281 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Blue Lake Community Resource Center",
+      "address": "111 Greenwood Ave, Blue Lake, CA 95525",
+      "lat": 40.882527,
+      "lng": -123.992092,
+      "category": "food-assistance",
+      "sourceOrg": "Blue Lake Community Resource Center",
+      "url": "https://www.foodforpeople.org/programs/pantry-network",
+      "schedulePattern": "3rd Thu 10 AM–2 PM",
+      "start": "2026-10-08T10:00",
+      "end": "2026-10-08T14:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-bridgeville-community-center-m34-1000",
+      "seriesSlug": "add-bridgeville-community-center",
+      "title": "Bridgeville Community Center — Free Food",
+      "description": "Free food at Bridgeville Community Center. Schedule: 3rd Thu 10 AM–4 PM. Call (707) 777-1775 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Bridgeville Community Center",
+      "address": "38717 Kneeland Rd, Bridgeville, CA 95526",
+      "lat": 40.470835,
+      "lng": -123.796328,
+      "category": "food-assistance",
+      "sourceOrg": "Bridgeville Community Center",
+      "url": "https://www.foodforpeople.org/programs/pantry-network",
+      "schedulePattern": "3rd Thu 10 AM–4 PM",
+      "start": "2026-10-08T10:00",
+      "end": "2026-10-08T16:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-dinsmore-pantry-m34-0900",
+      "seriesSlug": "add-dinsmore-pantry",
+      "title": "Dinsmore pantry — Free Food",
+      "description": "Free food at Dinsmore pantry. Schedule: 3rd Thu 9 AM–11 AM. Call (707) 777-1775 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Dinsmore pantry",
+      "address": "Route 36 mile marker 42.5, Dinsmore, CA 95526",
+      "lat": 40.496172,
+      "lng": -123.614161,
+      "category": "food-assistance",
+      "sourceOrg": "Dinsmore pantry",
+      "url": "https://www.foodforpeople.org/programs/pantry-network",
+      "schedulePattern": "3rd Thu 9 AM–11 AM",
+      "start": "2026-10-08T09:00",
+      "end": "2026-10-08T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-eureka-choice-pantry-food-for-people-cooper-gulc-w235-1100",
+      "seriesSlug": "add-eureka-choice-pantry-food-for-people-cooper-gulc",
+      "title": "Eureka Choice Pantry (Food for People, Cooper Gulch) — Free Food",
+      "description": "Free food at Eureka Choice Pantry (Food for People, Cooper Gulch). Schedule: Tue–Wed, Fri 11 AM–3 PM. Eligibility: call for appointment. Call (707) 407-0447 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Eureka Choice Pantry (Food for People, Cooper Gulch)",
+      "address": "1720 10th St, Eureka, CA 95501",
+      "lat": 40.799679,
+      "lng": -124.152259,
+      "category": "food-assistance",
+      "sourceOrg": "Eureka Choice Pantry (Food for People, Cooper Gulch)",
+      "url": "https://www.foodforpeople.org/programs/pantry-network",
+      "schedulePattern": "Tue–Wed, Fri 11 AM–3 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-eureka-rescue-mission-women-children-s-program-m-w2-0800",
+      "seriesSlug": "add-eureka-rescue-mission-women-children-s-program-m",
+      "title": "Eureka Rescue Mission - Women & Children's Program (meals) — Free Food",
+      "description": "Free food at Eureka Rescue Mission - Women & Children's Program (meals). Schedule: Tue 8 AM–9 AM. Call (707) 443-5016 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Eureka Rescue Mission - Women & Children's Program (meals)",
+      "address": "107 3rd St, Eureka, CA 95501",
+      "lat": 40.803299,
+      "lng": -124.170361,
+      "category": "food-assistance",
+      "sourceOrg": "Eureka Rescue Mission - Women & Children's Program (meals)",
+      "url": "https://www.foodforpeople.org/programs/pantry-network",
+      "schedulePattern": "Tue 8 AM–9 AM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T09:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-humboldt-senior-resource-center-food-for-people--m33-1000",
+      "seriesSlug": "add-humboldt-senior-resource-center-food-for-people-",
+      "title": "Humboldt Senior Resource Center (Food for People senior pantry) — Free Food",
+      "description": "Free food at Humboldt Senior Resource Center (Food for People senior pantry). Schedule: 3rd Wed 10 AM–11:30 AM. Call (707) 443-9747 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Humboldt Senior Resource Center (Food for People senior pantry)",
+      "address": "1910 California St, Eureka, CA 95501",
+      "lat": 40.790364,
+      "lng": -124.172216,
+      "category": "food-assistance",
+      "sourceOrg": "Humboldt Senior Resource Center (Food for People senior pantry)",
+      "url": "https://www.foodforpeople.org/programs/pantry-network",
+      "schedulePattern": "3rd Wed 10 AM–11:30 AM",
+      "start": "2026-10-07T10:00",
+      "end": "2026-10-07T11:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-salvation-army-eureka-w12345-0930",
+      "seriesSlug": "add-salvation-army-eureka",
+      "title": "Salvation Army Eureka — Free Food",
+      "description": "Free food at Salvation Army Eureka. Schedule: Mon–Fri 9:30 AM–11:30 AM. Call (707) 442-6475 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salvation Army Eureka",
+      "address": "2123 Tydd St, Eureka, CA 95501",
+      "lat": 40.801554,
+      "lng": -124.147714,
+      "category": "food-assistance",
+      "sourceOrg": "Salvation Army Eureka",
+      "url": "https://www.foodforpeople.org/programs/pantry-network",
+      "schedulePattern": "Mon–Fri 9:30 AM–11:30 AM",
+      "start": "2026-09-28T09:30",
+      "end": "2026-09-28T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-vincent-de-paul-free-dining-facility-w123456-1100",
+      "seriesSlug": "add-st-vincent-de-paul-free-dining-facility",
+      "title": "St. Vincent de Paul Free Dining Facility — Free Food",
+      "description": "Free food at St. Vincent de Paul Free Dining Facility. Schedule: Mon–Sat 11 AM–1 PM. Call (707) 445-9588 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Vincent de Paul Free Dining Facility",
+      "address": "35 W 3rd St, Eureka, CA 95501",
+      "lat": 40.80251,
+      "lng": -124.172578,
+      "category": "food-assistance",
+      "sourceOrg": "St. Vincent de Paul Free Dining Facility",
+      "url": "https://www.foodforpeople.org/programs/pantry-network",
+      "schedulePattern": "Mon–Sat 11 AM–1 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5,6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-ferndale-community-church-food-for-people-pantry-m34-1300",
+      "seriesSlug": "add-ferndale-community-church-food-for-people-pantry",
+      "title": "Ferndale Community Church (Food for People pantry) — Free Food",
+      "description": "Free food at Ferndale Community Church (Food for People pantry). Schedule: 3rd Thu 1 PM–2:30 PM. Call (707) 786-4475 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Ferndale Community Church (Food for People pantry)",
+      "address": "712 Main St, Ferndale, CA 95536",
+      "lat": 40.578862,
+      "lng": -124.26124,
+      "category": "food-assistance",
+      "sourceOrg": "Ferndale Community Church (Food for People pantry)",
+      "url": "https://www.foodforpeople.org/programs/pantry-network",
+      "schedulePattern": "3rd Thu 1 PM–2:30 PM",
+      "start": "2026-10-08T13:00",
+      "end": "2026-10-08T14:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-fortuna-adventist-community-services-w23-0930",
+      "seriesSlug": "add-fortuna-adventist-community-services",
+      "title": "Fortuna Adventist Community Services — Free Food",
+      "description": "Free food at Fortuna Adventist Community Services. Schedule: Tue–Wed 9:30 AM–11:30 AM. Call (707) 725-1166 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Fortuna Adventist Community Services",
+      "address": "2331 Rohnerville Rd, Fortuna, CA 95540",
+      "lat": 40.594783,
+      "lng": -124.142122,
+      "category": "food-assistance",
+      "sourceOrg": "Fortuna Adventist Community Services",
+      "url": "https://www.foodforpeople.org/programs/pantry-network",
+      "schedulePattern": "Tue–Wed 9:30 AM–11:30 AM",
+      "start": "2026-09-28T09:30",
+      "end": "2026-09-28T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-joseph-s-pantry-shelf-food-for-people-pantry-w3-1000",
+      "seriesSlug": "add-st-joseph-s-pantry-shelf-food-for-people-pantry",
+      "title": "St. Joseph's Pantry Shelf (Food for People pantry) — Free Food",
+      "description": "Free food at St. Joseph's Pantry Shelf (Food for People pantry). Schedule: Wed 10 AM–1 PM. Call (707) 725-1148 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Joseph's Pantry Shelf (Food for People pantry)",
+      "address": "2292 Newburg Rd, Fortuna, CA 95540",
+      "lat": 40.58929,
+      "lng": -124.142238,
+      "category": "food-assistance",
+      "sourceOrg": "St. Joseph's Pantry Shelf (Food for People pantry)",
+      "url": "https://www.foodforpeople.org/programs/pantry-network",
+      "schedulePattern": "Wed 10 AM–1 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-garberville-presbyterian-church-food-for-people--w24-1030",
+      "seriesSlug": "add-garberville-presbyterian-church-food-for-people-",
+      "title": "Garberville Presbyterian Church (Food for People pantry) — Free Food",
+      "description": "Free food at Garberville Presbyterian Church (Food for People pantry). Schedule: Tue, Thu 10:30 AM–12 PM; Wed 2 PM–4 PM. Call (707) 296-6048 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Garberville Presbyterian Church (Food for People pantry)",
+      "address": "437 Maple Ln, Garberville, CA 95542",
+      "lat": 40.1001,
+      "lng": -123.79431,
+      "category": "food-assistance",
+      "sourceOrg": "Garberville Presbyterian Church (Food for People pantry)",
+      "url": "https://www.foodforpeople.org/programs/pantry-network",
+      "schedulePattern": "Tue, Thu 10:30 AM–12 PM; Wed 2 PM–4 PM",
+      "start": "2026-09-28T10:30",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-garberville-presbyterian-church-food-for-people--w3-1400",
+      "seriesSlug": "add-garberville-presbyterian-church-food-for-people-",
+      "title": "Garberville Presbyterian Church (Food for People pantry) — Free Food",
+      "description": "Free food at Garberville Presbyterian Church (Food for People pantry). Schedule: Tue, Thu 10:30 AM–12 PM; Wed 2 PM–4 PM. Call (707) 296-6048 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Garberville Presbyterian Church (Food for People pantry)",
+      "address": "437 Maple Ln, Garberville, CA 95542",
+      "lat": 40.1001,
+      "lng": -123.79431,
+      "category": "food-assistance",
+      "sourceOrg": "Garberville Presbyterian Church (Food for People pantry)",
+      "url": "https://www.foodforpeople.org/programs/pantry-network",
+      "schedulePattern": "Tue, Thu 10:30 AM–12 PM; Wed 2 PM–4 PM",
+      "start": "2026-09-28T14:00",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-loleta-community-church-food-for-people-pantry-m34-1500",
+      "seriesSlug": "add-loleta-community-church-food-for-people-pantry",
+      "title": "Loleta Community Church (Food for People pantry) — Free Food",
+      "description": "Free food at Loleta Community Church (Food for People pantry). Schedule: 3rd Thu 3 PM–5 PM. Call (707) 733-5751 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Loleta Community Church (Food for People pantry)",
+      "address": "228 Church St, Loleta, CA 95551",
+      "lat": 40.639703,
+      "lng": -124.224028,
+      "category": "food-assistance",
+      "sourceOrg": "Loleta Community Church (Food for People pantry)",
+      "url": "https://www.foodforpeople.org/programs/pantry-network",
+      "schedulePattern": "3rd Thu 3 PM–5 PM",
+      "start": "2026-10-08T15:00",
+      "end": "2026-10-08T17:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-mckinleyville-family-resource-center-w124-1000",
+      "seriesSlug": "add-mckinleyville-family-resource-center",
+      "title": "McKinleyville Family Resource Center — Free Food",
+      "description": "Free food at McKinleyville Family Resource Center. Schedule: Mon–Tue, Thu 10 AM–3:30 PM; Wed 12 PM–3:30 PM. Call (707) 840-0905 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "McKinleyville Family Resource Center",
+      "address": "1615 Heartwood Dr, McKinleyville, CA 95519",
+      "lat": 40.940022,
+      "lng": -124.102011,
+      "category": "food-assistance",
+      "sourceOrg": "McKinleyville Family Resource Center",
+      "url": "https://www.foodforpeople.org/programs/pantry-network",
+      "schedulePattern": "Mon–Tue, Thu 10 AM–3:30 PM; Wed 12 PM–3:30 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T15:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-mckinleyville-family-resource-center-w3-1200",
+      "seriesSlug": "add-mckinleyville-family-resource-center",
+      "title": "McKinleyville Family Resource Center — Free Food",
+      "description": "Free food at McKinleyville Family Resource Center. Schedule: Mon–Tue, Thu 10 AM–3:30 PM; Wed 12 PM–3:30 PM. Call (707) 840-0905 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "McKinleyville Family Resource Center",
+      "address": "1615 Heartwood Dr, McKinleyville, CA 95519",
+      "lat": 40.940022,
+      "lng": -124.102011,
+      "category": "food-assistance",
+      "sourceOrg": "McKinleyville Family Resource Center",
+      "url": "https://www.foodforpeople.org/programs/pantry-network",
+      "schedulePattern": "Mon–Tue, Thu 10 AM–3:30 PM; Wed 12 PM–3:30 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T15:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-orick-elementary-school-food-for-people-pantry-m34-1200",
+      "seriesSlug": "add-orick-elementary-school-food-for-people-pantry",
+      "title": "Orick Elementary School (Food for People pantry) — Free Food",
+      "description": "Free food at Orick Elementary School (Food for People pantry). Schedule: 3rd Thu 12 PM–2 PM. Call (707) 488-2803 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Orick Elementary School (Food for People pantry)",
+      "address": "120918 Hwy 101, Orick, CA 95555",
+      "lat": 41.289476,
+      "lng": -124.058591,
+      "category": "food-assistance",
+      "sourceOrg": "Orick Elementary School (Food for People pantry)",
+      "url": "https://www.foodforpeople.org/programs/pantry-network",
+      "schedulePattern": "3rd Thu 12 PM–2 PM",
+      "start": "2026-10-08T12:00",
+      "end": "2026-10-08T14:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-journey-church-food-for-people-pantry-m34-0900",
+      "seriesSlug": "add-journey-church-food-for-people-pantry",
+      "title": "Journey Church (Food for People pantry) — Free Food",
+      "description": "Free food at Journey Church (Food for People pantry). Schedule: 3rd Thu 9 AM–12 PM. Call (707) 764-5239 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Journey Church (Food for People pantry)",
+      "address": "95 Belleview Ave, Rio Dell, CA 95562",
+      "lat": 40.506355,
+      "lng": -124.1149,
+      "category": "food-assistance",
+      "sourceOrg": "Journey Church (Food for People pantry)",
+      "url": "https://www.foodforpeople.org/programs/pantry-network",
+      "schedulePattern": "3rd Thu 9 AM–12 PM",
+      "start": "2026-10-08T09:00",
+      "end": "2026-10-08T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-trinidad-lions-club-pantry-town-hall-m33-1000",
+      "seriesSlug": "add-trinidad-lions-club-pantry-town-hall",
+      "title": "Trinidad Lions Club Pantry (Town Hall) — Free Food",
+      "description": "Free food at Trinidad Lions Club Pantry (Town Hall). Schedule: 3rd Wed 10 AM–12:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Trinidad Lions Club Pantry (Town Hall)",
+      "address": "409 Trinity St, Trinidad, CA 95570",
+      "lat": 41.060201,
+      "lng": -124.142878,
+      "category": "food-assistance",
+      "sourceOrg": "Trinidad Lions Club Pantry (Town Hall)",
+      "url": "https://www.foodforpeople.org/programs/pantry-network",
+      "schedulePattern": "3rd Wed 10 AM–12:30 PM",
+      "start": "2026-10-07T10:00",
+      "end": "2026-10-07T12:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-willow-creek-community-resource-center-w4-1000",
+      "seriesSlug": "add-willow-creek-community-resource-center",
+      "title": "Willow Creek Community Resource Center — Free Food",
+      "description": "Free food at Willow Creek Community Resource Center. Schedule: Thu 10 AM–12 PM; 3rd Thu 10 AM–1 PM. Call (530) 629-3141 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Willow Creek Community Resource Center",
+      "address": "38883 Hwy 299, Willow Creek, CA 95573",
+      "lat": 40.940342,
+      "lng": -123.633442,
+      "category": "food-assistance",
+      "sourceOrg": "Willow Creek Community Resource Center",
+      "url": "https://www.foodforpeople.org/programs/pantry-network",
+      "schedulePattern": "Thu 10 AM–12 PM; 3rd Thu 10 AM–1 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-willow-creek-community-resource-center-m34-1000",
+      "seriesSlug": "add-willow-creek-community-resource-center",
+      "title": "Willow Creek Community Resource Center — Free Food",
+      "description": "Free food at Willow Creek Community Resource Center. Schedule: Thu 10 AM–12 PM; 3rd Thu 10 AM–1 PM. Call (530) 629-3141 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Willow Creek Community Resource Center",
+      "address": "38883 Hwy 299, Willow Creek, CA 95573",
+      "lat": 40.940342,
+      "lng": -123.633442,
+      "category": "food-assistance",
+      "sourceOrg": "Willow Creek Community Resource Center",
+      "url": "https://www.foodforpeople.org/programs/pantry-network",
+      "schedulePattern": "Thu 10 AM–12 PM; 3rd Thu 10 AM–1 PM",
+      "start": "2026-10-08T10:00",
+      "end": "2026-10-08T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "3:4"
+    }
+  ]
+}

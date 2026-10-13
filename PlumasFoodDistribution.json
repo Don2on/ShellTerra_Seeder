@@ -1,0 +1,115 @@
+{
+  "_meta": {
+    "topic": "Net-new Plumas County food distributions",
+    "generated": "2026-10-05",
+    "source": "Research supplementing shell PENDING-Plumas; raw ./PlumasAdditions-raw.json."
+  },
+  "_deferred": {
+    "add-community-assistance-network": {
+      "title": "Community Assistance Network",
+      "status": "Commodities 3rd Tue 10am; perishables 3rd Fri 9:30am (photo ID required) Phone: (530) 283-0262.",
+      "address": "176 Lawrence Street, Quincy, CA 95971",
+      "lat": 39.937364,
+      "lng": -120.941862,
+      "phone": "(530) 283-0262",
+      "eligibility": "photo ID required",
+      "sourceUrl": "https://fbnn.org/"
+    }
+  },
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "add-almanor-basin-food-pantry-m1636-1000",
+      "seriesSlug": "add-almanor-basin-food-pantry",
+      "title": "Almanor Basin Food Pantry — Free Food",
+      "description": "Free food at Almanor Basin Food Pantry. Schedule: 1st Sat & 3rd Sat 10 AM–12 PM. Eligibility: photo ID required. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Almanor Basin Food Pantry",
+      "address": "386 A Main Street, Chester, CA 96020",
+      "lat": 40.30342,
+      "lng": -121.23505,
+      "category": "food-assistance",
+      "sourceOrg": "Almanor Basin Food Pantry",
+      "url": "https://fbnn.org/",
+      "schedulePattern": "1st Sat & 3rd Sat 10 AM–12 PM",
+      "start": "2026-10-10T10:00",
+      "end": "2026-10-10T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "1:6,3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-indian-valley-food-pantry-w5-1000",
+      "seriesSlug": "add-indian-valley-food-pantry",
+      "title": "Indian Valley Food Pantry — Free Food",
+      "description": "Free food at Indian Valley Food Pantry. Schedule: Fri 10 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Indian Valley Food Pantry",
+      "address": "224 Mill Street, Greenville, CA 95947",
+      "lat": 40.14017,
+      "lng": -120.95296,
+      "category": "food-assistance",
+      "sourceOrg": "Indian Valley Food Pantry",
+      "url": "https://fbnn.org/",
+      "schedulePattern": "Fri 10 AM–12 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-eastern-plumas-community-assistance-network-epca-w13-0930",
+      "seriesSlug": "add-eastern-plumas-community-assistance-network-epca",
+      "title": "Eastern Plumas Community Assistance Network (EPCAN) — Free Food",
+      "description": "Free food at Eastern Plumas Community Assistance Network (EPCAN). Schedule: Mon, Wed 9:30 AM–11:30 AM; Tue, Thu 12:30 PM–2:30 PM. Eligibility: photo ID required. Call (530) 832-4570 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Eastern Plumas Community Assistance Network (EPCAN)",
+      "address": "120 Nevada Street, Portola, CA 96122",
+      "lat": 39.806071,
+      "lng": -120.469258,
+      "category": "food-assistance",
+      "sourceOrg": "Eastern Plumas Community Assistance Network (EPCAN)",
+      "url": "https://fbnn.org/",
+      "schedulePattern": "Mon, Wed 9:30 AM–11:30 AM; Tue, Thu 12:30 PM–2:30 PM",
+      "start": "2026-09-28T09:30",
+      "end": "2026-09-28T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-eastern-plumas-community-assistance-network-epca-w24-1230",
+      "seriesSlug": "add-eastern-plumas-community-assistance-network-epca",
+      "title": "Eastern Plumas Community Assistance Network (EPCAN) — Free Food",
+      "description": "Free food at Eastern Plumas Community Assistance Network (EPCAN). Schedule: Mon, Wed 9:30 AM–11:30 AM; Tue, Thu 12:30 PM–2:30 PM. Eligibility: photo ID required. Call (530) 832-4570 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Eastern Plumas Community Assistance Network (EPCAN)",
+      "address": "120 Nevada Street, Portola, CA 96122",
+      "lat": 39.806071,
+      "lng": -120.469258,
+      "category": "food-assistance",
+      "sourceOrg": "Eastern Plumas Community Assistance Network (EPCAN)",
+      "url": "https://fbnn.org/",
+      "schedulePattern": "Mon, Wed 9:30 AM–11:30 AM; Tue, Thu 12:30 PM–2:30 PM",
+      "start": "2026-09-28T12:30",
+      "end": "2026-09-28T14:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,4"
+    }
+  ]
+}

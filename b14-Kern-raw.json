@@ -1,0 +1,461 @@
+{
+  "_meta": {
+    "topic": "Kern County food distributions",
+    "generated": "2026-10-11"
+  },
+  "sites": [
+    {
+      "name": "CAPK Food Bank - main pantry",
+      "org": "CAPK Food Bank - main pantry",
+      "address": "1807 Feliz Dr, Bakersfield, CA 93307",
+      "phone": "(661) 398-4520",
+      "eligibility": "",
+      "website": "https://www.capk.org/food-bank/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 8:30am-3:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "08:30",
+          "close": "15:30"
+        }
+      ]
+    },
+    {
+      "name": "Catholic Charities - Bakersfield",
+      "org": "Catholic Charities - Bakersfield",
+      "address": "825 Chester Ave, Bakersfield, CA 93301",
+      "phone": "(661) 281-2130",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 8:30am-12:15pm & 1-3:45pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "08:30",
+          "close": "12:15"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "13:00",
+          "close": "15:45"
+        }
+      ]
+    },
+    {
+      "name": "First Congregational Church Food Pantry",
+      "org": "First Congregational Church Food Pantry",
+      "address": "5 Real Rd, Bakersfield, CA 93309",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 8:30-11:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "08:30",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Golden Empire Gleaners",
+      "org": "Golden Empire Gleaners",
+      "address": "1326 30th St Unit A, Bakersfield, CA 93301",
+      "phone": "(661) 324-2767",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 8am-2pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "08:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "HOPE Center",
+      "org": "HOPE Center",
+      "address": "3311 Manor St, Bakersfield, CA 93308",
+      "phone": "(661) 399-2119",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Wed 9am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed",
+            "4th Wed"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Salvation Army - Bakersfield",
+      "org": "Salvation Army - Bakersfield",
+      "address": "4417 Wilson Rd, Bakersfield, CA 93309",
+      "phone": "(661) 837-4243",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Thu 1-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "13:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Paul's Episcopal Church Pantry",
+      "org": "St. Paul's Episcopal Church Pantry",
+      "address": "2216 17th St, Bakersfield, CA 93301",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 10am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Stay Focused Ministries",
+      "org": "Stay Focused Ministries",
+      "address": "1225 California Ave, Bakersfield, CA 93304",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 9-11am; Wed 1-3pm; Fri 9-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "13:00",
+          "close": "15:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "The Blessing Corner Outreach",
+      "org": "The Blessing Corner Outreach",
+      "address": "101 Union Ave, Bakersfield, CA 93307",
+      "phone": "(661) 861-0349",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue & Fri 3-5pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Fri"
+          ],
+          "open": "15:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "The Mission at Kern County (meals)",
+      "org": "The Mission at Kern County (meals)",
+      "address": "816 E 21st St, Bakersfield, CA 93305",
+      "phone": "(661) 325-0863",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Daily breakfast 6-7am, lunch 11am-12pm, dinner 4:30-5:30pm",
+      "schedules": []
+    },
+    {
+      "name": "Delano Community Connection Center",
+      "org": "Delano Community Connection Center",
+      "address": "1842 Norwalk St, Delano, CA 93215",
+      "phone": "(661) 721-7036",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Thu 8am-3:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "08:00",
+          "close": "15:30"
+        }
+      ]
+    },
+    {
+      "name": "Salvation Army - Lake Isabella",
+      "org": "Salvation Army - Lake Isabella",
+      "address": "6069 Lake Isabella Blvd, Lake Isabella, CA 93240",
+      "phone": "(760) 417-3056",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 10am-4pm; Tue, Thu, Fri 9am-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "10:00",
+          "close": "16:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Thu",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "McFarland Food Pantry (Care & Share)",
+      "org": "McFarland Food Pantry (Care & Share)",
+      "address": "410 E Perkins Ave, McFarland, CA 93250",
+      "phone": "(661) 792-1883",
+      "eligibility": "",
+      "website": "https://mcfarlandfoodpantry.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 3-6pm; 3rd Sat 9-10:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "15:00",
+          "close": "18:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "09:00",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "Salvation Army - Ridgecrest",
+      "org": "Salvation Army - Ridgecrest",
+      "address": "151 N Downs St, Ridgecrest, CA 93555",
+      "phone": "(760) 375-7219",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue & Fri 12:30-1:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Fri"
+          ],
+          "open": "12:30",
+          "close": "13:30"
+        }
+      ]
+    },
+    {
+      "name": "New Hope Temple Food Pantry",
+      "org": "New Hope Temple Food Pantry",
+      "address": "308 Harrison St, Taft, CA 93268",
+      "phone": "(661) 765-4572",
+      "eligibility": "",
+      "website": "https://newhopetaft.com/food-bank",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Last two Tue of the month 8:30am",
+      "schedules": []
+    },
+    {
+      "name": "Taft NEEDS Center",
+      "org": "Taft NEEDS Center",
+      "address": "518 Main St, Taft, CA 93268",
+      "phone": "(661) 763-4888",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon & Fri 9am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Salvation Army - Tehachapi",
+      "org": "Salvation Army - Tehachapi",
+      "address": "538 E Tehachapi Blvd, Tehachapi, CA 93561",
+      "phone": "(661) 823-9508",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Tue, Thu, Fri 8am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Thu",
+            "Fri"
+          ],
+          "open": "08:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Malachy Church (St. Vincent de Paul)",
+      "org": "St. Malachy Church (St. Vincent de Paul)",
+      "address": "407 W E St, Tehachapi, CA 93561",
+      "phone": "(661) 822-1920",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed & Fri 9:45-11:45am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed",
+            "Fri"
+          ],
+          "open": "09:45",
+          "close": "11:45"
+        }
+      ]
+    },
+    {
+      "name": "Free Will Baptist Church Food Pantry",
+      "org": "Free Will Baptist Church Food Pantry",
+      "address": "938 7th St, Wasco, CA 93280",
+      "phone": "(661) 758-5906",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 9am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    }
+  ]
+}

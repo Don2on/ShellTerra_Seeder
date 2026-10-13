@@ -1,0 +1,245 @@
+{
+  "_meta": {
+    "topic": "Yolo County food distributions",
+    "generated": "2026-10-11",
+    "source": "Hand-collected list (FOOD Share of Ventura County, Yolo Food Bank, Feed America). Schedules parsed via LA clause parser.",
+    "note": "Ventura/Yuba net-new; Yolo = additions to existing shell (prepare with --existing + real --shell-id)."
+  },
+  "sites": [
+    {
+      "name": "ASUCD The Pantry - Memorial Union (students)",
+      "org": "ASUCD The Pantry - Memorial Union (students)",
+      "address": ", Davis, CA 95616",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://yolofoodbank.org",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "Sat and Sun 12pm-2pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat",
+            "Sun"
+          ],
+          "open": "12:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Martin's Episcopal Church",
+      "org": "St. Martin's Episcopal Church",
+      "address": "640 Hawthorne Ln, Davis, CA 95616",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://yolofoodbank.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 11:30am-12:15pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "11:30",
+          "close": "12:15"
+        }
+      ]
+    },
+    {
+      "name": "UC Davis Memorial Union distribution",
+      "org": "UC Davis Memorial Union distribution",
+      "address": "250 W Quad, Davis, CA 95616",
+      "phone": "530-752-2612",
+      "eligibility": "",
+      "website": "https://yolofoodbank.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 1pm-3pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "13:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Yolo Food Bank - Davis Distribution Site",
+      "org": "Yolo Food Bank - Davis Distribution Site",
+      "address": "441 D Street, Davis, CA 95616",
+      "phone": "530-668-0690",
+      "eligibility": "",
+      "website": "https://yolofoodbank.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 8:30am while supplies last",
+      "schedules": []
+    },
+    {
+      "name": "RISE Inc. - Esparto",
+      "org": "RISE Inc. - Esparto",
+      "address": "17317 Fremont St, Esparto, CA 95627",
+      "phone": "530-668-0690",
+      "eligibility": "",
+      "website": "https://yolofoodbank.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Thu 9:30am",
+      "schedules": []
+    },
+    {
+      "name": "Empower Yolo - Knights Landing (walk-up market)",
+      "org": "Empower Yolo - Knights Landing (walk-up market)",
+      "address": "9586 Mill St, Knights Landing, CA 95645",
+      "phone": "530-668-0690",
+      "eligibility": "",
+      "website": "https://yolofoodbank.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 7am-9:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "07:00",
+          "close": "09:30"
+        }
+      ]
+    },
+    {
+      "name": "City of West Sacramento City Hall parking lot (walk-up)",
+      "org": "City of West Sacramento City Hall parking lot (walk-up)",
+      "address": "1271 West Capitol Avenue, West Sacramento, CA 95691",
+      "phone": "530-668-0690",
+      "eligibility": "",
+      "website": "https://yolofoodbank.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 8:30am while supplies last",
+      "schedules": []
+    },
+    {
+      "name": "Masjid Aisha (walk-up market)",
+      "org": "Masjid Aisha (walk-up market)",
+      "address": "700 Glide Ave, West Sacramento, CA 95691",
+      "phone": "530-668-0690",
+      "eligibility": "",
+      "website": "https://yolofoodbank.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 8:30am while supplies last",
+      "schedules": []
+    },
+    {
+      "name": "River City Food Bank - West Sacramento",
+      "org": "River City Food Bank - West Sacramento",
+      "address": "720 Roble Court, West Sacramento, CA 95691",
+      "phone": "916-371-2760",
+      "eligibility": "",
+      "website": "https://yolofoodbank.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Tue, Thu 10am-2pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Thu"
+          ],
+          "open": "10:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "YCCA West Sacramento Family Resource Center",
+      "org": "YCCA West Sacramento Family Resource Center",
+      "address": "1200 Anna Street, West Sacramento, CA 95605",
+      "phone": "530-668-0690",
+      "eligibility": "",
+      "website": "https://yolofoodbank.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 1pm-3pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "13:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Winters High School (Yolo Food Bank distribution)",
+      "org": "Winters High School (Yolo Food Bank distribution)",
+      "address": "101 Grant Avenue, Winters, CA 95694",
+      "phone": "530-668-0690",
+      "eligibility": "",
+      "website": "https://yolofoodbank.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 11am while supplies last",
+      "schedules": []
+    },
+    {
+      "name": "Woodland Volunteer Food Closet",
+      "org": "Woodland Volunteer Food Closet",
+      "address": "420 Grand Ave, Woodland, CA 95695",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://yolofoodbank.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 3pm-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "15:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Yolo Food Bank (Court St site)",
+      "org": "Yolo Food Bank (Court St site)",
+      "address": "202 W Court St, Woodland, CA 95695",
+      "phone": "530-668-0690",
+      "eligibility": "",
+      "website": "https://yolofoodbank.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 9am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "09:00",
+          "close": "13:00"
+        }
+      ]
+    }
+  ]
+}

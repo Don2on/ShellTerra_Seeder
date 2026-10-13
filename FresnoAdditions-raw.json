@@ -1,0 +1,3469 @@
+{
+  "_meta": {
+    "topic": "Fresno County food distributions",
+    "generated": "2026-10-11",
+    "source": "Hand-collected list (Central California Food Bank, North State / NVC Food Bank, Food for People, Imperial Valley Food Bank locators). Schedules parsed via LA clause parser. lat/lng geocoded downstream.",
+    "note": "Drop-in raw for prepare-food-additions.mjs. Same-address program variants kept as separate pins (allowColocated). \"Monthly (date varies)\" and single start-times route to _deferred."
+  },
+  "sites": [
+    {
+      "name": "Big Sandy Rancheria",
+      "org": "Big Sandy Rancheria",
+      "address": "37387 Auberry Mission Rd, Auberry, CA 93602",
+      "phone": "(559) 237-3663 ext. 1108",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Thu 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Thu"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Sierra Lutheran Church - USDA",
+      "org": "Sierra Lutheran Church - USDA",
+      "address": "32410 Rock Hill Ln, Auberry, CA 93602",
+      "phone": "559-855-8989",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Sat 8-10am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat"
+          ],
+          "open": "08:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Biola Community Center - Neighborhood Market",
+      "org": "Biola Community Center - Neighborhood Market",
+      "address": "4925 N. 7th Ave, Biola, CA 93606",
+      "phone": "559-681-0250",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Wed 4-6pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Wed"
+          ],
+          "open": "16:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Biola Community Center - USDA",
+      "org": "Biola Community Center - USDA",
+      "address": "4925 N. 7th Ave, Biola, CA 93606",
+      "phone": "559-843-2657",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Wed 9:30am-2pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed"
+          ],
+          "open": "09:30",
+          "close": "14:00"
+        }
+      ],
+      "allowColocated": true
+    },
+    {
+      "name": "EOC - Cantua Creek",
+      "org": "EOC - Cantua Creek",
+      "address": "16101 S. Derrick Ave, Cantua Creek, CA 93608",
+      "phone": "559-263-1029",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Mon 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Mon"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Caruthers Church of Christ",
+      "org": "Caruthers Church of Christ",
+      "address": "2341 W. Sandy St, Caruthers, CA 93609",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Sat 8-10am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Sat"
+          ],
+          "open": "08:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Caruthers Seventh Day Adventist",
+      "org": "Caruthers Seventh Day Adventist",
+      "address": "2257 W. Sandy St, Caruthers, CA 93609",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "pantry and USDA",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Sat"
+          ],
+          "open": "14:00",
+          "close": "16:30"
+        }
+      ]
+    },
+    {
+      "name": "Caruthers United Methodist Church",
+      "org": "Caruthers United Methodist Church",
+      "address": "2359 W. Superior Ave, Caruthers, CA 93609",
+      "phone": "559-772-5104",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "By appointment only",
+      "schedules": []
+    },
+    {
+      "name": "Clovis SDA",
+      "org": "Clovis SDA",
+      "address": "2370 Helm Ave, Clovis, CA 93612",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Sat 9am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Sat"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Faith Community Church - USDA",
+      "org": "Faith Community Church - USDA",
+      "address": "430 Peach Ave, Clovis, CA 93612",
+      "phone": "559-298-3097",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Pantry 1st & 3rd Tue 1:30-3:30pm; USDA 2nd Sat 8-10am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Tue",
+            "3rd Tue"
+          ],
+          "open": "13:30",
+          "close": "15:30"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat"
+          ],
+          "open": "08:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Oak Hills Church",
+      "org": "Oak Hills Church",
+      "address": "1446A Tollhouse Rd, Clovis, CA 93611",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "2nd Fri 1-3pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Fri"
+          ],
+          "open": "13:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Praise Church Clovis",
+      "org": "Praise Church Clovis",
+      "address": "1600 Willow Ave, Clovis, CA 93613",
+      "phone": "(559) 237-3663 ext. 1108",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Thu 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "The Salvation Army Clovis - USDA",
+      "org": "The Salvation Army Clovis - USDA",
+      "address": "210 E Barstow Ave, Clovis, CA 93612",
+      "phone": "559-298-6797",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue & Thu 9am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Willow Center",
+      "org": "Willow Center",
+      "address": "2529 Willow Ave, Clovis, CA 93612",
+      "phone": "559-229-2000",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Thu 2-4pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu"
+          ],
+          "open": "14:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Chapel Grace - Mobile Pantry",
+      "org": "Chapel Grace - Mobile Pantry",
+      "address": "120 E. Hawthorne St, Coalinga, CA 93210",
+      "phone": "(559) 237-3663 ext. 1108",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Wed 9am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Wed"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Faith Fellowship",
+      "org": "Faith Fellowship",
+      "address": "520 Monroe St, Coalinga, CA 93210",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Fri 1-3pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Fri"
+          ],
+          "open": "13:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Pleasant Valley Christian Church",
+      "org": "Pleasant Valley Christian Church",
+      "address": "160 E. Birch St, Coalinga, CA 93210",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Pantry 3rd Tue 5:30-7:30pm; Groceries2Go 3rd Mon 3:30-6pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Tue"
+          ],
+          "open": "17:30",
+          "close": "19:30"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Mon"
+          ],
+          "open": "15:30",
+          "close": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "West Hills College - Coalinga",
+      "org": "West Hills College - Coalinga",
+      "address": "300 W. Cherry, Coalinga, CA 93210",
+      "phone": "559-925-3000",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Student pantry, West Hills College students only",
+      "schedules": []
+    },
+    {
+      "name": "Westside Family Services - Coalinga USDA",
+      "org": "Westside Family Services - Coalinga USDA",
+      "address": "160 W. Elm St, Coalinga, CA 93210",
+      "phone": "559-945-1022",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Mon 10am-12pm & 1-5pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Mon"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ],
+      "allowColocated": true
+    },
+    {
+      "name": "Shining Light Ministries Pantry",
+      "org": "Shining Light Ministries Pantry",
+      "address": "5211 Portola Ave, Del Rey, CA 93616",
+      "phone": "(559) 614-8776",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Sat 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Zion Mt Christian/Dunlap - USDA",
+      "org": "Zion Mt Christian/Dunlap - USDA",
+      "address": "39712 Dunlap Rd, Dunlap, CA 93621",
+      "phone": "559-338-2525",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Tue 11am-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue"
+          ],
+          "open": "11:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "EOC - Firebaugh",
+      "org": "EOC - Firebaugh",
+      "address": "1655 13th St, Firebaugh, CA 93622",
+      "phone": "559-263-1029",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Thu 9am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Firebaugh - Mobile Pantry",
+      "org": "Firebaugh - Mobile Pantry",
+      "address": "1653 13th St, Firebaugh, CA 93622",
+      "phone": "(559) 237-3663 ext. 1108",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Wed 9am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Wed"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Firebaugh - USDA",
+      "org": "Firebaugh - USDA",
+      "address": "1653 13th St, Firebaugh, CA 93622",
+      "phone": "(559) 237-3663 ext. 1108",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Thu 9-11:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Thu"
+          ],
+          "open": "09:00",
+          "close": "11:30"
+        }
+      ],
+      "allowColocated": true
+    },
+    {
+      "name": "Firebaugh Rodeo Grounds - Neighborhood Market",
+      "org": "Firebaugh Rodeo Grounds - Neighborhood Market",
+      "address": "1653 13th St, Firebaugh, CA 93622",
+      "phone": "(559) 237-3663 ext. 1108",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Thu 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu",
+            "3rd Thu"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ],
+      "allowColocated": true
+    },
+    {
+      "name": "Iglesia Jesucristo Mi Roca",
+      "org": "Iglesia Jesucristo Mi Roca",
+      "address": "2035 N. Helm Canal Rd, Firebaugh, CA 93622",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Sat 2-4pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "14:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Fowler Baptist Church USDA",
+      "org": "Fowler Baptist Church USDA",
+      "address": "507 E. Merced St, Fowler, CA 93625",
+      "phone": "559-834-5541",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Wed 8:30-10:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Wed"
+          ],
+          "open": "08:30",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "A Hopeful Encounter",
+      "org": "A Hopeful Encounter",
+      "address": "3253 E. Shields Ave, Fresno, CA 93726",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Fri 3-5pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Fri"
+          ],
+          "open": "15:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Acts Foundation - USDA",
+      "org": "Acts Foundation - USDA",
+      "address": "5125 N. Gates Ave, Fresno, CA 93722",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "USDA 2nd Sat 8:30-10am; pantry 4th Sat 8:30-10am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat"
+          ],
+          "open": "08:30",
+          "close": "10:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Sat"
+          ],
+          "open": "08:30",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Amazing Grace Ministries",
+      "org": "Amazing Grace Ministries",
+      "address": "1225 S Maple, Fresno, CA",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Thu 8-10am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Thu"
+          ],
+          "open": "08:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Bethel Church of Christ Holiness USA Pantry",
+      "org": "Bethel Church of Christ Holiness USA Pantry",
+      "address": "308 N 4th St, Fresno, CA 93702",
+      "phone": "(559) 351-9190",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "call for time",
+      "schedules": []
+    },
+    {
+      "name": "Big Picture Adult High School",
+      "org": "Big Picture Adult High School",
+      "address": "2841 Tulare St, Fresno, CA 93721",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Wed 1:30-3:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Wed"
+          ],
+          "open": "13:30",
+          "close": "15:30"
+        }
+      ]
+    },
+    {
+      "name": "Binational of California",
+      "org": "Binational of California",
+      "address": "3302 N. Blackstone Ave, Ste 221, Fresno, CA 93726",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 9-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Blakeney Children Foundation",
+      "org": "Blakeney Children Foundation",
+      "address": "4666 N. Maple Ave, Fresno, CA 93726",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Sat 1:30-3:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "13:30",
+          "close": "15:30"
+        }
+      ]
+    },
+    {
+      "name": "Bulldog Pantry / LCM",
+      "org": "Bulldog Pantry / LCM",
+      "address": "2311 E. Shaw Ave, Fresno, CA 93710",
+      "phone": "559-224-9052",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Sat 9-10:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat",
+            "4th Sat"
+          ],
+          "open": "09:00",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "Butler Mennonite Brethren Church - USDA",
+      "org": "Butler Mennonite Brethren Church - USDA",
+      "address": "4884 E. Butler Ave, Fresno, CA 93727",
+      "phone": "559-252-3741",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Fri 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Butler Pentecostal Church - Neighborhood Market",
+      "org": "Butler Pentecostal Church - Neighborhood Market",
+      "address": "3542 E. Butler Ave, Fresno, CA 93702",
+      "phone": "(559) 237-3663 ext. 1108",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Wed 9am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Wed"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Butler Pentecostal Church - Pantry",
+      "org": "Butler Pentecostal Church - Pantry",
+      "address": "3542 E. Butler Ave, Fresno, CA 93702",
+      "phone": "559-268-0094",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Last Sat 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "last Sat"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ],
+      "allowColocated": true
+    },
+    {
+      "name": "Californian Hotel - USDA",
+      "org": "Californian Hotel - USDA",
+      "address": "851 Van Ness Ave, Fresno, CA 93721",
+      "phone": "559-485-8190",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Thu 8:30-10:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Thu"
+          ],
+          "open": "08:30",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "Catholic Charities - Pantry",
+      "org": "Catholic Charities - Pantry",
+      "address": "149 N. Fulton St, Fresno, CA 93701",
+      "phone": "559-237-0851",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 8:30am-12:15pm & 1-3:45pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "08:30",
+          "close": "12:15"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "13:00",
+          "close": "15:45"
+        }
+      ]
+    },
+    {
+      "name": "Catholic Charities - Neighborhood Market",
+      "org": "Catholic Charities - Neighborhood Market",
+      "address": "149 N. Fulton St, Fresno, CA 93701",
+      "phone": "559-237-0851",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Thu 8:30-10:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Thu"
+          ],
+          "open": "08:30",
+          "close": "10:30"
+        }
+      ],
+      "allowColocated": true
+    },
+    {
+      "name": "Catholic Charities - USDA",
+      "org": "Catholic Charities - USDA",
+      "address": "149 N. Fulton St, Fresno, CA 93701",
+      "phone": "559-237-0851",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Mon 8:30-10:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Mon"
+          ],
+          "open": "08:30",
+          "close": "10:30"
+        }
+      ],
+      "allowColocated": true
+    },
+    {
+      "name": "Central Valley SDA Church - USDA",
+      "org": "Central Valley SDA Church - USDA",
+      "address": "3901 E. Clinton Ave, Fresno, CA 93703",
+      "phone": "559-438-5433",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "USDA 3rd Fri 2-4pm; pantry Mon-Thu 10-11:30am and 2nd & 4th Wed 1-2:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Fri"
+          ],
+          "open": "14:00",
+          "close": "16:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "10:00",
+          "close": "11:30"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed",
+            "4th Wed"
+          ],
+          "open": "13:00",
+          "close": "14:30"
+        }
+      ]
+    },
+    {
+      "name": "Centro Familiar de Adoracion - USDA",
+      "org": "Centro Familiar de Adoracion - USDA",
+      "address": "4546 E. Thomas, Fresno, CA 93702",
+      "phone": "559-970-1516",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Fri 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Clovis Hills Community Church (Tulare Street)",
+      "org": "Clovis Hills Community Church (Tulare Street)",
+      "address": "819 Tulare St, Fresno, CA 93706",
+      "phone": "559-392-1587",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Thu 2-4pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu",
+            "4th Thu"
+          ],
+          "open": "14:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Covenant of Faith Family Ministries Intl.",
+      "org": "Covenant of Faith Family Ministries Intl.",
+      "address": "6269 E. Kings Canyon Rd, Fresno, CA 93727",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Sat 9am-2pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "09:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Crossover Community Church",
+      "org": "Crossover Community Church",
+      "address": "6050 S. Lotus Ave, Fresno, CA 93706",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "except November & December",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "EOC - Pinedale",
+      "org": "EOC - Pinedale",
+      "address": "7435 N Ingram, Fresno, CA 93711",
+      "phone": "559-263-1029",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Wed 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Family Alliance Church",
+      "org": "Family Alliance Church",
+      "address": "2010 N Sierra Vista Ave, Fresno, CA 93703",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Thu 5-7pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Thu"
+          ],
+          "open": "17:00",
+          "close": "19:00"
+        }
+      ]
+    },
+    {
+      "name": "Feed My Sheep",
+      "org": "Feed My Sheep",
+      "address": "117 E. Lemon Ave, Fresno, CA 93706",
+      "phone": "(559) 237-3663 ext. 1108",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Fri 11am-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Fri",
+            "4th Fri"
+          ],
+          "open": "11:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Fellowship Missionary Baptist - Neighborhood Market",
+      "org": "Fellowship Missionary Baptist - Neighborhood Market",
+      "address": "2529 E. Belmont Ave, Fresno, CA 93701",
+      "phone": "(559) 237-3663 ext. 1108",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Mon 10am-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Mon"
+          ],
+          "open": "10:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Fellowship Missionary Baptist - Pantry",
+      "org": "Fellowship Missionary Baptist - Pantry",
+      "address": "2529 E. Belmont Ave, Fresno, CA 93701",
+      "phone": "559-441-1661",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Sat 8-10am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat",
+            "4th Sat"
+          ],
+          "open": "08:00",
+          "close": "10:00"
+        }
+      ],
+      "allowColocated": true
+    },
+    {
+      "name": "First Congregational Church of Fresno (Big Red Church)",
+      "org": "First Congregational Church of Fresno (Big Red Church)",
+      "address": "2131 N. Van Ness Blvd, Fresno, CA 93704",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Sat 9am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Sat"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "First Fruits Market",
+      "org": "First Fruits Market",
+      "address": "2025 E Dakota Ave, Fresno, CA 93726",
+      "phone": "559-237-3663",
+      "eligibility": "pre-registration",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed, Fri, Sat 8:30am-2:30pm (pre-registration)",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed",
+            "Fri",
+            "Sat"
+          ],
+          "open": "08:30",
+          "close": "14:30"
+        }
+      ]
+    },
+    {
+      "name": "Fresno Central SDA",
+      "org": "Fresno Central SDA",
+      "address": "422 E. Shields Ave, Fresno, CA 93704",
+      "phone": "",
+      "eligibility": "photo ID",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 9:30-11:30am or until food runs out (photo ID)",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "09:30",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Fresno Christian Reformed",
+      "org": "Fresno Christian Reformed",
+      "address": "1639 W. Shields Ave, Fresno, CA 93705",
+      "phone": "(559) 237-3663 ext. 1108",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Last Fri 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "last Fri"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Fresno EOC @ LCC",
+      "org": "Fresno EOC @ LCC",
+      "address": "1805 E. California Ave, Fresno, CA 93706",
+      "phone": "559-263-1029",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Sat 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Sat"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Fresno Sequoia Spanish SDA - USDA",
+      "org": "Fresno Sequoia Spanish SDA - USDA",
+      "address": "4867 E. Fillmore Ave, Fresno, CA 93727",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Pantry 1st Sat 4-6pm; USDA 4th Tue 9-11:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Sat"
+          ],
+          "open": "16:00",
+          "close": "18:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Tue"
+          ],
+          "open": "09:00",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Fresno Spanish SDA - USDA",
+      "org": "Fresno Spanish SDA - USDA",
+      "address": "3033 E Olive Ave, Fresno, CA 93701",
+      "phone": "559-237-7242",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Wed 9am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Fresno Sunnyside SDA",
+      "org": "Fresno Sunnyside SDA",
+      "address": "5375 N. Maroa Ave, Fresno, CA 93704",
+      "phone": "559-229-5501",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Wed 8:45-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Wed"
+          ],
+          "open": "08:45",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Fresno Westside SDA",
+      "org": "Fresno Westside SDA",
+      "address": "2750 Martin Luther King Blvd, Fresno, CA 93706",
+      "phone": "559-233-3648",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Wed 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Wed"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Friends of Calwa",
+      "org": "Friends of Calwa",
+      "address": "3980 E. Jensen, Fresno, CA 93725",
+      "phone": "559-374-6922",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "USDA 3rd Fri 9am-12pm; pantry Mon-Fri 11am-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Fri"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "11:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "God's Family Church",
+      "org": "God's Family Church",
+      "address": "7272 W. Shaw Ave, Fresno, CA 93722",
+      "phone": "559-276-7272",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Last Tue 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "last Tue"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Grace Bound Inc.",
+      "org": "Grace Bound Inc.",
+      "address": "420 N Broadway St, Fresno, CA 93701",
+      "phone": "559-500-9503",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Thu 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Grantland Southern Baptist Church",
+      "org": "Grantland Southern Baptist Church",
+      "address": "6438 N. Grantland Ave, Fresno, CA 93723",
+      "phone": "559-275-6397",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Sun 11am-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sun",
+            "4th Sun"
+          ],
+          "open": "11:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Harmony Hope Chest Church",
+      "org": "Harmony Hope Chest Church",
+      "address": "5372 E. Belmont Ave, Fresno, CA 93727",
+      "phone": "559-251-5630",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Fri 4-6pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Fri"
+          ],
+          "open": "16:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Harmony Korean Church",
+      "org": "Harmony Korean Church",
+      "address": "403 S Clovis Ave, Fresno, CA 93727",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 1:30-3:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "13:30",
+          "close": "15:30"
+        }
+      ]
+    },
+    {
+      "name": "Highway City Community Development",
+      "org": "Highway City Community Development",
+      "address": "4710 N. Polk Ave, Fresno, CA 93722",
+      "phone": "559-578-8991",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "By referral; call for assistance",
+      "schedules": []
+    },
+    {
+      "name": "Holy Ground Family Fellowship - NM/USDA",
+      "org": "Holy Ground Family Fellowship - NM/USDA",
+      "address": "980 Gettysburg Ave, Fresno, CA 93612",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Apr-Nov; Dec-Mar",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Sat"
+          ],
+          "open": "07:30",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "Hope Lutheran Church - USDA",
+      "org": "Hope Lutheran Church - USDA",
+      "address": "364 E. Barstow Ave, Fresno, CA 93710",
+      "phone": "559-439-4320",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 7-9am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "07:00",
+          "close": "09:00"
+        }
+      ]
+    },
+    {
+      "name": "Hope Worldwide - USDA",
+      "org": "Hope Worldwide - USDA",
+      "address": "3425 E. Shields Ave, Fresno, CA 93726",
+      "phone": "559-999-3966",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Sat 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Sat"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Hopewell Baptist Church",
+      "org": "Hopewell Baptist Church",
+      "address": "2627 S. Marks Ave, Fresno, CA 93706",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Last Sat 8-10am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "last Sat"
+          ],
+          "open": "08:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Immanuel Lutheran Church",
+      "org": "Immanuel Lutheran Church",
+      "address": "5955 S. Elm Ave, Fresno, CA 93706",
+      "phone": "(559) 237-3663 ext. 1108",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Fri 8-10am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Fri"
+          ],
+          "open": "08:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Koinonia Worship Center",
+      "org": "Koinonia Worship Center",
+      "address": "5136 E Belmont Ave, Fresno, CA 93727",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Last Sat 9am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "last Sat"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Korean Presbyterian Church of Fresno",
+      "org": "Korean Presbyterian Church of Fresno",
+      "address": "6515 N. Maroa Ave, Fresno, CA 93704",
+      "phone": "559-431-6810",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Fri 11am-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Fri"
+          ],
+          "open": "11:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Life Cathedral Church of God",
+      "org": "Life Cathedral Church of God",
+      "address": "6825 N. Maple Ave, Fresno, CA 93710",
+      "phone": "559-299-4747",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Sat 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Life Free Will Baptist Church Neighborhood Market",
+      "org": "Life Free Will Baptist Church Neighborhood Market",
+      "address": "1625 E. Pine St, Fresno, CA 93727",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & last Sat, 7am until food runs out",
+      "schedules": []
+    },
+    {
+      "name": "Life Ministries Church",
+      "org": "Life Ministries Church",
+      "address": "552 E. Tuolumne St, Fresno, CA 93706",
+      "phone": "559-960-5590",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Last Fri 12-2pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "last Fri"
+          ],
+          "open": "12:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Malaga Community Center - USDA",
+      "org": "Malaga Community Center - USDA",
+      "address": "3582 S Winery Ave, Fresno, CA 93725",
+      "phone": "559-268-0404",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Wed 9am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Wed"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Martin Park",
+      "org": "Martin Park",
+      "address": "2856 E Tyler Ave, Fresno, CA 93701",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 1-3pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "13:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Masjid Al Aqabah",
+      "org": "Masjid Al Aqabah",
+      "address": "949 Waterman Ave, Fresno, CA 93706",
+      "phone": "559-515-6560",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st, 2nd & 4th Wed 3-5pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Wed",
+            "2nd Wed",
+            "4th Wed"
+          ],
+          "open": "15:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Masjid Fresno",
+      "org": "Masjid Fresno",
+      "address": "2111 E. Shaw Ave, Fresno, CA 93710",
+      "phone": "559-222-6686",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Thu 11am-1pm or until food runs out",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu",
+            "3rd Thu"
+          ],
+          "open": "11:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Mennonite Community Church",
+      "org": "Mennonite Community Church",
+      "address": "5015 E Olive Ave, Fresno, CA 93727",
+      "phone": "559-251-5703",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "USDA 2nd Sat 9am-12pm; pantry 4th Sat 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Sat"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Mt. Olive Baptist Church - USDA",
+      "org": "Mt. Olive Baptist Church - USDA",
+      "address": "101 W Clinton Ave, Fresno, CA 93705",
+      "phone": "559-228-1880",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Fri 1-3pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Fri"
+          ],
+          "open": "13:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Mt. View Community Church",
+      "org": "Mt. View Community Church",
+      "address": "3600 N. Fowler Ave, Fresno, CA 93727",
+      "phone": "559-291-9199",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Last Sat 9-10am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "last Sat"
+          ],
+          "open": "09:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Mt. Zion Assemblies - USDA",
+      "org": "Mt. Zion Assemblies - USDA",
+      "address": "4368 N. Brawley, Fresno, CA 93722",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Fri 6-8pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Fri"
+          ],
+          "open": "18:00",
+          "close": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "My Homies Kitchen Pantry",
+      "org": "My Homies Kitchen Pantry",
+      "address": "2467 S Elm Ave, Fresno, CA 93721",
+      "phone": "(559) 420-9259",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 1-3pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "13:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "New Birth Evangelistic Center Church",
+      "org": "New Birth Evangelistic Center Church",
+      "address": "2360 S. Bardell, Fresno, CA 93706",
+      "phone": "559-485-6583",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Wed 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Wed"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "New Kingdom Church",
+      "org": "New Kingdom Church",
+      "address": "1825 S Delno, Fresno, CA 93706",
+      "phone": "559-307-1930",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Sat 12-2pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "12:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "New Life Baptist Church",
+      "org": "New Life Baptist Church",
+      "address": "2033 S Cedar Ave, Fresno, CA 93702",
+      "phone": "559-264-5330",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Thu 9:30-11:30am; 3rd Sat 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Thu"
+          ],
+          "open": "09:30",
+          "close": "11:30"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "North Assembly of God",
+      "org": "North Assembly of God",
+      "address": "2707 W Dakota, Fresno, CA 93711",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Tue 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Our Saviour's Lutheran Church - USDA",
+      "org": "Our Saviour's Lutheran Church - USDA",
+      "address": "2101 N. Fruit Ave, Fresno, CA 93705",
+      "phone": "559-237-7603",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "USDA 1st Mon 1-3pm; pantry Sun 11:30am-12:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Mon"
+          ],
+          "open": "13:00",
+          "close": "15:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Sun"
+          ],
+          "open": "11:30",
+          "close": "12:30"
+        }
+      ]
+    },
+    {
+      "name": "Paraclete Missionary Baptist Church",
+      "org": "Paraclete Missionary Baptist Church",
+      "address": "757 S Orange, Fresno, CA 93702",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Sat 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Peanut Butter & Jelly Ministries",
+      "org": "Peanut Butter & Jelly Ministries",
+      "address": "3585 N. Blythe Ave, Fresno, CA 93722",
+      "phone": "(559) 237-3663 ext. 1108",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Wed 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Wed"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Peoples Church Fresno",
+      "org": "Peoples Church Fresno",
+      "address": "7172 N Cedar Ave, Fresno, CA 93720",
+      "phone": "559-298-8001",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Tue 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue",
+            "4th Tue"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Rainbow Housing Corporation",
+      "org": "Rainbow Housing Corporation",
+      "address": "2319 S. Bardell Ave (back parking lot), Fresno, CA 93706",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Wed 2-4pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Wed"
+          ],
+          "open": "14:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Rapto Divino Church (Fresno) - USDA",
+      "org": "Rapto Divino Church (Fresno) - USDA",
+      "address": "3707 E. Laurite Ave, Fresno, CA 93726",
+      "phone": "(559) 237-3663 ext. 1108",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Fri 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Fri"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Saints Community Church - USDA",
+      "org": "Saints Community Church - USDA",
+      "address": "3740 E Ashlan Ave, Fresno, CA 93726",
+      "phone": "559-227-9819",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Pantry 1st, 3rd & 4th Tue 11am-12pm; USDA 2nd Tue 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Tue",
+            "3rd Tue",
+            "4th Tue"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Second Baptist Church - USDA",
+      "org": "Second Baptist Church - USDA",
+      "address": "1041 E Jensen, Fresno, CA 93706",
+      "phone": "559-486-9993",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Wed 8am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed"
+          ],
+          "open": "08:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "South Point Church",
+      "org": "South Point Church",
+      "address": "5391 E. Tulare Ave, Fresno, CA 93727",
+      "phone": "559-455-1119",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "breakfast at 9am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Sovereign Ministries",
+      "org": "Sovereign Ministries",
+      "address": "4744 E Church Ave, Fresno, CA 93725",
+      "phone": "559-297-7362",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Wed 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed",
+            "4th Wed"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Anthony Mary Claret Church",
+      "org": "St. Anthony Mary Claret Church",
+      "address": "2494 S. Chestnut Ave, Fresno, CA 93725",
+      "phone": "559-255-4260",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Fri 4-6pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Fri"
+          ],
+          "open": "16:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "St. James Episcopal Cathedral",
+      "org": "St. James Episcopal Cathedral",
+      "address": "4147 E Dakota Ave, Fresno, CA 93726",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Tue 9:30-11:30am or until food runs out",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Tue"
+          ],
+          "open": "09:30",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "St. Rest Baptist Church",
+      "org": "St. Rest Baptist Church",
+      "address": "1550 E. Chester Riggins Ave, Fresno, CA 93706",
+      "phone": "(559) 237-3663 ext. 1108",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Pantry Mon, Wed, Fri, Sat 9-11am; Neighborhood Market and USDA 1st Sat 9-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed",
+            "Fri",
+            "Sat"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Sat"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "The Arc Fresno Madera (Loewen Achievement Center)",
+      "org": "The Arc Fresno Madera (Loewen Achievement Center)",
+      "address": "4490 E Ashlan Ave, Fresno, CA 93726",
+      "phone": "559-547-2621",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 10-11:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "10:00",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "The Body Community Church",
+      "org": "The Body Community Church",
+      "address": "350 W. Minarets Ave, Fresno, CA 93650",
+      "phone": "559-213-3981",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Last Sat 8-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "last Sat"
+          ],
+          "open": "08:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "The Bridge Evangelical Free Church",
+      "org": "The Bridge Evangelical Free Church",
+      "address": "3438 E. Ashlan Ave, Fresno, CA 93726",
+      "phone": "559-226-4100",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Wed 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Wed",
+            "3rd Wed"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "The Fresno Center",
+      "org": "The Fresno Center",
+      "address": "4879 E. Kings Canyon Rd, Fresno, CA 93727",
+      "phone": "(559) 237-3663 ext. 1108",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Mon 3-5pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Mon"
+          ],
+          "open": "15:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "The Living Room",
+      "org": "The Living Room",
+      "address": "1330 E Olive Ave, Fresno, CA 93728",
+      "phone": "559-486-1469",
+      "eligibility": "must call for eligibility",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Thu 10am-4pm (must call for eligibility)",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu",
+            "4th Thu"
+          ],
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "The Salvation Army ARC",
+      "org": "The Salvation Army ARC",
+      "address": "804 S Parallel Ave, Fresno, CA 93702",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 9am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "The Salvation Army Fresno Family Services",
+      "org": "The Salvation Army Fresno Family Services",
+      "address": "1752 Fulton St, Fresno, CA 93721",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Tue, Wed 9am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "United Christian Church",
+      "org": "United Christian Church",
+      "address": "1038 W Shields Ave, Fresno, CA 93705",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Mon 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Mon"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "University Presbyterian Church - USDA",
+      "org": "University Presbyterian Church - USDA",
+      "address": "1776 E Roberts Ave, Fresno, CA 93710",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 8am",
+      "schedules": []
+    },
+    {
+      "name": "Victory Chapel",
+      "org": "Victory Chapel",
+      "address": "4206 W. Dakota Ave, Fresno, CA 93722",
+      "phone": "559-412-8125",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Sat 8-10am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "08:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Wesley United Methodist Church",
+      "org": "Wesley United Methodist Church",
+      "address": "1343 E. Barstow Ave, Fresno, CA 93710",
+      "phone": "559-224-1947",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 9-11am except the 1st Thu of the month",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "West Fresno Family Resource Center",
+      "org": "West Fresno Family Resource Center",
+      "address": "1825 S. Delno Ave, Fresno, CA 93706",
+      "phone": "(559) 237-3663 ext. 1108",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Neighborhood Market",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "13:00",
+          "close": "15:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Thu"
+          ],
+          "open": "13:00",
+          "close": "15:00"
+        }
+      ],
+      "allowColocated": true
+    },
+    {
+      "name": "West McKinley Assembly of God - Neighborhood Market",
+      "org": "West McKinley Assembly of God - Neighborhood Market",
+      "address": "3014 W McKinley Ave, Fresno, CA 93722",
+      "phone": "(559) 237-3663 ext. 1108",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Sat 9-11am; bread pantry 1st, 2nd, 3rd & 5th Fri 12-2pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Sat"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri",
+            "2nd Fri",
+            "3rd Fri",
+            "5th Fri"
+          ],
+          "open": "12:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "West Park Community",
+      "org": "West Park Community",
+      "address": "3279 W. Jensen Ave, Fresno, CA 93706",
+      "phone": "559-477-3551",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Tue 6-8pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue"
+          ],
+          "open": "18:00",
+          "close": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "Westside Church of God - USDA",
+      "org": "Westside Church of God - USDA",
+      "address": "1424 W California Ave, Fresno, CA 93706",
+      "phone": "559-237-1444",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Sat 9-11:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "09:00",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Woodward Park Church",
+      "org": "Woodward Park Church",
+      "address": "7886 N. Millbrook Ave, Fresno, CA 93720",
+      "phone": "559-446-2550",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "not in September",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Sat"
+          ],
+          "open": "06:00",
+          "close": "08:00"
+        }
+      ]
+    },
+    {
+      "name": "Valley Voices Huron",
+      "org": "Valley Voices Huron",
+      "address": "16856 4th St, Huron, CA 93234",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Fri 3-5pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Fri"
+          ],
+          "open": "15:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Westside Family Services - Huron",
+      "org": "Westside Family Services - Huron",
+      "address": "36618 Lassen Ave, Huron, CA 93234",
+      "phone": "(559) 237-3663 ext. 1108",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Neighborhood Market 1st, 2nd & 3rd Mon 10am-12pm & 1-5pm; USDA 4th Wed 10am-12pm & 1-5pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Mon",
+            "2nd Mon",
+            "3rd Mon"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Wed"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Westside Family Services - Kerman - USDA",
+      "org": "Westside Family Services - Kerman - USDA",
+      "address": "15101 W Kearney Blvd, Kerman, CA 93630",
+      "phone": "559-945-1022",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Wed 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Wed"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Kingsburg Community Assistance Program",
+      "org": "Kingsburg Community Assistance Program",
+      "address": "1139 Draper St, Kingsburg, CA 93631",
+      "phone": "559-897-7961",
+      "eligibility": "proof of Kingsburg residency",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Thu 9am-12pm (proof of Kingsburg residency)",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Church of the Nazarene (Laton)",
+      "org": "Church of the Nazarene (Laton)",
+      "address": "6258 E. Murphy Ave, Laton, CA 93242",
+      "phone": "559-923-1200",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Sat 8:30-10:30am; Neighborhood Market 1st & 3rd Tue 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "08:30",
+          "close": "10:30"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Tue",
+            "3rd Tue"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Shrine of Our Lady of Fatima USDA",
+      "org": "Shrine of Our Lady of Fatima USDA",
+      "address": "20855 S. Fatima Ave, Laton, CA 93242",
+      "phone": "559-923-4935",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Mon 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Mon"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "EOC - Mendota (AMOR Wellness Center)",
+      "org": "EOC - Mendota (AMOR Wellness Center)",
+      "address": "121 Belmont Ave, Mendota, CA 93640",
+      "phone": "559-263-1029",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Tue 9am",
+      "schedules": []
+    },
+    {
+      "name": "Little Zion Baptist Church",
+      "org": "Little Zion Baptist Church",
+      "address": "667 Juanita St, Mendota, CA 93640",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Sun 1:30-3:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sun"
+          ],
+          "open": "13:30",
+          "close": "15:30"
+        }
+      ]
+    },
+    {
+      "name": "Rojas-Pierce Park - Neighborhood Market",
+      "org": "Rojas-Pierce Park - Neighborhood Market",
+      "address": "350 Sorenson Ave, Mendota, CA 93640",
+      "phone": "(559) 237-3663 ext. 1108",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Thu 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu",
+            "4th Thu"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Westside Youth Center - USDA",
+      "org": "Westside Youth Center - USDA",
+      "address": "1709 Seventh St, Mendota, CA 93640",
+      "phone": "559-655-4808",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Thu 9am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Thu"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "EOC - Orange Cove",
+      "org": "EOC - Orange Cove",
+      "address": "1705 S. Anchor Ave, Orange Cove, CA 93646",
+      "phone": "559-263-1029",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Tue 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Tue"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Iglesia El Buen Pastor - USDA & Neighborhood Market",
+      "org": "Iglesia El Buen Pastor - USDA & Neighborhood Market",
+      "address": "863 11th St, Orange Cove, CA 93646",
+      "phone": "(559) 237-3663 ext. 1008",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "USDA 1st Tue 9:30-11:30am; Neighborhood Market 2nd & 4th Mon 9:30-11:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Tue"
+          ],
+          "open": "09:30",
+          "close": "11:30"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Mon",
+            "4th Mon"
+          ],
+          "open": "09:30",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Central Valley Resource Center",
+      "org": "Central Valley Resource Center",
+      "address": "13700 E Parlier Ave, Ste A, Parlier, CA 93648",
+      "phone": "559-254-5267",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Last Fri 10am-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "last Fri"
+          ],
+          "open": "10:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "EOC - Parlier",
+      "org": "EOC - Parlier",
+      "address": "690 S Newmark Ave, Parlier, CA 93648",
+      "phone": "559-263-1029",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Fri 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri",
+            "3rd Fri"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Central Sierra Chamber of Commerce - USDA",
+      "org": "Central Sierra Chamber of Commerce - USDA",
+      "address": "54120 Hwy 245, Pinehurst, CA 93641",
+      "phone": "559-336-2800 ext. 243",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Sat 9am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Sat"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Full Gospel Tabernacle - USDA",
+      "org": "Full Gospel Tabernacle - USDA",
+      "address": "519 E 11th St, Reedley, CA 93654",
+      "phone": "559-638-2739",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Sat 8:30-10:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Sat"
+          ],
+          "open": "08:30",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "Miracles In Comm. Association",
+      "org": "Miracles In Comm. Association",
+      "address": "659 E Dinuba Ave, Reedley, CA 93654",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Oct-Dec holiday schedule",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Thu"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Anthony's Food Pantry",
+      "org": "St. Anthony's Food Pantry",
+      "address": "1452 11th St, Reedley, CA 93654",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Thu 5-7pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Thu"
+          ],
+          "open": "17:00",
+          "close": "19:00"
+        }
+      ]
+    },
+    {
+      "name": "Vida En El Valle - Iglesia de Cristo",
+      "org": "Vida En El Valle - Iglesia de Cristo",
+      "address": "1390 11th St, Reedley, CA 93654",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Sat 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Sat"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Lanare Community Center - USDA/Neighborhood Market",
+      "org": "Lanare Community Center - USDA/Neighborhood Market",
+      "address": "20620 S. Grantland Ave, Riverdale, CA 93656",
+      "phone": "(559) 237-3663 ext. 1108",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Neighborhood Market 3rd Thu & 4th Tue 10am-12pm; USDA 2nd Tue 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Thu",
+            "4th Tue"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "San Joaquin Veterans Memorial Hall - Mobile Pantry & Neighborhood Market",
+      "org": "San Joaquin Veterans Memorial Hall - Mobile Pantry & Neighborhood Market",
+      "address": "22001 W. Manning Ave, San Joaquin, CA 93660",
+      "phone": "(559) 237-3663 ext. 1108",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Neighborhood Market 1st & 3rd Wed 9am-12pm; mobile pantry 2nd Thu 9am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Wed",
+            "3rd Wed"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "The Salvation Army San Joaquin - USDA",
+      "org": "The Salvation Army San Joaquin - USDA",
+      "address": "21962 Railroad Ave, San Joaquin, CA 93660",
+      "phone": "559-693-2970",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon & Fri 9-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Annadale Baptist Church",
+      "org": "Annadale Baptist Church",
+      "address": "1511 14th St, Sanger, CA 93657",
+      "phone": "(559) 237-3663 ext. 1108",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Sat 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "EOC - Sanger",
+      "org": "EOC - Sanger",
+      "address": "JFK Park North and Faller Ave, Sanger, CA 93657",
+      "phone": "559-263-1029",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "2nd Mon 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Mon"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Family Worship Center",
+      "org": "Family Worship Center",
+      "address": "1307 I St, Sanger, CA 93657",
+      "phone": "559-618-2330",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Sat 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Father Hannibal House",
+      "org": "Father Hannibal House",
+      "address": "1501 14th St, Sanger, CA 93657",
+      "phone": "559-875-0564",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed, Thu, Fri 10am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Hope Sanger",
+      "org": "Hope Sanger",
+      "address": "1348 Church Ave, Sanger, CA 93657",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Wed 10am-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Wed"
+          ],
+          "open": "10:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Set Free Sanger",
+      "org": "Set Free Sanger",
+      "address": "615 Academy Ave, Sanger, CA 93657",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Fri 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Fri"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "The Worship Center",
+      "org": "The Worship Center",
+      "address": "702 K St, Sanger, CA 93657",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Sat 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Sat"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Ministerio Jordan Nueva Vision",
+      "org": "Ministerio Jordan Nueva Vision",
+      "address": "2150 E Front St, Selma, CA 93662",
+      "phone": "559-546-9671",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "or 5th",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu",
+            "4th Thu"
+          ],
+          "open": "14:30",
+          "close": "16:30"
+        }
+      ]
+    },
+    {
+      "name": "Pastores En Oracion",
+      "org": "Pastores En Oracion",
+      "address": "2026 Arrants St, Selma, CA 93662",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Wed, Fri 2:30-4:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed",
+            "Fri"
+          ],
+          "open": "14:30",
+          "close": "16:30"
+        }
+      ]
+    },
+    {
+      "name": "Selma Enhancement - USDA",
+      "org": "Selma Enhancement - USDA",
+      "address": "2301 Selma St, Selma, CA 93662",
+      "phone": "559-891-2239",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Tue 8:30-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Tue"
+          ],
+          "open": "08:30",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Selma Southern Baptist Church - IPC Selma",
+      "org": "Selma Southern Baptist Church - IPC Selma",
+      "address": "1606 Mill St, Selma, CA 93662",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Fri 3-5pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri"
+          ],
+          "open": "15:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Joseph's Catholic Church - USDA",
+      "org": "St. Joseph's Catholic Church - USDA",
+      "address": "2441 Dockery, Selma, CA 93662",
+      "phone": "559-896-1052",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Thu 10am",
+      "schedules": []
+    },
+    {
+      "name": "The Salvation Army - Selma",
+      "org": "The Salvation Army - Selma",
+      "address": "1606 Mill St, Selma, CA 93662",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "emergency food boxes",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "10:30",
+          "close": "12:30"
+        }
+      ],
+      "allowColocated": true
+    },
+    {
+      "name": "Cold Springs Rancheria",
+      "org": "Cold Springs Rancheria",
+      "address": "32861 Sycamore Rd, Tollhouse, CA 93667",
+      "phone": "559-217-1738",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Fri 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Fri"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Paul Catholic Church",
+      "org": "St. Paul Catholic Church",
+      "address": "25592 Doughty Ave, Tranquillity, CA 93668",
+      "phone": "(559) 237-3663 ext. 1108",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Tue 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Tue"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    }
+  ]
+}

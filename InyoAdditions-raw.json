@@ -1,0 +1,153 @@
+{
+  "_meta": {
+    "topic": "Inyo County food distributions",
+    "generated": "2026-10-11",
+    "source": "Hand-collected list (IMACA, Food Bank of Contra Costa & Solano, Rural Human Services, Food Bank of El Dorado County). Schedules parsed via LA clause parser.",
+    "note": "Drop-in raw for prepare-food-additions.mjs."
+  },
+  "sites": [
+    {
+      "name": "Mendenhall Park (IMACA drive-thru distribution)",
+      "org": "Mendenhall Park (IMACA drive-thru distribution)",
+      "address": "327 N. School St, Big Pine, CA 93513",
+      "phone": "(760) 873-8557",
+      "eligibility": "",
+      "website": "https://www.imaca.net/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "date varies",
+      "schedules": []
+    },
+    {
+      "name": "Eastern Sierra Tri-County Fairgrounds (monthly distribution)",
+      "org": "Eastern Sierra Tri-County Fairgrounds (monthly distribution)",
+      "address": "1234 Sierra St, Bishop, CA 93514",
+      "phone": "(760) 873-8557",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "date varies",
+      "schedules": []
+    },
+    {
+      "name": "First United Methodist Church (soup kitchen)",
+      "org": "First United Methodist Church (soup kitchen)",
+      "address": "205 N Fowler St, Bishop, CA 93514",
+      "phone": "(760) 872-7701",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Wed, Fri 12pm",
+      "schedules": []
+    },
+    {
+      "name": "Salvation Army - Bishop",
+      "org": "Salvation Army - Bishop",
+      "address": "137 S Main St, Bishop, CA 93514",
+      "phone": "(760) 872-2124",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 9am-1:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "13:30"
+        }
+      ]
+    },
+    {
+      "name": "Timbisha Shoshone Tribe",
+      "org": "Timbisha Shoshone Tribe",
+      "address": "621 W Line St Suite 109, Bishop, CA 93514",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue & Fri 8am-5pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Fri"
+          ],
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Darwin - IMACA Food Shed",
+      "org": "Darwin - IMACA Food Shed",
+      "address": "251 Reddy St, Darwin, CA 93522",
+      "phone": "(760) 873-8557",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "date varies",
+      "schedules": []
+    },
+    {
+      "name": "Independence Park (IMACA drive-thru distribution)",
+      "org": "Independence Park (IMACA drive-thru distribution)",
+      "address": "609 S Edwards St, Independence, CA 93526",
+      "phone": "(760) 873-8557",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "date varies",
+      "schedules": []
+    },
+    {
+      "name": "Keeler Volunteer Fire Station (IMACA distribution)",
+      "org": "Keeler Volunteer Fire Station (IMACA distribution)",
+      "address": "Old State Hwy, Keeler, CA 93530",
+      "phone": "(760) 873-8557",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "date varies",
+      "schedules": []
+    },
+    {
+      "name": "Lone Pine Sports Complex (IMACA drive-thru distribution)",
+      "org": "Lone Pine Sports Complex (IMACA drive-thru distribution)",
+      "address": "724 N Main St, Lone Pine, CA 93545",
+      "phone": "(760) 873-8557",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "date varies",
+      "schedules": []
+    },
+    {
+      "name": "Tecopa Community Center (IMACA distribution)",
+      "org": "Tecopa Community Center (IMACA distribution)",
+      "address": "400 Tecopa Hot Springs Rd, Tecopa, CA 92389",
+      "phone": "(760) 873-8557",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "date varies",
+      "schedules": []
+    }
+  ]
+}

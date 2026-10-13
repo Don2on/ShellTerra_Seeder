@@ -1,0 +1,3634 @@
+{
+  "_meta": {
+    "topic": "ContraCosta County food distributions",
+    "generated": "2026-10-11",
+    "source": "Hand-collected list (IMACA, Food Bank of Contra Costa & Solano, Rural Human Services, Food Bank of El Dorado County). Schedules parsed via LA clause parser.",
+    "note": "Drop-in raw for prepare-food-additions.mjs."
+  },
+  "sites": [
+    {
+      "name": "Agape International Church & Ministries",
+      "org": "Agape International Church & Ministries",
+      "address": "605 W Madill St, Antioch, CA 94509",
+      "phone": "925-709-4424",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 1-3pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "13:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "AMF Food Closet",
+      "org": "AMF Food Closet",
+      "address": "2507 San Jose Dr, Antioch, CA 94509",
+      "phone": "925-757-1672",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed & Thu 9am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed",
+            "Thu"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Antioch Community Center",
+      "org": "Antioch Community Center",
+      "address": "4703 Lone Tree Way, Antioch, CA 94531",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Wed 9-10am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed",
+            "4th Wed"
+          ],
+          "open": "09:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Antioch Covenant Church - Gracefully Broken",
+      "org": "Antioch Covenant Church - Gracefully Broken",
+      "address": "1919 Buchanan Rd, Antioch, CA 94509",
+      "phone": "925-207-6241",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 11am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "11:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Antioch Health Center",
+      "org": "Antioch Health Center",
+      "address": "2335 Country Hills Dr, Antioch, CA 94509",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Mon 10-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Mon",
+            "4th Mon"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "CalFresh Office (EHSD)",
+      "org": "CalFresh Office (EHSD)",
+      "address": "4545 Delta Fair Blvd, Antioch, CA 94509",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Fri 11am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri",
+            "3rd Fri"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Carmen Dragon Elementary School",
+      "org": "Carmen Dragon Elementary School",
+      "address": "4721 Vista Grande Dr, Antioch, CA 94509",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Sat 12-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat",
+            "4th Sat"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Chosen Remnant",
+      "org": "Chosen Remnant",
+      "address": "2400 Sycamore Dr #29, Antioch, CA 94509",
+      "phone": "925-504-3515",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 12pm-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Contra Costa Event Park (Fairgrounds)",
+      "org": "Contra Costa Event Park (Fairgrounds)",
+      "address": "1201 W 10th St, Antioch, CA 94509",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Tue 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Tue"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "En Su Habitacion",
+      "org": "En Su Habitacion",
+      "address": "2808 Harbour Dr, Antioch, CA 94509",
+      "phone": "925-759-0861",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 11:30am-12:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "11:30",
+          "close": "12:30"
+        }
+      ]
+    },
+    {
+      "name": "First Family Church",
+      "org": "First Family Church",
+      "address": "3195 Contra Loma Blvd, Antioch, CA 94509",
+      "phone": "925-706-1238",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 9:30-10:30am; 1st & 3rd Wed 9-10am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "09:30",
+          "close": "10:30"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Wed",
+            "3rd Wed"
+          ],
+          "open": "09:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Genesis Church",
+      "org": "Genesis Church",
+      "address": "525 E 18th St, Antioch, CA 94509",
+      "phone": "925-304-4474",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 8:30-10am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "08:30",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Grace Closet",
+      "org": "Grace Closet",
+      "address": "3415 Oakley Rd, Antioch, CA 94509",
+      "phone": "925-522-2017",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 4-6pm; Sat 12-2pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "16:00",
+          "close": "18:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "12:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Grace Temple COGIC",
+      "org": "Grace Temple COGIC",
+      "address": "1001 Fitzuren Rd, Antioch, CA 94509",
+      "phone": "925-759-8049",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 12-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Kings Chapel",
+      "org": "Kings Chapel",
+      "address": "320 Worrell Rd, Antioch, CA 94509",
+      "phone": "925-756-7315",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Fri by appointment only",
+      "schedules": []
+    },
+    {
+      "name": "Light Ministries Church Soup Kitchen",
+      "org": "Light Ministries Church Soup Kitchen",
+      "address": "415 West 6th St, Antioch, CA 94509",
+      "phone": "925-778-1639",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 12-12:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "00:00",
+          "close": "12:30"
+        }
+      ]
+    },
+    {
+      "name": "Light Ministries Pantry",
+      "org": "Light Ministries Pantry",
+      "address": "415 W 6th St, Antioch, CA 94509",
+      "phone": "925-778-1639",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 11am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ],
+      "allowColocated": true
+    },
+    {
+      "name": "Loaves and Fishes at Antioch Senior Center",
+      "org": "Loaves and Fishes at Antioch Senior Center",
+      "address": "415 W 2nd St, Antioch, CA 94509",
+      "phone": "925-293-4792",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 10:30-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "10:30",
+          "close": "11:00"
+        }
+      ],
+      "allowColocated": true
+    },
+    {
+      "name": "Loaves and Fishes at Veterans Memorial Building",
+      "org": "Loaves and Fishes at Veterans Memorial Building",
+      "address": "403 W 6th St, Antioch, CA 94509",
+      "phone": "925-293-4792",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 11am-12:45pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "11:00",
+          "close": "12:45"
+        }
+      ]
+    },
+    {
+      "name": "Mahogany Way KinderCare",
+      "org": "Mahogany Way KinderCare",
+      "address": "2300 Mahogany Way, Antioch, CA 94590",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Thu 4-5pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu",
+            "4th Thu"
+          ],
+          "open": "16:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Marsh Elementary School",
+      "org": "Marsh Elementary School",
+      "address": "2304 G St, Antioch, CA 94509",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Sat 2-3pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat",
+            "4th Sat"
+          ],
+          "open": "14:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Mission Elementary School",
+      "org": "Mission Elementary School",
+      "address": "1711 Mission Dr, Antioch, CA 94509",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Wed 4-5pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed",
+            "4th Wed"
+          ],
+          "open": "16:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Most Holy Rosary Catholic Church",
+      "org": "Most Holy Rosary Catholic Church",
+      "address": "1313 A St, Antioch, CA 94509",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Fri 1:30-2:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri",
+            "3rd Fri"
+          ],
+          "open": "13:30",
+          "close": "14:30"
+        }
+      ]
+    },
+    {
+      "name": "Rivertown Veterans Thrift Store & Resource Center",
+      "org": "Rivertown Veterans Thrift Store & Resource Center",
+      "address": "3646 Lone Tree Way, Antioch, CA 94509",
+      "phone": "925-206-4976",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 10:30am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "10:30",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Showers of Blessings",
+      "org": "Showers of Blessings",
+      "address": "2220 A St, Antioch, CA 94509",
+      "phone": "510-736-8477",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Wed & Fri 6-7:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed",
+            "Fri"
+          ],
+          "open": "18:00",
+          "close": "19:30"
+        }
+      ]
+    },
+    {
+      "name": "St. Ignatius of Antioch",
+      "org": "St. Ignatius of Antioch",
+      "address": "3351 Contra Loma Blvd, Antioch, CA 94509",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Fri 3:30-4:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri",
+            "3rd Fri"
+          ],
+          "open": "15:30",
+          "close": "16:30"
+        }
+      ]
+    },
+    {
+      "name": "Templo Santo Community Church",
+      "org": "Templo Santo Community Church",
+      "address": "201 E 18th St, Antioch, CA 94509",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Sat 10-11am; 2nd & 4th Thu 10-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat",
+            "4th Sat"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu",
+            "4th Thu"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "The Landing Place",
+      "org": "The Landing Place",
+      "address": "620 E Tregallas Rd, Antioch, CA 94509",
+      "phone": "925-513-5180",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Wed 12-1pm; Wed 9:30-10:45am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed",
+            "4th Wed"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "09:30",
+          "close": "10:45"
+        }
+      ]
+    },
+    {
+      "name": "The Most Holy Rosary Church (SVdP)",
+      "org": "The Most Holy Rosary Church (SVdP)",
+      "address": "21 E 15th St, Antioch, CA 94509",
+      "phone": "925-757-0941",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue-Thu 9-10am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "09:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "The Reach Church",
+      "org": "The Reach Church",
+      "address": "11 Texas St, Antioch, CA 94509",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Wed 2-3pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed",
+            "4th Wed"
+          ],
+          "open": "14:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Visions Christian Center",
+      "org": "Visions Christian Center",
+      "address": "330 Worrell Rd, Antioch, CA 94509",
+      "phone": "925-777-0290",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 11am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "West River Town Apartments",
+      "org": "West River Town Apartments",
+      "address": "811 W 4th St, Antioch, CA 94509",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Sun 2:30-3:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sun",
+            "4th Sun"
+          ],
+          "open": "14:30",
+          "close": "15:30"
+        }
+      ]
+    },
+    {
+      "name": "Ambrose Community Center",
+      "org": "Ambrose Community Center",
+      "address": "3105 Willow Pass Rd, Bay Point, CA 94565",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Thu 4-5pm; 2nd Wed 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu",
+            "3rd Thu"
+          ],
+          "open": "16:00",
+          "close": "17:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Delta Baptist Church",
+      "org": "Delta Baptist Church",
+      "address": "500 Pacifica Ave, Bay Point, CA 94565",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 1pm-2pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "13:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "First AME Community Church",
+      "org": "First AME Community Church",
+      "address": "2915 Willow Pass Rd, Bay Point, CA 94565",
+      "phone": "925-293-4792",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Thu 9-10am; Thu 10:30-11:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu",
+            "4th Thu"
+          ],
+          "open": "09:00",
+          "close": "10:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "10:30",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Loaves and Fishes at West Pittsburg Community Church",
+      "org": "Loaves and Fishes at West Pittsburg Community Church",
+      "address": "204 Bailey Rd, Bay Point, CA 94565",
+      "phone": "510-619-8039",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 11am-12:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "11:00",
+          "close": "12:30"
+        }
+      ]
+    },
+    {
+      "name": "Queen of the World (SVdP)",
+      "org": "Queen of the World (SVdP)",
+      "address": "3155 Winterbrook Dr, Bay Point, CA 94565",
+      "phone": "925-458-4718",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 11am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Rio Vista Elementary School",
+      "org": "Rio Vista Elementary School",
+      "address": "611 Pacifica Ave, Bay Point, CA 94565",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Tue 4-5pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Tue",
+            "3rd Tue"
+          ],
+          "open": "16:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Family Worship Center",
+      "org": "Family Worship Center",
+      "address": "1200 Taylor Rd, Bethel Island, CA 94511",
+      "phone": "925-250-7941",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 11am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "New Covenant Church",
+      "org": "New Covenant Church",
+      "address": "6080 Bethel Island Rd, Bethel Island, CA 94511",
+      "phone": "925-634-6625",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 10:30-11:15am; 1st & 3rd Sun 1-2pm; Thu 4-5:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "10:30",
+          "close": "11:15"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Sun",
+            "3rd Sun"
+          ],
+          "open": "13:00",
+          "close": "14:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "16:00",
+          "close": "17:30"
+        }
+      ]
+    },
+    {
+      "name": "Brentwood Community United Methodist Church",
+      "org": "Brentwood Community United Methodist Church",
+      "address": "218 Pine St, Brentwood, CA 94513",
+      "phone": "925-382-9967",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Tue 4-5pm; Mon & Wed 9-11:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue",
+            "4th Tue"
+          ],
+          "open": "16:00",
+          "close": "17:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "open": "09:00",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Brentwood Senior Center",
+      "org": "Brentwood Senior Center",
+      "address": "193 Griffith Ln, Brentwood, CA 94513",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Thu 10-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu",
+            "4th Thu"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Immaculate Heart of Mary Church",
+      "org": "Immaculate Heart of Mary Church",
+      "address": "500 Fairview Ave, Brentwood, CA 94513",
+      "phone": "925-676-7543",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Tue 12-1pm; Fri 11am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue",
+            "4th Tue"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Power for Living Ministries",
+      "org": "Power for Living Ministries",
+      "address": "6830 Lone Tree Way, Brentwood, CA 94513",
+      "phone": "(925) 418-1418",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 12pm",
+      "schedules": []
+    },
+    {
+      "name": "Seed of Faith Church",
+      "org": "Seed of Faith Church",
+      "address": "605 Harvest Park Dr, Brentwood, CA 94513",
+      "phone": "925-513-2970",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Sat 10-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat",
+            "4th Sat"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Support Life Foundation Brentwood",
+      "org": "Support Life Foundation Brentwood",
+      "address": "7701 Lone Tree Way, Brentwood, CA 94513",
+      "phone": "510-541-6293",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 10:30-11:15am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "10:30",
+          "close": "11:15"
+        }
+      ]
+    },
+    {
+      "name": "The Dwelling Place Church",
+      "org": "The Dwelling Place Church",
+      "address": "90 Village Dr, Brentwood, CA 94513",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Sun 3-4pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Sun",
+            "3rd Sun"
+          ],
+          "open": "15:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Delta Christian Community Food Pantry - Byron",
+      "org": "Delta Christian Community Food Pantry - Byron",
+      "address": "2800 Camino Diablo, Byron, CA 94514",
+      "phone": "925-634-6625",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 8:30-9:15am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "08:30",
+          "close": "09:15"
+        }
+      ]
+    },
+    {
+      "name": "Cambridge Elementary School",
+      "org": "Cambridge Elementary School",
+      "address": "1135 Lacey Ln, Concord, CA 94520",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Sat 12-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Sat",
+            "3rd Sat"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Concord International Seventh-day Adventist",
+      "org": "Concord International Seventh-day Adventist",
+      "address": "1655 West St, Concord, CA 94521",
+      "phone": "925-349-9298",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 5-6:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "17:00",
+          "close": "18:30"
+        }
+      ]
+    },
+    {
+      "name": "Concord Senior Center",
+      "org": "Concord Senior Center",
+      "address": "2727 Parkside Circle, Concord, CA 94519",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Thu 9:30-10:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu",
+            "3rd Thu"
+          ],
+          "open": "09:30",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "Good Shepherd Lutheran Church",
+      "org": "Good Shepherd Lutheran Church",
+      "address": "4000 Clayton Rd, Concord, CA 94521",
+      "phone": "925-768-9087",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st and 3rd Thu 9-10am; Mon, Tue, Wed & Fri 10:30am-12:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu",
+            "3rd Thu"
+          ],
+          "open": "09:00",
+          "close": "10:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Fri"
+          ],
+          "open": "10:30",
+          "close": "12:30"
+        }
+      ]
+    },
+    {
+      "name": "La Clinica Monument",
+      "org": "La Clinica Monument",
+      "address": "2000 Sierra Rd, Concord, CA 94518",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Sun 10-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sun",
+            "4th Sun"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Monument Crisis Center",
+      "org": "Monument Crisis Center",
+      "address": "1990 Market St, Concord, CA 94520",
+      "phone": "925-825-7751",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Mon 2-3pm; Mon-Wed 9am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Mon",
+            "4th Mon"
+          ],
+          "open": "14:00",
+          "close": "15:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Mt. Diablo Adult Education (Loma Vista)",
+      "org": "Mt. Diablo Adult Education (Loma Vista)",
+      "address": "1266 San Carlos Ave, Concord, CA 94518",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Thu 2-3pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu",
+            "3rd Thu"
+          ],
+          "open": "14:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Mt. Diablo High School",
+      "org": "Mt. Diablo High School",
+      "address": "2611 East St, Concord, CA 94520",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Sat 2-3pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Sat",
+            "3rd Sat"
+          ],
+          "open": "14:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Queen of All Saints (SVdP)",
+      "org": "Queen of All Saints (SVdP)",
+      "address": "2390 Grant St, Concord, CA 94520",
+      "phone": "925-609-5944",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 10am-12pm; 3rd Sat 10-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Refuge Outreach Services",
+      "org": "Refuge Outreach Services",
+      "address": "1187 Meadow Ln, Concord, CA 94520",
+      "phone": "925-435-6766",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 3:30-5:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "15:30",
+          "close": "17:30"
+        }
+      ]
+    },
+    {
+      "name": "Salvation Army Concord",
+      "org": "Salvation Army Concord",
+      "address": "3950 Clayton Rd, Concord, CA 94521",
+      "phone": "925-676-6180",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Tue, Wed & Fri 10-11:45am & 1-2:45pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "11:45"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Fri"
+          ],
+          "open": "13:00",
+          "close": "14:45"
+        }
+      ]
+    },
+    {
+      "name": "SHARE (First Christian Church)",
+      "org": "SHARE (First Christian Church)",
+      "address": "3039 Willow Pass Rd, Concord, CA 94519",
+      "phone": "925-827-4273",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Tue, Wed & Fri 10am-1:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "13:30"
+        }
+      ]
+    },
+    {
+      "name": "St. Bonaventure's Church",
+      "org": "St. Bonaventure's Church",
+      "address": "5562 Clayton Rd, Concord, CA 94521",
+      "phone": "925-672-5800",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Wed 4-5pm; Tue 8:30-10am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Wed",
+            "3rd Wed"
+          ],
+          "open": "16:00",
+          "close": "17:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "08:30",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Francis of Assisi (SVdP)",
+      "org": "St. Francis of Assisi (SVdP)",
+      "address": "860 Oak Grove Rd, Concord, CA 94518",
+      "phone": "925-682-5811",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed & Sat 9-11:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed",
+            "Sat"
+          ],
+          "open": "09:00",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "The Bay Church Compassion Ministries",
+      "org": "The Bay Church Compassion Ministries",
+      "address": "4725 Evora Rd, Concord, CA 94520",
+      "phone": "925-458-9100",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 11:30am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "11:30",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "We Love Our City at Father's House East Bay",
+      "org": "We Love Our City at Father's House East Bay",
+      "address": "2140 Olivera Ct, Concord, CA 94520",
+      "phone": "707-454-0268",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 8:45-10am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "08:45",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "WIC Concord",
+      "org": "WIC Concord",
+      "address": "2731 Systron Drive, Concord, CA 94518",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Wed 2-3pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Wed",
+            "3rd Wed"
+          ],
+          "open": "14:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Jerome Catholic Church",
+      "org": "St. Jerome Catholic Church",
+      "address": "308 Carmel Ave, El Cerrito, CA 94530",
+      "phone": "510-809-5377",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 11am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "St. John Church (SVdP)",
+      "org": "St. John Church (SVdP)",
+      "address": "11150 San Pablo Ave, El Cerrito, CA 94530",
+      "phone": "510-232-5659",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Sat 10-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Sat",
+            "3rd Sat"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Appian Way Seventh-day Adventist Church",
+      "org": "Appian Way Seventh-day Adventist Church",
+      "address": "980 Appian Way Bldg A, El Sobrante, CA 94803",
+      "phone": "925-642-2651",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 10am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Moose Lodge #550",
+      "org": "Moose Lodge #550",
+      "address": "4660 Appian Way, El Sobrante, CA 94803",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Fri 10-11am; Last Fri 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri",
+            "3rd Fri"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "last Fri"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Salvation Army El Sobrante",
+      "org": "Salvation Army El Sobrante",
+      "address": "4600 Appian Way, El Sobrante, CA 94803",
+      "phone": "510-262-0500",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 10am-12pm & 1-2:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "13:00",
+          "close": "14:30"
+        }
+      ]
+    },
+    {
+      "name": "St. Callistus Catholic Church (SVdP)",
+      "org": "St. Callistus Catholic Church (SVdP)",
+      "address": "3580 San Pablo Dam Rd, El Sobrante, CA 94803",
+      "phone": "510-243-7501",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon & Thu 11am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Thu"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Hercules Senior Center",
+      "org": "Hercules Senior Center",
+      "address": "111 Civic Center, Hercules, CA 94547",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Tue 10-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue",
+            "4th Tue"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Hercules Senior Center Produce",
+      "org": "Hercules Senior Center Produce",
+      "address": "111 Civic Dr, Hercules, CA 94547",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Tue 11am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Tue",
+            "3rd Tue"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ],
+      "allowColocated": true
+    },
+    {
+      "name": "Delta Christian Community Food Pantry - Knightsen",
+      "org": "Delta Christian Community Food Pantry - Knightsen",
+      "address": "3090 Curlew Connex, Knightsen, CA 94548",
+      "phone": "925-634-6625",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 9:30-10:15am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "09:30",
+          "close": "10:15"
+        }
+      ]
+    },
+    {
+      "name": "Boys & Girls Club of Contra Costa",
+      "org": "Boys & Girls Club of Contra Costa",
+      "address": "1301 Alhambra Ave, Martinez, CA 94553",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Fri 12-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Fri",
+            "4th Fri"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "John Muir Elementary School",
+      "org": "John Muir Elementary School",
+      "address": "205 Vista Way, Martinez, CA 94553",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Fri 4-5pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Fri",
+            "4th Fri"
+          ],
+          "open": "16:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Loaves and Fishes of Contra Costa",
+      "org": "Loaves and Fishes of Contra Costa",
+      "address": "835 Ferry St, Martinez, CA 94553",
+      "phone": "925-293-4792",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Sun 11am-12:45pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat",
+            "Sun"
+          ],
+          "open": "11:00",
+          "close": "12:45"
+        }
+      ]
+    },
+    {
+      "name": "Martinez Adult Education",
+      "org": "Martinez Adult Education",
+      "address": "600 F St, Martinez, CA 94553",
+      "phone": "925-335-5890",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 2-3pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "14:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Martinez Health Center",
+      "org": "Martinez Health Center",
+      "address": "2500 Alhambra Blvd, Martinez, CA 94553",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Mon 12-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Mon",
+            "4th Mon"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Second Baptist Church of Martinez",
+      "org": "Second Baptist Church of Martinez",
+      "address": "1020 Las Juntas, Martinez, CA 94553",
+      "phone": "925-228-3860",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Sat 11am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat",
+            "4th Sat"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Catherine's (SVdP)",
+      "org": "St. Catherine's (SVdP)",
+      "address": "1125 Ferry St, Martinez, CA 94553",
+      "phone": "925-788-7409",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 9:30-10:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "09:30",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "Teamsters Local 315 Hall",
+      "org": "Teamsters Local 315 Hall",
+      "address": "2727 Alhambra Ave, Martinez, CA 94553",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Thu 9-10am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu",
+            "3rd Thu"
+          ],
+          "open": "09:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Loaves and Fishes at Redman-Pocahontas Hall",
+      "org": "Loaves and Fishes at Redman-Pocahontas Hall",
+      "address": "1403 Main St, Oakley, CA 94561",
+      "phone": "925-293-4792",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 11am-12:45pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "11:00",
+          "close": "12:45"
+        }
+      ]
+    },
+    {
+      "name": "Oakley Senior Center",
+      "org": "Oakley Senior Center",
+      "address": "971 O'Hara Avenue, Oakley, CA 94561",
+      "phone": "925-783-0818",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 1-2pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "13:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Anthony's Catholic Church",
+      "org": "St. Anthony's Catholic Church",
+      "address": "971 O'Hara Ave, Oakley, CA 94561",
+      "phone": "925-325-7424",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Thu 9-10:30am; 2nd & 4th Sat 9-10am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu",
+            "4th Thu"
+          ],
+          "open": "09:00",
+          "close": "10:30"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat",
+            "4th Sat"
+          ],
+          "open": "09:00",
+          "close": "10:00"
+        }
+      ],
+      "allowColocated": true
+    },
+    {
+      "name": "The Commons at Oakley",
+      "org": "The Commons at Oakley",
+      "address": "69 Carol Ln, Oakley, CA 94561",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Tue 2-3pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue",
+            "4th Tue"
+          ],
+          "open": "14:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Pacheco Community Center",
+      "org": "Pacheco Community Center",
+      "address": "5800 Pacheco Blvd, Pacheco, CA 94553",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Wed 12-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Wed",
+            "3rd Wed"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "City of Pinole",
+      "org": "City of Pinole",
+      "address": "2500 Charles Ave, Pinole, CA 94564",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Mon 9-10am; 2nd & 4th Tue 10-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Mon"
+          ],
+          "open": "09:00",
+          "close": "10:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue",
+            "4th Tue"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Buchanan Park",
+      "org": "Buchanan Park",
+      "address": "4150 Harbor St, Pittsburg, CA 94565",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Tue 12-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Tue",
+            "3rd Tue"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Church of the Good Shepherd",
+      "org": "Church of the Good Shepherd",
+      "address": "3200 Harbor St, Pittsburg, CA 94565",
+      "phone": "925-432-6404",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Thu 10-11am; Mon 11:30am-1:30pm; Sat 11am-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu",
+            "4th Thu"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "11:30",
+          "close": "13:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "11:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Diane Avenue Church of Christ",
+      "org": "Diane Avenue Church of Christ",
+      "address": "283 Diane Ave, Pittsburg, CA 94565",
+      "phone": "925-432-6040",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Thu 10-11:30am; 3rd Fri 11am-12:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu",
+            "4th Thu"
+          ],
+          "open": "10:00",
+          "close": "11:30"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Fri"
+          ],
+          "open": "11:00",
+          "close": "12:30"
+        }
+      ]
+    },
+    {
+      "name": "El Pueblo Housing Development",
+      "org": "El Pueblo Housing Development",
+      "address": "875 El Pueblo Ave, Pittsburg, CA 94565",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Sun 12:30-1:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sun",
+            "4th Sun"
+          ],
+          "open": "12:30",
+          "close": "13:30"
+        }
+      ]
+    },
+    {
+      "name": "First Baptist Church",
+      "org": "First Baptist Church",
+      "address": "224 Linda Vista Ave, Pittsburg, CA 94565",
+      "phone": "925-473-2018",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Thu 11:30am-12:30pm; Tue & Thu 9am-4pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu",
+            "3rd Thu"
+          ],
+          "open": "11:30",
+          "close": "12:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Greater Faith Missionary Baptist Church",
+      "org": "Greater Faith Missionary Baptist Church",
+      "address": "4150 Railroad Ave, Pittsburg, CA 94565",
+      "phone": "925-322-5728",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Sat 9-10am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat",
+            "4th Sat"
+          ],
+          "open": "09:00",
+          "close": "10:00"
+        }
+      ],
+      "allowColocated": true
+    },
+    {
+      "name": "Loaves and Fishes at St. Vincent de Paul Building",
+      "org": "Loaves and Fishes at St. Vincent de Paul Building",
+      "address": "1415 Simpson Ct, Pittsburg, CA 94565",
+      "phone": "925-293-4792",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Sun 11am-12:45pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat",
+            "Sun"
+          ],
+          "open": "11:00",
+          "close": "12:45"
+        }
+      ]
+    },
+    {
+      "name": "Loaves and Fishes at Stoneman Village",
+      "org": "Loaves and Fishes at Stoneman Village",
+      "address": "390 E Leland Rd, Pittsburg, CA 94565",
+      "phone": "925-293-4792",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon and Fri 11am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Fri"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "New Destiny Church",
+      "org": "New Destiny Church",
+      "address": "1411 E Leland Rd, Pittsburg, CA 94565",
+      "phone": "925-439-8989",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Fri 1:30-3:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri",
+            "3rd Fri"
+          ],
+          "open": "13:30",
+          "close": "15:30"
+        }
+      ]
+    },
+    {
+      "name": "Pittsburg City Park",
+      "org": "Pittsburg City Park",
+      "address": "60 Civic Ave, Pittsburg, CA 94565",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Tue 2-3pm; 4th Tue 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Tue",
+            "3rd Tue"
+          ],
+          "open": "14:00",
+          "close": "15:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Tue"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Pittsburg Historical Museum",
+      "org": "Pittsburg Historical Museum",
+      "address": "525 Railroad Ave, Pittsburg, CA 94565",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Thu 12-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu",
+            "4th Thu"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Pittsburg United Methodist Church",
+      "org": "Pittsburg United Methodist Church",
+      "address": "153 W Leland Rd, Pittsburg, CA 94565",
+      "phone": "925-432-7614",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 12:30-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "12:30",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Solomon Temple",
+      "org": "Solomon Temple",
+      "address": "655 California Ave, Pittsburg, CA 94565",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Thu 2-3pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu",
+            "4th Thu"
+          ],
+          "open": "14:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Peter's Martyr Church (SVdP)",
+      "org": "St. Peter's Martyr Church (SVdP)",
+      "address": "740 Black Diamond St, Pittsburg, CA 94565",
+      "phone": "925-432-4771",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Fri 10-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Fri",
+            "4th Fri"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Vincent de Paul Society Pittsburg",
+      "org": "St. Vincent de Paul Society Pittsburg",
+      "address": "2210 Gladstone Dr, Pittsburg, CA 94565",
+      "phone": "925-439-5060",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 8:30am-4:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "08:30",
+          "close": "16:30"
+        }
+      ]
+    },
+    {
+      "name": "WIC Pittsburg",
+      "org": "WIC Pittsburg",
+      "address": "2311 Loveridge Rd, Pittsburg, CA 94565",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Thu 1:30-2:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu",
+            "3rd Thu"
+          ],
+          "open": "13:30",
+          "close": "14:30"
+        }
+      ]
+    },
+    {
+      "name": "Hillcrest Congregational Church",
+      "org": "Hillcrest Congregational Church",
+      "address": "404 Gregory Ln, Pleasant Hill, CA 94523",
+      "phone": "925-689-8260",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Wed & Fri 9-11:45am; 2nd & 4th Fri 2-3pm; Tue & Thu 10-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "11:45"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Fri",
+            "4th Fri"
+          ],
+          "open": "14:00",
+          "close": "15:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Pleasant Hill Senior Center",
+      "org": "Pleasant Hill Senior Center",
+      "address": "233 Gregory Lane, Pleasant Hill, CA 94523",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Thu 9-10am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu",
+            "3rd Thu"
+          ],
+          "open": "09:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Pleasant Hill Seventh-day Adventist",
+      "org": "Pleasant Hill Seventh-day Adventist",
+      "address": "816 Grayson Rd, Pleasant Hill, CA 94523",
+      "phone": "925-939-2235",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue & Thu 11am-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "open": "11:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Bay Area Rescue Mission (meals)",
+      "org": "Bay Area Rescue Mission (meals)",
+      "address": "200 Macdonald Ave, Richmond, CA 94801",
+      "phone": "510-215-4884",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Sun 6-7:45am, 11am-1pm and 4-5:45pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat",
+            "Sun"
+          ],
+          "open": "06:00",
+          "close": "07:45"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat",
+            "Sun"
+          ],
+          "open": "11:00",
+          "close": "13:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat",
+            "Sun"
+          ],
+          "open": "16:00",
+          "close": "17:45"
+        }
+      ]
+    },
+    {
+      "name": "Bay Area Rescue Mission Pantry",
+      "org": "Bay Area Rescue Mission Pantry",
+      "address": "123 Macdonald Ave, Richmond, CA 94801",
+      "phone": "510-215-4884",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Sat 1-2:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat"
+          ],
+          "open": "13:00",
+          "close": "14:30"
+        }
+      ]
+    },
+    {
+      "name": "Beacon Light Seventh-day Adventist Food Pantry",
+      "org": "Beacon Light Seventh-day Adventist Food Pantry",
+      "address": "607 S 19th St, Richmond, CA 94804",
+      "phone": "510-234-7771",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Wed 9-10am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed",
+            "4th Wed"
+          ],
+          "open": "09:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Booker T. Anderson Center",
+      "org": "Booker T. Anderson Center",
+      "address": "960 S 47th St, Richmond, CA 94804",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Sat 12-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat",
+            "4th Sat"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Corrine Sain Senior & Family Community Center",
+      "org": "Corrine Sain Senior & Family Community Center",
+      "address": "515 Silver Ave, Richmond, CA 94801",
+      "phone": "510-221-2538",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Fri 10:30-11:30am; Tue-Fri 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Fri",
+            "4th Fri"
+          ],
+          "open": "10:30",
+          "close": "11:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Ephesians Community Development Center",
+      "org": "Ephesians Community Development Center",
+      "address": "2887 Foothill Ave, Richmond, CA 94804",
+      "phone": "510-778-1528",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 11am-1:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "11:00",
+          "close": "13:30"
+        }
+      ]
+    },
+    {
+      "name": "GRIP Souper Center (meals)",
+      "org": "GRIP Souper Center (meals)",
+      "address": "165 22nd St, Richmond, CA 94801",
+      "phone": "510-233-2141",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Sun 11:30am-12:45pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat",
+            "Sun"
+          ],
+          "open": "11:30",
+          "close": "12:45"
+        }
+      ]
+    },
+    {
+      "name": "Kennedy High School",
+      "org": "Kennedy High School",
+      "address": "4300 Cutting Blvd, Richmond, CA 94804",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Sat 2-3pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Sat",
+            "3rd Sat"
+          ],
+          "open": "14:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "LifeLong William Jenkins Health Center",
+      "org": "LifeLong William Jenkins Health Center",
+      "address": "150 Harbour Way, Richmond, CA 94801",
+      "phone": "510-981-4100",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 10am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Living Hope Neighborhood Church",
+      "org": "Living Hope Neighborhood Church",
+      "address": "2800 Rheem Ave, Richmond, CA 94804",
+      "phone": "510-233-7353",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Sat 10-11am; Fri 10:30am-12:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Sat",
+            "3rd Sat"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "10:30",
+          "close": "12:30"
+        }
+      ]
+    },
+    {
+      "name": "MacDonald 80 Shopping Center",
+      "org": "MacDonald 80 Shopping Center",
+      "address": "4500 Macdonald Ave, Richmond, CA 94805",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Thu 2-3pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu",
+            "3rd Thu"
+          ],
+          "open": "14:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Multicultural Institute",
+      "org": "Multicultural Institute",
+      "address": "3600 MacDonald Ave, Richmond, CA 94805",
+      "phone": "510-847-1479",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 9-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Nevin Community Center",
+      "org": "Nevin Community Center",
+      "address": "598 Nevin Ave, Richmond, CA 94804",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Tue 10-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue",
+            "4th Tue"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "New Gethsemane COGIC",
+      "org": "New Gethsemane COGIC",
+      "address": "2100 Roosevelt St, Richmond, CA 94801",
+      "phone": "510-620-9628",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 10am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "North Richmond Missionary Baptist Church",
+      "org": "North Richmond Missionary Baptist Church",
+      "address": "1427 Fred Jackson Way, Richmond, CA 94801",
+      "phone": "510-232-7751",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Thu 12-1pm; 2nd Fri 10am-12pm; Wed 10:30-11:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu",
+            "3rd Thu"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Fri"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "10:30",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Pilgrim Rest Missionary Baptist Church Pantry",
+      "org": "Pilgrim Rest Missionary Baptist Church Pantry",
+      "address": "831 S 43rd St, Richmond, CA 94804",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 1-2pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "13:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Providence Baptist Church",
+      "org": "Providence Baptist Church",
+      "address": "314 S 12th St, Richmond, CA 94804",
+      "phone": "510-234-1162",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Thu 11:30am-1:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Thu"
+          ],
+          "open": "11:30",
+          "close": "13:30"
+        }
+      ]
+    },
+    {
+      "name": "Richmond Civic Center",
+      "org": "Richmond Civic Center",
+      "address": "24 Barrett Ave, Richmond, CA 94804",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Thu 12-1:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu",
+            "4th Thu"
+          ],
+          "open": "12:00",
+          "close": "13:30"
+        }
+      ]
+    },
+    {
+      "name": "Richmond Emergency Food Pantry",
+      "org": "Richmond Emergency Food Pantry",
+      "address": "2369 Barrett Ave, Richmond, CA 94804",
+      "phone": "510-235-9732",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue & Fri 11am-2pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Fri"
+          ],
+          "open": "11:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Sojourner Truth Presbyterian Church",
+      "org": "Sojourner Truth Presbyterian Church",
+      "address": "2621 Shane Dr, Richmond, CA 94806",
+      "phone": "510-222-2020",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Sat 12-1pm; 3rd Sat 1-3pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Sat",
+            "3rd Sat"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "13:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Southside Church of Christ",
+      "org": "Southside Church of Christ",
+      "address": "1501 Florida Ave, Richmond, CA 94804",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Tue 10-11:30am; 2nd & 4th Fri 10:30-11:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Tue"
+          ],
+          "open": "10:00",
+          "close": "11:30"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Fri",
+            "4th Fri"
+          ],
+          "open": "10:30",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "St. John Missionary Baptist Church",
+      "org": "St. John Missionary Baptist Church",
+      "address": "662 S 52nd St, Richmond, CA 94804",
+      "phone": "714-323-6152",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 12-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Support Life Foundation Richmond",
+      "org": "Support Life Foundation Richmond",
+      "address": "1110 36th St, Richmond, CA 94804",
+      "phone": "510-541-6293",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 10-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "True Fellowship Baptist Church",
+      "org": "True Fellowship Baptist Church",
+      "address": "1213 Fred Jackson Way, Richmond, CA 94801",
+      "phone": "510-215-8322",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Sat 11am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Veteran's Memorial Hall",
+      "org": "Veteran's Memorial Hall",
+      "address": "968 23rd St, Richmond, CA 94804",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Mon 12:30-2pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Mon",
+            "3rd Mon"
+          ],
+          "open": "12:30",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "West Contra Costa Adult Education",
+      "org": "West Contra Costa Adult Education",
+      "address": "5625 Sutter Ave, Richmond, CA 94804",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Mon 9:30-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Mon",
+            "3rd Mon"
+          ],
+          "open": "09:30",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Bayo Vista Child Care Center",
+      "org": "Bayo Vista Child Care Center",
+      "address": "2 California St, Rodeo, CA 94572",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Thu 4-5pm; 2nd Tue 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu",
+            "4th Thu"
+          ],
+          "open": "16:00",
+          "close": "17:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Lefty Gomez Recreational Center",
+      "org": "Lefty Gomez Recreational Center",
+      "address": "470 Parker Ave, Rodeo, CA 94572",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Mon 12-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Mon",
+            "3rd Mon"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Rodeo Senior Center",
+      "org": "Rodeo Senior Center",
+      "address": "189 Parker Ave, Rodeo, CA 94572",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Fri 9-10am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Fri",
+            "4th Fri"
+          ],
+          "open": "09:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Anchor of Life Church",
+      "org": "Anchor of Life Church",
+      "address": "2707 17th St, San Pablo, CA 94806",
+      "phone": "510-815-5651",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 4:30-6pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "16:30",
+          "close": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Contra Costa College",
+      "org": "Contra Costa College",
+      "address": "2600 Mission Bell Dr, San Pablo, CA 94806",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Mon 1:30-3pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Mon",
+            "3rd Mon"
+          ],
+          "open": "13:30",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Davis Park Community Center",
+      "org": "Davis Park Community Center",
+      "address": "1651 Folsom Ave, San Pablo, CA 94806",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Fri 11:30-12:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Fri",
+            "4th Fri"
+          ],
+          "open": "11:30",
+          "close": "12:30"
+        }
+      ]
+    },
+    {
+      "name": "Family Church Ministries",
+      "org": "Family Church Ministries",
+      "address": "1452 Rumrill Blvd, San Pablo, CA 94806",
+      "phone": "510-867-5957",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 10am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "San Pablo City Hall",
+      "org": "San Pablo City Hall",
+      "address": "1000 Gateway Ave, San Pablo, CA 94806",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Sat 2-3pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat",
+            "4th Sat"
+          ],
+          "open": "14:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "San Pablo Food Pantry",
+      "org": "San Pablo Food Pantry",
+      "address": "2301 Rumrill Blvd Room 27, San Pablo, CA 94806",
+      "phone": "510-232-0258",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon & Wed 12-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "San Pablo Library - Community Room",
+      "org": "San Pablo Library - Community Room",
+      "address": "13751 San Pablo Ave, San Pablo, CA 94806",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Fri 9:30-10:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri",
+            "3rd Fri"
+          ],
+          "open": "09:30",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "St. Paul Conference SVdP",
+      "org": "St. Paul Conference SVdP",
+      "address": "1850 Church Lane, San Pablo, CA 94806",
+      "phone": "510-691-6404",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 11am-2pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "11:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "San Ramon Valley Islamic Center",
+      "org": "San Ramon Valley Islamic Center",
+      "address": "3223 Crow Canyon Rd, San Ramon, CA 94583",
+      "phone": "925-480-9611",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Sat 11am-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Sat",
+            "3rd Sat"
+          ],
+          "open": "11:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Mary's Catholic Church (SVdP)",
+      "org": "St. Mary's Catholic Church (SVdP)",
+      "address": "1186 Bont Lane, Walnut Creek, CA 94596",
+      "phone": "925-937-2817",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 12:30-4:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "12:30",
+          "close": "16:30"
+        }
+      ]
+    },
+    {
+      "name": "St. Paul's Episcopal Church",
+      "org": "St. Paul's Episcopal Church",
+      "address": "1924 Trinity Avenue, Walnut Creek, CA 94596",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Thu 10-11:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Thu"
+          ],
+          "open": "10:00",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "St. Paul's Trinity Center (meals)",
+      "org": "St. Paul's Trinity Center (meals)",
+      "address": "1888 Trinity Ave, Walnut Creek, CA 94596",
+      "phone": "925-949-8712",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 8-9am & 12:15-1:15pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "08:00",
+          "close": "09:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "12:15",
+          "close": "13:15"
+        }
+      ]
+    },
+    {
+      "name": "Support Life Foundation Walnut Creek",
+      "org": "Support Life Foundation Walnut Creek",
+      "address": "2449 Buena Vista Ave Ste 3, Walnut Creek, CA 94597",
+      "phone": "510-541-6293",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 10-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Walnut Creek Church of Christ",
+      "org": "Walnut Creek Church of Christ",
+      "address": "500 Minert Rd, Walnut Creek, CA 94598",
+      "phone": "925-825-7810",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Thu 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu",
+            "3rd Thu"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Walnut Creek United Methodist Church",
+      "org": "Walnut Creek United Methodist Church",
+      "address": "1543 Sunnyvale Ave, Walnut Creek, CA 94596",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankccs.org/find-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Thu 9:30-10:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu",
+            "3rd Thu"
+          ],
+          "open": "09:30",
+          "close": "10:30"
+        }
+      ]
+    }
+  ]
+}

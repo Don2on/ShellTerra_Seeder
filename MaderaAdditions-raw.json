@@ -1,0 +1,460 @@
+{
+  "_meta": {
+    "topic": "Madera County food distributions",
+    "generated": "2026-10-11",
+    "source": "Hand-collected list (FBNN/Susanville, Central California Food Bank, SF-Marin/Canal Alliance, Merced County Food Bank). Schedules parsed via LA clause parser. lat/lng geocoded downstream.",
+    "note": "Drop-in raw for prepare-food-additions.mjs. Single start-times / \"by appointment\" / \"daily\" route to _deferred."
+  },
+  "sites": [
+    {
+      "name": "Cornerstone Community Church",
+      "org": "Cornerstone Community Church",
+      "address": "208 Fig Tree Rd, Chowchilla, CA 93610",
+      "phone": "(559) 665-1182",
+      "eligibility": "",
+      "website": "https://ccchowchilla.com/food-distribution",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Thu 3:30pm",
+      "schedules": []
+    },
+    {
+      "name": "Iglesia Cristiana Emmanuel",
+      "org": "Iglesia Cristiana Emmanuel",
+      "address": "607 Trinity Ave, Chowchilla, CA 93610",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Thu 3-5pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu"
+          ],
+          "open": "15:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Shepherd's Temple",
+      "org": "Shepherd's Temple",
+      "address": "16283 Ave 24 1/2, Chowchilla, CA 93610",
+      "phone": "(559) 665-1076",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Fri 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Coarsegold Historic Village",
+      "org": "Coarsegold Historic Village",
+      "address": "35300 CA-41, Coarsegold, CA 93614",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Tue 9am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Tue"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Adult Day Health Care Center of Madera",
+      "org": "Adult Day Health Care Center of Madera",
+      "address": "629 E Yosemite Ave, Madera, CA 93638",
+      "phone": "559-479-4111",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Wed 3-5pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed"
+          ],
+          "open": "15:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Casas De La Vina (Self-Help Enterprises)",
+      "org": "Casas De La Vina (Self-Help Enterprises)",
+      "address": "23784 Ave 9, Madera, CA 93637",
+      "phone": "(559) 517-8076",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Last Tue 2-4pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "last Tue"
+          ],
+          "open": "14:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Celebration Nation Madera",
+      "org": "Celebration Nation Madera",
+      "address": "27243 Ellis St, Madera, CA 93638",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Thu 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Central Valley Church - Madera",
+      "org": "Central Valley Church - Madera",
+      "address": "1201 E. Yosemite Ave, Madera, CA 93638",
+      "phone": "(559) 237-3663 ext. 1108",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Wed 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Clearview Outreach Church",
+      "org": "Clearview Outreach Church",
+      "address": "331 S. D St, Madera, CA 93637",
+      "phone": "(559) 237-3663 ext. 1108",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Mon 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Mon"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Holy Family Table (daily meal)",
+      "org": "Holy Family Table (daily meal)",
+      "address": "224 N C St, Madera, CA 93638",
+      "phone": "(559) 673-3290",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "eat on site",
+      "schedules": []
+    },
+    {
+      "name": "Latinos Madera Club",
+      "org": "Latinos Madera Club",
+      "address": "28789 Azalea Ave, Madera, CA 93638",
+      "phone": "(559) 395-3733",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Last Thu 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "last Thu"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Maddie's Food Pantry (Madera Community College)",
+      "org": "Maddie's Food Pantry (Madera Community College)",
+      "address": "30277 Ave 12, Madera, CA 93638",
+      "phone": "(559) 675-4171",
+      "eligibility": "students only",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Thu 9am-3pm; Fri 9am-2pm (students only)",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "09:00",
+          "close": "15:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Madera Bible Church (drive-up food share)",
+      "org": "Madera Bible Church (drive-up food share)",
+      "address": "124 Walnut St, Madera, CA 93637",
+      "phone": "(559) 645-2702",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Wed 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Wed"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Madera Coalition for Community Justice (walk-in food share)",
+      "org": "Madera Coalition for Community Justice (walk-in food share)",
+      "address": "126 N. B St, Madera, CA 93638",
+      "phone": "(559) 645-2702",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "bring a bag",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Madera Islamic Center",
+      "org": "Madera Islamic Center",
+      "address": "16634 Road 26, Madera, CA 93638",
+      "phone": "(559) 706-0808",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Tue 9am until supplies last",
+      "schedules": []
+    },
+    {
+      "name": "Parkwood Park (Colibries and The Celebration Nation)",
+      "org": "Parkwood Park (Colibries and The Celebration Nation)",
+      "address": "27290 San Bruno Ave, Madera, CA 93637",
+      "phone": "(559) 517-8076",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Fri 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Fri"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Rapto Divino Church (Madera) - Neighborhood Market",
+      "org": "Rapto Divino Church (Madera) - Neighborhood Market",
+      "address": "716 S. Gateway Dr, Madera, CA 93638",
+      "phone": "(559) 237-3663 ext. 1108",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Wed 9am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Wed"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "The Compass of Madera at New Life Church",
+      "org": "The Compass of Madera at New Life Church",
+      "address": "1125 N. Lake St, Madera, CA 93638",
+      "phone": "(559) 232-1844",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "walk-up",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "08:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "North Fork Grace Community Church - Mobile Pantry",
+      "org": "North Fork Grace Community Church - Mobile Pantry",
+      "address": "56442 Road 200, North Fork, CA 93643",
+      "phone": "(559) 237-3663 ext. 1108",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Tue 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Tue"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "North Fork Seventh-Day Adventist",
+      "org": "North Fork Seventh-Day Adventist",
+      "address": "56160 Road 200, North Fork, CA 93643",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Mon 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Mon"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Manna House of Oakhurst",
+      "org": "Manna House of Oakhurst",
+      "address": "40390 Junction Dr, Oakhurst, CA 93644",
+      "phone": "(559) 683-6262",
+      "eligibility": "",
+      "website": "https://mannahouseofoakhurst.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 10am-2pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Raymond Community - Mobile Pantry",
+      "org": "Raymond Community - Mobile Pantry",
+      "address": "35048 Road 606, Raymond, CA 93653",
+      "phone": "(559) 237-3663 ext. 1108",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Tue 9am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Tue"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    }
+  ]
+}

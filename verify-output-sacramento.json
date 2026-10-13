@@ -1,0 +1,276 @@
+{
+  "sites": [
+    {
+      "slug": "add-elk-grove-food-bank-senior-hour",
+      "name": "Elk Grove Food Bank - Senior Hour",
+      "operating": true,
+      "address": "9888 Kent Street, Elk Grove, CA 95624",
+      "phone": "916-685-8453",
+      "website": "https://elkgrovefoodbank.org",
+      "schedules": [],
+      "verified": "unconfirmed",
+      "source": "https://elkgrovefoodbank.org",
+      "note": "Food bank confirmed operating; regular distribution Mon-Fri 9:00-14:00 (1st Thu & 4th Wed open 12:30). A Friday-morning senior-only 'Senior Hour' for Elk Grove residents 60+ is referenced by directories but the exact time is not stated on the operator site; also monthly CSFP Senior Box. Could not confirm specific senior-hour time, so schedules left empty. Verify time with 916-685-8453 / Vanessa@egfbs.org."
+    },
+    {
+      "slug": "add-north-highlands-christian-food-ministry",
+      "name": "North Highlands Christian Food Ministry",
+      "operating": true,
+      "address": "6007 Watt Avenue, North Highlands, CA 95660",
+      "phone": "916-955-1010",
+      "website": "",
+      "schedules": [
+        {"freq": "weekly", "days": ["mon", "tue", "wed"], "open": "09:00", "close": "12:00", "note": "May close during July and August"}
+      ],
+      "verified": "high",
+      "address_corrected": true,
+      "source": "https://www.yelp.com/biz/north-highlands-christian-food-ministry-north-highlands",
+      "note": "Address corrected from 6125 to 6007 Watt Ave (most consistently cited primary address across Yelp/findhelp/211; some listings still show 6125). Added phone 916-955-1010. Serves zips 95660/95842/95843; 3-day emergency supply."
+    },
+    {
+      "slug": "add-daughters-of-zion-enterpryz-food-pantry",
+      "name": "Daughters of Zion Enterpryz Food Pantry",
+      "operating": true,
+      "address": "6524 44th Street, Sacramento, CA 95823",
+      "phone": "916-422-3875",
+      "website": "",
+      "schedules": [
+        {"freq": "weekly", "days": ["wed"], "open": "16:30", "close": "18:30", "note": "Drive-through"}
+      ],
+      "verified": "high",
+      "address_corrected": true,
+      "source": "https://www.foodpantries.org/li/ca_sacramento_daughters-of-zion-enterpryzinc-food-pantry",
+      "note": "Address corrected from 6849 47th St to 6524 44th St, 95823. Primary source lists only Wednesday 16:30-18:30 drive-through; the Thu and Sat hours in the input could not be confirmed and were dropped. Also runs a 3rd-Friday pop-up at Pacific Elementary (not the main site). Phone also listed as 916-422-4962."
+    },
+    {
+      "slug": "add-cathedral-of-praise-worship-center-food-distribu",
+      "name": "Cathedral of Praise & Worship Center Food Distribution",
+      "operating": true,
+      "address": "2875 Meadowview Road, Sacramento, CA 95832",
+      "phone": "916-568-7606",
+      "website": "",
+      "schedules": [
+        {"freq": "weekly", "days": ["tue"], "open": "10:00", "close": "13:00", "note": "Food bag giveaway; serves South Sacramento residents"}
+      ],
+      "verified": "unconfirmed",
+      "source": "https://www.empowerthrive.org/p/free-food-pantries-soup-kitchens-and.html",
+      "note": "Address matches input. Added phone 916-568-7606. Directory sources say Tuesday giveaway (one says starts 10AM); input said 11-13 with 09:30-10:00 signup. Kept a Tue window but exact time unconfirmed. Serves South Sacramento only."
+    },
+    {
+      "slug": "add-new-hope-community-church-the-gift-of-groceries",
+      "name": "New Hope Community Church - The Gift of Groceries",
+      "operating": true,
+      "address": "1821 Meadowview Road, Sacramento, CA 95832",
+      "phone": "916-205-3678",
+      "website": "https://newhopemeadowview.com",
+      "schedules": [
+        {"freq": "weekly", "days": ["thu"], "open": "13:00", "close": "16:00", "note": "Registration from 07:00; distribution 13:00 until food runs out. SFBFS core agency / TEFAP site"}
+      ],
+      "verified": "high",
+      "source": "https://newhopemeadowview.com/about-tgog/",
+      "note": "Confirmed via operator site. Corrected distribution time: Thursday 13:00-16:00 (input said 10:00-12:00); registration opens 07:00. Added website. Largest single-day food distribution in Sacramento County."
+    },
+    {
+      "slug": "add-allen-chapel-ame-church-food-pantry",
+      "name": "Allen Chapel AME Church Food Pantry",
+      "operating": true,
+      "address": "1239 Grand Avenue, Sacramento, CA 95838",
+      "phone": "916-922-5077",
+      "website": "",
+      "schedules": [
+        {"freq": "monthly", "patterns": ["2nd Wed", "4th Wed"], "open": "10:00", "close": "12:00", "note": "Held in Allen Chapel Community Room"}
+      ],
+      "verified": "high",
+      "address_corrected": true,
+      "source": "https://www.foodpantries.org/li/ca_sacramento_allen-chapel-ame-church-food-pantry",
+      "note": "Address corrected from 3519 9th Ave 95817 to 1239 Grand Avenue 95838 (Del Paso Heights). The phone 916-922-5077 matches the Grand Ave congregation, confirming the input street/ZIP were wrong. 2nd & 4th Wed; exact time per directory is 10:00-12:00 (approx, unconfirmed by operator)."
+    },
+    {
+      "slug": "add-manna-food-bank-at-liberty-ministries-christian-",
+      "name": "Manna Food Bank at Liberty Ministries Christian Fellowship",
+      "operating": true,
+      "address": "4840 Marysville Blvd, Sacramento, CA 95838",
+      "phone": "916-922-6442",
+      "website": "https://www.mannasac.com",
+      "schedules": [
+        {"freq": "weekly", "days": ["fri"], "open": "09:30", "close": "12:00", "note": "ID required"}
+      ],
+      "verified": "high",
+      "address_corrected": true,
+      "source": "https://www.mannasac.com/",
+      "note": "Address corrected from 3410 Rio Linda Blvd to 4840 Marysville Blvd, 95838 per the operator site (mannasac.com). Friday 09:30-12:00 confirmed, ID required. Added website."
+    },
+    {
+      "slug": "add-elevation-holy-cross-food-pantry",
+      "name": "Elevation Holy Cross Food Pantry",
+      "operating": true,
+      "address": "9000 Jackson Road, Sacramento, CA 95826",
+      "phone": "916-364-8068",
+      "website": "https://holycrosssacramento.org/outreachandcharity",
+      "schedules": [
+        {"freq": "weekly", "days": ["tue"], "open": "10:00", "close": "11:00", "note": "Elevation of the Holy Cross Orthodox Church food closet"}
+      ],
+      "verified": "high",
+      "source": "https://holycrosssacramento.org/outreachandcharity",
+      "note": "Confirmed via church outreach page. Tuesday 10:00-11:00. Address and phone match input. Added website."
+    },
+    {
+      "slug": "add-st-john-s-lutheran-church-food-pantry-central-do",
+      "name": "St. John's Lutheran Church Food Pantry (Central Downtown Food Basket)",
+      "operating": true,
+      "address": "1701 L Street, Sacramento, CA 95811",
+      "phone": "916-444-0874",
+      "website": "https://www.cdfb.org",
+      "schedules": [
+        {"freq": "monthly", "patterns": ["2nd Thu", "3rd Thu", "4th Thu"], "open": "10:00", "close": "12:00", "note": "Last 3 Thursdays of the month at St. John's Lutheran Church"}
+      ],
+      "verified": "high",
+      "source": "https://cdfb.org/Locations.html",
+      "note": "Schedule corrected. Primary CDFB locator says St. John's site runs the last 3 Thursdays of the month 10:00-12:00 (input's Mon/Tue/2nd-Sat schedule not confirmed by CDFB). CDFB operates other sites separately (Atonement Lutheran 9242 Kiefer Blvd; Fremont Presbyterian 5770 Carlson Dr)."
+    },
+    {
+      "slug": "add-rio-linda-elverta-food-closet",
+      "name": "Rio Linda / Elverta Food Closet",
+      "operating": true,
+      "address": "151 Delano Street, Elverta, CA 95626",
+      "phone": "916-717-3265",
+      "website": "https://riolindafoodcloset.com",
+      "schedules": [
+        {"freq": "weekly", "days": ["tue", "thu"], "open": "09:30", "close": "11:30", "note": "Income-qualified; serves 95673/95843/95660/95626"}
+      ],
+      "verified": "high",
+      "source": "https://riolindafoodcloset.com/",
+      "note": "Confirmed operating (local news coverage Oct 2025). Address and Tue/Thu 09:30-11:30 confirmed. Added phone 916-717-3265 and website."
+    },
+    {
+      "slug": "add-real-life-church-food-distribution-galt",
+      "name": "Real Life Church Food Distribution (Galt)",
+      "operating": true,
+      "address": "550 Industrial Dr STE 100, Galt, CA 95632",
+      "phone": "209-730-6354",
+      "website": "https://www.rlconline.church",
+      "schedules": [
+        {"freq": "monthly", "patterns": ["1st Mon", "3rd Mon"], "open": "", "close": "", "note": "Serves approx 100 family units; exact times unconfirmed"}
+      ],
+      "verified": "unconfirmed",
+      "address_corrected": true,
+      "source": "https://feedam.org/resource/180413",
+      "note": "Address corrected from 501 C St to 550 Industrial Dr STE 100, Galt 95632 (C Street is actually the separate Sunshine Food Pantry). Real Life distributes 1st & 3rd Mondays (not Thursday as input said). Exact times not confirmed by a primary source; the input's Thu 13:30-16:30 appears to be the wrong org. Verify with 209-730-6354."
+    },
+    {
+      "slug": "add-sunshine-food-pantry-resource-center-galt",
+      "name": "Sunshine Food Pantry & Resource Center (Galt)",
+      "operating": true,
+      "address": "571 C Street, Galt, CA 95632",
+      "phone": "209-200-2628",
+      "website": "https://sunshinefoodpantrygalt.org",
+      "schedules": [
+        {"freq": "monthly", "patterns": ["2nd Thu", "4th Thu"], "open": "08:00", "close": "11:00", "note": "Serves Galt and Herald; others not turned away"}
+      ],
+      "verified": "high",
+      "address_corrected": true,
+      "source": "https://sunshinefoodpantrygalt.org/",
+      "note": "Address corrected from 220 6th St to 571 C Street, Galt 95632. Added phone 209-200-2628 and website. 2nd & 4th Thursdays 08:00-11:00. Input had no hours; now confirmed."
+    },
+    {
+      "slug": "add-glide-avenue-walk-up-food-distribution",
+      "name": "Glide Avenue Walk-Up Food Distribution",
+      "operating": true,
+      "address": "700 Glide Avenue, West Sacramento, CA 95691",
+      "phone": "530-668-0690",
+      "website": "https://yolofoodbank.org/find-food/",
+      "schedules": [
+        {"freq": "weekly", "days": ["tue"], "open": "08:30", "close": "10:30", "note": "Walk-up at Masjid Aisha; Yolo Food Bank site; while supplies last; bring bags/cart"}
+      ],
+      "verified": "high",
+      "source": "https://yolofoodbank.org/find-food/",
+      "note": "Confirmed via Yolo Food Bank calendar: Masjid Aisha, 700 Glide Ave, Tuesday 08:30 while supplies last. Added phone/website. NOTE: West Sacramento is in Yolo County, not Sacramento County."
+    },
+    {
+      "slug": "add-sierra-arden-neighborhood-food-closet",
+      "name": "Sierra Arden Neighborhood Food Closet",
+      "operating": true,
+      "address": "890 Morse Avenue, Sacramento, CA 95864",
+      "phone": "916-483-1942",
+      "website": "",
+      "schedules": [
+        {"freq": "weekly", "days": ["tue", "wed", "fri"], "open": "10:00", "close": "11:45", "note": "Serves zips 95815/95821/95825/95864; once per 21 days; 30 families per shift"},
+        {"freq": "weekly", "days": ["thu"], "open": "10:00", "close": "17:45", "note": "Extended Thursday hours per findhelp listing"}
+      ],
+      "verified": "high",
+      "source": "https://www.findhelp.org/sierra-arden-united-church-of-christ--sacramento-ca--sierra-arden-neighborhood-food-closet/5201257242820608",
+      "note": "Operated by Sierra Arden United Church of Christ. Added phone 916-483-1942. Core hours Tue/Wed/Fri 10:00-11:45; Thursday listed with extended hours (10:00-17:45). Address matches input."
+    },
+    {
+      "slug": "add-ardenaire-food-pantry",
+      "name": "Ardenaire Food Pantry",
+      "operating": true,
+      "address": "1972 Ethan Way, Sacramento, CA 95825",
+      "phone": "916-923-6310",
+      "website": "https://www.mercyhousing.org/california/ardenaire/",
+      "schedules": [
+        {"freq": "weekly", "days": ["fri"], "open": "09:00", "close": "12:00", "note": "At Mercy Housing Ardenaire community"}
+      ],
+      "verified": "high",
+      "source": "https://ampleharvest.org/food-pantries/ardenaire-food-pantry-3985/",
+      "note": "Confirmed. 1972 Ethan Way 95825, Friday 09:00-12:00, phone matches. Located at Mercy Housing Ardenaire (unit #37)."
+    },
+    {
+      "slug": "add-stanford-settlement-senior-center-congregate-lun",
+      "name": "Stanford Settlement Senior Center - Congregate Lunch",
+      "operating": true,
+      "address": "450 W. El Camino Avenue, Sacramento, CA 95833",
+      "phone": "916-927-3694",
+      "website": "https://stanfordsettlement.org",
+      "schedules": [
+        {"freq": "weekly", "days": ["mon", "tue", "wed", "thu", "fri"], "open": "11:30", "close": "12:30", "note": "Hot congregate lunch for ages 50+; no cost, donations accepted"}
+      ],
+      "verified": "high",
+      "source": "https://www.211ca.org/detail/?idServiceAtLocation=211sacrame-15603829",
+      "note": "Confirmed via 211/Yelp. Lunch served 11:30 Mon-Fri (senior center open 9-1). Ages 50+. Alt phones 916-927-1819 / 916-927-1303. Address matches input."
+    },
+    {
+      "slug": "add-mission-oaks-community-center-community-cafe-mea",
+      "name": "Mission Oaks Community Center - Community Cafe (Meals on Wheels)",
+      "operating": true,
+      "address": "4701 Gibbons Drive, Carmichael, CA 95608",
+      "phone": "916-359-1192",
+      "website": "https://www.mowsac.org/services-programs/",
+      "schedules": [
+        {"freq": "weekly", "days": ["mon", "tue", "wed", "thu", "fri"], "open": "11:45", "close": "12:45", "note": "Congregate lunch for ages 60+; by appointment; suggested $6 contribution; call Lisa 916-359-1192 to reserve"}
+      ],
+      "verified": "high",
+      "source": "https://www.mowsac.org/wp-content/uploads/2024/09/Community-Cafe.pdf",
+      "note": "Confirmed via Meals on Wheels Sacramento Community Cafe flyer. Now 'Gibbons Community Center' at 4701 Gibbons Dr, Carmichael 95608. Lunch Mon-Fri 11:45, by appointment, ages 60+. Reservation phone 916-359-1192."
+    },
+    {
+      "slug": "add-twin-rivers-food-distribution-highlands-high-sch",
+      "name": "Twin Rivers Food Distribution (Highlands High School)",
+      "operating": true,
+      "address": "6601 Guthrie St, North Highlands, CA 95660",
+      "phone": "",
+      "website": "https://www.trusd.net/StudentsFamilies/Family-and-Community-Engagement-FACE/Food-Distribution/",
+      "schedules": [
+        {"freq": "monthly", "patterns": ["2nd Thu", "4th Thu"], "open": "15:45", "close": "17:15", "note": "Room S105 in the S-Building, access via Don Julio Blvd near Sports Complex; bring photo ID and bags. Nov/Dec 2026 only one date each (2nd Thu)"}
+      ],
+      "verified": "high",
+      "source": "https://www.trusd.net/StudentsFamilies/Family-and-Community-Engagement-FACE/Food-Distribution/",
+      "note": "Confirmed active for 2025-2026 via district site. Corrected schedule: 2nd & 4th Thursday 15:45-17:15 (input said schedule varies). Address 6601 Guthrie St matches."
+    },
+    {
+      "slug": "add-river-city-food-bank-downtown-midtown-pantry-j-s",
+      "name": "River City Food Bank - Downtown/Midtown Pantry (J Street)",
+      "operating": true,
+      "address": "1800 28th St, Sacramento, CA 95816",
+      "phone": "916-446-2627",
+      "website": "https://rivercityfoodbank.org/",
+      "schedules": [
+        {"freq": "weekly", "days": ["tue", "thu"], "open": "10:30", "close": "13:30", "note": "Midtown pantry"}
+      ],
+      "verified": "high",
+      "address_corrected": true,
+      "source": "https://rivercityfoodbank.org/emergency-food-distribution/",
+      "note": "No separate J Street (1800 J St) pantry exists. The Midtown pantry is at 1800 28th St 95816, open Tue & Thu 10:30-13:30. Address corrected from 1800 J St. The other RCFB site is Arden-Arcade at 2300 Edison Ave 95821 (Wed & Fri 10:30-13:30). This confirms the input's duplication concern: this pin IS the 28th St pin, so do not create a separate J Street pin."
+    }
+  ]
+}

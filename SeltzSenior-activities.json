@@ -1,0 +1,31 @@
+{
+  "_meta": {
+    "topic": "Net-new San Diego food distributions",
+    "generated": "2026-09-28",
+    "source": "Research supplementing FoodDistributionSD; raw ./SeltzSenior-raw.json."
+  },
+  "_deferred": {},
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "sd-add-judith-l-seltz-senior-wellness-center-w12345-1200",
+      "seriesSlug": "sd-add-judith-l-seltz-senior-wellness-center",
+      "title": "Judith L. Seltz Senior Wellness Center — Free Food",
+      "description": "Free food at Judith L. Seltz Senior Wellness Center (Serving Seniors). Schedule: Mon–Fri from 12 PM (lunch). Eligibility: Adults 60+ (no cost). Call (619) 235-6572 to confirm before you go — hours change and supplies can run out. Source: community research, Sep 2026.",
+      "locationName": "Judith L. Seltz Senior Wellness Center",
+      "address": "5257 Mt. Etna Dr, San Diego, CA 92117",
+      "lat": 32.821005,
+      "lng": -117.183563,
+      "category": "food-assistance",
+      "sourceOrg": "Serving Seniors",
+      "url": "https://servingseniors.org/what-we-do/programs-services/congregate-dining.html",
+      "schedulePattern": "Mon–Fri from 12 PM (lunch)",
+      "start": "2026-09-21T12:00",
+      "end": null,
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    }
+  ]
+}

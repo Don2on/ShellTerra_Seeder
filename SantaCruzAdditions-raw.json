@@ -1,0 +1,1227 @@
+{
+  "_meta": {
+    "topic": "SantaCruz County food distributions",
+    "generated": "2026-10-11",
+    "source": "Hand-collected list (Foodbank of Santa Barbara County, Second Harvest of Silicon Valley, Second Harvest Food Bank Santa Cruz, Shasta County HHSA). Schedules parsed via LA clause parser.",
+    "note": "Drop-in raw for prepare-food-additions.mjs. Single-time meals / \"open daily\" route to _deferred."
+  },
+  "sites": [
+    {
+      "name": "New Hope Aptos Church",
+      "org": "New Hope Aptos Church",
+      "address": "7200 Freedom Blvd, Aptos, CA 95003",
+      "phone": "831-688-3312",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Tue 10am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue",
+            "4th Tue"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "People's Pantry (Twin Lakes Church)",
+      "org": "People's Pantry (Twin Lakes Church)",
+      "address": "2701 Cabrillo College Dr, Aptos, CA 95003",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 3:45pm-5:15pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "15:45",
+          "close": "17:15"
+        }
+      ]
+    },
+    {
+      "name": "Resurrection Church Pantry",
+      "org": "Resurrection Church Pantry",
+      "address": "7600 Soquel Dr, Aptos, CA 95003",
+      "phone": "831-688-4300",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Fri 10am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Neighbors Helping Neighbors (Aromas Grange)",
+      "org": "Neighbors Helping Neighbors (Aromas Grange)",
+      "address": "400 Rose Ave, Aromas, CA 95004",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Tue 4pm-5pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Tue",
+            "3rd Tue"
+          ],
+          "open": "16:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Valley Churches United Mission",
+      "org": "Valley Churches United Mission",
+      "address": "9400 Highway 9, Ben Lomond, CA 95005",
+      "phone": "",
+      "eligibility": "seniors only",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue, Wed, Thu 9am-12pm; 1st & 3rd Fri 9am-11am (seniors only)",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri",
+            "3rd Fri"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Bay Avenue Senior Apartments",
+      "org": "Bay Avenue Senior Apartments",
+      "address": "750 Bay Avenue Building 4, Capitola, CA 95010",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Wed 11am-12:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed"
+          ],
+          "open": "11:00",
+          "close": "12:30"
+        }
+      ]
+    },
+    {
+      "name": "Davenport Resource Service Center (Community Action Board)",
+      "org": "Davenport Resource Service Center (Community Action Board)",
+      "address": "150 Church St, Davenport, CA 95017",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Wed, Thu 10am-6pm; Tue 2pm-5pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed",
+            "Thu"
+          ],
+          "open": "10:00",
+          "close": "18:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "14:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Mountain Community Resources (Community Bridges)",
+      "org": "Mountain Community Resources (Community Bridges)",
+      "address": "6134 Highway 9, Felton, CA 95018",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 10:30am-11:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "10:30",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Cornerstone Food Pantry",
+      "org": "Cornerstone Food Pantry",
+      "address": "302 Carey Ave, Freedom, CA 95019",
+      "phone": "831-331-9120",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 10:30am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "10:30",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Corralitos Creek Apartments",
+      "org": "Corralitos Creek Apartments",
+      "address": "125 Pajaro Circle, Freedom, CA 95019",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "while supplies last",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue",
+            "4th Tue"
+          ],
+          "open": "16:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Freedom Elementary School",
+      "org": "Freedom Elementary School",
+      "address": "25 Holly Dr, Freedom, CA 95019",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "while supplies last",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed",
+            "4th Wed"
+          ],
+          "open": "17:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Paloma del Mar Apartments",
+      "org": "Paloma del Mar Apartments",
+      "address": "2030 Pajaro Ln, Freedom, CA 95019",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "while supplies last",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Fri"
+          ],
+          "open": "10:30",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Community Connection - Santa Cruz",
+      "org": "Community Connection - Santa Cruz",
+      "address": "300 Harvey West Blvd, Santa Cruz, CA 95060",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Wed 10am-2pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "open": "10:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Del Mar Elementary School",
+      "org": "Del Mar Elementary School",
+      "address": "1959 Merrill St, Santa Cruz, CA 95062",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "while supplies last",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Wed",
+            "3rd Wed"
+          ],
+          "open": "16:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Elizabeth Oaks Apartments",
+      "org": "Elizabeth Oaks Apartments",
+      "address": "1460 Jose Ave, Santa Cruz, CA 95062",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "while supplies last",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Wed",
+            "3rd Wed"
+          ],
+          "open": "11:30",
+          "close": "12:30"
+        }
+      ]
+    },
+    {
+      "name": "Grey Bears",
+      "org": "Grey Bears",
+      "address": "2710 Chanticleer Avenue, Santa Cruz, CA 95065",
+      "phone": "831-479-1055",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 11am-12:30pm; Thu, Fri 9am-10:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "11:00",
+          "close": "12:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "Holy Cross Church Pantry",
+      "org": "Holy Cross Church Pantry",
+      "address": "210 High St Rm 104, Santa Cruz, CA 95060",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sun 8am-11am; Wed, Fri 10am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sun"
+          ],
+          "open": "08:00",
+          "close": "11:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed",
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "LiUNA! Local 270 Community Service Fund",
+      "org": "LiUNA! Local 270 Community Service Fund",
+      "address": "640 Eaton St, Santa Cruz, CA 95062",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 10am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Live Oak Elementary School",
+      "org": "Live Oak Elementary School",
+      "address": "1916 Capitola Rd, Santa Cruz, CA 95062",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "while supplies last",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu",
+            "4th Thu"
+          ],
+          "open": "16:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Neary Lagoon Apartments",
+      "org": "Neary Lagoon Apartments",
+      "address": "81 Chestnut St, Santa Cruz, CA 95060",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "while supplies last",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu",
+            "3rd Thu"
+          ],
+          "open": "14:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Nueva Vista Apartments",
+      "org": "Nueva Vista Apartments",
+      "address": "136 Leibrandt Ave, Santa Cruz, CA 95060",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "while supplies last",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Tue"
+          ],
+          "open": "14:30",
+          "close": "15:30"
+        }
+      ]
+    },
+    {
+      "name": "Nueva Vista Community Resources (Community Bridges)",
+      "org": "Nueva Vista Community Resources (Community Bridges)",
+      "address": "711 E. Cliff Dr, Santa Cruz, CA 95060",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Wed 2:30pm-4:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Wed",
+            "3rd Wed"
+          ],
+          "open": "14:30",
+          "close": "16:30"
+        }
+      ]
+    },
+    {
+      "name": "Salvation Army Santa Cruz Corps",
+      "org": "Salvation Army Santa Cruz Corps",
+      "address": "721 Laurel St, Santa Cruz, CA 95060",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Thu 9am-11:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "09:00",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Santa Cruz Bible Church",
+      "org": "Santa Cruz Bible Church",
+      "address": "440 Frederick St, Santa Cruz, CA 95062",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 10am-12pm; Thu 12pm-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Santa Cruz Community Health Centers - Live Oak Health Center",
+      "org": "Santa Cruz Community Health Centers - Live Oak Health Center",
+      "address": "1510 Capitola Road, Santa Cruz, CA 95062",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 3pm-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "15:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Francis Soup Kitchen",
+      "org": "St. Francis Soup Kitchen",
+      "address": "205 Mora St, Santa Cruz, CA 95060",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 12pm-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Star of the Sea Church",
+      "org": "Star of the Sea Church",
+      "address": "515 Frederick St, Santa Cruz, CA 95062",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 10am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Sycamore Commons Apartments",
+      "org": "Sycamore Commons Apartments",
+      "address": "125 Sycamore St, Santa Cruz, CA 95060",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Thu 2pm-3pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Thu"
+          ],
+          "open": "14:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "United Veterans Council - SC Veterans Memorial Building",
+      "org": "United Veterans Council - SC Veterans Memorial Building",
+      "address": "846 Front St, Santa Cruz, CA 95060",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "hot meal and pantry",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "11:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "GateWay Bible Church",
+      "org": "GateWay Bible Church",
+      "address": "5000 Granite Creek Road, Scotts Valley, CA 95066",
+      "phone": "831-438-0646",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 5pm-5:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "17:00",
+          "close": "17:30"
+        }
+      ]
+    },
+    {
+      "name": "San Agustin Pantry",
+      "org": "San Agustin Pantry",
+      "address": "257 Glenwood Drive, Scotts Valley, CA 95066",
+      "phone": "831-423-0878",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 10am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "10:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Philip's Episcopal Food Pantry",
+      "org": "St. Philip's Episcopal Food Pantry",
+      "address": "5271 Scotts Valley Drive, Scotts Valley, CA 95066",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 5pm-6:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "17:00",
+          "close": "18:30"
+        }
+      ]
+    },
+    {
+      "name": "Tradewinds Church",
+      "org": "Tradewinds Church",
+      "address": "4525 Soquel Dr, Soquel, CA 95073",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 10am-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Alianza Charter School",
+      "org": "Alianza Charter School",
+      "address": "115 Casserly Rd, Watsonville, CA 95076",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Fri 4pm-5pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Fri",
+            "4th Fri"
+          ],
+          "open": "16:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "All Saints Cristo Rey Episcopal Church",
+      "org": "All Saints Cristo Rey Episcopal Church",
+      "address": "437 Roger Ave, Watsonville, CA 95076",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Thu 10:30am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Thu"
+          ],
+          "open": "10:30",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Amesti Elementary School",
+      "org": "Amesti Elementary School",
+      "address": "25 Amesti Rd, Watsonville, CA 95076",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "while supplies last",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Wed",
+            "3rd Wed"
+          ],
+          "open": "16:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Ann Soldo Elementary School",
+      "org": "Ann Soldo Elementary School",
+      "address": "1140 Menasco Dr, Watsonville, CA 95076",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "while supplies last",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue"
+          ],
+          "open": "13:30",
+          "close": "14:30"
+        }
+      ]
+    },
+    {
+      "name": "Buena Vista Children's Center",
+      "org": "Buena Vista Children's Center",
+      "address": "113 Tierra Alta Dr Rm 201, Watsonville, CA 95076",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Thu 5pm-6pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu",
+            "3rd Thu"
+          ],
+          "open": "17:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Calabasas Elementary School",
+      "org": "Calabasas Elementary School",
+      "address": "202 Calabasas Rd, Watsonville, CA 95076",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "while supplies last",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Tue",
+            "3rd Tue"
+          ],
+          "open": "16:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Holy Eucharist Catholic Community Church",
+      "org": "Holy Eucharist Catholic Community Church",
+      "address": "527 Corralitos Road, Watsonville, CA 95076",
+      "phone": "831-722-5490",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Thu 2pm-4pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu"
+          ],
+          "open": "14:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Iglesia Adventista Hispana",
+      "org": "Iglesia Adventista Hispana",
+      "address": "336 Green Valley Rd, Watsonville, CA 95076",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Every other Wed 9:30am-10:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "09:30",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "Iglesia de Cristo (Watsonville)",
+      "org": "Iglesia de Cristo (Watsonville)",
+      "address": "118 First St, Watsonville, CA 95076",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Every other Tue 7pm-9pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "19:00",
+          "close": "21:00"
+        }
+      ]
+    },
+    {
+      "name": "Pajaro Valley Loaves & Fishes",
+      "org": "Pajaro Valley Loaves & Fishes",
+      "address": "150 Second Street, Watsonville, CA 95076",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 9am-11:30am, 12pm-1pm, 1pm-3pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "11:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "13:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Pajaro Valley Prevention and Student Assistance",
+      "org": "Pajaro Valley Prevention and Student Assistance",
+      "address": "411 East Lake Avenue, Watsonville, CA 95076",
+      "phone": "831-728-6445",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Tue 11am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Tue"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Radcliff Elementary School",
+      "org": "Radcliff Elementary School",
+      "address": "550 Rodriguez St, Watsonville, CA 95076",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "while supplies last",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Fri"
+          ],
+          "open": "14:30",
+          "close": "15:30"
+        }
+      ]
+    },
+    {
+      "name": "Salvation Army Watsonville Corps",
+      "org": "Salvation Army Watsonville Corps",
+      "address": "214 Union St, Watsonville, CA 95076",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue, Thu 10am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Starlight Elementary School",
+      "org": "Starlight Elementary School",
+      "address": "225 Hammer Dr, Watsonville, CA 95076",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Thu 5pm-6pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu",
+            "3rd Thu"
+          ],
+          "open": "17:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "United Methodist Church (Watsonville)",
+      "org": "United Methodist Church (Watsonville)",
+      "address": "229 Stanford St, Watsonville, CA 95076",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "while supplies last",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu"
+          ],
+          "open": "16:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Watsonville Prep School",
+      "org": "Watsonville Prep School",
+      "address": "407 Main Street, Watsonville, CA 95076",
+      "phone": "831-274-3222",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "while supplies last",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Fri",
+            "4th Fri"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Watsonville Senior Center",
+      "org": "Watsonville Senior Center",
+      "address": "114 E. 5th St, Watsonville, CA 95076",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "while supplies last",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Thu"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Watsonville Seventh-day Adventist Church",
+      "org": "Watsonville Seventh-day Adventist Church",
+      "address": "700 S. Green Valley Road, Watsonville, CA 95076",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 12pm-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Salud Para La Gente (Nielson St)",
+      "org": "Salud Para La Gente (Nielson St)",
+      "address": "45 Nielson St, Watsonville, CA 95076",
+      "phone": "831-763-3431",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Every other Tue 10am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Salud Para La Gente (Marchant St parking lot)",
+      "org": "Salud Para La Gente (Marchant St parking lot)",
+      "address": "317 Marchant Street, Watsonville, CA 95076",
+      "phone": "831-763-3431",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 10am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    }
+  ]
+}

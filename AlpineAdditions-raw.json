@@ -1,0 +1,56 @@
+{
+  "_meta": {
+    "topic": "Alpine County food distributions",
+    "generated": "2026-10-11",
+    "source": "Hand-collected list (North State Food Bank, Resource Connection, NVC Food Bank, county resource lists, Google). Schedules parsed via LA clause parser. lat/lng geocoded downstream.",
+    "note": "Drop-in raw for prepare-food-additions.mjs. \"Monthly (date varies/call)\" and single start-times route to _deferred (vendor card, no event)."
+  },
+  "sites": [
+    {
+      "name": "Alpine County Social Services Department",
+      "org": "Alpine County Social Services Department",
+      "address": "75A Diamond Valley Rd, Markleeville, CA 96120",
+      "phone": "(530) 694-2235",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "office Mon-Fri 8am-5pm",
+      "schedules": []
+    },
+    {
+      "name": "Woodfords Gym (Food Bank of Northern Nevada mobile site)",
+      "org": "Woodfords Gym (Food Bank of Northern Nevada mobile site)",
+      "address": "25 Washo Blvd, Markleeville, CA 96120",
+      "phone": "(775) 331-3663",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Produce on Wheels, open to everyone",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue"
+          ],
+          "open": "09:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "First 5 Alpine",
+      "org": "First 5 Alpine",
+      "address": "75A Diamond Valley Rd, Markleeville, CA 96120",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "",
+      "schedules": [],
+      "allowColocated": true
+    }
+  ]
+}

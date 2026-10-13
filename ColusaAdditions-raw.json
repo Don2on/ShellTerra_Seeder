@@ -1,0 +1,169 @@
+{
+  "_meta": {
+    "topic": "Colusa County food distributions",
+    "generated": "2026-10-11",
+    "source": "Hand-collected list (North State Food Bank, Resource Connection, NVC Food Bank, county resource lists, Google). Schedules parsed via LA clause parser. lat/lng geocoded downstream.",
+    "note": "Drop-in raw for prepare-food-additions.mjs. \"Monthly (date varies/call)\" and single start-times route to _deferred (vendor card, no event)."
+  },
+  "sites": [
+    {
+      "name": "Arbuckle Community Church",
+      "org": "Arbuckle Community Church",
+      "address": "700 Hillgate Rd, Arbuckle, CA 95912",
+      "phone": "(530) 476-2777",
+      "eligibility": "",
+      "website": "https://nvcfoodbank.org/locations/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Tue 4-5:50pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue"
+          ],
+          "open": "16:00",
+          "close": "17:50"
+        }
+      ]
+    },
+    {
+      "name": "Arbuckle Family Action Center",
+      "org": "Arbuckle Family Action Center",
+      "address": "812 King St, Arbuckle, CA 95912",
+      "phone": "(530) 476-0822",
+      "eligibility": "",
+      "website": "https://nvcfoodbank.org/locations/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "emergency pantry",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "08:30",
+          "close": "16:30"
+        }
+      ]
+    },
+    {
+      "name": "Colusa Assembly of God",
+      "org": "Colusa Assembly of God",
+      "address": "1747 State Hwy 20, Colusa, CA 95932",
+      "phone": "(530) 458-2585",
+      "eligibility": "",
+      "website": "https://nvcfoodbank.org/locations/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Tue 12pm until supplies run out",
+      "schedules": []
+    },
+    {
+      "name": "Colusa Senior Center (monthly commodity distribution)",
+      "org": "Colusa Senior Center (monthly commodity distribution)",
+      "address": "901 Parkhill St, Colusa, CA 95932",
+      "phone": "(530) 458-0494",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "call for date",
+      "schedules": []
+    },
+    {
+      "name": "Our Lady of Lourdes Catholic Church",
+      "org": "Our Lady of Lourdes Catholic Church",
+      "address": "345 Oak St, Colusa, CA 95932",
+      "phone": "(530) 458-4170",
+      "eligibility": "",
+      "website": "https://nvcfoodbank.org/locations/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 9-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Maxwell Parks & Recreation District (monthly commodity distribution)",
+      "org": "Maxwell Parks & Recreation District (monthly commodity distribution)",
+      "address": "64 Oak St, Maxwell, CA 95955",
+      "phone": "(530) 501-6588",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "call for date",
+      "schedules": []
+    },
+    {
+      "name": "Stonyford monthly commodity distribution",
+      "org": "Stonyford monthly commodity distribution",
+      "address": "179 Geary St, Stonyford, CA 95979",
+      "phone": "(530) 963-3072",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "call for date",
+      "schedules": []
+    },
+    {
+      "name": "Williams Old Gym (monthly commodity distribution and senior boxes)",
+      "org": "Williams Old Gym (monthly commodity distribution and senior boxes)",
+      "address": "1491 E St, Williams, CA 95987",
+      "phone": "(530) 473-0212",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "call for date",
+      "schedules": []
+    },
+    {
+      "name": "Woodland Community College - Colusa County Campus",
+      "org": "Woodland Community College - Colusa County Campus",
+      "address": "99 Ella St, Williams, CA 95987",
+      "phone": "(530) 668-2500",
+      "eligibility": "students only, pre-registration required",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Thu 9am-5pm; Fri 9am-4:30pm (students only, pre-registration required)",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "16:30"
+        }
+      ]
+    }
+  ]
+}

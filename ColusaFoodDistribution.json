@@ -1,0 +1,172 @@
+{
+  "_meta": {
+    "topic": "Net-new Colusa County food distributions",
+    "generated": "2026-10-05",
+    "source": "Research supplementing shell PENDING-Colusa; raw ./ColusaAdditions-raw.json."
+  },
+  "_deferred": {
+    "add-colusa-assembly-of-god": {
+      "title": "Colusa Assembly of God",
+      "status": "2nd Tue 12pm until supplies run out Phone: (530) 458-2585.",
+      "address": "1747 State Hwy 20, Colusa, CA 95932",
+      "lat": 39.200684,
+      "lng": -122.002152,
+      "phone": "(530) 458-2585",
+      "eligibility": "",
+      "sourceUrl": "https://nvcfoodbank.org/locations/"
+    },
+    "add-colusa-senior-center-monthly-commodity-distribut": {
+      "title": "Colusa Senior Center (monthly commodity distribution)",
+      "status": "call for date Phone: (530) 458-0494.",
+      "address": "901 Parkhill St, Colusa, CA 95932",
+      "lat": 39.211377,
+      "lng": -122.015552,
+      "phone": "(530) 458-0494",
+      "eligibility": "",
+      "sourceUrl": "https://nvcfoodbank.org/locations/"
+    },
+    "add-maxwell-parks-recreation-district-monthly-commod": {
+      "title": "Maxwell Parks & Recreation District (monthly commodity distribution)",
+      "status": "call for date Phone: (530) 501-6588.",
+      "address": "64 Oak St, Maxwell, CA 95955",
+      "lat": 39.276261,
+      "lng": -122.19212,
+      "phone": "(530) 501-6588",
+      "eligibility": "",
+      "sourceUrl": "https://nvcfoodbank.org/locations/"
+    },
+    "add-stonyford-monthly-commodity-distribution": {
+      "title": "Stonyford monthly commodity distribution",
+      "status": "call for date Phone: (530) 963-3072.",
+      "address": "179 Geary St, Stonyford, CA 95979",
+      "lat": 39.37506,
+      "lng": -122.548815,
+      "phone": "(530) 963-3072",
+      "eligibility": "",
+      "sourceUrl": "https://nvcfoodbank.org/locations/"
+    },
+    "add-williams-old-gym-monthly-commodity-distribution-": {
+      "title": "Williams Old Gym (monthly commodity distribution and senior boxes)",
+      "status": "call for date Phone: (530) 473-0212.",
+      "address": "1491 E St, Williams, CA 95987",
+      "lat": 39.152131,
+      "lng": -122.160384,
+      "phone": "(530) 473-0212",
+      "eligibility": "",
+      "sourceUrl": "https://nvcfoodbank.org/locations/"
+    }
+  },
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "add-arbuckle-community-church-m22-1600",
+      "seriesSlug": "add-arbuckle-community-church",
+      "title": "Arbuckle Community Church — Free Food",
+      "description": "Free food at Arbuckle Community Church. Schedule: 2nd Tue 4 PM–5:50 PM. Call (530) 476-2777 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Arbuckle Community Church",
+      "address": "700 Hillgate Rd, Arbuckle, CA 95912",
+      "lat": 39.013084,
+      "lng": -122.057813,
+      "category": "food-assistance",
+      "sourceOrg": "Arbuckle Community Church",
+      "url": "https://nvcfoodbank.org/locations/",
+      "schedulePattern": "2nd Tue 4 PM–5:50 PM",
+      "start": "2026-10-06T16:00",
+      "end": "2026-10-06T17:50",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "2:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-arbuckle-family-action-center-w12345-0830",
+      "seriesSlug": "add-arbuckle-family-action-center",
+      "title": "Arbuckle Family Action Center — Free Food",
+      "description": "Free food at Arbuckle Family Action Center. Schedule: Mon–Fri 8:30 AM–4:30 PM. Call (530) 476-0822 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Arbuckle Family Action Center",
+      "address": "812 King St, Arbuckle, CA 95912",
+      "lat": 39.014142,
+      "lng": -122.060893,
+      "category": "food-assistance",
+      "sourceOrg": "Arbuckle Family Action Center",
+      "url": "https://nvcfoodbank.org/locations/",
+      "schedulePattern": "Mon–Fri 8:30 AM–4:30 PM",
+      "start": "2026-09-28T08:30",
+      "end": "2026-09-28T16:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-our-lady-of-lourdes-catholic-church-w6-0900",
+      "seriesSlug": "add-our-lady-of-lourdes-catholic-church",
+      "title": "Our Lady of Lourdes Catholic Church — Free Food",
+      "description": "Free food at Our Lady of Lourdes Catholic Church. Schedule: Sat 9 AM–11 AM. Call (530) 458-4170 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Our Lady of Lourdes Catholic Church",
+      "address": "345 Oak St, Colusa, CA 95932",
+      "lat": 39.211617,
+      "lng": -122.007185,
+      "category": "food-assistance",
+      "sourceOrg": "Our Lady of Lourdes Catholic Church",
+      "url": "https://nvcfoodbank.org/locations/",
+      "schedulePattern": "Sat 9 AM–11 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-woodland-community-college-colusa-county-campus-w1234-0900",
+      "seriesSlug": "add-woodland-community-college-colusa-county-campus",
+      "title": "Woodland Community College - Colusa County Campus — Free Food",
+      "description": "Free food at Woodland Community College - Colusa County Campus. Schedule: Mon–Thu 9 AM–5 PM; Fri 9 AM–4:30 PM. Eligibility: students only, pre-registration required. Call (530) 668-2500 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Woodland Community College - Colusa County Campus",
+      "address": "99 Ella St, Williams, CA 95987",
+      "lat": 39.16183,
+      "lng": -122.13722,
+      "category": "food-assistance",
+      "sourceOrg": "Woodland Community College - Colusa County Campus",
+      "url": "https://nvcfoodbank.org/locations/",
+      "schedulePattern": "Mon–Thu 9 AM–5 PM; Fri 9 AM–4:30 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-woodland-community-college-colusa-county-campus-w5-0900",
+      "seriesSlug": "add-woodland-community-college-colusa-county-campus",
+      "title": "Woodland Community College - Colusa County Campus — Free Food",
+      "description": "Free food at Woodland Community College - Colusa County Campus. Schedule: Mon–Thu 9 AM–5 PM; Fri 9 AM–4:30 PM. Eligibility: students only, pre-registration required. Call (530) 668-2500 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Woodland Community College - Colusa County Campus",
+      "address": "99 Ella St, Williams, CA 95987",
+      "lat": 39.16183,
+      "lng": -122.13722,
+      "category": "food-assistance",
+      "sourceOrg": "Woodland Community College - Colusa County Campus",
+      "url": "https://nvcfoodbank.org/locations/",
+      "schedulePattern": "Mon–Thu 9 AM–5 PM; Fri 9 AM–4:30 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T16:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    }
+  ]
+}

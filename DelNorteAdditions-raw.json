@@ -1,0 +1,188 @@
+{
+  "_meta": {
+    "topic": "DelNorte County food distributions",
+    "generated": "2026-10-11",
+    "source": "Hand-collected list (IMACA, Food Bank of Contra Costa & Solano, Rural Human Services, Food Bank of El Dorado County). Schedules parsed via LA clause parser.",
+    "note": "Drop-in raw for prepare-food-additions.mjs."
+  },
+  "sites": [
+    {
+      "name": "Fort Dick Bible Church (Rural Human Services commodities)",
+      "org": "Fort Dick Bible Church (Rural Human Services commodities)",
+      "address": "6725 Lake Earl Dr, Crescent City, CA 95531",
+      "phone": "(707) 464-7441",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue of 1st full week of the month 12:30-2pm",
+      "schedules": []
+    },
+    {
+      "name": "Hiouchi Hamlet Store (Rural Human Services commodities)",
+      "org": "Hiouchi Hamlet Store (Rural Human Services commodities)",
+      "address": "2100 US-199, Crescent City, CA 95531",
+      "phone": "(707) 464-7441",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue of 2nd full week of the month 12:30-2pm",
+      "schedules": []
+    },
+    {
+      "name": "Our Daily Bread Ministries (meals)",
+      "org": "Our Daily Bread Ministries (meals)",
+      "address": "1135 Harrold St, Crescent City, CA 95531",
+      "phone": "(707) 464-7771",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Dinner Mon, Wed, Fri 5pm; breakfast Thu & Sun 8am",
+      "schedules": []
+    },
+    {
+      "name": "Pacific Pantry (Family Resource Center of the Redwoods)",
+      "org": "Pacific Pantry (Family Resource Center of the Redwoods)",
+      "address": "494 Pacific Ave, Crescent City, CA 95531",
+      "phone": "(707) 464-0955",
+      "eligibility": "",
+      "website": "https://ruralhumanservices.net",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 2-5pm; Fri 2-4pm; 1st & 3rd Sat 11am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "14:00",
+          "close": "17:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "14:00",
+          "close": "16:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Sat",
+            "3rd Sat"
+          ],
+          "open": "11:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Rural Human Services Food Bank",
+      "org": "Rural Human Services Food Bank",
+      "address": "286 M St Suite D, Crescent City, CA 95531",
+      "phone": "(707) 464-7441",
+      "eligibility": "",
+      "website": "https://ruralhumanservices.net",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed & Thu 9am-2pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed",
+            "Thu"
+          ],
+          "open": "09:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Vincent de Paul",
+      "org": "St. Vincent de Paul",
+      "address": "1440 Parkway Dr, Crescent City, CA 95531",
+      "phone": "(707) 464-1322",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 10am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "American Legion Hall (Rural Human Services commodities)",
+      "org": "American Legion Hall (Rural Human Services commodities)",
+      "address": "1555 Gasquet Flat Rd, Gasquet, CA 95543",
+      "phone": "(707) 464-7441",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue of 2nd full week of the month 10-11:30am",
+      "schedules": []
+    },
+    {
+      "name": "Klamath Community & Senior Center (Rural Human Services commodities)",
+      "org": "Klamath Community & Senior Center (Rural Human Services commodities)",
+      "address": "219 Salmon Ave, Klamath, CA 95548",
+      "phone": "(707) 464-7441",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue of 3rd full week of the month 10-11:30am",
+      "schedules": []
+    },
+    {
+      "name": "Howonquet Hall (Pacific Pantry mobile market)",
+      "org": "Howonquet Hall (Pacific Pantry mobile market)",
+      "address": "101 Indian Ct, Smith River, CA 95567",
+      "phone": "(707) 464-0955",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Tue 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Tue"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Smith River United Methodist Church (Rural Human Services commodities)",
+      "org": "Smith River United Methodist Church (Rural Human Services commodities)",
+      "address": "121 N Beckstead Ave, Smith River, CA 95567",
+      "phone": "(707) 464-7441",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue of 1st full week of the month 10-11:30am",
+      "schedules": []
+    }
+  ]
+}

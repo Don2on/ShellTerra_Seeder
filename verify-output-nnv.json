@@ -1,0 +1,105 @@
+{
+  "sites": [
+    {
+      "slug": "add-sparks-senior-center-congregate-meal",
+      "name": "Sparks Senior Center Congregate Meal",
+      "operating": true,
+      "address": "97 Richards Way, Sparks, NV 89431",
+      "phone": "775-353-3110",
+      "website": "https://www.cityofsparks.us/explore_sparks/seniors_service/sparks_senior_center.php",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": ["mon", "tue", "wed", "thu", "fri"],
+          "open": "11:30",
+          "close": "12:30",
+          "note": "Washoe County Senior Services congregate lunch for ages 60+; reservation recommended (call center)."
+        }
+      ],
+      "verified": "high",
+      "source": "https://washoelife.washoecounty.gov/washoe-county/human-services-agency/sparks-senior-center-reopens/",
+      "note": "Open and operating. The 2025 renovation was only a ~2-week flooring closure (Jun 30 - week of Jul 14, 2025); center has reopened. During that closure meals were served to-go at 11:30 AM in the parking lot. No current renovation closure. City of Sparks site now uses cityofsparks.us domain (old sparksnv.gov path still resolves)."
+    },
+    {
+      "slug": "add-fallon-daily-bread-wolf-center",
+      "name": "Fallon Daily Bread (Wolf Center)",
+      "operating": true,
+      "address": "457 Esmeralda St, Fallon, NV 89406",
+      "phone": "775-423-4714",
+      "website": "https://www.fallonchamber.com/community-resource/fallon-daily-bread-wolf-center/",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": ["mon", "thu"],
+          "open": "17:00",
+          "close": "18:00",
+          "note": "Hot dinner, all welcome, no requirements. (Fallon Chamber lists 17:30-18:30; statewide Nevada Independent guide lists 17:00-18:00 — kept input/NevInd window.)"
+        },
+        {
+          "freq": "weekly",
+          "days": ["mon"],
+          "open": "10:00",
+          "close": "13:00",
+          "note": "Food bank distribution."
+        },
+        {
+          "freq": "weekly",
+          "days": ["wed", "sat"],
+          "open": "10:00",
+          "close": "13:00",
+          "note": "Brown sack lunch (Methodist Church kitchen)."
+        }
+      ],
+      "verified": "high",
+      "source": "https://thenevadaindependent.com/article/resource-guide-heres-where-to-access-free-food-across-nevada-as-snap-runs-out",
+      "note": "Operating. Run via Epworth/Methodist church (epworthchurch.info). Phone corrected to 775-423-4714 (listed main line; input 775-423-2282 not confirmed). Dinner Mon/Thu confirmed by both Nevada Independent (5-6pm) and Fallon Chamber (5:30-6:30pm); added confirmed Mon food bank + Wed/Sat sack lunch distributions."
+    },
+    {
+      "slug": "add-toi-ticutta-food-hub",
+      "name": "Toi Ticutta Food Hub",
+      "operating": true,
+      "address": "8942 Mission Rd, Fallon, NV 89406",
+      "phone": "775-423-6075",
+      "website": "https://www.fpst.org/",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": ["mon"],
+          "open": "15:00",
+          "close": "17:00",
+          "note": "Operated by Fallon Paiute Shoshone Tribe."
+        },
+        {
+          "freq": "weekly",
+          "days": ["wed", "fri"],
+          "open": "09:00",
+          "close": "12:00",
+          "note": ""
+        }
+      ],
+      "verified": "high",
+      "source": "https://thenevadaindependent.com/article/resource-guide-heres-where-to-access-free-food-across-nevada-as-snap-runs-out",
+      "note": "Operating. Address and hours (Mon 3-5pm; Wed & Fri 9am-noon) confirmed by statewide Nevada Independent food resource guide and Food Bank of Northern Nevada. Phone 775-423-6075 (tribe) retained; not independently re-confirmed."
+    },
+    {
+      "slug": "add-catholic-charities-winnemucca-neighborhood-cente",
+      "name": "Catholic Charities Winnemucca Neighborhood Center",
+      "operating": true,
+      "address": "625 Sheehan St, Unit F, Winnemucca, NV 89445",
+      "phone": "775-870-4055",
+      "website": "https://ccsnn.org/pages/food-pantry",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": ["tue", "wed", "thu"],
+          "open": "12:00",
+          "close": "16:00",
+          "note": "Client-choice food pantry; photo ID, proof of residence and income required. Also offers SNAP/benefit enrollment."
+        }
+      ],
+      "verified": "high",
+      "source": "https://www.justserve.org/projects/19fda680-5b58-437e-8410-7aa49a1ecdd1/catholic-charities-winnemucca-neighborhood-center",
+      "note": "Operating. Address corrected to add Unit F. Hours corrected from Mon-Wed 10am-3pm to Tue/Wed/Thu 12pm-4pm per Catholic Charities JustServe/iCarol listing. Phone corrected to 775-870-4055 (business line; input 775-623-5438 not confirmed as current). Main ccsnn.org food-pantry page lists sister neighborhood centers on the same Tue/Thu or M/W/F 12-4pm pattern, consistent with these hours."
+    }
+  ]
+}

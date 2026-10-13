@@ -1,0 +1,4620 @@
+{
+  "_meta": {
+    "topic": "Net-new Fresno County food distributions",
+    "generated": "2026-10-05",
+    "source": "Research supplementing shell PENDING-Fresno; raw ./FresnoAdditions-raw.json."
+  },
+  "_deferred": {
+    "add-caruthers-united-methodist-church": {
+      "title": "Caruthers United Methodist Church",
+      "status": "By appointment only Phone: 559-772-5104.",
+      "address": "2359 W. Superior Ave, Caruthers, CA 93609",
+      "lat": 36.53977,
+      "lng": -119.83362,
+      "phone": "559-772-5104",
+      "eligibility": "",
+      "sourceUrl": "https://ccfoodbank.org/find-food/food-locator/"
+    },
+    "add-west-hills-college-coalinga": {
+      "title": "West Hills College - Coalinga",
+      "status": "Student pantry, West Hills College students only Phone: 559-925-3000.",
+      "address": "300 W. Cherry, Coalinga, CA 93210",
+      "lat": 36.147741,
+      "lng": -120.357022,
+      "phone": "559-925-3000",
+      "eligibility": "",
+      "sourceUrl": "https://ccfoodbank.org/find-food/food-locator/"
+    },
+    "add-bethel-church-of-christ-holiness-usa-pantry": {
+      "title": "Bethel Church of Christ Holiness USA Pantry",
+      "status": "call for time Phone: (559) 351-9190.",
+      "address": "308 N 4th St, Fresno, CA 93702",
+      "lat": 36.747097,
+      "lng": -119.767057,
+      "phone": "(559) 351-9190",
+      "eligibility": "",
+      "sourceUrl": "https://ccfoodbank.org/find-food/food-locator/"
+    },
+    "add-highway-city-community-development": {
+      "title": "Highway City Community Development",
+      "status": "By referral; call for assistance Phone: 559-578-8991.",
+      "address": "4710 N. Polk Ave, Fresno, CA 93722",
+      "lat": 36.80291,
+      "lng": -119.88852,
+      "phone": "559-578-8991",
+      "eligibility": "",
+      "sourceUrl": "https://ccfoodbank.org/find-food/food-locator/"
+    },
+    "add-life-free-will-baptist-church-neighborhood-marke": {
+      "title": "Life Free Will Baptist Church Neighborhood Market",
+      "status": "2nd & last Sat, 7am until food runs out",
+      "address": "1625 E. Pine St, Fresno, CA 93727",
+      "lat": 36.762634,
+      "lng": -119.791608,
+      "phone": "",
+      "eligibility": "",
+      "sourceUrl": "https://ccfoodbank.org/find-food/food-locator/"
+    },
+    "add-university-presbyterian-church-usda": {
+      "title": "University Presbyterian Church - USDA",
+      "status": "Sat 8am",
+      "address": "1776 E Roberts Ave, Fresno, CA 93710",
+      "lat": 36.82114,
+      "lng": -119.75515,
+      "phone": "",
+      "eligibility": "",
+      "sourceUrl": "https://ccfoodbank.org/find-food/food-locator/"
+    },
+    "add-eoc-mendota-amor-wellness-center": {
+      "title": "EOC - Mendota (AMOR Wellness Center)",
+      "status": "1st Tue 9am Phone: 559-263-1029.",
+      "address": "121 Belmont Ave, Mendota, CA 93640",
+      "lat": 36.749417,
+      "lng": -120.388703,
+      "phone": "559-263-1029",
+      "eligibility": "",
+      "sourceUrl": "https://ccfoodbank.org/find-food/food-locator/"
+    },
+    "add-st-joseph-s-catholic-church-usda": {
+      "title": "St. Joseph's Catholic Church - USDA",
+      "status": "2nd Thu 10am Phone: 559-896-1052.",
+      "address": "2441 Dockery, Selma, CA 93662",
+      "lat": 36.57003,
+      "lng": -119.60312,
+      "phone": "559-896-1052",
+      "eligibility": "",
+      "sourceUrl": "https://ccfoodbank.org/find-food/food-locator/"
+    }
+  },
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "add-big-sandy-rancheria-m34-1000",
+      "seriesSlug": "add-big-sandy-rancheria",
+      "title": "Big Sandy Rancheria — Free Food",
+      "description": "Free food at Big Sandy Rancheria. Schedule: 3rd Thu 10 AM–12 PM. Call (559) 237-3663 ext. 1108 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Big Sandy Rancheria",
+      "address": "37387 Auberry Mission Rd, Auberry, CA 93602",
+      "lat": 37.082758,
+      "lng": -119.463645,
+      "category": "food-assistance",
+      "sourceOrg": "Big Sandy Rancheria",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Thu 10 AM–12 PM",
+      "start": "2026-10-08T10:00",
+      "end": "2026-10-08T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sierra-lutheran-church-usda-m26-0800",
+      "seriesSlug": "add-sierra-lutheran-church-usda",
+      "title": "Sierra Lutheran Church - USDA — Free Food",
+      "description": "Free food at Sierra Lutheran Church - USDA. Schedule: 2nd Sat 8 AM–10 AM. Call 559-855-8989 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Sierra Lutheran Church - USDA",
+      "address": "32410 Rock Hill Ln, Auberry, CA 93602",
+      "lat": 37.04603,
+      "lng": -119.48112,
+      "category": "food-assistance",
+      "sourceOrg": "Sierra Lutheran Church - USDA",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "2nd Sat 8 AM–10 AM",
+      "start": "2026-10-10T08:00",
+      "end": "2026-10-10T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-biola-community-center-neighborhood-market-m43-1600",
+      "seriesSlug": "add-biola-community-center-neighborhood-market",
+      "title": "Biola Community Center - Neighborhood Market — Free Food",
+      "description": "Free food at Biola Community Center - Neighborhood Market. Schedule: 4th Wed 4 PM–6 PM. Call 559-681-0250 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Biola Community Center - Neighborhood Market",
+      "address": "4925 N. 7th Ave, Biola, CA 93606",
+      "lat": 36.806164,
+      "lng": -120.015093,
+      "category": "food-assistance",
+      "sourceOrg": "Biola Community Center - Neighborhood Market",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "4th Wed 4 PM–6 PM",
+      "start": "2026-10-07T16:00",
+      "end": "2026-10-07T18:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "4:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-biola-community-center-usda-m23-0930",
+      "seriesSlug": "add-biola-community-center-usda",
+      "title": "Biola Community Center - USDA — Free Food",
+      "description": "Free food at Biola Community Center - USDA. Schedule: 2nd Wed 9:30 AM–2 PM. Call 559-843-2657 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Biola Community Center - USDA",
+      "address": "4925 N. 7th Ave, Biola, CA 93606",
+      "lat": 36.806164,
+      "lng": -120.015093,
+      "category": "food-assistance",
+      "sourceOrg": "Biola Community Center - USDA",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "2nd Wed 9:30 AM–2 PM",
+      "start": "2026-10-07T09:30",
+      "end": "2026-10-07T14:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "2:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-eoc-cantua-creek-m31-0900",
+      "seriesSlug": "add-eoc-cantua-creek",
+      "title": "EOC - Cantua Creek — Free Food",
+      "description": "Free food at EOC - Cantua Creek. Schedule: 3rd Mon 9 AM–11 AM. Call 559-263-1029 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "EOC - Cantua Creek",
+      "address": "16101 S. Derrick Ave, Cantua Creek, CA 93608",
+      "lat": 36.49999,
+      "lng": -120.390128,
+      "category": "food-assistance",
+      "sourceOrg": "EOC - Cantua Creek",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Mon 9 AM–11 AM",
+      "start": "2026-10-05T09:00",
+      "end": "2026-10-05T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "3:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-caruthers-church-of-christ-m16-0800",
+      "seriesSlug": "add-caruthers-church-of-christ",
+      "title": "Caruthers Church of Christ — Free Food",
+      "description": "Free food at Caruthers Church of Christ. Schedule: 1st Sat 8 AM–10 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Caruthers Church of Christ",
+      "address": "2341 W. Sandy St, Caruthers, CA 93609",
+      "lat": 36.53833,
+      "lng": -119.832935,
+      "category": "food-assistance",
+      "sourceOrg": "Caruthers Church of Christ",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "1st Sat 8 AM–10 AM",
+      "start": "2026-10-10T08:00",
+      "end": "2026-10-10T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "1:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-caruthers-seventh-day-adventist-m16-1400",
+      "seriesSlug": "add-caruthers-seventh-day-adventist",
+      "title": "Caruthers Seventh Day Adventist — Free Food",
+      "description": "Free food at Caruthers Seventh Day Adventist. Schedule: 1st Sat 2 PM–4:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Caruthers Seventh Day Adventist",
+      "address": "2257 W. Sandy St, Caruthers, CA 93609",
+      "lat": 36.53994,
+      "lng": -119.831457,
+      "category": "food-assistance",
+      "sourceOrg": "Caruthers Seventh Day Adventist",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "1st Sat 2 PM–4:30 PM",
+      "start": "2026-10-10T14:00",
+      "end": "2026-10-10T16:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "1:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-clovis-sda-m46-0900",
+      "seriesSlug": "add-clovis-sda",
+      "title": "Clovis SDA — Free Food",
+      "description": "Free food at Clovis SDA. Schedule: 4th Sat 9 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Clovis SDA",
+      "address": "2370 Helm Ave, Clovis, CA 93612",
+      "lat": 36.805361,
+      "lng": -119.723423,
+      "category": "food-assistance",
+      "sourceOrg": "Clovis SDA",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "4th Sat 9 AM–12 PM",
+      "start": "2026-10-10T09:00",
+      "end": "2026-10-10T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-faith-community-church-usda-m1232-1330",
+      "seriesSlug": "add-faith-community-church-usda",
+      "title": "Faith Community Church - USDA — Free Food",
+      "description": "Free food at Faith Community Church - USDA. Schedule: 1st Tue & 3rd Tue 1:30 PM–3:30 PM; 2nd Sat 8 AM–10 AM. Call 559-298-3097 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Faith Community Church - USDA",
+      "address": "430 Peach Ave, Clovis, CA 93612",
+      "lat": 36.825486,
+      "lng": -119.718592,
+      "category": "food-assistance",
+      "sourceOrg": "Faith Community Church - USDA",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "1st Tue & 3rd Tue 1:30 PM–3:30 PM; 2nd Sat 8 AM–10 AM",
+      "start": "2026-10-06T13:30",
+      "end": "2026-10-06T15:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 2
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "1:2,3:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-faith-community-church-usda-m26-0800",
+      "seriesSlug": "add-faith-community-church-usda",
+      "title": "Faith Community Church - USDA — Free Food",
+      "description": "Free food at Faith Community Church - USDA. Schedule: 1st Tue & 3rd Tue 1:30 PM–3:30 PM; 2nd Sat 8 AM–10 AM. Call 559-298-3097 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Faith Community Church - USDA",
+      "address": "430 Peach Ave, Clovis, CA 93612",
+      "lat": 36.825486,
+      "lng": -119.718592,
+      "category": "food-assistance",
+      "sourceOrg": "Faith Community Church - USDA",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "1st Tue & 3rd Tue 1:30 PM–3:30 PM; 2nd Sat 8 AM–10 AM",
+      "start": "2026-10-10T08:00",
+      "end": "2026-10-10T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-oak-hills-church-m25-1300",
+      "seriesSlug": "add-oak-hills-church",
+      "title": "Oak Hills Church — Free Food",
+      "description": "Free food at Oak Hills Church. Schedule: 2nd Fri 1 PM–3 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Oak Hills Church",
+      "address": "1446A Tollhouse Rd, Clovis, CA 93611",
+      "lat": 36.826575,
+      "lng": -119.689799,
+      "category": "food-assistance",
+      "sourceOrg": "Oak Hills Church",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "2nd Fri 1 PM–3 PM",
+      "start": "2026-10-09T13:00",
+      "end": "2026-10-09T15:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "2:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-praise-church-clovis-m24-0900",
+      "seriesSlug": "add-praise-church-clovis",
+      "title": "Praise Church Clovis — Free Food",
+      "description": "Free food at Praise Church Clovis. Schedule: 2nd Thu 9 AM–11 AM. Call (559) 237-3663 ext. 1108 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Praise Church Clovis",
+      "address": "1600 Willow Ave, Clovis, CA 93613",
+      "lat": 36.811726,
+      "lng": -119.729197,
+      "category": "food-assistance",
+      "sourceOrg": "Praise Church Clovis",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "2nd Thu 9 AM–11 AM",
+      "start": "2026-10-08T09:00",
+      "end": "2026-10-08T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "2:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-salvation-army-clovis-usda-w24-0900",
+      "seriesSlug": "add-the-salvation-army-clovis-usda",
+      "title": "The Salvation Army Clovis - USDA — Free Food",
+      "description": "Free food at The Salvation Army Clovis - USDA. Schedule: Tue, Thu 9 AM–12 PM. Call 559-298-6797 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Salvation Army Clovis - USDA",
+      "address": "210 E Barstow Ave, Clovis, CA 93612",
+      "lat": 36.815739,
+      "lng": -119.786065,
+      "category": "food-assistance",
+      "sourceOrg": "The Salvation Army Clovis - USDA",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "Tue, Thu 9 AM–12 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-willow-center-m24-1400",
+      "seriesSlug": "add-willow-center",
+      "title": "Willow Center — Free Food",
+      "description": "Free food at Willow Center. Schedule: 2nd Thu 2 PM–4 PM. Call 559-229-2000 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Willow Center",
+      "address": "2529 Willow Ave, Clovis, CA 93612",
+      "lat": 36.80358,
+      "lng": -119.7266,
+      "category": "food-assistance",
+      "sourceOrg": "Willow Center",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "2nd Thu 2 PM–4 PM",
+      "start": "2026-10-08T14:00",
+      "end": "2026-10-08T16:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "2:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-chapel-grace-mobile-pantry-m33-0900",
+      "seriesSlug": "add-chapel-grace-mobile-pantry",
+      "title": "Chapel Grace - Mobile Pantry — Free Food",
+      "description": "Free food at Chapel Grace - Mobile Pantry. Schedule: 3rd Wed 9 AM–12 PM. Call (559) 237-3663 ext. 1108 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Chapel Grace - Mobile Pantry",
+      "address": "120 E. Hawthorne St, Coalinga, CA 93210",
+      "lat": 36.137813,
+      "lng": -120.356344,
+      "category": "food-assistance",
+      "sourceOrg": "Chapel Grace - Mobile Pantry",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Wed 9 AM–12 PM",
+      "start": "2026-10-07T09:00",
+      "end": "2026-10-07T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-faith-fellowship-m45-1300",
+      "seriesSlug": "add-faith-fellowship",
+      "title": "Faith Fellowship — Free Food",
+      "description": "Free food at Faith Fellowship. Schedule: 4th Fri 1 PM–3 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Faith Fellowship",
+      "address": "520 Monroe St, Coalinga, CA 93210",
+      "lat": 36.139827,
+      "lng": -120.370045,
+      "category": "food-assistance",
+      "sourceOrg": "Faith Fellowship",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "4th Fri 1 PM–3 PM",
+      "start": "2026-10-09T13:00",
+      "end": "2026-10-09T15:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "4:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-pleasant-valley-christian-church-m32-1730",
+      "seriesSlug": "add-pleasant-valley-christian-church",
+      "title": "Pleasant Valley Christian Church — Free Food",
+      "description": "Free food at Pleasant Valley Christian Church. Schedule: 3rd Tue 5:30 PM–7:30 PM; 3rd Mon 3:30 PM–6 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Pleasant Valley Christian Church",
+      "address": "160 E. Birch St, Coalinga, CA 93210",
+      "lat": 36.142293,
+      "lng": -120.362479,
+      "category": "food-assistance",
+      "sourceOrg": "Pleasant Valley Christian Church",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Tue 5:30 PM–7:30 PM; 3rd Mon 3:30 PM–6 PM",
+      "start": "2026-10-06T17:30",
+      "end": "2026-10-06T19:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "3:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-pleasant-valley-christian-church-m31-1530",
+      "seriesSlug": "add-pleasant-valley-christian-church",
+      "title": "Pleasant Valley Christian Church — Free Food",
+      "description": "Free food at Pleasant Valley Christian Church. Schedule: 3rd Tue 5:30 PM–7:30 PM; 3rd Mon 3:30 PM–6 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Pleasant Valley Christian Church",
+      "address": "160 E. Birch St, Coalinga, CA 93210",
+      "lat": 36.142293,
+      "lng": -120.362479,
+      "category": "food-assistance",
+      "sourceOrg": "Pleasant Valley Christian Church",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Tue 5:30 PM–7:30 PM; 3rd Mon 3:30 PM–6 PM",
+      "start": "2026-10-05T15:30",
+      "end": "2026-10-05T18:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "3:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-westside-family-services-coalinga-usda-m41-1000",
+      "seriesSlug": "add-westside-family-services-coalinga-usda",
+      "title": "Westside Family Services - Coalinga USDA — Free Food",
+      "description": "Free food at Westside Family Services - Coalinga USDA. Schedule: 4th Mon 10 AM–12 PM. Call 559-945-1022 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Westside Family Services - Coalinga USDA",
+      "address": "160 W. Elm St, Coalinga, CA 93210",
+      "lat": 36.138898,
+      "lng": -120.361217,
+      "category": "food-assistance",
+      "sourceOrg": "Westside Family Services - Coalinga USDA",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "4th Mon 10 AM–12 PM",
+      "start": "2026-10-05T10:00",
+      "end": "2026-10-05T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "4:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-shining-light-ministries-pantry-m26-1000",
+      "seriesSlug": "add-shining-light-ministries-pantry",
+      "title": "Shining Light Ministries Pantry — Free Food",
+      "description": "Free food at Shining Light Ministries Pantry. Schedule: 2nd Sat 10 AM–12 PM. Call (559) 614-8776 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Shining Light Ministries Pantry",
+      "address": "5211 Portola Ave, Del Rey, CA 93616",
+      "lat": 36.66056,
+      "lng": -119.596325,
+      "category": "food-assistance",
+      "sourceOrg": "Shining Light Ministries Pantry",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "2nd Sat 10 AM–12 PM",
+      "start": "2026-10-10T10:00",
+      "end": "2026-10-10T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-zion-mt-christian-dunlap-usda-m22-1100",
+      "seriesSlug": "add-zion-mt-christian-dunlap-usda",
+      "title": "Zion Mt Christian/Dunlap - USDA — Free Food",
+      "description": "Free food at Zion Mt Christian/Dunlap - USDA. Schedule: 2nd Tue 11 AM–1 PM. Call 559-338-2525 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Zion Mt Christian/Dunlap - USDA",
+      "address": "39712 Dunlap Rd, Dunlap, CA 93621",
+      "lat": 36.73486,
+      "lng": -119.11589,
+      "category": "food-assistance",
+      "sourceOrg": "Zion Mt Christian/Dunlap - USDA",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "2nd Tue 11 AM–1 PM",
+      "start": "2026-10-06T11:00",
+      "end": "2026-10-06T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "2:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-eoc-firebaugh-m24-0900",
+      "seriesSlug": "add-eoc-firebaugh",
+      "title": "EOC - Firebaugh — Free Food",
+      "description": "Free food at EOC - Firebaugh. Schedule: 2nd Thu 9 AM–12 PM. Call 559-263-1029 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "EOC - Firebaugh",
+      "address": "1655 13th St, Firebaugh, CA 93622",
+      "lat": 36.856655,
+      "lng": -120.454637,
+      "category": "food-assistance",
+      "sourceOrg": "EOC - Firebaugh",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "2nd Thu 9 AM–12 PM",
+      "start": "2026-10-08T09:00",
+      "end": "2026-10-08T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "2:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-firebaugh-mobile-pantry-m13-0900",
+      "seriesSlug": "add-firebaugh-mobile-pantry",
+      "title": "Firebaugh - Mobile Pantry — Free Food",
+      "description": "Free food at Firebaugh - Mobile Pantry. Schedule: 1st Wed 9 AM–12 PM. Call (559) 237-3663 ext. 1108 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Firebaugh - Mobile Pantry",
+      "address": "1653 13th St, Firebaugh, CA 93622",
+      "lat": 36.856655,
+      "lng": -120.454637,
+      "category": "food-assistance",
+      "sourceOrg": "Firebaugh - Mobile Pantry",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "1st Wed 9 AM–12 PM",
+      "start": "2026-10-07T09:00",
+      "end": "2026-10-07T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "1:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-firebaugh-usda-m44-0900",
+      "seriesSlug": "add-firebaugh-usda",
+      "title": "Firebaugh - USDA — Free Food",
+      "description": "Free food at Firebaugh - USDA. Schedule: 4th Thu 9 AM–11:30 AM. Call (559) 237-3663 ext. 1108 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Firebaugh - USDA",
+      "address": "1653 13th St, Firebaugh, CA 93622",
+      "lat": 36.856655,
+      "lng": -120.454637,
+      "category": "food-assistance",
+      "sourceOrg": "Firebaugh - USDA",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "4th Thu 9 AM–11:30 AM",
+      "start": "2026-10-08T09:00",
+      "end": "2026-10-08T11:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "4:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-firebaugh-rodeo-grounds-neighborhood-market-m1434-0900",
+      "seriesSlug": "add-firebaugh-rodeo-grounds-neighborhood-market",
+      "title": "Firebaugh Rodeo Grounds - Neighborhood Market — Free Food",
+      "description": "Free food at Firebaugh Rodeo Grounds - Neighborhood Market. Schedule: 1st Thu & 3rd Thu 9 AM–11 AM. Call (559) 237-3663 ext. 1108 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Firebaugh Rodeo Grounds - Neighborhood Market",
+      "address": "1653 13th St, Firebaugh, CA 93622",
+      "lat": 36.856655,
+      "lng": -120.454637,
+      "category": "food-assistance",
+      "sourceOrg": "Firebaugh Rodeo Grounds - Neighborhood Market",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "1st Thu & 3rd Thu 9 AM–11 AM",
+      "start": "2026-10-08T09:00",
+      "end": "2026-10-08T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4,3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-iglesia-jesucristo-mi-roca-m36-1400",
+      "seriesSlug": "add-iglesia-jesucristo-mi-roca",
+      "title": "Iglesia Jesucristo Mi Roca — Free Food",
+      "description": "Free food at Iglesia Jesucristo Mi Roca. Schedule: 3rd Sat 2 PM–4 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Iglesia Jesucristo Mi Roca",
+      "address": "2035 N. Helm Canal Rd, Firebaugh, CA 93622",
+      "lat": 36.847576,
+      "lng": -120.449957,
+      "category": "food-assistance",
+      "sourceOrg": "Iglesia Jesucristo Mi Roca",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Sat 2 PM–4 PM",
+      "start": "2026-10-10T14:00",
+      "end": "2026-10-10T16:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-fowler-baptist-church-usda-m13-0830",
+      "seriesSlug": "add-fowler-baptist-church-usda",
+      "title": "Fowler Baptist Church USDA — Free Food",
+      "description": "Free food at Fowler Baptist Church USDA. Schedule: 1st Wed 8:30 AM–10:30 AM. Call 559-834-5541 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Fowler Baptist Church USDA",
+      "address": "507 E. Merced St, Fowler, CA 93625",
+      "lat": 36.632691,
+      "lng": -119.67539,
+      "category": "food-assistance",
+      "sourceOrg": "Fowler Baptist Church USDA",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "1st Wed 8:30 AM–10:30 AM",
+      "start": "2026-10-07T08:30",
+      "end": "2026-10-07T10:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "1:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-a-hopeful-encounter-m35-1500",
+      "seriesSlug": "add-a-hopeful-encounter",
+      "title": "A Hopeful Encounter — Free Food",
+      "description": "Free food at A Hopeful Encounter. Schedule: 3rd Fri 3 PM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "A Hopeful Encounter",
+      "address": "3253 E. Shields Ave, Fresno, CA 93726",
+      "lat": 36.780578,
+      "lng": -119.769022,
+      "category": "food-assistance",
+      "sourceOrg": "A Hopeful Encounter",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Fri 3 PM–5 PM",
+      "start": "2026-10-09T15:00",
+      "end": "2026-10-09T17:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-acts-foundation-usda-m26-0830",
+      "seriesSlug": "add-acts-foundation-usda",
+      "title": "Acts Foundation - USDA — Free Food",
+      "description": "Free food at Acts Foundation - USDA. Schedule: 2nd Sat 8:30 AM–10 AM; 4th Sat 8:30 AM–10 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Acts Foundation - USDA",
+      "address": "5125 N. Gates Ave, Fresno, CA 93722",
+      "lat": 36.810357,
+      "lng": -119.875743,
+      "category": "food-assistance",
+      "sourceOrg": "Acts Foundation - USDA",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "2nd Sat 8:30 AM–10 AM; 4th Sat 8:30 AM–10 AM",
+      "start": "2026-10-10T08:30",
+      "end": "2026-10-10T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-acts-foundation-usda-m46-0830",
+      "seriesSlug": "add-acts-foundation-usda",
+      "title": "Acts Foundation - USDA — Free Food",
+      "description": "Free food at Acts Foundation - USDA. Schedule: 2nd Sat 8:30 AM–10 AM; 4th Sat 8:30 AM–10 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Acts Foundation - USDA",
+      "address": "5125 N. Gates Ave, Fresno, CA 93722",
+      "lat": 36.810357,
+      "lng": -119.875743,
+      "category": "food-assistance",
+      "sourceOrg": "Acts Foundation - USDA",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "2nd Sat 8:30 AM–10 AM; 4th Sat 8:30 AM–10 AM",
+      "start": "2026-10-10T08:30",
+      "end": "2026-10-10T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-amazing-grace-ministries-m44-0800",
+      "seriesSlug": "add-amazing-grace-ministries",
+      "title": "Amazing Grace Ministries — Free Food",
+      "description": "Free food at Amazing Grace Ministries. Schedule: 4th Thu 8 AM–10 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Amazing Grace Ministries",
+      "address": "1225 S Maple, Fresno, CA",
+      "lat": 36.72965,
+      "lng": -119.74539,
+      "category": "food-assistance",
+      "sourceOrg": "Amazing Grace Ministries",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "4th Thu 8 AM–10 AM",
+      "start": "2026-10-08T08:00",
+      "end": "2026-10-08T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "4:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-big-picture-adult-high-school-m33-1330",
+      "seriesSlug": "add-big-picture-adult-high-school",
+      "title": "Big Picture Adult High School — Free Food",
+      "description": "Free food at Big Picture Adult High School. Schedule: 3rd Wed 1:30 PM–3:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Big Picture Adult High School",
+      "address": "2841 Tulare St, Fresno, CA 93721",
+      "lat": 36.740695,
+      "lng": -119.7819,
+      "category": "food-assistance",
+      "sourceOrg": "Big Picture Adult High School",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Wed 1:30 PM–3:30 PM",
+      "start": "2026-10-07T13:30",
+      "end": "2026-10-07T15:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-binational-of-california-w12345-0900",
+      "seriesSlug": "add-binational-of-california",
+      "title": "Binational of California — Free Food",
+      "description": "Free food at Binational of California. Schedule: Mon–Fri 9 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Binational of California",
+      "address": "3302 N. Blackstone Ave, Ste 221, Fresno, CA 93726",
+      "lat": 36.7812,
+      "lng": -119.789102,
+      "category": "food-assistance",
+      "sourceOrg": "Binational of California",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "Mon–Fri 9 AM–11 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-blakeney-children-foundation-m36-1330",
+      "seriesSlug": "add-blakeney-children-foundation",
+      "title": "Blakeney Children Foundation — Free Food",
+      "description": "Free food at Blakeney Children Foundation. Schedule: 3rd Sat 1:30 PM–3:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Blakeney Children Foundation",
+      "address": "4666 N. Maple Ave, Fresno, CA 93726",
+      "lat": 36.802396,
+      "lng": -119.744367,
+      "category": "food-assistance",
+      "sourceOrg": "Blakeney Children Foundation",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Sat 1:30 PM–3:30 PM",
+      "start": "2026-10-10T13:30",
+      "end": "2026-10-10T15:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-bulldog-pantry-lcm-m2646-0900",
+      "seriesSlug": "add-bulldog-pantry-lcm",
+      "title": "Bulldog Pantry / LCM — Free Food",
+      "description": "Free food at Bulldog Pantry / LCM. Schedule: 2nd Sat & 4th Sat 9 AM–10:30 AM. Call 559-224-9052 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Bulldog Pantry / LCM",
+      "address": "2311 E. Shaw Ave, Fresno, CA 93710",
+      "lat": 36.808279,
+      "lng": -119.747261,
+      "category": "food-assistance",
+      "sourceOrg": "Bulldog Pantry / LCM",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "2nd Sat & 4th Sat 9 AM–10:30 AM",
+      "start": "2026-10-10T09:00",
+      "end": "2026-10-10T10:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6,4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-butler-mennonite-brethren-church-usda-m15-0900",
+      "seriesSlug": "add-butler-mennonite-brethren-church-usda",
+      "title": "Butler Mennonite Brethren Church - USDA — Free Food",
+      "description": "Free food at Butler Mennonite Brethren Church - USDA. Schedule: 1st Fri 9 AM–11 AM. Call 559-252-3741 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Butler Mennonite Brethren Church - USDA",
+      "address": "4884 E. Butler Ave, Fresno, CA 93727",
+      "lat": 36.727933,
+      "lng": -119.732548,
+      "category": "food-assistance",
+      "sourceOrg": "Butler Mennonite Brethren Church - USDA",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "1st Fri 9 AM–11 AM",
+      "start": "2026-10-09T09:00",
+      "end": "2026-10-09T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "1:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-butler-pentecostal-church-neighborhood-market-m43-0900",
+      "seriesSlug": "add-butler-pentecostal-church-neighborhood-market",
+      "title": "Butler Pentecostal Church - Neighborhood Market — Free Food",
+      "description": "Free food at Butler Pentecostal Church - Neighborhood Market. Schedule: 4th Wed 9 AM–12 PM. Call (559) 237-3663 ext. 1108 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Butler Pentecostal Church - Neighborhood Market",
+      "address": "3542 E. Butler Ave, Fresno, CA 93702",
+      "lat": 36.72845,
+      "lng": -119.764983,
+      "category": "food-assistance",
+      "sourceOrg": "Butler Pentecostal Church - Neighborhood Market",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "4th Wed 9 AM–12 PM",
+      "start": "2026-10-07T09:00",
+      "end": "2026-10-07T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "4:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-butler-pentecostal-church-pantry-m-16-0900",
+      "seriesSlug": "add-butler-pentecostal-church-pantry",
+      "title": "Butler Pentecostal Church - Pantry — Free Food",
+      "description": "Free food at Butler Pentecostal Church - Pantry. Schedule: last Sat 9 AM–11 AM. Call 559-268-0094 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Butler Pentecostal Church - Pantry",
+      "address": "3542 E. Butler Ave, Fresno, CA 93702",
+      "lat": 36.72845,
+      "lng": -119.764983,
+      "category": "food-assistance",
+      "sourceOrg": "Butler Pentecostal Church - Pantry",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "last Sat 9 AM–11 AM",
+      "start": "2026-10-10T09:00",
+      "end": "2026-10-10T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": -1,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "-1:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-californian-hotel-usda-m34-0830",
+      "seriesSlug": "add-californian-hotel-usda",
+      "title": "Californian Hotel - USDA — Free Food",
+      "description": "Free food at Californian Hotel - USDA. Schedule: 3rd Thu 8:30 AM–10:30 AM. Call 559-485-8190 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Californian Hotel - USDA",
+      "address": "851 Van Ness Ave, Fresno, CA 93721",
+      "lat": 36.733279,
+      "lng": -119.788049,
+      "category": "food-assistance",
+      "sourceOrg": "Californian Hotel - USDA",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Thu 8:30 AM–10:30 AM",
+      "start": "2026-10-08T08:30",
+      "end": "2026-10-08T10:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-catholic-charities-pantry-w12345-0830",
+      "seriesSlug": "add-catholic-charities-pantry",
+      "title": "Catholic Charities - Pantry — Free Food",
+      "description": "Free food at Catholic Charities - Pantry. Schedule: Mon–Fri 8:30 AM–12:15 PM; Mon–Fri 1 PM–3:45 PM. Call 559-237-0851 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Catholic Charities - Pantry",
+      "address": "149 N. Fulton St, Fresno, CA 93701",
+      "lat": 36.744888,
+      "lng": -119.800693,
+      "category": "food-assistance",
+      "sourceOrg": "Catholic Charities - Pantry",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "Mon–Fri 8:30 AM–12:15 PM; Mon–Fri 1 PM–3:45 PM",
+      "start": "2026-09-28T08:30",
+      "end": "2026-09-28T12:15",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-catholic-charities-pantry-w12345-1300",
+      "seriesSlug": "add-catholic-charities-pantry",
+      "title": "Catholic Charities - Pantry — Free Food",
+      "description": "Free food at Catholic Charities - Pantry. Schedule: Mon–Fri 8:30 AM–12:15 PM; Mon–Fri 1 PM–3:45 PM. Call 559-237-0851 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Catholic Charities - Pantry",
+      "address": "149 N. Fulton St, Fresno, CA 93701",
+      "lat": 36.744888,
+      "lng": -119.800693,
+      "category": "food-assistance",
+      "sourceOrg": "Catholic Charities - Pantry",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "Mon–Fri 8:30 AM–12:15 PM; Mon–Fri 1 PM–3:45 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T15:45",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-catholic-charities-neighborhood-market-m44-0830",
+      "seriesSlug": "add-catholic-charities-neighborhood-market",
+      "title": "Catholic Charities - Neighborhood Market — Free Food",
+      "description": "Free food at Catholic Charities - Neighborhood Market. Schedule: 4th Thu 8:30 AM–10:30 AM. Call 559-237-0851 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Catholic Charities - Neighborhood Market",
+      "address": "149 N. Fulton St, Fresno, CA 93701",
+      "lat": 36.744888,
+      "lng": -119.800693,
+      "category": "food-assistance",
+      "sourceOrg": "Catholic Charities - Neighborhood Market",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "4th Thu 8:30 AM–10:30 AM",
+      "start": "2026-10-08T08:30",
+      "end": "2026-10-08T10:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "4:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-catholic-charities-usda-m21-0830",
+      "seriesSlug": "add-catholic-charities-usda",
+      "title": "Catholic Charities - USDA — Free Food",
+      "description": "Free food at Catholic Charities - USDA. Schedule: 2nd Mon 8:30 AM–10:30 AM. Call 559-237-0851 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Catholic Charities - USDA",
+      "address": "149 N. Fulton St, Fresno, CA 93701",
+      "lat": 36.744888,
+      "lng": -119.800693,
+      "category": "food-assistance",
+      "sourceOrg": "Catholic Charities - USDA",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "2nd Mon 8:30 AM–10:30 AM",
+      "start": "2026-10-05T08:30",
+      "end": "2026-10-05T10:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "2:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-central-valley-sda-church-usda-m35-1400",
+      "seriesSlug": "add-central-valley-sda-church-usda",
+      "title": "Central Valley SDA Church - USDA — Free Food",
+      "description": "Free food at Central Valley SDA Church - USDA. Schedule: 3rd Fri 2 PM–4 PM; Mon–Thu 10 AM–11:30 AM; 2nd Wed & 4th Wed 1 PM–2:30 PM. Call 559-438-5433 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Central Valley SDA Church - USDA",
+      "address": "3901 E. Clinton Ave, Fresno, CA 93703",
+      "lat": 36.773218,
+      "lng": -119.759547,
+      "category": "food-assistance",
+      "sourceOrg": "Central Valley SDA Church - USDA",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Fri 2 PM–4 PM; Mon–Thu 10 AM–11:30 AM; 2nd Wed & 4th Wed 1 PM–2:30 PM",
+      "start": "2026-10-09T14:00",
+      "end": "2026-10-09T16:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-central-valley-sda-church-usda-w1234-1000",
+      "seriesSlug": "add-central-valley-sda-church-usda",
+      "title": "Central Valley SDA Church - USDA — Free Food",
+      "description": "Free food at Central Valley SDA Church - USDA. Schedule: 3rd Fri 2 PM–4 PM; Mon–Thu 10 AM–11:30 AM; 2nd Wed & 4th Wed 1 PM–2:30 PM. Call 559-438-5433 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Central Valley SDA Church - USDA",
+      "address": "3901 E. Clinton Ave, Fresno, CA 93703",
+      "lat": 36.773218,
+      "lng": -119.759547,
+      "category": "food-assistance",
+      "sourceOrg": "Central Valley SDA Church - USDA",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Fri 2 PM–4 PM; Mon–Thu 10 AM–11:30 AM; 2nd Wed & 4th Wed 1 PM–2:30 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-central-valley-sda-church-usda-m2343-1300",
+      "seriesSlug": "add-central-valley-sda-church-usda",
+      "title": "Central Valley SDA Church - USDA — Free Food",
+      "description": "Free food at Central Valley SDA Church - USDA. Schedule: 3rd Fri 2 PM–4 PM; Mon–Thu 10 AM–11:30 AM; 2nd Wed & 4th Wed 1 PM–2:30 PM. Call 559-438-5433 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Central Valley SDA Church - USDA",
+      "address": "3901 E. Clinton Ave, Fresno, CA 93703",
+      "lat": 36.773218,
+      "lng": -119.759547,
+      "category": "food-assistance",
+      "sourceOrg": "Central Valley SDA Church - USDA",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Fri 2 PM–4 PM; Mon–Thu 10 AM–11:30 AM; 2nd Wed & 4th Wed 1 PM–2:30 PM",
+      "start": "2026-10-07T13:00",
+      "end": "2026-10-07T14:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "2:3,4:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-centro-familiar-de-adoracion-usda-m15-1000",
+      "seriesSlug": "add-centro-familiar-de-adoracion-usda",
+      "title": "Centro Familiar de Adoracion - USDA — Free Food",
+      "description": "Free food at Centro Familiar de Adoracion - USDA. Schedule: 1st Fri 10 AM–12 PM. Call 559-970-1516 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Centro Familiar de Adoracion - USDA",
+      "address": "4546 E. Thomas, Fresno, CA 93702",
+      "lat": 36.75286,
+      "lng": -119.74804,
+      "category": "food-assistance",
+      "sourceOrg": "Centro Familiar de Adoracion - USDA",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "1st Fri 10 AM–12 PM",
+      "start": "2026-10-09T10:00",
+      "end": "2026-10-09T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "1:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-clovis-hills-community-church-tulare-street-m2444-1400",
+      "seriesSlug": "add-clovis-hills-community-church-tulare-street",
+      "title": "Clovis Hills Community Church (Tulare Street) — Free Food",
+      "description": "Free food at Clovis Hills Community Church (Tulare Street). Schedule: 2nd Thu & 4th Thu 2 PM–4 PM. Call 559-392-1587 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Clovis Hills Community Church (Tulare Street)",
+      "address": "819 Tulare St, Fresno, CA 93706",
+      "lat": 36.72585,
+      "lng": -119.80195,
+      "category": "food-assistance",
+      "sourceOrg": "Clovis Hills Community Church (Tulare Street)",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "2nd Thu & 4th Thu 2 PM–4 PM",
+      "start": "2026-10-08T14:00",
+      "end": "2026-10-08T16:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "2:4,4:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-covenant-of-faith-family-ministries-intl-m36-0900",
+      "seriesSlug": "add-covenant-of-faith-family-ministries-intl",
+      "title": "Covenant of Faith Family Ministries Intl. — Free Food",
+      "description": "Free food at Covenant of Faith Family Ministries Intl.. Schedule: 3rd Sat 9 AM–2 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Covenant of Faith Family Ministries Intl.",
+      "address": "6269 E. Kings Canyon Rd, Fresno, CA 93727",
+      "lat": 36.736134,
+      "lng": -119.676765,
+      "category": "food-assistance",
+      "sourceOrg": "Covenant of Faith Family Ministries Intl.",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Sat 9 AM–2 PM",
+      "start": "2026-10-10T09:00",
+      "end": "2026-10-10T14:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-crossover-community-church-w4-1000",
+      "seriesSlug": "add-crossover-community-church",
+      "title": "Crossover Community Church — Free Food",
+      "description": "Free food at Crossover Community Church. Schedule: Thu 10 AM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Crossover Community Church",
+      "address": "6050 S. Lotus Ave, Fresno, CA 93706",
+      "lat": 36.647911,
+      "lng": -119.78747,
+      "category": "food-assistance",
+      "sourceOrg": "Crossover Community Church",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "Thu 10 AM–5 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-eoc-pinedale-m23-0900",
+      "seriesSlug": "add-eoc-pinedale",
+      "title": "EOC - Pinedale — Free Food",
+      "description": "Free food at EOC - Pinedale. Schedule: 2nd Wed 9 AM–11 AM. Call 559-263-1029 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "EOC - Pinedale",
+      "address": "7435 N Ingram, Fresno, CA 93711",
+      "lat": 36.843805,
+      "lng": -119.802293,
+      "category": "food-assistance",
+      "sourceOrg": "EOC - Pinedale",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "2nd Wed 9 AM–11 AM",
+      "start": "2026-10-07T09:00",
+      "end": "2026-10-07T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "2:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-family-alliance-church-m34-1700",
+      "seriesSlug": "add-family-alliance-church",
+      "title": "Family Alliance Church — Free Food",
+      "description": "Free food at Family Alliance Church. Schedule: 3rd Thu 5 PM–7 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Family Alliance Church",
+      "address": "2010 N Sierra Vista Ave, Fresno, CA 93703",
+      "lat": 36.76914,
+      "lng": -119.74065,
+      "category": "food-assistance",
+      "sourceOrg": "Family Alliance Church",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Thu 5 PM–7 PM",
+      "start": "2026-10-08T17:00",
+      "end": "2026-10-08T19:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-feed-my-sheep-m2545-1100",
+      "seriesSlug": "add-feed-my-sheep",
+      "title": "Feed My Sheep — Free Food",
+      "description": "Free food at Feed My Sheep. Schedule: 2nd Fri & 4th Fri 11 AM–1 PM. Call (559) 237-3663 ext. 1108 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Feed My Sheep",
+      "address": "117 E. Lemon Ave, Fresno, CA 93706",
+      "lat": 36.73428,
+      "lng": -119.81114,
+      "category": "food-assistance",
+      "sourceOrg": "Feed My Sheep",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "2nd Fri & 4th Fri 11 AM–1 PM",
+      "start": "2026-10-09T11:00",
+      "end": "2026-10-09T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "2:5,4:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-fellowship-missionary-baptist-neighborhood-marke-m41-1000",
+      "seriesSlug": "add-fellowship-missionary-baptist-neighborhood-marke",
+      "title": "Fellowship Missionary Baptist - Neighborhood Market — Free Food",
+      "description": "Free food at Fellowship Missionary Baptist - Neighborhood Market. Schedule: 4th Mon 10 AM–1 PM. Call (559) 237-3663 ext. 1108 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Fellowship Missionary Baptist - Neighborhood Market",
+      "address": "2529 E. Belmont Ave, Fresno, CA 93701",
+      "lat": 36.750701,
+      "lng": -119.780571,
+      "category": "food-assistance",
+      "sourceOrg": "Fellowship Missionary Baptist - Neighborhood Market",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "4th Mon 10 AM–1 PM",
+      "start": "2026-10-05T10:00",
+      "end": "2026-10-05T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "4:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-fellowship-missionary-baptist-pantry-m2646-0800",
+      "seriesSlug": "add-fellowship-missionary-baptist-pantry",
+      "title": "Fellowship Missionary Baptist - Pantry — Free Food",
+      "description": "Free food at Fellowship Missionary Baptist - Pantry. Schedule: 2nd Sat & 4th Sat 8 AM–10 AM. Call 559-441-1661 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Fellowship Missionary Baptist - Pantry",
+      "address": "2529 E. Belmont Ave, Fresno, CA 93701",
+      "lat": 36.750701,
+      "lng": -119.780571,
+      "category": "food-assistance",
+      "sourceOrg": "Fellowship Missionary Baptist - Pantry",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "2nd Sat & 4th Sat 8 AM–10 AM",
+      "start": "2026-10-10T08:00",
+      "end": "2026-10-10T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6,4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-first-congregational-church-of-fresno-big-red-ch-m46-0900",
+      "seriesSlug": "add-first-congregational-church-of-fresno-big-red-ch",
+      "title": "First Congregational Church of Fresno (Big Red Church) — Free Food",
+      "description": "Free food at First Congregational Church of Fresno (Big Red Church). Schedule: 4th Sat 9 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "First Congregational Church of Fresno (Big Red Church)",
+      "address": "2131 N. Van Ness Blvd, Fresno, CA 93704",
+      "lat": 36.7698,
+      "lng": -119.804591,
+      "category": "food-assistance",
+      "sourceOrg": "First Congregational Church of Fresno (Big Red Church)",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "4th Sat 9 AM–12 PM",
+      "start": "2026-10-10T09:00",
+      "end": "2026-10-10T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-first-fruits-market-w356-0830",
+      "seriesSlug": "add-first-fruits-market",
+      "title": "First Fruits Market — Free Food",
+      "description": "Free food at First Fruits Market. Schedule: Wed, Fri–Sat 8:30 AM–2:30 PM. Eligibility: pre-registration. Call 559-237-3663 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "First Fruits Market",
+      "address": "2025 E Dakota Ave, Fresno, CA 93726",
+      "lat": 36.787681,
+      "lng": -119.786498,
+      "category": "food-assistance",
+      "sourceOrg": "First Fruits Market",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "Wed, Fri–Sat 8:30 AM–2:30 PM",
+      "start": "2026-09-28T08:30",
+      "end": "2026-09-28T14:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3,5,6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-fresno-central-sda-w2-0930",
+      "seriesSlug": "add-fresno-central-sda",
+      "title": "Fresno Central SDA — Free Food",
+      "description": "Free food at Fresno Central SDA. Schedule: Tue 9:30 AM–11:30 AM. Eligibility: photo ID. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Fresno Central SDA",
+      "address": "422 E. Shields Ave, Fresno, CA 93704",
+      "lat": 36.77919,
+      "lng": -119.80731,
+      "category": "food-assistance",
+      "sourceOrg": "Fresno Central SDA",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "Tue 9:30 AM–11:30 AM",
+      "start": "2026-09-28T09:30",
+      "end": "2026-09-28T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-fresno-christian-reformed-m-15-1000",
+      "seriesSlug": "add-fresno-christian-reformed",
+      "title": "Fresno Christian Reformed — Free Food",
+      "description": "Free food at Fresno Christian Reformed. Schedule: last Fri 10 AM–12 PM. Call (559) 237-3663 ext. 1108 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Fresno Christian Reformed",
+      "address": "1639 W. Shields Ave, Fresno, CA 93705",
+      "lat": 36.778929,
+      "lng": -119.830597,
+      "category": "food-assistance",
+      "sourceOrg": "Fresno Christian Reformed",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "last Fri 10 AM–12 PM",
+      "start": "2026-10-09T10:00",
+      "end": "2026-10-09T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": -1,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "-1:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-fresno-eoc-lcc-m16-0900",
+      "seriesSlug": "add-fresno-eoc-lcc",
+      "title": "Fresno EOC @ LCC — Free Food",
+      "description": "Free food at Fresno EOC @ LCC. Schedule: 1st Sat 9 AM–11 AM. Call 559-263-1029 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Fresno EOC @ LCC",
+      "address": "1805 E. California Ave, Fresno, CA 93706",
+      "lat": 36.722103,
+      "lng": -119.790773,
+      "category": "food-assistance",
+      "sourceOrg": "Fresno EOC @ LCC",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "1st Sat 9 AM–11 AM",
+      "start": "2026-10-10T09:00",
+      "end": "2026-10-10T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "1:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-fresno-sequoia-spanish-sda-usda-m16-1600",
+      "seriesSlug": "add-fresno-sequoia-spanish-sda-usda",
+      "title": "Fresno Sequoia Spanish SDA - USDA — Free Food",
+      "description": "Free food at Fresno Sequoia Spanish SDA - USDA. Schedule: 1st Sat 4 PM–6 PM; 4th Tue 9 AM–11:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Fresno Sequoia Spanish SDA - USDA",
+      "address": "4867 E. Fillmore Ave, Fresno, CA 93727",
+      "lat": 36.74173,
+      "lng": -119.73387,
+      "category": "food-assistance",
+      "sourceOrg": "Fresno Sequoia Spanish SDA - USDA",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "1st Sat 4 PM–6 PM; 4th Tue 9 AM–11:30 AM",
+      "start": "2026-10-10T16:00",
+      "end": "2026-10-10T18:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "1:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-fresno-sequoia-spanish-sda-usda-m42-0900",
+      "seriesSlug": "add-fresno-sequoia-spanish-sda-usda",
+      "title": "Fresno Sequoia Spanish SDA - USDA — Free Food",
+      "description": "Free food at Fresno Sequoia Spanish SDA - USDA. Schedule: 1st Sat 4 PM–6 PM; 4th Tue 9 AM–11:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Fresno Sequoia Spanish SDA - USDA",
+      "address": "4867 E. Fillmore Ave, Fresno, CA 93727",
+      "lat": 36.74173,
+      "lng": -119.73387,
+      "category": "food-assistance",
+      "sourceOrg": "Fresno Sequoia Spanish SDA - USDA",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "1st Sat 4 PM–6 PM; 4th Tue 9 AM–11:30 AM",
+      "start": "2026-10-06T09:00",
+      "end": "2026-10-06T11:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "4:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-fresno-spanish-sda-usda-m23-0900",
+      "seriesSlug": "add-fresno-spanish-sda-usda",
+      "title": "Fresno Spanish SDA - USDA — Free Food",
+      "description": "Free food at Fresno Spanish SDA - USDA. Schedule: 2nd Wed 9 AM–12 PM. Call 559-237-7242 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Fresno Spanish SDA - USDA",
+      "address": "3033 E Olive Ave, Fresno, CA 93701",
+      "lat": 36.757886,
+      "lng": -119.774395,
+      "category": "food-assistance",
+      "sourceOrg": "Fresno Spanish SDA - USDA",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "2nd Wed 9 AM–12 PM",
+      "start": "2026-10-07T09:00",
+      "end": "2026-10-07T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "2:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-fresno-sunnyside-sda-m43-0845",
+      "seriesSlug": "add-fresno-sunnyside-sda",
+      "title": "Fresno Sunnyside SDA — Free Food",
+      "description": "Free food at Fresno Sunnyside SDA. Schedule: 4th Wed 8:45 AM–11 AM. Call 559-229-5501 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Fresno Sunnyside SDA",
+      "address": "5375 N. Maroa Ave, Fresno, CA 93704",
+      "lat": 36.81531,
+      "lng": -119.79985,
+      "category": "food-assistance",
+      "sourceOrg": "Fresno Sunnyside SDA",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "4th Wed 8:45 AM–11 AM",
+      "start": "2026-10-07T08:45",
+      "end": "2026-10-07T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "4:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-fresno-westside-sda-m33-1000",
+      "seriesSlug": "add-fresno-westside-sda",
+      "title": "Fresno Westside SDA — Free Food",
+      "description": "Free food at Fresno Westside SDA. Schedule: 3rd Wed 10 AM–12 PM. Call 559-233-3648 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Fresno Westside SDA",
+      "address": "2750 Martin Luther King Blvd, Fresno, CA 93706",
+      "lat": 36.70235,
+      "lng": -119.800133,
+      "category": "food-assistance",
+      "sourceOrg": "Fresno Westside SDA",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Wed 10 AM–12 PM",
+      "start": "2026-10-07T10:00",
+      "end": "2026-10-07T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-friends-of-calwa-m35-0900",
+      "seriesSlug": "add-friends-of-calwa",
+      "title": "Friends of Calwa — Free Food",
+      "description": "Free food at Friends of Calwa. Schedule: 3rd Fri 9 AM–12 PM; Mon–Fri 11 AM–1 PM. Call 559-374-6922 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Friends of Calwa",
+      "address": "3980 E. Jensen, Fresno, CA 93725",
+      "lat": 36.70662,
+      "lng": -119.757491,
+      "category": "food-assistance",
+      "sourceOrg": "Friends of Calwa",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Fri 9 AM–12 PM; Mon–Fri 11 AM–1 PM",
+      "start": "2026-10-09T09:00",
+      "end": "2026-10-09T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-friends-of-calwa-w12345-1100",
+      "seriesSlug": "add-friends-of-calwa",
+      "title": "Friends of Calwa — Free Food",
+      "description": "Free food at Friends of Calwa. Schedule: 3rd Fri 9 AM–12 PM; Mon–Fri 11 AM–1 PM. Call 559-374-6922 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Friends of Calwa",
+      "address": "3980 E. Jensen, Fresno, CA 93725",
+      "lat": 36.70662,
+      "lng": -119.757491,
+      "category": "food-assistance",
+      "sourceOrg": "Friends of Calwa",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Fri 9 AM–12 PM; Mon–Fri 11 AM–1 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-god-s-family-church-m-12-1000",
+      "seriesSlug": "add-god-s-family-church",
+      "title": "God's Family Church — Free Food",
+      "description": "Free food at God's Family Church. Schedule: last Tue 10 AM–12 PM. Call 559-276-7272 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "God's Family Church",
+      "address": "7272 W. Shaw Ave, Fresno, CA 93722",
+      "lat": 36.809004,
+      "lng": -119.921772,
+      "category": "food-assistance",
+      "sourceOrg": "God's Family Church",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "last Tue 10 AM–12 PM",
+      "start": "2026-10-06T10:00",
+      "end": "2026-10-06T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": -1,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "-1:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-grace-bound-inc-m14-0900",
+      "seriesSlug": "add-grace-bound-inc",
+      "title": "Grace Bound Inc. — Free Food",
+      "description": "Free food at Grace Bound Inc.. Schedule: 1st Thu 9 AM–11 AM. Call 559-500-9503 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Grace Bound Inc.",
+      "address": "420 N Broadway St, Fresno, CA 93701",
+      "lat": 36.749246,
+      "lng": -119.802755,
+      "category": "food-assistance",
+      "sourceOrg": "Grace Bound Inc.",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "1st Thu 9 AM–11 AM",
+      "start": "2026-10-08T09:00",
+      "end": "2026-10-08T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-grantland-southern-baptist-church-m2747-1100",
+      "seriesSlug": "add-grantland-southern-baptist-church",
+      "title": "Grantland Southern Baptist Church — Free Food",
+      "description": "Free food at Grantland Southern Baptist Church. Schedule: 2nd Sun & 4th Sun 11 AM–1 PM. Call 559-275-6397 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Grantland Southern Baptist Church",
+      "address": "6438 N. Grantland Ave, Fresno, CA 93723",
+      "lat": 36.82997,
+      "lng": -119.916209,
+      "category": "food-assistance",
+      "sourceOrg": "Grantland Southern Baptist Church",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "2nd Sun & 4th Sun 11 AM–1 PM",
+      "start": "2026-10-11T11:00",
+      "end": "2026-10-11T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 7
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 7
+          }
+        ]
+      },
+      "recurDays": "2:7,4:7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-harmony-hope-chest-church-m25-1600",
+      "seriesSlug": "add-harmony-hope-chest-church",
+      "title": "Harmony Hope Chest Church — Free Food",
+      "description": "Free food at Harmony Hope Chest Church. Schedule: 2nd Fri 4 PM–6 PM. Call 559-251-5630 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Harmony Hope Chest Church",
+      "address": "5372 E. Belmont Ave, Fresno, CA 93727",
+      "lat": 36.74994,
+      "lng": -119.71072,
+      "category": "food-assistance",
+      "sourceOrg": "Harmony Hope Chest Church",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "2nd Fri 4 PM–6 PM",
+      "start": "2026-10-09T16:00",
+      "end": "2026-10-09T18:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "2:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-harmony-korean-church-w5-1330",
+      "seriesSlug": "add-harmony-korean-church",
+      "title": "Harmony Korean Church — Free Food",
+      "description": "Free food at Harmony Korean Church. Schedule: Fri 1:30 PM–3:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Harmony Korean Church",
+      "address": "403 S Clovis Ave, Fresno, CA 93727",
+      "lat": 36.740123,
+      "lng": -119.699754,
+      "category": "food-assistance",
+      "sourceOrg": "Harmony Korean Church",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "Fri 1:30 PM–3:30 PM",
+      "start": "2026-09-28T13:30",
+      "end": "2026-09-28T15:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-holy-ground-family-fellowship-nm-usda-m16-0730",
+      "seriesSlug": "add-holy-ground-family-fellowship-nm-usda",
+      "title": "Holy Ground Family Fellowship - NM/USDA — Free Food",
+      "description": "Free food at Holy Ground Family Fellowship - NM/USDA. Schedule: 1st Sat 7:30 AM–10:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Holy Ground Family Fellowship - NM/USDA",
+      "address": "980 Gettysburg Ave, Fresno, CA 93612",
+      "lat": 36.80067,
+      "lng": -119.696957,
+      "category": "food-assistance",
+      "sourceOrg": "Holy Ground Family Fellowship - NM/USDA",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "1st Sat 7:30 AM–10:30 AM",
+      "start": "2026-10-10T07:30",
+      "end": "2026-10-10T10:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "1:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-hope-lutheran-church-usda-w2-0700",
+      "seriesSlug": "add-hope-lutheran-church-usda",
+      "title": "Hope Lutheran Church - USDA — Free Food",
+      "description": "Free food at Hope Lutheran Church - USDA. Schedule: Tue 7 AM–9 AM. Call 559-439-4320 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Hope Lutheran Church - USDA",
+      "address": "364 E. Barstow Ave, Fresno, CA 93710",
+      "lat": 36.815699,
+      "lng": -119.781893,
+      "category": "food-assistance",
+      "sourceOrg": "Hope Lutheran Church - USDA",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "Tue 7 AM–9 AM",
+      "start": "2026-09-28T07:00",
+      "end": "2026-09-28T09:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-hope-worldwide-usda-m16-1000",
+      "seriesSlug": "add-hope-worldwide-usda",
+      "title": "Hope Worldwide - USDA — Free Food",
+      "description": "Free food at Hope Worldwide - USDA. Schedule: 1st Sat 10 AM–12 PM. Call 559-999-3966 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Hope Worldwide - USDA",
+      "address": "3425 E. Shields Ave, Fresno, CA 93726",
+      "lat": 36.780028,
+      "lng": -119.767417,
+      "category": "food-assistance",
+      "sourceOrg": "Hope Worldwide - USDA",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "1st Sat 10 AM–12 PM",
+      "start": "2026-10-10T10:00",
+      "end": "2026-10-10T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "1:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-hopewell-baptist-church-m-16-0800",
+      "seriesSlug": "add-hopewell-baptist-church",
+      "title": "Hopewell Baptist Church — Free Food",
+      "description": "Free food at Hopewell Baptist Church. Schedule: last Sat 8 AM–10 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Hopewell Baptist Church",
+      "address": "2627 S. Marks Ave, Fresno, CA 93706",
+      "lat": 36.695519,
+      "lng": -119.844945,
+      "category": "food-assistance",
+      "sourceOrg": "Hopewell Baptist Church",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "last Sat 8 AM–10 AM",
+      "start": "2026-10-10T08:00",
+      "end": "2026-10-10T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": -1,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "-1:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-immanuel-lutheran-church-m25-0800",
+      "seriesSlug": "add-immanuel-lutheran-church",
+      "title": "Immanuel Lutheran Church — Free Food",
+      "description": "Free food at Immanuel Lutheran Church. Schedule: 2nd Fri 8 AM–10 AM. Call (559) 237-3663 ext. 1108 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Immanuel Lutheran Church",
+      "address": "5955 S. Elm Ave, Fresno, CA 93706",
+      "lat": 36.649049,
+      "lng": -119.791621,
+      "category": "food-assistance",
+      "sourceOrg": "Immanuel Lutheran Church",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "2nd Fri 8 AM–10 AM",
+      "start": "2026-10-09T08:00",
+      "end": "2026-10-09T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "2:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-koinonia-worship-center-m-16-0900",
+      "seriesSlug": "add-koinonia-worship-center",
+      "title": "Koinonia Worship Center — Free Food",
+      "description": "Free food at Koinonia Worship Center. Schedule: last Sat 9 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Koinonia Worship Center",
+      "address": "5136 E Belmont Ave, Fresno, CA 93727",
+      "lat": 36.749964,
+      "lng": -119.721108,
+      "category": "food-assistance",
+      "sourceOrg": "Koinonia Worship Center",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "last Sat 9 AM–12 PM",
+      "start": "2026-10-10T09:00",
+      "end": "2026-10-10T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": -1,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "-1:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-korean-presbyterian-church-of-fresno-m25-1100",
+      "seriesSlug": "add-korean-presbyterian-church-of-fresno",
+      "title": "Korean Presbyterian Church of Fresno — Free Food",
+      "description": "Free food at Korean Presbyterian Church of Fresno. Schedule: 2nd Fri 11 AM–1 PM. Call 559-431-6810 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Korean Presbyterian Church of Fresno",
+      "address": "6515 N. Maroa Ave, Fresno, CA 93704",
+      "lat": 36.832242,
+      "lng": -119.799746,
+      "category": "food-assistance",
+      "sourceOrg": "Korean Presbyterian Church of Fresno",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "2nd Fri 11 AM–1 PM",
+      "start": "2026-10-09T11:00",
+      "end": "2026-10-09T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "2:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-life-cathedral-church-of-god-m26-1000",
+      "seriesSlug": "add-life-cathedral-church-of-god",
+      "title": "Life Cathedral Church of God — Free Food",
+      "description": "Free food at Life Cathedral Church of God. Schedule: 2nd Sat 10 AM–12 PM. Call 559-299-4747 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Life Cathedral Church of God",
+      "address": "6825 N. Maple Ave, Fresno, CA 93710",
+      "lat": 36.835768,
+      "lng": -119.746463,
+      "category": "food-assistance",
+      "sourceOrg": "Life Cathedral Church of God",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "2nd Sat 10 AM–12 PM",
+      "start": "2026-10-10T10:00",
+      "end": "2026-10-10T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-life-ministries-church-m-15-1200",
+      "seriesSlug": "add-life-ministries-church",
+      "title": "Life Ministries Church — Free Food",
+      "description": "Free food at Life Ministries Church. Schedule: last Fri 12 PM–2 PM. Call 559-960-5590 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Life Ministries Church",
+      "address": "552 E. Tuolumne St, Fresno, CA 93706",
+      "lat": 36.730511,
+      "lng": -119.804499,
+      "category": "food-assistance",
+      "sourceOrg": "Life Ministries Church",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "last Fri 12 PM–2 PM",
+      "start": "2026-10-09T12:00",
+      "end": "2026-10-09T14:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": -1,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "-1:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-malaga-community-center-usda-m33-0900",
+      "seriesSlug": "add-malaga-community-center-usda",
+      "title": "Malaga Community Center - USDA — Free Food",
+      "description": "Free food at Malaga Community Center - USDA. Schedule: 3rd Wed 9 AM–12 PM. Call 559-268-0404 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Malaga Community Center - USDA",
+      "address": "3582 S Winery Ave, Fresno, CA 93725",
+      "lat": 36.684256,
+      "lng": -119.730619,
+      "category": "food-assistance",
+      "sourceOrg": "Malaga Community Center - USDA",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Wed 9 AM–12 PM",
+      "start": "2026-10-07T09:00",
+      "end": "2026-10-07T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-martin-park-w4-1300",
+      "seriesSlug": "add-martin-park",
+      "title": "Martin Park — Free Food",
+      "description": "Free food at Martin Park. Schedule: Thu 1 PM–3 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Martin Park",
+      "address": "2856 E Tyler Ave, Fresno, CA 93701",
+      "lat": 36.75546,
+      "lng": -119.77746,
+      "category": "food-assistance",
+      "sourceOrg": "Martin Park",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "Thu 1 PM–3 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-masjid-al-aqabah-m132343-1500",
+      "seriesSlug": "add-masjid-al-aqabah",
+      "title": "Masjid Al Aqabah — Free Food",
+      "description": "Free food at Masjid Al Aqabah. Schedule: 1st Wed & 2nd Wed & 4th Wed 3 PM–5 PM. Call 559-515-6560 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Masjid Al Aqabah",
+      "address": "949 Waterman Ave, Fresno, CA 93706",
+      "lat": 36.72355,
+      "lng": -119.80431,
+      "category": "food-assistance",
+      "sourceOrg": "Masjid Al Aqabah",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "1st Wed & 2nd Wed & 4th Wed 3 PM–5 PM",
+      "start": "2026-10-07T15:00",
+      "end": "2026-10-07T17:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 2,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "1:3,2:3,4:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-masjid-fresno-m1434-1100",
+      "seriesSlug": "add-masjid-fresno",
+      "title": "Masjid Fresno — Free Food",
+      "description": "Free food at Masjid Fresno. Schedule: 1st Thu & 3rd Thu 11 AM–1 PM. Call 559-222-6686 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Masjid Fresno",
+      "address": "2111 E. Shaw Ave, Fresno, CA 93710",
+      "lat": 36.808285,
+      "lng": -119.751715,
+      "category": "food-assistance",
+      "sourceOrg": "Masjid Fresno",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "1st Thu & 3rd Thu 11 AM–1 PM",
+      "start": "2026-10-08T11:00",
+      "end": "2026-10-08T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4,3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-mennonite-community-church-m26-0900",
+      "seriesSlug": "add-mennonite-community-church",
+      "title": "Mennonite Community Church — Free Food",
+      "description": "Free food at Mennonite Community Church. Schedule: 2nd Sat 9 AM–12 PM; 4th Sat 9 AM–11 AM. Call 559-251-5703 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Mennonite Community Church",
+      "address": "5015 E Olive Ave, Fresno, CA 93727",
+      "lat": 36.75807,
+      "lng": -119.72675,
+      "category": "food-assistance",
+      "sourceOrg": "Mennonite Community Church",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "2nd Sat 9 AM–12 PM; 4th Sat 9 AM–11 AM",
+      "start": "2026-10-10T09:00",
+      "end": "2026-10-10T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-mennonite-community-church-m46-0900",
+      "seriesSlug": "add-mennonite-community-church",
+      "title": "Mennonite Community Church — Free Food",
+      "description": "Free food at Mennonite Community Church. Schedule: 2nd Sat 9 AM–12 PM; 4th Sat 9 AM–11 AM. Call 559-251-5703 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Mennonite Community Church",
+      "address": "5015 E Olive Ave, Fresno, CA 93727",
+      "lat": 36.75807,
+      "lng": -119.72675,
+      "category": "food-assistance",
+      "sourceOrg": "Mennonite Community Church",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "2nd Sat 9 AM–12 PM; 4th Sat 9 AM–11 AM",
+      "start": "2026-10-10T09:00",
+      "end": "2026-10-10T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-mt-olive-baptist-church-usda-m35-1300",
+      "seriesSlug": "add-mt-olive-baptist-church-usda",
+      "title": "Mt. Olive Baptist Church - USDA — Free Food",
+      "description": "Free food at Mt. Olive Baptist Church - USDA. Schedule: 3rd Fri 1 PM–3 PM. Call 559-228-1880 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Mt. Olive Baptist Church - USDA",
+      "address": "101 W Clinton Ave, Fresno, CA 93705",
+      "lat": 36.771835,
+      "lng": -119.813957,
+      "category": "food-assistance",
+      "sourceOrg": "Mt. Olive Baptist Church - USDA",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Fri 1 PM–3 PM",
+      "start": "2026-10-09T13:00",
+      "end": "2026-10-09T15:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-mt-view-community-church-m-16-0900",
+      "seriesSlug": "add-mt-view-community-church",
+      "title": "Mt. View Community Church — Free Food",
+      "description": "Free food at Mt. View Community Church. Schedule: last Sat 9 AM–10 AM. Call 559-291-9199 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Mt. View Community Church",
+      "address": "3600 N. Fowler Ave, Fresno, CA 93727",
+      "lat": 36.788973,
+      "lng": -119.679286,
+      "category": "food-assistance",
+      "sourceOrg": "Mt. View Community Church",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "last Sat 9 AM–10 AM",
+      "start": "2026-10-10T09:00",
+      "end": "2026-10-10T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": -1,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "-1:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-mt-zion-assemblies-usda-m45-1800",
+      "seriesSlug": "add-mt-zion-assemblies-usda",
+      "title": "Mt. Zion Assemblies - USDA — Free Food",
+      "description": "Free food at Mt. Zion Assemblies - USDA. Schedule: 4th Fri 6 PM–8 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Mt. Zion Assemblies - USDA",
+      "address": "4368 N. Brawley, Fresno, CA 93722",
+      "lat": 36.800567,
+      "lng": -119.86189,
+      "category": "food-assistance",
+      "sourceOrg": "Mt. Zion Assemblies - USDA",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "4th Fri 6 PM–8 PM",
+      "start": "2026-10-09T18:00",
+      "end": "2026-10-09T20:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "4:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-my-homies-kitchen-pantry-w6-1300",
+      "seriesSlug": "add-my-homies-kitchen-pantry",
+      "title": "My Homies Kitchen Pantry — Free Food",
+      "description": "Free food at My Homies Kitchen Pantry. Schedule: Sat 1 PM–3 PM. Call (559) 420-9259 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "My Homies Kitchen Pantry",
+      "address": "2467 S Elm Ave, Fresno, CA 93721",
+      "lat": 36.711647,
+      "lng": -119.790432,
+      "category": "food-assistance",
+      "sourceOrg": "My Homies Kitchen Pantry",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "Sat 1 PM–3 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-new-birth-evangelistic-center-church-m33-0900",
+      "seriesSlug": "add-new-birth-evangelistic-center-church",
+      "title": "New Birth Evangelistic Center Church — Free Food",
+      "description": "Free food at New Birth Evangelistic Center Church. Schedule: 3rd Wed 9 AM–11 AM. Call 559-485-6583 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "New Birth Evangelistic Center Church",
+      "address": "2360 S. Bardell, Fresno, CA 93706",
+      "lat": 36.715776,
+      "lng": -119.797907,
+      "category": "food-assistance",
+      "sourceOrg": "New Birth Evangelistic Center Church",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Wed 9 AM–11 AM",
+      "start": "2026-10-07T09:00",
+      "end": "2026-10-07T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-new-kingdom-church-m36-1200",
+      "seriesSlug": "add-new-kingdom-church",
+      "title": "New Kingdom Church — Free Food",
+      "description": "Free food at New Kingdom Church. Schedule: 3rd Sat 12 PM–2 PM. Call 559-307-1930 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "New Kingdom Church",
+      "address": "1825 S Delno, Fresno, CA 93706",
+      "lat": 36.723486,
+      "lng": -119.819637,
+      "category": "food-assistance",
+      "sourceOrg": "New Kingdom Church",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Sat 12 PM–2 PM",
+      "start": "2026-10-10T12:00",
+      "end": "2026-10-10T14:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-new-life-baptist-church-m34-0930",
+      "seriesSlug": "add-new-life-baptist-church",
+      "title": "New Life Baptist Church — Free Food",
+      "description": "Free food at New Life Baptist Church. Schedule: 3rd Thu 9:30 AM–11:30 AM; 3rd Sat 10 AM–12 PM. Call 559-264-5330 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "New Life Baptist Church",
+      "address": "2033 S Cedar Ave, Fresno, CA 93702",
+      "lat": 36.722701,
+      "lng": -119.753987,
+      "category": "food-assistance",
+      "sourceOrg": "New Life Baptist Church",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Thu 9:30 AM–11:30 AM; 3rd Sat 10 AM–12 PM",
+      "start": "2026-10-08T09:30",
+      "end": "2026-10-08T11:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-new-life-baptist-church-m36-1000",
+      "seriesSlug": "add-new-life-baptist-church",
+      "title": "New Life Baptist Church — Free Food",
+      "description": "Free food at New Life Baptist Church. Schedule: 3rd Thu 9:30 AM–11:30 AM; 3rd Sat 10 AM–12 PM. Call 559-264-5330 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "New Life Baptist Church",
+      "address": "2033 S Cedar Ave, Fresno, CA 93702",
+      "lat": 36.722701,
+      "lng": -119.753987,
+      "category": "food-assistance",
+      "sourceOrg": "New Life Baptist Church",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Thu 9:30 AM–11:30 AM; 3rd Sat 10 AM–12 PM",
+      "start": "2026-10-10T10:00",
+      "end": "2026-10-10T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-north-assembly-of-god-m22-1000",
+      "seriesSlug": "add-north-assembly-of-god",
+      "title": "North Assembly of God — Free Food",
+      "description": "Free food at North Assembly of God. Schedule: 2nd Tue 10 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "North Assembly of God",
+      "address": "2707 W Dakota, Fresno, CA 93711",
+      "lat": 36.786241,
+      "lng": -119.842529,
+      "category": "food-assistance",
+      "sourceOrg": "North Assembly of God",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "2nd Tue 10 AM–12 PM",
+      "start": "2026-10-06T10:00",
+      "end": "2026-10-06T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "2:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-our-saviour-s-lutheran-church-usda-m11-1300",
+      "seriesSlug": "add-our-saviour-s-lutheran-church-usda",
+      "title": "Our Saviour's Lutheran Church - USDA — Free Food",
+      "description": "Free food at Our Saviour's Lutheran Church - USDA. Schedule: 1st Mon 1 PM–3 PM; Sun 11:30 AM–12:30 PM. Call 559-237-7603 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Our Saviour's Lutheran Church - USDA",
+      "address": "2101 N. Fruit Ave, Fresno, CA 93705",
+      "lat": 36.769651,
+      "lng": -119.818045,
+      "category": "food-assistance",
+      "sourceOrg": "Our Saviour's Lutheran Church - USDA",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "1st Mon 1 PM–3 PM; Sun 11:30 AM–12:30 PM",
+      "start": "2026-10-05T13:00",
+      "end": "2026-10-05T15:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "1:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-our-saviour-s-lutheran-church-usda-w7-1130",
+      "seriesSlug": "add-our-saviour-s-lutheran-church-usda",
+      "title": "Our Saviour's Lutheran Church - USDA — Free Food",
+      "description": "Free food at Our Saviour's Lutheran Church - USDA. Schedule: 1st Mon 1 PM–3 PM; Sun 11:30 AM–12:30 PM. Call 559-237-7603 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Our Saviour's Lutheran Church - USDA",
+      "address": "2101 N. Fruit Ave, Fresno, CA 93705",
+      "lat": 36.769651,
+      "lng": -119.818045,
+      "category": "food-assistance",
+      "sourceOrg": "Our Saviour's Lutheran Church - USDA",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "1st Mon 1 PM–3 PM; Sun 11:30 AM–12:30 PM",
+      "start": "2026-09-28T11:30",
+      "end": "2026-09-28T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-paraclete-missionary-baptist-church-m36-1000",
+      "seriesSlug": "add-paraclete-missionary-baptist-church",
+      "title": "Paraclete Missionary Baptist Church — Free Food",
+      "description": "Free food at Paraclete Missionary Baptist Church. Schedule: 3rd Sat 10 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Paraclete Missionary Baptist Church",
+      "address": "757 S Orange, Fresno, CA 93702",
+      "lat": 36.734912,
+      "lng": -119.763359,
+      "category": "food-assistance",
+      "sourceOrg": "Paraclete Missionary Baptist Church",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Sat 10 AM–12 PM",
+      "start": "2026-10-10T10:00",
+      "end": "2026-10-10T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-peanut-butter-jelly-ministries-m33-0900",
+      "seriesSlug": "add-peanut-butter-jelly-ministries",
+      "title": "Peanut Butter & Jelly Ministries — Free Food",
+      "description": "Free food at Peanut Butter & Jelly Ministries. Schedule: 3rd Wed 9 AM–11 AM. Call (559) 237-3663 ext. 1108 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Peanut Butter & Jelly Ministries",
+      "address": "3585 N. Blythe Ave, Fresno, CA 93722",
+      "lat": 36.789583,
+      "lng": -119.87196,
+      "category": "food-assistance",
+      "sourceOrg": "Peanut Butter & Jelly Ministries",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Wed 9 AM–11 AM",
+      "start": "2026-10-07T09:00",
+      "end": "2026-10-07T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-peoples-church-fresno-m2242-0900",
+      "seriesSlug": "add-peoples-church-fresno",
+      "title": "Peoples Church Fresno — Free Food",
+      "description": "Free food at Peoples Church Fresno. Schedule: 2nd Tue & 4th Tue 9 AM–11 AM. Call 559-298-8001 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Peoples Church Fresno",
+      "address": "7172 N Cedar Ave, Fresno, CA 93720",
+      "lat": 36.84121,
+      "lng": -119.75337,
+      "category": "food-assistance",
+      "sourceOrg": "Peoples Church Fresno",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "2nd Tue & 4th Tue 9 AM–11 AM",
+      "start": "2026-10-06T09:00",
+      "end": "2026-10-06T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 2
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "2:2,4:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-rainbow-housing-corporation-m33-1400",
+      "seriesSlug": "add-rainbow-housing-corporation",
+      "title": "Rainbow Housing Corporation — Free Food",
+      "description": "Free food at Rainbow Housing Corporation. Schedule: 3rd Wed 2 PM–4 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Rainbow Housing Corporation",
+      "address": "2319 S. Bardell Ave (back parking lot), Fresno, CA 93706",
+      "lat": 36.717307,
+      "lng": -119.797197,
+      "category": "food-assistance",
+      "sourceOrg": "Rainbow Housing Corporation",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Wed 2 PM–4 PM",
+      "start": "2026-10-07T14:00",
+      "end": "2026-10-07T16:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-rapto-divino-church-fresno-usda-m35-1000",
+      "seriesSlug": "add-rapto-divino-church-fresno-usda",
+      "title": "Rapto Divino Church (Fresno) - USDA — Free Food",
+      "description": "Free food at Rapto Divino Church (Fresno) - USDA. Schedule: 3rd Fri 10 AM–12 PM. Call (559) 237-3663 ext. 1108 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Rapto Divino Church (Fresno) - USDA",
+      "address": "3707 E. Laurite Ave, Fresno, CA 93726",
+      "lat": 36.711661,
+      "lng": -119.76221,
+      "category": "food-assistance",
+      "sourceOrg": "Rapto Divino Church (Fresno) - USDA",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Fri 10 AM–12 PM",
+      "start": "2026-10-09T10:00",
+      "end": "2026-10-09T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-saints-community-church-usda-m123242-1100",
+      "seriesSlug": "add-saints-community-church-usda",
+      "title": "Saints Community Church - USDA — Free Food",
+      "description": "Free food at Saints Community Church - USDA. Schedule: 1st Tue & 3rd Tue & 4th Tue 11 AM–12 PM; 2nd Tue 9 AM–11 AM. Call 559-227-9819 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Saints Community Church - USDA",
+      "address": "3740 E Ashlan Ave, Fresno, CA 93726",
+      "lat": 36.79338,
+      "lng": -119.76224,
+      "category": "food-assistance",
+      "sourceOrg": "Saints Community Church - USDA",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "1st Tue & 3rd Tue & 4th Tue 11 AM–12 PM; 2nd Tue 9 AM–11 AM",
+      "start": "2026-10-06T11:00",
+      "end": "2026-10-06T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 2
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 2
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "1:2,3:2,4:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-saints-community-church-usda-m22-0900",
+      "seriesSlug": "add-saints-community-church-usda",
+      "title": "Saints Community Church - USDA — Free Food",
+      "description": "Free food at Saints Community Church - USDA. Schedule: 1st Tue & 3rd Tue & 4th Tue 11 AM–12 PM; 2nd Tue 9 AM–11 AM. Call 559-227-9819 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Saints Community Church - USDA",
+      "address": "3740 E Ashlan Ave, Fresno, CA 93726",
+      "lat": 36.79338,
+      "lng": -119.76224,
+      "category": "food-assistance",
+      "sourceOrg": "Saints Community Church - USDA",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "1st Tue & 3rd Tue & 4th Tue 11 AM–12 PM; 2nd Tue 9 AM–11 AM",
+      "start": "2026-10-06T09:00",
+      "end": "2026-10-06T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "2:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-second-baptist-church-usda-m23-0800",
+      "seriesSlug": "add-second-baptist-church-usda",
+      "title": "Second Baptist Church - USDA — Free Food",
+      "description": "Free food at Second Baptist Church - USDA. Schedule: 2nd Wed 8 AM–12 PM. Call 559-486-9993 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Second Baptist Church - USDA",
+      "address": "1041 E Jensen, Fresno, CA 93706",
+      "lat": 36.707376,
+      "lng": -119.797939,
+      "category": "food-assistance",
+      "sourceOrg": "Second Baptist Church - USDA",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "2nd Wed 8 AM–12 PM",
+      "start": "2026-10-07T08:00",
+      "end": "2026-10-07T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "2:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-south-point-church-m26-1000",
+      "seriesSlug": "add-south-point-church",
+      "title": "South Point Church — Free Food",
+      "description": "Free food at South Point Church. Schedule: 2nd Sat 10 AM–12 PM. Call 559-455-1119 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "South Point Church",
+      "address": "5391 E. Tulare Ave, Fresno, CA 93727",
+      "lat": 36.743312,
+      "lng": -119.70959,
+      "category": "food-assistance",
+      "sourceOrg": "South Point Church",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "2nd Sat 10 AM–12 PM",
+      "start": "2026-10-10T10:00",
+      "end": "2026-10-10T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sovereign-ministries-m2343-1000",
+      "seriesSlug": "add-sovereign-ministries",
+      "title": "Sovereign Ministries — Free Food",
+      "description": "Free food at Sovereign Ministries. Schedule: 2nd Wed & 4th Wed 10 AM–12 PM. Call 559-297-7362 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Sovereign Ministries",
+      "address": "4744 E Church Ave, Fresno, CA 93725",
+      "lat": 36.71373,
+      "lng": -119.73918,
+      "category": "food-assistance",
+      "sourceOrg": "Sovereign Ministries",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "2nd Wed & 4th Wed 10 AM–12 PM",
+      "start": "2026-10-07T10:00",
+      "end": "2026-10-07T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "2:3,4:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-anthony-mary-claret-church-m35-1600",
+      "seriesSlug": "add-st-anthony-mary-claret-church",
+      "title": "St. Anthony Mary Claret Church — Free Food",
+      "description": "Free food at St. Anthony Mary Claret Church. Schedule: 3rd Fri 4 PM–6 PM. Call 559-255-4260 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Anthony Mary Claret Church",
+      "address": "2494 S. Chestnut Ave, Fresno, CA 93725",
+      "lat": 36.711033,
+      "lng": -119.737201,
+      "category": "food-assistance",
+      "sourceOrg": "St. Anthony Mary Claret Church",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Fri 4 PM–6 PM",
+      "start": "2026-10-09T16:00",
+      "end": "2026-10-09T18:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-james-episcopal-cathedral-m32-0930",
+      "seriesSlug": "add-st-james-episcopal-cathedral",
+      "title": "St. James Episcopal Cathedral — Free Food",
+      "description": "Free food at St. James Episcopal Cathedral. Schedule: 3rd Tue 9:30 AM–11:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. James Episcopal Cathedral",
+      "address": "4147 E Dakota Ave, Fresno, CA 93726",
+      "lat": 36.787864,
+      "lng": -119.755828,
+      "category": "food-assistance",
+      "sourceOrg": "St. James Episcopal Cathedral",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Tue 9:30 AM–11:30 AM",
+      "start": "2026-10-06T09:30",
+      "end": "2026-10-06T11:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "3:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-rest-baptist-church-w1356-0900",
+      "seriesSlug": "add-st-rest-baptist-church",
+      "title": "St. Rest Baptist Church — Free Food",
+      "description": "Free food at St. Rest Baptist Church. Schedule: Mon, Wed, Fri–Sat 9 AM–11 AM; 1st Sat 9 AM–11 AM. Call (559) 237-3663 ext. 1108 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Rest Baptist Church",
+      "address": "1550 E. Chester Riggins Ave, Fresno, CA 93706",
+      "lat": 36.717369,
+      "lng": -119.792493,
+      "category": "food-assistance",
+      "sourceOrg": "St. Rest Baptist Church",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "Mon, Wed, Fri–Sat 9 AM–11 AM; 1st Sat 9 AM–11 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3,5,6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-rest-baptist-church-m16-0900",
+      "seriesSlug": "add-st-rest-baptist-church",
+      "title": "St. Rest Baptist Church — Free Food",
+      "description": "Free food at St. Rest Baptist Church. Schedule: Mon, Wed, Fri–Sat 9 AM–11 AM; 1st Sat 9 AM–11 AM. Call (559) 237-3663 ext. 1108 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Rest Baptist Church",
+      "address": "1550 E. Chester Riggins Ave, Fresno, CA 93706",
+      "lat": 36.717369,
+      "lng": -119.792493,
+      "category": "food-assistance",
+      "sourceOrg": "St. Rest Baptist Church",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "Mon, Wed, Fri–Sat 9 AM–11 AM; 1st Sat 9 AM–11 AM",
+      "start": "2026-10-10T09:00",
+      "end": "2026-10-10T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "1:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-arc-fresno-madera-loewen-achievement-center-w3-1000",
+      "seriesSlug": "add-the-arc-fresno-madera-loewen-achievement-center",
+      "title": "The Arc Fresno Madera (Loewen Achievement Center) — Free Food",
+      "description": "Free food at The Arc Fresno Madera (Loewen Achievement Center). Schedule: Wed 10 AM–11:30 AM. Call 559-547-2621 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Arc Fresno Madera (Loewen Achievement Center)",
+      "address": "4490 E Ashlan Ave, Fresno, CA 93726",
+      "lat": 36.793693,
+      "lng": -119.749985,
+      "category": "food-assistance",
+      "sourceOrg": "The Arc Fresno Madera (Loewen Achievement Center)",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "Wed 10 AM–11:30 AM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-body-community-church-m-16-0800",
+      "seriesSlug": "add-the-body-community-church",
+      "title": "The Body Community Church — Free Food",
+      "description": "Free food at The Body Community Church. Schedule: last Sat 8 AM–11 AM. Call 559-213-3981 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Body Community Church",
+      "address": "350 W. Minarets Ave, Fresno, CA 93650",
+      "lat": 36.842914,
+      "lng": -119.798504,
+      "category": "food-assistance",
+      "sourceOrg": "The Body Community Church",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "last Sat 8 AM–11 AM",
+      "start": "2026-10-10T08:00",
+      "end": "2026-10-10T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": -1,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "-1:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-bridge-evangelical-free-church-m1333-0900",
+      "seriesSlug": "add-the-bridge-evangelical-free-church",
+      "title": "The Bridge Evangelical Free Church — Free Food",
+      "description": "Free food at The Bridge Evangelical Free Church. Schedule: 1st Wed & 3rd Wed 9 AM–11 AM. Call 559-226-4100 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Bridge Evangelical Free Church",
+      "address": "3438 E. Ashlan Ave, Fresno, CA 93726",
+      "lat": 36.793154,
+      "lng": -119.767216,
+      "category": "food-assistance",
+      "sourceOrg": "The Bridge Evangelical Free Church",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "1st Wed & 3rd Wed 9 AM–11 AM",
+      "start": "2026-10-07T09:00",
+      "end": "2026-10-07T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "1:3,3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-fresno-center-m41-1500",
+      "seriesSlug": "add-the-fresno-center",
+      "title": "The Fresno Center — Free Food",
+      "description": "Free food at The Fresno Center. Schedule: 4th Mon 3 PM–5 PM. Call (559) 237-3663 ext. 1108 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Fresno Center",
+      "address": "4879 E. Kings Canyon Rd, Fresno, CA 93727",
+      "lat": 36.735982,
+      "lng": -119.733096,
+      "category": "food-assistance",
+      "sourceOrg": "The Fresno Center",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "4th Mon 3 PM–5 PM",
+      "start": "2026-10-05T15:00",
+      "end": "2026-10-05T17:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "4:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-living-room-m2444-1000",
+      "seriesSlug": "add-the-living-room",
+      "title": "The Living Room — Free Food",
+      "description": "Free food at The Living Room. Schedule: 2nd Thu & 4th Thu 10 AM–4 PM. Eligibility: must call for eligibility. Call 559-486-1469 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Living Room",
+      "address": "1330 E Olive Ave, Fresno, CA 93728",
+      "lat": 36.75758,
+      "lng": -119.7948,
+      "category": "food-assistance",
+      "sourceOrg": "The Living Room",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "2nd Thu & 4th Thu 10 AM–4 PM",
+      "start": "2026-10-08T10:00",
+      "end": "2026-10-08T16:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "2:4,4:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-salvation-army-arc-w2-0900",
+      "seriesSlug": "add-the-salvation-army-arc",
+      "title": "The Salvation Army ARC — Free Food",
+      "description": "Free food at The Salvation Army ARC. Schedule: Tue 9 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Salvation Army ARC",
+      "address": "804 S Parallel Ave, Fresno, CA 93702",
+      "lat": 36.734239,
+      "lng": -119.775674,
+      "category": "food-assistance",
+      "sourceOrg": "The Salvation Army ARC",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "Tue 9 AM–12 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-salvation-army-fresno-family-services-w123-0900",
+      "seriesSlug": "add-the-salvation-army-fresno-family-services",
+      "title": "The Salvation Army Fresno Family Services — Free Food",
+      "description": "Free food at The Salvation Army Fresno Family Services. Schedule: Mon–Wed 9 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Salvation Army Fresno Family Services",
+      "address": "1752 Fulton St, Fresno, CA 93721",
+      "lat": 36.741659,
+      "lng": -119.798336,
+      "category": "food-assistance",
+      "sourceOrg": "The Salvation Army Fresno Family Services",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "Mon–Wed 9 AM–12 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-united-christian-church-m11-1000",
+      "seriesSlug": "add-united-christian-church",
+      "title": "United Christian Church — Free Food",
+      "description": "Free food at United Christian Church. Schedule: 1st Mon 10 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "United Christian Church",
+      "address": "1038 W Shields Ave, Fresno, CA 93705",
+      "lat": 36.77967,
+      "lng": -119.82389,
+      "category": "food-assistance",
+      "sourceOrg": "United Christian Church",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "1st Mon 10 AM–12 PM",
+      "start": "2026-10-05T10:00",
+      "end": "2026-10-05T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "1:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-victory-chapel-m36-0800",
+      "seriesSlug": "add-victory-chapel",
+      "title": "Victory Chapel — Free Food",
+      "description": "Free food at Victory Chapel. Schedule: 3rd Sat 8 AM–10 AM. Call 559-412-8125 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Victory Chapel",
+      "address": "4206 W. Dakota Ave, Fresno, CA 93722",
+      "lat": 36.787397,
+      "lng": -119.867092,
+      "category": "food-assistance",
+      "sourceOrg": "Victory Chapel",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Sat 8 AM–10 AM",
+      "start": "2026-10-10T08:00",
+      "end": "2026-10-10T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-wesley-united-methodist-church-w4-0900",
+      "seriesSlug": "add-wesley-united-methodist-church",
+      "title": "Wesley United Methodist Church — Free Food",
+      "description": "Free food at Wesley United Methodist Church. Schedule: Thu 9 AM–11 AM. Call 559-224-1947 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Wesley United Methodist Church",
+      "address": "1343 E. Barstow Ave, Fresno, CA 93710",
+      "lat": 36.815435,
+      "lng": -119.764163,
+      "category": "food-assistance",
+      "sourceOrg": "Wesley United Methodist Church",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "Thu 9 AM–11 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-west-fresno-family-resource-center-w4-1300",
+      "seriesSlug": "add-west-fresno-family-resource-center",
+      "title": "West Fresno Family Resource Center — Free Food",
+      "description": "Free food at West Fresno Family Resource Center. Schedule: Thu 1 PM–3 PM; 4th Thu 1 PM–3 PM. Call (559) 237-3663 ext. 1108 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "West Fresno Family Resource Center",
+      "address": "1825 S. Delno Ave, Fresno, CA 93706",
+      "lat": 36.723486,
+      "lng": -119.819637,
+      "category": "food-assistance",
+      "sourceOrg": "West Fresno Family Resource Center",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "Thu 1 PM–3 PM; 4th Thu 1 PM–3 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-west-fresno-family-resource-center-m44-1300",
+      "seriesSlug": "add-west-fresno-family-resource-center",
+      "title": "West Fresno Family Resource Center — Free Food",
+      "description": "Free food at West Fresno Family Resource Center. Schedule: Thu 1 PM–3 PM; 4th Thu 1 PM–3 PM. Call (559) 237-3663 ext. 1108 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "West Fresno Family Resource Center",
+      "address": "1825 S. Delno Ave, Fresno, CA 93706",
+      "lat": 36.723486,
+      "lng": -119.819637,
+      "category": "food-assistance",
+      "sourceOrg": "West Fresno Family Resource Center",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "Thu 1 PM–3 PM; 4th Thu 1 PM–3 PM",
+      "start": "2026-10-08T13:00",
+      "end": "2026-10-08T15:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "4:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-west-mckinley-assembly-of-god-neighborhood-marke-m46-0900",
+      "seriesSlug": "add-west-mckinley-assembly-of-god-neighborhood-marke",
+      "title": "West McKinley Assembly of God - Neighborhood Market — Free Food",
+      "description": "Free food at West McKinley Assembly of God - Neighborhood Market. Schedule: 4th Sat 9 AM–11 AM; 1st Fri & 2nd Fri & 3rd Fri & 5th Fri 12 PM–2 PM. Call (559) 237-3663 ext. 1108 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "West McKinley Assembly of God - Neighborhood Market",
+      "address": "3014 W McKinley Ave, Fresno, CA 93722",
+      "lat": 36.765096,
+      "lng": -119.845465,
+      "category": "food-assistance",
+      "sourceOrg": "West McKinley Assembly of God - Neighborhood Market",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "4th Sat 9 AM–11 AM; 1st Fri & 2nd Fri & 3rd Fri & 5th Fri 12 PM–2 PM",
+      "start": "2026-10-10T09:00",
+      "end": "2026-10-10T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-west-mckinley-assembly-of-god-neighborhood-marke-m15253555-1200",
+      "seriesSlug": "add-west-mckinley-assembly-of-god-neighborhood-marke",
+      "title": "West McKinley Assembly of God - Neighborhood Market — Free Food",
+      "description": "Free food at West McKinley Assembly of God - Neighborhood Market. Schedule: 4th Sat 9 AM–11 AM; 1st Fri & 2nd Fri & 3rd Fri & 5th Fri 12 PM–2 PM. Call (559) 237-3663 ext. 1108 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "West McKinley Assembly of God - Neighborhood Market",
+      "address": "3014 W McKinley Ave, Fresno, CA 93722",
+      "lat": 36.765096,
+      "lng": -119.845465,
+      "category": "food-assistance",
+      "sourceOrg": "West McKinley Assembly of God - Neighborhood Market",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "4th Sat 9 AM–11 AM; 1st Fri & 2nd Fri & 3rd Fri & 5th Fri 12 PM–2 PM",
+      "start": "2026-10-09T12:00",
+      "end": "2026-10-09T14:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 2,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 5,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "1:5,2:5,3:5,5:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-west-park-community-m22-1800",
+      "seriesSlug": "add-west-park-community",
+      "title": "West Park Community — Free Food",
+      "description": "Free food at West Park Community. Schedule: 2nd Tue 6 PM–8 PM. Call 559-477-3551 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "West Park Community",
+      "address": "3279 W. Jensen Ave, Fresno, CA 93706",
+      "lat": 36.70631,
+      "lng": -119.85098,
+      "category": "food-assistance",
+      "sourceOrg": "West Park Community",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "2nd Tue 6 PM–8 PM",
+      "start": "2026-10-06T18:00",
+      "end": "2026-10-06T20:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "2:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-westside-church-of-god-usda-m36-0900",
+      "seriesSlug": "add-westside-church-of-god-usda",
+      "title": "Westside Church of God - USDA — Free Food",
+      "description": "Free food at Westside Church of God - USDA. Schedule: 3rd Sat 9 AM–11:30 AM. Call 559-237-1444 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Westside Church of God - USDA",
+      "address": "1424 W California Ave, Fresno, CA 93706",
+      "lat": 36.721694,
+      "lng": -119.828351,
+      "category": "food-assistance",
+      "sourceOrg": "Westside Church of God - USDA",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Sat 9 AM–11:30 AM",
+      "start": "2026-10-10T09:00",
+      "end": "2026-10-10T11:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-woodward-park-church-m16-0600",
+      "seriesSlug": "add-woodward-park-church",
+      "title": "Woodward Park Church — Free Food",
+      "description": "Free food at Woodward Park Church. Schedule: 1st Sat 6 AM–8 AM. Call 559-446-2550 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Woodward Park Church",
+      "address": "7886 N. Millbrook Ave, Fresno, CA 93720",
+      "lat": 36.851031,
+      "lng": -119.765161,
+      "category": "food-assistance",
+      "sourceOrg": "Woodward Park Church",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "1st Sat 6 AM–8 AM",
+      "start": "2026-10-10T06:00",
+      "end": "2026-10-10T08:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "1:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-valley-voices-huron-m35-1500",
+      "seriesSlug": "add-valley-voices-huron",
+      "title": "Valley Voices Huron — Free Food",
+      "description": "Free food at Valley Voices Huron. Schedule: 3rd Fri 3 PM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Valley Voices Huron",
+      "address": "16856 4th St, Huron, CA 93234",
+      "lat": 36.20012,
+      "lng": -120.10056,
+      "category": "food-assistance",
+      "sourceOrg": "Valley Voices Huron",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Fri 3 PM–5 PM",
+      "start": "2026-10-09T15:00",
+      "end": "2026-10-09T17:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-westside-family-services-huron-m112131-1000",
+      "seriesSlug": "add-westside-family-services-huron",
+      "title": "Westside Family Services - Huron — Free Food",
+      "description": "Free food at Westside Family Services - Huron. Schedule: 1st Mon & 2nd Mon & 3rd Mon 10 AM–12 PM; 4th Wed 10 AM–12 PM. Call (559) 237-3663 ext. 1108 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Westside Family Services - Huron",
+      "address": "36618 Lassen Ave, Huron, CA 93234",
+      "lat": 36.200775,
+      "lng": -120.103157,
+      "category": "food-assistance",
+      "sourceOrg": "Westside Family Services - Huron",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "1st Mon & 2nd Mon & 3rd Mon 10 AM–12 PM; 4th Wed 10 AM–12 PM",
+      "start": "2026-10-05T10:00",
+      "end": "2026-10-05T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 1
+          },
+          {
+            "n": 2,
+            "dayOfWeek": 1
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "1:1,2:1,3:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-westside-family-services-huron-m43-1000",
+      "seriesSlug": "add-westside-family-services-huron",
+      "title": "Westside Family Services - Huron — Free Food",
+      "description": "Free food at Westside Family Services - Huron. Schedule: 1st Mon & 2nd Mon & 3rd Mon 10 AM–12 PM; 4th Wed 10 AM–12 PM. Call (559) 237-3663 ext. 1108 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Westside Family Services - Huron",
+      "address": "36618 Lassen Ave, Huron, CA 93234",
+      "lat": 36.200775,
+      "lng": -120.103157,
+      "category": "food-assistance",
+      "sourceOrg": "Westside Family Services - Huron",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "1st Mon & 2nd Mon & 3rd Mon 10 AM–12 PM; 4th Wed 10 AM–12 PM",
+      "start": "2026-10-07T10:00",
+      "end": "2026-10-07T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "4:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-westside-family-services-kerman-usda-m33-1000",
+      "seriesSlug": "add-westside-family-services-kerman-usda",
+      "title": "Westside Family Services - Kerman - USDA — Free Food",
+      "description": "Free food at Westside Family Services - Kerman - USDA. Schedule: 3rd Wed 10 AM–12 PM. Call 559-945-1022 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Westside Family Services - Kerman - USDA",
+      "address": "15101 W Kearney Blvd, Kerman, CA 93630",
+      "lat": 36.726958,
+      "lng": -120.061491,
+      "category": "food-assistance",
+      "sourceOrg": "Westside Family Services - Kerman - USDA",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Wed 10 AM–12 PM",
+      "start": "2026-10-07T10:00",
+      "end": "2026-10-07T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-kingsburg-community-assistance-program-w1234-0900",
+      "seriesSlug": "add-kingsburg-community-assistance-program",
+      "title": "Kingsburg Community Assistance Program — Free Food",
+      "description": "Free food at Kingsburg Community Assistance Program. Schedule: Mon–Thu 9 AM–12 PM. Eligibility: proof of Kingsburg residency. Call 559-897-7961 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Kingsburg Community Assistance Program",
+      "address": "1139 Draper St, Kingsburg, CA 93631",
+      "lat": 36.512616,
+      "lng": -119.55608,
+      "category": "food-assistance",
+      "sourceOrg": "Kingsburg Community Assistance Program",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "Mon–Thu 9 AM–12 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-church-of-the-nazarene-laton-m36-0830",
+      "seriesSlug": "add-church-of-the-nazarene-laton",
+      "title": "Church of the Nazarene (Laton) — Free Food",
+      "description": "Free food at Church of the Nazarene (Laton). Schedule: 3rd Sat 8:30 AM–10:30 AM; 1st Tue & 3rd Tue 10 AM–12 PM. Call 559-923-1200 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Church of the Nazarene (Laton)",
+      "address": "6258 E. Murphy Ave, Laton, CA 93242",
+      "lat": 36.436104,
+      "lng": -119.684898,
+      "category": "food-assistance",
+      "sourceOrg": "Church of the Nazarene (Laton)",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Sat 8:30 AM–10:30 AM; 1st Tue & 3rd Tue 10 AM–12 PM",
+      "start": "2026-10-10T08:30",
+      "end": "2026-10-10T10:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-church-of-the-nazarene-laton-m1232-1000",
+      "seriesSlug": "add-church-of-the-nazarene-laton",
+      "title": "Church of the Nazarene (Laton) — Free Food",
+      "description": "Free food at Church of the Nazarene (Laton). Schedule: 3rd Sat 8:30 AM–10:30 AM; 1st Tue & 3rd Tue 10 AM–12 PM. Call 559-923-1200 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Church of the Nazarene (Laton)",
+      "address": "6258 E. Murphy Ave, Laton, CA 93242",
+      "lat": 36.436104,
+      "lng": -119.684898,
+      "category": "food-assistance",
+      "sourceOrg": "Church of the Nazarene (Laton)",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Sat 8:30 AM–10:30 AM; 1st Tue & 3rd Tue 10 AM–12 PM",
+      "start": "2026-10-06T10:00",
+      "end": "2026-10-06T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 2
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "1:2,3:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-shrine-of-our-lady-of-fatima-usda-m41-0900",
+      "seriesSlug": "add-shrine-of-our-lady-of-fatima-usda",
+      "title": "Shrine of Our Lady of Fatima USDA — Free Food",
+      "description": "Free food at Shrine of Our Lady of Fatima USDA. Schedule: 4th Mon 9 AM–11 AM. Call 559-923-4935 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Shrine of Our Lady of Fatima USDA",
+      "address": "20855 S. Fatima Ave, Laton, CA 93242",
+      "lat": 36.434072,
+      "lng": -119.690934,
+      "category": "food-assistance",
+      "sourceOrg": "Shrine of Our Lady of Fatima USDA",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "4th Mon 9 AM–11 AM",
+      "start": "2026-10-05T09:00",
+      "end": "2026-10-05T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "4:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-little-zion-baptist-church-m37-1330",
+      "seriesSlug": "add-little-zion-baptist-church",
+      "title": "Little Zion Baptist Church — Free Food",
+      "description": "Free food at Little Zion Baptist Church. Schedule: 3rd Sun 1:30 PM–3:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Little Zion Baptist Church",
+      "address": "667 Juanita St, Mendota, CA 93640",
+      "lat": 36.759588,
+      "lng": -120.375209,
+      "category": "food-assistance",
+      "sourceOrg": "Little Zion Baptist Church",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Sun 1:30 PM–3:30 PM",
+      "start": "2026-10-11T13:30",
+      "end": "2026-10-11T15:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 7
+          }
+        ]
+      },
+      "recurDays": "3:7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-rojas-pierce-park-neighborhood-market-m2444-0900",
+      "seriesSlug": "add-rojas-pierce-park-neighborhood-market",
+      "title": "Rojas-Pierce Park - Neighborhood Market — Free Food",
+      "description": "Free food at Rojas-Pierce Park - Neighborhood Market. Schedule: 2nd Thu & 4th Thu 9 AM–11 AM. Call (559) 237-3663 ext. 1108 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Rojas-Pierce Park - Neighborhood Market",
+      "address": "350 Sorenson Ave, Mendota, CA 93640",
+      "lat": 36.757429,
+      "lng": -120.388957,
+      "category": "food-assistance",
+      "sourceOrg": "Rojas-Pierce Park - Neighborhood Market",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "2nd Thu & 4th Thu 9 AM–11 AM",
+      "start": "2026-10-08T09:00",
+      "end": "2026-10-08T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "2:4,4:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-westside-youth-center-usda-m34-0900",
+      "seriesSlug": "add-westside-youth-center-usda",
+      "title": "Westside Youth Center - USDA — Free Food",
+      "description": "Free food at Westside Youth Center - USDA. Schedule: 3rd Thu 9 AM–12 PM. Call 559-655-4808 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Westside Youth Center - USDA",
+      "address": "1709 Seventh St, Mendota, CA 93640",
+      "lat": 36.753241,
+      "lng": -120.382203,
+      "category": "food-assistance",
+      "sourceOrg": "Westside Youth Center - USDA",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Thu 9 AM–12 PM",
+      "start": "2026-10-08T09:00",
+      "end": "2026-10-08T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-eoc-orange-cove-m32-0900",
+      "seriesSlug": "add-eoc-orange-cove",
+      "title": "EOC - Orange Cove — Free Food",
+      "description": "Free food at EOC - Orange Cove. Schedule: 3rd Tue 9 AM–11 AM. Call 559-263-1029 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "EOC - Orange Cove",
+      "address": "1705 S. Anchor Ave, Orange Cove, CA 93646",
+      "lat": 36.657692,
+      "lng": -119.322571,
+      "category": "food-assistance",
+      "sourceOrg": "EOC - Orange Cove",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Tue 9 AM–11 AM",
+      "start": "2026-10-06T09:00",
+      "end": "2026-10-06T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "3:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-iglesia-el-buen-pastor-usda-neighborhood-market-m12-0930",
+      "seriesSlug": "add-iglesia-el-buen-pastor-usda-neighborhood-market",
+      "title": "Iglesia El Buen Pastor - USDA & Neighborhood Market — Free Food",
+      "description": "Free food at Iglesia El Buen Pastor - USDA & Neighborhood Market. Schedule: 1st Tue 9:30 AM–11:30 AM; 2nd Mon & 4th Mon 9:30 AM–11:30 AM. Call (559) 237-3663 ext. 1008 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Iglesia El Buen Pastor - USDA & Neighborhood Market",
+      "address": "863 11th St, Orange Cove, CA 93646",
+      "lat": 36.620521,
+      "lng": -119.319489,
+      "category": "food-assistance",
+      "sourceOrg": "Iglesia El Buen Pastor - USDA & Neighborhood Market",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "1st Tue 9:30 AM–11:30 AM; 2nd Mon & 4th Mon 9:30 AM–11:30 AM",
+      "start": "2026-10-06T09:30",
+      "end": "2026-10-06T11:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "1:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-iglesia-el-buen-pastor-usda-neighborhood-market-m2141-0930",
+      "seriesSlug": "add-iglesia-el-buen-pastor-usda-neighborhood-market",
+      "title": "Iglesia El Buen Pastor - USDA & Neighborhood Market — Free Food",
+      "description": "Free food at Iglesia El Buen Pastor - USDA & Neighborhood Market. Schedule: 1st Tue 9:30 AM–11:30 AM; 2nd Mon & 4th Mon 9:30 AM–11:30 AM. Call (559) 237-3663 ext. 1008 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Iglesia El Buen Pastor - USDA & Neighborhood Market",
+      "address": "863 11th St, Orange Cove, CA 93646",
+      "lat": 36.620521,
+      "lng": -119.319489,
+      "category": "food-assistance",
+      "sourceOrg": "Iglesia El Buen Pastor - USDA & Neighborhood Market",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "1st Tue 9:30 AM–11:30 AM; 2nd Mon & 4th Mon 9:30 AM–11:30 AM",
+      "start": "2026-10-05T09:30",
+      "end": "2026-10-05T11:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 1
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "2:1,4:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-central-valley-resource-center-m-15-1000",
+      "seriesSlug": "add-central-valley-resource-center",
+      "title": "Central Valley Resource Center — Free Food",
+      "description": "Free food at Central Valley Resource Center. Schedule: last Fri 10 AM–1 PM. Call 559-254-5267 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Central Valley Resource Center",
+      "address": "13700 E Parlier Ave, Ste A, Parlier, CA 93648",
+      "lat": 36.612581,
+      "lng": -119.543513,
+      "category": "food-assistance",
+      "sourceOrg": "Central Valley Resource Center",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "last Fri 10 AM–1 PM",
+      "start": "2026-10-09T10:00",
+      "end": "2026-10-09T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": -1,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "-1:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-eoc-parlier-m1535-0900",
+      "seriesSlug": "add-eoc-parlier",
+      "title": "EOC - Parlier — Free Food",
+      "description": "Free food at EOC - Parlier. Schedule: 1st Fri & 3rd Fri 9 AM–11 AM. Call 559-263-1029 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "EOC - Parlier",
+      "address": "690 S Newmark Ave, Parlier, CA 93648",
+      "lat": 36.61284,
+      "lng": -119.529445,
+      "category": "food-assistance",
+      "sourceOrg": "EOC - Parlier",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "1st Fri & 3rd Fri 9 AM–11 AM",
+      "start": "2026-10-09T09:00",
+      "end": "2026-10-09T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "1:5,3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-central-sierra-chamber-of-commerce-usda-m16-0900",
+      "seriesSlug": "add-central-sierra-chamber-of-commerce-usda",
+      "title": "Central Sierra Chamber of Commerce - USDA — Free Food",
+      "description": "Free food at Central Sierra Chamber of Commerce - USDA. Schedule: 1st Sat 9 AM–12 PM. Call 559-336-2800 ext. 243 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Central Sierra Chamber of Commerce - USDA",
+      "address": "54120 Hwy 245, Pinehurst, CA 93641",
+      "lat": 36.69128,
+      "lng": -119.01812,
+      "category": "food-assistance",
+      "sourceOrg": "Central Sierra Chamber of Commerce - USDA",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "1st Sat 9 AM–12 PM",
+      "start": "2026-10-10T09:00",
+      "end": "2026-10-10T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "1:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-full-gospel-tabernacle-usda-m46-0830",
+      "seriesSlug": "add-full-gospel-tabernacle-usda",
+      "title": "Full Gospel Tabernacle - USDA — Free Food",
+      "description": "Free food at Full Gospel Tabernacle - USDA. Schedule: 4th Sat 8:30 AM–10:30 AM. Call 559-638-2739 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Full Gospel Tabernacle - USDA",
+      "address": "519 E 11th St, Reedley, CA 93654",
+      "lat": 36.600905,
+      "lng": -119.443525,
+      "category": "food-assistance",
+      "sourceOrg": "Full Gospel Tabernacle - USDA",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "4th Sat 8:30 AM–10:30 AM",
+      "start": "2026-10-10T08:30",
+      "end": "2026-10-10T10:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-miracles-in-comm-association-m34-0900",
+      "seriesSlug": "add-miracles-in-comm-association",
+      "title": "Miracles In Comm. Association — Free Food",
+      "description": "Free food at Miracles In Comm. Association. Schedule: 3rd Thu 9 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Miracles In Comm. Association",
+      "address": "659 E Dinuba Ave, Reedley, CA 93654",
+      "lat": 36.588976,
+      "lng": -119.441956,
+      "category": "food-assistance",
+      "sourceOrg": "Miracles In Comm. Association",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Thu 9 AM–12 PM",
+      "start": "2026-10-08T09:00",
+      "end": "2026-10-08T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-anthony-s-food-pantry-m44-1700",
+      "seriesSlug": "add-st-anthony-s-food-pantry",
+      "title": "St. Anthony's Food Pantry — Free Food",
+      "description": "Free food at St. Anthony's Food Pantry. Schedule: 4th Thu 5 PM–7 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Anthony's Food Pantry",
+      "address": "1452 11th St, Reedley, CA 93654",
+      "lat": 36.597915,
+      "lng": -119.448185,
+      "category": "food-assistance",
+      "sourceOrg": "St. Anthony's Food Pantry",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "4th Thu 5 PM–7 PM",
+      "start": "2026-10-08T17:00",
+      "end": "2026-10-08T19:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "4:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-vida-en-el-valle-iglesia-de-cristo-m46-1000",
+      "seriesSlug": "add-vida-en-el-valle-iglesia-de-cristo",
+      "title": "Vida En El Valle - Iglesia de Cristo — Free Food",
+      "description": "Free food at Vida En El Valle - Iglesia de Cristo. Schedule: 4th Sat 10 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Vida En El Valle - Iglesia de Cristo",
+      "address": "1390 11th St, Reedley, CA 93654",
+      "lat": 36.59847,
+      "lng": -119.44734,
+      "category": "food-assistance",
+      "sourceOrg": "Vida En El Valle - Iglesia de Cristo",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "4th Sat 10 AM–12 PM",
+      "start": "2026-10-10T10:00",
+      "end": "2026-10-10T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-lanare-community-center-usda-neighborhood-market-m3442-1000",
+      "seriesSlug": "add-lanare-community-center-usda-neighborhood-market",
+      "title": "Lanare Community Center - USDA/Neighborhood Market — Free Food",
+      "description": "Free food at Lanare Community Center - USDA/Neighborhood Market. Schedule: 3rd Thu & 4th Tue 10 AM–12 PM; 2nd Tue 10 AM–12 PM. Call (559) 237-3663 ext. 1108 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Lanare Community Center - USDA/Neighborhood Market",
+      "address": "20620 S. Grantland Ave, Riverdale, CA 93656",
+      "lat": 36.433677,
+      "lng": -119.922437,
+      "category": "food-assistance",
+      "sourceOrg": "Lanare Community Center - USDA/Neighborhood Market",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Thu & 4th Tue 10 AM–12 PM; 2nd Tue 10 AM–12 PM",
+      "start": "2026-10-08T10:00",
+      "end": "2026-10-08T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "3:4,4:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-lanare-community-center-usda-neighborhood-market-m22-1000",
+      "seriesSlug": "add-lanare-community-center-usda-neighborhood-market",
+      "title": "Lanare Community Center - USDA/Neighborhood Market — Free Food",
+      "description": "Free food at Lanare Community Center - USDA/Neighborhood Market. Schedule: 3rd Thu & 4th Tue 10 AM–12 PM; 2nd Tue 10 AM–12 PM. Call (559) 237-3663 ext. 1108 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Lanare Community Center - USDA/Neighborhood Market",
+      "address": "20620 S. Grantland Ave, Riverdale, CA 93656",
+      "lat": 36.433677,
+      "lng": -119.922437,
+      "category": "food-assistance",
+      "sourceOrg": "Lanare Community Center - USDA/Neighborhood Market",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Thu & 4th Tue 10 AM–12 PM; 2nd Tue 10 AM–12 PM",
+      "start": "2026-10-06T10:00",
+      "end": "2026-10-06T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "2:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-san-joaquin-veterans-memorial-hall-mobile-pantry-m1333-0900",
+      "seriesSlug": "add-san-joaquin-veterans-memorial-hall-mobile-pantry",
+      "title": "San Joaquin Veterans Memorial Hall - Mobile Pantry & Neighborhood Market — Free Food",
+      "description": "Free food at San Joaquin Veterans Memorial Hall - Mobile Pantry & Neighborhood Market. Schedule: 1st Wed & 3rd Wed 9 AM–12 PM; 2nd Thu 9 AM–12 PM. Call (559) 237-3663 ext. 1108 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "San Joaquin Veterans Memorial Hall - Mobile Pantry & Neighborhood Market",
+      "address": "22001 W. Manning Ave, San Joaquin, CA 93660",
+      "lat": 36.60287,
+      "lng": -120.188505,
+      "category": "food-assistance",
+      "sourceOrg": "San Joaquin Veterans Memorial Hall - Mobile Pantry & Neighborhood Market",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "1st Wed & 3rd Wed 9 AM–12 PM; 2nd Thu 9 AM–12 PM",
+      "start": "2026-10-07T09:00",
+      "end": "2026-10-07T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "1:3,3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-san-joaquin-veterans-memorial-hall-mobile-pantry-m24-0900",
+      "seriesSlug": "add-san-joaquin-veterans-memorial-hall-mobile-pantry",
+      "title": "San Joaquin Veterans Memorial Hall - Mobile Pantry & Neighborhood Market — Free Food",
+      "description": "Free food at San Joaquin Veterans Memorial Hall - Mobile Pantry & Neighborhood Market. Schedule: 1st Wed & 3rd Wed 9 AM–12 PM; 2nd Thu 9 AM–12 PM. Call (559) 237-3663 ext. 1108 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "San Joaquin Veterans Memorial Hall - Mobile Pantry & Neighborhood Market",
+      "address": "22001 W. Manning Ave, San Joaquin, CA 93660",
+      "lat": 36.60287,
+      "lng": -120.188505,
+      "category": "food-assistance",
+      "sourceOrg": "San Joaquin Veterans Memorial Hall - Mobile Pantry & Neighborhood Market",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "1st Wed & 3rd Wed 9 AM–12 PM; 2nd Thu 9 AM–12 PM",
+      "start": "2026-10-08T09:00",
+      "end": "2026-10-08T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "2:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-salvation-army-san-joaquin-usda-w15-0900",
+      "seriesSlug": "add-the-salvation-army-san-joaquin-usda",
+      "title": "The Salvation Army San Joaquin - USDA — Free Food",
+      "description": "Free food at The Salvation Army San Joaquin - USDA. Schedule: Mon, Fri 9 AM–11 AM. Call 559-693-2970 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Salvation Army San Joaquin - USDA",
+      "address": "21962 Railroad Ave, San Joaquin, CA 93660",
+      "lat": 36.604051,
+      "lng": -120.186052,
+      "category": "food-assistance",
+      "sourceOrg": "The Salvation Army San Joaquin - USDA",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "Mon, Fri 9 AM–11 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-annadale-baptist-church-m36-0900",
+      "seriesSlug": "add-annadale-baptist-church",
+      "title": "Annadale Baptist Church — Free Food",
+      "description": "Free food at Annadale Baptist Church. Schedule: 3rd Sat 9 AM–11 AM. Call (559) 237-3663 ext. 1108 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Annadale Baptist Church",
+      "address": "1511 14th St, Sanger, CA 93657",
+      "lat": 36.69637,
+      "lng": -119.55764,
+      "category": "food-assistance",
+      "sourceOrg": "Annadale Baptist Church",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Sat 9 AM–11 AM",
+      "start": "2026-10-10T09:00",
+      "end": "2026-10-10T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-eoc-sanger-m21-0900",
+      "seriesSlug": "add-eoc-sanger",
+      "title": "EOC - Sanger — Free Food",
+      "description": "Free food at EOC - Sanger. Schedule: 2nd Mon 9 AM–11 AM. Call 559-263-1029 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "EOC - Sanger",
+      "address": "JFK Park North and Faller Ave, Sanger, CA 93657",
+      "lat": 36.709125,
+      "lng": -119.549392,
+      "category": "food-assistance",
+      "sourceOrg": "EOC - Sanger",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "2nd Mon 9 AM–11 AM",
+      "start": "2026-10-05T09:00",
+      "end": "2026-10-05T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "2:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-family-worship-center-m36-1000",
+      "seriesSlug": "add-family-worship-center",
+      "title": "Family Worship Center — Free Food",
+      "description": "Free food at Family Worship Center. Schedule: 3rd Sat 10 AM–12 PM. Call 559-618-2330 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Family Worship Center",
+      "address": "1307 I St, Sanger, CA 93657",
+      "lat": 36.697153,
+      "lng": -119.549022,
+      "category": "food-assistance",
+      "sourceOrg": "Family Worship Center",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Sat 10 AM–12 PM",
+      "start": "2026-10-10T10:00",
+      "end": "2026-10-10T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-father-hannibal-house-w345-1000",
+      "seriesSlug": "add-father-hannibal-house",
+      "title": "Father Hannibal House — Free Food",
+      "description": "Free food at Father Hannibal House. Schedule: Wed–Fri 10 AM–1 PM. Call 559-875-0564 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Father Hannibal House",
+      "address": "1501 14th St, Sanger, CA 93657",
+      "lat": 36.696363,
+      "lng": -119.556852,
+      "category": "food-assistance",
+      "sourceOrg": "Father Hannibal House",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "Wed–Fri 10 AM–1 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-hope-sanger-m43-1000",
+      "seriesSlug": "add-hope-sanger",
+      "title": "Hope Sanger — Free Food",
+      "description": "Free food at Hope Sanger. Schedule: 4th Wed 10 AM–1 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Hope Sanger",
+      "address": "1348 Church Ave, Sanger, CA 93657",
+      "lat": 36.71337,
+      "lng": -119.5577,
+      "category": "food-assistance",
+      "sourceOrg": "Hope Sanger",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "4th Wed 10 AM–1 PM",
+      "start": "2026-10-07T10:00",
+      "end": "2026-10-07T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "4:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-set-free-sanger-m35-0900",
+      "seriesSlug": "add-set-free-sanger",
+      "title": "Set Free Sanger — Free Food",
+      "description": "Free food at Set Free Sanger. Schedule: 3rd Fri 9 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Set Free Sanger",
+      "address": "615 Academy Ave, Sanger, CA 93657",
+      "lat": 36.707199,
+      "lng": -119.556408,
+      "category": "food-assistance",
+      "sourceOrg": "Set Free Sanger",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Fri 9 AM–11 AM",
+      "start": "2026-10-09T09:00",
+      "end": "2026-10-09T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-worship-center-m46-0900",
+      "seriesSlug": "add-the-worship-center",
+      "title": "The Worship Center — Free Food",
+      "description": "Free food at The Worship Center. Schedule: 4th Sat 9 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Worship Center",
+      "address": "702 K St, Sanger, CA 93657",
+      "lat": 36.706753,
+      "lng": -119.552784,
+      "category": "food-assistance",
+      "sourceOrg": "The Worship Center",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "4th Sat 9 AM–11 AM",
+      "start": "2026-10-10T09:00",
+      "end": "2026-10-10T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-ministerio-jordan-nueva-vision-m2444-1430",
+      "seriesSlug": "add-ministerio-jordan-nueva-vision",
+      "title": "Ministerio Jordan Nueva Vision — Free Food",
+      "description": "Free food at Ministerio Jordan Nueva Vision. Schedule: 2nd Thu & 4th Thu 2:30 PM–4:30 PM. Call 559-546-9671 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Ministerio Jordan Nueva Vision",
+      "address": "2150 E Front St, Selma, CA 93662",
+      "lat": 36.570229,
+      "lng": -119.614784,
+      "category": "food-assistance",
+      "sourceOrg": "Ministerio Jordan Nueva Vision",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "2nd Thu & 4th Thu 2:30 PM–4:30 PM",
+      "start": "2026-10-08T14:30",
+      "end": "2026-10-08T16:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "2:4,4:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-pastores-en-oracion-w135-1430",
+      "seriesSlug": "add-pastores-en-oracion",
+      "title": "Pastores En Oracion — Free Food",
+      "description": "Free food at Pastores En Oracion. Schedule: Mon, Wed, Fri 2:30 PM–4:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Pastores En Oracion",
+      "address": "2026 Arrants St, Selma, CA 93662",
+      "lat": 36.570957,
+      "lng": -119.611627,
+      "category": "food-assistance",
+      "sourceOrg": "Pastores En Oracion",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "Mon, Wed, Fri 2:30 PM–4:30 PM",
+      "start": "2026-09-28T14:30",
+      "end": "2026-09-28T16:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-selma-enhancement-usda-m42-0830",
+      "seriesSlug": "add-selma-enhancement-usda",
+      "title": "Selma Enhancement - USDA — Free Food",
+      "description": "Free food at Selma Enhancement - USDA. Schedule: 4th Tue 8:30 AM–11 AM. Call 559-891-2239 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Selma Enhancement - USDA",
+      "address": "2301 Selma St, Selma, CA 93662",
+      "lat": 36.567955,
+      "lng": -119.609787,
+      "category": "food-assistance",
+      "sourceOrg": "Selma Enhancement - USDA",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "4th Tue 8:30 AM–11 AM",
+      "start": "2026-10-06T08:30",
+      "end": "2026-10-06T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "4:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-selma-southern-baptist-church-ipc-selma-m15-1500",
+      "seriesSlug": "add-selma-southern-baptist-church-ipc-selma",
+      "title": "Selma Southern Baptist Church - IPC Selma — Free Food",
+      "description": "Free food at Selma Southern Baptist Church - IPC Selma. Schedule: 1st Fri 3 PM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Selma Southern Baptist Church - IPC Selma",
+      "address": "1606 Mill St, Selma, CA 93662",
+      "lat": 36.566868,
+      "lng": -119.608237,
+      "category": "food-assistance",
+      "sourceOrg": "Selma Southern Baptist Church - IPC Selma",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "1st Fri 3 PM–5 PM",
+      "start": "2026-10-09T15:00",
+      "end": "2026-10-09T17:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "1:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-salvation-army-selma-w2-1030",
+      "seriesSlug": "add-the-salvation-army-selma",
+      "title": "The Salvation Army - Selma — Free Food",
+      "description": "Free food at The Salvation Army - Selma. Schedule: Tue 10:30 AM–12:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Salvation Army - Selma",
+      "address": "1606 Mill St, Selma, CA 93662",
+      "lat": 36.566868,
+      "lng": -119.608237,
+      "category": "food-assistance",
+      "sourceOrg": "The Salvation Army - Selma",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "Tue 10:30 AM–12:30 PM",
+      "start": "2026-09-28T10:30",
+      "end": "2026-09-28T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-cold-springs-rancheria-m35-1000",
+      "seriesSlug": "add-cold-springs-rancheria",
+      "title": "Cold Springs Rancheria — Free Food",
+      "description": "Free food at Cold Springs Rancheria. Schedule: 3rd Fri 10 AM–12 PM. Call 559-217-1738 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Cold Springs Rancheria",
+      "address": "32861 Sycamore Rd, Tollhouse, CA 93667",
+      "lat": 36.970429,
+      "lng": -119.326465,
+      "category": "food-assistance",
+      "sourceOrg": "Cold Springs Rancheria",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Fri 10 AM–12 PM",
+      "start": "2026-10-09T10:00",
+      "end": "2026-10-09T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-paul-catholic-church-m12-0900",
+      "seriesSlug": "add-st-paul-catholic-church",
+      "title": "St. Paul Catholic Church — Free Food",
+      "description": "Free food at St. Paul Catholic Church. Schedule: 1st Tue 9 AM–11 AM. Call (559) 237-3663 ext. 1108 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Paul Catholic Church",
+      "address": "25592 Doughty Ave, Tranquillity, CA 93668",
+      "lat": 36.64703,
+      "lng": -120.25585,
+      "category": "food-assistance",
+      "sourceOrg": "St. Paul Catholic Church",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "1st Tue 9 AM–11 AM",
+      "start": "2026-10-06T09:00",
+      "end": "2026-10-06T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "1:2"
+    }
+  ]
+}

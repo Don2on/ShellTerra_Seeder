@@ -1,0 +1,393 @@
+{
+  "sites": [
+    {
+      "name": "CASS - Christian Association for Social Services Pantry",
+      "org": "Christian Association for Social Services (CASS)",
+      "address": "5814 Venice Blvd, Los Angeles, CA 90019",
+      "phone": "(310) 529-1921",
+      "website": "https://www.wsfb.org/our-services/need-food-help/",
+      "eligibility": "None",
+      "category": "pantry",
+      "confidence": "high",
+      "note": "Westside Food Bank partner agency; bi-weekly on 2nd and 4th Saturdays.",
+      "schedules": [
+        { "freq": "monthly", "patterns": ["second saturday", "fourth saturday"], "open": "09:30", "close": "12:30", "note": "" }
+      ]
+    },
+    {
+      "name": "Cochran Ave Baptist Church Pantry",
+      "org": "Cochran Avenue Baptist Church",
+      "address": "1304 S. Cochran Ave, Los Angeles, CA 90019",
+      "phone": "(323) 938-0141",
+      "website": "https://www.wsfb.org/our-services/need-food-help/",
+      "eligibility": "None",
+      "category": "church",
+      "confidence": "high",
+      "note": "Westside Food Bank partner agency.",
+      "schedules": [
+        { "freq": "weekly", "days": ["tue"], "open": "11:00", "close": "12:00", "note": "" }
+      ]
+    },
+    {
+      "name": "Church on Pearl Pantry",
+      "org": "Church on Pearl",
+      "address": "1520 Pearl St, Santa Monica, CA 90405",
+      "phone": "(310) 310-1384",
+      "website": "https://www.wsfb.org/our-services/need-food-help/",
+      "eligibility": "None",
+      "category": "pantry",
+      "confidence": "high",
+      "note": "Westside Food Bank partner agency.",
+      "schedules": [
+        { "freq": "weekly", "days": ["wed"], "open": "14:30", "close": "17:30", "note": "" }
+      ]
+    },
+    {
+      "name": "Inglewood Community Table",
+      "org": "Inglewood Community Table",
+      "address": "420 E Ellis St, Inglewood, CA 90302",
+      "phone": "(310) 259-0763",
+      "website": "https://www.wsfb.org/our-services/need-food-help/",
+      "eligibility": "None",
+      "category": "pantry",
+      "confidence": "high",
+      "note": "Westside Food Bank partner agency.",
+      "schedules": [
+        { "freq": "weekly", "days": ["tue"], "open": "13:30", "close": "15:00", "note": "" }
+      ]
+    },
+    {
+      "name": "Mar Vista Family Center Pantry",
+      "org": "Mar Vista Family Center",
+      "address": "5075 S. Slauson Ave, Culver City, CA 90230",
+      "phone": "(310) 391-7366",
+      "website": "https://www.wsfb.org/our-services/need-food-help/",
+      "eligibility": "None",
+      "category": "pantry",
+      "confidence": "high",
+      "note": "Westside Food Bank partner agency.",
+      "schedules": [
+        { "freq": "weekly", "days": ["wed"], "open": "08:30", "close": "09:30", "note": "" }
+      ]
+    },
+    {
+      "name": "Mt. Olive Lutheran Church Pantry",
+      "org": "Mt. Olive Lutheran Church",
+      "address": "1343 Ocean Park Blvd, Santa Monica, CA 90405",
+      "phone": "(310) 452-1116",
+      "website": "https://www.wsfb.org/our-services/need-food-help/",
+      "eligibility": "None",
+      "category": "church",
+      "confidence": "high",
+      "note": "Westside Food Bank partner agency; website lists broad daily access hours (call ahead).",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon","tue","wed","thu","fri","sat","sun"], "open": "07:00", "close": "23:00", "note": "Call ahead to confirm" }
+      ]
+    },
+    {
+      "name": "St. Augustine's S.A.V.E.S. Food Pantry",
+      "org": "St. Augustine Catholic Church",
+      "address": "3850 Jasmine Ave, Culver City, CA 90232",
+      "phone": "(310) 838-2702",
+      "website": "https://www.wsfb.org/our-services/need-food-help/",
+      "eligibility": "None",
+      "category": "church",
+      "confidence": "high",
+      "note": "Westside Food Bank partner agency.",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon","wed","fri"], "open": "09:00", "close": "11:30", "note": "" }
+      ]
+    },
+    {
+      "name": "St. Robert's Center",
+      "org": "St. Robert Bellarmine Catholic Church",
+      "address": "211 3rd Ave, Venice, CA 90291",
+      "phone": "(310) 392-8701",
+      "website": "https://www.wsfb.org/our-services/need-food-help/",
+      "eligibility": "None",
+      "category": "church",
+      "confidence": "high",
+      "note": "Westside Food Bank partner agency.",
+      "schedules": [
+        { "freq": "weekly", "days": ["sat"], "open": "08:30", "close": "11:00", "note": "" }
+      ]
+    },
+    {
+      "name": "Step Up on Second",
+      "org": "Step Up",
+      "address": "1328 2nd St, Santa Monica, CA 90401",
+      "phone": "(310) 576-1308",
+      "website": "https://www.wsfb.org/our-services/need-food-help/",
+      "eligibility": "None",
+      "category": "pantry",
+      "confidence": "high",
+      "note": "Westside Food Bank partner agency.",
+      "schedules": [
+        { "freq": "weekly", "days": ["tue","wed","thu"], "open": "12:00", "close": "14:00", "note": "" },
+        { "freq": "weekly", "days": ["fri"], "open": "11:00", "close": "14:00", "note": "" }
+      ]
+    },
+    {
+      "name": "YMCA - Collins & Katz Family Pantry",
+      "org": "Collins & Katz Family YMCA",
+      "address": "1466 S. Westgate Ave, Los Angeles, CA 90025",
+      "phone": "(310) 477-1511",
+      "website": "https://www.wsfb.org/our-services/need-food-help/",
+      "eligibility": "None",
+      "category": "pantry",
+      "confidence": "high",
+      "note": "Westside Food Bank partner agency (West LA).",
+      "schedules": [
+        { "freq": "weekly", "days": ["thu"], "open": "09:00", "close": "11:00", "note": "" }
+      ]
+    },
+    {
+      "name": "YMCA - Culver-Palms Pantry",
+      "org": "Culver-Palms Family YMCA",
+      "address": "4500 Sepulveda Blvd, Culver City, CA 90230",
+      "phone": "(310) 390-3601",
+      "website": "https://www.wsfb.org/our-services/need-food-help/",
+      "eligibility": "None",
+      "category": "pantry",
+      "confidence": "high",
+      "note": "Westside Food Bank partner agency.",
+      "schedules": [
+        { "freq": "weekly", "days": ["thu"], "open": "11:00", "close": "14:00", "note": "" }
+      ]
+    },
+    {
+      "name": "Westside Food Bank Mobile Pantry - Venice Family Clinic",
+      "org": "Westside Food Bank",
+      "address": "4700 Inglewood Blvd, Ste 102, Culver City, CA 90230",
+      "phone": "(310) 828-6016",
+      "website": "https://www.wsfb.org/our-services/need-food-help/",
+      "eligibility": "None",
+      "category": "mobile",
+      "confidence": "high",
+      "note": "WSFB mobile distribution outside Venice Family Clinic (MDS 1).",
+      "schedules": [
+        { "freq": "weekly", "days": ["tue"], "open": "09:00", "close": "10:00", "note": "" }
+      ]
+    },
+    {
+      "name": "Westside Food Bank Mobile Pantry - Virginia Ave Park",
+      "org": "Westside Food Bank",
+      "address": "2200 Virginia Ave, Santa Monica, CA 90404",
+      "phone": "(310) 828-6016",
+      "website": "https://www.wsfb.org/our-services/need-food-help/",
+      "eligibility": "None",
+      "category": "mobile",
+      "confidence": "high",
+      "note": "WSFB mobile distribution.",
+      "schedules": [
+        { "freq": "weekly", "days": ["thu"], "open": "11:00", "close": "12:00", "note": "" }
+      ]
+    },
+    {
+      "name": "Westside Food Bank Mobile Pantry - Farragut Ave Elementary",
+      "org": "Westside Food Bank",
+      "address": "10820 Farragut Dr, Culver City, CA 90230",
+      "phone": "(310) 828-6016",
+      "website": "https://www.wsfb.org/our-services/need-food-help/",
+      "eligibility": "None",
+      "category": "mobile",
+      "confidence": "high",
+      "note": "WSFB mobile distribution in school parking lot.",
+      "schedules": [
+        { "freq": "weekly", "days": ["thu"], "open": "15:00", "close": "16:00", "note": "" }
+      ]
+    },
+    {
+      "name": "Westside Food Bank Mobile Pantry - West LA Civic Center",
+      "org": "Westside Food Bank",
+      "address": "1645 Corinth Ave, Los Angeles, CA 90025",
+      "phone": "(310) 828-6016",
+      "website": "https://www.wsfb.org/our-services/need-food-help/",
+      "eligibility": "None",
+      "category": "mobile",
+      "confidence": "high",
+      "note": "WSFB mobile distribution at Iowa & Corinth parking lot.",
+      "schedules": [
+        { "freq": "weekly", "days": ["fri"], "open": "15:30", "close": "16:30", "note": "" }
+      ]
+    },
+    {
+      "name": "Harbor Interfaith Services - FISH Food Pantry",
+      "org": "Harbor Interfaith Services",
+      "address": "670 W. 9th St, San Pedro, CA 90731",
+      "phone": "(310) 831-9123",
+      "website": "https://www.harborinterfaith.org/",
+      "eligibility": "None",
+      "category": "pantry",
+      "confidence": "high",
+      "note": "Family Resource Center provides a 3-day food supply; office hours Mon-Fri 8:30a-5:30p, call for pantry pickup.",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon","tue","wed","thu","fri"], "open": "08:30", "close": "17:30", "note": "Call ahead" }
+      ]
+    },
+    {
+      "name": "Beacon Light Mission",
+      "org": "Beacon Light Mission",
+      "address": "525 N. Broad Ave, Wilmington, CA 90744",
+      "phone": "(310) 830-7063",
+      "website": "",
+      "eligibility": "None",
+      "category": "hot-meal",
+      "confidence": "high",
+      "note": "Emergency food and meals; open Mon-Fri 9a-7p, Sat-Sun 4p-7p.",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon","tue","wed","thu","fri"], "open": "09:00", "close": "19:00", "note": "" },
+        { "freq": "weekly", "days": ["sat","sun"], "open": "16:00", "close": "19:00", "note": "" }
+      ]
+    },
+    {
+      "name": "Toberman Neighborhood Center Food Pantry",
+      "org": "Toberman Neighborhood Center",
+      "address": "131 N Grand Ave, San Pedro, CA 90731",
+      "phone": "(310) 832-1145",
+      "website": "https://www.toberman.org/food-pantry",
+      "eligibility": "None",
+      "category": "pantry",
+      "confidence": "high",
+      "note": "Weekly grocery distribution Mon/Tue/Thu/Fri mornings; also daily grab-and-go meals 3:30-5:00p weekdays.",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon","tue","thu","fri"], "open": "08:00", "close": "11:30", "note": "" }
+      ]
+    },
+    {
+      "name": "St. Margaret's Center Food Pantry",
+      "org": "Catholic Charities of Los Angeles",
+      "address": "10217 S. Inglewood Ave, Lennox, CA 90304",
+      "phone": "(310) 672-2208",
+      "website": "",
+      "eligibility": "Income-qualified households",
+      "category": "pantry",
+      "confidence": "high",
+      "note": "NOTE: existing list has St. Margaret's Center at Inglewood 90304 (same org). Pantry by appointment Tue-Fri 1-4pm. Verify not a duplicate before seeding.",
+      "schedules": [
+        { "freq": "weekly", "days": ["tue","wed","thu","fri"], "open": "13:00", "close": "16:00", "note": "By appointment" }
+      ]
+    },
+    {
+      "name": "Harbor City Food Pantry",
+      "org": "Harbor City Food Pantry",
+      "address": "1034 252nd St, Harbor City, CA 90710",
+      "phone": "",
+      "website": "https://www.facebook.com/harborcityfoodpantry/",
+      "eligibility": "None",
+      "category": "pantry",
+      "confidence": "high",
+      "note": "Family-run nonprofit, first come first served.",
+      "schedules": [
+        { "freq": "weekly", "days": ["sat"], "open": "11:00", "close": "13:00", "note": "" }
+      ]
+    },
+    {
+      "name": "Wayside United Methodist Church Food Pantry",
+      "org": "Wayside United Methodist Church",
+      "address": "25904 Cayuga Ave, Lomita, CA 90717",
+      "phone": "(310) 326-4541",
+      "website": "",
+      "eligibility": "None",
+      "category": "church",
+      "confidence": "medium",
+      "note": "Emergency food for Harbor City, Lomita, San Pedro, Torrance, Wilmington residents. Exact pantry hours unconfirmed - call ahead.",
+      "schedules": []
+    },
+    {
+      "name": "St. Margaret Mary Alacoque Food Pantry",
+      "org": "St. Margaret Mary Alacoque Catholic Church",
+      "address": "25511 Eshelman Ave, Lomita, CA 90717",
+      "phone": "(310) 326-3364",
+      "website": "https://smmlomita.org/",
+      "eligibility": "None",
+      "category": "church",
+      "confidence": "medium",
+      "note": "Food pantry open during parish office hours Mon-Fri 8a-5p per findhelp; recommend calling to confirm distribution window.",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon","tue","wed","thu","fri"], "open": "08:00", "close": "17:00", "note": "Call ahead" }
+      ]
+    },
+    {
+      "name": "Mary Star of the Sea - St. Vincent de Paul Food Pantry",
+      "org": "Mary Star of the Sea Catholic Church",
+      "address": "853 W. 7th St, San Pedro, CA 90731",
+      "phone": "(424) 536-0296",
+      "website": "https://marystar.org/outreach-ministries",
+      "eligibility": "None",
+      "category": "church",
+      "confidence": "medium",
+      "note": "St. Vincent de Paul conference food assistance; schedule not clearly confirmed online - call ahead.",
+      "schedules": []
+    },
+    {
+      "name": "House of Yahweh South Bay Outreach Center",
+      "org": "House of Yahweh",
+      "address": "4046 Marine Ave, Lawndale, CA 90260",
+      "phone": "(310) 675-6412",
+      "website": "https://www.hoy-southbay.org/",
+      "eligibility": "None",
+      "category": "pantry",
+      "confidence": "high",
+      "note": "Walk-in emergency food serving South Bay; weekly distributions. Also lunch Mon-Fri 10a-2p.",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon","tue","wed","thu","fri"], "open": "09:00", "close": "16:00", "note": "" },
+        { "freq": "weekly", "days": ["sat"], "open": "13:45", "close": "14:45", "note": "" }
+      ]
+    },
+    {
+      "name": "Love the City Center Food Pantry",
+      "org": "Love the City Center",
+      "address": "3979 Tilden Ave, Culver City, CA 90232",
+      "phone": "",
+      "website": "https://www.lovethecitycenter.org/",
+      "eligibility": "None",
+      "category": "pantry",
+      "confidence": "high",
+      "note": "Weekly free food giveaway for low-income community.",
+      "schedules": [
+        { "freq": "weekly", "days": ["fri"], "open": "11:00", "close": "13:00", "note": "" }
+      ]
+    },
+    {
+      "name": "The Peace Project - Culver City Shares",
+      "org": "The Peace Project (The Whole 9)",
+      "address": "3830 Main St, Culver City, CA 90232",
+      "phone": "(310) 836-4600",
+      "website": "https://www.thepeaceproject.com/culver-city-shares",
+      "eligibility": "None",
+      "category": "pantry",
+      "confidence": "medium",
+      "note": "Weekly food distribution; start time ~10am Wednesdays, end time unconfirmed.",
+      "schedules": [
+        { "freq": "weekly", "days": ["wed"], "open": "10:00", "close": "12:00", "note": "Start confirmed 10a; end approximate" }
+      ]
+    },
+    {
+      "name": "City of Inglewood Senior Food Distribution",
+      "org": "City of Inglewood",
+      "address": "400 W Beach Ave, Inglewood, CA 90302",
+      "phone": "(310) 412-5111",
+      "website": "https://www.cityofinglewood.org/795/Food-Distribution-Program",
+      "eligibility": "Seniors 60+",
+      "category": "senior",
+      "confidence": "high",
+      "note": "At Rogers Park; monthly on 4th Tuesday, bring CA ID and proof of income.",
+      "schedules": [
+        { "freq": "monthly", "patterns": ["fourth tuesday"], "open": "13:00", "close": "16:00", "note": "" }
+      ]
+    },
+    {
+      "name": "C.A.S.E. Pantry El Segundo",
+      "org": "Christian Assistance Serving El Segundo (C.A.S.E.)",
+      "address": "305 Richmond St, El Segundo, CA 90245",
+      "phone": "",
+      "website": "https://casepantryelsegundo.org/",
+      "eligibility": "El Segundo residents (6+ months), screened and accepted",
+      "category": "pantry",
+      "confidence": "medium",
+      "note": "Pantry location disclosed only to accepted clients; 305 Richmond St is the donation drop-off / contact address. Open twice monthly; days/hours given after screening.",
+      "schedules": []
+    }
+  ]
+}

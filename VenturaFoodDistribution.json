@@ -1,0 +1,3998 @@
+{
+  "_meta": {
+    "topic": "Net-new Ventura County food distributions",
+    "generated": "2026-10-05",
+    "source": "Research supplementing shell PENDING-Ventura; raw ./b13-Ventura-raw.json."
+  },
+  "_deferred": {
+    "add-crossroads-community-church": {
+      "title": "Crossroads Community Church",
+      "status": "Thu 4:30pm until food runs out Phone: 805-484-8586.",
+      "address": "161 Plaza La Vista, Camarillo, CA 93010",
+      "lat": 34.214856,
+      "lng": -119.059757,
+      "phone": "805-484-8586",
+      "eligibility": "",
+      "sourceUrl": "https://foodshare.com/findhelp"
+    },
+    "add-fillmore-church-of-christ": {
+      "title": "Fillmore Church of Christ",
+      "status": "Mon 2:15pm until food runs out Phone: 805-218-6004.",
+      "address": "219 Mountain View, Fillmore, CA 93015",
+      "lat": 34.397899,
+      "lng": -118.908705,
+      "phone": "805-218-6004",
+      "eligibility": "",
+      "sourceUrl": "https://foodshare.com/findhelp"
+    }
+  },
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "add-csu-channel-islands-basic-needs-students-w123-1300",
+      "seriesSlug": "add-csu-channel-islands-basic-needs-students",
+      "title": "CSU Channel Islands Basic Needs (students) — Free Food",
+      "description": "Free food at CSU Channel Islands Basic Needs (students). Schedule: Mon–Wed 1 PM–4 PM. Call 805-437-2067 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "CSU Channel Islands Basic Needs (students)",
+      "address": "57 Ventura St, Camarillo, CA 93012",
+      "lat": 34.16151,
+      "lng": -119.044918,
+      "category": "food-assistance",
+      "sourceOrg": "CSU Channel Islands Basic Needs (students)",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Mon–Wed 1 PM–4 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-camarillo-community-center-pleasant-valley-rec-p-w5-1100",
+      "seriesSlug": "add-camarillo-community-center-pleasant-valley-rec-p",
+      "title": "Camarillo Community Center - Pleasant Valley Rec & Park — Free Food",
+      "description": "Free food at Camarillo Community Center - Pleasant Valley Rec & Park. Schedule: Fri 11 AM–12:30 PM. Call (805) 482-1996 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Camarillo Community Center - Pleasant Valley Rec & Park",
+      "address": "1605 E. Burnley St, Camarillo, CA 93010",
+      "lat": 34.225437,
+      "lng": -119.049623,
+      "category": "food-assistance",
+      "sourceOrg": "Camarillo Community Center - Pleasant Valley Rec & Park",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Fri 11 AM–12:30 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-camarillo-community-church-w5-1300",
+      "seriesSlug": "add-camarillo-community-church",
+      "title": "Camarillo Community Church — Free Food",
+      "description": "Free food at Camarillo Community Church. Schedule: Fri 1 PM–5 PM. Call 805-482-2657 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Camarillo Community Church",
+      "address": "379 Mobil Ave, Camarillo, CA 93010",
+      "lat": 34.220164,
+      "lng": -119.043187,
+      "category": "food-assistance",
+      "sourceOrg": "Camarillo Community Church",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Fri 1 PM–5 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-many-mansions-rancho-sierra-w2-1100",
+      "seriesSlug": "add-many-mansions-rancho-sierra",
+      "title": "Many Mansions - Rancho Sierra — Free Food",
+      "description": "Free food at Many Mansions - Rancho Sierra. Schedule: Tue 11 AM–12 PM. Call 805-386-3235 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Many Mansions - Rancho Sierra",
+      "address": "1724 Lewis Road, Camarillo, CA 93012",
+      "lat": 34.181376,
+      "lng": -119.043761,
+      "category": "food-assistance",
+      "sourceOrg": "Many Mansions - Rancho Sierra",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Tue 11 AM–12 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-mira-vista-apartments-m34-1330",
+      "seriesSlug": "add-mira-vista-apartments",
+      "title": "Mira Vista Apartments — Free Food",
+      "description": "Free food at Mira Vista Apartments. Schedule: 3rd Thu 1:30 PM–2:30 PM. Call 805-983-7100 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Mira Vista Apartments",
+      "address": "2740 E. Ponderosa Dr, Camarillo, CA 93010",
+      "lat": 34.226928,
+      "lng": -119.033319,
+      "category": "food-assistance",
+      "sourceOrg": "Mira Vista Apartments",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "3rd Thu 1:30 PM–2:30 PM",
+      "start": "2026-10-08T13:30",
+      "end": "2026-10-08T14:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-pleasant-valley-senior-center-m13-0900",
+      "seriesSlug": "add-pleasant-valley-senior-center",
+      "title": "Pleasant Valley Senior Center — Free Food",
+      "description": "Free food at Pleasant Valley Senior Center. Schedule: 1st Wed 9 AM–11 AM. Call 805-983-7100 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Pleasant Valley Senior Center",
+      "address": "1605 Burnley St, Camarillo, CA 93010",
+      "lat": 34.226318,
+      "lng": -119.049295,
+      "category": "food-assistance",
+      "sourceOrg": "Pleasant Valley Senior Center",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "1st Wed 9 AM–11 AM",
+      "start": "2026-10-07T09:00",
+      "end": "2026-10-07T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "1:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-project-hope-st-columba-s-episcopal-church-m142444-1700",
+      "seriesSlug": "add-project-hope-st-columba-s-episcopal-church",
+      "title": "Project Hope - St. Columba's Episcopal Church — Free Food",
+      "description": "Free food at Project Hope - St. Columba's Episcopal Church. Schedule: 1st Thu & 2nd Thu & 4th Thu 5 PM–6 PM; 2nd Thu & 4th Thu 9 AM–10 AM. Call 805-482-8831 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Project Hope - St. Columba's Episcopal Church",
+      "address": "1251 Las Posas Rd, Camarillo, CA 93010",
+      "lat": 34.233557,
+      "lng": -119.055326,
+      "category": "food-assistance",
+      "sourceOrg": "Project Hope - St. Columba's Episcopal Church",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "1st Thu & 2nd Thu & 4th Thu 5 PM–6 PM; 2nd Thu & 4th Thu 9 AM–10 AM",
+      "start": "2026-10-08T17:00",
+      "end": "2026-10-08T18:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 2,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4,2:4,4:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-project-hope-st-columba-s-episcopal-church-m2444-0900",
+      "seriesSlug": "add-project-hope-st-columba-s-episcopal-church",
+      "title": "Project Hope - St. Columba's Episcopal Church — Free Food",
+      "description": "Free food at Project Hope - St. Columba's Episcopal Church. Schedule: 1st Thu & 2nd Thu & 4th Thu 5 PM–6 PM; 2nd Thu & 4th Thu 9 AM–10 AM. Call 805-482-8831 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Project Hope - St. Columba's Episcopal Church",
+      "address": "1251 Las Posas Rd, Camarillo, CA 93010",
+      "lat": 34.233557,
+      "lng": -119.055326,
+      "category": "food-assistance",
+      "sourceOrg": "Project Hope - St. Columba's Episcopal Church",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "1st Thu & 2nd Thu & 4th Thu 5 PM–6 PM; 2nd Thu & 4th Thu 9 AM–10 AM",
+      "start": "2026-10-08T09:00",
+      "end": "2026-10-08T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "2:4,4:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-seventh-day-adventist-church-camarillo-w6-1400",
+      "seriesSlug": "add-seventh-day-adventist-church-camarillo",
+      "title": "Seventh Day Adventist Church - Camarillo — Free Food",
+      "description": "Free food at Seventh Day Adventist Church - Camarillo. Schedule: Sat 2 PM–3:30 PM. Call 805-428-4632 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Seventh Day Adventist Church - Camarillo",
+      "address": "3975 E. Las Posas Rd, Camarillo, CA 93010",
+      "lat": 34.213013,
+      "lng": -119.069701,
+      "category": "food-assistance",
+      "sourceOrg": "Seventh Day Adventist Church - Camarillo",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Sat 2 PM–3:30 PM",
+      "start": "2026-09-28T14:00",
+      "end": "2026-09-28T15:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-mary-magdalen-church-w1-1530",
+      "seriesSlug": "add-st-mary-magdalen-church",
+      "title": "St. Mary Magdalen Church — Free Food",
+      "description": "Free food at St. Mary Magdalen Church. Schedule: Mon 3:30 PM–5 PM. Call 805-484-0532 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Mary Magdalen Church",
+      "address": "2532 Ventura Blvd, Camarillo, CA 93010",
+      "lat": 34.215091,
+      "lng": -119.035745,
+      "category": "food-assistance",
+      "sourceOrg": "St. Mary Magdalen Church",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Mon 3:30 PM–5 PM",
+      "start": "2026-09-28T15:30",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-colonia-village-tenant-association-m26-0900",
+      "seriesSlug": "add-colonia-village-tenant-association",
+      "title": "Colonia Village Tenant Association — Free Food",
+      "description": "Free food at Colonia Village Tenant Association. Schedule: 2nd Sat 9 AM–10 AM. Call 805-385-7574 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Colonia Village Tenant Association",
+      "address": "1500 Camino Del Sol, Oxnard, CA 93030",
+      "lat": 34.206029,
+      "lng": -119.163184,
+      "category": "food-assistance",
+      "sourceOrg": "Colonia Village Tenant Association",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "2nd Sat 9 AM–10 AM",
+      "start": "2026-10-10T09:00",
+      "end": "2026-10-10T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-first-baptist-church-el-rio-w3-1300",
+      "seriesSlug": "add-first-baptist-church-el-rio",
+      "title": "First Baptist Church El Rio — Free Food",
+      "description": "Free food at First Baptist Church El Rio. Schedule: Wed 1 PM–2 PM; Fri 5 PM–6 PM; Sun 12 PM–1 PM. Call 805-444-2427 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "First Baptist Church El Rio",
+      "address": "2857 Cortez St, Oxnard, CA 93036",
+      "lat": 34.235612,
+      "lng": -119.164562,
+      "category": "food-assistance",
+      "sourceOrg": "First Baptist Church El Rio",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Wed 1 PM–2 PM; Fri 5 PM–6 PM; Sun 12 PM–1 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-first-baptist-church-el-rio-w5-1700",
+      "seriesSlug": "add-first-baptist-church-el-rio",
+      "title": "First Baptist Church El Rio — Free Food",
+      "description": "Free food at First Baptist Church El Rio. Schedule: Wed 1 PM–2 PM; Fri 5 PM–6 PM; Sun 12 PM–1 PM. Call 805-444-2427 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "First Baptist Church El Rio",
+      "address": "2857 Cortez St, Oxnard, CA 93036",
+      "lat": 34.235612,
+      "lng": -119.164562,
+      "category": "food-assistance",
+      "sourceOrg": "First Baptist Church El Rio",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Wed 1 PM–2 PM; Fri 5 PM–6 PM; Sun 12 PM–1 PM",
+      "start": "2026-09-28T17:00",
+      "end": "2026-09-28T18:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-first-baptist-church-el-rio-w7-1200",
+      "seriesSlug": "add-first-baptist-church-el-rio",
+      "title": "First Baptist Church El Rio — Free Food",
+      "description": "Free food at First Baptist Church El Rio. Schedule: Wed 1 PM–2 PM; Fri 5 PM–6 PM; Sun 12 PM–1 PM. Call 805-444-2427 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "First Baptist Church El Rio",
+      "address": "2857 Cortez St, Oxnard, CA 93036",
+      "lat": 34.235612,
+      "lng": -119.164562,
+      "category": "food-assistance",
+      "sourceOrg": "First Baptist Church El Rio",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Wed 1 PM–2 PM; Fri 5 PM–6 PM; Sun 12 PM–1 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-rio-schools-kenney-st-m2242-1430",
+      "seriesSlug": "add-rio-schools-kenney-st",
+      "title": "Rio Schools (Kenney St) — Free Food",
+      "description": "Free food at Rio Schools (Kenney St). Schedule: 2nd Tue & 4th Tue 2:30 PM–3:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Rio Schools (Kenney St)",
+      "address": "1140 Kenney Street, Oxnard, CA 93036",
+      "lat": 34.230092,
+      "lng": -119.16144,
+      "category": "food-assistance",
+      "sourceOrg": "Rio Schools (Kenney St)",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "2nd Tue & 4th Tue 2:30 PM–3:30 PM",
+      "start": "2026-10-06T14:30",
+      "end": "2026-10-06T15:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 2
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "2:2,4:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-bardsdale-united-methodist-church-m1636-1200",
+      "seriesSlug": "add-bardsdale-united-methodist-church",
+      "title": "Bardsdale United Methodist Church — Free Food",
+      "description": "Free food at Bardsdale United Methodist Church. Schedule: 1st Sat & 3rd Sat 12 PM–2 PM. Call 805-524-2070 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Bardsdale United Methodist Church",
+      "address": "1498 Bardsdale Ave, Fillmore, CA 93015",
+      "lat": 34.371414,
+      "lng": -118.933037,
+      "category": "food-assistance",
+      "sourceOrg": "Bardsdale United Methodist Church",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "1st Sat & 3rd Sat 12 PM–2 PM",
+      "start": "2026-10-10T12:00",
+      "end": "2026-10-10T14:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "1:6,3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-fillmore-active-adult-center-m12-0900",
+      "seriesSlug": "add-fillmore-active-adult-center",
+      "title": "Fillmore Active Adult Center — Free Food",
+      "description": "Free food at Fillmore Active Adult Center. Schedule: 1st Tue 9 AM–11 AM; 3rd Wed 12 PM–1 PM. Call 805-983-7100 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Fillmore Active Adult Center",
+      "address": "533 Santa Clara Ave, Fillmore, CA 93015",
+      "lat": 34.398252,
+      "lng": -118.914811,
+      "category": "food-assistance",
+      "sourceOrg": "Fillmore Active Adult Center",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "1st Tue 9 AM–11 AM; 3rd Wed 12 PM–1 PM",
+      "start": "2026-10-06T09:00",
+      "end": "2026-10-06T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "1:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-fillmore-active-adult-center-m33-1200",
+      "seriesSlug": "add-fillmore-active-adult-center",
+      "title": "Fillmore Active Adult Center — Free Food",
+      "description": "Free food at Fillmore Active Adult Center. Schedule: 1st Tue 9 AM–11 AM; 3rd Wed 12 PM–1 PM. Call 805-983-7100 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Fillmore Active Adult Center",
+      "address": "533 Santa Clara Ave, Fillmore, CA 93015",
+      "lat": 34.398252,
+      "lng": -118.914811,
+      "category": "food-assistance",
+      "sourceOrg": "Fillmore Active Adult Center",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "1st Tue 9 AM–11 AM; 3rd Wed 12 PM–1 PM",
+      "start": "2026-10-07T12:00",
+      "end": "2026-10-07T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-fillmore-police-storefront-m233343-0800",
+      "seriesSlug": "add-fillmore-police-storefront",
+      "title": "Fillmore Police Storefront — Free Food",
+      "description": "Free food at Fillmore Police Storefront. Schedule: 2nd Wed & 3rd Wed & 4th Wed 8 AM–10 AM. Call 805-524-2982 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Fillmore Police Storefront",
+      "address": "642 Lemon Way, Fillmore, CA 93015",
+      "lat": 34.40416,
+      "lng": -118.925045,
+      "category": "food-assistance",
+      "sourceOrg": "Fillmore Police Storefront",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "2nd Wed & 3rd Wed & 4th Wed 8 AM–10 AM",
+      "start": "2026-10-07T08:00",
+      "end": "2026-10-07T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "2:3,3:3,4:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-one-step-a-la-vez-m2343-1500",
+      "seriesSlug": "add-one-step-a-la-vez",
+      "title": "One Step a la Vez — Free Food",
+      "description": "Free food at One Step a la Vez. Schedule: 2nd Wed & 4th Wed 3 PM–5 PM. Call 805-625-7067 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "One Step a la Vez",
+      "address": "421 Sespe Ave, Fillmore, CA 93015",
+      "lat": 34.401034,
+      "lng": -118.912252,
+      "category": "food-assistance",
+      "sourceOrg": "One Step a la Vez",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "2nd Wed & 4th Wed 3 PM–5 PM",
+      "start": "2026-10-07T15:00",
+      "end": "2026-10-07T17:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "2:3,4:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-salvation-army-at-rancho-sespe-apartments-m44-1200",
+      "seriesSlug": "add-salvation-army-at-rancho-sespe-apartments",
+      "title": "Salvation Army at Rancho Sespe Apartments — Free Food",
+      "description": "Free food at Salvation Army at Rancho Sespe Apartments. Schedule: 4th Thu 12 PM–1 PM. Call 805-521-1849 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salvation Army at Rancho Sespe Apartments",
+      "address": "2950 E Telegraph Road, Fillmore, CA 93015",
+      "lat": 34.4003,
+      "lng": -118.822157,
+      "category": "food-assistance",
+      "sourceOrg": "Salvation Army at Rancho Sespe Apartments",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "4th Thu 12 PM–1 PM",
+      "start": "2026-10-08T12:00",
+      "end": "2026-10-08T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "4:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-francis-of-assisi-church-svdp-m123252-1100",
+      "seriesSlug": "add-st-francis-of-assisi-church-svdp",
+      "title": "St. Francis of Assisi Church / SVDP — Free Food",
+      "description": "Free food at St. Francis of Assisi Church / SVDP. Schedule: 1st Tue & 3rd Tue & 5th Tue 11 AM–12 PM; 1st Fri 11:30 AM–12:30 PM. Call 805-524-1306 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Francis of Assisi Church / SVDP",
+      "address": "1048 W Ventura St, Fillmore, CA 93015",
+      "lat": 34.394198,
+      "lng": -118.926437,
+      "category": "food-assistance",
+      "sourceOrg": "St. Francis of Assisi Church / SVDP",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "1st Tue & 3rd Tue & 5th Tue 11 AM–12 PM; 1st Fri 11:30 AM–12:30 PM",
+      "start": "2026-10-06T11:00",
+      "end": "2026-10-06T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 2
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 2
+          },
+          {
+            "n": 5,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "1:2,3:2,5:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-francis-of-assisi-church-svdp-m15-1130",
+      "seriesSlug": "add-st-francis-of-assisi-church-svdp",
+      "title": "St. Francis of Assisi Church / SVDP — Free Food",
+      "description": "Free food at St. Francis of Assisi Church / SVDP. Schedule: 1st Tue & 3rd Tue & 5th Tue 11 AM–12 PM; 1st Fri 11:30 AM–12:30 PM. Call 805-524-1306 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Francis of Assisi Church / SVDP",
+      "address": "1048 W Ventura St, Fillmore, CA 93015",
+      "lat": 34.394198,
+      "lng": -118.926437,
+      "category": "food-assistance",
+      "sourceOrg": "St. Francis of Assisi Church / SVDP",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "1st Tue & 3rd Tue & 5th Tue 11 AM–12 PM; 1st Fri 11:30 AM–12:30 PM",
+      "start": "2026-10-09T11:30",
+      "end": "2026-10-09T12:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "1:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-united-parents-fillmore-w12345-1300",
+      "seriesSlug": "add-united-parents-fillmore",
+      "title": "United Parents - Fillmore — Free Food",
+      "description": "Free food at United Parents - Fillmore. Schedule: Mon–Fri 1 PM–7 PM; 2nd Sat 10 AM–12 PM. Call 805-384-1555 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "United Parents - Fillmore",
+      "address": "584 Ventura St, Fillmore, CA 93015",
+      "lat": 34.395302,
+      "lng": -118.914721,
+      "category": "food-assistance",
+      "sourceOrg": "United Parents - Fillmore",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Mon–Fri 1 PM–7 PM; 2nd Sat 10 AM–12 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T19:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-united-parents-fillmore-m26-1000",
+      "seriesSlug": "add-united-parents-fillmore",
+      "title": "United Parents - Fillmore — Free Food",
+      "description": "Free food at United Parents - Fillmore. Schedule: Mon–Fri 1 PM–7 PM; 2nd Sat 10 AM–12 PM. Call 805-384-1555 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "United Parents - Fillmore",
+      "address": "584 Ventura St, Fillmore, CA 93015",
+      "lat": 34.395302,
+      "lng": -118.914721,
+      "category": "food-assistance",
+      "sourceOrg": "United Parents - Fillmore",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Mon–Fri 1 PM–7 PM; 2nd Sat 10 AM–12 PM",
+      "start": "2026-10-10T10:00",
+      "end": "2026-10-10T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-catholic-charities-moorpark-w3-0930",
+      "seriesSlug": "add-catholic-charities-moorpark",
+      "title": "Catholic Charities Moorpark — Free Food",
+      "description": "Free food at Catholic Charities Moorpark. Schedule: Wed 9:30 AM–1 PM. Call 805-529-0720 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Catholic Charities Moorpark",
+      "address": "612B Spring Rd Ste 101, Moorpark, CA 93021",
+      "lat": 34.284299,
+      "lng": -118.874084,
+      "category": "food-assistance",
+      "sourceOrg": "Catholic Charities Moorpark",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Wed 9:30 AM–1 PM",
+      "start": "2026-09-28T09:30",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-faith-lutheran-church-w5-1400",
+      "seriesSlug": "add-faith-lutheran-church",
+      "title": "Faith Lutheran Church — Free Food",
+      "description": "Free food at Faith Lutheran Church. Schedule: Fri 2 PM–3 PM. Call 805-983-7100 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Faith Lutheran Church",
+      "address": "123 Park Ln, Moorpark, CA 93021",
+      "lat": 34.277896,
+      "lng": -118.885923,
+      "category": "food-assistance",
+      "sourceOrg": "Faith Lutheran Church",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Fri 2 PM–3 PM",
+      "start": "2026-09-28T14:00",
+      "end": "2026-09-28T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-grace-harvest-church-w6-1000",
+      "seriesSlug": "add-grace-harvest-church",
+      "title": "Grace Harvest Church — Free Food",
+      "description": "Free food at Grace Harvest Church. Schedule: Sat 10 AM–11 AM. Call 805-553-9501 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Grace Harvest Church",
+      "address": "4823 Mira Sol Dr, Moorpark, CA 93021",
+      "lat": 34.275757,
+      "lng": -118.904037,
+      "category": "food-assistance",
+      "sourceOrg": "Grace Harvest Church",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Sat 10 AM–11 AM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-ruben-castro-charities-at-moorpark-college-w6-1230",
+      "seriesSlug": "add-ruben-castro-charities-at-moorpark-college",
+      "title": "Ruben Castro Charities at Moorpark College — Free Food",
+      "description": "Free food at Ruben Castro Charities at Moorpark College. Schedule: Sat 12:30 PM–2:30 PM; Sun 12 PM–4 PM. Call 805-248-7113 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Ruben Castro Charities at Moorpark College",
+      "address": "7075 Campus Dr, Moorpark, CA 93021",
+      "lat": 34.301562,
+      "lng": -118.836407,
+      "category": "food-assistance",
+      "sourceOrg": "Ruben Castro Charities at Moorpark College",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Sat 12:30 PM–2:30 PM; Sun 12 PM–4 PM",
+      "start": "2026-09-28T12:30",
+      "end": "2026-09-28T14:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-ruben-castro-charities-at-moorpark-college-w7-1200",
+      "seriesSlug": "add-ruben-castro-charities-at-moorpark-college",
+      "title": "Ruben Castro Charities at Moorpark College — Free Food",
+      "description": "Free food at Ruben Castro Charities at Moorpark College. Schedule: Sat 12:30 PM–2:30 PM; Sun 12 PM–4 PM. Call 805-248-7113 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Ruben Castro Charities at Moorpark College",
+      "address": "7075 Campus Dr, Moorpark, CA 93021",
+      "lat": 34.301562,
+      "lng": -118.836407,
+      "category": "food-assistance",
+      "sourceOrg": "Ruben Castro Charities at Moorpark College",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Sat 12:30 PM–2:30 PM; Sun 12 PM–4 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-lighthouse-church-w5-1730",
+      "seriesSlug": "add-lighthouse-church",
+      "title": "Lighthouse Church — Free Food",
+      "description": "Free food at Lighthouse Church. Schedule: Fri 5:30 PM–6:30 PM. Call 805-480-9999 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Lighthouse Church",
+      "address": "3353 Old Conejo Rd, Newbury Park, CA 91320",
+      "lat": 34.191647,
+      "lng": -118.946294,
+      "category": "food-assistance",
+      "sourceOrg": "Lighthouse Church",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Fri 5:30 PM–6:30 PM",
+      "start": "2026-09-28T17:30",
+      "end": "2026-09-28T18:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-nucleus-ca-inc-manafest-w3-1630",
+      "seriesSlug": "add-nucleus-ca-inc-manafest",
+      "title": "Nucleus CA Inc - Manafest — Free Food",
+      "description": "Free food at Nucleus CA Inc - Manafest. Schedule: Wed 4:30 PM–5:30 PM. Call 805-262-5000 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Nucleus CA Inc - Manafest",
+      "address": "999 Rancho Conejo Blvd, Newbury Park, CA 91320",
+      "lat": 34.1923,
+      "lng": -118.923919,
+      "category": "food-assistance",
+      "sourceOrg": "Nucleus CA Inc - Manafest",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Wed 4:30 PM–5:30 PM",
+      "start": "2026-09-28T16:30",
+      "end": "2026-09-28T17:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-safe-passage-foundation-food-pantry-m26-1000",
+      "seriesSlug": "add-safe-passage-foundation-food-pantry",
+      "title": "Safe Passage Foundation Food Pantry — Free Food",
+      "description": "Free food at Safe Passage Foundation Food Pantry. Schedule: 2nd Sat 10 AM–11 AM. Call (805) 558-8987 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Safe Passage Foundation Food Pantry",
+      "address": "1707 Calle Diamonte, Newbury Park, CA 91320",
+      "lat": 34.185971,
+      "lng": -118.915958,
+      "category": "food-assistance",
+      "sourceOrg": "Safe Passage Foundation Food Pantry",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "2nd Sat 10 AM–11 AM",
+      "start": "2026-10-10T10:00",
+      "end": "2026-10-10T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-svdp-st-julie-billiart-w123-1000",
+      "seriesSlug": "add-svdp-st-julie-billiart",
+      "title": "SVDP - St. Julie Billiart — Free Food",
+      "description": "Free food at SVDP - St. Julie Billiart. Schedule: Mon–Wed 10 AM–12 PM. Call (805) 270-9597 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "SVDP - St. Julie Billiart",
+      "address": "2475 Borchard Rd, Newbury Park, CA 91320",
+      "lat": 34.180931,
+      "lng": -118.92992,
+      "category": "food-assistance",
+      "sourceOrg": "SVDP - St. Julie Billiart",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Mon–Wed 10 AM–12 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-salvation-army-at-oak-view-park-and-resource-cen-w3-0900",
+      "seriesSlug": "add-salvation-army-at-oak-view-park-and-resource-cen",
+      "title": "Salvation Army at Oak View Park and Resource Center — Free Food",
+      "description": "Free food at Salvation Army at Oak View Park and Resource Center. Schedule: Wed 9 AM–10 AM. Call 805-986-6532 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salvation Army at Oak View Park and Resource Center",
+      "address": "555 Mahoney Ave, Oak View, CA 93022",
+      "lat": 34.399682,
+      "lng": -119.305148,
+      "category": "food-assistance",
+      "sourceOrg": "Salvation Army at Oak View Park and Resource Center",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Wed 9 AM–10 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T10:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-help-of-ojai-w13-0930",
+      "seriesSlug": "add-help-of-ojai",
+      "title": "Help of Ojai — Free Food",
+      "description": "Free food at Help of Ojai. Schedule: Mon, Wed 9:30 AM–11:30 AM. Call 805-640-3320 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Help of Ojai",
+      "address": "108 S. Montgomery St, Ojai, CA 93023",
+      "lat": 34.447304,
+      "lng": -119.243157,
+      "category": "food-assistance",
+      "sourceOrg": "Help of Ojai",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Mon, Wed 9:30 AM–11:30 AM",
+      "start": "2026-09-28T09:30",
+      "end": "2026-09-28T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-secure-beginnings-m1333-1030",
+      "seriesSlug": "add-secure-beginnings",
+      "title": "Secure Beginnings — Free Food",
+      "description": "Free food at Secure Beginnings. Schedule: 1st Wed & 3rd Wed 10:30 AM–12:30 PM. Call (805) 646-7559 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Secure Beginnings",
+      "address": "200 N. Montgomery St, Ojai, CA 93023",
+      "lat": 34.448863,
+      "lng": -119.243002,
+      "category": "food-assistance",
+      "sourceOrg": "Secure Beginnings",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "1st Wed & 3rd Wed 10:30 AM–12:30 PM",
+      "start": "2026-10-07T10:30",
+      "end": "2026-10-07T12:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "1:3,3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-thomas-aquinas-svdp-m14-0900",
+      "seriesSlug": "add-st-thomas-aquinas-svdp",
+      "title": "St. Thomas Aquinas / SVDP — Free Food",
+      "description": "Free food at St. Thomas Aquinas / SVDP. Schedule: 1st Thu 9 AM–10:30 AM; 3rd Sat 8:30 AM–10:30 AM. Call 805-640-2750 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Thomas Aquinas / SVDP",
+      "address": "185 St. Thomas Dr, Ojai, CA 93023",
+      "lat": 34.44529,
+      "lng": -119.27262,
+      "category": "food-assistance",
+      "sourceOrg": "St. Thomas Aquinas / SVDP",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "1st Thu 9 AM–10:30 AM; 3rd Sat 8:30 AM–10:30 AM",
+      "start": "2026-10-08T09:00",
+      "end": "2026-10-08T10:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-thomas-aquinas-svdp-m36-0830",
+      "seriesSlug": "add-st-thomas-aquinas-svdp",
+      "title": "St. Thomas Aquinas / SVDP — Free Food",
+      "description": "Free food at St. Thomas Aquinas / SVDP. Schedule: 1st Thu 9 AM–10:30 AM; 3rd Sat 8:30 AM–10:30 AM. Call 805-640-2750 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Thomas Aquinas / SVDP",
+      "address": "185 St. Thomas Dr, Ojai, CA 93023",
+      "lat": 34.44529,
+      "lng": -119.27262,
+      "category": "food-assistance",
+      "sourceOrg": "St. Thomas Aquinas / SVDP",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "1st Thu 9 AM–10:30 AM; 3rd Sat 8:30 AM–10:30 AM",
+      "start": "2026-10-10T08:30",
+      "end": "2026-10-10T10:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-aha-at-pacific-point-apartments-m1232-0900",
+      "seriesSlug": "add-aha-at-pacific-point-apartments",
+      "title": "AHA at Pacific Point Apartments — Free Food",
+      "description": "Free food at AHA at Pacific Point Apartments. Schedule: 1st Tue & 3rd Tue 9 AM–10 AM; 4th Wed 4 PM–5 PM. Call (805) 988-9100 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "AHA at Pacific Point Apartments",
+      "address": "1001 W Gonzales Rd, Oxnard, CA 93036",
+      "lat": 34.219462,
+      "lng": -119.188189,
+      "category": "food-assistance",
+      "sourceOrg": "AHA at Pacific Point Apartments",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "1st Tue & 3rd Tue 9 AM–10 AM; 4th Wed 4 PM–5 PM",
+      "start": "2026-10-06T09:00",
+      "end": "2026-10-06T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 2
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "1:2,3:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-aha-at-pacific-point-apartments-m43-1600",
+      "seriesSlug": "add-aha-at-pacific-point-apartments",
+      "title": "AHA at Pacific Point Apartments — Free Food",
+      "description": "Free food at AHA at Pacific Point Apartments. Schedule: 1st Tue & 3rd Tue 9 AM–10 AM; 4th Wed 4 PM–5 PM. Call (805) 988-9100 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "AHA at Pacific Point Apartments",
+      "address": "1001 W Gonzales Rd, Oxnard, CA 93036",
+      "lat": 34.219462,
+      "lng": -119.188189,
+      "category": "food-assistance",
+      "sourceOrg": "AHA at Pacific Point Apartments",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "1st Tue & 3rd Tue 9 AM–10 AM; 4th Wed 4 PM–5 PM",
+      "start": "2026-10-07T16:00",
+      "end": "2026-10-07T17:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "4:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-bethel-ame-church-m3444-1100",
+      "seriesSlug": "add-bethel-ame-church",
+      "title": "Bethel AME Church — Free Food",
+      "description": "Free food at Bethel AME Church. Schedule: 3rd Thu & 4th Thu 11 AM–2 PM. Call (805) 486-6477 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Bethel AME Church",
+      "address": "855 South F St, Oxnard, CA 93030",
+      "lat": 34.19271,
+      "lng": -119.18529,
+      "category": "food-assistance",
+      "sourceOrg": "Bethel AME Church",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "3rd Thu & 4th Thu 11 AM–2 PM",
+      "start": "2026-10-08T11:00",
+      "end": "2026-10-08T14:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "3:4,4:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-bread-of-life-oxnard-community-food-pantry-all-s-w5-1200",
+      "seriesSlug": "add-bread-of-life-oxnard-community-food-pantry-all-s",
+      "title": "Bread of Life / Oxnard Community Food Pantry - All Saints Episcopal Church — Free Food",
+      "description": "Free food at Bread of Life / Oxnard Community Food Pantry - All Saints Episcopal Church. Schedule: Fri 12 PM–2 PM; Sun 4 PM–5 PM. Call 805-320-0997 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Bread of Life / Oxnard Community Food Pantry - All Saints Episcopal Church",
+      "address": "144 South C St, Oxnard, CA 93030",
+      "lat": 34.201838,
+      "lng": -119.18082,
+      "category": "food-assistance",
+      "sourceOrg": "Bread of Life / Oxnard Community Food Pantry - All Saints Episcopal Church",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Fri 12 PM–2 PM; Sun 4 PM–5 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-bread-of-life-oxnard-community-food-pantry-all-s-w7-1600",
+      "seriesSlug": "add-bread-of-life-oxnard-community-food-pantry-all-s",
+      "title": "Bread of Life / Oxnard Community Food Pantry - All Saints Episcopal Church — Free Food",
+      "description": "Free food at Bread of Life / Oxnard Community Food Pantry - All Saints Episcopal Church. Schedule: Fri 12 PM–2 PM; Sun 4 PM–5 PM. Call 805-320-0997 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Bread of Life / Oxnard Community Food Pantry - All Saints Episcopal Church",
+      "address": "144 South C St, Oxnard, CA 93030",
+      "lat": 34.201838,
+      "lng": -119.18082,
+      "category": "food-assistance",
+      "sourceOrg": "Bread of Life / Oxnard Community Food Pantry - All Saints Episcopal Church",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Fri 12 PM–2 PM; Sun 4 PM–5 PM",
+      "start": "2026-09-28T16:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-camino-del-sol-apartments-m22-1500",
+      "seriesSlug": "add-camino-del-sol-apartments",
+      "title": "Camino Del Sol Apartments — Free Food",
+      "description": "Free food at Camino Del Sol Apartments. Schedule: 2nd Tue 3 PM–4 PM. Call 805-983-7100 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Camino Del Sol Apartments",
+      "address": "1910 Camino Del Sol, Oxnard, CA 93030",
+      "lat": 34.205661,
+      "lng": -119.157489,
+      "category": "food-assistance",
+      "sourceOrg": "Camino Del Sol Apartments",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "2nd Tue 3 PM–4 PM",
+      "start": "2026-10-06T15:00",
+      "end": "2026-10-06T16:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "2:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-celebration-nation-w6-1300",
+      "seriesSlug": "add-celebration-nation",
+      "title": "Celebration Nation — Free Food",
+      "description": "Free food at Celebration Nation. Schedule: Sat 1 PM–2 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Celebration Nation",
+      "address": "1900 W. 5th Street, Oxnard, CA 93030",
+      "lat": 34.19681,
+      "lng": -119.19997,
+      "category": "food-assistance",
+      "sourceOrg": "Celebration Nation",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Sat 1 PM–2 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-church-of-the-nazarene-m34-1500",
+      "seriesSlug": "add-church-of-the-nazarene",
+      "title": "Church of The Nazarene — Free Food",
+      "description": "Free food at Church of The Nazarene. Schedule: 3rd Thu 3 PM–4:30 PM; 3rd Fri 2 PM–3:30 PM. Call 805-483-7046 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Church of The Nazarene",
+      "address": "1630 Saviers Rd, Oxnard, CA 93033",
+      "lat": 34.183171,
+      "lng": -119.177176,
+      "category": "food-assistance",
+      "sourceOrg": "Church of The Nazarene",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "3rd Thu 3 PM–4:30 PM; 3rd Fri 2 PM–3:30 PM",
+      "start": "2026-10-08T15:00",
+      "end": "2026-10-08T16:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-church-of-the-nazarene-m35-1400",
+      "seriesSlug": "add-church-of-the-nazarene",
+      "title": "Church of The Nazarene — Free Food",
+      "description": "Free food at Church of The Nazarene. Schedule: 3rd Thu 3 PM–4:30 PM; 3rd Fri 2 PM–3:30 PM. Call 805-483-7046 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Church of The Nazarene",
+      "address": "1630 Saviers Rd, Oxnard, CA 93033",
+      "lat": 34.183171,
+      "lng": -119.177176,
+      "category": "food-assistance",
+      "sourceOrg": "Church of The Nazarene",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "3rd Thu 3 PM–4:30 PM; 3rd Fri 2 PM–3:30 PM",
+      "start": "2026-10-09T14:00",
+      "end": "2026-10-09T15:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-circle-of-love-at-southwinds-park-m1636-1000",
+      "seriesSlug": "add-circle-of-love-at-southwinds-park",
+      "title": "Circle of Love at Southwinds Park — Free Food",
+      "description": "Free food at Circle of Love at Southwinds Park. Schedule: 1st Sat & 3rd Sat 10 AM–12 PM. Call 707-718-7352 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Circle of Love at Southwinds Park",
+      "address": "300 West Clara St, Oxnard, CA 93033",
+      "lat": 34.15097,
+      "lng": -119.18031,
+      "category": "food-assistance",
+      "sourceOrg": "Circle of Love at Southwinds Park",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "1st Sat & 3rd Sat 10 AM–12 PM",
+      "start": "2026-10-10T10:00",
+      "end": "2026-10-10T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "1:6,3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-lucha-at-southwinds-park-m36-0930",
+      "seriesSlug": "add-lucha-at-southwinds-park",
+      "title": "LUCHA at Southwinds Park — Free Food",
+      "description": "Free food at LUCHA at Southwinds Park. Schedule: 3rd Sat 9:30 AM–11 AM. Call 805-983-7100 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "LUCHA at Southwinds Park",
+      "address": "300 West Clara St, Oxnard, CA 93033",
+      "lat": 34.15097,
+      "lng": -119.18031,
+      "category": "food-assistance",
+      "sourceOrg": "LUCHA at Southwinds Park",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "3rd Sat 9:30 AM–11 AM",
+      "start": "2026-10-10T09:30",
+      "end": "2026-10-10T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-clinicas-del-camino-real-gonzales-m12-1330",
+      "seriesSlug": "add-clinicas-del-camino-real-gonzales",
+      "title": "Clinicas del Camino Real - Gonzales — Free Food",
+      "description": "Free food at Clinicas del Camino Real - Gonzales. Schedule: 1st Tue 1:30 PM–2:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Clinicas del Camino Real - Gonzales",
+      "address": "1100 W Gonzales Road, Oxnard, CA 93036",
+      "lat": 34.218865,
+      "lng": -119.190874,
+      "category": "food-assistance",
+      "sourceOrg": "Clinicas del Camino Real - Gonzales",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "1st Tue 1:30 PM–2:30 PM",
+      "start": "2026-10-06T13:30",
+      "end": "2026-10-06T14:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "1:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-community-action-of-ventura-county-m2444-0830",
+      "seriesSlug": "add-community-action-of-ventura-county",
+      "title": "Community Action of Ventura County — Free Food",
+      "description": "Free food at Community Action of Ventura County. Schedule: 2nd Thu & 4th Thu 8:30 AM–11:30 AM. Call 805-436-4000 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Community Action of Ventura County",
+      "address": "621 Richmond Ave, Oxnard, CA 93030",
+      "lat": 34.195816,
+      "lng": -119.170286,
+      "category": "food-assistance",
+      "sourceOrg": "Community Action of Ventura County",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "2nd Thu & 4th Thu 8:30 AM–11:30 AM",
+      "start": "2026-10-08T08:30",
+      "end": "2026-10-08T11:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "2:4,4:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-food-share-warehouse-m-14-1530",
+      "seriesSlug": "add-food-share-warehouse",
+      "title": "Food Share Warehouse — Free Food",
+      "description": "Free food at Food Share Warehouse. Schedule: last Thu 3:30 PM–4:30 PM. Call 805-983-7100 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Food Share Warehouse",
+      "address": "4156 Southbank Rd, Oxnard, CA 93036",
+      "lat": 34.255422,
+      "lng": -119.161584,
+      "category": "food-assistance",
+      "sourceOrg": "Food Share Warehouse",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "last Thu 3:30 PM–4:30 PM",
+      "start": "2026-10-08T15:30",
+      "end": "2026-10-08T16:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": -1,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "-1:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-grace-bible-church-m2646-0900",
+      "seriesSlug": "add-grace-bible-church",
+      "title": "Grace Bible Church — Free Food",
+      "description": "Free food at Grace Bible Church. Schedule: 2nd Sat & 4th Sat 9 AM–11 AM; 1st Thu 1 PM–2 PM. Call (805) 483-2205 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Grace Bible Church",
+      "address": "936 W 5th St, Oxnard, CA 93030",
+      "lat": 34.197257,
+      "lng": -119.188966,
+      "category": "food-assistance",
+      "sourceOrg": "Grace Bible Church",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "2nd Sat & 4th Sat 9 AM–11 AM; 1st Thu 1 PM–2 PM",
+      "start": "2026-10-10T09:00",
+      "end": "2026-10-10T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6,4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-grace-bible-church-m14-1300",
+      "seriesSlug": "add-grace-bible-church",
+      "title": "Grace Bible Church — Free Food",
+      "description": "Free food at Grace Bible Church. Schedule: 2nd Sat & 4th Sat 9 AM–11 AM; 1st Thu 1 PM–2 PM. Call (805) 483-2205 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Grace Bible Church",
+      "address": "936 W 5th St, Oxnard, CA 93030",
+      "lat": 34.197257,
+      "lng": -119.188966,
+      "category": "food-assistance",
+      "sourceOrg": "Grace Bible Church",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "2nd Sat & 4th Sat 9 AM–11 AM; 1st Thu 1 PM–2 PM",
+      "start": "2026-10-08T13:00",
+      "end": "2026-10-08T14:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-harbor-missionary-church-at-garden-acres-mutual--w1-1630",
+      "seriesSlug": "add-harbor-missionary-church-at-garden-acres-mutual-",
+      "title": "Harbor Missionary Church at Garden Acres Mutual Water Co. — Free Food",
+      "description": "Free food at Harbor Missionary Church at Garden Acres Mutual Water Co.. Schedule: Mon 4:30 PM–5:30 PM. Call (805) 247-0002 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Harbor Missionary Church at Garden Acres Mutual Water Co.",
+      "address": "2838 Friedrich Road, Oxnard, CA 93036",
+      "lat": 34.2274,
+      "lng": -119.13068,
+      "category": "food-assistance",
+      "sourceOrg": "Harbor Missionary Church at Garden Acres Mutual Water Co.",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Mon 4:30 PM–5:30 PM",
+      "start": "2026-09-28T16:30",
+      "end": "2026-09-28T17:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-heritage-apartments-m42-1000",
+      "seriesSlug": "add-heritage-apartments",
+      "title": "Heritage Apartments — Free Food",
+      "description": "Free food at Heritage Apartments. Schedule: 4th Tue 10 AM–11 AM. Call 805-983-7100 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Heritage Apartments",
+      "address": "820 South E St, Oxnard, CA 93030",
+      "lat": 34.193062,
+      "lng": -119.183226,
+      "category": "food-assistance",
+      "sourceOrg": "Heritage Apartments",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "4th Tue 10 AM–11 AM",
+      "start": "2026-10-06T10:00",
+      "end": "2026-10-06T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "4:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-mary-star-of-the-sea-m41-1400",
+      "seriesSlug": "add-mary-star-of-the-sea",
+      "title": "Mary Star of the Sea — Free Food",
+      "description": "Free food at Mary Star of the Sea. Schedule: 4th Mon 2 PM–3:30 PM. Call 805-983-7100 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Mary Star of the Sea",
+      "address": "463 W. Pleasant Valley Road, Oxnard, CA 93033",
+      "lat": 34.155211,
+      "lng": -119.183042,
+      "category": "food-assistance",
+      "sourceOrg": "Mary Star of the Sea",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "4th Mon 2 PM–3:30 PM",
+      "start": "2026-10-05T14:00",
+      "end": "2026-10-05T15:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "4:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-new-life-community-church-m44-0900",
+      "seriesSlug": "add-new-life-community-church",
+      "title": "New Life Community Church — Free Food",
+      "description": "Free food at New Life Community Church. Schedule: 4th Thu 9 AM–11:30 AM. Call 805-983-1890 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "New Life Community Church",
+      "address": "1251 N Rice Ave, Oxnard, CA 93030",
+      "lat": 34.213575,
+      "lng": -119.143134,
+      "category": "food-assistance",
+      "sourceOrg": "New Life Community Church",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "4th Thu 9 AM–11:30 AM",
+      "start": "2026-10-08T09:00",
+      "end": "2026-10-08T11:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "4:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-nyeland-promise-m41-1030",
+      "seriesSlug": "add-nyeland-promise",
+      "title": "Nyeland Promise — Free Food",
+      "description": "Free food at Nyeland Promise. Schedule: 4th Mon 10:30 AM–11:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Nyeland Promise",
+      "address": "3334 Santa Clara Avenue, Oxnard, CA 93036",
+      "lat": 34.22574,
+      "lng": -119.1386,
+      "category": "food-assistance",
+      "sourceOrg": "Nyeland Promise",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "4th Mon 10:30 AM–11:30 AM",
+      "start": "2026-10-05T10:30",
+      "end": "2026-10-05T11:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "4:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-nyeland-promise-at-water-company-m2242-0930",
+      "seriesSlug": "add-nyeland-promise-at-water-company",
+      "title": "Nyeland Promise at Water Company — Free Food",
+      "description": "Free food at Nyeland Promise at Water Company. Schedule: 2nd Tue & 4th Tue 9:30 AM–10:30 AM. Call 805-415-2787 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Nyeland Promise at Water Company",
+      "address": "3802 Almond Drive, Oxnard, CA 93036",
+      "lat": 34.225639,
+      "lng": -119.128059,
+      "category": "food-assistance",
+      "sourceOrg": "Nyeland Promise at Water Company",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "2nd Tue & 4th Tue 9:30 AM–10:30 AM",
+      "start": "2026-10-06T09:30",
+      "end": "2026-10-06T10:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 2
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "2:2,4:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-our-lady-of-guadalupe-oxnard-m43-0900",
+      "seriesSlug": "add-our-lady-of-guadalupe-oxnard",
+      "title": "Our Lady of Guadalupe - Oxnard — Free Food",
+      "description": "Free food at Our Lady of Guadalupe - Oxnard. Schedule: 4th Wed 9 AM–10 AM; 3rd Thu 9 AM–11 AM. Call 805-983-7100 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Our Lady of Guadalupe - Oxnard",
+      "address": "500 N Juanita Ave, Oxnard, CA 93030",
+      "lat": 34.206734,
+      "lng": -119.168238,
+      "category": "food-assistance",
+      "sourceOrg": "Our Lady of Guadalupe - Oxnard",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "4th Wed 9 AM–10 AM; 3rd Thu 9 AM–11 AM",
+      "start": "2026-10-07T09:00",
+      "end": "2026-10-07T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "4:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-our-lady-of-guadalupe-oxnard-m34-0900",
+      "seriesSlug": "add-our-lady-of-guadalupe-oxnard",
+      "title": "Our Lady of Guadalupe - Oxnard — Free Food",
+      "description": "Free food at Our Lady of Guadalupe - Oxnard. Schedule: 4th Wed 9 AM–10 AM; 3rd Thu 9 AM–11 AM. Call 805-983-7100 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Our Lady of Guadalupe - Oxnard",
+      "address": "500 N Juanita Ave, Oxnard, CA 93030",
+      "lat": 34.206734,
+      "lng": -119.168238,
+      "category": "food-assistance",
+      "sourceOrg": "Our Lady of Guadalupe - Oxnard",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "4th Wed 9 AM–10 AM; 3rd Thu 9 AM–11 AM",
+      "start": "2026-10-08T09:00",
+      "end": "2026-10-08T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-oxnard-college-pop-up-emergency-food-pantry-w3-1400",
+      "seriesSlug": "add-oxnard-college-pop-up-emergency-food-pantry",
+      "title": "Oxnard College pop-up emergency food pantry — Free Food",
+      "description": "Free food at Oxnard College pop-up emergency food pantry. Schedule: Wed 2 PM–3:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Oxnard College pop-up emergency food pantry",
+      "address": "3250 South Rose Avenue, Oxnard, CA 93033",
+      "lat": 34.17001,
+      "lng": -119.15971,
+      "category": "food-assistance",
+      "sourceOrg": "Oxnard College pop-up emergency food pantry",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Wed 2 PM–3:30 PM",
+      "start": "2026-09-28T14:00",
+      "end": "2026-09-28T15:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-oxnard-pal-m45-0900",
+      "seriesSlug": "add-oxnard-pal",
+      "title": "Oxnard PAL — Free Food",
+      "description": "Free food at Oxnard PAL. Schedule: 4th Fri 9 AM–11 AM. Call 805-983-7100 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Oxnard PAL",
+      "address": "350 South K St, Oxnard, CA 93030",
+      "lat": 34.199108,
+      "lng": -119.191361,
+      "category": "food-assistance",
+      "sourceOrg": "Oxnard PAL",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "4th Fri 9 AM–11 AM",
+      "start": "2026-10-09T09:00",
+      "end": "2026-10-09T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "4:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-palm-vista-housing-m21-1300",
+      "seriesSlug": "add-palm-vista-housing",
+      "title": "Palm Vista Housing — Free Food",
+      "description": "Free food at Palm Vista Housing. Schedule: 2nd Mon 1 PM–2 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Palm Vista Housing",
+      "address": "801 South C Street, Oxnard, CA 93030",
+      "lat": 34.193037,
+      "lng": -119.181795,
+      "category": "food-assistance",
+      "sourceOrg": "Palm Vista Housing",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "2nd Mon 1 PM–2 PM",
+      "start": "2026-10-05T13:00",
+      "end": "2026-10-05T14:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "2:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-plaza-vista-m21-0930",
+      "seriesSlug": "add-plaza-vista",
+      "title": "Plaza Vista — Free Food",
+      "description": "Free food at Plaza Vista. Schedule: 2nd Mon 9:30 AM–10:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Plaza Vista",
+      "address": "401 South C Street, Oxnard, CA 93030",
+      "lat": 34.1986,
+      "lng": -119.181363,
+      "category": "food-assistance",
+      "sourceOrg": "Plaza Vista",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "2nd Mon 9:30 AM–10:30 AM",
+      "start": "2026-10-05T09:30",
+      "end": "2026-10-05T10:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "2:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-rio-schools-cortez-st-m123252-1430",
+      "seriesSlug": "add-rio-schools-cortez-st",
+      "title": "Rio Schools (Cortez St) — Free Food",
+      "description": "Free food at Rio Schools (Cortez St). Schedule: 1st Tue & 3rd Tue & 5th Tue 2:30 PM–3:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Rio Schools (Cortez St)",
+      "address": "3300 Cortez Street, Oxnard, CA 93036",
+      "lat": 34.239766,
+      "lng": -119.159641,
+      "category": "food-assistance",
+      "sourceOrg": "Rio Schools (Cortez St)",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "1st Tue & 3rd Tue & 5th Tue 2:30 PM–3:30 PM",
+      "start": "2026-10-06T14:30",
+      "end": "2026-10-06T15:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 2
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 2
+          },
+          {
+            "n": 5,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "1:2,3:2,5:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-salvation-army-oxnard-w2-0900",
+      "seriesSlug": "add-salvation-army-oxnard",
+      "title": "Salvation Army Oxnard — Free Food",
+      "description": "Free food at Salvation Army Oxnard. Schedule: Tue 9 AM–11 AM; 2nd Wed 1:30 PM–2:30 PM. Call 805-983-7100 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salvation Army Oxnard",
+      "address": "622 W Wooley Rd, Oxnard, CA 93033",
+      "lat": 34.189654,
+      "lng": -119.184555,
+      "category": "food-assistance",
+      "sourceOrg": "Salvation Army Oxnard",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Tue 9 AM–11 AM; 2nd Wed 1:30 PM–2:30 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-salvation-army-oxnard-m23-1330",
+      "seriesSlug": "add-salvation-army-oxnard",
+      "title": "Salvation Army Oxnard — Free Food",
+      "description": "Free food at Salvation Army Oxnard. Schedule: Tue 9 AM–11 AM; 2nd Wed 1:30 PM–2:30 PM. Call 805-983-7100 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salvation Army Oxnard",
+      "address": "622 W Wooley Rd, Oxnard, CA 93033",
+      "lat": 34.189654,
+      "lng": -119.184555,
+      "category": "food-assistance",
+      "sourceOrg": "Salvation Army Oxnard",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Tue 9 AM–11 AM; 2nd Wed 1:30 PM–2:30 PM",
+      "start": "2026-10-07T13:30",
+      "end": "2026-10-07T14:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "2:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-shelter-care-resources-at-calvary-chapel-w5-1700",
+      "seriesSlug": "add-shelter-care-resources-at-calvary-chapel",
+      "title": "Shelter Care Resources at Calvary Chapel — Free Food",
+      "description": "Free food at Shelter Care Resources at Calvary Chapel. Schedule: Fri 5 PM–6:30 PM. Call 805-407-8842 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Shelter Care Resources at Calvary Chapel",
+      "address": "1925 Eastman Ave, Oxnard, CA 93030",
+      "lat": 34.1987,
+      "lng": -119.155409,
+      "category": "food-assistance",
+      "sourceOrg": "Shelter Care Resources at Calvary Chapel",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Fri 5 PM–6:30 PM",
+      "start": "2026-09-28T17:00",
+      "end": "2026-09-28T18:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-south-oxnard-center-m3135-0900",
+      "seriesSlug": "add-south-oxnard-center",
+      "title": "South Oxnard Center — Free Food",
+      "description": "Free food at South Oxnard Center. Schedule: 3rd Mon & 3rd Fri 9 AM–10:30 AM. Call 805-983-7100 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "South Oxnard Center",
+      "address": "200 E Bard Rd, Oxnard, CA 93033",
+      "lat": 34.160985,
+      "lng": -119.177094,
+      "category": "food-assistance",
+      "sourceOrg": "South Oxnard Center",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "3rd Mon & 3rd Fri 9 AM–10:30 AM",
+      "start": "2026-10-05T09:00",
+      "end": "2026-10-05T10:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 1
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "3:1,3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-john-s-health-ministries-at-christ-the-king-w2-0900",
+      "seriesSlug": "add-st-john-s-health-ministries-at-christ-the-king",
+      "title": "St. John's Health Ministries at Christ The King — Free Food",
+      "description": "Free food at St. John's Health Ministries at Christ The King. Schedule: Tue 9 AM–12:30 PM; Thu 11:30 AM–2:30 PM; 1st Thu & 2nd Thu 9 AM–10 AM. Call 805-988-2651 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. John's Health Ministries at Christ The King",
+      "address": "535 Cooper Rd, Oxnard, CA 93030",
+      "lat": 34.204792,
+      "lng": -119.173022,
+      "category": "food-assistance",
+      "sourceOrg": "St. John's Health Ministries at Christ The King",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Tue 9 AM–12:30 PM; Thu 11:30 AM–2:30 PM; 1st Thu & 2nd Thu 9 AM–10 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-john-s-health-ministries-at-christ-the-king-w4-1130",
+      "seriesSlug": "add-st-john-s-health-ministries-at-christ-the-king",
+      "title": "St. John's Health Ministries at Christ The King — Free Food",
+      "description": "Free food at St. John's Health Ministries at Christ The King. Schedule: Tue 9 AM–12:30 PM; Thu 11:30 AM–2:30 PM; 1st Thu & 2nd Thu 9 AM–10 AM. Call 805-988-2651 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. John's Health Ministries at Christ The King",
+      "address": "535 Cooper Rd, Oxnard, CA 93030",
+      "lat": 34.204792,
+      "lng": -119.173022,
+      "category": "food-assistance",
+      "sourceOrg": "St. John's Health Ministries at Christ The King",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Tue 9 AM–12:30 PM; Thu 11:30 AM–2:30 PM; 1st Thu & 2nd Thu 9 AM–10 AM",
+      "start": "2026-09-28T11:30",
+      "end": "2026-09-28T14:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-john-s-health-ministries-at-christ-the-king-m1424-0900",
+      "seriesSlug": "add-st-john-s-health-ministries-at-christ-the-king",
+      "title": "St. John's Health Ministries at Christ The King — Free Food",
+      "description": "Free food at St. John's Health Ministries at Christ The King. Schedule: Tue 9 AM–12:30 PM; Thu 11:30 AM–2:30 PM; 1st Thu & 2nd Thu 9 AM–10 AM. Call 805-988-2651 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. John's Health Ministries at Christ The King",
+      "address": "535 Cooper Rd, Oxnard, CA 93030",
+      "lat": 34.204792,
+      "lng": -119.173022,
+      "category": "food-assistance",
+      "sourceOrg": "St. John's Health Ministries at Christ The King",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Tue 9 AM–12:30 PM; Thu 11:30 AM–2:30 PM; 1st Thu & 2nd Thu 9 AM–10 AM",
+      "start": "2026-10-08T09:00",
+      "end": "2026-10-08T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 2,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4,2:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-svdp-st-anthony-s-church-w2-0900",
+      "seriesSlug": "add-svdp-st-anthony-s-church",
+      "title": "SVDP / St. Anthony's Church — Free Food",
+      "description": "Free food at SVDP / St. Anthony's Church. Schedule: Tue 9 AM–11 AM. Call 805-486-7302 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "SVDP / St. Anthony's Church",
+      "address": "2511 S C St, Oxnard, CA 93033",
+      "lat": 34.17655,
+      "lng": -119.18163,
+      "category": "food-assistance",
+      "sourceOrg": "SVDP / St. Anthony's Church",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Tue 9 AM–11 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sycamore-senior-village-m22-1300",
+      "seriesSlug": "add-sycamore-senior-village",
+      "title": "Sycamore Senior Village — Free Food",
+      "description": "Free food at Sycamore Senior Village. Schedule: 2nd Tue 1 PM–2 PM. Call 805-983-7100 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Sycamore Senior Village",
+      "address": "333 North F St, Oxnard, CA 93030",
+      "lat": 34.206753,
+      "lng": -119.185595,
+      "category": "food-assistance",
+      "sourceOrg": "Sycamore Senior Village",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "2nd Tue 1 PM–2 PM",
+      "start": "2026-10-06T13:00",
+      "end": "2026-10-06T14:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "2:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-united-parents-oxnard-w12345-1330",
+      "seriesSlug": "add-united-parents-oxnard",
+      "title": "United Parents - Oxnard — Free Food",
+      "description": "Free food at United Parents - Oxnard. Schedule: Mon–Fri 1:30 PM–7:30 PM; Sat 9 AM–5:30 PM. Call 805-384-1555 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "United Parents - Oxnard",
+      "address": "300 West 5th Street Ste A, Oxnard, CA 93030",
+      "lat": 34.197643,
+      "lng": -119.179699,
+      "category": "food-assistance",
+      "sourceOrg": "United Parents - Oxnard",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Mon–Fri 1:30 PM–7:30 PM; Sat 9 AM–5:30 PM",
+      "start": "2026-09-28T13:30",
+      "end": "2026-09-28T19:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-united-parents-oxnard-w6-0900",
+      "seriesSlug": "add-united-parents-oxnard",
+      "title": "United Parents - Oxnard — Free Food",
+      "description": "Free food at United Parents - Oxnard. Schedule: Mon–Fri 1:30 PM–7:30 PM; Sat 9 AM–5:30 PM. Call 805-384-1555 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "United Parents - Oxnard",
+      "address": "300 West 5th Street Ste A, Oxnard, CA 93030",
+      "lat": 34.197643,
+      "lng": -119.179699,
+      "category": "food-assistance",
+      "sourceOrg": "United Parents - Oxnard",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Mon–Fri 1:30 PM–7:30 PM; Sat 9 AM–5:30 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T17:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-vc-believe-center-w5-1800",
+      "seriesSlug": "add-vc-believe-center",
+      "title": "VC Believe Center — Free Food",
+      "description": "Free food at VC Believe Center. Schedule: Fri 6 PM–7 PM. Call 805-222-0422 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "VC Believe Center",
+      "address": "850 Ivywood Drive, Oxnard, CA 93030",
+      "lat": 34.215421,
+      "lng": -119.186976,
+      "category": "food-assistance",
+      "sourceOrg": "VC Believe Center",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Fri 6 PM–7 PM",
+      "start": "2026-09-28T18:00",
+      "end": "2026-09-28T19:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-vc-believe-center-at-city-view-church-w3-1800",
+      "seriesSlug": "add-vc-believe-center-at-city-view-church",
+      "title": "VC Believe Center at City View Church — Free Food",
+      "description": "Free food at VC Believe Center at City View Church. Schedule: Wed 6 PM–7 PM. Call 805-222-0422 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "VC Believe Center at City View Church",
+      "address": "2311 Statham Blvd, Oxnard, CA 93033",
+      "lat": 34.177546,
+      "lng": -119.166989,
+      "category": "food-assistance",
+      "sourceOrg": "VC Believe Center at City View Church",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Wed 6 PM–7 PM",
+      "start": "2026-09-28T18:00",
+      "end": "2026-09-28T19:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-vc-rescue-mission-meals-w12345-1100",
+      "seriesSlug": "add-vc-rescue-mission-meals",
+      "title": "VC Rescue Mission (meals) — Free Food",
+      "description": "Free food at VC Rescue Mission (meals). Schedule: Mon–Fri 11 AM–11:30 AM; Mon–Fri 5:30 PM–6 PM; Sat–Sun 12 PM–12:30 PM; Sat–Sun 5:30 PM–6 PM. Call 805-436-4602 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "VC Rescue Mission (meals)",
+      "address": "234 E. Sixth St, Oxnard, CA 93030",
+      "lat": 34.196054,
+      "lng": -119.175224,
+      "category": "food-assistance",
+      "sourceOrg": "VC Rescue Mission (meals)",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Mon–Fri 11 AM–11:30 AM; Mon–Fri 5:30 PM–6 PM; Sat–Sun 12 PM–12:30 PM; Sat–Sun 5:30 PM–6 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-vc-rescue-mission-meals-w12345-1730",
+      "seriesSlug": "add-vc-rescue-mission-meals",
+      "title": "VC Rescue Mission (meals) — Free Food",
+      "description": "Free food at VC Rescue Mission (meals). Schedule: Mon–Fri 11 AM–11:30 AM; Mon–Fri 5:30 PM–6 PM; Sat–Sun 12 PM–12:30 PM; Sat–Sun 5:30 PM–6 PM. Call 805-436-4602 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "VC Rescue Mission (meals)",
+      "address": "234 E. Sixth St, Oxnard, CA 93030",
+      "lat": 34.196054,
+      "lng": -119.175224,
+      "category": "food-assistance",
+      "sourceOrg": "VC Rescue Mission (meals)",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Mon–Fri 11 AM–11:30 AM; Mon–Fri 5:30 PM–6 PM; Sat–Sun 12 PM–12:30 PM; Sat–Sun 5:30 PM–6 PM",
+      "start": "2026-09-28T17:30",
+      "end": "2026-09-28T18:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-vc-rescue-mission-meals-w67-1200",
+      "seriesSlug": "add-vc-rescue-mission-meals",
+      "title": "VC Rescue Mission (meals) — Free Food",
+      "description": "Free food at VC Rescue Mission (meals). Schedule: Mon–Fri 11 AM–11:30 AM; Mon–Fri 5:30 PM–6 PM; Sat–Sun 12 PM–12:30 PM; Sat–Sun 5:30 PM–6 PM. Call 805-436-4602 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "VC Rescue Mission (meals)",
+      "address": "234 E. Sixth St, Oxnard, CA 93030",
+      "lat": 34.196054,
+      "lng": -119.175224,
+      "category": "food-assistance",
+      "sourceOrg": "VC Rescue Mission (meals)",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Mon–Fri 11 AM–11:30 AM; Mon–Fri 5:30 PM–6 PM; Sat–Sun 12 PM–12:30 PM; Sat–Sun 5:30 PM–6 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6,7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-vc-rescue-mission-meals-w67-1730",
+      "seriesSlug": "add-vc-rescue-mission-meals",
+      "title": "VC Rescue Mission (meals) — Free Food",
+      "description": "Free food at VC Rescue Mission (meals). Schedule: Mon–Fri 11 AM–11:30 AM; Mon–Fri 5:30 PM–6 PM; Sat–Sun 12 PM–12:30 PM; Sat–Sun 5:30 PM–6 PM. Call 805-436-4602 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "VC Rescue Mission (meals)",
+      "address": "234 E. Sixth St, Oxnard, CA 93030",
+      "lat": 34.196054,
+      "lng": -119.175224,
+      "category": "food-assistance",
+      "sourceOrg": "VC Rescue Mission (meals)",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Mon–Fri 11 AM–11:30 AM; Mon–Fri 5:30 PM–6 PM; Sat–Sun 12 PM–12:30 PM; Sat–Sun 5:30 PM–6 PM",
+      "start": "2026-09-28T17:30",
+      "end": "2026-09-28T18:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6,7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-westminster-free-clinic-oxnard-w3-1430",
+      "seriesSlug": "add-westminster-free-clinic-oxnard",
+      "title": "Westminster Free Clinic - Oxnard — Free Food",
+      "description": "Free food at Westminster Free Clinic - Oxnard. Schedule: Wed 2:30 PM–5:30 PM. Call 805-844-6641 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Westminster Free Clinic - Oxnard",
+      "address": "1800 South C Street, Oxnard, CA 93033",
+      "lat": 34.18176,
+      "lng": -119.18104,
+      "category": "food-assistance",
+      "sourceOrg": "Westminster Free Clinic - Oxnard",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Wed 2:30 PM–5:30 PM",
+      "start": "2026-09-28T14:30",
+      "end": "2026-09-28T17:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-cedc-at-valle-naranjal-m15-1100",
+      "seriesSlug": "add-cedc-at-valle-naranjal",
+      "title": "CEDC at Valle Naranjal — Free Food",
+      "description": "Free food at CEDC at Valle Naranjal. Schedule: 1st Fri 11 AM–12 PM; 2nd Mon 12 PM–1 PM. Call 805-659-3598 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "CEDC at Valle Naranjal",
+      "address": "4268 Center St, Piru, CA 93040",
+      "lat": 34.413662,
+      "lng": -118.785438,
+      "category": "food-assistance",
+      "sourceOrg": "CEDC at Valle Naranjal",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "1st Fri 11 AM–12 PM; 2nd Mon 12 PM–1 PM",
+      "start": "2026-10-09T11:00",
+      "end": "2026-10-09T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "1:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-cedc-at-valle-naranjal-m21-1200",
+      "seriesSlug": "add-cedc-at-valle-naranjal",
+      "title": "CEDC at Valle Naranjal — Free Food",
+      "description": "Free food at CEDC at Valle Naranjal. Schedule: 1st Fri 11 AM–12 PM; 2nd Mon 12 PM–1 PM. Call 805-659-3598 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "CEDC at Valle Naranjal",
+      "address": "4268 Center St, Piru, CA 93040",
+      "lat": 34.413662,
+      "lng": -118.785438,
+      "category": "food-assistance",
+      "sourceOrg": "CEDC at Valle Naranjal",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "1st Fri 11 AM–12 PM; 2nd Mon 12 PM–1 PM",
+      "start": "2026-10-05T12:00",
+      "end": "2026-10-05T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "2:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-piru-neighborhood-council-at-corazon-cafe-m45-1200",
+      "seriesSlug": "add-piru-neighborhood-council-at-corazon-cafe",
+      "title": "Piru Neighborhood Council at Corazon Cafe — Free Food",
+      "description": "Free food at Piru Neighborhood Council at Corazon Cafe. Schedule: 4th Fri 12 PM–2 PM. Call 661-212-2776 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Piru Neighborhood Council at Corazon Cafe",
+      "address": "3945 Center Street, Piru, CA 93040",
+      "lat": 34.415621,
+      "lng": -118.794258,
+      "category": "food-assistance",
+      "sourceOrg": "Piru Neighborhood Council at Corazon Cafe",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "4th Fri 12 PM–2 PM",
+      "start": "2026-10-09T12:00",
+      "end": "2026-10-09T14:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "4:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-san-salvador-mission-m33-0930",
+      "seriesSlug": "add-san-salvador-mission",
+      "title": "San Salvador Mission — Free Food",
+      "description": "Free food at San Salvador Mission. Schedule: 3rd Wed 9:30 AM–11:30 AM. Call 805-625-3273 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "San Salvador Mission",
+      "address": "4053 Center St, Piru, CA 93040",
+      "lat": 34.415393,
+      "lng": -118.790401,
+      "category": "food-assistance",
+      "sourceOrg": "San Salvador Mission",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "3rd Wed 9:30 AM–11:30 AM",
+      "start": "2026-10-07T09:30",
+      "end": "2026-10-07T11:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-beach-side-fellowship-m33-0900",
+      "seriesSlug": "add-beach-side-fellowship",
+      "title": "Beach Side Fellowship — Free Food",
+      "description": "Free food at Beach Side Fellowship. Schedule: 3rd Wed 9 AM–11 AM. Call 805-874-1318 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Beach Side Fellowship",
+      "address": "250 Market Street, Port Hueneme, CA 93041",
+      "lat": 34.148363,
+      "lng": -119.198418,
+      "category": "food-assistance",
+      "sourceOrg": "Beach Side Fellowship",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "3rd Wed 9 AM–11 AM",
+      "start": "2026-10-07T09:00",
+      "end": "2026-10-07T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-casa-pacifica-apartments-m32-1100",
+      "seriesSlug": "add-casa-pacifica-apartments",
+      "title": "Casa Pacifica Apartments — Free Food",
+      "description": "Free food at Casa Pacifica Apartments. Schedule: 3rd Tue 11 AM–12 PM. Call 805-983-7100 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Casa Pacifica Apartments",
+      "address": "703 Ventura Rd, Port Hueneme, CA 93041",
+      "lat": 34.1539,
+      "lng": -119.19584,
+      "category": "food-assistance",
+      "sourceOrg": "Casa Pacifica Apartments",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "3rd Tue 11 AM–12 PM",
+      "start": "2026-10-06T11:00",
+      "end": "2026-10-06T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "3:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-evangelistic-baptist-church-m32-0930",
+      "seriesSlug": "add-evangelistic-baptist-church",
+      "title": "Evangelistic Baptist Church — Free Food",
+      "description": "Free food at Evangelistic Baptist Church. Schedule: 3rd Tue 9:30 AM–10:30 AM. Call 805-983-7100 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Evangelistic Baptist Church",
+      "address": "125 E Pearl St, Port Hueneme, CA 93041",
+      "lat": 34.150506,
+      "lng": -119.199417,
+      "category": "food-assistance",
+      "sourceOrg": "Evangelistic Baptist Church",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "3rd Tue 9:30 AM–10:30 AM",
+      "start": "2026-10-06T09:30",
+      "end": "2026-10-06T10:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "3:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-first-church-of-port-hueneme-m15-1400",
+      "seriesSlug": "add-first-church-of-port-hueneme",
+      "title": "First Church of Port Hueneme — Free Food",
+      "description": "Free food at First Church of Port Hueneme. Schedule: 1st Fri 2 PM–4 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "First Church of Port Hueneme",
+      "address": "523 N. 5th Street, Port Hueneme, CA 93041",
+      "lat": 34.1529,
+      "lng": -119.1943,
+      "category": "food-assistance",
+      "sourceOrg": "First Church of Port Hueneme",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "1st Fri 2 PM–4 PM",
+      "start": "2026-10-09T14:00",
+      "end": "2026-10-09T16:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "1:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-fleet-reserve-m36-0900",
+      "seriesSlug": "add-fleet-reserve",
+      "title": "Fleet Reserve — Free Food",
+      "description": "Free food at Fleet Reserve. Schedule: 3rd Sat 9 AM–12 PM. Call 732-814-1044 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Fleet Reserve",
+      "address": "1183 N Ventura Rd, Port Hueneme, CA 93041",
+      "lat": 34.169823,
+      "lng": -119.19514,
+      "category": "food-assistance",
+      "sourceOrg": "Fleet Reserve",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "3rd Sat 9 AM–12 PM",
+      "start": "2026-10-10T09:00",
+      "end": "2026-10-10T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-living-hope-church-m2646-0930",
+      "seriesSlug": "add-living-hope-church",
+      "title": "Living Hope Church — Free Food",
+      "description": "Free food at Living Hope Church. Schedule: 2nd Sat & 4th Sat 9:30 AM–11 AM. Call 805-483-8610 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Living Hope Church",
+      "address": "755 Bard Road, Port Hueneme, CA 93041",
+      "lat": 34.161418,
+      "lng": -119.18805,
+      "category": "food-assistance",
+      "sourceOrg": "Living Hope Church",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "2nd Sat & 4th Sat 9:30 AM–11 AM",
+      "start": "2026-10-10T09:30",
+      "end": "2026-10-10T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6,4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-porchlight-foundation-at-pv-mobile-home-park-w2-1500",
+      "seriesSlug": "add-porchlight-foundation-at-pv-mobile-home-park",
+      "title": "Porchlight Foundation at PV Mobile Home Park — Free Food",
+      "description": "Free food at Porchlight Foundation at PV Mobile Home Park. Schedule: Tue 3 PM–5 PM. Call 619-820-3500 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Porchlight Foundation at PV Mobile Home Park",
+      "address": "250 E. Pleasant Valley Road, Port Hueneme, CA 93041",
+      "lat": 34.154831,
+      "lng": -119.197002,
+      "category": "food-assistance",
+      "sourceOrg": "Porchlight Foundation at PV Mobile Home Park",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Tue 3 PM–5 PM",
+      "start": "2026-09-28T15:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-salvation-army-at-mar-vista-apartments-m34-1000",
+      "seriesSlug": "add-salvation-army-at-mar-vista-apartments",
+      "title": "Salvation Army at Mar Vista Apartments — Free Food",
+      "description": "Free food at Salvation Army at Mar Vista Apartments. Schedule: 3rd Thu 10 AM–12 PM. Call 805-986-6532 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salvation Army at Mar Vista Apartments",
+      "address": "157 E. Scott St, Port Hueneme, CA 93041",
+      "lat": 34.14931,
+      "lng": -119.19894,
+      "category": "food-assistance",
+      "sourceOrg": "Salvation Army at Mar Vista Apartments",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "3rd Thu 10 AM–12 PM",
+      "start": "2026-10-08T10:00",
+      "end": "2026-10-08T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-cedc-the-santa-paulan-apartments-m32-1415",
+      "seriesSlug": "add-cedc-the-santa-paulan-apartments",
+      "title": "CEDC - The Santa Paulan Apartments — Free Food",
+      "description": "Free food at CEDC - The Santa Paulan Apartments. Schedule: 3rd Tue 2:15 PM–3:15 PM. Call 805-525-5804 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "CEDC - The Santa Paulan Apartments",
+      "address": "115 N 4th St, Santa Paula, CA 93060",
+      "lat": 34.352015,
+      "lng": -119.06879,
+      "category": "food-assistance",
+      "sourceOrg": "CEDC - The Santa Paulan Apartments",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "3rd Tue 2:15 PM–3:15 PM",
+      "start": "2026-10-06T14:15",
+      "end": "2026-10-06T15:15",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "3:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-cedc-rodney-fernandez-garden-apartments-m35-1100",
+      "seriesSlug": "add-cedc-rodney-fernandez-garden-apartments",
+      "title": "CEDC Rodney Fernandez Garden Apartments — Free Food",
+      "description": "Free food at CEDC Rodney Fernandez Garden Apartments. Schedule: 3rd Fri 11 AM–12 PM. Call 805-933-7400 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "CEDC Rodney Fernandez Garden Apartments",
+      "address": "212 W Santa Barbara St, Santa Paula, CA 93060",
+      "lat": 34.350096,
+      "lng": -119.077803,
+      "category": "food-assistance",
+      "sourceOrg": "CEDC Rodney Fernandez Garden Apartments",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "3rd Fri 11 AM–12 PM",
+      "start": "2026-10-09T11:00",
+      "end": "2026-10-09T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-centro-cristiano-emanuel-m15-1330",
+      "seriesSlug": "add-centro-cristiano-emanuel",
+      "title": "Centro Cristiano Emanuel — Free Food",
+      "description": "Free food at Centro Cristiano Emanuel. Schedule: 1st Fri 1:30 PM–2:30 PM. Call 805-983-7100 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Centro Cristiano Emanuel",
+      "address": "505 W Harvard Blvd, Santa Paula, CA 93060",
+      "lat": 34.344608,
+      "lng": -119.078887,
+      "category": "food-assistance",
+      "sourceOrg": "Centro Cristiano Emanuel",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "1st Fri 1:30 PM–2:30 PM",
+      "start": "2026-10-09T13:30",
+      "end": "2026-10-09T14:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "1:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-limoneira-ranch-visitor-s-center-senior-kits-m14-1600",
+      "seriesSlug": "add-limoneira-ranch-visitor-s-center-senior-kits",
+      "title": "Limoneira Ranch Visitor's Center (senior kits) — Free Food",
+      "description": "Free food at Limoneira Ranch Visitor's Center (senior kits). Schedule: 1st Thu 4 PM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Limoneira Ranch Visitor's Center (senior kits)",
+      "address": "1141 Cummings Road, Santa Paula, CA 93060",
+      "lat": 34.330109,
+      "lng": -119.12451,
+      "category": "food-assistance",
+      "sourceOrg": "Limoneira Ranch Visitor's Center (senior kits)",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "1st Thu 4 PM–5 PM",
+      "start": "2026-10-08T16:00",
+      "end": "2026-10-08T17:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-lucha-poder-popular-w4-1400",
+      "seriesSlug": "add-lucha-poder-popular",
+      "title": "LUCHA - Poder Popular — Free Food",
+      "description": "Free food at LUCHA - Poder Popular. Schedule: Thu 2 PM–4 PM. Call 805-625-1212 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "LUCHA - Poder Popular",
+      "address": "113 N. Mill Road, Santa Paula, CA 93060",
+      "lat": 34.354231,
+      "lng": -119.061048,
+      "category": "food-assistance",
+      "sourceOrg": "LUCHA - Poder Popular",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Thu 2 PM–4 PM",
+      "start": "2026-09-28T14:00",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-our-lady-of-guadalupe-santa-paula-w1-1600",
+      "seriesSlug": "add-our-lady-of-guadalupe-santa-paula",
+      "title": "Our Lady of Guadalupe - Santa Paula — Free Food",
+      "description": "Free food at Our Lady of Guadalupe - Santa Paula. Schedule: Mon 4 PM–5 PM. Call 805-525-3716 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Our Lady of Guadalupe - Santa Paula",
+      "address": "427 N. Oaks Street, Santa Paula, CA 93060",
+      "lat": 34.361499,
+      "lng": -119.059627,
+      "category": "food-assistance",
+      "sourceOrg": "Our Lady of Guadalupe - Santa Paula",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Mon 4 PM–5 PM",
+      "start": "2026-09-28T16:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-santa-paula-four-square-church-w2-1700",
+      "seriesSlug": "add-santa-paula-four-square-church",
+      "title": "Santa Paula Four Square Church — Free Food",
+      "description": "Free food at Santa Paula Four Square Church. Schedule: Tue 5 PM–6 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Santa Paula Four Square Church",
+      "address": "611 E. Main Street, Santa Paula, CA 93060",
+      "lat": 34.35205,
+      "lng": -119.06687,
+      "category": "food-assistance",
+      "sourceOrg": "Santa Paula Four Square Church",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Tue 5 PM–6 PM",
+      "start": "2026-09-28T17:00",
+      "end": "2026-09-28T18:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-spirit-of-santa-paula-w6-1430",
+      "seriesSlug": "add-spirit-of-santa-paula",
+      "title": "Spirit of Santa Paula — Free Food",
+      "description": "Free food at Spirit of Santa Paula. Schedule: Sat 2:30 PM–3:30 PM. Call 805-229-7750 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Spirit of Santa Paula",
+      "address": "1498 Harvard Street, Santa Paula, CA 93060",
+      "lat": 34.35707,
+      "lng": -119.049863,
+      "category": "food-assistance",
+      "sourceOrg": "Spirit of Santa Paula",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Sat 2:30 PM–3:30 PM",
+      "start": "2026-09-28T14:30",
+      "end": "2026-09-28T15:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-spirit-of-santa-paula-at-1st-presbyterian-church-w3-1630",
+      "seriesSlug": "add-spirit-of-santa-paula-at-1st-presbyterian-church",
+      "title": "Spirit of Santa Paula at 1st Presbyterian Church — Free Food",
+      "description": "Free food at Spirit of Santa Paula at 1st Presbyterian Church. Schedule: Wed 4:30 PM–5:30 PM. Call 805-340-5025 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Spirit of Santa Paula at 1st Presbyterian Church",
+      "address": "121 N. Davis St, Santa Paula, CA 93060",
+      "lat": 34.353882,
+      "lng": -119.062822,
+      "category": "food-assistance",
+      "sourceOrg": "Spirit of Santa Paula at 1st Presbyterian Church",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Wed 4:30 PM–5:30 PM",
+      "start": "2026-09-28T16:30",
+      "end": "2026-09-28T17:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-boys-girls-club-simi-valley-m24-0930",
+      "seriesSlug": "add-boys-girls-club-simi-valley",
+      "title": "Boys & Girls Club - Simi Valley — Free Food",
+      "description": "Free food at Boys & Girls Club - Simi Valley. Schedule: 2nd Thu 9:30 AM–11 AM. Call 805-983-7100 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Boys & Girls Club - Simi Valley",
+      "address": "2850 Lemon Dr, Simi Valley, CA 93063",
+      "lat": 34.287436,
+      "lng": -118.725754,
+      "category": "food-assistance",
+      "sourceOrg": "Boys & Girls Club - Simi Valley",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "2nd Thu 9:30 AM–11 AM",
+      "start": "2026-10-08T09:30",
+      "end": "2026-10-08T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "2:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-centro-familiar-nueva-esperanza-w5-1100",
+      "seriesSlug": "add-centro-familiar-nueva-esperanza",
+      "title": "Centro Familiar Nueva Esperanza — Free Food",
+      "description": "Free food at Centro Familiar Nueva Esperanza. Schedule: Fri 11 AM–12 PM. Call (805) 813-8751 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Centro Familiar Nueva Esperanza",
+      "address": "4680 Alamo Street, Simi Valley, CA 93063",
+      "lat": 34.285571,
+      "lng": -118.702915,
+      "category": "food-assistance",
+      "sourceOrg": "Centro Familiar Nueva Esperanza",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Fri 11 AM–12 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-church-of-the-living-christ-m43-1130",
+      "seriesSlug": "add-church-of-the-living-christ",
+      "title": "Church of the Living Christ — Free Food",
+      "description": "Free food at Church of the Living Christ. Schedule: 4th Wed 11:30 AM–12:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Church of the Living Christ",
+      "address": "171 Royal Avenue, Simi Valley, CA 93065",
+      "lat": 34.26483,
+      "lng": -118.79459,
+      "category": "food-assistance",
+      "sourceOrg": "Church of the Living Christ",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "4th Wed 11:30 AM–12:30 PM",
+      "start": "2026-10-07T11:30",
+      "end": "2026-10-07T12:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "4:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-new-beginnings-christian-fellowship-m2141-1630",
+      "seriesSlug": "add-new-beginnings-christian-fellowship",
+      "title": "New Beginnings Christian Fellowship — Free Food",
+      "description": "Free food at New Beginnings Christian Fellowship. Schedule: 2nd Mon & 4th Mon 4:30 PM–6 PM. Call 805-522-3555 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "New Beginnings Christian Fellowship",
+      "address": "2816 N. Sycamore Dr, Simi Valley, CA 93065",
+      "lat": 34.286731,
+      "lng": -118.725141,
+      "category": "food-assistance",
+      "sourceOrg": "New Beginnings Christian Fellowship",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "2nd Mon & 4th Mon 4:30 PM–6 PM",
+      "start": "2026-10-05T16:30",
+      "end": "2026-10-05T18:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 1
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "2:1,4:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-new-heart-foursquare-church-w7-1130",
+      "seriesSlug": "add-new-heart-foursquare-church",
+      "title": "New Heart Foursquare Church — Free Food",
+      "description": "Free food at New Heart Foursquare Church. Schedule: Sun 11:30 AM–12 PM. Call 805-583-3433 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "New Heart Foursquare Church",
+      "address": "4200 Township Ave, Simi Valley, CA 93063",
+      "lat": 34.29287,
+      "lng": -118.71385,
+      "category": "food-assistance",
+      "sourceOrg": "New Heart Foursquare Church",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Sun 11:30 AM–12 PM",
+      "start": "2026-09-28T11:30",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-revelation-church-m36-1200",
+      "seriesSlug": "add-revelation-church",
+      "title": "Revelation Church — Free Food",
+      "description": "Free food at Revelation Church. Schedule: 3rd Sat 12 PM–2 PM. Call 805-366-4825 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Revelation Church",
+      "address": "580 E. Easy Street, Simi Valley, CA 93065",
+      "lat": 34.273523,
+      "lng": -118.785775,
+      "category": "food-assistance",
+      "sourceOrg": "Revelation Church",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "3rd Sat 12 PM–2 PM",
+      "start": "2026-10-10T12:00",
+      "end": "2026-10-10T14:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-salvation-army-simi-valley-care-and-share-w2-1000",
+      "seriesSlug": "add-salvation-army-simi-valley-care-and-share",
+      "title": "Salvation Army Simi Valley Care and Share — Free Food",
+      "description": "Free food at Salvation Army Simi Valley Care and Share. Schedule: Tue 10 AM–12 PM; Thu 10 AM–12 PM; Thu 1 PM–2 PM. Call 805-527-1070 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salvation Army Simi Valley Care and Share",
+      "address": "1407 Los Angeles Ave Unit T, Simi Valley, CA 93065",
+      "lat": 34.273398,
+      "lng": -118.773294,
+      "category": "food-assistance",
+      "sourceOrg": "Salvation Army Simi Valley Care and Share",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Tue 10 AM–12 PM; Thu 10 AM–12 PM; Thu 1 PM–2 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-salvation-army-simi-valley-care-and-share-w4-1000",
+      "seriesSlug": "add-salvation-army-simi-valley-care-and-share",
+      "title": "Salvation Army Simi Valley Care and Share — Free Food",
+      "description": "Free food at Salvation Army Simi Valley Care and Share. Schedule: Tue 10 AM–12 PM; Thu 10 AM–12 PM; Thu 1 PM–2 PM. Call 805-527-1070 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salvation Army Simi Valley Care and Share",
+      "address": "1407 Los Angeles Ave Unit T, Simi Valley, CA 93065",
+      "lat": 34.273398,
+      "lng": -118.773294,
+      "category": "food-assistance",
+      "sourceOrg": "Salvation Army Simi Valley Care and Share",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Tue 10 AM–12 PM; Thu 10 AM–12 PM; Thu 1 PM–2 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-salvation-army-simi-valley-care-and-share-w4-1300",
+      "seriesSlug": "add-salvation-army-simi-valley-care-and-share",
+      "title": "Salvation Army Simi Valley Care and Share — Free Food",
+      "description": "Free food at Salvation Army Simi Valley Care and Share. Schedule: Tue 10 AM–12 PM; Thu 10 AM–12 PM; Thu 1 PM–2 PM. Call 805-527-1070 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salvation Army Simi Valley Care and Share",
+      "address": "1407 Los Angeles Ave Unit T, Simi Valley, CA 93065",
+      "lat": 34.273398,
+      "lng": -118.773294,
+      "category": "food-assistance",
+      "sourceOrg": "Salvation Army Simi Valley Care and Share",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Tue 10 AM–12 PM; Thu 10 AM–12 PM; Thu 1 PM–2 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-samaritan-center-simi-valley-w24-1100",
+      "seriesSlug": "add-samaritan-center-simi-valley",
+      "title": "Samaritan Center Simi Valley — Free Food",
+      "description": "Free food at Samaritan Center Simi Valley. Schedule: Tue, Thu 11 AM–12 PM. Call 805-579-9166 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Samaritan Center Simi Valley",
+      "address": "280 Royal Ave, Simi Valley, CA 93065",
+      "lat": 34.262885,
+      "lng": -118.792835,
+      "category": "food-assistance",
+      "sourceOrg": "Samaritan Center Simi Valley",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Tue, Thu 11 AM–12 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sewa-international-free-clinic-simi-valley-w5-1400",
+      "seriesSlug": "add-sewa-international-free-clinic-simi-valley",
+      "title": "SEWA International (Free Clinic Simi Valley) — Free Food",
+      "description": "Free food at SEWA International (Free Clinic Simi Valley). Schedule: Fri 2 PM–4 PM. Call 805-328-4561 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "SEWA International (Free Clinic Simi Valley)",
+      "address": "2003 Royal Avenue, Simi Valley, CA 93065",
+      "lat": 34.26305,
+      "lng": -118.75836,
+      "category": "food-assistance",
+      "sourceOrg": "SEWA International (Free Clinic Simi Valley)",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Fri 2 PM–4 PM",
+      "start": "2026-09-28T14:00",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-shepherd-of-the-valley-w4-1400",
+      "seriesSlug": "add-shepherd-of-the-valley",
+      "title": "Shepherd of the Valley — Free Food",
+      "description": "Free food at Shepherd of the Valley. Schedule: Thu 2 PM–6 PM. Call 805-526-7577 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Shepherd of the Valley",
+      "address": "4191 Cochran Ave, Simi Valley, CA 93063",
+      "lat": 34.279322,
+      "lng": -118.713394,
+      "category": "food-assistance",
+      "sourceOrg": "Shepherd of the Valley",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Thu 2 PM–6 PM",
+      "start": "2026-09-28T14:00",
+      "end": "2026-09-28T18:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-spirit-life-church-m-14-1300",
+      "seriesSlug": "add-spirit-life-church",
+      "title": "Spirit Life Church — Free Food",
+      "description": "Free food at Spirit Life Church. Schedule: last Thu 1 PM–2 PM. Call 949-299-6601 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Spirit Life Church",
+      "address": "1482 Sinaloa Road, Simi Valley, CA 93065",
+      "lat": 34.265765,
+      "lng": -118.787266,
+      "category": "food-assistance",
+      "sourceOrg": "Spirit Life Church",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "last Thu 1 PM–2 PM",
+      "start": "2026-10-08T13:00",
+      "end": "2026-10-08T14:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": -1,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "-1:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-peter-claver-m2646-1000",
+      "seriesSlug": "add-st-peter-claver",
+      "title": "St. Peter Claver — Free Food",
+      "description": "Free food at St. Peter Claver. Schedule: 2nd Sat & 4th Sat 10 AM–11 AM. Call 805-526-6499 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Peter Claver",
+      "address": "2380 Stow St, Simi Valley, CA 93063",
+      "lat": 34.278003,
+      "lng": -118.682385,
+      "category": "food-assistance",
+      "sourceOrg": "St. Peter Claver",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "2nd Sat & 4th Sat 10 AM–11 AM",
+      "start": "2026-10-10T10:00",
+      "end": "2026-10-10T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6,4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-somis-pantry-at-faith-baptist-church-m22-1300",
+      "seriesSlug": "add-somis-pantry-at-faith-baptist-church",
+      "title": "Somis Pantry at Faith Baptist Church — Free Food",
+      "description": "Free food at Somis Pantry at Faith Baptist Church. Schedule: 2nd Tue 1 PM–4 PM. Call 805-377-2270 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Somis Pantry at Faith Baptist Church",
+      "address": "3300 West St, Somis, CA 93066",
+      "lat": 34.255846,
+      "lng": -118.998621,
+      "category": "food-assistance",
+      "sourceOrg": "Somis Pantry at Faith Baptist Church",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "2nd Tue 1 PM–4 PM",
+      "start": "2026-10-06T13:00",
+      "end": "2026-10-06T16:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "2:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-adelante-comunidad-conejo-at-conejo-elementary-s-w6-0930",
+      "seriesSlug": "add-adelante-comunidad-conejo-at-conejo-elementary-s",
+      "title": "Adelante Comunidad Conejo at Conejo Elementary School — Free Food",
+      "description": "Free food at Adelante Comunidad Conejo at Conejo Elementary School. Schedule: Sat 9:30 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Adelante Comunidad Conejo at Conejo Elementary School",
+      "address": "280 N. Conejo School Drive, Thousand Oaks, CA 91362",
+      "lat": 34.1777,
+      "lng": -118.84204,
+      "category": "food-assistance",
+      "sourceOrg": "Adelante Comunidad Conejo at Conejo Elementary School",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Sat 9:30 AM–11 AM",
+      "start": "2026-09-28T09:30",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-adelante-comunidad-conejo-at-shadow-apartments-m25-1700",
+      "seriesSlug": "add-adelante-comunidad-conejo-at-shadow-apartments",
+      "title": "Adelante Comunidad Conejo at Shadow Apartments — Free Food",
+      "description": "Free food at Adelante Comunidad Conejo at Shadow Apartments. Schedule: 2nd Fri 5 PM–7 PM. Call 805-338-7066 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Adelante Comunidad Conejo at Shadow Apartments",
+      "address": "1949 Los Feliz Drive, Thousand Oaks, CA 91362",
+      "lat": 34.178969,
+      "lng": -118.846961,
+      "category": "food-assistance",
+      "sourceOrg": "Adelante Comunidad Conejo at Shadow Apartments",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "2nd Fri 5 PM–7 PM",
+      "start": "2026-10-09T17:00",
+      "end": "2026-10-09T19:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "2:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-christian-church-of-thousand-oaks-m1131-1600",
+      "seriesSlug": "add-christian-church-of-thousand-oaks",
+      "title": "Christian Church of Thousand Oaks — Free Food",
+      "description": "Free food at Christian Church of Thousand Oaks. Schedule: 1st Mon & 3rd Mon 4 PM–6 PM. Call 805-492-2474 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Christian Church of Thousand Oaks",
+      "address": "301 Avenida de las Flores, Thousand Oaks, CA 91360",
+      "lat": 34.21294,
+      "lng": -118.88376,
+      "category": "food-assistance",
+      "sourceOrg": "Christian Church of Thousand Oaks",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "1st Mon & 3rd Mon 4 PM–6 PM",
+      "start": "2026-10-05T16:00",
+      "end": "2026-10-05T18:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 1
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "1:1,3:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-many-mansions-at-shadow-hills-m2343-1115",
+      "seriesSlug": "add-many-mansions-at-shadow-hills",
+      "title": "Many Mansions at Shadow Hills — Free Food",
+      "description": "Free food at Many Mansions at Shadow Hills. Schedule: 2nd Wed & 4th Wed 11:15 AM–12:30 PM. Call 805-496-4948 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Many Mansions at Shadow Hills",
+      "address": "227 E. Wilbur Road, Thousand Oaks, CA 91360",
+      "lat": 34.187268,
+      "lng": -118.870879,
+      "category": "food-assistance",
+      "sourceOrg": "Many Mansions at Shadow Hills",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "2nd Wed & 4th Wed 11:15 AM–12:30 PM",
+      "start": "2026-10-07T11:15",
+      "end": "2026-10-07T12:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "2:3,4:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-newbury-park-first-christian-church-w56-0915",
+      "seriesSlug": "add-newbury-park-first-christian-church",
+      "title": "Newbury Park First Christian Church — Free Food",
+      "description": "Free food at Newbury Park First Christian Church. Schedule: Fri–Sat 9:15 AM–10 AM. Call 805-498-2129 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Newbury Park First Christian Church",
+      "address": "801 Knollwood Dr, Thousand Oaks, CA 91320",
+      "lat": 34.162918,
+      "lng": -118.955594,
+      "category": "food-assistance",
+      "sourceOrg": "Newbury Park First Christian Church",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Fri–Sat 9:15 AM–10 AM",
+      "start": "2026-09-28T09:15",
+      "end": "2026-09-28T10:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5,6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-seventh-day-adventist-church-thousand-oaks-w2-1300",
+      "seriesSlug": "add-seventh-day-adventist-church-thousand-oaks",
+      "title": "Seventh Day Adventist Church Thousand Oaks — Free Food",
+      "description": "Free food at Seventh Day Adventist Church Thousand Oaks. Schedule: Tue 1 PM–2 PM; 4th Tue 12:30 PM–2 PM. Call 805-551-7345 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Seventh Day Adventist Church Thousand Oaks",
+      "address": "480 W Gainsborough Rd, Thousand Oaks, CA 91360",
+      "lat": 34.19248,
+      "lng": -118.88799,
+      "category": "food-assistance",
+      "sourceOrg": "Seventh Day Adventist Church Thousand Oaks",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Tue 1 PM–2 PM; 4th Tue 12:30 PM–2 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-seventh-day-adventist-church-thousand-oaks-m42-1230",
+      "seriesSlug": "add-seventh-day-adventist-church-thousand-oaks",
+      "title": "Seventh Day Adventist Church Thousand Oaks — Free Food",
+      "description": "Free food at Seventh Day Adventist Church Thousand Oaks. Schedule: Tue 1 PM–2 PM; 4th Tue 12:30 PM–2 PM. Call 805-551-7345 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Seventh Day Adventist Church Thousand Oaks",
+      "address": "480 W Gainsborough Rd, Thousand Oaks, CA 91360",
+      "lat": 34.19248,
+      "lng": -118.88799,
+      "category": "food-assistance",
+      "sourceOrg": "Seventh Day Adventist Church Thousand Oaks",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Tue 1 PM–2 PM; 4th Tue 12:30 PM–2 PM",
+      "start": "2026-10-06T12:30",
+      "end": "2026-10-06T14:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "4:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-svdp-st-paschal-baylon-w6-0900",
+      "seriesSlug": "add-svdp-st-paschal-baylon",
+      "title": "SVDP - St. Paschal Baylon — Free Food",
+      "description": "Free food at SVDP - St. Paschal Baylon. Schedule: Sat 9 AM–10:30 AM. Call 805-496-0222 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "SVDP - St. Paschal Baylon",
+      "address": "155 E. Janss Rd, Thousand Oaks, CA 91360",
+      "lat": 34.200284,
+      "lng": -118.869447,
+      "category": "food-assistance",
+      "sourceOrg": "SVDP - St. Paschal Baylon",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Sat 9 AM–10:30 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T10:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-united-methodist-church-of-thousand-oaks-m153555-1115",
+      "seriesSlug": "add-united-methodist-church-of-thousand-oaks",
+      "title": "United Methodist Church of Thousand Oaks — Free Food",
+      "description": "Free food at United Methodist Church of Thousand Oaks. Schedule: 1st Fri & 3rd Fri & 5th Fri 11:15 AM–12:15 PM; Wed 3 PM–6 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "United Methodist Church of Thousand Oaks",
+      "address": "1000 E. Janss Road, Thousand Oaks, CA 91360",
+      "lat": 34.1989,
+      "lng": -118.860938,
+      "category": "food-assistance",
+      "sourceOrg": "United Methodist Church of Thousand Oaks",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "1st Fri & 3rd Fri & 5th Fri 11:15 AM–12:15 PM; Wed 3 PM–6 PM",
+      "start": "2026-10-09T11:15",
+      "end": "2026-10-09T12:15",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 5,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "1:5,3:5,5:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-united-methodist-church-of-thousand-oaks-w3-1500",
+      "seriesSlug": "add-united-methodist-church-of-thousand-oaks",
+      "title": "United Methodist Church of Thousand Oaks — Free Food",
+      "description": "Free food at United Methodist Church of Thousand Oaks. Schedule: 1st Fri & 3rd Fri & 5th Fri 11:15 AM–12:15 PM; Wed 3 PM–6 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "United Methodist Church of Thousand Oaks",
+      "address": "1000 E. Janss Road, Thousand Oaks, CA 91360",
+      "lat": 34.1989,
+      "lng": -118.860938,
+      "category": "food-assistance",
+      "sourceOrg": "United Methodist Church of Thousand Oaks",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "1st Fri & 3rd Fri & 5th Fri 11:15 AM–12:15 PM; Wed 3 PM–6 PM",
+      "start": "2026-09-28T15:00",
+      "end": "2026-09-28T18:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-buenaventura-mobile-home-estates-m31-1330",
+      "seriesSlug": "add-buenaventura-mobile-home-estates",
+      "title": "Buenaventura Mobile Home Estates — Free Food",
+      "description": "Free food at Buenaventura Mobile Home Estates. Schedule: 3rd Mon 1:30 PM–2:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Buenaventura Mobile Home Estates",
+      "address": "11405 Darling Rd, Ventura, CA 93004",
+      "lat": 34.291598,
+      "lng": -119.149684,
+      "category": "food-assistance",
+      "sourceOrg": "Buenaventura Mobile Home Estates",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "3rd Mon 1:30 PM–2:30 PM",
+      "start": "2026-10-05T13:30",
+      "end": "2026-10-05T14:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "3:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-catholic-charities-ventura-w2-0930",
+      "seriesSlug": "add-catholic-charities-ventura",
+      "title": "Catholic Charities Ventura — Free Food",
+      "description": "Free food at Catholic Charities Ventura. Schedule: Tue 9:30 AM–11:30 AM; Thu 1 PM–2 PM; Fri 9 AM–11:30 AM. Call 805-643-4694 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Catholic Charities Ventura",
+      "address": "303 N. Ventura Ave, Ventura, CA 93001",
+      "lat": 34.285006,
+      "lng": -119.300239,
+      "category": "food-assistance",
+      "sourceOrg": "Catholic Charities Ventura",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Tue 9:30 AM–11:30 AM; Thu 1 PM–2 PM; Fri 9 AM–11:30 AM",
+      "start": "2026-09-28T09:30",
+      "end": "2026-09-28T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-catholic-charities-ventura-w4-1300",
+      "seriesSlug": "add-catholic-charities-ventura",
+      "title": "Catholic Charities Ventura — Free Food",
+      "description": "Free food at Catholic Charities Ventura. Schedule: Tue 9:30 AM–11:30 AM; Thu 1 PM–2 PM; Fri 9 AM–11:30 AM. Call 805-643-4694 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Catholic Charities Ventura",
+      "address": "303 N. Ventura Ave, Ventura, CA 93001",
+      "lat": 34.285006,
+      "lng": -119.300239,
+      "category": "food-assistance",
+      "sourceOrg": "Catholic Charities Ventura",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Tue 9:30 AM–11:30 AM; Thu 1 PM–2 PM; Fri 9 AM–11:30 AM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-catholic-charities-ventura-w5-0900",
+      "seriesSlug": "add-catholic-charities-ventura",
+      "title": "Catholic Charities Ventura — Free Food",
+      "description": "Free food at Catholic Charities Ventura. Schedule: Tue 9:30 AM–11:30 AM; Thu 1 PM–2 PM; Fri 9 AM–11:30 AM. Call 805-643-4694 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Catholic Charities Ventura",
+      "address": "303 N. Ventura Ave, Ventura, CA 93001",
+      "lat": 34.285006,
+      "lng": -119.300239,
+      "category": "food-assistance",
+      "sourceOrg": "Catholic Charities Ventura",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Tue 9:30 AM–11:30 AM; Thu 1 PM–2 PM; Fri 9 AM–11:30 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-family-to-family-at-catholic-charities-w135-1130",
+      "seriesSlug": "add-family-to-family-at-catholic-charities",
+      "title": "Family to Family (at Catholic Charities) — Free Food",
+      "description": "Free food at Family to Family (at Catholic Charities). Schedule: Mon, Wed, Fri 11:30 AM–12:30 PM; Sat–Sun 8 AM–9 AM. Call (818) 216-0813 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Family to Family (at Catholic Charities)",
+      "address": "303 N. Ventura Ave, Ventura, CA 93001",
+      "lat": 34.285006,
+      "lng": -119.300239,
+      "category": "food-assistance",
+      "sourceOrg": "Family to Family (at Catholic Charities)",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Mon, Wed, Fri 11:30 AM–12:30 PM; Sat–Sun 8 AM–9 AM",
+      "start": "2026-09-28T11:30",
+      "end": "2026-09-28T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-family-to-family-at-catholic-charities-w67-0800",
+      "seriesSlug": "add-family-to-family-at-catholic-charities",
+      "title": "Family to Family (at Catholic Charities) — Free Food",
+      "description": "Free food at Family to Family (at Catholic Charities). Schedule: Mon, Wed, Fri 11:30 AM–12:30 PM; Sat–Sun 8 AM–9 AM. Call (818) 216-0813 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Family to Family (at Catholic Charities)",
+      "address": "303 N. Ventura Ave, Ventura, CA 93001",
+      "lat": 34.285006,
+      "lng": -119.300239,
+      "category": "food-assistance",
+      "sourceOrg": "Family to Family (at Catholic Charities)",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Mon, Wed, Fri 11:30 AM–12:30 PM; Sat–Sun 8 AM–9 AM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T09:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6,7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-cedc-azahar-place-apartments-m23-1600",
+      "seriesSlug": "add-cedc-azahar-place-apartments",
+      "title": "CEDC - Azahar Place Apartments — Free Food",
+      "description": "Free food at CEDC - Azahar Place Apartments. Schedule: 2nd Wed 4 PM–5 PM. Call 805-647-2700 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "CEDC - Azahar Place Apartments",
+      "address": "11370 Mimosa St, Ventura, CA 93004",
+      "lat": 34.29315,
+      "lng": -119.151661,
+      "category": "food-assistance",
+      "sourceOrg": "CEDC - Azahar Place Apartments",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "2nd Wed 4 PM–5 PM",
+      "start": "2026-10-07T16:00",
+      "end": "2026-10-07T17:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "2:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-church-of-scientology-of-ventura-m1636-1000",
+      "seriesSlug": "add-church-of-scientology-of-ventura",
+      "title": "Church of Scientology of Ventura — Free Food",
+      "description": "Free food at Church of Scientology of Ventura. Schedule: 1st Sat & 3rd Sat 10 AM–1 PM. Call (805) 585-4400 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Church of Scientology of Ventura",
+      "address": "2151 Alessandro Avenue, Ventura, CA 93001",
+      "lat": 34.267951,
+      "lng": -119.270485,
+      "category": "food-assistance",
+      "sourceOrg": "Church of Scientology of Ventura",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "1st Sat & 3rd Sat 10 AM–1 PM",
+      "start": "2026-10-10T10:00",
+      "end": "2026-10-10T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "1:6,3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-city-church-california-m1636-1000",
+      "seriesSlug": "add-city-church-california",
+      "title": "City Church California — Free Food",
+      "description": "Free food at City Church California. Schedule: 1st Sat & 3rd Sat 10 AM–12 PM. Call 805-676-1040 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "City Church California",
+      "address": "6360 Telephone Road, Ventura, CA 93004",
+      "lat": 34.265545,
+      "lng": -119.20662,
+      "category": "food-assistance",
+      "sourceOrg": "City Church California",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "1st Sat & 3rd Sat 10 AM–12 PM",
+      "start": "2026-10-10T10:00",
+      "end": "2026-10-10T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "1:6,3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-community-bible-church-m2646-1000",
+      "seriesSlug": "add-community-bible-church",
+      "title": "Community Bible Church — Free Food",
+      "description": "Free food at Community Bible Church. Schedule: 2nd Sat & 4th Sat 10 AM–12 PM. Call 805-339-0019 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Community Bible Church",
+      "address": "5040 Telegraph Rd, Ventura, CA 93003",
+      "lat": 34.27582,
+      "lng": -119.22673,
+      "category": "food-assistance",
+      "sourceOrg": "Community Bible Church",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "2nd Sat & 4th Sat 10 AM–12 PM",
+      "start": "2026-10-10T10:00",
+      "end": "2026-10-10T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6,4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-community-presbyterian-church-m54-0900",
+      "seriesSlug": "add-community-presbyterian-church",
+      "title": "Community Presbyterian Church — Free Food",
+      "description": "Free food at Community Presbyterian Church. Schedule: 5th Thu 9 AM–10 AM. Call 805-985-3917 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Community Presbyterian Church",
+      "address": "1555 Poli St, Ventura, CA 93001",
+      "lat": 34.281993,
+      "lng": -119.277088,
+      "category": "food-assistance",
+      "sourceOrg": "Community Presbyterian Church",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "5th Thu 9 AM–10 AM",
+      "start": "2026-10-08T09:00",
+      "end": "2026-10-08T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 5,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "5:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-mission-f-i-s-h-at-fellowship-hall-w6-1330",
+      "seriesSlug": "add-mission-f-i-s-h-at-fellowship-hall",
+      "title": "Mission F.I.S.H. at Fellowship Hall — Free Food",
+      "description": "Free food at Mission F.I.S.H. at Fellowship Hall. Schedule: Sat 1:30 PM–3 PM. Call 805-646-1125 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Mission F.I.S.H. at Fellowship Hall",
+      "address": "660 N Ventura Ave, Ventura, CA 93001",
+      "lat": 34.289117,
+      "lng": -119.29805,
+      "category": "food-assistance",
+      "sourceOrg": "Mission F.I.S.H. at Fellowship Hall",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Sat 1:30 PM–3 PM",
+      "start": "2026-09-28T13:30",
+      "end": "2026-09-28T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-westpark-community-center-pal-m33-1530",
+      "seriesSlug": "add-westpark-community-center-pal",
+      "title": "Westpark Community Center (PAL) — Free Food",
+      "description": "Free food at Westpark Community Center (PAL). Schedule: 3rd Wed 3:30 PM–4:30 PM. Call 805-648-1895 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Westpark Community Center (PAL)",
+      "address": "450 W Harrison Ave, Ventura, CA 93001",
+      "lat": 34.287842,
+      "lng": -119.30603,
+      "category": "food-assistance",
+      "sourceOrg": "Westpark Community Center (PAL)",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "3rd Wed 3:30 PM–4:30 PM",
+      "start": "2026-10-07T15:30",
+      "end": "2026-10-07T16:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sacred-heart-food-pantry-at-cabrillo-village-m2343-1000",
+      "seriesSlug": "add-sacred-heart-food-pantry-at-cabrillo-village",
+      "title": "Sacred Heart Food Pantry at Cabrillo Village — Free Food",
+      "description": "Free food at Sacred Heart Food Pantry at Cabrillo Village. Schedule: 2nd Wed & 4th Wed 10 AM–12 PM. Call 805-794-0046 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Sacred Heart Food Pantry at Cabrillo Village",
+      "address": "1515 S Saticoy Ave, Ventura, CA 93004",
+      "lat": 34.27538,
+      "lng": -119.155032,
+      "category": "food-assistance",
+      "sourceOrg": "Sacred Heart Food Pantry at Cabrillo Village",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "2nd Wed & 4th Wed 10 AM–12 PM",
+      "start": "2026-10-07T10:00",
+      "end": "2026-10-07T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "2:3,4:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-salvation-army-ventura-east-end-w3-1100",
+      "seriesSlug": "add-salvation-army-ventura-east-end",
+      "title": "Salvation Army Ventura (East End) — Free Food",
+      "description": "Free food at Salvation Army Ventura (East End). Schedule: Wed 11 AM–1 PM; 2nd Fri & 4th Fri 11 AM–1 PM; 1st Mon 9:30 AM–10:30 AM. Call 805-659-3598 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salvation Army Ventura (East End)",
+      "address": "650 S Petit Ave, Ventura, CA 93004",
+      "lat": 34.27675,
+      "lng": -119.175073,
+      "category": "food-assistance",
+      "sourceOrg": "Salvation Army Ventura (East End)",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Wed 11 AM–1 PM; 2nd Fri & 4th Fri 11 AM–1 PM; 1st Mon 9:30 AM–10:30 AM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-salvation-army-ventura-east-end-m2545-1100",
+      "seriesSlug": "add-salvation-army-ventura-east-end",
+      "title": "Salvation Army Ventura (East End) — Free Food",
+      "description": "Free food at Salvation Army Ventura (East End). Schedule: Wed 11 AM–1 PM; 2nd Fri & 4th Fri 11 AM–1 PM; 1st Mon 9:30 AM–10:30 AM. Call 805-659-3598 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salvation Army Ventura (East End)",
+      "address": "650 S Petit Ave, Ventura, CA 93004",
+      "lat": 34.27675,
+      "lng": -119.175073,
+      "category": "food-assistance",
+      "sourceOrg": "Salvation Army Ventura (East End)",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Wed 11 AM–1 PM; 2nd Fri & 4th Fri 11 AM–1 PM; 1st Mon 9:30 AM–10:30 AM",
+      "start": "2026-10-09T11:00",
+      "end": "2026-10-09T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "2:5,4:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-salvation-army-ventura-east-end-m11-0930",
+      "seriesSlug": "add-salvation-army-ventura-east-end",
+      "title": "Salvation Army Ventura (East End) — Free Food",
+      "description": "Free food at Salvation Army Ventura (East End). Schedule: Wed 11 AM–1 PM; 2nd Fri & 4th Fri 11 AM–1 PM; 1st Mon 9:30 AM–10:30 AM. Call 805-659-3598 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salvation Army Ventura (East End)",
+      "address": "650 S Petit Ave, Ventura, CA 93004",
+      "lat": 34.27675,
+      "lng": -119.175073,
+      "category": "food-assistance",
+      "sourceOrg": "Salvation Army Ventura (East End)",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Wed 11 AM–1 PM; 2nd Fri & 4th Fri 11 AM–1 PM; 1st Mon 9:30 AM–10:30 AM",
+      "start": "2026-10-05T09:30",
+      "end": "2026-10-05T10:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "1:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-salvation-army-ventura-at-valentine-rd-m13-0900",
+      "seriesSlug": "add-salvation-army-ventura-at-valentine-rd",
+      "title": "Salvation Army Ventura at Valentine Rd — Free Food",
+      "description": "Free food at Salvation Army Ventura at Valentine Rd. Schedule: 1st Wed 9 AM–10 AM. Call 805-302-2249 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salvation Army Ventura at Valentine Rd",
+      "address": "5818 Valentine Road, Ventura, CA 93003",
+      "lat": 34.250729,
+      "lng": -119.211527,
+      "category": "food-assistance",
+      "sourceOrg": "Salvation Army Ventura at Valentine Rd",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "1st Wed 9 AM–10 AM",
+      "start": "2026-10-07T09:00",
+      "end": "2026-10-07T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "1:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-salvation-army-ventura-at-westview-boys-girls-cl-m36-1000",
+      "seriesSlug": "add-salvation-army-ventura-at-westview-boys-girls-cl",
+      "title": "Salvation Army Ventura at Westview Boys & Girls Club — Free Food",
+      "description": "Free food at Salvation Army Ventura at Westview Boys & Girls Club. Schedule: 3rd Sat 10 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salvation Army Ventura at Westview Boys & Girls Club",
+      "address": "1187 Riverside St, Ventura, CA 93001",
+      "lat": 34.295227,
+      "lng": -119.303167,
+      "category": "food-assistance",
+      "sourceOrg": "Salvation Army Ventura at Westview Boys & Girls Club",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "3rd Sat 10 AM–11 AM",
+      "start": "2026-10-10T10:00",
+      "end": "2026-10-10T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-seaward-church-m2747-1400",
+      "seriesSlug": "add-seaward-church",
+      "title": "Seaward Church — Free Food",
+      "description": "Free food at Seaward Church. Schedule: 2nd Sun & 4th Sun 2 PM–3 PM. Call (805) 643-2273 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Seaward Church",
+      "address": "365 S. Seaward Avenue, Ventura, CA 93003",
+      "lat": 34.27188,
+      "lng": -119.267317,
+      "category": "food-assistance",
+      "sourceOrg": "Seaward Church",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "2nd Sun & 4th Sun 2 PM–3 PM",
+      "start": "2026-10-11T14:00",
+      "end": "2026-10-11T15:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 7
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 7
+          }
+        ]
+      },
+      "recurDays": "2:7,4:7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-temple-beth-torah-w2-0930",
+      "seriesSlug": "add-temple-beth-torah",
+      "title": "Temple Beth Torah — Free Food",
+      "description": "Free food at Temple Beth Torah. Schedule: Tue 9:30 AM–10:30 AM. Call 805-647-4181 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Temple Beth Torah",
+      "address": "7620 Foothill Rd, Ventura, CA 93004",
+      "lat": 34.287743,
+      "lng": -119.194218,
+      "category": "food-assistance",
+      "sourceOrg": "Temple Beth Torah",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Tue 9:30 AM–10:30 AM",
+      "start": "2026-09-28T09:30",
+      "end": "2026-09-28T10:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-river-community-w1-1100",
+      "seriesSlug": "add-the-river-community",
+      "title": "The River Community — Free Food",
+      "description": "Free food at The River Community. Schedule: Mon 11 AM–1 PM. Call 805-648-7955 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The River Community",
+      "address": "859 E Santa Clara St, Ventura, CA 93001",
+      "lat": 34.279815,
+      "lng": -119.287618,
+      "category": "food-assistance",
+      "sourceOrg": "The River Community",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Mon 11 AM–1 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-two-trees-church-of-christ-m35-1130",
+      "seriesSlug": "add-two-trees-church-of-christ",
+      "title": "Two Trees Church of Christ — Free Food",
+      "description": "Free food at Two Trees Church of Christ. Schedule: 3rd Fri 11:30 AM–12:30 PM. Call 805-667-8695 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Two Trees Church of Christ",
+      "address": "767 N Ventura Ave, Ventura, CA 93001",
+      "lat": 34.29041,
+      "lng": -119.29851,
+      "category": "food-assistance",
+      "sourceOrg": "Two Trees Church of Christ",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "3rd Fri 11:30 AM–12:30 PM",
+      "start": "2026-10-09T11:30",
+      "end": "2026-10-09T12:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-willett-ranch-senior-apartments-m24-1330",
+      "seriesSlug": "add-willett-ranch-senior-apartments",
+      "title": "Willett Ranch Senior Apartments — Free Food",
+      "description": "Free food at Willett Ranch Senior Apartments. Schedule: 2nd Thu 1:30 PM–2:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Willett Ranch Senior Apartments",
+      "address": "55 Willett Street, Ventura, CA 93001",
+      "lat": 34.30805,
+      "lng": -119.29203,
+      "category": "food-assistance",
+      "sourceOrg": "Willett Ranch Senior Apartments",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "2nd Thu 1:30 PM–2:30 PM",
+      "start": "2026-10-08T13:30",
+      "end": "2026-10-08T14:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "2:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-calvary-community-church-w2-0930",
+      "seriesSlug": "add-calvary-community-church",
+      "title": "Calvary Community Church — Free Food",
+      "description": "Free food at Calvary Community Church. Schedule: Tue 9:30 AM–10:30 AM. Call 818-575-2271 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Calvary Community Church",
+      "address": "5495 Via Rocas, Westlake Village, CA 91362",
+      "lat": 34.152215,
+      "lng": -118.808117,
+      "category": "food-assistance",
+      "sourceOrg": "Calvary Community Church",
+      "url": "https://foodshare.com/findhelp",
+      "schedulePattern": "Tue 9:30 AM–10:30 AM",
+      "start": "2026-09-28T09:30",
+      "end": "2026-09-28T10:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    }
+  ]
+}

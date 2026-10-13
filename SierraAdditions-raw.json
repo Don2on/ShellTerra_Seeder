@@ -1,0 +1,113 @@
+{
+  "_meta": {
+    "topic": "Sierra County food distributions",
+    "generated": "2026-10-11",
+    "source": "Hand-collected list (Sierra County, Siskiyou/Great Northern Services, Food Bank of Contra Costa & Solano, Redwood Empire Food Bank). Schedules parsed via LA clause parser.",
+    "note": "Drop-in raw for prepare-food-additions.mjs. Single-time entries route to _deferred."
+  },
+  "sites": [
+    {
+      "name": "Golden Rays Senior Center (commodities)",
+      "org": "Golden Rays Senior Center (commodities)",
+      "address": "305A Main St, Downieville, CA 95936",
+      "phone": "530-862-5030",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "Usually 1st Thu 8am",
+      "schedules": []
+    },
+    {
+      "name": "Western Sierra Food Bank (Immaculate Conception Catholic Church)",
+      "org": "Western Sierra Food Bank (Immaculate Conception Catholic Church)",
+      "address": "Sunnyside Drive, Downieville, CA 95936",
+      "phone": "530-277-8954",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "1st Thu 12pm-2pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu"
+          ],
+          "open": "12:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Loyalton Senior Center (commodities)",
+      "org": "Loyalton Senior Center (commodities)",
+      "address": "302 First Street, Loyalton, CA 96118",
+      "phone": "530-993-4770",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Thu 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Loyalton Food Bank - High Sierras Family Services",
+      "org": "Loyalton Food Bank - High Sierras Family Services",
+      "address": "315 Main St, Loyalton, CA 96118",
+      "phone": "530-993-1110",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st and 3rd Fri 1:30pm; office Tue-Fri 10am-4pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri",
+            "3rd Fri",
+            "1st Tue",
+            "3rd Tue",
+            "1st Wed",
+            "3rd Wed",
+            "1st Thu",
+            "3rd Thu"
+          ],
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Sierra City Community Hall (commodities)",
+      "org": "Sierra City Community Hall (commodities)",
+      "address": "425 Main Street, Sierra City, CA 96125",
+      "phone": "530-862-1307",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Usually last Thu of month 1pm-3pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "last Thu"
+          ],
+          "open": "13:00",
+          "close": "15:00"
+        }
+      ]
+    }
+  ]
+}

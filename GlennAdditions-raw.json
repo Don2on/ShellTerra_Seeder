@@ -1,0 +1,235 @@
+{
+  "_meta": {
+    "topic": "Glenn County food distributions",
+    "generated": "2026-10-11",
+    "source": "Hand-collected list (Central California Food Bank, North State / NVC Food Bank, Food for People, Imperial Valley Food Bank locators). Schedules parsed via LA clause parser. lat/lng geocoded downstream.",
+    "note": "Drop-in raw for prepare-food-additions.mjs. Same-address program variants kept as separate pins (allowColocated). \"Monthly (date varies)\" and single start-times route to _deferred."
+  },
+  "sites": [
+    {
+      "name": "Elk Creek Grange (monthly commodity distribution)",
+      "org": "Elk Creek Grange (monthly commodity distribution)",
+      "address": "145 Church St, Elk Creek, CA 95939",
+      "phone": "(530) 712-2600",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "date varies, call",
+      "schedules": []
+    },
+    {
+      "name": "Hamilton City Evangelical Free Church (monthly commodity distribution)",
+      "org": "Hamilton City Evangelical Free Church (monthly commodity distribution)",
+      "address": "490 Los Robles Ave, Hamilton City, CA 95951",
+      "phone": "(530) 712-2600",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "date varies, usually 3rd week",
+      "schedules": []
+    },
+    {
+      "name": "Capay Rancho Assembly of God",
+      "org": "Capay Rancho Assembly of God",
+      "address": "4754 4th Ave, Orland, CA 95963",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://nvcfoodbank.org/locations/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Tue 2-4pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Tue"
+          ],
+          "open": "14:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Federated Church of Orland",
+      "org": "Federated Church of Orland",
+      "address": "709 1st St, Orland, CA 95963",
+      "phone": "(530) 865-3131",
+      "eligibility": "",
+      "website": "https://nvcfoodbank.org/locations/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Tue 10am",
+      "schedules": []
+    },
+    {
+      "name": "First Christian Church of Orland",
+      "org": "First Christian Church of Orland",
+      "address": "635 A St, Orland, CA 95963",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://nvcfoodbank.org/locations/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Sat 12-2pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Sat"
+          ],
+          "open": "12:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Glenn County Fairgrounds (North State Food Bank drive-thru)",
+      "org": "Glenn County Fairgrounds (North State Food Bank drive-thru)",
+      "address": "221 E Yolo St, Orland, CA 95963",
+      "phone": "(530) 712-2600",
+      "eligibility": "",
+      "website": "https://www.buttecaa.com/north-state-food-bank/distribution-calendar/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Oct 2, 2026; date varies",
+      "schedules": []
+    },
+    {
+      "name": "Orland Pantry at First Lutheran Church",
+      "org": "Orland Pantry at First Lutheran Church",
+      "address": "19 Colusa St, Orland, CA 95963",
+      "phone": "(530) 681-6334",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 10am-12pm; Wed 3-5pm; monthly commodities 9-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "15:00",
+          "close": "17:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "First Baptist Church Willows",
+      "org": "First Baptist Church Willows",
+      "address": "154 N Lassen St, Willows, CA 95988",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Fri 12-2pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Fri"
+          ],
+          "open": "12:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Willows Adventist Community Services Food Bank",
+      "org": "Willows Adventist Community Services Food Bank",
+      "address": "543 W 1st Ave, Willows, CA 95988",
+      "phone": "(530) 934-3212",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 9-11am; monthly commodities 12-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Real Life Church",
+      "org": "Real Life Church",
+      "address": "1044 Trinity St, Orland, CA 95963",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://nvcfoodbank.org/locations/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "",
+      "schedules": []
+    },
+    {
+      "name": "Tri Counties Community Action Partnership",
+      "org": "Tri Counties Community Action Partnership",
+      "address": "318 6th St, Orland, CA 95963",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "",
+      "schedules": []
+    },
+    {
+      "name": "Church of the Nazarene / North Valley Community Food Bank",
+      "org": "Church of the Nazarene / North Valley Community Food Bank",
+      "address": "216 N Culver St, Willows, CA 95988",
+      "phone": "(530) 473-9050",
+      "eligibility": "",
+      "website": "https://nvcfoodbank.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "",
+      "schedules": []
+    },
+    {
+      "name": "First 5 Glenn County",
+      "org": "First 5 Glenn County",
+      "address": "1035 W Wood St, Willows, CA 95988",
+      "phone": "(530) 934-6885",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "",
+      "schedules": []
+    }
+  ]
+}

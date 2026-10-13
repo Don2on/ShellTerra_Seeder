@@ -1,0 +1,4354 @@
+{
+  "_comment": "Poway-area food provider directory. Findhelp's 'food pantry in Poway' results (24) contain no providers located in Poway; they are county-wide (Chula Vista, Oceanside, Encinitas etc.). So this file combines (1) providers actually in/near Poway found via the orgs' sites, San Diego Food Bank calendars and City of Poway docs, and (2) the findhelp regional list, with schedules corrected from each org's own website. Events generated 2026-09-28 to 2026-12-31 from published recurring schedules.",
+  "_shell": "FoodDistributionPoway",
+  "_shellId": "REPLACE_WITH_POWAY_SHELL_ID",
+  "_collection": "vendors",
+  "_source": "findhelp.org food-pantry--poway-ca (Sep 2026) + org websites/social + San Diego Food Bank 2026 Senior Food Program calendar + poway.org",
+  "_verify_before_running": "Set _shellId. All lat/lng are null: geocode before seeding. Review _verifyNotes. _excluded lists dropped programs.",
+  "_excluded": [
+    "City of Poway - Congregate Meal Program (Poway Senior Center): not free (paid tiers, reservation required)",
+    "Mesa View Baptist Church: only source is a March 2023 Food Bank roster; church site shows no food program",
+    "4CommunityCare: no public schedule",
+    "Penasquitos Lutheran Church (Community Food and Prayer site): only source dated 2017; referral-based",
+    "Society of St. Vincent de Paul - Diocesan Council of San Diego: no public pantry hours",
+    "Catholic Charities Diocese of San Diego: page shows temporarily closed notice",
+    "Mama's Kitchen: home delivery, medical referral only",
+    "Christ The King Lutheran Church: God's Bounty not mentioned on church site (unverified)",
+    "Jacobs and Cushman San Diego Food Bank: no single site; senior boxes assigned at enrollment (RB site included separately)",
+    "USO San Diego: appears discontinued; active duty only",
+    "Saint Rose of Lima Catholic Church: no schedule found"
+  ],
+  "_eventCount": 776,
+  "vendors": [
+    {
+      "slug": "the-community-food-connection-poway",
+      "name": "The Community Food Connection",
+      "category": "Food Assistance",
+      "tagline": "Every Mon, Wed, Fri, 3 PM - 6 PM · Poway area",
+      "description": "Free food program (Drive-thru grocery distribution (perishables and non-perishables)). Schedule: Drive-thru Food Distribution: Every Mon, Wed, Fri, 3 PM - 6 PM. Eligibility: Not stated on site; serves Poway, Ramona, Rancho Bernardo and surrounding communities. SDFB EFAP partner.. Call ahead to confirm - distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.thecommunityfoodconnection.com/",
+      "phone": "(858) 751-4613",
+      "email": "",
+      "instagram": "",
+      "facebook": "https://www.facebook.com/Thecommunityfoodconnection/",
+      "tiktok": "",
+      "address": "14047 Twin Peaks Road, Building C (behind Trinity Church), Poway, CA 92064",
+      "lat": null,
+      "lng": null,
+      "neighborhood": "Poway",
+      "hours": "Every Mon, Wed, Fri, 3 PM - 6 PM (Drive-thru Food Distribution)",
+      "featured": false,
+      "verified": false,
+      "_tier": "Poway area",
+      "_verifyNotes": "Schedule consistent across org homepage, The Church at Rancho Bernardo resource list, and SDFB EFAP roster (dated 2023-03-22). Schedule pattern uses 3 days (Mon/Wed/Fri), extending the requested pattern format. Phone conflict: org site and Church at RB list (858) 751-4613; City of Poway food-recovery doc (2025-07-30) lists (858) 487-4755, which is actually St. Michael's parish number, so treat as an error. No Instagram found. /get-food-1 and /contact pages blocked by robots.txt. A 2017 Community Food and Prayer page also listed 'The Connection Church' at this same address with a 4th-Thursday SDFB distribution for 92064 families; not confirmed current.",
+      "events": [
+        {
+          "date": "2026-09-28",
+          "time": "15:00",
+          "title": "The Community Food Connection - Drive-thru Food Distribution"
+        },
+        {
+          "date": "2026-09-30",
+          "time": "15:00",
+          "title": "The Community Food Connection - Drive-thru Food Distribution"
+        },
+        {
+          "date": "2026-10-02",
+          "time": "15:00",
+          "title": "The Community Food Connection - Drive-thru Food Distribution"
+        },
+        {
+          "date": "2026-10-05",
+          "time": "15:00",
+          "title": "The Community Food Connection - Drive-thru Food Distribution"
+        },
+        {
+          "date": "2026-10-07",
+          "time": "15:00",
+          "title": "The Community Food Connection - Drive-thru Food Distribution"
+        },
+        {
+          "date": "2026-10-09",
+          "time": "15:00",
+          "title": "The Community Food Connection - Drive-thru Food Distribution"
+        },
+        {
+          "date": "2026-10-12",
+          "time": "15:00",
+          "title": "The Community Food Connection - Drive-thru Food Distribution"
+        },
+        {
+          "date": "2026-10-14",
+          "time": "15:00",
+          "title": "The Community Food Connection - Drive-thru Food Distribution"
+        },
+        {
+          "date": "2026-10-16",
+          "time": "15:00",
+          "title": "The Community Food Connection - Drive-thru Food Distribution"
+        },
+        {
+          "date": "2026-10-19",
+          "time": "15:00",
+          "title": "The Community Food Connection - Drive-thru Food Distribution"
+        },
+        {
+          "date": "2026-10-21",
+          "time": "15:00",
+          "title": "The Community Food Connection - Drive-thru Food Distribution"
+        },
+        {
+          "date": "2026-10-23",
+          "time": "15:00",
+          "title": "The Community Food Connection - Drive-thru Food Distribution"
+        },
+        {
+          "date": "2026-10-26",
+          "time": "15:00",
+          "title": "The Community Food Connection - Drive-thru Food Distribution"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "15:00",
+          "title": "The Community Food Connection - Drive-thru Food Distribution"
+        },
+        {
+          "date": "2026-10-30",
+          "time": "15:00",
+          "title": "The Community Food Connection - Drive-thru Food Distribution"
+        },
+        {
+          "date": "2026-11-02",
+          "time": "15:00",
+          "title": "The Community Food Connection - Drive-thru Food Distribution"
+        },
+        {
+          "date": "2026-11-04",
+          "time": "15:00",
+          "title": "The Community Food Connection - Drive-thru Food Distribution"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "15:00",
+          "title": "The Community Food Connection - Drive-thru Food Distribution"
+        },
+        {
+          "date": "2026-11-09",
+          "time": "15:00",
+          "title": "The Community Food Connection - Drive-thru Food Distribution"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "15:00",
+          "title": "The Community Food Connection - Drive-thru Food Distribution"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "15:00",
+          "title": "The Community Food Connection - Drive-thru Food Distribution"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "15:00",
+          "title": "The Community Food Connection - Drive-thru Food Distribution"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "15:00",
+          "title": "The Community Food Connection - Drive-thru Food Distribution"
+        },
+        {
+          "date": "2026-11-20",
+          "time": "15:00",
+          "title": "The Community Food Connection - Drive-thru Food Distribution"
+        },
+        {
+          "date": "2026-11-23",
+          "time": "15:00",
+          "title": "The Community Food Connection - Drive-thru Food Distribution"
+        },
+        {
+          "date": "2026-11-25",
+          "time": "15:00",
+          "title": "The Community Food Connection - Drive-thru Food Distribution"
+        },
+        {
+          "date": "2026-11-27",
+          "time": "15:00",
+          "title": "The Community Food Connection - Drive-thru Food Distribution"
+        },
+        {
+          "date": "2026-11-30",
+          "time": "15:00",
+          "title": "The Community Food Connection - Drive-thru Food Distribution"
+        },
+        {
+          "date": "2026-12-02",
+          "time": "15:00",
+          "title": "The Community Food Connection - Drive-thru Food Distribution"
+        },
+        {
+          "date": "2026-12-04",
+          "time": "15:00",
+          "title": "The Community Food Connection - Drive-thru Food Distribution"
+        },
+        {
+          "date": "2026-12-07",
+          "time": "15:00",
+          "title": "The Community Food Connection - Drive-thru Food Distribution"
+        },
+        {
+          "date": "2026-12-09",
+          "time": "15:00",
+          "title": "The Community Food Connection - Drive-thru Food Distribution"
+        },
+        {
+          "date": "2026-12-11",
+          "time": "15:00",
+          "title": "The Community Food Connection - Drive-thru Food Distribution"
+        },
+        {
+          "date": "2026-12-14",
+          "time": "15:00",
+          "title": "The Community Food Connection - Drive-thru Food Distribution"
+        },
+        {
+          "date": "2026-12-16",
+          "time": "15:00",
+          "title": "The Community Food Connection - Drive-thru Food Distribution"
+        },
+        {
+          "date": "2026-12-18",
+          "time": "15:00",
+          "title": "The Community Food Connection - Drive-thru Food Distribution"
+        },
+        {
+          "date": "2026-12-21",
+          "time": "15:00",
+          "title": "The Community Food Connection - Drive-thru Food Distribution"
+        },
+        {
+          "date": "2026-12-23",
+          "time": "15:00",
+          "title": "The Community Food Connection - Drive-thru Food Distribution"
+        },
+        {
+          "date": "2026-12-25",
+          "time": "15:00",
+          "title": "The Community Food Connection - Drive-thru Food Distribution"
+        },
+        {
+          "date": "2026-12-28",
+          "time": "15:00",
+          "title": "The Community Food Connection - Drive-thru Food Distribution"
+        },
+        {
+          "date": "2026-12-30",
+          "time": "15:00",
+          "title": "The Community Food Connection - Drive-thru Food Distribution"
+        }
+      ]
+    },
+    {
+      "slug": "north-city-presbyterian-church-poway",
+      "name": "North City Presbyterian Church",
+      "category": "Food Assistance",
+      "tagline": "2nd Friday monthly, 2 PM - 4 PM · Poway area",
+      "description": "Free food program (Monthly drive-thru food distribution (San Diego Food Bank Neighborhood Distribution site)). Schedule: Drive-thru Food Distribution: 2nd Friday monthly, 2 PM - 4 PM. Eligibility: Anyone welcome, no income requirements. Drive-thru only, one box per vehicle, first come first served; no walk-ups.. Call ahead to confirm - distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://northcitychurch.com/ministries/food-distribution",
+      "phone": "(858) 748-4642",
+      "email": "",
+      "instagram": "",
+      "facebook": "https://www.facebook.com/p/North-City-Presbyterian-Church-100064839724398/",
+      "tiktok": "",
+      "address": "11717 Poway Rd, Poway, CA 92064",
+      "lat": null,
+      "lng": null,
+      "neighborhood": "Poway",
+      "hours": "2nd Friday monthly, 2 PM - 4 PM (Drive-thru Food Distribution)",
+      "featured": false,
+      "verified": false,
+      "_tier": "Poway area",
+      "_verifyNotes": "Vehicles allowed on property from 1:00 PM; runs until food is gone. Email information@northcitychurch.com. Network of Care listing (403 on fetch) confirms it as an SDFB Neighborhood Distribution site. Next 2nd Fridays would be 2026-10-09, 2026-11-13, 2026-12-11 (computed from pattern, not from a dated source, so not listed as activities).",
+      "events": [
+        {
+          "date": "2026-10-09",
+          "time": "14:00",
+          "title": "North City Presbyterian Church - Drive-thru Food Distribution"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "14:00",
+          "title": "North City Presbyterian Church - Drive-thru Food Distribution"
+        },
+        {
+          "date": "2026-12-11",
+          "time": "14:00",
+          "title": "North City Presbyterian Church - Drive-thru Food Distribution"
+        }
+      ]
+    },
+    {
+      "slug": "the-church-at-rancho-bernardo-sdfb-senior-food-program-site-san-diego",
+      "name": "The Church at Rancho Bernardo (SDFB Senior Food Program site)",
+      "category": "Food Assistance",
+      "tagline": "2nd Friday monthly, 10 AM - 10:30 AM · Poway area",
+      "description": "Free food program (San Diego Food Bank Senior Food Program (CSFP) monthly senior food box). Schedule: Senior Food Program: 2nd Friday monthly, 10 AM - 10:30 AM. Eligibility: Seniors 60+ meeting income requirements; must apply in person with proof of date of birth and address. Call SDFB to verify eligibility first.. Call ahead to confirm - distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.thechurchrb.org/",
+      "phone": "1-866-350-3663 (San Diego Food Bank)",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "11740 Bernardo Plaza Ct, San Diego, CA 92128",
+      "lat": null,
+      "lng": null,
+      "neighborhood": "San Diego",
+      "hours": "2nd Friday monthly, 10 AM - 10:30 AM (Senior Food Program)",
+      "featured": false,
+      "verified": false,
+      "_tier": "Poway area",
+      "_verifyNotes": "Only site in the target ZIPs on the 2026 SDFB Senior Food Program master calendar. Church's own pages did not describe this program; church phone and socials not verified.",
+      "events": [
+        {
+          "date": "2026-10-09",
+          "time": "10:00",
+          "title": "The Church at Rancho Bernardo (SDFB Senior Food Program site) - Senior Food Program"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "10:00",
+          "title": "The Church at Rancho Bernardo (SDFB Senior Food Program site) - Senior Food Program"
+        },
+        {
+          "date": "2026-12-11",
+          "time": "10:00",
+          "title": "The Church at Rancho Bernardo (SDFB Senior Food Program site) - Senior Food Program"
+        }
+      ]
+    },
+    {
+      "slug": "serving-seniors-ed-brown-senior-center-at-rancho-bernardo-san-diego",
+      "name": "Serving Seniors - Ed Brown Senior Center at Rancho Bernardo",
+      "category": "Food Assistance",
+      "tagline": "Every Tue, 12 PM - 1 PM · Poway area",
+      "description": "Free food program (Senior congregate meal program (to-go meals only)). Schedule: Senior To-Go Meals: Every Tue, 12 PM - 1 PM. Eligibility: Adults 60+; no cost (voluntary contribution, no one denied).. Call ahead to confirm - distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://servingseniors.org/what-we-do/programs-services/congregate-dining.html",
+      "phone": "(619) 235-6572",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "18402 W Bernardo Dr, San Diego, CA 92127",
+      "lat": null,
+      "lng": null,
+      "neighborhood": "San Diego",
+      "hours": "Every Tue, 12 PM - 1 PM (Senior To-Go Meals)",
+      "featured": false,
+      "verified": false,
+      "_tier": "Poway area",
+      "_verifyNotes": "DAY CONFLICT: Serving Seniors site says Tuesdays at 12 PM; County OCNP list (dated 2025-11-05) says Thursday 12:00-1:00 PM with site phone 858-487-9324. Used provider's own site; verify by phone. End time 1:00 PM taken from county list.",
+      "events": [
+        {
+          "date": "2026-09-29",
+          "time": "12:00",
+          "title": "Serving Seniors - Ed Brown Senior Center at Rancho Bernardo - Senior To-Go Meals"
+        },
+        {
+          "date": "2026-10-06",
+          "time": "12:00",
+          "title": "Serving Seniors - Ed Brown Senior Center at Rancho Bernardo - Senior To-Go Meals"
+        },
+        {
+          "date": "2026-10-13",
+          "time": "12:00",
+          "title": "Serving Seniors - Ed Brown Senior Center at Rancho Bernardo - Senior To-Go Meals"
+        },
+        {
+          "date": "2026-10-20",
+          "time": "12:00",
+          "title": "Serving Seniors - Ed Brown Senior Center at Rancho Bernardo - Senior To-Go Meals"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "12:00",
+          "title": "Serving Seniors - Ed Brown Senior Center at Rancho Bernardo - Senior To-Go Meals"
+        },
+        {
+          "date": "2026-11-03",
+          "time": "12:00",
+          "title": "Serving Seniors - Ed Brown Senior Center at Rancho Bernardo - Senior To-Go Meals"
+        },
+        {
+          "date": "2026-11-10",
+          "time": "12:00",
+          "title": "Serving Seniors - Ed Brown Senior Center at Rancho Bernardo - Senior To-Go Meals"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "12:00",
+          "title": "Serving Seniors - Ed Brown Senior Center at Rancho Bernardo - Senior To-Go Meals"
+        },
+        {
+          "date": "2026-11-24",
+          "time": "12:00",
+          "title": "Serving Seniors - Ed Brown Senior Center at Rancho Bernardo - Senior To-Go Meals"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "12:00",
+          "title": "Serving Seniors - Ed Brown Senior Center at Rancho Bernardo - Senior To-Go Meals"
+        },
+        {
+          "date": "2026-12-08",
+          "time": "12:00",
+          "title": "Serving Seniors - Ed Brown Senior Center at Rancho Bernardo - Senior To-Go Meals"
+        },
+        {
+          "date": "2026-12-15",
+          "time": "12:00",
+          "title": "Serving Seniors - Ed Brown Senior Center at Rancho Bernardo - Senior To-Go Meals"
+        },
+        {
+          "date": "2026-12-22",
+          "time": "12:00",
+          "title": "Serving Seniors - Ed Brown Senior Center at Rancho Bernardo - Senior To-Go Meals"
+        },
+        {
+          "date": "2026-12-29",
+          "time": "12:00",
+          "title": "Serving Seniors - Ed Brown Senior Center at Rancho Bernardo - Senior To-Go Meals"
+        }
+      ]
+    },
+    {
+      "slug": "jamul-community-church-jamul",
+      "name": "Jamul Community Church",
+      "category": "Food Assistance",
+      "tagline": "Every Thu, 10 AM - 3:30 PM · San Diego County (findhelp regional)",
+      "description": "Free food program (Multiply Program (free food distribution ministry)). Schedule: Multiply Food Distribution: Every Thu, 10 AM - 3:30 PM. Eligibility: none stated. Call ahead to confirm - distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://jamul.org/multiply",
+      "phone": "619-669-7203",
+      "email": "",
+      "instagram": "https://www.instagram.com/jamulcommunitychurch/",
+      "facebook": "https://www.facebook.com/jamulchurch/",
+      "tiktok": "",
+      "address": "14866 Lyons Valley Road, Jamul, CA 91935",
+      "lat": null,
+      "lng": null,
+      "neighborhood": "Jamul",
+      "hours": "Every Thu, 10 AM - 3:30 PM (Multiply Food Distribution)",
+      "featured": false,
+      "verified": false,
+      "_tier": "San Diego County (findhelp regional)",
+      "_verifyNotes": "Confirmed on org page: every Thursday 10am-3:30pm. Prayer station 10-12 and Bible study 9-10 on distribution days. Events calendar (jamul.org/events) is an embedded widget; no dated events could be read.",
+      "events": [
+        {
+          "date": "2026-10-01",
+          "time": "10:00",
+          "title": "Jamul Community Church - Multiply Food Distribution"
+        },
+        {
+          "date": "2026-10-08",
+          "time": "10:00",
+          "title": "Jamul Community Church - Multiply Food Distribution"
+        },
+        {
+          "date": "2026-10-15",
+          "time": "10:00",
+          "title": "Jamul Community Church - Multiply Food Distribution"
+        },
+        {
+          "date": "2026-10-22",
+          "time": "10:00",
+          "title": "Jamul Community Church - Multiply Food Distribution"
+        },
+        {
+          "date": "2026-10-29",
+          "time": "10:00",
+          "title": "Jamul Community Church - Multiply Food Distribution"
+        },
+        {
+          "date": "2026-11-05",
+          "time": "10:00",
+          "title": "Jamul Community Church - Multiply Food Distribution"
+        },
+        {
+          "date": "2026-11-12",
+          "time": "10:00",
+          "title": "Jamul Community Church - Multiply Food Distribution"
+        },
+        {
+          "date": "2026-11-19",
+          "time": "10:00",
+          "title": "Jamul Community Church - Multiply Food Distribution"
+        },
+        {
+          "date": "2026-11-26",
+          "time": "10:00",
+          "title": "Jamul Community Church - Multiply Food Distribution"
+        },
+        {
+          "date": "2026-12-03",
+          "time": "10:00",
+          "title": "Jamul Community Church - Multiply Food Distribution"
+        },
+        {
+          "date": "2026-12-10",
+          "time": "10:00",
+          "title": "Jamul Community Church - Multiply Food Distribution"
+        },
+        {
+          "date": "2026-12-17",
+          "time": "10:00",
+          "title": "Jamul Community Church - Multiply Food Distribution"
+        },
+        {
+          "date": "2026-12-24",
+          "time": "10:00",
+          "title": "Jamul Community Church - Multiply Food Distribution"
+        },
+        {
+          "date": "2026-12-31",
+          "time": "10:00",
+          "title": "Jamul Community Church - Multiply Food Distribution"
+        }
+      ]
+    },
+    {
+      "slug": "lutheran-social-services-of-southern-california-lsssc-chula-vista",
+      "name": "Lutheran Social Services of Southern California (LSSSC)",
+      "category": "Food Assistance",
+      "tagline": "Every Mon, Wed, Fri, 9 AM - 2 PM · Every Tue, Thu, 11 AM - 2 PM · San Diego County (findhelp regional)",
+      "description": "Free food program (Food Pantry (Project Hand)). Schedule: Project Hand Food Pantry: Every Mon, Wed, Fri, 9 AM - 2 PM; Project Hand Food Pantry: Every Tue, Thu, 11 AM - 2 PM; Drive-thru Food Distribution (general): 2nd Friday monthly, time TBA; Senior Drive-thru Distribution (60+): 2nd Tuesday monthly, time TBA. Eligibility: 18+ with valid ID; EFAP income guidelines; 2nd Tuesday drive-thru is 60+. Call ahead to confirm - distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.lsssc.org/chula-vista",
+      "phone": "619-425-4061",
+      "email": "",
+      "instagram": "",
+      "facebook": "https://www.facebook.com/LSSSouthernCalifornia/",
+      "tiktok": "",
+      "address": "580 Hilltop Drive, Chula Vista, CA 91910 (on St. Mark's Lutheran campus, near Hilltop & I St)",
+      "lat": null,
+      "lng": null,
+      "neighborhood": "Chula Vista",
+      "hours": "Every Mon, Wed, Fri, 9 AM - 2 PM (Project Hand Food Pantry); Every Tue, Thu, 11 AM - 2 PM (Project Hand Food Pantry); 2nd Friday monthly, time TBA (Drive-thru Food Distribution (general)); 2nd Tuesday monthly, time TBA (Senior Drive-thru Distribution (60+))",
+      "featured": false,
+      "verified": false,
+      "_tier": "San Diego County (findhelp regional)",
+      "_verifyNotes": "Schedule and phone from host church page stmarkschulavista.org/community/project-hand/ (LSSSC-operated); lsssc.org was rate-limited (429) so not directly verified. Findhelp Mon-Fri 8-5 and 619-941-2080 are likely office hours/main line. Drive-thru times not published. Facebook URL from findhelp input, not independently verified.",
+      "events": [
+        {
+          "date": "2026-09-28",
+          "time": "09:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-09-29",
+          "time": "11:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-09-30",
+          "time": "09:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-10-01",
+          "time": "11:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-10-02",
+          "time": "09:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-10-05",
+          "time": "09:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-10-06",
+          "time": "11:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-10-07",
+          "time": "09:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-10-08",
+          "time": "11:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-10-09",
+          "time": "09:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-10-09",
+          "time": "09:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Drive-thru Food Distribution (general)"
+        },
+        {
+          "date": "2026-10-12",
+          "time": "09:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-10-13",
+          "time": "09:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Senior Drive-thru Distribution (60+)"
+        },
+        {
+          "date": "2026-10-13",
+          "time": "11:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-10-14",
+          "time": "09:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-10-15",
+          "time": "11:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-10-16",
+          "time": "09:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-10-19",
+          "time": "09:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-10-20",
+          "time": "11:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-10-21",
+          "time": "09:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-10-22",
+          "time": "11:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-10-23",
+          "time": "09:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-10-26",
+          "time": "09:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "11:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "09:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-10-29",
+          "time": "11:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-10-30",
+          "time": "09:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-11-02",
+          "time": "09:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-11-03",
+          "time": "11:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-11-04",
+          "time": "09:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-11-05",
+          "time": "11:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "09:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-11-09",
+          "time": "09:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-11-10",
+          "time": "09:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Senior Drive-thru Distribution (60+)"
+        },
+        {
+          "date": "2026-11-10",
+          "time": "11:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "09:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-11-12",
+          "time": "11:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "09:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "09:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Drive-thru Food Distribution (general)"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "09:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "11:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "09:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-11-19",
+          "time": "11:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-11-20",
+          "time": "09:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-11-23",
+          "time": "09:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-11-24",
+          "time": "11:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-11-25",
+          "time": "09:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-11-26",
+          "time": "11:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-11-27",
+          "time": "09:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-11-30",
+          "time": "09:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "11:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-12-02",
+          "time": "09:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-12-03",
+          "time": "11:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-12-04",
+          "time": "09:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-12-07",
+          "time": "09:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-12-08",
+          "time": "09:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Senior Drive-thru Distribution (60+)"
+        },
+        {
+          "date": "2026-12-08",
+          "time": "11:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-12-09",
+          "time": "09:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-12-10",
+          "time": "11:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-12-11",
+          "time": "09:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-12-11",
+          "time": "09:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Drive-thru Food Distribution (general)"
+        },
+        {
+          "date": "2026-12-14",
+          "time": "09:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-12-15",
+          "time": "11:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-12-16",
+          "time": "09:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-12-17",
+          "time": "11:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-12-18",
+          "time": "09:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-12-21",
+          "time": "09:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-12-22",
+          "time": "11:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-12-23",
+          "time": "09:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-12-24",
+          "time": "11:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-12-25",
+          "time": "09:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-12-28",
+          "time": "09:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-12-29",
+          "time": "11:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-12-30",
+          "time": "09:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        },
+        {
+          "date": "2026-12-31",
+          "time": "11:00",
+          "title": "Lutheran Social Services of Southern California (LSSSC) - Project Hand Food Pantry"
+        }
+      ]
+    },
+    {
+      "slug": "ramona-food-and-clothes-closet-inc-ramona",
+      "name": "Ramona Food And Clothes Closet Inc.",
+      "category": "Food Assistance",
+      "tagline": "3rd Friday monthly, 9 AM - 10 AM · San Diego County (findhelp regional)",
+      "description": "Free food program (Feeding America Mobile Pantry). Schedule: Mobile Pantry: 3rd Friday monthly, 9 AM - 10 AM. Eligibility: none; first come first served, ~20-25 lb per family. Call ahead to confirm - distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.foodandclothescloset.org/news/",
+      "phone": "",
+      "email": "",
+      "instagram": "https://www.instagram.com/ramonafoodandclothescloset/",
+      "facebook": "https://www.facebook.com/ramonafoodandclothescloset/",
+      "tiktok": "",
+      "address": "773 Main Street, Ramona, CA 92065 (back parking lot)",
+      "lat": null,
+      "lng": null,
+      "neighborhood": "Ramona",
+      "hours": "3rd Friday monthly, 9 AM - 10 AM (Mobile Pantry)",
+      "featured": false,
+      "verified": false,
+      "_tier": "San Diego County (findhelp regional)",
+      "_verifyNotes": "Org news page confirms 3rd Friday, line up before 9 AM in back parking lot, bring bags/carts. End time 10 AM from findhelp (org only says line up before 9). Street address not shown on fetched page; kept from findhelp. Org also mentions Wednesday bread/produce (front-of-store items for all) and weekly school-food rescue, no times given. A ramonaevents.com listing redirected to an unrelated domain and was not used.",
+      "events": [
+        {
+          "date": "2026-10-16",
+          "time": "09:00",
+          "title": "Ramona Food And Clothes Closet Inc. - Mobile Pantry"
+        },
+        {
+          "date": "2026-11-20",
+          "time": "09:00",
+          "title": "Ramona Food And Clothes Closet Inc. - Mobile Pantry"
+        },
+        {
+          "date": "2026-12-18",
+          "time": "09:00",
+          "title": "Ramona Food And Clothes Closet Inc. - Mobile Pantry"
+        }
+      ]
+    },
+    {
+      "slug": "feeding-america-san-diego-feeding-san-diego-san-marcos",
+      "name": "Feeding America San Diego (Feeding San Diego)",
+      "category": "Food Assistance",
+      "tagline": "Every Wed, 11 AM - 12:30 PM · San Diego County (findhelp regional)",
+      "description": "Free food program (Mobile Pantry (rural north/east county)). Schedule: San Marcos Mobile Pantry: Every Wed, 11 AM - 12:30 PM. Eligibility: none stated. Call ahead to confirm - distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://feedingsandiego.org/find-food/",
+      "phone": "858-452-3663",
+      "email": "",
+      "instagram": "https://www.instagram.com/feedingsandiego/",
+      "facebook": "https://www.facebook.com/feedingsandiego",
+      "tiktok": "",
+      "address": "332 Olive Street, San Marcos, CA 92069 (unverified)",
+      "lat": null,
+      "lng": null,
+      "neighborhood": "San Marcos",
+      "hours": "Every Wed, 11 AM - 12:30 PM (San Marcos Mobile Pantry)",
+      "featured": false,
+      "verified": false,
+      "_tier": "San Diego County (findhelp regional)",
+      "_verifyNotes": "Could not verify the San Marcos site or its Wednesday time; Find Food map is interactive and not readable. Org says mobile pantry runs at 46 consistent north/east county sites, monthly or twice monthly, so 'weekly' from findhelp may be wrong. Findhelp Facebook link (feedingamericasd) corrected to org's own facebook.com/feedingsandiego.",
+      "events": [
+        {
+          "date": "2026-09-30",
+          "time": "11:00",
+          "title": "Feeding America San Diego (Feeding San Diego) - San Marcos Mobile Pantry"
+        },
+        {
+          "date": "2026-10-07",
+          "time": "11:00",
+          "title": "Feeding America San Diego (Feeding San Diego) - San Marcos Mobile Pantry"
+        },
+        {
+          "date": "2026-10-14",
+          "time": "11:00",
+          "title": "Feeding America San Diego (Feeding San Diego) - San Marcos Mobile Pantry"
+        },
+        {
+          "date": "2026-10-21",
+          "time": "11:00",
+          "title": "Feeding America San Diego (Feeding San Diego) - San Marcos Mobile Pantry"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "11:00",
+          "title": "Feeding America San Diego (Feeding San Diego) - San Marcos Mobile Pantry"
+        },
+        {
+          "date": "2026-11-04",
+          "time": "11:00",
+          "title": "Feeding America San Diego (Feeding San Diego) - San Marcos Mobile Pantry"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "11:00",
+          "title": "Feeding America San Diego (Feeding San Diego) - San Marcos Mobile Pantry"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "11:00",
+          "title": "Feeding America San Diego (Feeding San Diego) - San Marcos Mobile Pantry"
+        },
+        {
+          "date": "2026-11-25",
+          "time": "11:00",
+          "title": "Feeding America San Diego (Feeding San Diego) - San Marcos Mobile Pantry"
+        },
+        {
+          "date": "2026-12-02",
+          "time": "11:00",
+          "title": "Feeding America San Diego (Feeding San Diego) - San Marcos Mobile Pantry"
+        },
+        {
+          "date": "2026-12-09",
+          "time": "11:00",
+          "title": "Feeding America San Diego (Feeding San Diego) - San Marcos Mobile Pantry"
+        },
+        {
+          "date": "2026-12-16",
+          "time": "11:00",
+          "title": "Feeding America San Diego (Feeding San Diego) - San Marcos Mobile Pantry"
+        },
+        {
+          "date": "2026-12-23",
+          "time": "11:00",
+          "title": "Feeding America San Diego (Feeding San Diego) - San Marcos Mobile Pantry"
+        },
+        {
+          "date": "2026-12-30",
+          "time": "11:00",
+          "title": "Feeding America San Diego (Feeding San Diego) - San Marcos Mobile Pantry"
+        }
+      ]
+    },
+    {
+      "slug": "community-resource-center-crc-encinitas",
+      "name": "Community Resource Center (CRC)",
+      "category": "Food Assistance",
+      "tagline": "Every Mon, Tue, Wed, Thu, Fri, 11:15 AM - 1:15 PM · Every Mon, Tue, Wed, Thu, Fri, 9 AM - 10:30 AM · San Diego County (findhelp regional)",
+      "description": "Free food program (Client Choice Pantry). Schedule: Client Choice Pantry (by appointment): Every Mon, Tue, Wed, Thu, Fri, 11:15 AM - 1:15 PM; First Light ready-to-eat (ticketing 8:30-10): Every Mon, Tue, Wed, Thu, Fri, 9 AM - 10:30 AM; USDA Commodities: 2nd Wednesday monthly, 8:30 AM - 4:30 PM. Eligibility: low-income individuals/families; Client Choice once monthly by appointment (calendly.com/fnccalendar/fncshopping); USDA requires EFAP income eligibility. Call ahead to confirm - distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://crcncc.org/get-help/food-and-nutrition-services/",
+      "phone": "760-300-3238",
+      "email": "",
+      "instagram": "https://www.instagram.com/sandiegocrc",
+      "facebook": "https://www.facebook.com/sandiegocrc",
+      "tiktok": "",
+      "address": "650 2nd Street, Encinitas, CA 92024",
+      "lat": null,
+      "lng": null,
+      "neighborhood": "Encinitas",
+      "hours": "Every Mon, Tue, Wed, Thu, Fri, 11:15 AM - 1:15 PM (Client Choice Pantry (by appointment)); Every Mon, Tue, Wed, Thu, Fri, 9 AM - 10:30 AM (First Light ready-to-eat (ticketing 8:30-10)); 2nd Wednesday monthly, 8:30 AM - 4:30 PM (USDA Commodities)",
+      "featured": false,
+      "verified": false,
+      "_tier": "San Diego County (findhelp regional)",
+      "_verifyNotes": "Findhelp hours match Client Choice appointment window but it is appointment-only, once per month. First Light is daily (once per day). USDA 2nd Wednesday during office hours (Mon-Thu 8:30-4:30) while supplies last. 'Daily' assumed Mon-Fri; org page just says daily.",
+      "events": [
+        {
+          "date": "2026-09-28",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-09-28",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-09-29",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-09-29",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-09-30",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-09-30",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-10-01",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-10-01",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-10-02",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-10-02",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-10-05",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-10-05",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-10-06",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-10-06",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-10-07",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-10-07",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-10-08",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-10-08",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-10-09",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-10-09",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-10-12",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-10-12",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-10-13",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-10-13",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-10-14",
+          "time": "08:30",
+          "title": "Community Resource Center (CRC) - USDA Commodities"
+        },
+        {
+          "date": "2026-10-14",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-10-14",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-10-15",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-10-15",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-10-16",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-10-16",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-10-19",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-10-19",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-10-20",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-10-20",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-10-21",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-10-21",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-10-22",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-10-22",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-10-23",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-10-23",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-10-26",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-10-26",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-10-29",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-10-29",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-10-30",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-10-30",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-11-02",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-11-02",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-11-03",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-11-03",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-11-04",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-11-04",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-11-05",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-11-05",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-11-09",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-11-09",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-11-10",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-11-10",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "08:30",
+          "title": "Community Resource Center (CRC) - USDA Commodities"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-11-12",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-11-12",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-11-19",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-11-19",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-11-20",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-11-20",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-11-23",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-11-23",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-11-24",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-11-24",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-11-25",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-11-25",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-11-26",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-11-26",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-11-27",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-11-27",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-11-30",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-11-30",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-12-02",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-12-02",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-12-03",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-12-03",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-12-04",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-12-04",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-12-07",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-12-07",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-12-08",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-12-08",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-12-09",
+          "time": "08:30",
+          "title": "Community Resource Center (CRC) - USDA Commodities"
+        },
+        {
+          "date": "2026-12-09",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-12-09",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-12-10",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-12-10",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-12-11",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-12-11",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-12-14",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-12-14",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-12-15",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-12-15",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-12-16",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-12-16",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-12-17",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-12-17",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-12-18",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-12-18",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-12-21",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-12-21",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-12-22",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-12-22",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-12-23",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-12-23",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-12-24",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-12-24",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-12-25",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-12-25",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-12-28",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-12-28",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-12-29",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-12-29",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-12-30",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-12-30",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        },
+        {
+          "date": "2026-12-31",
+          "time": "09:00",
+          "title": "Community Resource Center (CRC) - First Light ready-to-eat (ticketing 8:30-10)"
+        },
+        {
+          "date": "2026-12-31",
+          "time": "11:15",
+          "title": "Community Resource Center (CRC) - Client Choice Pantry (by appointment)"
+        }
+      ]
+    },
+    {
+      "slug": "community-christian-service-agency-ccsa-clairemont-service-center-san-diego",
+      "name": "Community Christian Service Agency (CCSA) - Clairemont Service Center",
+      "category": "Food Assistance",
+      "tagline": "Every Mon, Tue, Wed, Thu, Fri, 9:30 AM - 3:30 PM · San Diego County (findhelp regional)",
+      "description": "Free food program (Food Pantry). Schedule: Clairemont Food Pantry: Every Mon, Tue, Wed, Thu, Fri, 9:30 AM - 3:30 PM. Eligibility: not stated. Call ahead to confirm - distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.ccsasandiego.org/about-ccsa/resource-counseling/clairemont-service-center",
+      "phone": "858-274-2271",
+      "email": "",
+      "instagram": "https://www.instagram.com/ccsa.sd/",
+      "facebook": "https://www.facebook.com/ccsasandiego",
+      "tiktok": "",
+      "address": "4167 Rappahannock Avenue, San Diego, CA 92117",
+      "lat": null,
+      "lng": null,
+      "neighborhood": "San Diego",
+      "hours": "Every Mon, Tue, Wed, Thu, Fri, 9:30 AM - 3:30 PM (Clairemont Food Pantry)",
+      "featured": false,
+      "verified": false,
+      "_tier": "San Diego County (findhelp regional)",
+      "_verifyNotes": "Org hours page gives Mon-Fri 9:30-3:30 for the service center; no separate pantry-specific times published, so this may be office hours.",
+      "events": [
+        {
+          "date": "2026-09-28",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-09-29",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-09-30",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-10-01",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-10-02",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-10-05",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-10-06",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-10-07",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-10-08",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-10-09",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-10-12",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-10-13",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-10-14",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-10-15",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-10-16",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-10-19",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-10-20",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-10-21",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-10-22",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-10-23",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-10-26",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-10-29",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-10-30",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-11-02",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-11-03",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-11-04",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-11-05",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-11-09",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-11-10",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-11-12",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-11-19",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-11-20",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-11-23",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-11-24",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-11-25",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-11-26",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-11-27",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-11-30",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-12-02",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-12-03",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-12-04",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-12-07",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-12-08",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-12-09",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-12-10",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-12-11",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-12-14",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-12-15",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-12-16",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-12-17",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-12-18",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-12-21",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-12-22",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-12-23",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-12-24",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-12-25",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-12-28",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-12-29",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-12-30",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        },
+        {
+          "date": "2026-12-31",
+          "time": "09:30",
+          "title": "Community Christian Service Agency (CCSA) - Clairemont Service Center - Clairemont Food Pantry"
+        }
+      ]
+    },
+    {
+      "slug": "heavens-windows-spring-valley",
+      "name": "Heavens Windows",
+      "category": "Food Assistance",
+      "tagline": "Every Tue, Thu, Fri, 9 AM - 12 PM · Every Sat, 2 PM - 3 PM · San Diego County (findhelp regional)",
+      "description": "Free food program (Food Pantry (EFAP commodities; Joseph's Storehouse site)). Schedule: Joseph's Storehouse Pantry: Every Tue, Thu, Fri, 9 AM - 12 PM; Joseph's Storehouse Pantry: Every Sat, 2 PM - 3 PM; Goodland Acres Park Pantry (8848 Troy St): Every Tue, Wed, Thu, Fri, 9 AM - 12 PM; New Seasons Church Drive-up (2300 Bancroft Dr) - 4th Tuesday: 4th Tuesday monthly, 9 AM. Eligibility: EFAP; monthly allotment varies by zip code and family size. Call ahead to confirm - distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.heavenswindows.org/resources",
+      "phone": "619-342-1414 (Joseph's Storehouse); 619-303-7806 (Heaven's Windows main)",
+      "email": "",
+      "instagram": "https://www.instagram.com/heavenswindowsofficial/",
+      "facebook": "https://www.facebook.com/HeavensWindows/",
+      "tiktok": "",
+      "address": "3100 Bancroft Drive, Spring Valley, CA 91977 (Joseph's Storehouse at Spring Valley Community Church)",
+      "lat": null,
+      "lng": null,
+      "neighborhood": "Spring Valley",
+      "hours": "Every Tue, Thu, Fri, 9 AM - 12 PM (Joseph's Storehouse Pantry); Every Sat, 2 PM - 3 PM (Joseph's Storehouse Pantry); Every Tue, Wed, Thu, Fri, 9 AM - 12 PM (Goodland Acres Park Pantry (8848 Troy St)); 4th Tuesday monthly, 9 AM (New Seasons Church Drive-up (2300 Bancroft Dr) - 4th Tuesday)",
+      "featured": false,
+      "verified": false,
+      "_tier": "San Diego County (findhelp regional)",
+      "_verifyNotes": "Findhelp hours match the Joseph's Storehouse site at 3100 Bancroft. Org also runs Goodland Acres County Park pantry (8848 Troy St, 619-825-8489) and New Seasons Church drive-up every 4th Tuesday 9am until food runs out (619-463-0725); 4th Tuesday mapped to closest pattern, verify. HQ listed as 2820 Via Orange Way Ste W. Diapers/formula not confirmed on org site.",
+      "events": [
+        {
+          "date": "2026-09-29",
+          "time": "09:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-09-29",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-09-30",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-10-01",
+          "time": "09:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-10-01",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-10-02",
+          "time": "09:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-10-02",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-10-03",
+          "time": "14:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-10-06",
+          "time": "09:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-10-06",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-10-07",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-10-08",
+          "time": "09:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-10-08",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-10-09",
+          "time": "09:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-10-09",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-10-10",
+          "time": "14:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-10-13",
+          "time": "09:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-10-13",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-10-14",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-10-15",
+          "time": "09:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-10-15",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-10-16",
+          "time": "09:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-10-16",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-10-17",
+          "time": "14:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-10-20",
+          "time": "09:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-10-20",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-10-21",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-10-22",
+          "time": "09:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-10-22",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-10-23",
+          "time": "09:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-10-23",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-10-24",
+          "time": "14:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "09:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "09:00",
+          "title": "Heavens Windows - New Seasons Church Drive-up (2300 Bancroft Dr) - 4th Tuesday"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-10-29",
+          "time": "09:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-10-29",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-10-30",
+          "time": "09:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-10-30",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-10-31",
+          "time": "14:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-11-03",
+          "time": "09:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-11-03",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-11-04",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-11-05",
+          "time": "09:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-11-05",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "09:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-11-07",
+          "time": "14:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-11-10",
+          "time": "09:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-11-10",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-11-12",
+          "time": "09:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-11-12",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "09:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "14:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "09:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-11-19",
+          "time": "09:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-11-19",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-11-20",
+          "time": "09:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-11-20",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-11-21",
+          "time": "14:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-11-24",
+          "time": "09:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-11-24",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-11-24",
+          "time": "09:00",
+          "title": "Heavens Windows - New Seasons Church Drive-up (2300 Bancroft Dr) - 4th Tuesday"
+        },
+        {
+          "date": "2026-11-25",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-11-26",
+          "time": "09:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-11-26",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-11-27",
+          "time": "09:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-11-27",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-11-28",
+          "time": "14:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "09:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-12-02",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-12-03",
+          "time": "09:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-12-03",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-12-04",
+          "time": "09:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-12-04",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-12-05",
+          "time": "14:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-12-08",
+          "time": "09:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-12-08",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-12-09",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-12-10",
+          "time": "09:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-12-10",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-12-11",
+          "time": "09:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-12-11",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-12-12",
+          "time": "14:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-12-15",
+          "time": "09:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-12-15",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-12-16",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-12-17",
+          "time": "09:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-12-17",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-12-18",
+          "time": "09:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-12-18",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-12-19",
+          "time": "14:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-12-22",
+          "time": "09:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-12-22",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-12-22",
+          "time": "09:00",
+          "title": "Heavens Windows - New Seasons Church Drive-up (2300 Bancroft Dr) - 4th Tuesday"
+        },
+        {
+          "date": "2026-12-23",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-12-24",
+          "time": "09:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-12-24",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-12-25",
+          "time": "09:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-12-25",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-12-26",
+          "time": "14:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-12-29",
+          "time": "09:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-12-29",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-12-30",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        },
+        {
+          "date": "2026-12-31",
+          "time": "09:00",
+          "title": "Heavens Windows - Joseph's Storehouse Pantry"
+        },
+        {
+          "date": "2026-12-31",
+          "time": "09:00",
+          "title": "Heavens Windows - Goodland Acres Park Pantry (8848 Troy St)"
+        }
+      ]
+    },
+    {
+      "slug": "lemon-grove-lutheran-church-lemon-grove",
+      "name": "Lemon Grove Lutheran Church",
+      "category": "Food Assistance",
+      "tagline": "Every Mon, 5:30 PM · San Diego County (findhelp regional)",
+      "description": "Free food program (Feeding Ministry - Soup's On! Free Community Dinners). Schedule: Soup's On! Community Dinner: Every Mon, 5:30 PM. Eligibility: none. Call ahead to confirm - distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "http://www.lemongrovelutheran.org/feeding-ministry.html",
+      "phone": "619-465-7301",
+      "email": "",
+      "instagram": "",
+      "facebook": "https://www.facebook.com/pages/SamoaLutheran-Feeding-Ministry/117742121737925",
+      "tiktok": "",
+      "address": "2055 Skyline Drive, Lemon Grove, CA 91945",
+      "lat": null,
+      "lng": null,
+      "neighborhood": "Lemon Grove",
+      "hours": "Every Mon, 5:30 PM (Soup's On! Community Dinner)",
+      "featured": false,
+      "verified": false,
+      "_tier": "San Diego County (findhelp regional)",
+      "_verifyNotes": "Org page says dinners are Mondays 5:30pm year-round except holidays (serves 100+), which conflicts with findhelp's 'two days a month' and 5-7 PM. End time not published. Ministry branded Samoa/Lutheran Feeding Ministry. Phone from findhelp, not on org page.",
+      "events": [
+        {
+          "date": "2026-09-28",
+          "time": "17:30",
+          "title": "Lemon Grove Lutheran Church - Soup's On! Community Dinner"
+        },
+        {
+          "date": "2026-10-05",
+          "time": "17:30",
+          "title": "Lemon Grove Lutheran Church - Soup's On! Community Dinner"
+        },
+        {
+          "date": "2026-10-12",
+          "time": "17:30",
+          "title": "Lemon Grove Lutheran Church - Soup's On! Community Dinner"
+        },
+        {
+          "date": "2026-10-19",
+          "time": "17:30",
+          "title": "Lemon Grove Lutheran Church - Soup's On! Community Dinner"
+        },
+        {
+          "date": "2026-10-26",
+          "time": "17:30",
+          "title": "Lemon Grove Lutheran Church - Soup's On! Community Dinner"
+        },
+        {
+          "date": "2026-11-02",
+          "time": "17:30",
+          "title": "Lemon Grove Lutheran Church - Soup's On! Community Dinner"
+        },
+        {
+          "date": "2026-11-09",
+          "time": "17:30",
+          "title": "Lemon Grove Lutheran Church - Soup's On! Community Dinner"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "17:30",
+          "title": "Lemon Grove Lutheran Church - Soup's On! Community Dinner"
+        },
+        {
+          "date": "2026-11-23",
+          "time": "17:30",
+          "title": "Lemon Grove Lutheran Church - Soup's On! Community Dinner"
+        },
+        {
+          "date": "2026-11-30",
+          "time": "17:30",
+          "title": "Lemon Grove Lutheran Church - Soup's On! Community Dinner"
+        },
+        {
+          "date": "2026-12-07",
+          "time": "17:30",
+          "title": "Lemon Grove Lutheran Church - Soup's On! Community Dinner"
+        },
+        {
+          "date": "2026-12-14",
+          "time": "17:30",
+          "title": "Lemon Grove Lutheran Church - Soup's On! Community Dinner"
+        },
+        {
+          "date": "2026-12-21",
+          "time": "17:30",
+          "title": "Lemon Grove Lutheran Church - Soup's On! Community Dinner"
+        },
+        {
+          "date": "2026-12-28",
+          "time": "17:30",
+          "title": "Lemon Grove Lutheran Church - Soup's On! Community Dinner"
+        }
+      ]
+    },
+    {
+      "slug": "the-san-diego-lgbt-community-center-san-diego",
+      "name": "The San Diego LGBT Community Center",
+      "category": "Food Assistance",
+      "tagline": "1st Tuesday monthly, 8 AM - 10 AM · San Diego County (findhelp regional)",
+      "description": "Free food program (Neighborhood Food Bank (with San Diego Food Bank)). Schedule: Neighborhood Food Bank: 1st Tuesday monthly, 8 AM - 10 AM. Eligibility: open to all; enroll in person day-of or by calling the Food Bank. Call ahead to confirm - distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://thecentersd.org/food-resources/",
+      "phone": "866-350-3663 (San Diego Food Bank)",
+      "email": "",
+      "instagram": "",
+      "facebook": "https://www.facebook.com/At.The.Center/",
+      "tiktok": "",
+      "address": "3909 Centre Street, San Diego, CA 92103",
+      "lat": null,
+      "lng": null,
+      "neighborhood": "San Diego",
+      "hours": "1st Tuesday monthly, 8 AM - 10 AM (Neighborhood Food Bank)",
+      "featured": false,
+      "verified": false,
+      "_tier": "San Diego County (findhelp regional)",
+      "_verifyNotes": "Monthly on 1st Tuesday (findhelp just says Tue). Org notes date changes are posted on its calendar (there has been a 'date change' event page). Next expected: 2026-10-06, 2026-11-03 (derived from pattern, not posted events). Fetch reported instagram.com/lgbtcenter but that handle may belong to NYC's LGBT Center, so omitted.",
+      "events": [
+        {
+          "date": "2026-10-06",
+          "time": "08:00",
+          "title": "The San Diego LGBT Community Center - Neighborhood Food Bank"
+        },
+        {
+          "date": "2026-11-03",
+          "time": "08:00",
+          "title": "The San Diego LGBT Community Center - Neighborhood Food Bank"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "08:00",
+          "title": "The San Diego LGBT Community Center - Neighborhood Food Bank"
+        }
+      ]
+    },
+    {
+      "slug": "north-county-lgbtq-resource-center-oceanside",
+      "name": "North County LGBTQ Resource Center",
+      "category": "Food Assistance",
+      "tagline": "Every Fri, 12 PM - 3 PM · San Diego County (findhelp regional)",
+      "description": "Free food program (Foodies & Goodies). Schedule: Foodies & Goodies: Every Fri, 12 PM - 3 PM. Eligibility: none; first come first served. Call ahead to confirm - distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.ncresourcecenter.org/foodies-and-goodies",
+      "phone": "760-994-1690",
+      "email": "",
+      "instagram": "",
+      "facebook": "https://www.facebook.com/nclgbtqresourcecenter/",
+      "tiktok": "",
+      "address": "1919 Apple Street, Oceanside, CA 92054",
+      "lat": null,
+      "lng": null,
+      "neighborhood": "Oceanside",
+      "hours": "Every Fri, 12 PM - 3 PM (Foodies & Goodies)",
+      "featured": false,
+      "verified": false,
+      "_tier": "San Diego County (findhelp regional)",
+      "_verifyNotes": "Org page gives Fridays 12-3 PM at 1919 Apple St; findhelp had Fri 1-2 PM at 3220 Mission Ave (outdated). Food rescued via Feeding San Diego partnership.",
+      "events": [
+        {
+          "date": "2026-10-02",
+          "time": "12:00",
+          "title": "North County LGBTQ Resource Center - Foodies & Goodies"
+        },
+        {
+          "date": "2026-10-09",
+          "time": "12:00",
+          "title": "North County LGBTQ Resource Center - Foodies & Goodies"
+        },
+        {
+          "date": "2026-10-16",
+          "time": "12:00",
+          "title": "North County LGBTQ Resource Center - Foodies & Goodies"
+        },
+        {
+          "date": "2026-10-23",
+          "time": "12:00",
+          "title": "North County LGBTQ Resource Center - Foodies & Goodies"
+        },
+        {
+          "date": "2026-10-30",
+          "time": "12:00",
+          "title": "North County LGBTQ Resource Center - Foodies & Goodies"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "12:00",
+          "title": "North County LGBTQ Resource Center - Foodies & Goodies"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "12:00",
+          "title": "North County LGBTQ Resource Center - Foodies & Goodies"
+        },
+        {
+          "date": "2026-11-20",
+          "time": "12:00",
+          "title": "North County LGBTQ Resource Center - Foodies & Goodies"
+        },
+        {
+          "date": "2026-11-27",
+          "time": "12:00",
+          "title": "North County LGBTQ Resource Center - Foodies & Goodies"
+        },
+        {
+          "date": "2026-12-04",
+          "time": "12:00",
+          "title": "North County LGBTQ Resource Center - Foodies & Goodies"
+        },
+        {
+          "date": "2026-12-11",
+          "time": "12:00",
+          "title": "North County LGBTQ Resource Center - Foodies & Goodies"
+        },
+        {
+          "date": "2026-12-18",
+          "time": "12:00",
+          "title": "North County LGBTQ Resource Center - Foodies & Goodies"
+        },
+        {
+          "date": "2026-12-25",
+          "time": "12:00",
+          "title": "North County LGBTQ Resource Center - Foodies & Goodies"
+        }
+      ]
+    },
+    {
+      "slug": "sbcs-chula-vista",
+      "name": "SBCS",
+      "category": "Food Assistance",
+      "tagline": "1st Wednesday monthly, 12:30 PM - 2:30 PM · 2nd Wednesday monthly, 3:30 PM - 5:30 PM · San Diego County (findhelp regional)",
+      "description": "Free food program (Food Assistance and Distribution Program). Schedule: National City Middle School (1701 D Ave, National City): 1st Wednesday monthly, 12:30 PM - 2:30 PM; Castle Park Middle School (160 Quintard St, Chula Vista): 2nd Wednesday monthly, 3:30 PM - 5:30 PM; Montgomery Middle School (1051 Picador Blvd, San Diego): 2nd Wednesday monthly, 1 PM - 3 PM; Chula Vista Middle School (415 5th Ave, Chula Vista): 4th Thursday monthly, 4 PM - 6 PM; SBCS Center for Impact: 1st & 3rd Saturday monthly, 10 AM - 12 PM. Eligibility: 16+, no proof of need; must attend in person; while supplies last. Call ahead to confirm - distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://sbcssandiego.org/portfolio/food-distribution/",
+      "phone": "619-420-3620",
+      "email": "",
+      "instagram": "https://www.instagram.com/sbcssandiego/",
+      "facebook": "https://www.facebook.com/SBCSSanDiego",
+      "tiktok": "",
+      "address": "Multiple sites; SBCS Center for Impact, 318 Fourth Ave, Chula Vista, CA 91910 (1st & 3rd Sat)",
+      "lat": null,
+      "lng": null,
+      "neighborhood": "Chula Vista",
+      "hours": "1st Wednesday monthly, 12:30 PM - 2:30 PM (National City Middle School (1701 D Ave, National City)); 2nd Wednesday monthly, 3:30 PM - 5:30 PM (Castle Park Middle School (160 Quintard St, Chula Vista)); 2nd Wednesday monthly, 1 PM - 3 PM (Montgomery Middle School (1051 Picador Blvd, San Diego)); 4th Thursday monthly, 4 PM - 6 PM (Chula Vista Middle School (415 5th Ave, Chula Vista)); 1st & 3rd Saturday monthly, 10 AM - 12 PM (SBCS Center for Impact)",
+      "featured": false,
+      "verified": false,
+      "_tier": "San Diego County (findhelp regional)",
+      "_verifyNotes": "Org page does not list 1420 Loma Lane or a Friday 1-4 PM distribution (findhelp); likely outdated. 4th Thursday and 1st/3rd Saturday don't fit the example patterns exactly. Social handles given on page as @sbcssandiego / SBCSSanDiego.",
+      "events": [
+        {
+          "date": "2026-10-03",
+          "time": "10:00",
+          "title": "SBCS - SBCS Center for Impact"
+        },
+        {
+          "date": "2026-10-07",
+          "time": "12:30",
+          "title": "SBCS - National City Middle School (1701 D Ave, National City)"
+        },
+        {
+          "date": "2026-10-14",
+          "time": "13:00",
+          "title": "SBCS - Montgomery Middle School (1051 Picador Blvd, San Diego)"
+        },
+        {
+          "date": "2026-10-14",
+          "time": "15:30",
+          "title": "SBCS - Castle Park Middle School (160 Quintard St, Chula Vista)"
+        },
+        {
+          "date": "2026-10-17",
+          "time": "10:00",
+          "title": "SBCS - SBCS Center for Impact"
+        },
+        {
+          "date": "2026-10-22",
+          "time": "16:00",
+          "title": "SBCS - Chula Vista Middle School (415 5th Ave, Chula Vista)"
+        },
+        {
+          "date": "2026-11-04",
+          "time": "12:30",
+          "title": "SBCS - National City Middle School (1701 D Ave, National City)"
+        },
+        {
+          "date": "2026-11-07",
+          "time": "10:00",
+          "title": "SBCS - SBCS Center for Impact"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "13:00",
+          "title": "SBCS - Montgomery Middle School (1051 Picador Blvd, San Diego)"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "15:30",
+          "title": "SBCS - Castle Park Middle School (160 Quintard St, Chula Vista)"
+        },
+        {
+          "date": "2026-11-21",
+          "time": "10:00",
+          "title": "SBCS - SBCS Center for Impact"
+        },
+        {
+          "date": "2026-11-26",
+          "time": "16:00",
+          "title": "SBCS - Chula Vista Middle School (415 5th Ave, Chula Vista)"
+        },
+        {
+          "date": "2026-12-02",
+          "time": "12:30",
+          "title": "SBCS - National City Middle School (1701 D Ave, National City)"
+        },
+        {
+          "date": "2026-12-05",
+          "time": "10:00",
+          "title": "SBCS - SBCS Center for Impact"
+        },
+        {
+          "date": "2026-12-09",
+          "time": "13:00",
+          "title": "SBCS - Montgomery Middle School (1051 Picador Blvd, San Diego)"
+        },
+        {
+          "date": "2026-12-09",
+          "time": "15:30",
+          "title": "SBCS - Castle Park Middle School (160 Quintard St, Chula Vista)"
+        },
+        {
+          "date": "2026-12-19",
+          "time": "10:00",
+          "title": "SBCS - SBCS Center for Impact"
+        },
+        {
+          "date": "2026-12-24",
+          "time": "16:00",
+          "title": "SBCS - Chula Vista Middle School (415 5th Ave, Chula Vista)"
+        }
+      ]
+    },
+    {
+      "slug": "heart-hands-working-together",
+      "name": "Heart & Hands Working Together",
+      "category": "Food Assistance",
+      "tagline": "Every Mon, Tue, Wed, Thu, Fri, 3 PM - 6 PM · San Diego County (findhelp regional)",
+      "description": "Free food program (Emergency Food Distribution Super Pantry). Schedule: Super Pantry: Every Mon, Tue, Wed, Thu, Fri, 3 PM - 6 PM. Eligibility: not stated. Call ahead to confirm - distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "",
+      "phone": "619-662-7592",
+      "email": "",
+      "instagram": "",
+      "facebook": "https://www.facebook.com/HeartsHandsWorkingTogether/",
+      "tiktok": "",
+      "address": "663 E. San Ysidro Blvd, San Ysidro (San Diego), CA 92173",
+      "lat": null,
+      "lng": null,
+      "neighborhood": "",
+      "hours": "Every Mon, Tue, Wed, Thu, Fri, 3 PM - 6 PM (Super Pantry)",
+      "featured": false,
+      "verified": false,
+      "_tier": "San Diego County (findhelp regional)",
+      "_verifyNotes": "No org website found. Address and Mon-Fri 3-6 PM from City of San Diego District 8 food distribution list (sandiego.gov PDF), not the org's own page; findhelp says 3-5:30. Facebook page name 'Hearts & Hands Working Together' matches (GuideStar/CauseIQ list org in San Ysidro) but content not verified. Phone from findhelp.",
+      "events": [
+        {
+          "date": "2026-09-28",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-09-29",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-09-30",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-10-01",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-10-02",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-10-05",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-10-06",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-10-07",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-10-08",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-10-09",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-10-12",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-10-13",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-10-14",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-10-15",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-10-16",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-10-19",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-10-20",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-10-21",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-10-22",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-10-23",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-10-26",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-10-29",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-10-30",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-11-02",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-11-03",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-11-04",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-11-05",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-11-09",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-11-10",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-11-12",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-11-19",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-11-20",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-11-23",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-11-24",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-11-25",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-11-26",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-11-27",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-11-30",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-12-02",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-12-03",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-12-04",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-12-07",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-12-08",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-12-09",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-12-10",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-12-11",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-12-14",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-12-15",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-12-16",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-12-17",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-12-18",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-12-21",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-12-22",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-12-23",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-12-24",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-12-25",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-12-28",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-12-29",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-12-30",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        },
+        {
+          "date": "2026-12-31",
+          "time": "15:00",
+          "title": "Heart & Hands Working Together - Super Pantry"
+        }
+      ]
+    },
+    {
+      "slug": "bridge-of-hope-san-diego-san-diego",
+      "name": "Bridge of Hope San Diego",
+      "category": "Food Assistance",
+      "tagline": "Every Fri, 11:30 AM - 1 PM · 2nd & 4th Saturday monthly, 9 AM - 11 AM · San Diego County (findhelp regional)",
+      "description": "Free food program (Food Distribution / Transition Services). Schedule: Friday Food Distribution: Every Fri, 11:30 AM - 1 PM; Community Day (food): 2nd & 4th Saturday monthly, 9 AM - 11 AM. Eligibility: none stated for Friday distribution (membership card issued on first visit); New Family Wednesdays via caseworker referral. Call ahead to confirm - distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.bridgeofhopesd.org/our-services/",
+      "phone": "858-380-7993",
+      "email": "",
+      "instagram": "",
+      "facebook": "https://www.facebook.com/bridgeofhopesd/",
+      "tiktok": "",
+      "address": "3406 Fairmount Avenue, San Diego, CA 92105",
+      "lat": null,
+      "lng": null,
+      "neighborhood": "San Diego",
+      "hours": "Every Fri, 11:30 AM - 1 PM (Friday Food Distribution); 2nd & 4th Saturday monthly, 9 AM - 11 AM (Community Day (food))",
+      "featured": false,
+      "verified": false,
+      "_tier": "San Diego County (findhelp regional)",
+      "_verifyNotes": "Findhelp's Wed 11-2 appears to be the referral-based New Family Wednesdays (Transition Services), not the public food distribution. Org site also links an older Facebook page (facebook.com/Bridge-of-Hope-159855711679/). Calendar is an embedded Google Calendar; no dated events readable.",
+      "events": [
+        {
+          "date": "2026-10-02",
+          "time": "11:30",
+          "title": "Bridge of Hope San Diego - Friday Food Distribution"
+        },
+        {
+          "date": "2026-10-09",
+          "time": "11:30",
+          "title": "Bridge of Hope San Diego - Friday Food Distribution"
+        },
+        {
+          "date": "2026-10-10",
+          "time": "09:00",
+          "title": "Bridge of Hope San Diego - Community Day (food)"
+        },
+        {
+          "date": "2026-10-16",
+          "time": "11:30",
+          "title": "Bridge of Hope San Diego - Friday Food Distribution"
+        },
+        {
+          "date": "2026-10-23",
+          "time": "11:30",
+          "title": "Bridge of Hope San Diego - Friday Food Distribution"
+        },
+        {
+          "date": "2026-10-24",
+          "time": "09:00",
+          "title": "Bridge of Hope San Diego - Community Day (food)"
+        },
+        {
+          "date": "2026-10-30",
+          "time": "11:30",
+          "title": "Bridge of Hope San Diego - Friday Food Distribution"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "11:30",
+          "title": "Bridge of Hope San Diego - Friday Food Distribution"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "11:30",
+          "title": "Bridge of Hope San Diego - Friday Food Distribution"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "09:00",
+          "title": "Bridge of Hope San Diego - Community Day (food)"
+        },
+        {
+          "date": "2026-11-20",
+          "time": "11:30",
+          "title": "Bridge of Hope San Diego - Friday Food Distribution"
+        },
+        {
+          "date": "2026-11-27",
+          "time": "11:30",
+          "title": "Bridge of Hope San Diego - Friday Food Distribution"
+        },
+        {
+          "date": "2026-11-28",
+          "time": "09:00",
+          "title": "Bridge of Hope San Diego - Community Day (food)"
+        },
+        {
+          "date": "2026-12-04",
+          "time": "11:30",
+          "title": "Bridge of Hope San Diego - Friday Food Distribution"
+        },
+        {
+          "date": "2026-12-11",
+          "time": "11:30",
+          "title": "Bridge of Hope San Diego - Friday Food Distribution"
+        },
+        {
+          "date": "2026-12-12",
+          "time": "09:00",
+          "title": "Bridge of Hope San Diego - Community Day (food)"
+        },
+        {
+          "date": "2026-12-18",
+          "time": "11:30",
+          "title": "Bridge of Hope San Diego - Friday Food Distribution"
+        },
+        {
+          "date": "2026-12-25",
+          "time": "11:30",
+          "title": "Bridge of Hope San Diego - Friday Food Distribution"
+        },
+        {
+          "date": "2026-12-26",
+          "time": "09:00",
+          "title": "Bridge of Hope San Diego - Community Day (food)"
+        }
+      ]
+    },
+    {
+      "slug": "brother-benno-foundation-oceanside",
+      "name": "Brother Benno Foundation",
+      "category": "Food Assistance",
+      "tagline": "Every Mon, Tue, Wed, Thu, Fri, 6:30 AM - 8 AM · Every Mon, Tue, Wed, Thu, Fri, 6:30 AM - 10:45 AM · San Diego County (findhelp regional)",
+      "description": "Free food program (Meals and Food Pantry). Schedule: Hot Breakfast: Every Mon, Tue, Wed, Thu, Fri, 6:30 AM - 8 AM; Sack Lunches: Every Mon, Tue, Wed, Thu, Fri, 6:30 AM - 10:45 AM; Saturday Brunch: Every Sat, 9:30 AM - 11:30 AM. Eligibility: homeless, working poor, seniors; no stated restrictions. Call ahead to confirm - distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://brotherbenno.org/services/meals/",
+      "phone": "760-439-1244",
+      "email": "",
+      "instagram": "https://www.instagram.com/brotherbenno",
+      "facebook": "https://www.facebook.com/BrotherBennos/",
+      "tiktok": "",
+      "address": "3260 Production Avenue, Oceanside, CA 92058",
+      "lat": null,
+      "lng": null,
+      "neighborhood": "Oceanside",
+      "hours": "Every Mon, Tue, Wed, Thu, Fri, 6:30 AM - 8 AM (Hot Breakfast); Every Mon, Tue, Wed, Thu, Fri, 6:30 AM - 10:45 AM (Sack Lunches); Every Sat, 9:30 AM - 11:30 AM (Saturday Brunch)",
+      "featured": false,
+      "verified": false,
+      "_tier": "San Diego County (findhelp regional)",
+      "_verifyNotes": "Findhelp address (3955 Mission Ave) and Mon-Sat 10-4 are outdated/incorrect; org is at 3260 Production Ave. Grocery items (produce, meat, dairy, food boxes, EFAP bags) offered but pantry hours not published. Closed New Year's, Memorial Day, July 4, Labor Day. Holiday meals are standing annual hours, not a dated 2026 post.",
+      "events": [
+        {
+          "date": "2026-09-28",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-09-28",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-09-29",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-09-29",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-09-30",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-09-30",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-10-01",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-10-01",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-10-02",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-10-02",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-10-03",
+          "time": "09:30",
+          "title": "Brother Benno Foundation - Saturday Brunch"
+        },
+        {
+          "date": "2026-10-05",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-10-05",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-10-06",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-10-06",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-10-07",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-10-07",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-10-08",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-10-08",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-10-09",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-10-09",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-10-10",
+          "time": "09:30",
+          "title": "Brother Benno Foundation - Saturday Brunch"
+        },
+        {
+          "date": "2026-10-12",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-10-12",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-10-13",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-10-13",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-10-14",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-10-14",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-10-15",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-10-15",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-10-16",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-10-16",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-10-17",
+          "time": "09:30",
+          "title": "Brother Benno Foundation - Saturday Brunch"
+        },
+        {
+          "date": "2026-10-19",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-10-19",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-10-20",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-10-20",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-10-21",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-10-21",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-10-22",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-10-22",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-10-23",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-10-23",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-10-24",
+          "time": "09:30",
+          "title": "Brother Benno Foundation - Saturday Brunch"
+        },
+        {
+          "date": "2026-10-26",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-10-26",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-10-29",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-10-29",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-10-30",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-10-30",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-10-31",
+          "time": "09:30",
+          "title": "Brother Benno Foundation - Saturday Brunch"
+        },
+        {
+          "date": "2026-11-02",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-11-02",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-11-03",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-11-03",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-11-04",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-11-04",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-11-05",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-11-05",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-11-07",
+          "time": "09:30",
+          "title": "Brother Benno Foundation - Saturday Brunch"
+        },
+        {
+          "date": "2026-11-09",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-11-09",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-11-10",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-11-10",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-11-12",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-11-12",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "09:30",
+          "title": "Brother Benno Foundation - Saturday Brunch"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-11-19",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-11-19",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-11-20",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-11-20",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-11-21",
+          "time": "09:30",
+          "title": "Brother Benno Foundation - Saturday Brunch"
+        },
+        {
+          "date": "2026-11-23",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-11-23",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-11-24",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-11-24",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-11-25",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-11-25",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-11-26",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-11-26",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-11-27",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-11-27",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-11-28",
+          "time": "09:30",
+          "title": "Brother Benno Foundation - Saturday Brunch"
+        },
+        {
+          "date": "2026-11-30",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-11-30",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-12-02",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-12-02",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-12-03",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-12-03",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-12-04",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-12-04",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-12-05",
+          "time": "09:30",
+          "title": "Brother Benno Foundation - Saturday Brunch"
+        },
+        {
+          "date": "2026-12-07",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-12-07",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-12-08",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-12-08",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-12-09",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-12-09",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-12-10",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-12-10",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-12-11",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-12-11",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-12-12",
+          "time": "09:30",
+          "title": "Brother Benno Foundation - Saturday Brunch"
+        },
+        {
+          "date": "2026-12-14",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-12-14",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-12-15",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-12-15",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-12-16",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-12-16",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-12-17",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-12-17",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-12-18",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-12-18",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-12-19",
+          "time": "09:30",
+          "title": "Brother Benno Foundation - Saturday Brunch"
+        },
+        {
+          "date": "2026-12-21",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-12-21",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-12-22",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-12-22",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-12-23",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-12-23",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-12-24",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-12-24",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-12-25",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-12-25",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-12-26",
+          "time": "09:30",
+          "title": "Brother Benno Foundation - Saturday Brunch"
+        },
+        {
+          "date": "2026-12-28",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-12-28",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-12-29",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-12-29",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-12-30",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-12-30",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        },
+        {
+          "date": "2026-12-31",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Hot Breakfast"
+        },
+        {
+          "date": "2026-12-31",
+          "time": "06:30",
+          "title": "Brother Benno Foundation - Sack Lunches"
+        }
+      ]
+    }
+  ]
+}

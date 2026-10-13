@@ -1,0 +1,100 @@
+{
+  "_meta": {
+    "topic": "Tehama County food distributions",
+    "generated": "2026-10-11",
+    "source": "Hand-collected list (Second Harvest of the Greater Valley / Vivery finder, Sutter County resource list, Tehama Together). Schedules parsed via LA clause parser.",
+    "note": "Drop-in raw for prepare-food-additions.mjs. Single-time entries route to _deferred."
+  },
+  "sites": [
+    {
+      "name": "Corning Christian Assistance",
+      "org": "Corning Christian Assistance",
+      "address": "710 4th Street, Corning, CA 96021",
+      "phone": "530-824-3866",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st, 3rd and 4th Mon 9am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Mon",
+            "3rd Mon",
+            "4th Mon"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Immaculate Conception Charity",
+      "org": "Immaculate Conception Charity",
+      "address": "818 Solano St, Corning, CA 96021",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 9am-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Tehama County Gleaners (USDA commodities)",
+      "org": "Tehama County Gleaners (USDA commodities)",
+      "address": "20699 Walnut Street, Red Bluff, CA 96080",
+      "phone": "(530) 529-2264",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "call ahead",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Wed"
+          ],
+          "open": "08:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "The Salvation Army Red Bluff",
+      "org": "The Salvation Army Red Bluff",
+      "address": "940 Walnut Street, Red Bluff, CA 96080",
+      "phone": "(530) 527-8530",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 1pm-3pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "13:00",
+          "close": "15:00"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,505 @@
+{
+  "_meta": {
+    "topic": "Net-new Calaveras County food distributions",
+    "generated": "2026-10-05",
+    "source": "Research supplementing shell PENDING-Calaveras; raw ./CalaverasAdditions-raw.json."
+  },
+  "_deferred": {
+    "add-calaveras-senior-center": {
+      "title": "Calaveras Senior Center",
+      "status": "schedule varies Phone: (209) 754-1257.",
+      "address": "956 Mountain Ranch Rd, San Andreas, CA 95249",
+      "lat": 38.18917,
+      "lng": -120.66712,
+      "phone": "(209) 754-1257",
+      "eligibility": "",
+      "sourceUrl": "https://trcac.org/the-food-bank-2/"
+    }
+  },
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "add-first-baptist-of-angels-camp-m14-0900",
+      "seriesSlug": "add-first-baptist-of-angels-camp",
+      "title": "First Baptist of Angels Camp — Free Food",
+      "description": "Free food at First Baptist of Angels Camp. Schedule: 1st Thu 9 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "First Baptist of Angels Camp",
+      "address": "1555 Depot Rd, Angels Camp, CA 95222",
+      "lat": 38.072008,
+      "lng": -120.536983,
+      "category": "food-assistance",
+      "sourceOrg": "First Baptist of Angels Camp",
+      "url": "https://trcac.org/the-food-bank-2/",
+      "schedulePattern": "1st Thu 9 AM–11 AM",
+      "start": "2026-10-08T09:00",
+      "end": "2026-10-08T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-seventh-day-adventist-church-angels-camp-w2-1000",
+      "seriesSlug": "add-seventh-day-adventist-church-angels-camp",
+      "title": "Seventh Day Adventist Church (Angels Camp) — Free Food",
+      "description": "Free food at Seventh Day Adventist Church (Angels Camp). Schedule: Tue 10 AM–1 PM. Call (209) 736-0941 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Seventh Day Adventist Church (Angels Camp)",
+      "address": "140 N Main St, Angels Camp, CA 95222",
+      "lat": 38.08421,
+      "lng": -120.56085,
+      "category": "food-assistance",
+      "sourceOrg": "Seventh Day Adventist Church (Angels Camp)",
+      "url": "https://trcac.org/the-food-bank-2/",
+      "schedulePattern": "Tue 10 AM–1 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sierra-hope-food-pantry-w3-1300",
+      "seriesSlug": "add-sierra-hope-food-pantry",
+      "title": "Sierra Hope Food Pantry — Free Food",
+      "description": "Free food at Sierra Hope Food Pantry. Schedule: Wed 1 PM–3 PM. Call (209) 736-6792 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Sierra Hope Food Pantry",
+      "address": "473 S Main St, Angels Camp, CA 95222",
+      "lat": 38.078077,
+      "lng": -120.550771,
+      "category": "food-assistance",
+      "sourceOrg": "Sierra Hope Food Pantry",
+      "url": "https://trcac.org/the-food-bank-2/",
+      "schedulePattern": "Wed 1 PM–3 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-patrick-s-helping-hands-w1-1300",
+      "seriesSlug": "add-st-patrick-s-helping-hands",
+      "title": "St. Patrick's Helping Hands — Free Food",
+      "description": "Free food at St. Patrick's Helping Hands. Schedule: Mon 1 PM–3 PM. Call (209) 736-4575 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Patrick's Helping Hands",
+      "address": "820 S Main St, Angels Camp, CA 95222",
+      "lat": 38.07455,
+      "lng": -120.54507,
+      "category": "food-assistance",
+      "sourceOrg": "St. Patrick's Helping Hands",
+      "url": "https://trcac.org/the-food-bank-2/",
+      "schedulePattern": "Mon 1 PM–3 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-chapel-in-the-pines-w2-1000",
+      "seriesSlug": "add-chapel-in-the-pines",
+      "title": "Chapel in the Pines — Free Food",
+      "description": "Free food at Chapel in the Pines. Schedule: Tue 10 AM–12 PM. Call (209) 795-1064 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Chapel in the Pines",
+      "address": "2286 Cedar Lane, Arnold, CA 95223",
+      "lat": 38.23908,
+      "lng": -120.36381,
+      "category": "food-assistance",
+      "sourceOrg": "Chapel in the Pines",
+      "url": "https://trcac.org/the-food-bank-2/",
+      "schedulePattern": "Tue 10 AM–12 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-our-lady-of-the-sierra-helping-hands-w2-0930",
+      "seriesSlug": "add-our-lady-of-the-sierra-helping-hands",
+      "title": "Our Lady of the Sierra Helping Hands — Free Food",
+      "description": "Free food at Our Lady of the Sierra Helping Hands. Schedule: Tue 9:30 AM–10 AM. Call (209) 794-7625 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Our Lady of the Sierra Helping Hands",
+      "address": "1301 Linebaugh Rd, Arnold, CA 95223",
+      "lat": 38.26238,
+      "lng": -120.34743,
+      "category": "food-assistance",
+      "sourceOrg": "Our Lady of the Sierra Helping Hands",
+      "url": "https://trcac.org/the-food-bank-2/",
+      "schedulePattern": "Tue 9:30 AM–10 AM",
+      "start": "2026-09-28T09:30",
+      "end": "2026-09-28T10:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-community-food-pantry-lake-tulloch-bible-church-m36-0830",
+      "seriesSlug": "add-community-food-pantry-lake-tulloch-bible-church",
+      "title": "Community Food Pantry (Lake Tulloch Bible Church) — Free Food",
+      "description": "Free food at Community Food Pantry (Lake Tulloch Bible Church). Schedule: 3rd Sat 8:30 AM–11 AM. Call (209) 785-4302 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Community Food Pantry (Lake Tulloch Bible Church)",
+      "address": "3566 Spangler Ln #3, Copperopolis, CA 95228",
+      "lat": 37.93704,
+      "lng": -120.603058,
+      "category": "food-assistance",
+      "sourceOrg": "Community Food Pantry (Lake Tulloch Bible Church)",
+      "url": "https://trcac.org/the-food-bank-2/",
+      "schedulePattern": "3rd Sat 8:30 AM–11 AM",
+      "start": "2026-10-10T08:30",
+      "end": "2026-10-10T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-copperopolis-armory-mobile-pantry-m14-0900",
+      "seriesSlug": "add-copperopolis-armory-mobile-pantry",
+      "title": "Copperopolis Armory (mobile pantry) — Free Food",
+      "description": "Free food at Copperopolis Armory (mobile pantry). Schedule: 1st Thu 9 AM–11 AM. Call (209) 754-1257 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Copperopolis Armory (mobile pantry)",
+      "address": ", Copperopolis, CA 95228",
+      "lat": 37.978151,
+      "lng": -120.63838,
+      "category": "food-assistance",
+      "sourceOrg": "Copperopolis Armory (mobile pantry)",
+      "url": "https://trcac.org/the-food-bank-2/",
+      "schedulePattern": "1st Thu 9 AM–11 AM",
+      "start": "2026-10-08T09:00",
+      "end": "2026-10-08T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-mokelumne-hill-church-m34-1600",
+      "seriesSlug": "add-mokelumne-hill-church",
+      "title": "Mokelumne Hill Church — Free Food",
+      "description": "Free food at Mokelumne Hill Church. Schedule: 3rd Thu 4 PM–6 PM. Call (209) 286-1165 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Mokelumne Hill Church",
+      "address": "8085 Hwy 26, Suite 2B, Mokelumne Hill, CA 95245",
+      "lat": 38.298273,
+      "lng": -120.704373,
+      "category": "food-assistance",
+      "sourceOrg": "Mokelumne Hill Church",
+      "url": "https://trcac.org/the-food-bank-2/",
+      "schedulePattern": "3rd Thu 4 PM–6 PM",
+      "start": "2026-10-08T16:00",
+      "end": "2026-10-08T18:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-mountain-ranch-resource-center-m34-0900",
+      "seriesSlug": "add-mountain-ranch-resource-center",
+      "title": "Mountain Ranch Resource Center — Free Food",
+      "description": "Free food at Mountain Ranch Resource Center. Schedule: 3rd Thu 9 AM–11 AM. Call (209) 754-4073 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Mountain Ranch Resource Center",
+      "address": "7867 Whiskey Slide Rd, Mountain Ranch, CA 95246",
+      "lat": 38.22841,
+      "lng": -120.54311,
+      "category": "food-assistance",
+      "sourceOrg": "Mountain Ranch Resource Center",
+      "url": "https://trcac.org/the-food-bank-2/",
+      "schedulePattern": "3rd Thu 9 AM–11 AM",
+      "start": "2026-10-08T09:00",
+      "end": "2026-10-08T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-murphys-senior-center-w24-1100",
+      "seriesSlug": "add-murphys-senior-center",
+      "title": "Murphys Senior Center — Free Food",
+      "description": "Free food at Murphys Senior Center. Schedule: Tue, Thu 11 AM–1 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Murphys Senior Center",
+      "address": "65 Mitchler St, Murphys, CA 95247",
+      "lat": 38.137537,
+      "lng": -120.456155,
+      "category": "food-assistance",
+      "sourceOrg": "Murphys Senior Center",
+      "url": "https://trcac.org/the-food-bank-2/",
+      "schedulePattern": "Tue, Thu 11 AM–1 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-rail-road-flat-elementary-school-mobile-pantry-m-14-1000",
+      "seriesSlug": "add-rail-road-flat-elementary-school-mobile-pantry",
+      "title": "Rail Road Flat Elementary School (mobile pantry) — Free Food",
+      "description": "Free food at Rail Road Flat Elementary School (mobile pantry). Schedule: last Thu 10 AM–12 PM. Call (209) 754-1257 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Rail Road Flat Elementary School (mobile pantry)",
+      "address": "298 Rail Road Flat Rd, Rail Road Flat, CA 95248",
+      "lat": 38.343247,
+      "lng": -120.512148,
+      "category": "food-assistance",
+      "sourceOrg": "Rail Road Flat Elementary School (mobile pantry)",
+      "url": "https://trcac.org/the-food-bank-2/",
+      "schedulePattern": "last Thu 10 AM–12 PM",
+      "start": "2026-10-08T10:00",
+      "end": "2026-10-08T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": -1,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "-1:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-san-andreas-community-covenant-church-free-dinne-w3-1630",
+      "seriesSlug": "add-san-andreas-community-covenant-church-free-dinne",
+      "title": "San Andreas Community Covenant Church (free dinner) — Free Food",
+      "description": "Free food at San Andreas Community Covenant Church (free dinner). Schedule: Wed 4:30 PM–6 PM. Call (209) 754-3881 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "San Andreas Community Covenant Church (free dinner)",
+      "address": "261 Treat Ave, San Andreas, CA 95249",
+      "lat": 38.195289,
+      "lng": -120.677098,
+      "category": "food-assistance",
+      "sourceOrg": "San Andreas Community Covenant Church (free dinner)",
+      "url": "https://trcac.org/the-food-bank-2/",
+      "schedulePattern": "Wed 4:30 PM–6 PM",
+      "start": "2026-09-28T16:30",
+      "end": "2026-09-28T18:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-seventh-day-adventist-church-san-andreas-w5-1000",
+      "seriesSlug": "add-seventh-day-adventist-church-san-andreas",
+      "title": "Seventh Day Adventist Church (San Andreas) — Free Food",
+      "description": "Free food at Seventh Day Adventist Church (San Andreas). Schedule: Fri 10 AM–1 PM. Call (530) 586-1366 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Seventh Day Adventist Church (San Andreas)",
+      "address": "399 Mariposa St, San Andreas, CA 95249",
+      "lat": 38.193809,
+      "lng": -120.685736,
+      "category": "food-assistance",
+      "sourceOrg": "Seventh Day Adventist Church (San Andreas)",
+      "url": "https://trcac.org/the-food-bank-2/",
+      "schedulePattern": "Fri 10 AM–1 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-resource-connection-food-bank-w1235-0900",
+      "seriesSlug": "add-the-resource-connection-food-bank",
+      "title": "The Resource Connection Food Bank — Free Food",
+      "description": "Free food at The Resource Connection Food Bank. Schedule: Mon–Wed, Fri 9 AM–4 PM. Call (209) 754-1257 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Resource Connection Food Bank",
+      "address": "206 George Reed Dr, San Andreas, CA 95249",
+      "lat": 38.179401,
+      "lng": -120.678202,
+      "category": "food-assistance",
+      "sourceOrg": "The Resource Connection Food Bank",
+      "url": "https://trcac.org/the-food-bank-2/",
+      "schedulePattern": "Mon–Wed, Fri 9 AM–4 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-community-united-methodist-church-m15-0900",
+      "seriesSlug": "add-community-united-methodist-church",
+      "title": "Community United Methodist Church — Free Food",
+      "description": "Free food at Community United Methodist Church. Schedule: 1st Fri 9 AM–11 AM. Call (209) 772-2429 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Community United Methodist Church",
+      "address": "135 Laurel St, Valley Springs, CA 95252",
+      "lat": 38.192431,
+      "lng": -120.831344,
+      "category": "food-assistance",
+      "sourceOrg": "Community United Methodist Church",
+      "url": "https://trcac.org/the-food-bank-2/",
+      "schedulePattern": "1st Fri 9 AM–11 AM",
+      "start": "2026-10-09T09:00",
+      "end": "2026-10-09T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "1:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-good-samaritan-community-covenant-church-m2646-0900",
+      "seriesSlug": "add-good-samaritan-community-covenant-church",
+      "title": "Good Samaritan Community Covenant Church — Free Food",
+      "description": "Free food at Good Samaritan Community Covenant Church. Schedule: 2nd Sat & 4th Sat 9 AM–11 AM. Call (209) 772-9548 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Good Samaritan Community Covenant Church",
+      "address": "4684 Baldwin St, Valley Springs, CA 95252",
+      "lat": 38.139585,
+      "lng": -120.86228,
+      "category": "food-assistance",
+      "sourceOrg": "Good Samaritan Community Covenant Church",
+      "url": "https://trcac.org/the-food-bank-2/",
+      "schedulePattern": "2nd Sat & 4th Sat 9 AM–11 AM",
+      "start": "2026-10-10T09:00",
+      "end": "2026-10-10T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6,4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-stone-corral-community-church-m33-0900",
+      "seriesSlug": "add-stone-corral-community-church",
+      "title": "Stone Corral Community Church — Free Food",
+      "description": "Free food at Stone Corral Community Church. Schedule: 3rd Wed 9 AM–12 PM. Call (209) 786-2448 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Stone Corral Community Church",
+      "address": "9441 Hwy 26, Valley Springs, CA 95252",
+      "lat": 38.189315,
+      "lng": -120.827188,
+      "category": "food-assistance",
+      "sourceOrg": "Stone Corral Community Church",
+      "url": "https://trcac.org/the-food-bank-2/",
+      "schedulePattern": "3rd Wed 9 AM–12 PM",
+      "start": "2026-10-07T09:00",
+      "end": "2026-10-07T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-community-covenant-church-w4-1130",
+      "seriesSlug": "add-community-covenant-church",
+      "title": "Community Covenant Church — Free Food",
+      "description": "Free food at Community Covenant Church. Schedule: Thu 11:30 AM–1 PM. Call (209) 293-4226 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Community Covenant Church",
+      "address": "22264 Hwy 26, West Point, CA 95255",
+      "lat": 38.398532,
+      "lng": -120.52765,
+      "category": "food-assistance",
+      "sourceOrg": "Community Covenant Church",
+      "url": "https://trcac.org/the-food-bank-2/",
+      "schedulePattern": "Thu 11:30 AM–1 PM",
+      "start": "2026-09-28T11:30",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-west-point-community-hall-mobile-pantry-m23-1000",
+      "seriesSlug": "add-west-point-community-hall-mobile-pantry",
+      "title": "West Point Community Hall (mobile pantry) — Free Food",
+      "description": "Free food at West Point Community Hall (mobile pantry). Schedule: 2nd Wed 10 AM–12 PM. Call (209) 754-1257 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "West Point Community Hall (mobile pantry)",
+      "address": "22283 Hwy 26, West Point, CA 95255",
+      "lat": 38.39908,
+      "lng": -120.52742,
+      "category": "food-assistance",
+      "sourceOrg": "West Point Community Hall (mobile pantry)",
+      "url": "https://trcac.org/the-food-bank-2/",
+      "schedulePattern": "2nd Wed 10 AM–12 PM",
+      "start": "2026-10-07T10:00",
+      "end": "2026-10-07T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "2:3"
+    }
+  ]
+}

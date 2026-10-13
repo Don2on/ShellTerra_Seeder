@@ -1,0 +1,233 @@
+{
+  "_meta": {
+    "topic": "Siskiyou County food distributions",
+    "generated": "2026-10-11",
+    "source": "Hand-collected list (Sierra County, Siskiyou/Great Northern Services, Food Bank of Contra Costa & Solano, Redwood Empire Food Bank). Schedules parsed via LA clause parser.",
+    "note": "Drop-in raw for prepare-food-additions.mjs. Single-time entries route to _deferred."
+  },
+  "sites": [
+    {
+      "name": "Siskiyou Community Food Bank",
+      "org": "Siskiyou Community Food Bank",
+      "address": "1601 S. Oregon St Suite B, Yreka, CA 96097",
+      "phone": "530-340-6382",
+      "eligibility": "",
+      "website": "https://siskiyoufoodbank.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon & Thu 1pm-3:45pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Thu"
+          ],
+          "open": "13:00",
+          "close": "15:45"
+        }
+      ]
+    },
+    {
+      "name": "Siskiyou Food Assistance",
+      "org": "Siskiyou Food Assistance",
+      "address": "780 South Davis Avenue, Weed, CA 96094",
+      "phone": "(530) 408-6115",
+      "eligibility": "drive-thru; photo ID",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 11am-3pm (drive-thru; photo ID)",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "11:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Happy Camp Community Action Center (commodities)",
+      "org": "Happy Camp Community Action Center (commodities)",
+      "address": "38 Parkway Road, Happy Camp, CA 96039",
+      "phone": "(530) 493-5117",
+      "eligibility": "",
+      "website": "https://gnservices.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 10am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Great Northern Services commodities - Fort Jones",
+      "org": "Great Northern Services commodities - Fort Jones",
+      "address": ", Fort Jones, CA 96032",
+      "phone": "530-938-4115",
+      "eligibility": "",
+      "website": "https://gnservices.org",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "Thu 12:30pm-2:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "12:30",
+          "close": "14:30"
+        }
+      ]
+    },
+    {
+      "name": "Scott Valley Food Pantry",
+      "org": "Scott Valley Food Pantry",
+      "address": "13007 N. Hwy 3, Fort Jones, CA 96032",
+      "phone": "530-598-8363",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 3pm-4:30pm; Sat 10am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "15:00",
+          "close": "16:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Yreka Food Bank",
+      "org": "Yreka Food Bank",
+      "address": "1249 Main Street, Yreka, CA 96097",
+      "phone": "530-643-2507",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue and Fri 10am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Joseph's Catholic Church",
+      "org": "St. Joseph's Catholic Church",
+      "address": "312 4th St, Yreka, CA 96097",
+      "phone": "530-842-4874",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 12pm",
+      "schedules": []
+    },
+    {
+      "name": "First Baptist Church Mt. Shasta",
+      "org": "First Baptist Church Mt. Shasta",
+      "address": "812 Lassen Lane, Mt. Shasta, CA 96067",
+      "phone": "530-926-5095",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 5pm",
+      "schedules": []
+    },
+    {
+      "name": "Saint Anthony's Soup Kitchen",
+      "org": "Saint Anthony's Soup Kitchen",
+      "address": "507 Pine St, Mt. Shasta, CA 96067",
+      "phone": "530-926-4477",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 3pm-5pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "15:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Klamath River Community Center",
+      "org": "Klamath River Community Center",
+      "address": ", Klamath River, CA 96050",
+      "phone": "530-938-4115",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "Thu 10:30am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "10:30",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Horse Creek Community Church",
+      "org": "Horse Creek Community Church",
+      "address": ", Horse Creek, CA 96050",
+      "phone": "530-938-4115",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "Thu 11:30am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "11:30",
+          "close": "13:00"
+        }
+      ]
+    }
+  ]
+}

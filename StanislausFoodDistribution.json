@@ -1,0 +1,644 @@
+{
+  "_meta": {
+    "topic": "Net-new Stanislaus County food distributions",
+    "generated": "2026-10-05",
+    "source": "Research supplementing shell PENDING-Stanislaus; raw ./StanislausAdditions-raw.json."
+  },
+  "_deferred": {},
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "add-sda-ceres-community-services-center-m1434-0900",
+      "seriesSlug": "add-sda-ceres-community-services-center",
+      "title": "SDA Ceres Community Services Center — Free Food",
+      "description": "Free food at SDA Ceres Community Services Center. Schedule: 1st Thu & 3rd Thu 9 AM–11 AM. Call 209-277-7125 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "SDA Ceres Community Services Center",
+      "address": "1633 N Central Ave, Ceres, CA 95307",
+      "lat": 37.606671,
+      "lng": -120.957995,
+      "category": "food-assistance",
+      "sourceOrg": "SDA Ceres Community Services Center",
+      "url": "https://www.thesecondharvest.org",
+      "schedulePattern": "1st Thu & 3rd Thu 9 AM–11 AM",
+      "start": "2026-10-08T09:00",
+      "end": "2026-10-08T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4,3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-vincent-de-paul-ceres-w3-1530",
+      "seriesSlug": "add-st-vincent-de-paul-ceres",
+      "title": "St. Vincent De Paul - Ceres — Free Food",
+      "description": "Free food at St. Vincent De Paul - Ceres. Schedule: Wed 3:30 PM–4:30 PM. Call 209-872-3200 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Vincent De Paul - Ceres",
+      "address": "3824 Mitchell Rd, Ceres, CA 95307",
+      "lat": 37.58347,
+      "lng": -120.938318,
+      "category": "food-assistance",
+      "sourceOrg": "St. Vincent De Paul - Ceres",
+      "url": "https://www.thesecondharvest.org",
+      "schedulePattern": "Wed 3:30 PM–4:30 PM",
+      "start": "2026-09-28T15:30",
+      "end": "2026-09-28T16:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-valley-christian-center-m1232-0900",
+      "seriesSlug": "add-valley-christian-center",
+      "title": "Valley Christian Center — Free Food",
+      "description": "Free food at Valley Christian Center. Schedule: 1st Tue & 3rd Tue 9 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Valley Christian Center",
+      "address": "2745 2nd St, Ceres, CA 95307",
+      "lat": 37.592351,
+      "lng": -120.956012,
+      "category": "food-assistance",
+      "sourceOrg": "Valley Christian Center",
+      "url": "https://www.thesecondharvest.org",
+      "schedulePattern": "1st Tue & 3rd Tue 9 AM–11 AM",
+      "start": "2026-10-06T09:00",
+      "end": "2026-10-06T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 2
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "1:2,3:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-hickman-community-church-m2545-1030",
+      "seriesSlug": "add-hickman-community-church",
+      "title": "Hickman Community Church — Free Food",
+      "description": "Free food at Hickman Community Church. Schedule: 2nd Fri & 4th Fri 10:30 AM–12 PM. Call 209-874-1180 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Hickman Community Church",
+      "address": "854 I St, Hickman, CA 95323",
+      "lat": 37.62248,
+      "lng": -120.74914,
+      "category": "food-assistance",
+      "sourceOrg": "Hickman Community Church",
+      "url": "https://www.thesecondharvest.org",
+      "schedulePattern": "2nd Fri & 4th Fri 10:30 AM–12 PM",
+      "start": "2026-10-09T10:30",
+      "end": "2026-10-09T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "2:5,4:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-keyes-haven-of-hope-w4-1000",
+      "seriesSlug": "add-keyes-haven-of-hope",
+      "title": "Keyes Haven of Hope — Free Food",
+      "description": "Free food at Keyes Haven of Hope. Schedule: Thu 10 AM–11 AM. Call 209-668-7721 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Keyes Haven of Hope",
+      "address": "5450 7th St, Keyes, CA 95328",
+      "lat": 37.55658,
+      "lng": -120.91475,
+      "category": "food-assistance",
+      "sourceOrg": "Keyes Haven of Hope",
+      "url": "https://www.thesecondharvest.org",
+      "schedulePattern": "Thu 10 AM–11 AM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-big-valley-grace-w1234-0830",
+      "seriesSlug": "add-big-valley-grace",
+      "title": "Big Valley Grace — Free Food",
+      "description": "Free food at Big Valley Grace. Schedule: Mon–Thu 8:30 AM–3:30 PM. Eligibility: by appointment only. Call 209-577-1604 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Big Valley Grace",
+      "address": "4040 Tully Rd, Modesto, CA 95356",
+      "lat": 37.697502,
+      "lng": -121.011282,
+      "category": "food-assistance",
+      "sourceOrg": "Big Valley Grace",
+      "url": "https://www.thesecondharvest.org",
+      "schedulePattern": "Mon–Thu 8:30 AM–3:30 PM",
+      "start": "2026-09-28T08:30",
+      "end": "2026-09-28T15:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-christ-unity-baptist-church-w14-1000",
+      "seriesSlug": "add-christ-unity-baptist-church",
+      "title": "Christ Unity Baptist Church — Free Food",
+      "description": "Free food at Christ Unity Baptist Church. Schedule: Mon, Thu 10 AM–1 PM. Call 209-577-8112 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Christ Unity Baptist Church",
+      "address": "1320 L Street, Modesto, CA 95351",
+      "lat": 37.644899,
+      "lng": -120.998841,
+      "category": "food-assistance",
+      "sourceOrg": "Christ Unity Baptist Church",
+      "url": "https://www.thesecondharvest.org",
+      "schedulePattern": "Mon, Thu 10 AM–1 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-davis-park-church-of-christ-w135-1030",
+      "seriesSlug": "add-davis-park-church-of-christ",
+      "title": "Davis Park Church of Christ — Free Food",
+      "description": "Free food at Davis Park Church of Christ. Schedule: Mon, Wed, Fri 10:30 AM–11 AM; Mon, Wed, Fri 1:30 PM–2 PM. Call 209-522-7226 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Davis Park Church of Christ",
+      "address": "901 W Rumble Road, Modesto, CA 95350",
+      "lat": 37.682339,
+      "lng": -121.005401,
+      "category": "food-assistance",
+      "sourceOrg": "Davis Park Church of Christ",
+      "url": "https://www.thesecondharvest.org",
+      "schedulePattern": "Mon, Wed, Fri 10:30 AM–11 AM; Mon, Wed, Fri 1:30 PM–2 PM",
+      "start": "2026-09-28T10:30",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-davis-park-church-of-christ-w135-1330",
+      "seriesSlug": "add-davis-park-church-of-christ",
+      "title": "Davis Park Church of Christ — Free Food",
+      "description": "Free food at Davis Park Church of Christ. Schedule: Mon, Wed, Fri 10:30 AM–11 AM; Mon, Wed, Fri 1:30 PM–2 PM. Call 209-522-7226 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Davis Park Church of Christ",
+      "address": "901 W Rumble Road, Modesto, CA 95350",
+      "lat": 37.682339,
+      "lng": -121.005401,
+      "category": "food-assistance",
+      "sourceOrg": "Davis Park Church of Christ",
+      "url": "https://www.thesecondharvest.org",
+      "schedulePattern": "Mon, Wed, Fri 10:30 AM–11 AM; Mon, Wed, Fri 1:30 PM–2 PM",
+      "start": "2026-09-28T13:30",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-gap-food-ministry-of-the-well-community-fellowsh-m37-0830",
+      "seriesSlug": "add-gap-food-ministry-of-the-well-community-fellowsh",
+      "title": "GAP Food Ministry of The Well Community Fellowship — Free Food",
+      "description": "Free food at GAP Food Ministry of The Well Community Fellowship. Schedule: 3rd Sun 8:30 AM–9:30 AM; 3rd Fri 10 AM–12 PM. Call 209-551-4463 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "GAP Food Ministry of The Well Community Fellowship",
+      "address": "2500 Claus Rd, Modesto, CA 95355",
+      "lat": 37.677192,
+      "lng": -120.920697,
+      "category": "food-assistance",
+      "sourceOrg": "GAP Food Ministry of The Well Community Fellowship",
+      "url": "https://www.thesecondharvest.org",
+      "schedulePattern": "3rd Sun 8:30 AM–9:30 AM; 3rd Fri 10 AM–12 PM",
+      "start": "2026-10-11T08:30",
+      "end": "2026-10-11T09:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 7
+          }
+        ]
+      },
+      "recurDays": "3:7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-gap-food-ministry-of-the-well-community-fellowsh-m35-1000",
+      "seriesSlug": "add-gap-food-ministry-of-the-well-community-fellowsh",
+      "title": "GAP Food Ministry of The Well Community Fellowship — Free Food",
+      "description": "Free food at GAP Food Ministry of The Well Community Fellowship. Schedule: 3rd Sun 8:30 AM–9:30 AM; 3rd Fri 10 AM–12 PM. Call 209-551-4463 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "GAP Food Ministry of The Well Community Fellowship",
+      "address": "2500 Claus Rd, Modesto, CA 95355",
+      "lat": 37.677192,
+      "lng": -120.920697,
+      "category": "food-assistance",
+      "sourceOrg": "GAP Food Ministry of The Well Community Fellowship",
+      "url": "https://www.thesecondharvest.org",
+      "schedulePattern": "3rd Sun 8:30 AM–9:30 AM; 3rd Fri 10 AM–12 PM",
+      "start": "2026-10-09T10:00",
+      "end": "2026-10-09T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-nineveh-outreach-w4-0730",
+      "seriesSlug": "add-nineveh-outreach",
+      "title": "Nineveh Outreach — Free Food",
+      "description": "Free food at Nineveh Outreach. Schedule: Thu 7:30 AM–9 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Nineveh Outreach",
+      "address": "1601 Coffee Rd, Modesto, CA 95355",
+      "lat": 37.668124,
+      "lng": -120.976795,
+      "category": "food-assistance",
+      "sourceOrg": "Nineveh Outreach",
+      "url": "https://www.thesecondharvest.org",
+      "schedulePattern": "Thu 7:30 AM–9 AM",
+      "start": "2026-09-28T07:30",
+      "end": "2026-09-28T09:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sda-modesto-central-w2-1000",
+      "seriesSlug": "add-sda-modesto-central",
+      "title": "SDA Modesto Central — Free Food",
+      "description": "Free food at SDA Modesto Central. Schedule: Tue 10 AM–11:50 AM. Call 209-521-6460 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "SDA Modesto Central",
+      "address": "1614 H Street, Modesto, CA 95354",
+      "lat": 37.643027,
+      "lng": -120.991658,
+      "category": "food-assistance",
+      "sourceOrg": "SDA Modesto Central",
+      "url": "https://www.thesecondharvest.org",
+      "schedulePattern": "Tue 10 AM–11:50 AM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T11:50",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-stjmod-pantry-w24-0900",
+      "seriesSlug": "add-stjmod-pantry",
+      "title": "STJMOD Pantry — Free Food",
+      "description": "Free food at STJMOD Pantry. Schedule: Tue, Thu 9 AM–11 AM. Call 209-477-2633 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "STJMOD Pantry",
+      "address": "1813 Oakdale Road, Modesto, CA 95355",
+      "lat": 37.670332,
+      "lng": -120.958277,
+      "category": "food-assistance",
+      "sourceOrg": "STJMOD Pantry",
+      "url": "https://www.thesecondharvest.org",
+      "schedulePattern": "Tue, Thu 9 AM–11 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-support-life-foundation-w5-1100",
+      "seriesSlug": "add-support-life-foundation",
+      "title": "Support Life Foundation — Free Food",
+      "description": "Free food at Support Life Foundation. Schedule: Fri 11 AM–1 PM. Call 209-650-8759 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Support Life Foundation",
+      "address": "1445 N. Carpenter Rd, Modesto, CA 95351",
+      "lat": 37.65663,
+      "lng": -121.03304,
+      "category": "food-assistance",
+      "sourceOrg": "Support Life Foundation",
+      "url": "https://www.thesecondharvest.org",
+      "schedulePattern": "Fri 11 AM–1 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-victory-in-praise-modesto-james-marshall-park-m46-1000",
+      "seriesSlug": "add-victory-in-praise-modesto-james-marshall-park",
+      "title": "Victory In Praise - Modesto (James Marshall Park) — Free Food",
+      "description": "Free food at Victory In Praise - Modesto (James Marshall Park). Schedule: 4th Sat 10 AM–12 PM. Call 209-522-1888 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Victory In Praise - Modesto (James Marshall Park)",
+      "address": "440 Sutter Ave, Modesto, CA 95351",
+      "lat": 37.62513,
+      "lng": -121.01189,
+      "category": "food-assistance",
+      "sourceOrg": "Victory In Praise - Modesto (James Marshall Park)",
+      "url": "https://www.thesecondharvest.org",
+      "schedulePattern": "4th Sat 10 AM–12 PM",
+      "start": "2026-10-10T10:00",
+      "end": "2026-10-10T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-oakdale-community-sharing-christian-center-w2-0800",
+      "seriesSlug": "add-oakdale-community-sharing-christian-center",
+      "title": "Oakdale Community Sharing Christian Center — Free Food",
+      "description": "Free food at Oakdale Community Sharing Christian Center. Schedule: Tue 8 AM–11:30 AM. Call 209-847-3401 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Oakdale Community Sharing Christian Center",
+      "address": "565 Center St, Oakdale, CA 95361",
+      "lat": 37.76095,
+      "lng": -120.84052,
+      "category": "food-assistance",
+      "sourceOrg": "Oakdale Community Sharing Christian Center",
+      "url": "https://www.thesecondharvest.org",
+      "schedulePattern": "Tue 8 AM–11:30 AM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sda-patterson-m2141-0930",
+      "seriesSlug": "add-sda-patterson",
+      "title": "SDA Patterson — Free Food",
+      "description": "Free food at SDA Patterson. Schedule: 2nd Mon & 4th Mon 9:30 AM–12:15 PM. Call 209-912-9530 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "SDA Patterson",
+      "address": "66 N. El Circulo, Patterson, CA 95363",
+      "lat": 37.47164,
+      "lng": -121.132651,
+      "category": "food-assistance",
+      "sourceOrg": "SDA Patterson",
+      "url": "https://www.thesecondharvest.org",
+      "schedulePattern": "2nd Mon & 4th Mon 9:30 AM–12:15 PM",
+      "start": "2026-10-05T09:30",
+      "end": "2026-10-05T12:15",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 1
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "2:1,4:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-vincent-de-paul-riverbank-w14-1000",
+      "seriesSlug": "add-st-vincent-de-paul-riverbank",
+      "title": "St. Vincent De Paul - Riverbank — Free Food",
+      "description": "Free food at St. Vincent De Paul - Riverbank. Schedule: Mon, Thu 10 AM–12 PM. Call 209-869-2996 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Vincent De Paul - Riverbank",
+      "address": "2827 Topeka St, Riverbank, CA 95367",
+      "lat": 37.737355,
+      "lng": -120.944165,
+      "category": "food-assistance",
+      "sourceOrg": "St. Vincent De Paul - Riverbank",
+      "url": "https://www.thesecondharvest.org",
+      "schedulePattern": "Mon, Thu 10 AM–12 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-neighborhood-church-m122232-1100",
+      "seriesSlug": "add-neighborhood-church",
+      "title": "Neighborhood Church — Free Food",
+      "description": "Free food at Neighborhood Church. Schedule: 1st Tue & 2nd Tue & 3rd Tue 11 AM–12:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Neighborhood Church",
+      "address": "4942 Washington St, Salida, CA 95368",
+      "lat": 37.703093,
+      "lng": -121.085969,
+      "category": "food-assistance",
+      "sourceOrg": "Neighborhood Church",
+      "url": "https://www.thesecondharvest.org",
+      "schedulePattern": "1st Tue & 2nd Tue & 3rd Tue 11 AM–12:30 PM",
+      "start": "2026-10-06T11:00",
+      "end": "2026-10-06T12:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 2
+          },
+          {
+            "n": 2,
+            "dayOfWeek": 2
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "1:2,2:2,3:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-enclave-community-church-w2-1330",
+      "seriesSlug": "add-enclave-community-church",
+      "title": "Enclave Community Church — Free Food",
+      "description": "Free food at Enclave Community Church. Schedule: Tue 1:30 PM–2:30 PM. Call 209-667-5996 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Enclave Community Church",
+      "address": "581 E Canal Dr, Turlock, CA 95380",
+      "lat": 37.500771,
+      "lng": -120.842582,
+      "category": "food-assistance",
+      "sourceOrg": "Enclave Community Church",
+      "url": "https://www.thesecondharvest.org",
+      "schedulePattern": "Tue 1:30 PM–2:30 PM",
+      "start": "2026-09-28T13:30",
+      "end": "2026-09-28T14:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-pursuit-of-truth-m36-1000",
+      "seriesSlug": "add-pursuit-of-truth",
+      "title": "Pursuit of Truth — Free Food",
+      "description": "Free food at Pursuit of Truth. Schedule: 3rd Sat 10 AM–12 PM. Call 209-416-1852 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Pursuit of Truth",
+      "address": "900 Pioneer Ave, Turlock, CA 95380",
+      "lat": 37.501433,
+      "lng": -120.83758,
+      "category": "food-assistance",
+      "sourceOrg": "Pursuit of Truth",
+      "url": "https://www.thesecondharvest.org",
+      "schedulePattern": "3rd Sat 10 AM–12 PM",
+      "start": "2026-10-10T10:00",
+      "end": "2026-10-10T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-salvation-army-turlock-w1-1000",
+      "seriesSlug": "add-salvation-army-turlock",
+      "title": "Salvation Army - Turlock — Free Food",
+      "description": "Free food at Salvation Army - Turlock. Schedule: Mon 10 AM–12 PM; Tue–Fri 9 AM–12 PM; Mon–Fri 1 PM–3:30 PM. Call 209-669-5366 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salvation Army - Turlock",
+      "address": "893 Lander Ave, Turlock, CA 95380",
+      "lat": 37.484909,
+      "lng": -120.849583,
+      "category": "food-assistance",
+      "sourceOrg": "Salvation Army - Turlock",
+      "url": "https://www.thesecondharvest.org",
+      "schedulePattern": "Mon 10 AM–12 PM; Tue–Fri 9 AM–12 PM; Mon–Fri 1 PM–3:30 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-salvation-army-turlock-w2345-0900",
+      "seriesSlug": "add-salvation-army-turlock",
+      "title": "Salvation Army - Turlock — Free Food",
+      "description": "Free food at Salvation Army - Turlock. Schedule: Mon 10 AM–12 PM; Tue–Fri 9 AM–12 PM; Mon–Fri 1 PM–3:30 PM. Call 209-669-5366 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salvation Army - Turlock",
+      "address": "893 Lander Ave, Turlock, CA 95380",
+      "lat": 37.484909,
+      "lng": -120.849583,
+      "category": "food-assistance",
+      "sourceOrg": "Salvation Army - Turlock",
+      "url": "https://www.thesecondharvest.org",
+      "schedulePattern": "Mon 10 AM–12 PM; Tue–Fri 9 AM–12 PM; Mon–Fri 1 PM–3:30 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-salvation-army-turlock-w12345-1300",
+      "seriesSlug": "add-salvation-army-turlock",
+      "title": "Salvation Army - Turlock — Free Food",
+      "description": "Free food at Salvation Army - Turlock. Schedule: Mon 10 AM–12 PM; Tue–Fri 9 AM–12 PM; Mon–Fri 1 PM–3:30 PM. Call 209-669-5366 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salvation Army - Turlock",
+      "address": "893 Lander Ave, Turlock, CA 95380",
+      "lat": 37.484909,
+      "lng": -120.849583,
+      "category": "food-assistance",
+      "sourceOrg": "Salvation Army - Turlock",
+      "url": "https://www.thesecondharvest.org",
+      "schedulePattern": "Mon 10 AM–12 PM; Tue–Fri 9 AM–12 PM; Mon–Fri 1 PM–3:30 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T15:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-united-samaritans-m-12-15-0900",
+      "seriesSlug": "add-united-samaritans",
+      "title": "United Samaritans — Free Food",
+      "description": "Free food at United Samaritans. Schedule: last Tue & last Fri 9 AM–12 PM. Call 209-668-4853 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "United Samaritans",
+      "address": "220 S Broadway, Turlock, CA 95380",
+      "lat": 37.491566,
+      "lng": -120.845887,
+      "category": "food-assistance",
+      "sourceOrg": "United Samaritans",
+      "url": "https://www.thesecondharvest.org",
+      "schedulePattern": "last Tue & last Fri 9 AM–12 PM",
+      "start": "2026-10-06T09:00",
+      "end": "2026-10-06T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": -1,
+            "dayOfWeek": 2
+          },
+          {
+            "n": -1,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "-1:2,-1:5"
+    }
+  ]
+}

@@ -1,0 +1,566 @@
+{
+  "_meta": {
+    "topic": "Net-new Marin County food distributions",
+    "generated": "2026-10-05",
+    "source": "Research supplementing shell PENDING-Marin; raw ./MarinAdditions-raw.json."
+  },
+  "_deferred": {
+    "add-san-geronimo-community-presbyterian-church-honor": {
+      "title": "San Geronimo Community Presbyterian Church - Honor Food Pantry",
+      "status": "Mon 11am (seniors 70+), 12pm (all West Marin residents), drive-through",
+      "address": "6001 Sir Francis Drake Blvd, San Geronimo, CA 94963",
+      "lat": 38.01415,
+      "lng": -122.66451,
+      "phone": "",
+      "eligibility": "seniors 70+; all West Marin residents",
+      "sourceUrl": "https://www.sfmfoodbank.org/find-food/"
+    },
+    "add-bahia-vista-elementary": {
+      "title": "Bahia Vista Elementary",
+      "status": "Wed & Fri 10am",
+      "address": "125 Bahia Way, San Rafael, CA 94901",
+      "lat": 37.966006,
+      "lng": -122.498347,
+      "phone": "",
+      "eligibility": "",
+      "sourceUrl": "https://www.sfmfoodbank.org/find-food/"
+    },
+    "add-st-vincent-de-paul-dining-room-free-meals": {
+      "title": "St. Vincent de Paul Dining Room (free meals)",
+      "status": "Daily 6am-1pm; breakfast 6:30-8am, lunch 11am-1pm Phone: (415) 454-3303.",
+      "address": "820 B St, San Rafael, CA 94901",
+      "lat": 37.971701,
+      "lng": -122.529531,
+      "phone": "(415) 454-3303",
+      "eligibility": "",
+      "sourceUrl": "https://vinnies.org"
+    }
+  },
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "add-holy-innocents-episcopal-church-w4-1545",
+      "seriesSlug": "add-holy-innocents-episcopal-church",
+      "title": "Holy Innocents Episcopal Church — Free Food",
+      "description": "Free food at Holy Innocents Episcopal Church. Schedule: Thu 3:45 PM–5:45 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Holy Innocents Episcopal Church",
+      "address": "2 Tamalpais Dr, Corte Madera, CA 94925",
+      "lat": 37.926757,
+      "lng": -122.528872,
+      "category": "food-assistance",
+      "sourceOrg": "Holy Innocents Episcopal Church",
+      "url": "https://www.sfmfoodbank.org/find-food/",
+      "schedulePattern": "Thu 3:45 PM–5:45 PM",
+      "start": "2026-09-28T15:45",
+      "end": "2026-09-28T17:45",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-fairfax-food-pantry-fairfax-community-church-w6-0800",
+      "seriesSlug": "add-fairfax-food-pantry-fairfax-community-church",
+      "title": "Fairfax Food Pantry (Fairfax Community Church) — Free Food",
+      "description": "Free food at Fairfax Food Pantry (Fairfax Community Church). Schedule: Sat 8 AM–10 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Fairfax Food Pantry (Fairfax Community Church)",
+      "address": "2398 Sir Francis Drake Blvd, Fairfax, CA 94930",
+      "lat": 37.995385,
+      "lng": -122.595459,
+      "category": "food-assistance",
+      "sourceOrg": "Fairfax Food Pantry (Fairfax Community Church)",
+      "url": "https://www.sfmfoodbank.org/find-food/",
+      "schedulePattern": "Sat 8 AM–10 AM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T10:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-bayside-mlk-academy-w3-1030",
+      "seriesSlug": "add-bayside-mlk-academy",
+      "title": "Bayside MLK Academy — Free Food",
+      "description": "Free food at Bayside MLK Academy. Schedule: Wed 10:30 AM–12:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Bayside MLK Academy",
+      "address": "200 Phillips Dr, Marin City, CA 94965",
+      "lat": 37.872606,
+      "lng": -122.513711,
+      "category": "food-assistance",
+      "sourceOrg": "Bayside MLK Academy",
+      "url": "https://www.sfmfoodbank.org/find-food/",
+      "schedulePattern": "Wed 10:30 AM–12:30 PM",
+      "start": "2026-09-28T10:30",
+      "end": "2026-09-28T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-southern-marin-food-pantry-st-andrew-presbyteria-w1-1200",
+      "seriesSlug": "add-southern-marin-food-pantry-st-andrew-presbyteria",
+      "title": "Southern Marin Food Pantry (St. Andrew Presbyterian Church) — Free Food",
+      "description": "Free food at Southern Marin Food Pantry (St. Andrew Presbyterian Church). Schedule: Mon 12 PM–1:30 PM. Eligibility: Southern Marin residents. Call (415) 332-1011 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Southern Marin Food Pantry (St. Andrew Presbyterian Church)",
+      "address": "101 Donahue St, Marin City, CA 94965",
+      "lat": 37.871116,
+      "lng": -122.509696,
+      "category": "food-assistance",
+      "sourceOrg": "Southern Marin Food Pantry (St. Andrew Presbyterian Church)",
+      "url": "https://www.sfmfoodbank.org/find-food/",
+      "schedulePattern": "Mon 12 PM–1:30 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T13:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-tamalpais-high-school-w5-1100",
+      "seriesSlug": "add-tamalpais-high-school",
+      "title": "Tamalpais High School — Free Food",
+      "description": "Free food at Tamalpais High School. Schedule: Fri 11 AM–2 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Tamalpais High School",
+      "address": "700 Miller Ave, Mill Valley, CA 94941",
+      "lat": 37.891814,
+      "lng": -122.5307,
+      "category": "food-assistance",
+      "sourceOrg": "Tamalpais High School",
+      "url": "https://www.sfmfoodbank.org/find-food/",
+      "schedulePattern": "Fri 11 AM–2 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-north-marin-community-services-weekly-community--w2-1400",
+      "seriesSlug": "add-north-marin-community-services-weekly-community-",
+      "title": "North Marin Community Services (weekly community market) — Free Food",
+      "description": "Free food at North Marin Community Services (weekly community market). Schedule: Tue 2 PM–6 PM; Fri 10 AM–2 PM. Eligibility: Novato residents. Call (415) 892-1643 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "North Marin Community Services (weekly community market)",
+      "address": "1907 Novato Blvd, Novato, CA 94947",
+      "lat": 38.10996,
+      "lng": -122.58841,
+      "category": "food-assistance",
+      "sourceOrg": "North Marin Community Services (weekly community market)",
+      "url": "https://www.northmarincs.org",
+      "schedulePattern": "Tue 2 PM–6 PM; Fri 10 AM–2 PM",
+      "start": "2026-09-28T14:00",
+      "end": "2026-09-28T18:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-north-marin-community-services-weekly-community--w5-1000",
+      "seriesSlug": "add-north-marin-community-services-weekly-community-",
+      "title": "North Marin Community Services (weekly community market) — Free Food",
+      "description": "Free food at North Marin Community Services (weekly community market). Schedule: Tue 2 PM–6 PM; Fri 10 AM–2 PM. Eligibility: Novato residents. Call (415) 892-1643 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "North Marin Community Services (weekly community market)",
+      "address": "1907 Novato Blvd, Novato, CA 94947",
+      "lat": 38.10996,
+      "lng": -122.58841,
+      "category": "food-assistance",
+      "sourceOrg": "North Marin Community Services (weekly community market)",
+      "url": "https://www.northmarincs.org",
+      "schedulePattern": "Tue 2 PM–6 PM; Fri 10 AM–2 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-novato-health-hub-marin-community-clinics-w4-1330",
+      "seriesSlug": "add-novato-health-hub-marin-community-clinics",
+      "title": "Novato Health Hub (Marin Community Clinics) — Free Food",
+      "description": "Free food at Novato Health Hub (Marin Community Clinics). Schedule: Thu 1:30 PM–3:30 PM. Call (415) 448-1500 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Novato Health Hub (Marin Community Clinics)",
+      "address": "6100 Redwood Blvd, Suite A, Novato, CA 94945",
+      "lat": 38.096367,
+      "lng": -122.562996,
+      "category": "food-assistance",
+      "sourceOrg": "Novato Health Hub (Marin Community Clinics)",
+      "url": "https://www.sfmfoodbank.org/find-food/",
+      "schedulePattern": "Thu 1:30 PM–3:30 PM",
+      "start": "2026-09-28T13:30",
+      "end": "2026-09-28T15:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-west-marin-community-services-food-pantry-w1235-0900",
+      "seriesSlug": "add-west-marin-community-services-food-pantry",
+      "title": "West Marin Community Services Food Pantry — Free Food",
+      "description": "Free food at West Marin Community Services Food Pantry. Schedule: Mon–Wed, Fri 9 AM–12 PM; Mon–Wed, Fri 1 PM–4 PM; Thu 12 PM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "West Marin Community Services Food Pantry",
+      "address": "11431 State Route 1, Suite 10, Point Reyes Station, CA 94956",
+      "lat": 38.06942,
+      "lng": -122.806398,
+      "category": "food-assistance",
+      "sourceOrg": "West Marin Community Services Food Pantry",
+      "url": "https://www.westmarincommunityservices.org",
+      "schedulePattern": "Mon–Wed, Fri 9 AM–12 PM; Mon–Wed, Fri 1 PM–4 PM; Thu 12 PM–5 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-west-marin-community-services-food-pantry-w1235-1300",
+      "seriesSlug": "add-west-marin-community-services-food-pantry",
+      "title": "West Marin Community Services Food Pantry — Free Food",
+      "description": "Free food at West Marin Community Services Food Pantry. Schedule: Mon–Wed, Fri 9 AM–12 PM; Mon–Wed, Fri 1 PM–4 PM; Thu 12 PM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "West Marin Community Services Food Pantry",
+      "address": "11431 State Route 1, Suite 10, Point Reyes Station, CA 94956",
+      "lat": 38.06942,
+      "lng": -122.806398,
+      "category": "food-assistance",
+      "sourceOrg": "West Marin Community Services Food Pantry",
+      "url": "https://www.westmarincommunityservices.org",
+      "schedulePattern": "Mon–Wed, Fri 9 AM–12 PM; Mon–Wed, Fri 1 PM–4 PM; Thu 12 PM–5 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-west-marin-community-services-food-pantry-w4-1200",
+      "seriesSlug": "add-west-marin-community-services-food-pantry",
+      "title": "West Marin Community Services Food Pantry — Free Food",
+      "description": "Free food at West Marin Community Services Food Pantry. Schedule: Mon–Wed, Fri 9 AM–12 PM; Mon–Wed, Fri 1 PM–4 PM; Thu 12 PM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "West Marin Community Services Food Pantry",
+      "address": "11431 State Route 1, Suite 10, Point Reyes Station, CA 94956",
+      "lat": 38.06942,
+      "lng": -122.806398,
+      "category": "food-assistance",
+      "sourceOrg": "West Marin Community Services Food Pantry",
+      "url": "https://www.westmarincommunityservices.org",
+      "schedulePattern": "Mon–Wed, Fri 9 AM–12 PM; Mon–Wed, Fri 1 PM–4 PM; Thu 12 PM–5 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-san-geronimo-valley-community-center-food-pantry-w1-0900",
+      "seriesSlug": "add-san-geronimo-valley-community-center-food-pantry",
+      "title": "San Geronimo Valley Community Center Food Pantry — Free Food",
+      "description": "Free food at San Geronimo Valley Community Center Food Pantry. Schedule: Mon 9 AM–5 PM; Thu 11 AM–2 PM. Call (415) 488-8888 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "San Geronimo Valley Community Center Food Pantry",
+      "address": "6350 Sir Francis Drake Blvd, San Geronimo, CA 94963",
+      "lat": 38.016568,
+      "lng": -122.674605,
+      "category": "food-assistance",
+      "sourceOrg": "San Geronimo Valley Community Center Food Pantry",
+      "url": "https://sgvcc.org",
+      "schedulePattern": "Mon 9 AM–5 PM; Thu 11 AM–2 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-san-geronimo-valley-community-center-food-pantry-w4-1100",
+      "seriesSlug": "add-san-geronimo-valley-community-center-food-pantry",
+      "title": "San Geronimo Valley Community Center Food Pantry — Free Food",
+      "description": "Free food at San Geronimo Valley Community Center Food Pantry. Schedule: Mon 9 AM–5 PM; Thu 11 AM–2 PM. Call (415) 488-8888 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "San Geronimo Valley Community Center Food Pantry",
+      "address": "6350 Sir Francis Drake Blvd, San Geronimo, CA 94963",
+      "lat": 38.016568,
+      "lng": -122.674605,
+      "category": "food-assistance",
+      "sourceOrg": "San Geronimo Valley Community Center Food Pantry",
+      "url": "https://sgvcc.org",
+      "schedulePattern": "Mon 9 AM–5 PM; Thu 11 AM–2 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-alcohol-justice-multicultural-center-of-marin-w6-0830",
+      "seriesSlug": "add-alcohol-justice-multicultural-center-of-marin",
+      "title": "Alcohol Justice & Multicultural Center of Marin — Free Food",
+      "description": "Free food at Alcohol Justice & Multicultural Center of Marin. Schedule: Sat 8:30 AM–10:40 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Alcohol Justice & Multicultural Center of Marin",
+      "address": "24 Belvedere St, San Rafael, CA 94901",
+      "lat": 37.962075,
+      "lng": -122.502866,
+      "category": "food-assistance",
+      "sourceOrg": "Alcohol Justice & Multicultural Center of Marin",
+      "url": "https://www.sfmfoodbank.org/find-food/",
+      "schedulePattern": "Sat 8:30 AM–10:40 AM",
+      "start": "2026-09-28T08:30",
+      "end": "2026-09-28T10:40",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-anthem-church-w6-0745",
+      "seriesSlug": "add-anthem-church",
+      "title": "Anthem Church — Free Food",
+      "description": "Free food at Anthem Church. Schedule: Sat 7:45 AM–8:45 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Anthem Church",
+      "address": "50 Los Ranchitos Rd, San Rafael, CA 94903",
+      "lat": 37.992322,
+      "lng": -122.534247,
+      "category": "food-assistance",
+      "sourceOrg": "Anthem Church",
+      "url": "https://www.sfmfoodbank.org/find-food/",
+      "schedulePattern": "Sat 7:45 AM–8:45 AM",
+      "start": "2026-09-28T07:45",
+      "end": "2026-09-28T08:45",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-canal-alliance-food-pantry-w2-0800",
+      "seriesSlug": "add-canal-alliance-food-pantry",
+      "title": "Canal Alliance Food Pantry — Free Food",
+      "description": "Free food at Canal Alliance Food Pantry. Schedule: Tue 8 AM–10 AM. Call (415) 454-2640 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Canal Alliance Food Pantry",
+      "address": "91 Larkspur St, San Rafael, CA 94901",
+      "lat": 37.964007,
+      "lng": -122.505005,
+      "category": "food-assistance",
+      "sourceOrg": "Canal Alliance Food Pantry",
+      "url": "https://www.canalalliance.org/services/food-pantry",
+      "schedulePattern": "Tue 8 AM–10 AM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T10:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-kerner-drive-through-pantry-sf-marin-food-bank-w6-1000",
+      "seriesSlug": "add-kerner-drive-through-pantry-sf-marin-food-bank",
+      "title": "Kerner drive-through pantry (SF-Marin Food Bank) — Free Food",
+      "description": "Free food at Kerner drive-through pantry (SF-Marin Food Bank). Schedule: Sat 10 AM–2 PM. Call (415) 824-3663 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Kerner drive-through pantry (SF-Marin Food Bank)",
+      "address": "2550 Kerner Blvd, San Rafael, CA 94901",
+      "lat": 37.949493,
+      "lng": -122.490855,
+      "category": "food-assistance",
+      "sourceOrg": "Kerner drive-through pantry (SF-Marin Food Bank)",
+      "url": "https://www.sfmfoodbank.org/find-food/",
+      "schedulePattern": "Sat 10 AM–2 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-marin-child-care-council-w2-1000",
+      "seriesSlug": "add-marin-child-care-council",
+      "title": "Marin Child Care Council — Free Food",
+      "description": "Free food at Marin Child Care Council. Schedule: Tue 10 AM–1 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Marin Child Care Council",
+      "address": "555 Northgate Dr, Suite 105, San Rafael, CA 94903",
+      "lat": 38.000538,
+      "lng": -122.54386,
+      "category": "food-assistance",
+      "sourceOrg": "Marin Child Care Council",
+      "url": "https://www.sfmfoodbank.org/find-food/",
+      "schedulePattern": "Tue 10 AM–1 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-marin-community-clinics-health-hub-w3-1330",
+      "seriesSlug": "add-marin-community-clinics-health-hub",
+      "title": "Marin Community Clinics Health Hub — Free Food",
+      "description": "Free food at Marin Community Clinics Health Hub. Schedule: Wed 1:30 PM–3:30 PM. Call (415) 755-2556 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Marin Community Clinics Health Hub",
+      "address": "3110 Kerner Blvd, San Rafael, CA 94901",
+      "lat": 37.95809,
+      "lng": -122.500168,
+      "category": "food-assistance",
+      "sourceOrg": "Marin Community Clinics Health Hub",
+      "url": "https://www.sfmfoodbank.org/find-food/",
+      "schedulePattern": "Wed 1:30 PM–3:30 PM",
+      "start": "2026-09-28T13:30",
+      "end": "2026-09-28T15:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-ritter-center-food-pantry-w12-0900",
+      "seriesSlug": "add-ritter-center-food-pantry",
+      "title": "Ritter Center Food Pantry — Free Food",
+      "description": "Free food at Ritter Center Food Pantry. Schedule: Mon–Tue 9 AM–12 PM; Mon–Tue 1 PM–3 PM; Wed 9 AM–3 PM; Fri 9 AM–12 PM. Call (415) 457-8182 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Ritter Center Food Pantry",
+      "address": "16 Ritter St, San Rafael, CA 94901",
+      "lat": 37.971379,
+      "lng": -122.525235,
+      "category": "food-assistance",
+      "sourceOrg": "Ritter Center Food Pantry",
+      "url": "https://rittercenter.org",
+      "schedulePattern": "Mon–Tue 9 AM–12 PM; Mon–Tue 1 PM–3 PM; Wed 9 AM–3 PM; Fri 9 AM–12 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-ritter-center-food-pantry-w12-1300",
+      "seriesSlug": "add-ritter-center-food-pantry",
+      "title": "Ritter Center Food Pantry — Free Food",
+      "description": "Free food at Ritter Center Food Pantry. Schedule: Mon–Tue 9 AM–12 PM; Mon–Tue 1 PM–3 PM; Wed 9 AM–3 PM; Fri 9 AM–12 PM. Call (415) 457-8182 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Ritter Center Food Pantry",
+      "address": "16 Ritter St, San Rafael, CA 94901",
+      "lat": 37.971379,
+      "lng": -122.525235,
+      "category": "food-assistance",
+      "sourceOrg": "Ritter Center Food Pantry",
+      "url": "https://rittercenter.org",
+      "schedulePattern": "Mon–Tue 9 AM–12 PM; Mon–Tue 1 PM–3 PM; Wed 9 AM–3 PM; Fri 9 AM–12 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-ritter-center-food-pantry-w3-0900",
+      "seriesSlug": "add-ritter-center-food-pantry",
+      "title": "Ritter Center Food Pantry — Free Food",
+      "description": "Free food at Ritter Center Food Pantry. Schedule: Mon–Tue 9 AM–12 PM; Mon–Tue 1 PM–3 PM; Wed 9 AM–3 PM; Fri 9 AM–12 PM. Call (415) 457-8182 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Ritter Center Food Pantry",
+      "address": "16 Ritter St, San Rafael, CA 94901",
+      "lat": 37.971379,
+      "lng": -122.525235,
+      "category": "food-assistance",
+      "sourceOrg": "Ritter Center Food Pantry",
+      "url": "https://rittercenter.org",
+      "schedulePattern": "Mon–Tue 9 AM–12 PM; Mon–Tue 1 PM–3 PM; Wed 9 AM–3 PM; Fri 9 AM–12 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-ritter-center-food-pantry-w5-0900",
+      "seriesSlug": "add-ritter-center-food-pantry",
+      "title": "Ritter Center Food Pantry — Free Food",
+      "description": "Free food at Ritter Center Food Pantry. Schedule: Mon–Tue 9 AM–12 PM; Mon–Tue 1 PM–3 PM; Wed 9 AM–3 PM; Fri 9 AM–12 PM. Call (415) 457-8182 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Ritter Center Food Pantry",
+      "address": "16 Ritter St, San Rafael, CA 94901",
+      "lat": 37.971379,
+      "lng": -122.525235,
+      "category": "food-assistance",
+      "sourceOrg": "Ritter Center Food Pantry",
+      "url": "https://rittercenter.org",
+      "schedulePattern": "Mon–Tue 9 AM–12 PM; Mon–Tue 1 PM–3 PM; Wed 9 AM–3 PM; Fri 9 AM–12 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-salvation-army-san-rafael-w12345-0900",
+      "seriesSlug": "add-salvation-army-san-rafael",
+      "title": "Salvation Army - San Rafael — Free Food",
+      "description": "Free food at Salvation Army - San Rafael. Schedule: Mon–Fri 9 AM–1 PM. Call (415) 459-4520 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salvation Army - San Rafael",
+      "address": "351 Mission Ave, San Rafael, CA 94901",
+      "lat": 37.972161,
+      "lng": -122.516646,
+      "category": "food-assistance",
+      "sourceOrg": "Salvation Army - San Rafael",
+      "url": "https://www.sfmfoodbank.org/find-food/",
+      "schedulePattern": "Mon–Fri 9 AM–1 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-vivalon-brown-bag-pantry-w5-1100",
+      "seriesSlug": "add-vivalon-brown-bag-pantry",
+      "title": "Vivalon Brown Bag Pantry — Free Food",
+      "description": "Free food at Vivalon Brown Bag Pantry. Schedule: Fri 11 AM–12 PM. Eligibility: age 60+ or adults with disabilities. Call (415) 456-9062 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Vivalon Brown Bag Pantry",
+      "address": "930 Tamalpais Ave, San Rafael, CA 94901",
+      "lat": 37.971967,
+      "lng": -122.522903,
+      "category": "food-assistance",
+      "sourceOrg": "Vivalon Brown Bag Pantry",
+      "url": "https://vivalon.org",
+      "schedulePattern": "Fri 11 AM–12 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    }
+  ]
+}

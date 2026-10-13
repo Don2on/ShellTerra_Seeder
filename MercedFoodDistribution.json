@@ -1,0 +1,812 @@
+{
+  "_meta": {
+    "topic": "Net-new Merced County food distributions",
+    "generated": "2026-10-05",
+    "source": "Research supplementing shell PENDING-Merced; raw ./MercedAdditions-raw.json."
+  },
+  "_deferred": {
+    "add-united-methodist-church": {
+      "title": "United Methodist Church",
+      "status": "1st & 3rd Thu 9am Phone: (209) 722-5777.",
+      "address": "899 Yosemite Pkwy, Merced, CA 95340",
+      "lat": 37.29596,
+      "lng": -120.46398,
+      "phone": "(209) 722-5777",
+      "eligibility": "",
+      "sourceUrl": "https://mmcfb.org/emergency-food-site-referral-list"
+    }
+  },
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "add-atwater-baptist-church-m23-0900",
+      "seriesSlug": "add-atwater-baptist-church",
+      "title": "Atwater Baptist Church — Free Food",
+      "description": "Free food at Atwater Baptist Church. Schedule: 2nd Wed 9 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Atwater Baptist Church",
+      "address": "2124 First St, Atwater, CA 95301",
+      "lat": 37.35388,
+      "lng": -120.600734,
+      "category": "food-assistance",
+      "sourceOrg": "Atwater Baptist Church",
+      "url": "https://mmcfb.org/usda-commodities-site-list",
+      "schedulePattern": "2nd Wed 9 AM–11 AM",
+      "start": "2026-10-07T09:00",
+      "end": "2026-10-07T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "2:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-atwater-church-of-the-nazarene-m16-1200",
+      "seriesSlug": "add-atwater-church-of-the-nazarene",
+      "title": "Atwater Church of the Nazarene — Free Food",
+      "description": "Free food at Atwater Church of the Nazarene. Schedule: 1st Sat 12 PM–1 PM. Call (209) 358-8110 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Atwater Church of the Nazarene",
+      "address": "1374 Shaffer Rd, Atwater, CA 95301",
+      "lat": 37.344279,
+      "lng": -120.595452,
+      "category": "food-assistance",
+      "sourceOrg": "Atwater Church of the Nazarene",
+      "url": "https://mmcfb.org/emergency-food-site-referral-list",
+      "schedulePattern": "1st Sat 12 PM–1 PM",
+      "start": "2026-10-10T12:00",
+      "end": "2026-10-10T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "1:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-mt-olive-baptist-church-m23-1000",
+      "seriesSlug": "add-mt-olive-baptist-church",
+      "title": "Mt. Olive Baptist Church — Free Food",
+      "description": "Free food at Mt. Olive Baptist Church. Schedule: 2nd Wed 10 AM–11 AM. Call (209) 358-3031 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Mt. Olive Baptist Church",
+      "address": "559 Broadway Ave, Atwater, CA 95301",
+      "lat": 37.344612,
+      "lng": -120.602324,
+      "category": "food-assistance",
+      "sourceOrg": "Mt. Olive Baptist Church",
+      "url": "https://mmcfb.org/emergency-food-site-referral-list",
+      "schedulePattern": "2nd Wed 10 AM–11 AM",
+      "start": "2026-10-07T10:00",
+      "end": "2026-10-07T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "2:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-delhi-community-presbyterian-church-w2345-1000",
+      "seriesSlug": "add-delhi-community-presbyterian-church",
+      "title": "Delhi Community Presbyterian Church — Free Food",
+      "description": "Free food at Delhi Community Presbyterian Church. Schedule: Tue–Fri 10 AM–1 PM; last Wed 9 AM–11 AM. Call (209) 427-2186 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Delhi Community Presbyterian Church",
+      "address": "15917 El Capitan Way, Delhi, CA 95315",
+      "lat": 37.43364,
+      "lng": -120.77541,
+      "category": "food-assistance",
+      "sourceOrg": "Delhi Community Presbyterian Church",
+      "url": "https://mmcfb.org/emergency-food-site-referral-list",
+      "schedulePattern": "Tue–Fri 10 AM–1 PM; last Wed 9 AM–11 AM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-delhi-community-presbyterian-church-m-13-0900",
+      "seriesSlug": "add-delhi-community-presbyterian-church",
+      "title": "Delhi Community Presbyterian Church — Free Food",
+      "description": "Free food at Delhi Community Presbyterian Church. Schedule: Tue–Fri 10 AM–1 PM; last Wed 9 AM–11 AM. Call (209) 427-2186 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Delhi Community Presbyterian Church",
+      "address": "15917 El Capitan Way, Delhi, CA 95315",
+      "lat": 37.43364,
+      "lng": -120.77541,
+      "category": "food-assistance",
+      "sourceOrg": "Delhi Community Presbyterian Church",
+      "url": "https://mmcfb.org/emergency-food-site-referral-list",
+      "schedulePattern": "Tue–Fri 10 AM–1 PM; last Wed 9 AM–11 AM",
+      "start": "2026-10-07T09:00",
+      "end": "2026-10-07T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": -1,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "-1:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-carver-center-m11-0900",
+      "seriesSlug": "add-carver-center",
+      "title": "Carver Center — Free Food",
+      "description": "Free food at Carver Center. Schedule: 1st Mon 9 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Carver Center",
+      "address": "21475 Reynolds Ave, Dos Palos, CA 93620",
+      "lat": 36.975219,
+      "lng": -120.64418,
+      "category": "food-assistance",
+      "sourceOrg": "Carver Center",
+      "url": "https://mmcfb.org/usda-commodities-site-list",
+      "schedulePattern": "1st Mon 9 AM–11 AM",
+      "start": "2026-10-05T09:00",
+      "end": "2026-10-05T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "1:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-us-freedom-alliance-w12345-0900",
+      "seriesSlug": "add-us-freedom-alliance",
+      "title": "US Freedom Alliance — Free Food",
+      "description": "Free food at US Freedom Alliance. Schedule: Mon–Fri 9 AM–4 PM. Call (831) 905-7966 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "US Freedom Alliance",
+      "address": "8336 Christian Ave, Dos Palos, CA 93620",
+      "lat": 36.974927,
+      "lng": -120.641772,
+      "category": "food-assistance",
+      "sourceOrg": "US Freedom Alliance",
+      "url": "https://mmcfb.org/emergency-food-site-referral-list",
+      "schedulePattern": "Mon–Fri 9 AM–4 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-el-nido-mobile-home-park-m13-0900",
+      "seriesSlug": "add-el-nido-mobile-home-park",
+      "title": "El Nido Mobile Home Park — Free Food",
+      "description": "Free food at El Nido Mobile Home Park. Schedule: 1st Wed 9 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "El Nido Mobile Home Park",
+      "address": "10690 N Hwy 59, El Nido, CA 95317",
+      "lat": 37.161967,
+      "lng": -120.491938,
+      "category": "food-assistance",
+      "sourceOrg": "El Nido Mobile Home Park",
+      "url": "https://mmcfb.org/usda-commodities-site-list",
+      "schedulePattern": "1st Wed 9 AM–11 AM",
+      "start": "2026-10-07T09:00",
+      "end": "2026-10-07T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "1:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-gustine-veterans-memorial-hall-m-14-0900",
+      "seriesSlug": "add-gustine-veterans-memorial-hall",
+      "title": "Gustine Veterans Memorial Hall — Free Food",
+      "description": "Free food at Gustine Veterans Memorial Hall. Schedule: last Thu 9 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Gustine Veterans Memorial Hall",
+      "address": "145 5th St, Gustine, CA 95322",
+      "lat": 37.259149,
+      "lng": -121.001138,
+      "category": "food-assistance",
+      "sourceOrg": "Gustine Veterans Memorial Hall",
+      "url": "https://mmcfb.org/usda-commodities-site-list",
+      "schedulePattern": "last Thu 9 AM–11 AM",
+      "start": "2026-10-08T09:00",
+      "end": "2026-10-08T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": -1,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "-1:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-hilmar-covenant-church-m42-0900",
+      "seriesSlug": "add-hilmar-covenant-church",
+      "title": "Hilmar Covenant Church — Free Food",
+      "description": "Free food at Hilmar Covenant Church. Schedule: 4th Tue 9 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Hilmar Covenant Church",
+      "address": "20056 American Ave, Hilmar, CA 95324",
+      "lat": 37.41193,
+      "lng": -120.85121,
+      "category": "food-assistance",
+      "sourceOrg": "Hilmar Covenant Church",
+      "url": "https://mmcfb.org/usda-commodities-site-list",
+      "schedulePattern": "4th Tue 9 AM–11 AM",
+      "start": "2026-10-06T09:00",
+      "end": "2026-10-06T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "4:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-le-grand-community-services-m21-0900",
+      "seriesSlug": "add-le-grand-community-services",
+      "title": "Le Grand Community Services — Free Food",
+      "description": "Free food at Le Grand Community Services. Schedule: 2nd Mon 9 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Le Grand Community Services",
+      "address": "13038 Jefferson St, Le Grand, CA 95333",
+      "lat": 37.228874,
+      "lng": -120.251958,
+      "category": "food-assistance",
+      "sourceOrg": "Le Grand Community Services",
+      "url": "https://mmcfb.org/usda-commodities-site-list",
+      "schedulePattern": "2nd Mon 9 AM–11 AM",
+      "start": "2026-10-05T09:00",
+      "end": "2026-10-05T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "2:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-emmanuel-baptist-church-m1232-0900",
+      "seriesSlug": "add-emmanuel-baptist-church",
+      "title": "Emmanuel Baptist Church — Free Food",
+      "description": "Free food at Emmanuel Baptist Church. Schedule: 1st Tue & 3rd Tue 9 AM–11 AM. Call (209) 398-7809 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Emmanuel Baptist Church",
+      "address": "1310 Main St, Livingston, CA 95334",
+      "lat": 37.378562,
+      "lng": -120.723791,
+      "category": "food-assistance",
+      "sourceOrg": "Emmanuel Baptist Church",
+      "url": "https://mmcfb.org/emergency-food-site-referral-list",
+      "schedulePattern": "1st Tue & 3rd Tue 9 AM–11 AM",
+      "start": "2026-10-06T09:00",
+      "end": "2026-10-06T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 2
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "1:2,3:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-livingston-vfw-auxiliary-m-13-0900",
+      "seriesSlug": "add-livingston-vfw-auxiliary",
+      "title": "Livingston VFW & Auxiliary — Free Food",
+      "description": "Free food at Livingston VFW & Auxiliary. Schedule: last Wed 9 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Livingston VFW & Auxiliary",
+      "address": "1605 7th St, Livingston, CA 95334",
+      "lat": 37.375697,
+      "lng": -120.718528,
+      "category": "food-assistance",
+      "sourceOrg": "Livingston VFW & Auxiliary",
+      "url": "https://mmcfb.org/usda-commodities-site-list",
+      "schedulePattern": "last Wed 9 AM–11 AM",
+      "start": "2026-10-07T09:00",
+      "end": "2026-10-07T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": -1,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "-1:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-bethel-community-church-w2-1000",
+      "seriesSlug": "add-bethel-community-church",
+      "title": "Bethel Community Church — Free Food",
+      "description": "Free food at Bethel Community Church. Schedule: Tue 10 AM–12 PM; Mon–Fri 9 AM–12 PM. Call (209) 827-0797 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Bethel Community Church",
+      "address": "415 I St, Los Banos, CA 93635",
+      "lat": 37.06174,
+      "lng": -120.850547,
+      "category": "food-assistance",
+      "sourceOrg": "Bethel Community Church",
+      "url": "https://mmcfb.org/emergency-food-site-referral-list",
+      "schedulePattern": "Tue 10 AM–12 PM; Mon–Fri 9 AM–12 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-bethel-community-church-w12345-0900",
+      "seriesSlug": "add-bethel-community-church",
+      "title": "Bethel Community Church — Free Food",
+      "description": "Free food at Bethel Community Church. Schedule: Tue 10 AM–12 PM; Mon–Fri 9 AM–12 PM. Call (209) 827-0797 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Bethel Community Church",
+      "address": "415 I St, Los Banos, CA 93635",
+      "lat": 37.06174,
+      "lng": -120.850547,
+      "category": "food-assistance",
+      "sourceOrg": "Bethel Community Church",
+      "url": "https://mmcfb.org/emergency-food-site-referral-list",
+      "schedulePattern": "Tue 10 AM–12 PM; Mon–Fri 9 AM–12 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-new-beginnings-church-m13-0900",
+      "seriesSlug": "add-new-beginnings-church",
+      "title": "New Beginnings Church — Free Food",
+      "description": "Free food at New Beginnings Church. Schedule: 1st Wed 9 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "New Beginnings Church",
+      "address": "821 L St, Los Banos, CA 93635",
+      "lat": 37.059345,
+      "lng": -120.863451,
+      "category": "food-assistance",
+      "sourceOrg": "New Beginnings Church",
+      "url": "https://mmcfb.org/usda-commodities-site-list",
+      "schedulePattern": "1st Wed 9 AM–11 AM",
+      "start": "2026-10-07T09:00",
+      "end": "2026-10-07T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "1:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-apostolic-tabernacle-w5-1200",
+      "seriesSlug": "add-apostolic-tabernacle",
+      "title": "Apostolic Tabernacle — Free Food",
+      "description": "Free food at Apostolic Tabernacle. Schedule: Fri 12 PM–1 PM. Call (209) 723-0545 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Apostolic Tabernacle",
+      "address": "2745 E. Hwy 140, Merced, CA 95340",
+      "lat": 37.29562,
+      "lng": -120.43751,
+      "category": "food-assistance",
+      "sourceOrg": "Apostolic Tabernacle",
+      "url": "https://mmcfb.org/emergency-food-site-referral-list",
+      "schedulePattern": "Fri 12 PM–1 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-catholic-charities-of-merced-w12345-0900",
+      "seriesSlug": "add-catholic-charities-of-merced",
+      "title": "Catholic Charities of Merced — Free Food",
+      "description": "Free food at Catholic Charities of Merced. Schedule: Mon–Fri 9 AM–3 PM. Call (209) 383-2494 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Catholic Charities of Merced",
+      "address": "336 W. Main St, Merced, CA 95340",
+      "lat": 37.300339,
+      "lng": -120.481335,
+      "category": "food-assistance",
+      "sourceOrg": "Catholic Charities of Merced",
+      "url": "https://mmcfb.org/emergency-food-site-referral-list",
+      "schedulePattern": "Mon–Fri 9 AM–3 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-harvest-time-m2444-0800",
+      "seriesSlug": "add-harvest-time",
+      "title": "Harvest Time — Free Food",
+      "description": "Free food at Harvest Time. Schedule: 2nd Thu & 4th Thu 8 AM–10 AM; Mon, Wed, Fri 8 AM–9 AM. Call (209) 564-7638 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Harvest Time",
+      "address": "1155 W 10th St, Merced, CA 95341",
+      "lat": 37.298168,
+      "lng": -120.497506,
+      "category": "food-assistance",
+      "sourceOrg": "Harvest Time",
+      "url": "https://mmcfb.org/emergency-food-site-referral-list",
+      "schedulePattern": "2nd Thu & 4th Thu 8 AM–10 AM; Mon, Wed, Fri 8 AM–9 AM",
+      "start": "2026-10-08T08:00",
+      "end": "2026-10-08T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "2:4,4:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-harvest-time-w135-0800",
+      "seriesSlug": "add-harvest-time",
+      "title": "Harvest Time — Free Food",
+      "description": "Free food at Harvest Time. Schedule: 2nd Thu & 4th Thu 8 AM–10 AM; Mon, Wed, Fri 8 AM–9 AM. Call (209) 564-7638 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Harvest Time",
+      "address": "1155 W 10th St, Merced, CA 95341",
+      "lat": 37.298168,
+      "lng": -120.497506,
+      "category": "food-assistance",
+      "sourceOrg": "Harvest Time",
+      "url": "https://mmcfb.org/emergency-food-site-referral-list",
+      "schedulePattern": "2nd Thu & 4th Thu 8 AM–10 AM; Mon, Wed, Fri 8 AM–9 AM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T09:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-mcnamara-park-m31-0900",
+      "seriesSlug": "add-mcnamara-park",
+      "title": "McNamara Park — Free Food",
+      "description": "Free food at McNamara Park. Schedule: 3rd Mon 9 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "McNamara Park",
+      "address": "11th St and Canal St, Merced, CA 95341",
+      "lat": 37.295125,
+      "lng": -120.486959,
+      "category": "food-assistance",
+      "sourceOrg": "McNamara Park",
+      "url": "https://mmcfb.org/usda-commodities-site-list",
+      "schedulePattern": "3rd Mon 9 AM–11 AM",
+      "start": "2026-10-05T09:00",
+      "end": "2026-10-05T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "3:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-merced-bethel-m31-0900",
+      "seriesSlug": "add-merced-bethel",
+      "title": "Merced Bethel — Free Food",
+      "description": "Free food at Merced Bethel. Schedule: 3rd Mon 9 AM–11 AM. Call (209) 761-1529 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Merced Bethel",
+      "address": "810 T St, Merced, CA 95341",
+      "lat": 37.29664,
+      "lng": -120.50038,
+      "category": "food-assistance",
+      "sourceOrg": "Merced Bethel",
+      "url": "https://mmcfb.org/usda-commodities-site-list",
+      "schedulePattern": "3rd Mon 9 AM–11 AM",
+      "start": "2026-10-05T09:00",
+      "end": "2026-10-05T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "3:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-new-hope-church-m-16-1200",
+      "seriesSlug": "add-new-hope-church",
+      "title": "New Hope Church — Free Food",
+      "description": "Free food at New Hope Church. Schedule: last Sat 12 PM–1 PM. Call (209) 779-4034 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "New Hope Church",
+      "address": "1207 E 21st St, Merced, CA 95340",
+      "lat": 37.298049,
+      "lng": -120.45934,
+      "category": "food-assistance",
+      "sourceOrg": "New Hope Church",
+      "url": "https://mmcfb.org/emergency-food-site-referral-list",
+      "schedulePattern": "last Sat 12 PM–1 PM",
+      "start": "2026-10-10T12:00",
+      "end": "2026-10-10T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": -1,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "-1:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sacred-heart-church-m43-1300",
+      "seriesSlug": "add-sacred-heart-church",
+      "title": "Sacred Heart Church — Free Food",
+      "description": "Free food at Sacred Heart Church. Schedule: 4th Wed 1 PM–3 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Sacred Heart Church",
+      "address": "519 W 12th St, Merced, CA 95341",
+      "lat": 37.29672,
+      "lng": -120.48704,
+      "category": "food-assistance",
+      "sourceOrg": "Sacred Heart Church",
+      "url": "https://mmcfb.org/usda-commodities-site-list",
+      "schedulePattern": "4th Wed 1 PM–3 PM",
+      "start": "2026-10-07T13:00",
+      "end": "2026-10-07T15:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "4:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-salvation-army-merced-w1245-0900",
+      "seriesSlug": "add-salvation-army-merced",
+      "title": "Salvation Army - Merced — Free Food",
+      "description": "Free food at Salvation Army - Merced. Schedule: Mon–Tue, Thu–Fri 9 AM–11:45 AM. Call (209) 383-4225 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salvation Army - Merced",
+      "address": "1440 W. 12th St, Merced, CA 95341",
+      "lat": 37.301007,
+      "lng": -120.500626,
+      "category": "food-assistance",
+      "sourceOrg": "Salvation Army - Merced",
+      "url": "https://mmcfb.org/",
+      "schedulePattern": "Mon–Tue, Thu–Fri 9 AM–11:45 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T11:45",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-patrick-s-parish-m35-1300",
+      "seriesSlug": "add-st-patrick-s-parish",
+      "title": "St. Patrick's Parish — Free Food",
+      "description": "Free food at St. Patrick's Parish. Schedule: 3rd Fri 1 PM–3 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Patrick's Parish",
+      "address": "671 E Yosemite Ave, Merced, CA 95340",
+      "lat": 37.333049,
+      "lng": -120.46313,
+      "category": "food-assistance",
+      "sourceOrg": "St. Patrick's Parish",
+      "url": "https://mmcfb.org/usda-commodities-site-list",
+      "schedulePattern": "3rd Fri 1 PM–3 PM",
+      "start": "2026-10-09T13:00",
+      "end": "2026-10-09T15:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-vincent-de-paul-sack-lunches-w135-0000",
+      "seriesSlug": "add-st-vincent-de-paul-sack-lunches",
+      "title": "St. Vincent de Paul (sack lunches) — Free Food",
+      "description": "Free food at St. Vincent de Paul (sack lunches). Schedule: Mon, Wed, Fri 12 AM–12:30 PM. Call (209) 723-2404 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Vincent de Paul (sack lunches)",
+      "address": "131 W. Main St, Merced, CA 95340",
+      "lat": 37.29977,
+      "lng": -120.47794,
+      "category": "food-assistance",
+      "sourceOrg": "St. Vincent de Paul (sack lunches)",
+      "url": "https://mmcfb.org/usda-site-list",
+      "schedulePattern": "Mon, Wed, Fri 12 AM–12:30 PM",
+      "start": "2026-09-28T00:00",
+      "end": "2026-09-28T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-planada-community-center-m21-0900",
+      "seriesSlug": "add-planada-community-center",
+      "title": "Planada Community Center — Free Food",
+      "description": "Free food at Planada Community Center. Schedule: 2nd Mon 9 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Planada Community Center",
+      "address": "9167 E Stanford Ave, Planada, CA 95365",
+      "lat": 37.29162,
+      "lng": -120.32142,
+      "category": "food-assistance",
+      "sourceOrg": "Planada Community Center",
+      "url": "https://mmcfb.org/usda-commodities-site-list",
+      "schedulePattern": "2nd Mon 9 AM–11 AM",
+      "start": "2026-10-05T09:00",
+      "end": "2026-10-05T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "2:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-santa-nella-mobile-home-park-m34-0900",
+      "seriesSlug": "add-santa-nella-mobile-home-park",
+      "title": "Santa Nella Mobile Home Park — Free Food",
+      "description": "Free food at Santa Nella Mobile Home Park. Schedule: 3rd Thu 9 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Santa Nella Mobile Home Park",
+      "address": "29190 Centinella Ave, Santa Nella, CA 95322",
+      "lat": 37.093708,
+      "lng": -121.01959,
+      "category": "food-assistance",
+      "sourceOrg": "Santa Nella Mobile Home Park",
+      "url": "https://mmcfb.org/usda-commodities-site-list",
+      "schedulePattern": "3rd Thu 9 AM–11 AM",
+      "start": "2026-10-08T09:00",
+      "end": "2026-10-08T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-snelling-community-center-m14-0900",
+      "seriesSlug": "add-snelling-community-center",
+      "title": "Snelling Community Center — Free Food",
+      "description": "Free food at Snelling Community Center. Schedule: 1st Thu 9 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Snelling Community Center",
+      "address": "3325 N Merced Falls Rd, Snelling, CA 95369",
+      "lat": 37.52273,
+      "lng": -120.431869,
+      "category": "food-assistance",
+      "sourceOrg": "Snelling Community Center",
+      "url": "https://mmcfb.org/usda-commodities-site-list",
+      "schedulePattern": "1st Thu 9 AM–11 AM",
+      "start": "2026-10-08T09:00",
+      "end": "2026-10-08T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-iglesia-de-cristo-m-11-0900",
+      "seriesSlug": "add-iglesia-de-cristo",
+      "title": "Iglesia de Cristo — Free Food",
+      "description": "Free food at Iglesia de Cristo. Schedule: last Mon 9 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Iglesia de Cristo",
+      "address": "6061 N Winton Way, Winton, CA 95388",
+      "lat": 37.375765,
+      "lng": -120.614631,
+      "category": "food-assistance",
+      "sourceOrg": "Iglesia de Cristo",
+      "url": "https://mmcfb.org/usda-commodities-site-list",
+      "schedulePattern": "last Mon 9 AM–11 AM",
+      "start": "2026-10-05T09:00",
+      "end": "2026-10-05T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": -1,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "-1:1"
+    }
+  ]
+}

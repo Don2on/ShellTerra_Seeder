@@ -1,0 +1,26 @@
+ok  [college] USC Trojan Food Pantry -> 1025 West 34th Street, Los Angeles, California 90089, United States [point]
+ok  [college] UCLA CPO Food Closet -> 220 Westwood Plaza, Los Angeles, California 90095, United States [rooftop]
+ok  [college] Cal State LA Food Pantry -> 5151 State University Drive, Los Angeles, California 90032, United States [rooftop]
+ok  [college] CSUN Food Pantry (HEART) -> 18111 Nordhoff Street, Northridge, California 91330, United States [rooftop]
+ok  [college] LACC Food Pantry (Food for Thought) -> 855 North Vermont Avenue, Los Angeles, California 90029, United States [rooftop]
+ok  [meal] The Midnight Mission -> 601 South San Pedro Street, Los Angeles, California 90014, United States [rooftop]
+ok  [meal] Union Rescue Mission -> 545 South San Pedro Street, Los Angeles, California 90013, United States [rooftop]
+ok  [meal] Los Angeles Mission -> 303 East 5th Street, Los Angeles, California 90013, United States [rooftop]
+ok  [meal] Hollywood Food Coalition Community Dinner (weekday site) -> 5939 Hollywood Boulevard, Los Angeles, California 90028, United States [point]
+FLAG rel1.00/intersection  Hollywood Food Coalition Community Dinner (weekend site)
+    in: Orange Dr & Romaine St, Los Angeles, CA 90038
+    -> North Orange Drive and West Romaine Street, Los Angeles, California 90038, United States
+ok  [senior] City of San Fernando Senior Lunch Program -> 505 South Huntington Street, San Fernando, California 91340, United States [point]
+ok  [senior] St. Barnabas Senior Services -> 675 South Carondelet Street, Los Angeles, California 90057, United States [rooftop]
+ok  [senior] St. Barnabas Hollywood Senior Meal Site -> 5170 Santa Monica Boulevard, Los Angeles, California 90029, United States [rooftop]
+ok  [faith] St. Barnabas' Church Food Distribution (Eagle Rock) -> 2109 Chickasaw Avenue, Los Angeles, California 90041, United States [rooftop]
+ok  [faith] Hollywood Sikh Temple (Gurdwara Vermont) Langar -> 1966 North Vermont Avenue, Los Angeles, California 90027, United States [rooftop]
+ok  [faith] King Fahad Mosque Food Program -> 10980 Washington Boulevard, Culver City, California 90232, United States [rooftop]
+ok  [faith] Masjid Bilal Islamic Center Food Distribution -> 4016 South Central Avenue, Los Angeles, California 90011, United States [rooftop]
+ok  [mobile] UMMA Free Food Fair - Fremont Wellness Center -> 7821 Avalon Boulevard, Los Angeles, California 90003, United States [point]
+ok  [mobile] UMMA Free Food Fair - Parmelee Ave Elementary -> 1338 East 76th Place, Los Angeles, California 90001, United States [rooftop]
+ok  [mobile] UMMA Free Food Fair - Bethune Middle School -> 155 West 69th Street, Los Angeles, California 90003, United States [rooftop]
+ok  [pantry] El Centro de Ayuda Food Distribution -> 2130 East 1st Street, Los Angeles, California 90033, United States [rooftop]
+DUP (already in shell) The Children's Collective Food Distribution | 915 W Manchester Blvd, Los Angeles, CA 90044
+ok  [mobile] Nourish LA - UCLA University Village -> 3200 Sawtelle Boulevard, Los Angeles, California 90066, United States [rooftop]
+ok  [mobile] Nourish LA - St. Mark's Church (Venice) -> (manual override) 940 Coeur D Alene Ave, Venice, CA 90291 [override]

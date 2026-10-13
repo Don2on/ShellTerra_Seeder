@@ -1,0 +1,671 @@
+{
+  "_meta": {
+    "topic": "Placer County food distributions",
+    "generated": "2026-10-11",
+    "source": "Hand-collected list (Placer Food Bank/Feeding the Foothills, FBNN, FIND Food Bank, Feeding America Riverside-San Bernardino). Schedules parsed via LA clause parser. lat/lng geocoded downstream.",
+    "note": "Drop-in raw for prepare-food-additions.mjs. Single start-times / \"daily\" / \"on call\"-only route to _deferred."
+  },
+  "sites": [
+    {
+      "name": "Alta Sierra First Baptist Church",
+      "org": "Alta Sierra First Baptist Church",
+      "address": "33990 Alta Bonny Nook Road, Alta, CA 95701",
+      "phone": "(530) 389-2168",
+      "eligibility": "",
+      "website": "https://sfbcalta.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 10am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Sierra Reach Ministries",
+      "org": "Sierra Reach Ministries",
+      "address": "18015 Applegate Road, Applegate, CA 95703",
+      "phone": "(530) 878-2705",
+      "eligibility": "",
+      "website": "https://sierrareachministries.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 9am-11:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "09:00",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Auburn Interfaith Food Closet",
+      "org": "Auburn Interfaith Food Closet",
+      "address": "1788 Auburn Ravine Road, Auburn, CA 95603",
+      "phone": "(530) 885-1921",
+      "eligibility": "",
+      "website": "https://auburnfoodcloset.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 10am-2pm; Wed 4pm-7pm; last Sat of month",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "14:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "16:00",
+          "close": "19:00"
+        }
+      ]
+    },
+    {
+      "name": "Auburn Seventh-day Adventist Church (Adventist Community Services)",
+      "org": "Auburn Seventh-day Adventist Church (Adventist Community Services)",
+      "address": "12225 Rock Creek Road, Auburn, CA 95602",
+      "phone": "(530) 823-0345",
+      "eligibility": "",
+      "website": "https://aubsda.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "homeless hot meal and sack lunch; walk-in pantry",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "The Salvation Army - Auburn",
+      "org": "The Salvation Army - Auburn",
+      "address": "286 Sutter Street, Auburn, CA 95603",
+      "phone": "(530) 889-3990",
+      "eligibility": "",
+      "website": "https://auburn.salvationarmy.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "closed 12-12:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed",
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Placer County Social Services (emergency food boxes)",
+      "org": "Placer County Social Services (emergency food boxes)",
+      "address": "5225 North Lake Blvd, Carnelian Bay, CA 96140",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://sierracommunityhouse.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "limited non-perishable emergency boxes",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "PantryToGo - Sierra Vista Community Center",
+      "org": "PantryToGo - Sierra Vista Community Center",
+      "address": "55 School Street, Colfax, CA 95713",
+      "phone": "(916) 783-0481",
+      "eligibility": "",
+      "website": "https://feedingthefoothills.org/pantrytogo",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Tue 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Lord Sabaoth Ministries",
+      "org": "Lord Sabaoth Ministries",
+      "address": "24500 Main Street, Foresthill, CA 95631",
+      "phone": "(916) 835-1199",
+      "eligibility": "",
+      "website": "https://foresthillcenter.com",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "curbside",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "15:00",
+          "close": "16:30"
+        }
+      ]
+    },
+    {
+      "name": "Mountain Folk Food Bank",
+      "org": "Mountain Folk Food Bank",
+      "address": "3071 Iowa Hill Road, Iowa Hill, CA 95713",
+      "phone": "(530) 320-3969",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st, 3rd and 5th Fri 2pm-5pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri",
+            "3rd Fri",
+            "5th Fri"
+          ],
+          "open": "14:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Sierra Community House - Kings Beach Office (walk-up)",
+      "org": "Sierra Community House - Kings Beach Office (walk-up)",
+      "address": "265 Bear St, Kings Beach, CA 96143",
+      "phone": "(530) 546-0952",
+      "eligibility": "",
+      "website": "https://sierracommunityhouse.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 2:30pm-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "14:30",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Amazing Grace Seventh-day Adventist Church",
+      "org": "Amazing Grace Seventh-day Adventist Church",
+      "address": "600 McBean Park Drive, Lincoln, CA 95648",
+      "phone": "(916) 408-4408",
+      "eligibility": "",
+      "website": "https://lincolnamazinggraceca.adventistchurch.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "drive-thru, while supplies last",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "12:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "The Salt Mine",
+      "org": "The Salt Mine",
+      "address": "590 Lincoln Blvd, Lincoln, CA 95648",
+      "phone": "(916) 645-3778",
+      "eligibility": "Lincoln and Sheridan residents only",
+      "website": "https://thesaltminelincoln.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue-Fri 9am-12pm; Sat 12pm-1pm (Lincoln and Sheridan residents only)",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "First United Methodist Church of Loomis",
+      "org": "First United Methodist Church of Loomis",
+      "address": "6414 Brace Road, Loomis, CA 95650",
+      "phone": "(916) 652-0469",
+      "eligibility": "",
+      "website": "https://loomismethodist.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 10am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Lilies and Sparrows (Calvary Christian Center Loomis)",
+      "org": "Lilies and Sparrows (Calvary Christian Center Loomis)",
+      "address": "4655 King Road, Loomis, CA 95650",
+      "phone": "(404) 969-2274",
+      "eligibility": "",
+      "website": "https://leoa.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 10am-2pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "10:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Celebration Church",
+      "org": "Celebration Church",
+      "address": "990 Meadow Gate Road, Meadow Vista, CA 95722",
+      "phone": "(530) 878-1365",
+      "eligibility": "",
+      "website": "https://ccfellowship.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sundays after church services",
+      "schedules": []
+    },
+    {
+      "name": "Bridgeway Christian Church",
+      "org": "Bridgeway Christian Church",
+      "address": "8150 Industrial Avenue Bldg. A, Roseville, CA 95678",
+      "phone": "(916) 238-5321",
+      "eligibility": "drive-thru only",
+      "website": "https://bridgeway.church",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 10am-12pm (drive-thru only)",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "First United Methodist Church Roseville (soup kitchen)",
+      "org": "First United Methodist Church Roseville (soup kitchen)",
+      "address": "109 Washington Blvd, Roseville, CA 95678",
+      "phone": "(916) 783-3464",
+      "eligibility": "",
+      "website": "https://firstumcroseville.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 12pm-12:45pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "12:00",
+          "close": "12:45"
+        }
+      ]
+    },
+    {
+      "name": "Harvest Community Church",
+      "org": "Harvest Community Church",
+      "address": "1376 Blue Oaks Blvd, Roseville, CA 95678",
+      "phone": "(916) 771-4781",
+      "eligibility": "",
+      "website": "https://harvestfamily.net",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "drive-thru",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "last Tue"
+          ],
+          "open": "16:30",
+          "close": "17:30"
+        }
+      ]
+    },
+    {
+      "name": "Life Community Church",
+      "org": "Life Community Church",
+      "address": "10020 Foothills Blvd, Roseville, CA 95747",
+      "phone": "(916) 788-2697",
+      "eligibility": "",
+      "website": "https://lifecconline.com",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "curbside",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri",
+            "2nd Fri"
+          ],
+          "open": "15:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "PantryToGo - Denio's Farmers Market",
+      "org": "PantryToGo - Denio's Farmers Market",
+      "address": "1401 Church Street, Roseville, CA 95678",
+      "phone": "(916) 783-0481",
+      "eligibility": "",
+      "website": "https://feedingthefoothills.org/pantrytogo",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Fri 8am-10am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri"
+          ],
+          "open": "08:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Rhema Christian Center",
+      "org": "Rhema Christian Center",
+      "address": "658 Commerce Drive Suite E, Roseville, CA 95678",
+      "phone": "(916) 780-2121",
+      "eligibility": "",
+      "website": "https://rhemaccroseville.com",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Sat 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Roseville Alano Club",
+      "org": "Roseville Alano Club",
+      "address": "111 5th Street, Roseville, CA 95678",
+      "phone": "(916) 781-2763",
+      "eligibility": "",
+      "website": "https://rosevillealanoclub.com",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "call ahead",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "09:30"
+        }
+      ]
+    },
+    {
+      "name": "St. Vincent de Paul Dining Room (soup kitchen)",
+      "org": "St. Vincent de Paul Dining Room (soup kitchen)",
+      "address": "105 Bonita Street, Roseville, CA 95678",
+      "phone": "(916) 781-3303",
+      "eligibility": "",
+      "website": "https://placersvdp.com",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue-Thu 12pm-1:30pm; Sat & Sun 2:30pm-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "12:00",
+          "close": "13:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat",
+            "Sun"
+          ],
+          "open": "14:30",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Vincent de Paul Food Locker",
+      "org": "St. Vincent de Paul Food Locker",
+      "address": "503 Giuseppe Court Suite 8, Roseville, CA 95678",
+      "phone": "(916) 781-3303",
+      "eligibility": "",
+      "website": "https://placersvdp.com",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "curbside",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "The Rock of Roseville",
+      "org": "The Rock of Roseville",
+      "address": "202 Bonita Street, Roseville, CA 95678",
+      "phone": "(916) 789-7625",
+      "eligibility": "",
+      "website": "https://rockofroseville.com",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 9:15am-10:15am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "09:15",
+          "close": "10:15"
+        }
+      ]
+    },
+    {
+      "name": "The Salvation Army - Roseville",
+      "org": "The Salvation Army - Roseville",
+      "address": "100 Lincoln Street, Roseville, CA 95678",
+      "phone": "(916) 784-3382",
+      "eligibility": "",
+      "website": "https://roseville.salvationarmy.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Thu 9am-12pm & 12:30-2:30pm; Fri 9am-11am & 12:30-2:30pm; breakfast Sat 8-9am; lunch Fri 11am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "12:30",
+          "close": "14:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "12:30",
+          "close": "14:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "08:00",
+          "close": "09:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Celebration Family Worship Center",
+      "org": "Celebration Family Worship Center",
+      "address": "5721 Tenth Street, Sheridan, CA 95681",
+      "phone": "(530) 923-1849",
+      "eligibility": "",
+      "website": "https://celebrationfamilyworshipcenter.com",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "curbside",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Wed"
+          ],
+          "open": "18:00",
+          "close": "20:00"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1825 @@
+{
+  "_meta": {
+    "topic": "Solano County food distributions",
+    "generated": "2026-10-11",
+    "source": "Hand-collected list (Sierra County, Siskiyou/Great Northern Services, Food Bank of Contra Costa & Solano, Redwood Empire Food Bank). Schedules parsed via LA clause parser.",
+    "note": "Drop-in raw for prepare-food-additions.mjs. Single-time entries route to _deferred."
+  },
+  "sites": [
+    {
+      "name": "Benicia Community Action Council",
+      "org": "Benicia Community Action Council",
+      "address": "480 Military East, Benicia, CA 94510",
+      "phone": "707-745-0900",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Mon 10am-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Mon",
+            "3rd Mon"
+          ],
+          "open": "10:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Food is Free Bay Area",
+      "org": "Food is Free Bay Area",
+      "address": "1400 E 2nd St, Benicia, CA 94510",
+      "phone": "707-690-0945",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Tue 9am-10:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue",
+            "4th Tue"
+          ],
+          "open": "09:00",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "Food is Free Bay Area at Benicia Public Library",
+      "org": "Food is Free Bay Area at Benicia Public Library",
+      "address": "150 E L St, Benicia, CA 94510",
+      "phone": "707-690-0945",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Sat 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Food is Free Bay Area at Benicia Senior Citizens",
+      "org": "Food is Free Bay Area at Benicia Senior Citizens",
+      "address": "187 E L St, Benicia, CA 94510",
+      "phone": "707-690-0945",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Wed 11am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Wed"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Paul's Episcopal Church (soup kitchen)",
+      "org": "St. Paul's Episcopal Church (soup kitchen)",
+      "address": "120 E J St, Benicia, CA 94510",
+      "phone": "707-745-0307",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon & Wed 4:30pm-6pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "open": "16:30",
+          "close": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Cornerstone Church",
+      "org": "Cornerstone Church",
+      "address": "185 W Cherry St, Dixon, CA 95620",
+      "phone": "707-678-5234",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 9:30am-10:30am; 2nd & 4th Wed 9:30am-10:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "09:30",
+          "close": "10:30"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed",
+            "4th Wed"
+          ],
+          "open": "09:30",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "Dixon Community Medical Center (SNAP relief)",
+      "org": "Dixon Community Medical Center (SNAP relief)",
+      "address": "131 West A St Ste. 1, Dixon, CA 95620",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Thu 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Thu"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Dixon Family Services",
+      "org": "Dixon Family Services",
+      "address": "155 N 2nd St, Dixon, CA 95620",
+      "phone": "707-678-0442",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Thu 10am-4pm; 1st & 3rd Wed 11am-12pm; 2nd Tue 10am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "10:00",
+          "close": "16:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Wed",
+            "3rd Wed"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Dixon Food Locker at St. Peter's (SVdP)",
+      "org": "Dixon Food Locker at St. Peter's (SVdP)",
+      "address": "105 S 2nd St, Dixon, CA 95620",
+      "phone": "707-678-7664",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Mon 9am-10am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Mon",
+            "4th Mon"
+          ],
+          "open": "09:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Bethel Community Church of Fairfield",
+      "org": "Bethel Community Church of Fairfield",
+      "address": "600 E Tabor Ave, Fairfield, CA 94533",
+      "phone": "707-427-1415",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Wed 9am-10:30am; 1st & 3rd Fri 2pm-3pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Wed",
+            "3rd Wed"
+          ],
+          "open": "09:00",
+          "close": "10:30"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri",
+            "3rd Fri"
+          ],
+          "open": "14:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Catholic Charities Yolo-Solano",
+      "org": "Catholic Charities Yolo-Solano",
+      "address": "823 Jefferson St Suites A & B, Fairfield, CA 94533",
+      "phone": "707-644-8909",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue-Thu 9am-12pm and 1pm-4:30pm; Fri 9am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "13:00",
+          "close": "16:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Dover Elementary (Community Produce Program)",
+      "org": "Dover Elementary (Community Produce Program)",
+      "address": "301 E Alaska Ave, Fairfield, CA 94533",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Fri 4pm-5pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri",
+            "3rd Fri"
+          ],
+          "open": "16:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Fairfield City Church",
+      "org": "Fairfield City Church",
+      "address": "743 E Tabor Ave, Fairfield, CA 94533",
+      "phone": "707-426-2172",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Wed and Fri 1pm-3pm; Sat 11am-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Fri"
+          ],
+          "open": "13:00",
+          "close": "15:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "11:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Fairfield Family Health Services (SNAP relief)",
+      "org": "Fairfield Family Health Services (SNAP relief)",
+      "address": "2101 Courage Dr, Fairfield, CA 94533",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st through 4th Tue 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Tue",
+            "4th Tue"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Fairfield Seventh-day Adventist Community Services",
+      "org": "Fairfield Seventh-day Adventist Community Services",
+      "address": "1101 E Tabor Ave, Fairfield, CA 94533",
+      "phone": "707-426-6720",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Wed 10:30am-11:30am; 3rd Fri 10am-11:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed",
+            "4th Wed"
+          ],
+          "open": "10:30",
+          "close": "11:30"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Fri"
+          ],
+          "open": "10:00",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Fairfield-Suisun Community Action Council (CANB)",
+      "org": "Fairfield-Suisun Community Action Council (CANB)",
+      "address": "416 Union Ave, Fairfield, CA 94533",
+      "phone": "707-427-1148",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Wed & Fri 12pm-2pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed",
+            "Fri"
+          ],
+          "open": "12:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Golden Hills Education Center (Community Produce Program)",
+      "org": "Golden Hills Education Center (Community Produce Program)",
+      "address": "2460 Clay Bank Rd, Fairfield, CA 94533",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Wed 2pm-3pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed",
+            "4th Wed"
+          ],
+          "open": "14:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Liberty Church",
+      "org": "Liberty Church",
+      "address": "2641 N Texas St, Fairfield, CA 94533",
+      "phone": "707-425-9673",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st, 2nd and 3rd Sat 9am-9:30am; 4th Sun 10:15am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Sat",
+            "2nd Sat",
+            "3rd Sat"
+          ],
+          "open": "09:00",
+          "close": "09:30"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Sun"
+          ],
+          "open": "10:15",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "LOGIC Ministries",
+      "org": "LOGIC Ministries",
+      "address": "533 Jackson St, Fairfield, CA 94533",
+      "phone": "707-310-1259",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 11am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "11:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Mount Calvary Baptist Church",
+      "org": "Mount Calvary Baptist Church",
+      "address": "1735 Enterprise Dr Bldg 3, Fairfield, CA 94533",
+      "phone": "707-425-1849",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 1pm-3pm; 2nd & 4th Sat 10am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "13:00",
+          "close": "15:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat",
+            "4th Sat"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Operation Rooftop",
+      "org": "Operation Rooftop",
+      "address": "393 Watt Dr, Fairfield, CA 94534",
+      "phone": "801-209-7011",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 12pm-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Our Lady of Mount Carmel (mobile pantry)",
+      "org": "Our Lady of Mount Carmel (mobile pantry)",
+      "address": "2700 Dover Ave, Fairfield, CA 94533",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd and 4th Wed 12pm-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed",
+            "4th Wed"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Parkway Plaza",
+      "org": "Parkway Plaza",
+      "address": "188 E Alaska Ave, Fairfield, CA 94533",
+      "phone": "925-676-7543",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Tue 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Tue"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Rockville Presbyterian Fellowship (at Salvation Army)",
+      "org": "Rockville Presbyterian Fellowship (at Salvation Army)",
+      "address": "1200 Missouri St, Fairfield, CA 94533",
+      "phone": "707-439-7980",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon & Wed 1pm-2pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "open": "13:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Salvation Army Fairfield",
+      "org": "Salvation Army Fairfield",
+      "address": "1200 Missouri St, Fairfield, CA 94533",
+      "phone": "707-439-7982",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 9am-12pm; Wed 9am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ],
+      "allowColocated": true
+    },
+    {
+      "name": "Salvation Army Fairfield (Community Produce Program)",
+      "org": "Salvation Army Fairfield (Community Produce Program)",
+      "address": "1216 Missouri St, Fairfield, CA 94533",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Thu 11:30am-12:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu",
+            "4th Thu"
+          ],
+          "open": "11:30",
+          "close": "12:30"
+        }
+      ]
+    },
+    {
+      "name": "Samoan Christian Fellowship",
+      "org": "Samoan Christian Fellowship",
+      "address": "1200 Western St, Fairfield, CA 94533",
+      "phone": "707-428-4221",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 11am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "11:00",
+          "close": "13:00"
+        }
+      ],
+      "allowColocated": true
+    },
+    {
+      "name": "St. Mark's Lutheran Church",
+      "org": "St. Mark's Lutheran Church",
+      "address": "1600 Union Ave, Fairfield, CA 94533",
+      "phone": "707-422-4741",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 2pm-5pm; 1st & 3rd Wed 9am-10am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "14:00",
+          "close": "17:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Wed",
+            "3rd Wed"
+          ],
+          "open": "09:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Stephens CME Church Feed My Sheep",
+      "org": "St. Stephens CME Church Feed My Sheep",
+      "address": "2301 Union Ave, Fairfield, CA 94533",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Wed 2pm-4pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed",
+            "4th Wed"
+          ],
+          "open": "14:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "True Love Baptist Church",
+      "org": "True Love Baptist Church",
+      "address": "1956 Pennsylvania Ave, Fairfield, CA 94533",
+      "phone": "707-426-2776",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Wed 10am-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed",
+            "4th Wed"
+          ],
+          "open": "10:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "WIC Fairfield (Community Produce Program)",
+      "org": "WIC Fairfield (Community Produce Program)",
+      "address": "2101 Courage Dr, Fairfield, CA 94533",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Thu 2pm-3pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu",
+            "4th Thu"
+          ],
+          "open": "14:00",
+          "close": "15:00"
+        }
+      ],
+      "allowColocated": true
+    },
+    {
+      "name": "Lighthouse Ministries (Community Produce Program)",
+      "org": "Lighthouse Ministries (Community Produce Program)",
+      "address": "101 Montezuma St, Rio Vista, CA 94571",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Wed 2pm-3pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Wed",
+            "3rd Wed"
+          ],
+          "open": "14:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Rio Vista Food Pantry",
+      "org": "Rio Vista Food Pantry",
+      "address": "1105 A Airport Rd, Rio Vista, CA 94571",
+      "phone": "707-374-5706",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Two Sundays per month 12:30pm-1:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sun"
+          ],
+          "open": "12:30",
+          "close": "13:30"
+        }
+      ]
+    },
+    {
+      "name": "Rio Vista Senior Center (Senior Food Program)",
+      "org": "Rio Vista Senior Center (Senior Food Program)",
+      "address": "25 Main St, Rio Vista, CA 94571",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Fri 9:30am-10:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Fri"
+          ],
+          "open": "09:30",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "Dan O. Root Elementary School (Community Produce Program)",
+      "org": "Dan O. Root Elementary School (Community Produce Program)",
+      "address": "820 Harrier Dr, Suisun City, CA 94585",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Wed 4pm-5pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Wed",
+            "3rd Wed"
+          ],
+          "open": "16:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Suisun City Salvation Army Kroc Center (Community Produce Program)",
+      "org": "Suisun City Salvation Army Kroc Center (Community Produce Program)",
+      "address": "586 E Wigeon Way, Suisun City, CA 94585",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Fri 11:30am-12:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri",
+            "3rd Fri"
+          ],
+          "open": "11:30",
+          "close": "12:30"
+        }
+      ]
+    },
+    {
+      "name": "Connection Point Church",
+      "org": "Connection Point Church",
+      "address": "5900 Cherry Glen Road, Vacaville, CA 95688",
+      "phone": "707-592-6845",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 10am-11:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "10:00",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Epiphany Episcopal Church (Senior Food Program)",
+      "org": "Epiphany Episcopal Church (Senior Food Program)",
+      "address": "300 West St, Vacaville, CA 95688",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Wed 9:30am-10:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Wed",
+            "3rd Wed"
+          ],
+          "open": "09:30",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "First Baptist Church of Vacaville",
+      "org": "First Baptist Church of Vacaville",
+      "address": "1127 Davis St, Vacaville, CA 95687",
+      "phone": "707-718-1087",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 5pm-6:30pm; Fri 10am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "17:00",
+          "close": "18:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Joint Church for Community Meals at Epiphany Church (soup kitchen)",
+      "org": "Joint Church for Community Meals at Epiphany Church (soup kitchen)",
+      "address": "300 West St, Vacaville, CA 95688",
+      "phone": "707-448-2275",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 1pm-2pm; Fri 4:30pm-6pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "13:00",
+          "close": "14:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "16:30",
+          "close": "18:00"
+        }
+      ],
+      "allowColocated": true
+    },
+    {
+      "name": "Leaven Kids Center (Community Produce Program)",
+      "org": "Leaven Kids Center (Community Produce Program)",
+      "address": "1625 Alamo Dr, Vacaville, CA 95687",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Wed 4pm-5pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed",
+            "4th Wed"
+          ],
+          "open": "16:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Mary's Catholic Church",
+      "org": "St. Mary's Catholic Church",
+      "address": "350 Stinson Ave, Vacaville, CA 95688",
+      "phone": "707-446-4613",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Wed and Fri 10am-11:45am; Thu 5pm-6:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "11:45"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "17:00",
+          "close": "18:30"
+        }
+      ]
+    },
+    {
+      "name": "Vacaville Community Medical Center (SNAP relief)",
+      "org": "Vacaville Community Medical Center (SNAP relief)",
+      "address": "600 Nut Tree Rd Ste. 310, Vacaville, CA 95687",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Thu 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Vacaville Family Health Services (SNAP relief)",
+      "org": "Vacaville Family Health Services (SNAP relief)",
+      "address": "1119 E Monte Vista Ave, Vacaville, CA 95688",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st through 4th Wed 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Wed",
+            "4th Wed"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "We Love Our City at Father's House Vacaville",
+      "org": "We Love Our City at Father's House Vacaville",
+      "address": "4800 Horse Creek Dr, Vacaville, CA 95688",
+      "phone": "707-454-0268",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 10am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Amador St. Hope Center",
+      "org": "Amador St. Hope Center",
+      "address": "929 Amador St, Vallejo, CA 94590",
+      "phone": "707-654-4673",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 4th Wed 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Wed",
+            "4th Wed"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Antioch COGIC",
+      "org": "Antioch COGIC",
+      "address": "21 Antioch Dr, Vallejo, CA 94589",
+      "phone": "707-641-5276",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Thu 11am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu",
+            "3rd Thu"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Boys & Girls Empowerment Group",
+      "org": "Boys & Girls Empowerment Group",
+      "address": "1624 Fairgrounds Dr Ste C, Vallejo, CA 94589",
+      "phone": "707-657-1726",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu & Sat 10am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu",
+            "Sat"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Bridgeway Cornerstone Church",
+      "org": "Bridgeway Cornerstone Church",
+      "address": "1505 Georgia St, Vallejo, CA 94590",
+      "phone": "707-652-5300",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 9:30am-10am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "09:30",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Calvary Community Church",
+      "org": "Calvary Community Church",
+      "address": "585 Mini Dr, Vallejo, CA 94589",
+      "phone": "707-373-9459",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Sat 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Sat"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Castlewood Church (Community Produce Program)",
+      "org": "Castlewood Church (Community Produce Program)",
+      "address": "3615 Georgia St, Vallejo, CA 94591",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Mon 2pm-3pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Mon",
+            "3rd Mon"
+          ],
+          "open": "14:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Emmanuel Apostolic Church",
+      "org": "Emmanuel Apostolic Church",
+      "address": "900 6th St, Vallejo, CA 94590",
+      "phone": "707-642-2391",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 10:30am-11:30am; 2nd & 4th Tue 2pm-3pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "10:30",
+          "close": "11:30"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue",
+            "4th Tue"
+          ],
+          "open": "14:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "First Baptist Church of Vallejo (soup kitchen)",
+      "org": "First Baptist Church of Vallejo (soup kitchen)",
+      "address": "2025 Sonoma Blvd, Vallejo, CA 94590",
+      "phone": "707-644-4087",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Thu 11am-12pm; Sun 5pm-6pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Sun"
+          ],
+          "open": "17:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Florence Douglas Senior Center (Senior Food Program)",
+      "org": "Florence Douglas Senior Center (Senior Food Program)",
+      "address": "333 Amador St, Vallejo, CA 94590",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Wed 10am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed",
+            "4th Wed"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Food is Free Bay Area - Vallejo",
+      "org": "Food is Free Bay Area - Vallejo",
+      "address": "900 Fairgrounds Dr, Vallejo, CA 94589",
+      "phone": "707-690-0945",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue & Thu 3pm-6pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "open": "15:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Friendship Missionary Baptist Church",
+      "org": "Friendship Missionary Baptist Church",
+      "address": "1905 Florida St, Vallejo, CA 94590",
+      "phone": "707-648-2005",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Sat 8am until food is gone",
+      "schedules": []
+    },
+    {
+      "name": "Good Samaritan Missionary Baptist",
+      "org": "Good Samaritan Missionary Baptist",
+      "address": "407 Capitol St, Vallejo, CA 94590",
+      "phone": "707-553-1896",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st, 3rd & 5th Thu 10am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu",
+            "3rd Thu",
+            "5th Thu"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Griffin Academy (Community Produce Program)",
+      "org": "Griffin Academy (Community Produce Program)",
+      "address": "233 Hobbs Ave, Vallejo, CA 94589",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Tue 2pm-3pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Tue",
+            "3rd Tue"
+          ],
+          "open": "14:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Incredible Blessings 4 U",
+      "org": "Incredible Blessings 4 U",
+      "address": "601 Sacramento St, Vallejo, CA 94590",
+      "phone": "707-567-7204",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 8am-9am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "08:00",
+          "close": "09:00"
+        }
+      ]
+    },
+    {
+      "name": "JFK Library (Community Produce Program)",
+      "org": "JFK Library (Community Produce Program)",
+      "address": "505 Santa Clara St, Vallejo, CA 94590",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Sat 10am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat",
+            "4th Sat"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "La Clinica North (Community Produce Program)",
+      "org": "La Clinica North (Community Produce Program)",
+      "address": "220 Hospital Dr, Vallejo, CA 94590",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Thu 9:30am-10:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu",
+            "3rd Thu"
+          ],
+          "open": "09:30",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "Norman King Community Center (Senior Food Program)",
+      "org": "Norman King Community Center (Senior Food Program)",
+      "address": "545 Magazine St, Vallejo, CA 94590",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Wed 9:30am-10:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed",
+            "4th Wed"
+          ],
+          "open": "09:30",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "North Vallejo Community Center (mobile pantry)",
+      "org": "North Vallejo Community Center (mobile pantry)",
+      "address": "1121 Whitney Ave, Vallejo, CA 94589",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Sat 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Old Path COGIC",
+      "org": "Old Path COGIC",
+      "address": "500 Arkansas St, Vallejo, CA 94590",
+      "phone": "707-643-7788",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Sat 10am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Sat",
+            "3rd Sat"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Rise Vallejo / Circle of Friends (mobile pantry)",
+      "org": "Rise Vallejo / Circle of Friends (mobile pantry)",
+      "address": "1450 Coronel Ave, Vallejo, CA 94591",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Wed 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Wed"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Salvation Army Vallejo",
+      "org": "Salvation Army Vallejo",
+      "address": "630 Tuolumne St, Vallejo, CA 94590",
+      "phone": "707-439-7982",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 9am-12pm and 1pm-4:30pm; Thu 9am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "13:00",
+          "close": "16:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Second Baptist Church of Vallejo",
+      "org": "Second Baptist Church of Vallejo",
+      "address": "1170 Benicia Rd, Vallejo, CA 94591",
+      "phone": "707-643-6496",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Wed 8:30am-10am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Wed",
+            "3rd Wed"
+          ],
+          "open": "08:30",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Shiloh COGIC",
+      "org": "Shiloh COGIC",
+      "address": "501 Lemon St, Vallejo, CA 94590",
+      "phone": "707-917-6941",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 11am-12pm or until food is gone",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Solano Middle School (Community Produce Program)",
+      "org": "Solano Middle School (Community Produce Program)",
+      "address": "1025 Corcoran Ave, Vallejo, CA 94589",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Fri 4pm-5pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Fri",
+            "4th Fri"
+          ],
+          "open": "16:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Taylor Chapel CME Church (Community Produce Program)",
+      "org": "Taylor Chapel CME Church (Community Produce Program)",
+      "address": "1203 Louisiana St, Vallejo, CA 94590",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Fri 2pm-3pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Fri",
+            "4th Fri"
+          ],
+          "open": "14:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "The Edge Community Church at Solano Dream Center",
+      "org": "The Edge Community Church at Solano Dream Center",
+      "address": "2166 Sacramento St, Vallejo, CA 94590",
+      "phone": "707-421-9430",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 11am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "11:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "The Hill Church (mobile pantry)",
+      "org": "The Hill Church (mobile pantry)",
+      "address": "210 Locust Dr, Vallejo, CA 94591",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Wed 3pm-4pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Wed",
+            "3rd Wed"
+          ],
+          "open": "15:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Vallejo Family Health Services (SNAP relief)",
+      "org": "Vallejo Family Health Services (SNAP relief)",
+      "address": "365 Tuolumne St, Vallejo, CA 94590",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st through 4th Mon 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Mon",
+            "4th Mon"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Vallejo High School (Community Produce Program)",
+      "org": "Vallejo High School (Community Produce Program)",
+      "address": "840 Nebraska St, Vallejo, CA 94590",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Tue 4pm-5pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Tue",
+            "3rd Tue"
+          ],
+          "open": "16:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Vallejo Seventh-day Adventist Community Services",
+      "org": "Vallejo Seventh-day Adventist Community Services",
+      "address": "1130 Alabama St, Vallejo, CA 94590",
+      "phone": "707-557-2267",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 9am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "WIC Vallejo (Community Produce Program)",
+      "org": "WIC Vallejo (Community Produce Program)",
+      "address": "365 Tuolumne St, Vallejo, CA 94590",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Tue 12pm-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue",
+            "4th Tue"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ],
+      "allowColocated": true
+    }
+  ]
+}

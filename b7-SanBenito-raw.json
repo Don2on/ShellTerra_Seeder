@@ -1,0 +1,106 @@
+{
+  "_meta": {
+    "topic": "SanBenito County food distributions (batch 7)",
+    "generated": "2026-10-11",
+    "source": "Hand-collected list (Sacramento Food Bank Food Finder, Community Food Bank of San Benito County, Feeding America Riverside-San Bernardino + FIND). Schedules parsed via LA clause parser.",
+    "note": "Sacramento and San Bernardino are ADDITIONS to existing shells (prepare with --existing dedupe + real --shell-id). San Benito is net-new."
+  },
+  "sites": [
+    {
+      "name": "Community Food Bank of San Benito County - Marketplace",
+      "org": "Community Food Bank of San Benito County - Marketplace",
+      "address": "1133 San Felipe Road, Hollister, CA 95023",
+      "phone": "(831) 637-0340",
+      "eligibility": "",
+      "website": "https://communityfoodbankofsbc.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 9am-3pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "09:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Hollister Mobile Pantry - Central",
+      "org": "Hollister Mobile Pantry - Central",
+      "address": "Central and Willow, Hollister, CA 95023",
+      "phone": "(831) 637-0340",
+      "eligibility": "",
+      "website": "https://communityfoodbankofsbc.org",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "Mon 12:30pm-1:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "12:30",
+          "close": "13:30"
+        }
+      ]
+    },
+    {
+      "name": "Hollister Mobile Pantry - San Juan Rd",
+      "org": "Hollister Mobile Pantry - San Juan Rd",
+      "address": "San Juan Rd and Rajkovich, Hollister, CA 95023",
+      "phone": "(831) 637-0340",
+      "eligibility": "",
+      "website": "https://communityfoodbankofsbc.org",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "Mon 2pm-3pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "14:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Salvation Army - Hollister Corps",
+      "org": "Salvation Army - Hollister Corps",
+      "address": "910 Buena Vista Rd, Hollister, CA 95023",
+      "phone": "(831) 636-9832",
+      "eligibility": "",
+      "website": "https://salvationarmyusa.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Food distribution Fri 1pm-4pm; meals Mon-Fri 11am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "13:00",
+          "close": "16:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ]
+    }
+  ]
+}

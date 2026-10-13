@@ -1,0 +1,164 @@
+{
+  "sites": [
+    {
+      "slug": "add-north-long-beach-community-prayer-center-food-pa",
+      "name": "North Long Beach Community Prayer Center Food Pantry",
+      "operating": true,
+      "address": "5239 Atlantic Ave, Long Beach, CA 90805",
+      "phone": "(562) 373-5189",
+      "website": "",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": ["fri"],
+          "open": "07:00",
+          "close": "13:30",
+          "note": "Register 7:00-9:00am; food distributed through ~1:30pm, while supplies last"
+        }
+      ],
+      "verified": "high",
+      "source": "https://211la.org/events/food-pantry-north-long-beach-ministry-center",
+      "note": "Confirmed via 211LA and lbcei.org food network. Phone (562) 373-5189 matches 211LA listing."
+    },
+    {
+      "slug": "add-st-francis-center-food-distribution-long-beach",
+      "name": "St. Francis Center Food Distribution (Long Beach)",
+      "operating": true,
+      "address": "627 Temple Ave, Long Beach, CA 90814",
+      "phone": "(562) 599-6474",
+      "website": "",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "days": ["sat"],
+          "open": "09:00",
+          "close": "12:00",
+          "note": "2nd Sat; held at St. Matthew Church, 627 Temple Ave & 7th St"
+        }
+      ],
+      "verified": "high",
+      "source": "https://sigtrib.com/free-food-pantries-groceries-meals-in-long-beach/",
+      "note": "Schedule corrected: 2nd Saturdays 9am-noon (input gave no times). ZIP 90814 matches 627 Temple Ave location."
+    },
+    {
+      "slug": "add-city-heart-food-distribution",
+      "name": "City Heart Food Distribution",
+      "operating": true,
+      "address": "245 The Promenade N, Site 100, Long Beach, CA 90802",
+      "phone": "(562) 704-9585",
+      "website": "",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": ["thu"],
+          "open": "12:00",
+          "close": "14:00",
+          "note": ""
+        }
+      ],
+      "verified": "high",
+      "source": "https://sigtrib.com/free-food-pantries-groceries-meals-in-long-beach/",
+      "note": "Confirmed Thursdays noon-2pm at 245 The Promenade N, Site 100."
+    },
+    {
+      "slug": "add-long-beach-food-not-bombs",
+      "name": "Long Beach Food Not Bombs",
+      "operating": true,
+      "address": "881 De Forest Ave, Long Beach, CA 90813",
+      "phone": "",
+      "website": "https://www.instagram.com/lbfoodnotbombs",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": ["sun"],
+          "open": "13:00",
+          "close": "15:00",
+          "note": "Weekly meal/food/clothing/hygiene share"
+        }
+      ],
+      "verified": "high",
+      "source": "https://sigtrib.com/free-food-pantries-groceries-meals-in-long-beach/",
+      "note": "Confirmed Sundays 1-3pm at 881 De Forest Ave."
+    },
+    {
+      "slug": "add-care-culture-collaborative-food-share",
+      "name": "Care Culture Collaborative Food Share",
+      "operating": true,
+      "address": "200 W Broadway, Long Beach, CA 90802",
+      "phone": "",
+      "website": "https://www.instagram.com/careculturecollab_lb",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": ["sat"],
+          "open": "12:30",
+          "close": "13:30",
+          "note": "Saturday downtown share, starts ~12:30pm; end time approximate"
+        }
+      ],
+      "verified": "high",
+      "source": "https://sigtrib.com/free-food-pantries-groceries-meals-in-long-beach/",
+      "note": "Confirmed Saturdays ~12:30pm at 200 W Broadway (downtown). Close time estimated at 1 hour."
+    },
+    {
+      "slug": "add-i-own-it-today-food-distribution",
+      "name": "I Own It Today Food Distribution",
+      "operating": true,
+      "address": "4835 E Anaheim St, Site 306, Long Beach, CA 90804",
+      "phone": "(949) 309-6803",
+      "website": "",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "days": ["sat"],
+          "open": "09:00",
+          "close": "11:00",
+          "note": "3rd Sat; hot meal, food and clothing distribution"
+        }
+      ],
+      "verified": "high",
+      "source": "https://sigtrib.com/free-food-pantries-groceries-meals-in-long-beach/",
+      "note": "Schedule corrected: 3rd Saturdays 9-11am (input gave no times)."
+    },
+    {
+      "slug": "add-awaken-ministries-new-generations-food-pantry",
+      "name": "Awaken Ministries / New Generations Food Pantry",
+      "operating": true,
+      "address": "2426 Santa Fe Ave, Long Beach, CA 90810",
+      "phone": "(562) 336-1833",
+      "website": "https://www.awakenlb.com/",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": ["sat"],
+          "open": "09:00",
+          "close": "10:00",
+          "note": "Sat walk-up 9-10am. Wed 10:30am is by appointment only."
+        }
+      ],
+      "verified": "high",
+      "source": "https://lbcei.org/foodpantry-old/",
+      "note": "Address 2426 Santa Fe Ave 90810 confirmed (Waze shows church office at 2432, pantry listed at 2426). Sat 9-10am walk-up confirmed via lbcei.org and 211LA. Website updated to awakenlb.com (input lbcei.org is the network host, not operator). Note: 211LA lists an alternate phone (562) 363-6457."
+    },
+    {
+      "slug": "add-hsa-cal-rec-center-senior-dining-site",
+      "name": "HSA Cal Rec Center Senior Dining Site",
+      "operating": true,
+      "address": "1550 Martin Luther King Jr Ave, Long Beach, CA 90813",
+      "phone": "(562) 599-7185",
+      "website": "https://www.hsala.org/",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": ["mon", "tue", "wed", "thu", "fri"],
+          "open": "11:30",
+          "close": "12:30",
+          "note": "Congregate lunch for seniors 60+ (Cambodian meals); reserve 24hrs ahead, call (562) 599-7185. Voluntary $3 donation; no one turned away."
+        }
+      ],
+      "verified": "high",
+      "source": "https://www.findhelp.org/human-services-association-(hsa)--long-beach-ca--congregate-meals-program/6316797174743040?postal=90801",
+      "note": "Address and ZIP 90813 confirmed. Site-specific phone corrected to (562) 599-7185 (meal reservation line); input (562) 806-5400 is HSA Long Beach Senior Center main line. Exact lunch times not published online; 11:30-12:30 retained from input as typical congregate serving window."
+    }
+  ]
+}

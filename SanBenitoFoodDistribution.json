@@ -1,0 +1,115 @@
+{
+  "_meta": {
+    "topic": "Net-new San Benito County food distributions",
+    "generated": "2026-10-05",
+    "source": "Research supplementing shell PENDING-SanBenito; raw ./b7-SanBenito-raw.json."
+  },
+  "_deferred": {},
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "add-community-food-bank-of-san-benito-county-marketp-w4-0900",
+      "seriesSlug": "add-community-food-bank-of-san-benito-county-marketp",
+      "title": "Community Food Bank of San Benito County - Marketplace — Free Food",
+      "description": "Free food at Community Food Bank of San Benito County - Marketplace. Schedule: Thu 9 AM–3 PM. Call (831) 637-0340 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Community Food Bank of San Benito County - Marketplace",
+      "address": "1133 San Felipe Road, Hollister, CA 95023",
+      "lat": 36.872928,
+      "lng": -121.400135,
+      "category": "food-assistance",
+      "sourceOrg": "Community Food Bank of San Benito County - Marketplace",
+      "url": "https://communityfoodbankofsbc.org",
+      "schedulePattern": "Thu 9 AM–3 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-hollister-mobile-pantry-central-w1-1230",
+      "seriesSlug": "add-hollister-mobile-pantry-central",
+      "title": "Hollister Mobile Pantry - Central — Free Food",
+      "description": "Free food at Hollister Mobile Pantry - Central. Schedule: Mon 12:30 PM–1:30 PM. Call (831) 637-0340 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Hollister Mobile Pantry - Central",
+      "address": "Central and Willow, Hollister, CA 95023",
+      "lat": 36.855096,
+      "lng": -121.417662,
+      "category": "food-assistance",
+      "sourceOrg": "Hollister Mobile Pantry - Central",
+      "url": "https://communityfoodbankofsbc.org",
+      "schedulePattern": "Mon 12:30 PM–1:30 PM",
+      "start": "2026-09-28T12:30",
+      "end": "2026-09-28T13:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-hollister-mobile-pantry-san-juan-rd-w1-1400",
+      "seriesSlug": "add-hollister-mobile-pantry-san-juan-rd",
+      "title": "Hollister Mobile Pantry - San Juan Rd — Free Food",
+      "description": "Free food at Hollister Mobile Pantry - San Juan Rd. Schedule: Mon 2 PM–3 PM. Call (831) 637-0340 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Hollister Mobile Pantry - San Juan Rd",
+      "address": "San Juan Rd and Rajkovich, Hollister, CA 95023",
+      "lat": 36.85225,
+      "lng": -121.41645,
+      "category": "food-assistance",
+      "sourceOrg": "Hollister Mobile Pantry - San Juan Rd",
+      "url": "https://communityfoodbankofsbc.org",
+      "schedulePattern": "Mon 2 PM–3 PM",
+      "start": "2026-09-28T14:00",
+      "end": "2026-09-28T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-salvation-army-hollister-corps-w5-1300",
+      "seriesSlug": "add-salvation-army-hollister-corps",
+      "title": "Salvation Army - Hollister Corps — Free Food",
+      "description": "Free food at Salvation Army - Hollister Corps. Schedule: Fri 1 PM–4 PM; Mon–Fri 11 AM–12 PM. Call (831) 636-9832 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salvation Army - Hollister Corps",
+      "address": "910 Buena Vista Rd, Hollister, CA 95023",
+      "lat": 36.858031,
+      "lng": -121.41338,
+      "category": "food-assistance",
+      "sourceOrg": "Salvation Army - Hollister Corps",
+      "url": "https://salvationarmyusa.org",
+      "schedulePattern": "Fri 1 PM–4 PM; Mon–Fri 11 AM–12 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-salvation-army-hollister-corps-w12345-1100",
+      "seriesSlug": "add-salvation-army-hollister-corps",
+      "title": "Salvation Army - Hollister Corps — Free Food",
+      "description": "Free food at Salvation Army - Hollister Corps. Schedule: Fri 1 PM–4 PM; Mon–Fri 11 AM–12 PM. Call (831) 636-9832 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salvation Army - Hollister Corps",
+      "address": "910 Buena Vista Rd, Hollister, CA 95023",
+      "lat": 36.858031,
+      "lng": -121.41338,
+      "category": "food-assistance",
+      "sourceOrg": "Salvation Army - Hollister Corps",
+      "url": "https://salvationarmyusa.org",
+      "schedulePattern": "Fri 1 PM–4 PM; Mon–Fri 11 AM–12 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    }
+  ]
+}

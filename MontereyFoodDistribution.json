@@ -1,0 +1,742 @@
+{
+  "_meta": {
+    "topic": "Net-new Monterey County food distributions",
+    "generated": "2026-10-05",
+    "source": "Research supplementing shell PENDING-Monterey; raw ./MontereyAdditions-raw.json."
+  },
+  "_deferred": {
+    "add-marina-library-produce-truck": {
+      "title": "Marina Library (produce truck)",
+      "status": "Oct 11 Phone: (831) 758-1523.",
+      "address": "190 Seaside Cir, Marina, CA 93933",
+      "lat": 36.691309,
+      "lng": -121.80216,
+      "phone": "(831) 758-1523",
+      "eligibility": "",
+      "sourceUrl": "https://foodbankformontereycounty.org/food-assistance/"
+    },
+    "add-monterey-county-free-libraries-admin-office": {
+      "title": "Monterey County Free Libraries - Admin Office",
+      "status": "Oct 5 Phone: (831) 758-1523.",
+      "address": "188 Seaside Cir, Marina, CA 93933",
+      "lat": 36.691503,
+      "lng": -121.799715,
+      "phone": "(831) 758-1523",
+      "eligibility": "",
+      "sourceUrl": "https://foodbankformontereycounty.org/food-assistance/"
+    },
+    "add-prunedale-grange-hall": {
+      "title": "Prunedale Grange Hall",
+      "status": "Oct 5 Phone: (831) 758-1523.",
+      "address": "17890 Moro Rd, Prunedale, CA 93907",
+      "lat": 36.802934,
+      "lng": -121.661441,
+      "phone": "(831) 758-1523",
+      "eligibility": "",
+      "sourceUrl": "https://foodbankformontereycounty.org/food-assistance/"
+    },
+    "add-alisal-community-school-produce-truck": {
+      "title": "Alisal Community School (produce truck)",
+      "status": "Oct 30 Phone: (831) 758-1523.",
+      "address": "1437 Del Monte Ave, Salinas, CA 93905",
+      "lat": 36.682463,
+      "lng": -121.604426,
+      "phone": "(831) 758-1523",
+      "eligibility": "",
+      "sourceUrl": "https://foodbankformontereycounty.org/food-assistance/"
+    },
+    "add-alisal-integrated-health-center-produce-truck": {
+      "title": "Alisal Integrated Health Center (produce truck)",
+      "status": "Oct 20 Phone: (831) 758-1523.",
+      "address": "331 N Sanborn Rd, Salinas, CA 93905",
+      "lat": 36.678992,
+      "lng": -121.62598,
+      "phone": "(831) 758-1523",
+      "eligibility": "",
+      "sourceUrl": "https://foodbankformontereycounty.org/food-assistance/"
+    },
+    "add-frank-paul-family-resource-center-produce-truck": {
+      "title": "Frank Paul Family Resource Center (produce truck)",
+      "status": "Oct 14 Phone: (831) 758-1523.",
+      "address": "1296 Rider Ave, Salinas, CA 93905",
+      "lat": 36.694477,
+      "lng": -121.608294,
+      "phone": "(831) 758-1523",
+      "eligibility": "",
+      "sourceUrl": "https://foodbankformontereycounty.org/food-assistance/"
+    },
+    "add-la-paz-middle-school-produce-truck": {
+      "title": "La Paz Middle School (produce truck)",
+      "status": "Oct 1 & 15 Phone: (831) 758-1523.",
+      "address": "1300 N Sanborn Rd, Salinas, CA 93905",
+      "lat": 36.690202,
+      "lng": -121.605057,
+      "phone": "(831) 758-1523",
+      "eligibility": "",
+      "sourceUrl": "https://foodbankformontereycounty.org/food-assistance/"
+    },
+    "add-martin-luther-king-jr-academy-produce-truck": {
+      "title": "Martin Luther King Jr Academy (produce truck)",
+      "status": "Oct 21 Phone: (831) 758-1523.",
+      "address": "925 N Sanborn Rd, Salinas, CA 93905",
+      "lat": 36.685546,
+      "lng": -121.617203,
+      "phone": "(831) 758-1523",
+      "eligibility": "",
+      "sourceUrl": "https://foodbankformontereycounty.org/food-assistance/"
+    },
+    "add-santa-rita-elementary-school-produce-truck": {
+      "title": "Santa Rita Elementary School (produce truck)",
+      "status": "Oct 8 Phone: (831) 758-1523.",
+      "address": "2014 Santa Rita St, Salinas, CA 93906",
+      "lat": 36.724241,
+      "lng": -121.652104,
+      "phone": "(831) 758-1523",
+      "eligibility": "",
+      "sourceUrl": "https://foodbankformontereycounty.org/food-assistance/"
+    },
+    "add-sherwood-elementary-produce-truck": {
+      "title": "Sherwood Elementary (produce truck)",
+      "status": "Oct 23 Phone: (831) 758-1523.",
+      "address": "110 S Wood St, Salinas, CA 93905",
+      "lat": 36.671953,
+      "lng": -121.634551,
+      "phone": "(831) 758-1523",
+      "eligibility": "",
+      "sourceUrl": "https://foodbankformontereycounty.org/food-assistance/"
+    },
+    "add-st-paul-s-episcopal-church-produce-truck": {
+      "title": "St. Paul's Episcopal Church (produce truck)",
+      "status": "Oct 29; Oct 25 Phone: (831) 758-1523.",
+      "address": "1071 Pajaro St, Salinas, CA 93901",
+      "lat": 36.659388,
+      "lng": -121.655472,
+      "phone": "(831) 758-1523",
+      "eligibility": "",
+      "sourceUrl": "https://foodbankformontereycounty.org/food-assistance/"
+    },
+    "add-university-park-elementary-produce-truck": {
+      "title": "University Park Elementary (produce truck)",
+      "status": "Oct 28 Phone: (831) 758-1523.",
+      "address": "833 W Acacia St, Salinas, CA 93901",
+      "lat": 36.671095,
+      "lng": -121.679052,
+      "phone": "(831) 758-1523",
+      "eligibility": "",
+      "sourceUrl": "https://foodbankformontereycounty.org/food-assistance/"
+    },
+    "add-vineyard-church-of-salinas": {
+      "title": "Vineyard Church of Salinas",
+      "status": "Oct 9 Phone: (831) 758-1523.",
+      "address": "1122 E Alisal St, Salinas, CA 93905",
+      "lat": 36.672148,
+      "lng": -121.623805,
+      "phone": "(831) 758-1523",
+      "eligibility": "",
+      "sourceUrl": "https://foodbankformontereycounty.org/food-assistance/"
+    },
+    "add-main-street-middle-school-produce-truck": {
+      "title": "Main Street Middle School (produce truck)",
+      "status": "Oct 6 Phone: (831) 758-1523.",
+      "address": "441 Main St, Soledad, CA 93960",
+      "lat": 36.429444,
+      "lng": -121.327162,
+      "phone": "(831) 758-1523",
+      "eligibility": "",
+      "sourceUrl": "https://foodbankformontereycounty.org/food-assistance/"
+    }
+  },
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "add-st-philip-s-lutheran-church-m1535-0900",
+      "seriesSlug": "add-st-philip-s-lutheran-church",
+      "title": "St. Philip's Lutheran Church — Free Food",
+      "description": "Free food at St. Philip's Lutheran Church. Schedule: 1st Fri & 3rd Fri 9 AM–10 AM. Eligibility: seniors and general public. Call (831) 758-1523 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Philip's Lutheran Church",
+      "address": "8065 Carmel Valley Rd, Carmel, CA 93923",
+      "lat": 36.53156,
+      "lng": -121.834678,
+      "category": "food-assistance",
+      "sourceOrg": "St. Philip's Lutheran Church",
+      "url": "https://foodbankformontereycounty.org/food-assistance/",
+      "schedulePattern": "1st Fri & 3rd Fri 9 AM–10 AM",
+      "start": "2026-10-09T09:00",
+      "end": "2026-10-09T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "1:5,3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-rippling-river-center-senior-site-m35-1030",
+      "seriesSlug": "add-rippling-river-center-senior-site",
+      "title": "Rippling River Center (senior site) — Free Food",
+      "description": "Free food at Rippling River Center (senior site). Schedule: 3rd Fri 10:30 AM–11 AM. Call (831) 758-1523 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Rippling River Center (senior site)",
+      "address": "53 E Carmel Valley Rd, Carmel Valley, CA 93924",
+      "lat": 36.47613,
+      "lng": -121.725112,
+      "category": "food-assistance",
+      "sourceOrg": "Rippling River Center (senior site)",
+      "url": "https://foodbankformontereycounty.org/food-assistance/",
+      "schedulePattern": "3rd Fri 10:30 AM–11 AM",
+      "start": "2026-10-09T10:30",
+      "end": "2026-10-09T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-our-lady-of-refuge-catholic-church-m14-0900",
+      "seriesSlug": "add-our-lady-of-refuge-catholic-church",
+      "title": "Our Lady of Refuge Catholic Church — Free Food",
+      "description": "Free food at Our Lady of Refuge Catholic Church. Schedule: 1st Thu 9 AM–10 AM. Call (831) 758-1523 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Our Lady of Refuge Catholic Church",
+      "address": "11140 Preston St, Castroville, CA 95012",
+      "lat": 36.7667,
+      "lng": -121.757003,
+      "category": "food-assistance",
+      "sourceOrg": "Our Lady of Refuge Catholic Church",
+      "url": "https://foodbankformontereycounty.org/food-assistance/",
+      "schedulePattern": "1st Thu 9 AM–10 AM",
+      "start": "2026-10-08T09:00",
+      "end": "2026-10-08T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-chualar-union-elementary-school-m24-1200",
+      "seriesSlug": "add-chualar-union-elementary-school",
+      "title": "Chualar Union Elementary School — Free Food",
+      "description": "Free food at Chualar Union Elementary School. Schedule: 2nd Thu 12 PM–1 PM. Call (831) 758-1523 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Chualar Union Elementary School",
+      "address": "24285 Lincoln St, Chualar, CA 93925",
+      "lat": 36.57149,
+      "lng": -121.51592,
+      "category": "food-assistance",
+      "sourceOrg": "Chualar Union Elementary School",
+      "url": "https://foodbankformontereycounty.org/food-assistance/",
+      "schedulePattern": "2nd Thu 12 PM–1 PM",
+      "start": "2026-10-08T12:00",
+      "end": "2026-10-08T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "2:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-theodore-church-m34-0930",
+      "seriesSlug": "add-st-theodore-church",
+      "title": "St. Theodore Church — Free Food",
+      "description": "Free food at St. Theodore Church. Schedule: 3rd Thu 9:30 AM–10:30 AM. Call (831) 758-1523 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Theodore Church",
+      "address": "116 S Belden St, Gonzales, CA 93926",
+      "lat": 36.502653,
+      "lng": -121.438361,
+      "category": "food-assistance",
+      "sourceOrg": "St. Theodore Church",
+      "url": "https://foodbankformontereycounty.org/food-assistance/",
+      "schedulePattern": "3rd Thu 9:30 AM–10:30 AM",
+      "start": "2026-10-08T09:30",
+      "end": "2026-10-08T10:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-greenfield-memorial-hall-m42-0930",
+      "seriesSlug": "add-greenfield-memorial-hall",
+      "title": "Greenfield Memorial Hall — Free Food",
+      "description": "Free food at Greenfield Memorial Hall. Schedule: 4th Tue 9:30 AM–10:30 AM. Call (831) 758-1523 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Greenfield Memorial Hall",
+      "address": "615 El Camino Real, Greenfield, CA 93927",
+      "lat": 36.330256,
+      "lng": -121.253059,
+      "category": "food-assistance",
+      "sourceOrg": "Greenfield Memorial Hall",
+      "url": "https://foodbankformontereycounty.org/food-assistance/",
+      "schedulePattern": "4th Tue 9:30 AM–10:30 AM",
+      "start": "2026-10-06T09:30",
+      "end": "2026-10-06T10:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "4:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-hall-district-elementary-school-m25-1230",
+      "seriesSlug": "add-hall-district-elementary-school",
+      "title": "Hall District Elementary School — Free Food",
+      "description": "Free food at Hall District Elementary School. Schedule: 2nd Fri 12:30 PM–2 PM. Call (831) 758-1523 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Hall District Elementary School",
+      "address": "300 Sill Rd, Las Lomas, CA 95076",
+      "lat": 36.865555,
+      "lng": -121.723078,
+      "category": "food-assistance",
+      "sourceOrg": "Hall District Elementary School",
+      "url": "https://foodbankformontereycounty.org/food-assistance/",
+      "schedulePattern": "2nd Fri 12:30 PM–2 PM",
+      "start": "2026-10-09T12:30",
+      "end": "2026-10-09T14:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "2:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-holy-assembly-missionary-baptist-church-m36-1000",
+      "seriesSlug": "add-holy-assembly-missionary-baptist-church",
+      "title": "Holy Assembly Missionary Baptist Church — Free Food",
+      "description": "Free food at Holy Assembly Missionary Baptist Church. Schedule: 3rd Sat 10 AM–12 PM. Call (831) 758-1523 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Holy Assembly Missionary Baptist Church",
+      "address": "3305 Abdy Way, Marina, CA 93933",
+      "lat": 36.698147,
+      "lng": -121.798182,
+      "category": "food-assistance",
+      "sourceOrg": "Holy Assembly Missionary Baptist Church",
+      "url": "https://foodbankformontereycounty.org/food-assistance/",
+      "schedulePattern": "3rd Sat 10 AM–12 PM",
+      "start": "2026-10-10T10:00",
+      "end": "2026-10-10T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-mary-s-by-the-sea-episcopal-church-w135-1300",
+      "seriesSlug": "add-st-mary-s-by-the-sea-episcopal-church",
+      "title": "St. Mary's by-the-Sea Episcopal Church — Free Food",
+      "description": "Free food at St. Mary's by-the-Sea Episcopal Church. Schedule: Mon, Wed, Fri 1 PM–2 PM. Call (831) 758-1523 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Mary's by-the-Sea Episcopal Church",
+      "address": "146 12th St, Pacific Grove, CA 93950",
+      "lat": 36.621009,
+      "lng": -121.914509,
+      "category": "food-assistance",
+      "sourceOrg": "St. Mary's by-the-Sea Episcopal Church",
+      "url": "https://foodbankformontereycounty.org/food-assistance/",
+      "schedulePattern": "Mon, Wed, Fri 1 PM–2 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-firehouse-recreation-center-senior-site-w4-0900",
+      "seriesSlug": "add-firehouse-recreation-center-senior-site",
+      "title": "Firehouse Recreation Center (senior site) — Free Food",
+      "description": "Free food at Firehouse Recreation Center (senior site). Schedule: Thu 9 AM–10 AM. Call (831) 758-1523 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Firehouse Recreation Center (senior site)",
+      "address": "1330 E Alisal St, Salinas, CA 93905",
+      "lat": 36.671887,
+      "lng": -121.618426,
+      "category": "food-assistance",
+      "sourceOrg": "Firehouse Recreation Center (senior site)",
+      "url": "https://foodbankformontereycounty.org/food-assistance/",
+      "schedulePattern": "Thu 9 AM–10 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T10:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-grace-christian-fellowship-w4-0900",
+      "seriesSlug": "add-grace-christian-fellowship",
+      "title": "Grace Christian Fellowship — Free Food",
+      "description": "Free food at Grace Christian Fellowship. Schedule: Thu 9 AM–11 AM. Call (831) 758-1523 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Grace Christian Fellowship",
+      "address": "111 Prado St, Salinas, CA 93906",
+      "lat": 36.72623,
+      "lng": -121.65486,
+      "category": "food-assistance",
+      "sourceOrg": "Grace Christian Fellowship",
+      "url": "https://foodbankformontereycounty.org/food-assistance/",
+      "schedulePattern": "Thu 9 AM–11 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-lutheran-church-of-the-good-shepherd-w5-0900",
+      "seriesSlug": "add-lutheran-church-of-the-good-shepherd",
+      "title": "Lutheran Church of the Good Shepherd — Free Food",
+      "description": "Free food at Lutheran Church of the Good Shepherd. Schedule: Fri 9 AM–10 AM. Call (831) 758-1523 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Lutheran Church of the Good Shepherd",
+      "address": "580 Larkin St, Salinas, CA 93907",
+      "lat": 36.690512,
+      "lng": -121.659889,
+      "category": "food-assistance",
+      "sourceOrg": "Lutheran Church of the Good Shepherd",
+      "url": "https://foodbankformontereycounty.org/food-assistance/",
+      "schedulePattern": "Fri 9 AM–10 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T10:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-parallel-church-m32-1730",
+      "seriesSlug": "add-parallel-church",
+      "title": "Parallel Church — Free Food",
+      "description": "Free food at Parallel Church. Schedule: 3rd Tue 5:30 PM–6:30 PM. Call (831) 758-1523 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Parallel Church",
+      "address": "327 Pajaro St, Salinas, CA 93901",
+      "lat": 36.673251,
+      "lng": -121.652055,
+      "category": "food-assistance",
+      "sourceOrg": "Parallel Church",
+      "url": "https://foodbankformontereycounty.org/food-assistance/",
+      "schedulePattern": "3rd Tue 5:30 PM–6:30 PM",
+      "start": "2026-10-06T17:30",
+      "end": "2026-10-06T18:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "3:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-royal-family-church-of-god-m2646-1000",
+      "seriesSlug": "add-royal-family-church-of-god",
+      "title": "Royal Family Church of God — Free Food",
+      "description": "Free food at Royal Family Church of God. Schedule: 2nd Sat & 4th Sat 10 AM–12 PM. Call (831) 758-1523 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Royal Family Church of God",
+      "address": "671 E Market St, Salinas, CA 93905",
+      "lat": 36.676825,
+      "lng": -121.63227,
+      "category": "food-assistance",
+      "sourceOrg": "Royal Family Church of God",
+      "url": "https://foodbankformontereycounty.org/food-assistance/",
+      "schedulePattern": "2nd Sat & 4th Sat 10 AM–12 PM",
+      "start": "2026-10-10T10:00",
+      "end": "2026-10-10T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6,4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-salinas-valley-community-church-m45-0900",
+      "seriesSlug": "add-salinas-valley-community-church",
+      "title": "Salinas Valley Community Church — Free Food",
+      "description": "Free food at Salinas Valley Community Church. Schedule: 4th Fri 9 AM–10:30 AM. Call (831) 758-1523 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salinas Valley Community Church",
+      "address": "368 San Juan Grade Rd, Salinas, CA 93906",
+      "lat": 36.736328,
+      "lng": -121.634418,
+      "category": "food-assistance",
+      "sourceOrg": "Salinas Valley Community Church",
+      "url": "https://foodbankformontereycounty.org/food-assistance/",
+      "schedulePattern": "4th Fri 9 AM–10:30 AM",
+      "start": "2026-10-09T09:00",
+      "end": "2026-10-09T10:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "4:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-ansgar-s-lutheran-church-m33-0830",
+      "seriesSlug": "add-st-ansgar-s-lutheran-church",
+      "title": "St. Ansgar's Lutheran Church — Free Food",
+      "description": "Free food at St. Ansgar's Lutheran Church. Schedule: 3rd Wed 8:30 AM–9:30 AM. Call (831) 758-1523 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Ansgar's Lutheran Church",
+      "address": "72 E San Joaquin St, Salinas, CA 93901",
+      "lat": 36.65766,
+      "lng": -121.65699,
+      "category": "food-assistance",
+      "sourceOrg": "St. Ansgar's Lutheran Church",
+      "url": "https://foodbankformontereycounty.org/food-assistance/",
+      "schedulePattern": "3rd Wed 8:30 AM–9:30 AM",
+      "start": "2026-10-07T08:30",
+      "end": "2026-10-07T09:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-father-s-house-m2343-1700",
+      "seriesSlug": "add-the-father-s-house",
+      "title": "The Father's House — Free Food",
+      "description": "Free food at The Father's House. Schedule: 2nd Wed & 4th Wed 5 PM–6 PM. Call (831) 758-1523 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Father's House",
+      "address": "55 Natividad Rd, Salinas, CA 93906",
+      "lat": 36.695058,
+      "lng": -121.64007,
+      "category": "food-assistance",
+      "sourceOrg": "The Father's House",
+      "url": "https://foodbankformontereycounty.org/food-assistance/",
+      "schedulePattern": "2nd Wed & 4th Wed 5 PM–6 PM",
+      "start": "2026-10-07T17:00",
+      "end": "2026-10-07T18:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "2:3,4:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-san-ardo-distribution-m13-1000",
+      "seriesSlug": "add-san-ardo-distribution",
+      "title": "San Ardo distribution — Free Food",
+      "description": "Free food at San Ardo distribution. Schedule: 1st Wed 10 AM–11 AM. Call (831) 758-1523 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "San Ardo distribution",
+      "address": "Cattlemen Rd and College St, San Ardo, CA 93450",
+      "lat": 36.018634,
+      "lng": -120.907238,
+      "category": "food-assistance",
+      "sourceOrg": "San Ardo distribution",
+      "url": "https://foodbankformontereycounty.org/food-assistance/",
+      "schedulePattern": "1st Wed 10 AM–11 AM",
+      "start": "2026-10-07T10:00",
+      "end": "2026-10-07T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "1:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-bethel-baptist-church-w24-1600",
+      "seriesSlug": "add-bethel-baptist-church",
+      "title": "Bethel Baptist Church — Free Food",
+      "description": "Free food at Bethel Baptist Church. Schedule: Tue, Thu 4 PM–6 PM; Sat 12 PM–2 PM. Call (831) 758-1523 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Bethel Baptist Church",
+      "address": "390 Elm Ave, Seaside, CA 93955",
+      "lat": 36.607572,
+      "lng": -121.85391,
+      "category": "food-assistance",
+      "sourceOrg": "Bethel Baptist Church",
+      "url": "https://foodbankformontereycounty.org/food-assistance/",
+      "schedulePattern": "Tue, Thu 4 PM–6 PM; Sat 12 PM–2 PM",
+      "start": "2026-09-28T16:00",
+      "end": "2026-09-28T18:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-bethel-baptist-church-w6-1200",
+      "seriesSlug": "add-bethel-baptist-church",
+      "title": "Bethel Baptist Church — Free Food",
+      "description": "Free food at Bethel Baptist Church. Schedule: Tue, Thu 4 PM–6 PM; Sat 12 PM–2 PM. Call (831) 758-1523 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Bethel Baptist Church",
+      "address": "390 Elm Ave, Seaside, CA 93955",
+      "lat": 36.607572,
+      "lng": -121.85391,
+      "category": "food-assistance",
+      "sourceOrg": "Bethel Baptist Church",
+      "url": "https://foodbankformontereycounty.org/food-assistance/",
+      "schedulePattern": "Tue, Thu 4 PM–6 PM; Sat 12 PM–2 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-seaside-high-school-w3-1600",
+      "seriesSlug": "add-seaside-high-school",
+      "title": "Seaside High School — Free Food",
+      "description": "Free food at Seaside High School. Schedule: Wed 4 PM–5 PM. Call (831) 758-1523 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Seaside High School",
+      "address": "2200 Noche Buena St, Seaside, CA 93955",
+      "lat": 36.623849,
+      "lng": -121.837555,
+      "category": "food-assistance",
+      "sourceOrg": "Seaside High School",
+      "url": "https://foodbankformontereycounty.org/food-assistance/",
+      "schedulePattern": "Wed 4 PM–5 PM",
+      "start": "2026-09-28T16:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-francis-xavier-church-m22-0900",
+      "seriesSlug": "add-st-francis-xavier-church",
+      "title": "St. Francis Xavier Church — Free Food",
+      "description": "Free food at St. Francis Xavier Church. Schedule: 2nd Tue 9 AM–10 AM. Call (831) 758-1523 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Francis Xavier Church",
+      "address": "1475 La Salle Ave, Seaside, CA 93955",
+      "lat": 36.616986,
+      "lng": -121.833063,
+      "category": "food-assistance",
+      "sourceOrg": "St. Francis Xavier Church",
+      "url": "https://foodbankformontereycounty.org/food-assistance/",
+      "schedulePattern": "2nd Tue 9 AM–10 AM",
+      "start": "2026-10-06T09:00",
+      "end": "2026-10-06T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "2:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-our-lady-of-solitude-church-m31-0930",
+      "seriesSlug": "add-our-lady-of-solitude-church",
+      "title": "Our Lady of Solitude Church — Free Food",
+      "description": "Free food at Our Lady of Solitude Church. Schedule: 3rd Mon 9:30 AM–10:30 AM. Call (831) 758-1523 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Our Lady of Solitude Church",
+      "address": "235 Main St, Soledad, CA 93960",
+      "lat": 36.428527,
+      "lng": -121.328376,
+      "category": "food-assistance",
+      "sourceOrg": "Our Lady of Solitude Church",
+      "url": "https://foodbankformontereycounty.org/food-assistance/",
+      "schedulePattern": "3rd Mon 9:30 AM–10:30 AM",
+      "start": "2026-10-05T09:30",
+      "end": "2026-10-05T10:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "3:1"
+    }
+  ]
+}

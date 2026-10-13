@@ -1,0 +1,430 @@
+{
+  "_meta": {
+    "topic": "Net-new Northern Nevada food distributions",
+    "generated": "2026-09-28",
+    "source": "Research supplementing shell 6aba043c003c0898597a; raw ./additions-nnv-raw.json."
+  },
+  "_deferred": {
+    "add-tmcc-wizard-s-warehouse-dandini-campus": {
+      "title": "TMCC Wizard's Warehouse - Dandini Campus",
+      "status": "1st and 3rd Thursday of each month Phone: 775-673-7060.",
+      "address": "7000 Dandini Blvd, RDMT 115, Reno, NV 89512",
+      "lat": 39.572164,
+      "lng": -119.794259,
+      "phone": "775-673-7060",
+      "eligibility": "TMCC students, faculty, and staff; free food and personal items. Partnership with Food Bank of Northern Nevada.",
+      "sourceUrl": "https://www.tmcc.edu/vpss/wizards-warehouse"
+    },
+    "add-tmcc-wizard-s-warehouse-meadowood-center": {
+      "title": "TMCC Wizard's Warehouse - Meadowood Center",
+      "status": "2nd and 4th Thursday of each month Phone: 775-829-9000.",
+      "address": "5270 Neil Rd, S119, Reno, NV 89502",
+      "lat": 39.47383,
+      "lng": -119.77765,
+      "phone": "775-829-9000",
+      "eligibility": "TMCC students, faculty, and staff; free food and personal items.",
+      "sourceUrl": "https://www.tmcc.edu/vpss/wizards-warehouse"
+    }
+  },
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "add-eddy-house-drop-in-center-w1234567-0830",
+      "seriesSlug": "add-eddy-house-drop-in-center",
+      "title": "Eddy House Drop-In Center — Free Food",
+      "description": "Free food at Eddy House Drop-In Center (Eddy House). Schedule: Mon–Sun 8:30 AM–9:30 AM (Breakfast); Mon–Sun 12 PM–1 PM (Lunch); Mon–Sun 5 PM–6 PM (Dinner). Eligibility: Youth ages 18-24 experiencing homelessness; free breakfast, lunch, and dinner at drop-in center.. Call 775-384-1129 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Eddy House Drop-In Center",
+      "address": "888 Willow St, Reno, NV 89502",
+      "lat": 39.524507,
+      "lng": -119.800874,
+      "category": "food-assistance",
+      "sourceOrg": "Eddy House",
+      "url": "https://eddyhouse.org/",
+      "schedulePattern": "Mon–Sun 8:30 AM–9:30 AM (Breakfast); Mon–Sun 12 PM–1 PM (Lunch); Mon–Sun 5 PM–6 PM (Dinner)",
+      "start": "2026-09-21T08:30",
+      "end": "2026-09-21T09:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5,6,7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-eddy-house-drop-in-center-w1234567-1200",
+      "seriesSlug": "add-eddy-house-drop-in-center",
+      "title": "Eddy House Drop-In Center — Free Food",
+      "description": "Free food at Eddy House Drop-In Center (Eddy House). Schedule: Mon–Sun 8:30 AM–9:30 AM (Breakfast); Mon–Sun 12 PM–1 PM (Lunch); Mon–Sun 5 PM–6 PM (Dinner). Eligibility: Youth ages 18-24 experiencing homelessness; free breakfast, lunch, and dinner at drop-in center.. Call 775-384-1129 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Eddy House Drop-In Center",
+      "address": "888 Willow St, Reno, NV 89502",
+      "lat": 39.524507,
+      "lng": -119.800874,
+      "category": "food-assistance",
+      "sourceOrg": "Eddy House",
+      "url": "https://eddyhouse.org/",
+      "schedulePattern": "Mon–Sun 8:30 AM–9:30 AM (Breakfast); Mon–Sun 12 PM–1 PM (Lunch); Mon–Sun 5 PM–6 PM (Dinner)",
+      "start": "2026-09-21T12:00",
+      "end": "2026-09-21T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5,6,7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-eddy-house-drop-in-center-w1234567-1700",
+      "seriesSlug": "add-eddy-house-drop-in-center",
+      "title": "Eddy House Drop-In Center — Free Food",
+      "description": "Free food at Eddy House Drop-In Center (Eddy House). Schedule: Mon–Sun 8:30 AM–9:30 AM (Breakfast); Mon–Sun 12 PM–1 PM (Lunch); Mon–Sun 5 PM–6 PM (Dinner). Eligibility: Youth ages 18-24 experiencing homelessness; free breakfast, lunch, and dinner at drop-in center.. Call 775-384-1129 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Eddy House Drop-In Center",
+      "address": "888 Willow St, Reno, NV 89502",
+      "lat": 39.524507,
+      "lng": -119.800874,
+      "category": "food-assistance",
+      "sourceOrg": "Eddy House",
+      "url": "https://eddyhouse.org/",
+      "schedulePattern": "Mon–Sun 8:30 AM–9:30 AM (Breakfast); Mon–Sun 12 PM–1 PM (Lunch); Mon–Sun 5 PM–6 PM (Dinner)",
+      "start": "2026-09-21T17:00",
+      "end": "2026-09-21T18:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5,6,7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-reno-sparks-gospel-mission-free-meals-w1234567-0700",
+      "seriesSlug": "add-reno-sparks-gospel-mission-free-meals",
+      "title": "Reno-Sparks Gospel Mission - Free Meals — Free Food",
+      "description": "Free food at Reno-Sparks Gospel Mission - Free Meals (Reno-Sparks Gospel Mission). Schedule: Mon–Sun 7 AM–7:30 AM (Breakfast served at 7:00am); Mon–Sun 5 PM–5:30 PM (Dinner served at 5:00pm). Eligibility: Open to anyone off the street; no ID or sign-up required. Free breakfast and dinner.. Call 775-329-0485 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Reno-Sparks Gospel Mission - Free Meals",
+      "address": "355 Record St, Reno, NV 89512",
+      "lat": 39.530331,
+      "lng": -119.809172,
+      "category": "food-assistance",
+      "sourceOrg": "Reno-Sparks Gospel Mission",
+      "url": "https://rsgm.org/programs-services/food-hunger-services/",
+      "schedulePattern": "Mon–Sun 7 AM–7:30 AM (Breakfast served at 7:00am); Mon–Sun 5 PM–5:30 PM (Dinner served at 5:00pm)",
+      "start": "2026-09-21T07:00",
+      "end": "2026-09-21T07:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5,6,7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-reno-sparks-gospel-mission-free-meals-w1234567-1700",
+      "seriesSlug": "add-reno-sparks-gospel-mission-free-meals",
+      "title": "Reno-Sparks Gospel Mission - Free Meals — Free Food",
+      "description": "Free food at Reno-Sparks Gospel Mission - Free Meals (Reno-Sparks Gospel Mission). Schedule: Mon–Sun 7 AM–7:30 AM (Breakfast served at 7:00am); Mon–Sun 5 PM–5:30 PM (Dinner served at 5:00pm). Eligibility: Open to anyone off the street; no ID or sign-up required. Free breakfast and dinner.. Call 775-329-0485 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Reno-Sparks Gospel Mission - Free Meals",
+      "address": "355 Record St, Reno, NV 89512",
+      "lat": 39.530331,
+      "lng": -119.809172,
+      "category": "food-assistance",
+      "sourceOrg": "Reno-Sparks Gospel Mission",
+      "url": "https://rsgm.org/programs-services/food-hunger-services/",
+      "schedulePattern": "Mon–Sun 7 AM–7:30 AM (Breakfast served at 7:00am); Mon–Sun 5 PM–5:30 PM (Dinner served at 5:00pm)",
+      "start": "2026-09-21T17:00",
+      "end": "2026-09-21T17:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5,6,7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-reno-sparks-gospel-mission-free-groceries-pantry-w24-1000",
+      "seriesSlug": "add-reno-sparks-gospel-mission-free-groceries-pantry",
+      "title": "Reno-Sparks Gospel Mission - Free Groceries Pantry — Free Food",
+      "description": "Free food at Reno-Sparks Gospel Mission - Free Groceries Pantry (Reno-Sparks Gospel Mission). Schedule: Tue, Thu 10 AM–3 PM; Pop-up pantry last Saturday of month (3rd Sat if last falls on holiday weekend); drive-thru or walk-up. Eligibility: Walk-up, first come first served; no sign-up or ID required.. Call 775-329-0485 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Reno-Sparks Gospel Mission - Free Groceries Pantry",
+      "address": "2115 Timber Way, Reno, NV 89512",
+      "lat": 39.549325,
+      "lng": -119.800951,
+      "category": "food-assistance",
+      "sourceOrg": "Reno-Sparks Gospel Mission",
+      "url": "https://rsgm.org/programs-services/community-services/",
+      "schedulePattern": "Tue, Thu 10 AM–3 PM; Pop-up pantry last Saturday of month (3rd Sat if last falls on holiday weekend); drive-thru or walk-up",
+      "start": "2026-09-21T10:00",
+      "end": "2026-09-21T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-asun-pack-provisions-food-pantry-w1-1400",
+      "seriesSlug": "add-asun-pack-provisions-food-pantry",
+      "title": "ASUN Pack Provisions Food Pantry — Free Food",
+      "description": "Free food at ASUN Pack Provisions Food Pantry (Associated Students of the University of Nevada (UNR)). Schedule: Mon 2 PM–5 PM (Online reservation via GivePulse); Tue 9 AM–5 PM (No advance registration); Fri 2 PM–5 PM (Online reservation via GivePulse. Closed university holidays.). Eligibility: UNR students, staff, and faculty; free food and hygiene supplies. Joe Crowley Student Union, 3rd floor.. Call 775-682-9875 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "ASUN Pack Provisions Food Pantry",
+      "address": "1664 N Virginia St, Reno, NV 89557",
+      "lat": 39.539467,
+      "lng": -119.812804,
+      "category": "food-assistance",
+      "sourceOrg": "Associated Students of the University of Nevada (UNR)",
+      "url": "https://www.unr.edu/student-engagement/support-services/pack-provisions",
+      "schedulePattern": "Mon 2 PM–5 PM (Online reservation via GivePulse); Tue 9 AM–5 PM (No advance registration); Fri 2 PM–5 PM (Online reservation via GivePulse. Closed university holidays.)",
+      "start": "2026-09-21T14:00",
+      "end": "2026-09-21T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-asun-pack-provisions-food-pantry-w2-0900",
+      "seriesSlug": "add-asun-pack-provisions-food-pantry",
+      "title": "ASUN Pack Provisions Food Pantry — Free Food",
+      "description": "Free food at ASUN Pack Provisions Food Pantry (Associated Students of the University of Nevada (UNR)). Schedule: Mon 2 PM–5 PM (Online reservation via GivePulse); Tue 9 AM–5 PM (No advance registration); Fri 2 PM–5 PM (Online reservation via GivePulse. Closed university holidays.). Eligibility: UNR students, staff, and faculty; free food and hygiene supplies. Joe Crowley Student Union, 3rd floor.. Call 775-682-9875 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "ASUN Pack Provisions Food Pantry",
+      "address": "1664 N Virginia St, Reno, NV 89557",
+      "lat": 39.539467,
+      "lng": -119.812804,
+      "category": "food-assistance",
+      "sourceOrg": "Associated Students of the University of Nevada (UNR)",
+      "url": "https://www.unr.edu/student-engagement/support-services/pack-provisions",
+      "schedulePattern": "Mon 2 PM–5 PM (Online reservation via GivePulse); Tue 9 AM–5 PM (No advance registration); Fri 2 PM–5 PM (Online reservation via GivePulse. Closed university holidays.)",
+      "start": "2026-09-21T09:00",
+      "end": "2026-09-21T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-asun-pack-provisions-food-pantry-w5-1400",
+      "seriesSlug": "add-asun-pack-provisions-food-pantry",
+      "title": "ASUN Pack Provisions Food Pantry — Free Food",
+      "description": "Free food at ASUN Pack Provisions Food Pantry (Associated Students of the University of Nevada (UNR)). Schedule: Mon 2 PM–5 PM (Online reservation via GivePulse); Tue 9 AM–5 PM (No advance registration); Fri 2 PM–5 PM (Online reservation via GivePulse. Closed university holidays.). Eligibility: UNR students, staff, and faculty; free food and hygiene supplies. Joe Crowley Student Union, 3rd floor.. Call 775-682-9875 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "ASUN Pack Provisions Food Pantry",
+      "address": "1664 N Virginia St, Reno, NV 89557",
+      "lat": 39.539467,
+      "lng": -119.812804,
+      "category": "food-assistance",
+      "sourceOrg": "Associated Students of the University of Nevada (UNR)",
+      "url": "https://www.unr.edu/student-engagement/support-services/pack-provisions",
+      "schedulePattern": "Mon 2 PM–5 PM (Online reservation via GivePulse); Tue 9 AM–5 PM (No advance registration); Fri 2 PM–5 PM (Online reservation via GivePulse. Closed university holidays.)",
+      "start": "2026-09-21T14:00",
+      "end": "2026-09-21T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sparks-senior-center-congregate-meal-w12345-1130",
+      "seriesSlug": "add-sparks-senior-center-congregate-meal",
+      "title": "Sparks Senior Center Congregate Meal — Free Food",
+      "description": "Free food at Sparks Senior Center Congregate Meal (Washoe County Human Services Agency - Senior Services). Schedule: Mon–Fri 11:30 AM–12:30 PM (Washoe County Senior Services congregate lunch for ages 60+; reservation recommended (call center).). Eligibility: Seniors 60+ and qualified individuals; free/suggested-donation hot lunch. Call before 8:30am to reserve.. Call 775-353-3110 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Sparks Senior Center Congregate Meal",
+      "address": "97 Richards Way, Sparks, NV 89431",
+      "lat": 39.55015,
+      "lng": -119.74372,
+      "category": "food-assistance",
+      "sourceOrg": "Washoe County Human Services Agency - Senior Services",
+      "url": "https://www.cityofsparks.us/explore_sparks/seniors_service/sparks_senior_center.php",
+      "schedulePattern": "Mon–Fri 11:30 AM–12:30 PM (Washoe County Senior Services congregate lunch for ages 60+; reservation recommended (call center).)",
+      "start": "2026-09-21T11:30",
+      "end": "2026-09-21T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-fallon-daily-bread-wolf-center-w14-1700",
+      "seriesSlug": "add-fallon-daily-bread-wolf-center",
+      "title": "Fallon Daily Bread (Wolf Center) — Free Food",
+      "description": "Free food at Fallon Daily Bread (Wolf Center) (Epworth United Methodist Church). Schedule: Mon, Thu 5 PM–6 PM (Hot dinner, all welcome, no requirements. (Fallon Chamber lists 17:30-18:30; statewide Nevada Independent guide lists 17:00-18:00 — kept input/NevInd window.)); Mon 10 AM–1 PM (Food bank distribution.); Wed, Sat 10 AM–1 PM (Brown sack lunch (Methodist Church kitchen).). Eligibility: Open to anyone; free hot evening meal.. Call 775-423-4714 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Fallon Daily Bread (Wolf Center)",
+      "address": "457 Esmeralda St, Fallon, NV 89406",
+      "lat": 39.47081,
+      "lng": -118.77337,
+      "category": "food-assistance",
+      "sourceOrg": "Epworth United Methodist Church",
+      "url": "https://www.fallonchamber.com/community-resource/fallon-daily-bread-wolf-center/",
+      "schedulePattern": "Mon, Thu 5 PM–6 PM (Hot dinner, all welcome, no requirements. (Fallon Chamber lists 17:30-18:30; statewide Nevada Independent guide lists 17:00-18:00 — kept input/NevInd window.)); Mon 10 AM–1 PM (Food bank distribution.); Wed, Sat 10 AM–1 PM (Brown sack lunch (Methodist Church kitchen).)",
+      "start": "2026-09-21T17:00",
+      "end": "2026-09-21T18:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-fallon-daily-bread-wolf-center-w1-1000",
+      "seriesSlug": "add-fallon-daily-bread-wolf-center",
+      "title": "Fallon Daily Bread (Wolf Center) — Free Food",
+      "description": "Free food at Fallon Daily Bread (Wolf Center) (Epworth United Methodist Church). Schedule: Mon, Thu 5 PM–6 PM (Hot dinner, all welcome, no requirements. (Fallon Chamber lists 17:30-18:30; statewide Nevada Independent guide lists 17:00-18:00 — kept input/NevInd window.)); Mon 10 AM–1 PM (Food bank distribution.); Wed, Sat 10 AM–1 PM (Brown sack lunch (Methodist Church kitchen).). Eligibility: Open to anyone; free hot evening meal.. Call 775-423-4714 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Fallon Daily Bread (Wolf Center)",
+      "address": "457 Esmeralda St, Fallon, NV 89406",
+      "lat": 39.47081,
+      "lng": -118.77337,
+      "category": "food-assistance",
+      "sourceOrg": "Epworth United Methodist Church",
+      "url": "https://www.fallonchamber.com/community-resource/fallon-daily-bread-wolf-center/",
+      "schedulePattern": "Mon, Thu 5 PM–6 PM (Hot dinner, all welcome, no requirements. (Fallon Chamber lists 17:30-18:30; statewide Nevada Independent guide lists 17:00-18:00 — kept input/NevInd window.)); Mon 10 AM–1 PM (Food bank distribution.); Wed, Sat 10 AM–1 PM (Brown sack lunch (Methodist Church kitchen).)",
+      "start": "2026-09-21T10:00",
+      "end": "2026-09-21T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-fallon-daily-bread-wolf-center-w36-1000",
+      "seriesSlug": "add-fallon-daily-bread-wolf-center",
+      "title": "Fallon Daily Bread (Wolf Center) — Free Food",
+      "description": "Free food at Fallon Daily Bread (Wolf Center) (Epworth United Methodist Church). Schedule: Mon, Thu 5 PM–6 PM (Hot dinner, all welcome, no requirements. (Fallon Chamber lists 17:30-18:30; statewide Nevada Independent guide lists 17:00-18:00 — kept input/NevInd window.)); Mon 10 AM–1 PM (Food bank distribution.); Wed, Sat 10 AM–1 PM (Brown sack lunch (Methodist Church kitchen).). Eligibility: Open to anyone; free hot evening meal.. Call 775-423-4714 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Fallon Daily Bread (Wolf Center)",
+      "address": "457 Esmeralda St, Fallon, NV 89406",
+      "lat": 39.47081,
+      "lng": -118.77337,
+      "category": "food-assistance",
+      "sourceOrg": "Epworth United Methodist Church",
+      "url": "https://www.fallonchamber.com/community-resource/fallon-daily-bread-wolf-center/",
+      "schedulePattern": "Mon, Thu 5 PM–6 PM (Hot dinner, all welcome, no requirements. (Fallon Chamber lists 17:30-18:30; statewide Nevada Independent guide lists 17:00-18:00 — kept input/NevInd window.)); Mon 10 AM–1 PM (Food bank distribution.); Wed, Sat 10 AM–1 PM (Brown sack lunch (Methodist Church kitchen).)",
+      "start": "2026-09-21T10:00",
+      "end": "2026-09-21T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3,6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-toi-ticutta-food-hub-w1-1500",
+      "seriesSlug": "add-toi-ticutta-food-hub",
+      "title": "Toi Ticutta Food Hub — Free Food",
+      "description": "Free food at Toi Ticutta Food Hub (Fallon Paiute-Shoshone Tribe). Schedule: Mon 3 PM–5 PM (Operated by Fallon Paiute Shoshone Tribe.); Wed, Fri 9 AM–12 PM. Eligibility: Open to community; tribal food hub distributing free groceries.. Call 775-423-6075 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Toi Ticutta Food Hub",
+      "address": "8942 Mission Rd, Fallon, NV 89406",
+      "lat": 39.50427,
+      "lng": -118.61423,
+      "category": "food-assistance",
+      "sourceOrg": "Fallon Paiute-Shoshone Tribe",
+      "url": "https://www.fpst.org/",
+      "schedulePattern": "Mon 3 PM–5 PM (Operated by Fallon Paiute Shoshone Tribe.); Wed, Fri 9 AM–12 PM",
+      "start": "2026-09-21T15:00",
+      "end": "2026-09-21T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-toi-ticutta-food-hub-w35-0900",
+      "seriesSlug": "add-toi-ticutta-food-hub",
+      "title": "Toi Ticutta Food Hub — Free Food",
+      "description": "Free food at Toi Ticutta Food Hub (Fallon Paiute-Shoshone Tribe). Schedule: Mon 3 PM–5 PM (Operated by Fallon Paiute Shoshone Tribe.); Wed, Fri 9 AM–12 PM. Eligibility: Open to community; tribal food hub distributing free groceries.. Call 775-423-6075 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Toi Ticutta Food Hub",
+      "address": "8942 Mission Rd, Fallon, NV 89406",
+      "lat": 39.50427,
+      "lng": -118.61423,
+      "category": "food-assistance",
+      "sourceOrg": "Fallon Paiute-Shoshone Tribe",
+      "url": "https://www.fpst.org/",
+      "schedulePattern": "Mon 3 PM–5 PM (Operated by Fallon Paiute Shoshone Tribe.); Wed, Fri 9 AM–12 PM",
+      "start": "2026-09-21T09:00",
+      "end": "2026-09-21T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-catholic-charities-winnemucca-neighborhood-cente-w234-1200",
+      "seriesSlug": "add-catholic-charities-winnemucca-neighborhood-cente",
+      "title": "Catholic Charities Winnemucca Neighborhood Center — Free Food",
+      "description": "Free food at Catholic Charities Winnemucca Neighborhood Center (Catholic Charities of Northern Nevada). Schedule: Tue–Thu 12 PM–4 PM (Client-choice food pantry; photo ID, proof of residence and income required. Also offers SNAP/benefit enrollment.). Eligibility: Open to community; free food pantry.. Call 775-870-4055 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Catholic Charities Winnemucca Neighborhood Center",
+      "address": "625 Sheehan St, Unit F, Winnemucca, NV 89445",
+      "lat": 40.964432,
+      "lng": -117.73675,
+      "category": "food-assistance",
+      "sourceOrg": "Catholic Charities of Northern Nevada",
+      "url": "https://ccsnn.org/pages/food-pantry",
+      "schedulePattern": "Tue–Thu 12 PM–4 PM (Client-choice food pantry; photo ID, proof of residence and income required. Also offers SNAP/benefit enrollment.)",
+      "start": "2026-09-21T12:00",
+      "end": "2026-09-21T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-winnemucca-united-methodist-church-soup-kitchen-w2-1200",
+      "seriesSlug": "add-winnemucca-united-methodist-church-soup-kitchen",
+      "title": "Winnemucca United Methodist Church Soup Kitchen — Free Food",
+      "description": "Free food at Winnemucca United Methodist Church Soup Kitchen (Winnemucca United Methodist Church / Winnemucca Ministerial Association). Schedule: Tue 12 PM–1 PM (Lunch); Tue–Thu, Sun 6 PM–7 PM (Dinner at 6:00pm). Eligibility: Open to anyone in need of a hot meal; no charge. Served in the church basement.. Call 775-623-2814 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Winnemucca United Methodist Church Soup Kitchen",
+      "address": "138 W Winnemucca Blvd, Winnemucca, NV 89445",
+      "lat": 40.97258,
+      "lng": -117.736645,
+      "category": "food-assistance",
+      "sourceOrg": "Winnemucca United Methodist Church / Winnemucca Ministerial Association",
+      "url": "https://www.winnemuccaumc.org/",
+      "schedulePattern": "Tue 12 PM–1 PM (Lunch); Tue–Thu, Sun 6 PM–7 PM (Dinner at 6:00pm)",
+      "start": "2026-09-21T12:00",
+      "end": "2026-09-21T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-winnemucca-united-methodist-church-soup-kitchen-w2347-1800",
+      "seriesSlug": "add-winnemucca-united-methodist-church-soup-kitchen",
+      "title": "Winnemucca United Methodist Church Soup Kitchen — Free Food",
+      "description": "Free food at Winnemucca United Methodist Church Soup Kitchen (Winnemucca United Methodist Church / Winnemucca Ministerial Association). Schedule: Tue 12 PM–1 PM (Lunch); Tue–Thu, Sun 6 PM–7 PM (Dinner at 6:00pm). Eligibility: Open to anyone in need of a hot meal; no charge. Served in the church basement.. Call 775-623-2814 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Winnemucca United Methodist Church Soup Kitchen",
+      "address": "138 W Winnemucca Blvd, Winnemucca, NV 89445",
+      "lat": 40.97258,
+      "lng": -117.736645,
+      "category": "food-assistance",
+      "sourceOrg": "Winnemucca United Methodist Church / Winnemucca Ministerial Association",
+      "url": "https://www.winnemuccaumc.org/",
+      "schedulePattern": "Tue 12 PM–1 PM (Lunch); Tue–Thu, Sun 6 PM–7 PM (Dinner at 6:00pm)",
+      "start": "2026-09-21T18:00",
+      "end": "2026-09-21T19:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3,4,7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-douglas-county-community-senior-center-congregat-w12345-1130",
+      "seriesSlug": "add-douglas-county-community-senior-center-congregat",
+      "title": "Douglas County Community & Senior Center Congregate Dining — Free Food",
+      "description": "Free food at Douglas County Community & Senior Center Congregate Dining (Douglas County Community Services). Schedule: Mon–Fri 11:30 AM–12:30 PM (Hot lunch; call to confirm daily schedule). Eligibility: Seniors 60+ Nevada residents: free/$3 suggested donation. Under 60 / out-of-state: $7 mandatory charge.. Call 775-782-5500 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Douglas County Community & Senior Center Congregate Dining",
+      "address": "1329 Waterloo Ln, Gardnerville, NV 89410",
+      "lat": 38.933341,
+      "lng": -119.740112,
+      "category": "food-assistance",
+      "sourceOrg": "Douglas County Community Services",
+      "url": "https://communityservices.douglascountynv.gov/senior_services/senior_services/congregate_dining",
+      "schedulePattern": "Mon–Fri 11:30 AM–12:30 PM (Hot lunch; call to confirm daily schedule)",
+      "start": "2026-09-21T11:30",
+      "end": "2026-09-21T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    }
+  ]
+}

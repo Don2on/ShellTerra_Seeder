@@ -1,0 +1,64 @@
+{
+  "_meta": {
+    "topic": "Net-new San Diego food distributions",
+    "generated": "2026-09-28",
+    "source": "Research supplementing FoodDistributionSD; raw ./SDFB-additions-raw.json."
+  },
+  "_deferred": {},
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "sd-add-armed-services-ymca-camp-pendleton-m45-0915",
+      "seriesSlug": "sd-add-armed-services-ymca-camp-pendleton",
+      "title": "Armed Services YMCA - Camp Pendleton — Free Food",
+      "description": "Free food at Armed Services YMCA - Camp Pendleton (San Diego Food Bank (EFAP)). Schedule: 4th Fri 9:15 AM–11:45 AM (EFAP; base access required). Eligibility: Military-affiliated households; Camp Pendleton base access required. Confirm hours before you go — supplies can run out. Source: community research, Sep 2026.",
+      "locationName": "Armed Services YMCA - Camp Pendleton",
+      "address": "Ash Road & Wire Mountain Road, Oceanside, CA 92058",
+      "lat": 33.22269,
+      "lng": -117.38007,
+      "category": "food-assistance",
+      "sourceOrg": "San Diego Food Bank (EFAP)",
+      "url": "https://www.sandiegofoodbank.org/get-food/",
+      "schedulePattern": "4th Fri 9:15 AM–11:45 AM (EFAP; base access required)",
+      "start": "2026-10-02T09:15",
+      "end": "2026-10-02T11:45",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "4:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "sd-add-las-palmas-park-senior-food-program-m15-0900",
+      "seriesSlug": "sd-add-las-palmas-park-senior-food-program",
+      "title": "Las Palmas Park Senior Food Program — Free Food",
+      "description": "Free food at Las Palmas Park Senior Food Program (San Diego Food Bank (CSFP Senior)). Schedule: 1st Fri 9 AM–11 AM (senior food program). Eligibility: Seniors 60+ (CSFP). Confirm hours before you go — supplies can run out. Source: community research, Sep 2026.",
+      "locationName": "Las Palmas Park Senior Food Program",
+      "address": "E 20th St & Newell St, National City, CA 91950",
+      "lat": 32.671103,
+      "lng": -117.082579,
+      "category": "food-assistance",
+      "sourceOrg": "San Diego Food Bank (CSFP Senior)",
+      "url": "https://www.sandiegofoodbank.org/get-food/",
+      "schedulePattern": "1st Fri 9 AM–11 AM (senior food program)",
+      "start": "2026-10-02T09:00",
+      "end": "2026-10-02T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "1:5"
+    }
+  ]
+}

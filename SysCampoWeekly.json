@@ -1,0 +1,29 @@
+{
+  "_meta": {
+    "topic": "San Ysidro Health Campo — rolling weekly"
+  },
+  "_deferred": {},
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "sys-campo-weekly",
+      "seriesSlug": "san-ysidro-health-campo",
+      "title": "San Ysidro Health - Campo — Free Food Distribution",
+      "description": "Feeding San Diego runs this free food distribution at San Ysidro Health - Campo (976 Sheridan Road, Campo). Schedule: Monday–Friday, 8 AM–4:30 PM. Appointments preferred, walk-ins accepted. Call 619-478-2384 ahead if you can — distributions often end early when supplies run out, and schedules change with holidays and weather. Source: Feeding San Diego.",
+      "locationName": "San Ysidro Health - Campo",
+      "address": "976 Sheridan Road, Campo, CA 91906",
+      "lat": 32.625788,
+      "lng": -116.462847,
+      "category": "food-assistance",
+      "sourceOrg": "Feeding San Diego",
+      "url": "https://feedingsandiego.org/find-food/",
+      "schedulePattern": "Mon–Fri, 8 AM–4:30 PM",
+      "start": "2026-09-21T08:00",
+      "end": "2026-09-21T16:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    }
+  ]
+}

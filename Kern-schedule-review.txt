@@ -1,0 +1,63 @@
+ok  [food-pantry] The Wonderful Community Food Center (CAPK Food Bank) -> 520 South Washington Street, Bakersfield, California 93307, United States [rooftop]
+ok  [food-pantry] First Congregational Church of Bakersfield (UCC) Food Pantry -> 5 Real Road, Bakersfield, California 93309, United States [rooftop]
+ok  [food-pantry] Catholic Charities Bakersfield Family Resource Center -> 825 Chester Avenue, Bakersfield, California 93301, United States [rooftop]
+ok  [food-pantry] The Hope Center (Bakersfield) -> 3311 Manor Street, Bakersfield, California 93308, United States [rooftop]
+ok  [food-pantry] Friendship House Community Center Food Distribution -> 2424 Cottonwood Road, Bakersfield, California 93307, United States [rooftop]
+ok  [food-pantry] Golden Empire Gleaners -> 1326 30th Street, Bakersfield, California 93301, United States [parcel]
+ok  [food-pantry] The Salvation Army Bakersfield Corps Food Pantry -> 4417 Wilson Road, Bakersfield, California 93309, United States [rooftop]
+ok  [food-pantry] Valley Baptist Church Food Pantry -> 5500 Olive Drive, Bakersfield, California 93308, United States [rooftop]
+ok  [food-pantry] Bakersfield Christian Church Food Pantry -> 3200 Bernard Street, Bakersfield, California 93306, United States [rooftop]
+ok  [food-pantry] Children First Food Distribution (David Nelson Pocket Park) -> 1511 East Niles Street, Bakersfield, California 93305, United States [rooftop]
+ok  [meal] The Mission at Kern County -> 816 East 21st Street, Bakersfield, California 93305, United States [rooftop]
+ok  [food-pantry] Morning Star Fresh Food Ministry -> 3240 Fruitvale Avenue, Bakersfield, California 93308, United States [rooftop]
+ok  [farmers-market] CAPK Free Farmer's Market - New Life Church -> 4313 Shepard Street, Bakersfield, California 93313, United States [rooftop]
+ok  [food-pantry] Wasco Free Will Baptist Church -> 938 7th Street, Wasco, California 93280, United States [rooftop]
+ok  [food-pantry] Wasco Recreation & Parks District (Westside Park) -> 2502 Parkside Drive, Wasco, California 93280, United States [point]
+ok  [farmers-market] CAPK Free Farmer's Market - West Side Park (Wasco) -> 2433 Beckes Street, Wasco, California 93280, United States [point]
+ok  [food-pantry] Shafter Free Will Church -> 155 Redwood Drive, Shafter, California 93263, United States [rooftop]
+ok  [food-pantry] Jesus Saves International Church - Arms Extended Food Ministry -> 425 South Shafter Avenue, Shafter, California 93263, United States [point]
+FLAG rel0.99/street  CAPK Free Farmer's Market - Jesus Saves Church (Shafter)
+    in: 1425 S Shafter Ave, Shafter, CA 93263
+    -> Shafter Avenue, Shafter, California 93263, United States
+ok  [food-pantry] Delano Life House -> 1725 11th Avenue, Delano, California 93215, United States [rooftop]
+ok  [food-pantry] Delano Memorial Park Commodity Distribution -> 100 South Lexington Street, Delano, California 93215, United States [interpolated]
+ok  [food-pantry] PJ's Pantry - HD Church (Valley Faith Fellowship) -> 15570 County Line Road, Delano, California 93215, United States [parcel]
+ok  [food-pantry] Family Life Worship Center -> 501 West Perkins Avenue, McFarland, California 93250, United States [parcel]
+ok  [food-pantry] Lost Hills Community Center -> 21109 Paso Robles Highway, Lost Hills, California 93249, United States [interpolated]
+ok  [food-pantry] Buttonwillow Parks and Recreation District -> 556 Milo Avenue, Buttonwillow, California 93206, United States [rooftop]
+ok  [food-pantry] CAPK Food Bank - Lamont Pantry -> 10601 Myrtle Avenue, Lamont, California 93241, United States [rooftop]
+FLAG rel1.00/approximate  Tehachapi Help & Hope Food Pantry
+    in: 20290 Valley Blvd, Tehachapi, CA 93561
+    -> 20290 Valley Boulevard, Tehachapi, California 93561, United States
+ok  [food-pantry] Sharing & Caring of Tehachapi -> 230 South Pauley Street, Tehachapi, California 93561, United States [interpolated]
+ok  [food-pantry] The Salvation Army Tehachapi Community Center -> 538 East Tehachapi Boulevard, Tehachapi, California 93561, United States [point]
+ok  [food-pantry] Stallion Springs Community Church - Love Thy Neighbor -> 18151 Saint Andrew's Drive, Tehachapi, California 93561, United States [rooftop]
+ok  [food-pantry] The Salvation Army Frazier Park Commodities Distribution -> 3801 Park Drive, Frazier Park, California 93225, United States [point]
+ok  [food-pantry] Mountain Communities Family Resource Center (MCFRC) Food Pantry -> 3015 Mount Pinos Way, Frazier Park, California 93225, United States [rooftop]
+ok  [food-pantry] Grace Lutheran Church Food Pantry (Ridgecrest) -> 502 North Norma Street, Ridgecrest, California 93555, United States [rooftop]
+ok  [food-pantry] The Salvation Army of Ridgecrest Food Pantry -> 151 North Downs Street, Ridgecrest, California 93555, United States [rooftop]
+ok  [food-pantry] All Souls' Food Pantry and Co-Op (St. Michael's Episcopal Church) -> 200 Drummond Avenue, Ridgecrest, California 93555, United States [rooftop]
+ok  [food-pantry] Our Lady of Lourdes Catholic Church Food Bank -> 9970 California City Boulevard, California City, California 93505, United States [point]
+ok  [food-pantry] First Baptist Church of Boron Pantry Ministry -> 12255 Boron Avenue, Boron, California 93516, United States [parcel]
+ok  [food-pantry] Canyon Hills of Wofford Heights (CAPK Food Distribution) -> 25 Arden Avenue, Wofford Heights, California 93285, United States [point]
+ok  [food-assistance] CAPK Food Bank - main pantry -> 1807 Feliz Drive, Bakersfield, California 93307, United States [interpolated]
+DUP (within batch)     Catholic Charities - Bakersfield | 825 Chester Ave, Bakersfield, CA 93301
+DUP (within batch)     First Congregational Church Food Pantry | 5 Real Rd, Bakersfield, CA 93309
+DUP (within batch)     Golden Empire Gleaners | 1326 30th St Unit A, Bakersfield, CA 93301
+DUP (within batch)     HOPE Center | 3311 Manor St, Bakersfield, CA 93308
+DUP (within batch)     Salvation Army - Bakersfield | 4417 Wilson Rd, Bakersfield, CA 93309
+ok  [food-assistance] St. Paul's Episcopal Church Pantry -> 2216 17th Street, Bakersfield, California 93301, United States [rooftop]
+ok  [food-assistance] Stay Focused Ministries -> 1225 California Avenue, Bakersfield, California 93304, United States [rooftop]
+ok  [food-assistance] The Blessing Corner Outreach -> 101 Union Avenue, Bakersfield, California 93307, United States [rooftop]
+DUP (within batch)     The Mission at Kern County (meals) | 816 E 21st St, Bakersfield, CA 93305
+FLAG rel1.00/approximate  Delano Community Connection Center
+    in: 1842 Norwalk St, Delano, CA 93215
+    -> 1842 Norwalk Street, Delano, California 93215, United States
+ok  [food-assistance] Salvation Army - Lake Isabella -> 6069 Lake Isabella Boulevard, Lake Isabella, California 93240, United States [rooftop]
+ok  [food-assistance] McFarland Food Pantry (Care & Share) -> 410 East Perkins Avenue, McFarland, California 93250, United States [rooftop]
+DUP (within batch)     Salvation Army - Ridgecrest | 151 N Downs St, Ridgecrest, CA 93555
+ok  [food-assistance] New Hope Temple Food Pantry -> 308 Harrison Street, Taft, California 93268, United States [point]
+ok  [food-assistance] Taft NEEDS Center -> 518 Main Street, Taft, California 93268, United States [rooftop]
+DUP (within batch)     Salvation Army - Tehachapi | 538 E Tehachapi Blvd, Tehachapi, CA 93561
+ok  [food-assistance] St. Malachy Church (St. Vincent de Paul) -> 407 West E Street, Tehachapi, California 93561, United States [rooftop]
+DUP (within batch)     Free Will Baptist Church Food Pantry | 938 7th St, Wasco, CA 93280

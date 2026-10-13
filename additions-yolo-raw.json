@@ -1,0 +1,783 @@
+{
+  "sites": [
+    {
+      "name": "The Pantry at UC Davis (ASUCD)",
+      "org": "Associated Students, UC Davis (ASUCD)",
+      "address": "Memorial Union, 177 East Quad Ave, Davis, CA 95616",
+      "phone": "",
+      "website": "https://thepantry.ucdavis.edu/",
+      "eligibility": "UC Davis students and staff; valid UC Davis ID required",
+      "category": "college",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open": "10:30",
+          "close": "16:00",
+          "note": ""
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "sat",
+            "sun"
+          ],
+          "open": "12:15",
+          "close": "14:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "The Pantry Mobile Pantry - Student Community Center",
+      "org": "Associated Students, UC Davis (ASUCD)",
+      "address": "Student Community Center, 397 Hutchison Dr, Davis, CA 95616",
+      "phone": "",
+      "website": "https://thepantry.ucdavis.edu/mobile-pantry",
+      "eligibility": "UC Davis students; valid UC Davis ID",
+      "category": "college",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "tue"
+          ],
+          "open": "11:00",
+          "close": "13:00",
+          "note": "Mobile pantry"
+        }
+      ]
+    },
+    {
+      "name": "The Pantry Mobile Pantry - Activities and Recreation Center",
+      "org": "Associated Students, UC Davis (ASUCD)",
+      "address": "Activities and Recreation Center, 760 Orchard Rd, Davis, CA 95616",
+      "phone": "",
+      "website": "https://thepantry.ucdavis.edu/mobile-pantry",
+      "eligibility": "UC Davis students; valid UC Davis ID",
+      "category": "college",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "thu"
+          ],
+          "open": "13:00",
+          "close": "15:00",
+          "note": "Mobile pantry"
+        }
+      ]
+    },
+    {
+      "name": "Aggie Compass Basic Needs Center - Fruit & Veggie Up!",
+      "org": "UC Davis Aggie Compass Basic Needs Center",
+      "address": "East Wing, Memorial Union, Davis, CA 95616",
+      "phone": "530-752-9254",
+      "website": "https://aggiecompass.ucdavis.edu/",
+      "eligibility": "UC Davis students; free fresh produce",
+      "category": "college",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "wed"
+          ],
+          "open": "13:30",
+          "close": "15:30",
+          "note": "Fruit & Veggie Up! produce at Aggie Compass"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "fri"
+          ],
+          "open": "11:00",
+          "close": "13:00",
+          "note": "Produce on East Quad next to Aggie Eats truck"
+        }
+      ]
+    },
+    {
+      "name": "Davis Community Meals",
+      "org": "Davis Community Meals and Housing",
+      "address": "640 Hawthorn Lane, Davis, CA 95616",
+      "phone": "530-753-9204",
+      "website": "https://daviscommunitymeals.org/meals-program/",
+      "eligibility": "Everyone welcome; free hot meals",
+      "category": "meal",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "tue"
+          ],
+          "open": "17:45",
+          "close": "18:30",
+          "note": "Served at St. Martin's Episcopal Church"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "thu"
+          ],
+          "open": "17:30",
+          "close": "18:30",
+          "note": "Served at St. Martin's Episcopal Church"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "sat"
+          ],
+          "open": "11:30",
+          "close": "12:15",
+          "note": "Served at St. Martin's Episcopal Church"
+        }
+      ]
+    },
+    {
+      "name": "Pole Line Road Baptist Church Food Closet",
+      "org": "Pole Line Road Baptist Church",
+      "address": "770 Pole Line Rd, Davis, CA 95618",
+      "phone": "530-753-4315",
+      "website": "https://www.polelinebaptist.org/food-closet/",
+      "eligibility": "Yolo County residents (Davis preferred); bring proof of address; once per month per household",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "thu"
+          ],
+          "open": "09:00",
+          "close": "11:00",
+          "note": "Closed major holidays"
+        }
+      ]
+    },
+    {
+      "name": "Empower Yolo Produce Distribution (Davis)",
+      "org": "Empower Yolo / Yolo Food Bank",
+      "address": "441 D St, Davis, CA 95616",
+      "phone": "530-757-1261",
+      "website": "https://empoweryolo.org/",
+      "eligibility": "Any Yolo County resident; no ID or income proof; walk-up",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "days": [
+            "wed"
+          ],
+          "open": "10:00",
+          "close": "",
+          "note": "2nd and 4th Wednesdays, while supplies last; bring own bags"
+        }
+      ]
+    },
+    {
+      "name": "Woodland Food Closet",
+      "org": "Woodland Food Closet",
+      "address": "420 Grand Ave, Woodland, CA 95695",
+      "phone": "530-662-7020",
+      "website": "https://www.woodlandfoodcloset.org/",
+      "eligibility": "Open to individuals and families; limited to one visit per month per household",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open": "15:00",
+          "close": "16:00",
+          "note": "3 days of groceries per visit"
+        }
+      ]
+    },
+    {
+      "name": "Church on the Rock - The Manna Project",
+      "org": "Church on the Rock Woodland",
+      "address": "630 Cottonwood St, Woodland, CA 95695",
+      "phone": "530-406-8579",
+      "website": "https://www.cotrwoodland.org/manna",
+      "eligibility": "Anyone in need; free, first come first served",
+      "category": "faith",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "thu"
+          ],
+          "open": "09:00",
+          "close": "",
+          "note": "Food giveaway in church lobby, first come first served"
+        }
+      ]
+    },
+    {
+      "name": "Woodland Family Worship Center Distribution",
+      "org": "Woodland Family Worship Center / Yolo Food Bank",
+      "address": "386 W Beamer St, Woodland, CA 95695",
+      "phone": "530-668-0690",
+      "website": "",
+      "eligibility": "Open to community; free produce, dairy, groceries; walk-up",
+      "category": "faith",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "fri"
+          ],
+          "open": "08:00",
+          "close": "",
+          "note": "While supplies last; bring own bags"
+        }
+      ]
+    },
+    {
+      "name": "Salvation Army Woodland Food Pantry",
+      "org": "The Salvation Army Woodland",
+      "address": "413 Main St, Woodland, CA 95695",
+      "phone": "530-661-0141",
+      "website": "https://www.facebook.com/SalvationArmyWoodlandCa/",
+      "eligibility": "Walk-up distribution; USDA commodities, canned and dry goods",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "days": [
+            "wed"
+          ],
+          "open": "13:30",
+          "close": "16:00",
+          "note": "2nd and 4th Wednesdays; may call for appointment outside listed time"
+        }
+      ]
+    },
+    {
+      "name": "Woodland Hispanic Foursquare Church Distribution",
+      "org": "Woodland Hispanic Foursquare Church / Yolo Food Bank",
+      "address": "23 Grand Ave, Woodland, CA 95695",
+      "phone": "530-662-5524",
+      "website": "",
+      "eligibility": "Open to community; groceries; walk-up, bring own bags",
+      "category": "faith",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "days": [
+            "sat"
+          ],
+          "open": "09:00",
+          "close": "",
+          "note": "3rd Saturday of the month"
+        }
+      ]
+    },
+    {
+      "name": "Fourth & Hope (Wayfarer Center)",
+      "org": "Fourth & Hope",
+      "address": "207 4th St, Woodland, CA 95695",
+      "phone": "530-661-1218",
+      "website": "https://fourthandhope.org/programs/",
+      "eligibility": "Anyone in need of a hot meal; free; open to the community",
+      "category": "meal",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+          ],
+          "open": "12:00",
+          "close": "12:30",
+          "note": "Lunch served daily at noon"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+          ],
+          "open": "17:00",
+          "close": "17:30",
+          "note": "Dinner served daily"
+        }
+      ]
+    },
+    {
+      "name": "Woodland United Methodist Church Community Dinner",
+      "org": "Woodland United Methodist Church",
+      "address": "212 2nd St, Woodland, CA 95695",
+      "phone": "530-662-6274",
+      "website": "https://www.umcwoodland.org/",
+      "eligibility": "Open to community; free hot meal",
+      "category": "meal",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "days": [
+            "thu"
+          ],
+          "open": "17:00",
+          "close": "18:00",
+          "note": "Last Thursday of the month (hot community dinner); Personal Care Pantry on 1st Thursday 17:00-18:00"
+        }
+      ]
+    },
+    {
+      "name": "Manna House Food Pantry (Knights Landing UMC)",
+      "org": "Knights Landing Community United Methodist Church",
+      "address": "9493 Mill St, Knights Landing, CA 95645",
+      "phone": "530-735-6227",
+      "website": "",
+      "eligibility": "Open to all; walk-in; three-day supply of food",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "days": [
+            "thu"
+          ],
+          "open": "09:00",
+          "close": "10:30",
+          "note": "1st and 3rd Thursdays"
+        }
+      ]
+    },
+    {
+      "name": "Countryside Community Church Food Closet",
+      "org": "Countryside Community Church",
+      "address": "26479 Grafton St, Esparto, CA 95627",
+      "phone": "530-787-4110",
+      "website": "https://countrysideucc.org/serving-together/community-cupboard/",
+      "eligibility": "Open to community; canned and dry goods",
+      "category": "faith",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "wed"
+          ],
+          "open": "09:00",
+          "close": "12:00",
+          "note": ""
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "fri"
+          ],
+          "open": "15:00",
+          "close": "17:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Calvary Chapel of Zamora Food Pantry",
+      "org": "Calvary Chapel of Zamora",
+      "address": "9974 Main St, Zamora, CA 95698",
+      "phone": "530-402-7002",
+      "website": "https://www.zamoracalvarychapel.org/",
+      "eligibility": "Open to community; canned, dry goods, dairy, produce, bread, meat",
+      "category": "faith",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "days": [
+            "sun"
+          ],
+          "open": "11:00",
+          "close": "12:00",
+          "note": "1st and 3rd Sundays"
+        }
+      ]
+    },
+    {
+      "name": "Winters HHSA Service Center Distribution",
+      "org": "Yolo County HHSA / Yolo Food Bank",
+      "address": "111 E Grant Ave, Winters, CA 95694",
+      "phone": "530-661-2750",
+      "website": "https://www.yolocounty.gov/health-human-services",
+      "eligibility": "Open to community; produce, groceries, canned and dry goods; walk-up",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon"
+          ],
+          "open": "16:00",
+          "close": "18:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Clarksburg Community Church Produce Distribution",
+      "org": "Clarksburg Community Church / Yolo Food Bank",
+      "address": "52910 Netherlands Ave, Clarksburg, CA 95612",
+      "phone": "530-668-0690",
+      "website": "",
+      "eligibility": "Open to community; fruits and vegetables; walk-up",
+      "category": "faith",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "days": [
+            "tue"
+          ],
+          "open": "11:30",
+          "close": "13:00",
+          "note": "1st and 3rd Tuesdays, from 11:30am while supplies last"
+        }
+      ]
+    },
+    {
+      "name": "Health Education Council Friday Produce Distribution",
+      "org": "Health Education Council / Yolo Food Bank",
+      "address": "820 Cummins Way, West Sacramento, CA 95605",
+      "phone": "916-556-3344",
+      "website": "https://healthedcouncil.org/",
+      "eligibility": "Open to community; fruits and vegetables; walk-up (at Elkhorn Village Elementary cafeteria)",
+      "category": "mobile",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "fri"
+          ],
+          "open": "08:15",
+          "close": "09:15",
+          "note": "8:15am community walk, produce distribution follows (~8:45am) at Elkhorn Park"
+        }
+      ]
+    },
+    {
+      "name": "West Sacramento County Building Produce Distribution",
+      "org": "Yolo County / Yolo Food Bank",
+      "address": "500-A Jefferson Blvd, West Sacramento, CA 95605",
+      "phone": "530-668-0690",
+      "website": "",
+      "eligibility": "Open to community; fruits and vegetables; walk-up",
+      "category": "mobile",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "wed"
+          ],
+          "open": "09:00",
+          "close": "10:00",
+          "note": "Fruits and vegetables. Canned/dry goods also 3rd Tuesday 10:00-10:30."
+        }
+      ]
+    },
+    {
+      "name": "Yolo County Children's Alliance Food Distribution",
+      "org": "Yolo County Children's Alliance (YCCA) / Yolo Food Bank",
+      "address": "1200 Anna Street, West Sacramento, CA 95605",
+      "phone": "916-572-0560",
+      "website": "https://www.yolokids.org/west-sacramento-family-resource-center/",
+      "eligibility": "Open to community; fresh produce, dairy, protein, shelf-stable items; walk-up",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "fri"
+          ],
+          "open": "09:00",
+          "close": "",
+          "note": "Serves ~350 families weekly"
+        }
+      ]
+    },
+    {
+      "name": "Shores of Hope Food Closet",
+      "org": "Shores of Hope",
+      "address": "110 6th Street, West Sacramento, CA 95605",
+      "phone": "916-372-0200",
+      "website": "https://www.shoresofhope.org/",
+      "eligibility": "Walk-up; free emergency food bags, pet food and hygiene items",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu"
+          ],
+          "open": "09:00",
+          "close": "15:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Holy Cross St. Vincent de Paul Food Locker",
+      "org": "Holy Cross Parish / St. Vincent de Paul",
+      "address": "1321 Anna St, West Sacramento, CA 95605",
+      "phone": "916-373-3318",
+      "website": "https://www.scd.org/parish/holy-cross-parish-west-sacramento",
+      "eligibility": "West Sacramento residents; pre-packaged perishable and shelf-stable items",
+      "category": "faith",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "wed",
+            "fri"
+          ],
+          "open": "16:00",
+          "close": "17:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "West Sacramento Baptist Church Food Pantry",
+      "org": "West Sacramento Baptist Church",
+      "address": "2124 Michigan Blvd, West Sacramento, CA 95691",
+      "phone": "916-217-0439",
+      "website": "https://westsacbapt.com/",
+      "eligibility": "West Sacramento residents (bring proof of residency)",
+      "category": "faith",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "days": [
+            "wed"
+          ],
+          "open": "16:00",
+          "close": "17:00",
+          "note": "2nd and 4th Wednesdays"
+        }
+      ]
+    },
+    {
+      "name": "Trinity Presbyterian Church Food Pantry",
+      "org": "Trinity Presbyterian Church",
+      "address": "1500 Park Blvd, West Sacramento, CA 95691",
+      "phone": "916-371-5875",
+      "website": "http://www.trinitywestsac.org",
+      "eligibility": "West Sacramento residents; pre-packaged shelf-stable groceries",
+      "category": "faith",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "days": [
+            "thu"
+          ],
+          "open": "18:30",
+          "close": "19:30",
+          "note": "3rd Thursday of the month (Out of the Box Food Pantry)"
+        }
+      ]
+    },
+    {
+      "name": "Recovery Cafe West Sacramento",
+      "org": "Recovery Cafe",
+      "address": "920 Drever St, West Sacramento, CA 95691",
+      "phone": "916-509-3566",
+      "website": "https://www.mosaicwestsac.org/recovery-cafe",
+      "eligibility": "Free hot lunches for members (membership free)",
+      "category": "meal",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat"
+          ],
+          "open": "12:00",
+          "close": "13:30",
+          "note": "Free lunch 12-1:30pm; cafe open weekdays 11:30am-3pm"
+        }
+      ]
+    },
+    {
+      "name": "Our Lady of Grace St. Vincent de Paul Meals",
+      "org": "Our Lady of Grace Parish / St. Vincent de Paul",
+      "address": "1271 W Capitol Avenue, West Sacramento, CA 95691",
+      "phone": "916-371-4814",
+      "website": "http://westsacolg.com/",
+      "eligibility": "Open to community; prepared meals",
+      "category": "meal",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "days": [
+            "sat"
+          ],
+          "open": "10:00",
+          "close": "11:00",
+          "note": "3rd Saturday of the month"
+        }
+      ]
+    },
+    {
+      "name": "Cafe Yolo Social Dining - Woodland Community & Senior Center",
+      "org": "Meals on Wheels Yolo County",
+      "address": "2001 East Street, Woodland, CA 95776",
+      "phone": "530-662-7035",
+      "website": "https://mowyolo.org/nutrition-access/cafe-yolo-social-dining-2/",
+      "eligibility": "Seniors 60+; free congregate meal; reservation requested 24 hrs ahead",
+      "category": "senior",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "wed"
+          ],
+          "open": "11:00",
+          "close": "12:00",
+          "note": "Reservation 24 hrs in advance encouraged"
+        }
+      ]
+    },
+    {
+      "name": "Cafe Yolo Social Dining - Davis Senior Center",
+      "org": "Meals on Wheels Yolo County",
+      "address": "646 A Street, Davis, CA 95616",
+      "phone": "530-662-7035",
+      "website": "https://mowyolo.org/nutrition-access/cafe-yolo-social-dining-2/",
+      "eligibility": "Seniors 60+; free congregate meal; reservation requested 24 hrs ahead",
+      "category": "senior",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "fri"
+          ],
+          "open": "11:00",
+          "close": "12:00",
+          "note": "Reservation 24 hrs in advance encouraged"
+        }
+      ]
+    },
+    {
+      "name": "Cafe Yolo Social Dining - West Sacramento Community Center",
+      "org": "Meals on Wheels Yolo County",
+      "address": "1075 W Capitol Ave, West Sacramento, CA 95691",
+      "phone": "530-662-7035",
+      "website": "https://mowyolo.org/nutrition-access/cafe-yolo-social-dining-2/",
+      "eligibility": "Seniors 60+; free congregate meal; reservation requested 24 hrs ahead",
+      "category": "senior",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "wed"
+          ],
+          "open": "11:00",
+          "close": "12:00",
+          "note": "Reservation 24 hrs in advance encouraged"
+        }
+      ]
+    },
+    {
+      "name": "Cafe Yolo Social Dining - Winters Community Center",
+      "org": "Meals on Wheels Yolo County / Winters Senior Foundation",
+      "address": "201 Railroad Ave, Winters, CA 95694",
+      "phone": "530-662-7035",
+      "website": "https://mowyolo.org/nutrition-access/cafe-yolo-social-dining-2/",
+      "eligibility": "Seniors 60+; free congregate meal; reservation requested 24 hrs ahead",
+      "category": "senior",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "thu"
+          ],
+          "open": "11:30",
+          "close": "12:30",
+          "note": "Reservation 24 hrs in advance encouraged"
+        }
+      ]
+    },
+    {
+      "name": "Cafe Yolo Social Dining - Capay Valley Health & Community Center",
+      "org": "Meals on Wheels Yolo County / RISE, Inc.",
+      "address": "17340 Yolo Ave, Esparto, CA 95627",
+      "phone": "530-662-7035",
+      "website": "https://mowyolo.org/nutrition-access/cafe-yolo-social-dining-2/",
+      "eligibility": "Seniors 60+; free congregate meal; reservation requested 24 hrs ahead",
+      "category": "senior",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "tue",
+            "thu"
+          ],
+          "open": "11:00",
+          "close": "12:00",
+          "note": "Excludes 3rd Thursdays; reservation 24 hrs ahead encouraged"
+        }
+      ]
+    }
+  ]
+}

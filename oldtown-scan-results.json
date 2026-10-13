@@ -1,0 +1,84 @@
+{
+  "_comment": "Raw output of the oldtown-event-scan workflow (9 business website+IG scans). Source for merge-oldtown-scan.mjs.",
+  "results": [
+    {
+      "name": "Fiesta de Reyes",
+      "website": "https://fiestadereyes.com/",
+      "instagram": "fiestadereyes",
+      "events": [
+        {"title": "Dia de los Muertos - La Experiencia", "date": "2026-10-07", "time": "", "description": "A free, family-friendly immersive plaza experience with artful Catrinas, colorful skeletons, altars and marigolds, enhanced by new after-sunset lighting, running daily through November 2.", "source": "https://fiestadereyes.com/dia-de-los-muertos/"},
+        {"title": "Reopening After Private Event", "date": "2026-10-08", "time": "10:00", "description": "Fiesta de Reyes reopens to the public at 10:00 AM after being closed on October 7 for a private event.", "source": "https://fiestadereyes.com/"},
+        {"title": "Mariachi Divinas Live", "date": "2026-10-07", "time": "17:00", "description": "Free live Mariachi Divinas performance on the Fiesta de Reyes stage (recurring Wednesdays and Thursdays).", "source": "https://fiestadereyes.com/live-entertainment-at-fiesta-de-reyes/"},
+        {"title": "Los Trinos Mariachi Fusion & Luis Max and Blue Moon Live", "date": "2026-10-10", "time": "12:15", "description": "Free Saturday live entertainment with Los Trinos Mariachi Fusion (12:15 pm) followed by Luis Max & Blue Moon (5:00 pm) on the Fiesta de Reyes stage.", "source": "https://fiestadereyes.com/live-entertainment-at-fiesta-de-reyes/"},
+        {"title": "Folklorico Dancing & Los Trinos Mariachi Fusion Live", "date": "2026-10-11", "time": "11:30", "description": "Free Sunday entertainment featuring folklorico dancing (11:30 am) and Los Trinos Mariachi Fusion (4:00 pm) on the Fiesta de Reyes stage.", "source": "https://fiestadereyes.com/live-entertainment-at-fiesta-de-reyes/"}
+      ]
+    },
+    {
+      "name": "Casa Guadalajara",
+      "website": "https://www.casaguadalajara.com",
+      "instagram": "casaguadalajara",
+      "events": [
+        {"title": "Dia de los Muertos Celebration", "date": "2026-10-29", "time": "", "description": "Casa Guadalajara (with Bazaar del Mundo) honors departed loved ones with decorated altars, free sugar-skull/face-painting activities, and mariachi performances in skeleton face paint.", "source": "https://bazaardelmundo.com/event/day-of-the-dead/"},
+        {"title": "Dia de los Muertos Celebration", "date": "2026-10-30", "time": "", "description": "Second day of the Day of the Dead festivities at Casa Guadalajara and Bazaar del Mundo, including an Old Town Altar Walk with maps to view decorated altars throughout the neighborhood.", "source": "https://bazaardelmundo.com/event/day-of-the-dead/"}
+      ]
+    },
+    {
+      "name": "Old Town Mexican Cafe",
+      "website": "https://oldtownmexcafe.com",
+      "instagram": "oldtownmexicancafe",
+      "events": []
+    },
+    {
+      "name": "Cafe Coyote",
+      "website": "https://cafecoyoteoldtown.com",
+      "instagram": "cafecoyote",
+      "events": [
+        {"title": "Dia de los Muertos Procession", "date": "2026-11-02", "time": "", "description": "A candlelit procession beginning at Cafe Coyote featuring blessings and Danza Azteca Atlachinolli dances to honor the Day of the Dead.", "source": "https://ma.to/venue/cafecoyoteoldtown"}
+      ]
+    },
+    {
+      "name": "Barra Barra Saloon",
+      "website": "https://barrabarrasaloon.com/",
+      "instagram": "barrabarrasaloon",
+      "events": [
+        {"title": "La Experiencia - Dia de los Muertos at Barra Barra", "date": "2026-11-02", "time": "", "description": "During Fiesta de Reyes' Dia de los Muertos 'La Experiencia' celebration (running through November 2, 2026), the plaza fills with Catrinas, marigolds, altars and glowing displays while Barra Barra serves candlelit house margaritas, tequila flights and dinner.", "source": "https://barrabarrasaloon.com/"}
+      ]
+    },
+    {
+      "name": "Cosmopolitan Hotel & Restaurant",
+      "website": "https://oldtowncosmopolitan.com",
+      "instagram": "oldtowncosmo",
+      "events": [
+        {"title": "Thanksgiving Buffet", "date": "2026-11-26", "time": "", "description": "The Cosmopolitan Hotel & Restaurant hosts a traditional Thanksgiving holiday buffet in its historic Old Town setting.", "source": "https://oldtowncosmopolitan.com/"}
+      ]
+    },
+    {
+      "name": "El Agave Restaurant & Tequileria",
+      "website": "https://elagave.com",
+      "instagram": "elagaverestaurant",
+      "events": []
+    },
+    {
+      "name": "Old Town San Diego State Historic Park",
+      "website": "https://www.parks.ca.gov/oldtownsandiego",
+      "instagram": "oldtownsandiegoshp",
+      "events": [
+        {"title": "Altar Tour", "date": "2026-10-07", "time": "15:30", "description": "Specialized guided tour through park museums exploring the symbolism of Dia de los Muertos altars and the stories of families who lived in Old Town in the 1800s.", "source": "https://www.parks.ca.gov/?page_id=663"},
+        {"title": "Altar Tour", "date": "2026-10-08", "time": "14:00", "description": "Specialized guided tour through park museums exploring the symbolism of Dia de los Muertos altars and the stories of families who lived in Old Town in the 1800s.", "source": "https://www.parks.ca.gov/?page_id=663"},
+        {"title": "Altar Tour", "date": "2026-10-08", "time": "15:30", "description": "Specialized guided tour through park museums exploring the symbolism of Dia de los Muertos altars and the stories of families who lived in Old Town in the 1800s.", "source": "https://www.parks.ca.gov/?page_id=663"},
+        {"title": "Dia de los Muertos Celebration", "date": "2026-10-31", "time": "10:00", "description": "Annual three-day Day of the Dead celebration (Oct 31 - Nov 2, 10 a.m. to 5 p.m. daily) featuring community and historic altars, live entertainment, hands-on art, and cultural programming.", "source": "https://www.parks.ca.gov/?page_id=31340"},
+        {"title": "La Catrina Contest (Children)", "date": "2026-10-31", "time": "15:00", "description": "Children's Catrina costume competition at Plaza de Armas with music, dancing, and prizes for winners.", "source": "https://www.parks.ca.gov/?page_id=31340"},
+        {"title": "La Catrina Contest (Adults)", "date": "2026-11-01", "time": "15:00", "description": "Adults' Catrina costume competition at Plaza de Armas with music, dancing, and prizes for winners.", "source": "https://www.parks.ca.gov/?page_id=31340"},
+        {"title": "Candlelit Procession", "date": "2026-11-02", "time": "18:00", "description": "Annual candlelit procession from Twiggs Street to El Campo Santo Cemetery featuring Aztec dancers, park staff in 1800s period attire, and Catrina Contest winners.", "source": "https://www.parks.ca.gov/?page_id=31340"}
+      ]
+    },
+    {
+      "name": "Heritage County Park",
+      "website": "https://www.sdparks.org/content/sdparks/en/park-pages/Heritage.html",
+      "instagram": "sandiegoparks",
+      "events": [
+        {"title": "Summer Movies in the Park: Practical Magic", "date": "2026-10-23", "time": "17:30", "description": "A free outdoor screening of the romantic fantasy film Practical Magic (PG-13), with pre-show activities at 5:30 PM and the movie starting about 15 minutes after sunset.", "source": "https://www.summermoviesinthepark.com/events/practical-magic-heritage-county-park/"}
+      ]
+    }
+  ]
+}

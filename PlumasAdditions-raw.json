@@ -1,0 +1,96 @@
+{
+  "_meta": {
+    "topic": "Plumas County food distributions",
+    "generated": "2026-10-11",
+    "source": "Hand-collected list (Placer Food Bank/Feeding the Foothills, FBNN, FIND Food Bank, Feeding America Riverside-San Bernardino). Schedules parsed via LA clause parser. lat/lng geocoded downstream.",
+    "note": "Drop-in raw for prepare-food-additions.mjs. Single start-times / \"daily\" / \"on call\"-only route to _deferred."
+  },
+  "sites": [
+    {
+      "name": "Almanor Basin Food Pantry",
+      "org": "Almanor Basin Food Pantry",
+      "address": "386 A Main Street, Chester, CA 96020",
+      "phone": "",
+      "eligibility": "photo ID required",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Sat 10am-12pm (photo ID required)",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Sat",
+            "3rd Sat"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Indian Valley Food Pantry",
+      "org": "Indian Valley Food Pantry",
+      "address": "224 Mill Street, Greenville, CA 95947",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 10am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Eastern Plumas Community Assistance Network (EPCAN)",
+      "org": "Eastern Plumas Community Assistance Network (EPCAN)",
+      "address": "120 Nevada Street, Portola, CA 96122",
+      "phone": "(530) 832-4570",
+      "eligibility": "photo ID required",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Commodities Mon & Wed 9:30-11:30am; perishables Tue & Thu 12:30-2:30pm (photo ID required)",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "open": "09:30",
+          "close": "11:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "open": "12:30",
+          "close": "14:30"
+        }
+      ]
+    },
+    {
+      "name": "Community Assistance Network",
+      "org": "Community Assistance Network",
+      "address": "176 Lawrence Street, Quincy, CA 95971",
+      "phone": "(530) 283-0262",
+      "eligibility": "photo ID required",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Commodities 3rd Tue 10am; perishables 3rd Fri 9:30am (photo ID required)",
+      "schedules": []
+    }
+  ]
+}

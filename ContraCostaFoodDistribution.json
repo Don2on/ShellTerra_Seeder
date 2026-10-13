@@ -1,0 +1,4840 @@
+{
+  "_meta": {
+    "topic": "Net-new ContraCosta County food distributions",
+    "generated": "2026-10-05",
+    "source": "Research supplementing shell PENDING-ContraCosta; raw ./ContraCostaAdditions-raw.json."
+  },
+  "_deferred": {
+    "add-kings-chapel": {
+      "title": "Kings Chapel",
+      "status": "1st Fri by appointment only Phone: 925-756-7315.",
+      "address": "320 Worrell Rd, Antioch, CA 94509",
+      "lat": 37.993093,
+      "lng": -121.799729,
+      "phone": "925-756-7315",
+      "eligibility": "",
+      "sourceUrl": "https://www.foodbankccs.org/find-food/"
+    },
+    "add-power-for-living-ministries": {
+      "title": "Power for Living Ministries",
+      "status": "Fri 12pm Phone: (925) 418-1418.",
+      "address": "6830 Lone Tree Way, Brentwood, CA 94513",
+      "lat": 37.964,
+      "lng": -121.726791,
+      "phone": "(925) 418-1418",
+      "eligibility": "",
+      "sourceUrl": "https://www.foodbankccs.org/find-food/"
+    }
+  },
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "add-agape-international-church-ministries-w4-1300",
+      "seriesSlug": "add-agape-international-church-ministries",
+      "title": "Agape International Church & Ministries — Free Food",
+      "description": "Free food at Agape International Church & Ministries. Schedule: Thu 1 PM–3 PM. Call 925-709-4424 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Agape International Church & Ministries",
+      "address": "605 W Madill St, Antioch, CA 94509",
+      "lat": 38.000841,
+      "lng": -121.815418,
+      "category": "food-assistance",
+      "sourceOrg": "Agape International Church & Ministries",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Thu 1 PM–3 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-amf-food-closet-w34-0900",
+      "seriesSlug": "add-amf-food-closet",
+      "title": "AMF Food Closet — Free Food",
+      "description": "Free food at AMF Food Closet. Schedule: Wed–Thu 9 AM–12 PM. Call 925-757-1672 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "AMF Food Closet",
+      "address": "2507 San Jose Dr, Antioch, CA 94509",
+      "lat": 38.000914,
+      "lng": -121.83762,
+      "category": "food-assistance",
+      "sourceOrg": "AMF Food Closet",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Wed–Thu 9 AM–12 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-antioch-community-center-m2343-0900",
+      "seriesSlug": "add-antioch-community-center",
+      "title": "Antioch Community Center — Free Food",
+      "description": "Free food at Antioch Community Center. Schedule: 2nd Wed & 4th Wed 9 AM–10 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Antioch Community Center",
+      "address": "4703 Lone Tree Way, Antioch, CA 94531",
+      "lat": 37.966165,
+      "lng": -121.773772,
+      "category": "food-assistance",
+      "sourceOrg": "Antioch Community Center",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Wed & 4th Wed 9 AM–10 AM",
+      "start": "2026-10-07T09:00",
+      "end": "2026-10-07T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "2:3,4:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-antioch-covenant-church-gracefully-broken-w2-1100",
+      "seriesSlug": "add-antioch-covenant-church-gracefully-broken",
+      "title": "Antioch Covenant Church - Gracefully Broken — Free Food",
+      "description": "Free food at Antioch Covenant Church - Gracefully Broken. Schedule: Tue 11 AM–1 PM. Call 925-207-6241 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Antioch Covenant Church - Gracefully Broken",
+      "address": "1919 Buchanan Rd, Antioch, CA 94509",
+      "lat": 37.998691,
+      "lng": -121.834306,
+      "category": "food-assistance",
+      "sourceOrg": "Antioch Covenant Church - Gracefully Broken",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Tue 11 AM–1 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-antioch-health-center-m2141-1000",
+      "seriesSlug": "add-antioch-health-center",
+      "title": "Antioch Health Center — Free Food",
+      "description": "Free food at Antioch Health Center. Schedule: 2nd Mon & 4th Mon 10 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Antioch Health Center",
+      "address": "2335 Country Hills Dr, Antioch, CA 94509",
+      "lat": 37.970783,
+      "lng": -121.784488,
+      "category": "food-assistance",
+      "sourceOrg": "Antioch Health Center",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Mon & 4th Mon 10 AM–11 AM",
+      "start": "2026-10-05T10:00",
+      "end": "2026-10-05T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 1
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "2:1,4:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-calfresh-office-ehsd-m1535-1100",
+      "seriesSlug": "add-calfresh-office-ehsd",
+      "title": "CalFresh Office (EHSD) — Free Food",
+      "description": "Free food at CalFresh Office (EHSD). Schedule: 1st Fri & 3rd Fri 11 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "CalFresh Office (EHSD)",
+      "address": "4545 Delta Fair Blvd, Antioch, CA 94509",
+      "lat": 38.004866,
+      "lng": -121.855286,
+      "category": "food-assistance",
+      "sourceOrg": "CalFresh Office (EHSD)",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "1st Fri & 3rd Fri 11 AM–12 PM",
+      "start": "2026-10-09T11:00",
+      "end": "2026-10-09T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "1:5,3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-carmen-dragon-elementary-school-m2646-1200",
+      "seriesSlug": "add-carmen-dragon-elementary-school",
+      "title": "Carmen Dragon Elementary School — Free Food",
+      "description": "Free food at Carmen Dragon Elementary School. Schedule: 2nd Sat & 4th Sat 12 PM–1 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Carmen Dragon Elementary School",
+      "address": "4721 Vista Grande Dr, Antioch, CA 94509",
+      "lat": 37.96578,
+      "lng": -121.75317,
+      "category": "food-assistance",
+      "sourceOrg": "Carmen Dragon Elementary School",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Sat & 4th Sat 12 PM–1 PM",
+      "start": "2026-10-10T12:00",
+      "end": "2026-10-10T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6,4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-chosen-remnant-w5-1200",
+      "seriesSlug": "add-chosen-remnant",
+      "title": "Chosen Remnant — Free Food",
+      "description": "Free food at Chosen Remnant. Schedule: Fri 12 PM–1 PM. Call 925-504-3515 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Chosen Remnant",
+      "address": "2400 Sycamore Dr #29, Antioch, CA 94509",
+      "lat": 38.006427,
+      "lng": -121.832033,
+      "category": "food-assistance",
+      "sourceOrg": "Chosen Remnant",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Fri 12 PM–1 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-contra-costa-event-park-fairgrounds-m12-1000",
+      "seriesSlug": "add-contra-costa-event-park-fairgrounds",
+      "title": "Contra Costa Event Park (Fairgrounds) — Free Food",
+      "description": "Free food at Contra Costa Event Park (Fairgrounds). Schedule: 1st Tue 10 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Contra Costa Event Park (Fairgrounds)",
+      "address": "1201 W 10th St, Antioch, CA 94509",
+      "lat": 38.01098,
+      "lng": -121.82105,
+      "category": "food-assistance",
+      "sourceOrg": "Contra Costa Event Park (Fairgrounds)",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "1st Tue 10 AM–12 PM",
+      "start": "2026-10-06T10:00",
+      "end": "2026-10-06T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "1:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-en-su-habitacion-w4-1130",
+      "seriesSlug": "add-en-su-habitacion",
+      "title": "En Su Habitacion — Free Food",
+      "description": "Free food at En Su Habitacion. Schedule: Thu 11:30 AM–12:30 PM. Call 925-759-0861 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "En Su Habitacion",
+      "address": "2808 Harbour Dr, Antioch, CA 94509",
+      "lat": 37.995712,
+      "lng": -121.79103,
+      "category": "food-assistance",
+      "sourceOrg": "En Su Habitacion",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Thu 11:30 AM–12:30 PM",
+      "start": "2026-09-28T11:30",
+      "end": "2026-09-28T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-first-family-church-w6-0930",
+      "seriesSlug": "add-first-family-church",
+      "title": "First Family Church — Free Food",
+      "description": "Free food at First Family Church. Schedule: Sat 9:30 AM–10:30 AM; 1st Wed & 3rd Wed 9 AM–10 AM. Call 925-706-1238 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "First Family Church",
+      "address": "3195 Contra Loma Blvd, Antioch, CA 94509",
+      "lat": 37.990371,
+      "lng": -121.821662,
+      "category": "food-assistance",
+      "sourceOrg": "First Family Church",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Sat 9:30 AM–10:30 AM; 1st Wed & 3rd Wed 9 AM–10 AM",
+      "start": "2026-09-28T09:30",
+      "end": "2026-09-28T10:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-first-family-church-m1333-0900",
+      "seriesSlug": "add-first-family-church",
+      "title": "First Family Church — Free Food",
+      "description": "Free food at First Family Church. Schedule: Sat 9:30 AM–10:30 AM; 1st Wed & 3rd Wed 9 AM–10 AM. Call 925-706-1238 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "First Family Church",
+      "address": "3195 Contra Loma Blvd, Antioch, CA 94509",
+      "lat": 37.990371,
+      "lng": -121.821662,
+      "category": "food-assistance",
+      "sourceOrg": "First Family Church",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Sat 9:30 AM–10:30 AM; 1st Wed & 3rd Wed 9 AM–10 AM",
+      "start": "2026-10-07T09:00",
+      "end": "2026-10-07T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "1:3,3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-genesis-church-w6-0830",
+      "seriesSlug": "add-genesis-church",
+      "title": "Genesis Church — Free Food",
+      "description": "Free food at Genesis Church. Schedule: Sat 8:30 AM–10 AM. Call 925-304-4474 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Genesis Church",
+      "address": "525 E 18th St, Antioch, CA 94509",
+      "lat": 38.005293,
+      "lng": -121.79516,
+      "category": "food-assistance",
+      "sourceOrg": "Genesis Church",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Sat 8:30 AM–10 AM",
+      "start": "2026-09-28T08:30",
+      "end": "2026-09-28T10:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-grace-closet-w3-1600",
+      "seriesSlug": "add-grace-closet",
+      "title": "Grace Closet — Free Food",
+      "description": "Free food at Grace Closet. Schedule: Wed 4 PM–6 PM; Sat 12 PM–2 PM. Call 925-522-2017 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Grace Closet",
+      "address": "3415 Oakley Rd, Antioch, CA 94509",
+      "lat": 37.998962,
+      "lng": -121.757019,
+      "category": "food-assistance",
+      "sourceOrg": "Grace Closet",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Wed 4 PM–6 PM; Sat 12 PM–2 PM",
+      "start": "2026-09-28T16:00",
+      "end": "2026-09-28T18:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-grace-closet-w6-1200",
+      "seriesSlug": "add-grace-closet",
+      "title": "Grace Closet — Free Food",
+      "description": "Free food at Grace Closet. Schedule: Wed 4 PM–6 PM; Sat 12 PM–2 PM. Call 925-522-2017 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Grace Closet",
+      "address": "3415 Oakley Rd, Antioch, CA 94509",
+      "lat": 37.998962,
+      "lng": -121.757019,
+      "category": "food-assistance",
+      "sourceOrg": "Grace Closet",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Wed 4 PM–6 PM; Sat 12 PM–2 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-grace-temple-cogic-w5-1200",
+      "seriesSlug": "add-grace-temple-cogic",
+      "title": "Grace Temple COGIC — Free Food",
+      "description": "Free food at Grace Temple COGIC. Schedule: Fri 12 PM–1 PM. Call 925-759-8049 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Grace Temple COGIC",
+      "address": "1001 Fitzuren Rd, Antioch, CA 94509",
+      "lat": 37.997372,
+      "lng": -121.820494,
+      "category": "food-assistance",
+      "sourceOrg": "Grace Temple COGIC",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Fri 12 PM–1 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-light-ministries-church-soup-kitchen-w6-0000",
+      "seriesSlug": "add-light-ministries-church-soup-kitchen",
+      "title": "Light Ministries Church Soup Kitchen — Free Food",
+      "description": "Free food at Light Ministries Church Soup Kitchen. Schedule: Sat 12 AM–12:30 PM. Call 925-778-1639 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Light Ministries Church Soup Kitchen",
+      "address": "415 West 6th St, Antioch, CA 94509",
+      "lat": 38.013834,
+      "lng": -121.812129,
+      "category": "food-assistance",
+      "sourceOrg": "Light Ministries Church Soup Kitchen",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Sat 12 AM–12:30 PM",
+      "start": "2026-09-28T00:00",
+      "end": "2026-09-28T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-light-ministries-pantry-w6-1100",
+      "seriesSlug": "add-light-ministries-pantry",
+      "title": "Light Ministries Pantry — Free Food",
+      "description": "Free food at Light Ministries Pantry. Schedule: Sat 11 AM–12 PM. Call 925-778-1639 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Light Ministries Pantry",
+      "address": "415 W 6th St, Antioch, CA 94509",
+      "lat": 38.013834,
+      "lng": -121.812129,
+      "category": "food-assistance",
+      "sourceOrg": "Light Ministries Pantry",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Sat 11 AM–12 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-loaves-and-fishes-at-antioch-senior-center-w3-1030",
+      "seriesSlug": "add-loaves-and-fishes-at-antioch-senior-center",
+      "title": "Loaves and Fishes at Antioch Senior Center — Free Food",
+      "description": "Free food at Loaves and Fishes at Antioch Senior Center. Schedule: Wed 10:30 AM–11 AM. Call 925-293-4792 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Loaves and Fishes at Antioch Senior Center",
+      "address": "415 W 2nd St, Antioch, CA 94509",
+      "lat": 38.01676,
+      "lng": -121.81181,
+      "category": "food-assistance",
+      "sourceOrg": "Loaves and Fishes at Antioch Senior Center",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Wed 10:30 AM–11 AM",
+      "start": "2026-09-28T10:30",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-loaves-and-fishes-at-veterans-memorial-building-w12345-1100",
+      "seriesSlug": "add-loaves-and-fishes-at-veterans-memorial-building",
+      "title": "Loaves and Fishes at Veterans Memorial Building — Free Food",
+      "description": "Free food at Loaves and Fishes at Veterans Memorial Building. Schedule: Mon–Fri 11 AM–12:45 PM. Call 925-293-4792 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Loaves and Fishes at Veterans Memorial Building",
+      "address": "403 W 6th St, Antioch, CA 94509",
+      "lat": 38.013868,
+      "lng": -121.811568,
+      "category": "food-assistance",
+      "sourceOrg": "Loaves and Fishes at Veterans Memorial Building",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Mon–Fri 11 AM–12:45 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T12:45",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-mahogany-way-kindercare-m2444-1600",
+      "seriesSlug": "add-mahogany-way-kindercare",
+      "title": "Mahogany Way KinderCare — Free Food",
+      "description": "Free food at Mahogany Way KinderCare. Schedule: 2nd Thu & 4th Thu 4 PM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Mahogany Way KinderCare",
+      "address": "2300 Mahogany Way, Antioch, CA 94590",
+      "lat": 38.003081,
+      "lng": -121.832275,
+      "category": "food-assistance",
+      "sourceOrg": "Mahogany Way KinderCare",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Thu & 4th Thu 4 PM–5 PM",
+      "start": "2026-10-08T16:00",
+      "end": "2026-10-08T17:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "2:4,4:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-marsh-elementary-school-m2646-1400",
+      "seriesSlug": "add-marsh-elementary-school",
+      "title": "Marsh Elementary School — Free Food",
+      "description": "Free food at Marsh Elementary School. Schedule: 2nd Sat & 4th Sat 2 PM–3 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Marsh Elementary School",
+      "address": "2304 G St, Antioch, CA 94509",
+      "lat": 38.00026,
+      "lng": -121.81564,
+      "category": "food-assistance",
+      "sourceOrg": "Marsh Elementary School",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Sat & 4th Sat 2 PM–3 PM",
+      "start": "2026-10-10T14:00",
+      "end": "2026-10-10T15:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6,4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-mission-elementary-school-m2343-1600",
+      "seriesSlug": "add-mission-elementary-school",
+      "title": "Mission Elementary School — Free Food",
+      "description": "Free food at Mission Elementary School. Schedule: 2nd Wed & 4th Wed 4 PM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Mission Elementary School",
+      "address": "1711 Mission Dr, Antioch, CA 94509",
+      "lat": 37.996742,
+      "lng": -121.832136,
+      "category": "food-assistance",
+      "sourceOrg": "Mission Elementary School",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Wed & 4th Wed 4 PM–5 PM",
+      "start": "2026-10-07T16:00",
+      "end": "2026-10-07T17:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "2:3,4:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-most-holy-rosary-catholic-church-m1535-1330",
+      "seriesSlug": "add-most-holy-rosary-catholic-church",
+      "title": "Most Holy Rosary Catholic Church — Free Food",
+      "description": "Free food at Most Holy Rosary Catholic Church. Schedule: 1st Fri & 3rd Fri 1:30 PM–2:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Most Holy Rosary Catholic Church",
+      "address": "1313 A St, Antioch, CA 94509",
+      "lat": 38.008294,
+      "lng": -121.805601,
+      "category": "food-assistance",
+      "sourceOrg": "Most Holy Rosary Catholic Church",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "1st Fri & 3rd Fri 1:30 PM–2:30 PM",
+      "start": "2026-10-09T13:30",
+      "end": "2026-10-09T14:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "1:5,3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-rivertown-veterans-thrift-store-resource-center-w3-1030",
+      "seriesSlug": "add-rivertown-veterans-thrift-store-resource-center",
+      "title": "Rivertown Veterans Thrift Store & Resource Center — Free Food",
+      "description": "Free food at Rivertown Veterans Thrift Store & Resource Center. Schedule: Wed 10:30 AM–12 PM. Call 925-206-4976 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Rivertown Veterans Thrift Store & Resource Center",
+      "address": "3646 Lone Tree Way, Antioch, CA 94509",
+      "lat": 37.984983,
+      "lng": -121.806452,
+      "category": "food-assistance",
+      "sourceOrg": "Rivertown Veterans Thrift Store & Resource Center",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Wed 10:30 AM–12 PM",
+      "start": "2026-09-28T10:30",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-showers-of-blessings-w135-1800",
+      "seriesSlug": "add-showers-of-blessings",
+      "title": "Showers of Blessings — Free Food",
+      "description": "Free food at Showers of Blessings. Schedule: Mon, Wed, Fri 6 PM–7:30 PM. Call 510-736-8477 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Showers of Blessings",
+      "address": "2220 A St, Antioch, CA 94509",
+      "lat": 38.001132,
+      "lng": -121.806229,
+      "category": "food-assistance",
+      "sourceOrg": "Showers of Blessings",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Mon, Wed, Fri 6 PM–7:30 PM",
+      "start": "2026-09-28T18:00",
+      "end": "2026-09-28T19:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-ignatius-of-antioch-m1535-1530",
+      "seriesSlug": "add-st-ignatius-of-antioch",
+      "title": "St. Ignatius of Antioch — Free Food",
+      "description": "Free food at St. Ignatius of Antioch. Schedule: 1st Fri & 3rd Fri 3:30 PM–4:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Ignatius of Antioch",
+      "address": "3351 Contra Loma Blvd, Antioch, CA 94509",
+      "lat": 37.98726,
+      "lng": -121.823337,
+      "category": "food-assistance",
+      "sourceOrg": "St. Ignatius of Antioch",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "1st Fri & 3rd Fri 3:30 PM–4:30 PM",
+      "start": "2026-10-09T15:30",
+      "end": "2026-10-09T16:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "1:5,3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-templo-santo-community-church-m2646-1000",
+      "seriesSlug": "add-templo-santo-community-church",
+      "title": "Templo Santo Community Church — Free Food",
+      "description": "Free food at Templo Santo Community Church. Schedule: 2nd Sat & 4th Sat 10 AM–11 AM; 2nd Thu & 4th Thu 10 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Templo Santo Community Church",
+      "address": "201 E 18th St, Antioch, CA 94509",
+      "lat": 38.005336,
+      "lng": -121.80018,
+      "category": "food-assistance",
+      "sourceOrg": "Templo Santo Community Church",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Sat & 4th Sat 10 AM–11 AM; 2nd Thu & 4th Thu 10 AM–11 AM",
+      "start": "2026-10-10T10:00",
+      "end": "2026-10-10T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6,4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-templo-santo-community-church-m2444-1000",
+      "seriesSlug": "add-templo-santo-community-church",
+      "title": "Templo Santo Community Church — Free Food",
+      "description": "Free food at Templo Santo Community Church. Schedule: 2nd Sat & 4th Sat 10 AM–11 AM; 2nd Thu & 4th Thu 10 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Templo Santo Community Church",
+      "address": "201 E 18th St, Antioch, CA 94509",
+      "lat": 38.005336,
+      "lng": -121.80018,
+      "category": "food-assistance",
+      "sourceOrg": "Templo Santo Community Church",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Sat & 4th Sat 10 AM–11 AM; 2nd Thu & 4th Thu 10 AM–11 AM",
+      "start": "2026-10-08T10:00",
+      "end": "2026-10-08T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "2:4,4:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-landing-place-m2343-1200",
+      "seriesSlug": "add-the-landing-place",
+      "title": "The Landing Place — Free Food",
+      "description": "Free food at The Landing Place. Schedule: 2nd Wed & 4th Wed 12 PM–1 PM; Wed 9:30 AM–10:45 AM. Call 925-513-5180 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Landing Place",
+      "address": "620 E Tregallas Rd, Antioch, CA 94509",
+      "lat": 37.997038,
+      "lng": -121.794676,
+      "category": "food-assistance",
+      "sourceOrg": "The Landing Place",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Wed & 4th Wed 12 PM–1 PM; Wed 9:30 AM–10:45 AM",
+      "start": "2026-10-07T12:00",
+      "end": "2026-10-07T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "2:3,4:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-landing-place-w3-0930",
+      "seriesSlug": "add-the-landing-place",
+      "title": "The Landing Place — Free Food",
+      "description": "Free food at The Landing Place. Schedule: 2nd Wed & 4th Wed 12 PM–1 PM; Wed 9:30 AM–10:45 AM. Call 925-513-5180 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Landing Place",
+      "address": "620 E Tregallas Rd, Antioch, CA 94509",
+      "lat": 37.997038,
+      "lng": -121.794676,
+      "category": "food-assistance",
+      "sourceOrg": "The Landing Place",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Wed & 4th Wed 12 PM–1 PM; Wed 9:30 AM–10:45 AM",
+      "start": "2026-09-28T09:30",
+      "end": "2026-09-28T10:45",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-most-holy-rosary-church-svdp-w234-0900",
+      "seriesSlug": "add-the-most-holy-rosary-church-svdp",
+      "title": "The Most Holy Rosary Church (SVdP) — Free Food",
+      "description": "Free food at The Most Holy Rosary Church (SVdP). Schedule: Tue–Thu 9 AM–10 AM. Call 925-757-0941 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Most Holy Rosary Church (SVdP)",
+      "address": "21 E 15th St, Antioch, CA 94509",
+      "lat": 38.007511,
+      "lng": -121.804991,
+      "category": "food-assistance",
+      "sourceOrg": "The Most Holy Rosary Church (SVdP)",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Tue–Thu 9 AM–10 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T10:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-reach-church-m2343-1400",
+      "seriesSlug": "add-the-reach-church",
+      "title": "The Reach Church — Free Food",
+      "description": "Free food at The Reach Church. Schedule: 2nd Wed & 4th Wed 2 PM–3 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Reach Church",
+      "address": "11 Texas St, Antioch, CA 94509",
+      "lat": 37.999189,
+      "lng": -121.806696,
+      "category": "food-assistance",
+      "sourceOrg": "The Reach Church",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Wed & 4th Wed 2 PM–3 PM",
+      "start": "2026-10-07T14:00",
+      "end": "2026-10-07T15:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "2:3,4:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-visions-christian-center-w4-1100",
+      "seriesSlug": "add-visions-christian-center",
+      "title": "Visions Christian Center — Free Food",
+      "description": "Free food at Visions Christian Center. Schedule: Thu 11 AM–12 PM. Call 925-777-0290 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Visions Christian Center",
+      "address": "330 Worrell Rd, Antioch, CA 94509",
+      "lat": 37.9938,
+      "lng": -121.79919,
+      "category": "food-assistance",
+      "sourceOrg": "Visions Christian Center",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Thu 11 AM–12 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-west-river-town-apartments-m2747-1430",
+      "seriesSlug": "add-west-river-town-apartments",
+      "title": "West River Town Apartments — Free Food",
+      "description": "Free food at West River Town Apartments. Schedule: 2nd Sun & 4th Sun 2:30 PM–3:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "West River Town Apartments",
+      "address": "811 W 4th St, Antioch, CA 94509",
+      "lat": 38.015328,
+      "lng": -121.817019,
+      "category": "food-assistance",
+      "sourceOrg": "West River Town Apartments",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Sun & 4th Sun 2:30 PM–3:30 PM",
+      "start": "2026-10-11T14:30",
+      "end": "2026-10-11T15:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 7
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 7
+          }
+        ]
+      },
+      "recurDays": "2:7,4:7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-ambrose-community-center-m1434-1600",
+      "seriesSlug": "add-ambrose-community-center",
+      "title": "Ambrose Community Center — Free Food",
+      "description": "Free food at Ambrose Community Center. Schedule: 1st Thu & 3rd Thu 4 PM–5 PM; 2nd Wed 10 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Ambrose Community Center",
+      "address": "3105 Willow Pass Rd, Bay Point, CA 94565",
+      "lat": 38.026243,
+      "lng": -121.949173,
+      "category": "food-assistance",
+      "sourceOrg": "Ambrose Community Center",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "1st Thu & 3rd Thu 4 PM–5 PM; 2nd Wed 10 AM–12 PM",
+      "start": "2026-10-08T16:00",
+      "end": "2026-10-08T17:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4,3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-ambrose-community-center-m23-1000",
+      "seriesSlug": "add-ambrose-community-center",
+      "title": "Ambrose Community Center — Free Food",
+      "description": "Free food at Ambrose Community Center. Schedule: 1st Thu & 3rd Thu 4 PM–5 PM; 2nd Wed 10 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Ambrose Community Center",
+      "address": "3105 Willow Pass Rd, Bay Point, CA 94565",
+      "lat": 38.026243,
+      "lng": -121.949173,
+      "category": "food-assistance",
+      "sourceOrg": "Ambrose Community Center",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "1st Thu & 3rd Thu 4 PM–5 PM; 2nd Wed 10 AM–12 PM",
+      "start": "2026-10-07T10:00",
+      "end": "2026-10-07T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "2:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-delta-baptist-church-w2-1300",
+      "seriesSlug": "add-delta-baptist-church",
+      "title": "Delta Baptist Church — Free Food",
+      "description": "Free food at Delta Baptist Church. Schedule: Tue 1 PM–2 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Delta Baptist Church",
+      "address": "500 Pacifica Ave, Bay Point, CA 94565",
+      "lat": 38.03471,
+      "lng": -121.97511,
+      "category": "food-assistance",
+      "sourceOrg": "Delta Baptist Church",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Tue 1 PM–2 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-first-ame-community-church-m2444-0900",
+      "seriesSlug": "add-first-ame-community-church",
+      "title": "First AME Community Church — Free Food",
+      "description": "Free food at First AME Community Church. Schedule: 2nd Thu & 4th Thu 9 AM–10 AM; Thu 10:30 AM–11:30 AM. Call 925-293-4792 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "First AME Community Church",
+      "address": "2915 Willow Pass Rd, Bay Point, CA 94565",
+      "lat": 38.026339,
+      "lng": -121.946538,
+      "category": "food-assistance",
+      "sourceOrg": "First AME Community Church",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Thu & 4th Thu 9 AM–10 AM; Thu 10:30 AM–11:30 AM",
+      "start": "2026-10-08T09:00",
+      "end": "2026-10-08T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "2:4,4:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-first-ame-community-church-w4-1030",
+      "seriesSlug": "add-first-ame-community-church",
+      "title": "First AME Community Church — Free Food",
+      "description": "Free food at First AME Community Church. Schedule: 2nd Thu & 4th Thu 9 AM–10 AM; Thu 10:30 AM–11:30 AM. Call 925-293-4792 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "First AME Community Church",
+      "address": "2915 Willow Pass Rd, Bay Point, CA 94565",
+      "lat": 38.026339,
+      "lng": -121.946538,
+      "category": "food-assistance",
+      "sourceOrg": "First AME Community Church",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Thu & 4th Thu 9 AM–10 AM; Thu 10:30 AM–11:30 AM",
+      "start": "2026-09-28T10:30",
+      "end": "2026-09-28T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-loaves-and-fishes-at-west-pittsburg-community-ch-w2-1100",
+      "seriesSlug": "add-loaves-and-fishes-at-west-pittsburg-community-ch",
+      "title": "Loaves and Fishes at West Pittsburg Community Church — Free Food",
+      "description": "Free food at Loaves and Fishes at West Pittsburg Community Church. Schedule: Tue 11 AM–12:30 PM. Call 510-619-8039 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Loaves and Fishes at West Pittsburg Community Church",
+      "address": "204 Bailey Rd, Bay Point, CA 94565",
+      "lat": 38.021693,
+      "lng": -121.942238,
+      "category": "food-assistance",
+      "sourceOrg": "Loaves and Fishes at West Pittsburg Community Church",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Tue 11 AM–12:30 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-queen-of-the-world-svdp-w3-1100",
+      "seriesSlug": "add-queen-of-the-world-svdp",
+      "title": "Queen of the World (SVdP) — Free Food",
+      "description": "Free food at Queen of the World (SVdP). Schedule: Wed 11 AM–12 PM. Call 925-458-4718 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Queen of the World (SVdP)",
+      "address": "3155 Winterbrook Dr, Bay Point, CA 94565",
+      "lat": 38.021454,
+      "lng": -121.949805,
+      "category": "food-assistance",
+      "sourceOrg": "Queen of the World (SVdP)",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Wed 11 AM–12 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-rio-vista-elementary-school-m1232-1600",
+      "seriesSlug": "add-rio-vista-elementary-school",
+      "title": "Rio Vista Elementary School — Free Food",
+      "description": "Free food at Rio Vista Elementary School. Schedule: 1st Tue & 3rd Tue 4 PM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Rio Vista Elementary School",
+      "address": "611 Pacifica Ave, Bay Point, CA 94565",
+      "lat": 38.03365,
+      "lng": -121.975,
+      "category": "food-assistance",
+      "sourceOrg": "Rio Vista Elementary School",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "1st Tue & 3rd Tue 4 PM–5 PM",
+      "start": "2026-10-06T16:00",
+      "end": "2026-10-06T17:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 2
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "1:2,3:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-family-worship-center-w2-1100",
+      "seriesSlug": "add-family-worship-center",
+      "title": "Family Worship Center — Free Food",
+      "description": "Free food at Family Worship Center. Schedule: Tue 11 AM–12 PM. Call 925-250-7941 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Family Worship Center",
+      "address": "1200 Taylor Rd, Bethel Island, CA 94511",
+      "lat": 38.035741,
+      "lng": -121.671221,
+      "category": "food-assistance",
+      "sourceOrg": "Family Worship Center",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Tue 11 AM–12 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-new-covenant-church-w2-1030",
+      "seriesSlug": "add-new-covenant-church",
+      "title": "New Covenant Church — Free Food",
+      "description": "Free food at New Covenant Church. Schedule: Tue 10:30 AM–11:15 AM; 1st Sun & 3rd Sun 1 PM–2 PM; Thu 4 PM–5:30 PM. Call 925-634-6625 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "New Covenant Church",
+      "address": "6080 Bethel Island Rd, Bethel Island, CA 94511",
+      "lat": 38.01344,
+      "lng": -121.64033,
+      "category": "food-assistance",
+      "sourceOrg": "New Covenant Church",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Tue 10:30 AM–11:15 AM; 1st Sun & 3rd Sun 1 PM–2 PM; Thu 4 PM–5:30 PM",
+      "start": "2026-09-28T10:30",
+      "end": "2026-09-28T11:15",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-new-covenant-church-m1737-1300",
+      "seriesSlug": "add-new-covenant-church",
+      "title": "New Covenant Church — Free Food",
+      "description": "Free food at New Covenant Church. Schedule: Tue 10:30 AM–11:15 AM; 1st Sun & 3rd Sun 1 PM–2 PM; Thu 4 PM–5:30 PM. Call 925-634-6625 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "New Covenant Church",
+      "address": "6080 Bethel Island Rd, Bethel Island, CA 94511",
+      "lat": 38.01344,
+      "lng": -121.64033,
+      "category": "food-assistance",
+      "sourceOrg": "New Covenant Church",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Tue 10:30 AM–11:15 AM; 1st Sun & 3rd Sun 1 PM–2 PM; Thu 4 PM–5:30 PM",
+      "start": "2026-10-11T13:00",
+      "end": "2026-10-11T14:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 7
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 7
+          }
+        ]
+      },
+      "recurDays": "1:7,3:7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-new-covenant-church-w4-1600",
+      "seriesSlug": "add-new-covenant-church",
+      "title": "New Covenant Church — Free Food",
+      "description": "Free food at New Covenant Church. Schedule: Tue 10:30 AM–11:15 AM; 1st Sun & 3rd Sun 1 PM–2 PM; Thu 4 PM–5:30 PM. Call 925-634-6625 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "New Covenant Church",
+      "address": "6080 Bethel Island Rd, Bethel Island, CA 94511",
+      "lat": 38.01344,
+      "lng": -121.64033,
+      "category": "food-assistance",
+      "sourceOrg": "New Covenant Church",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Tue 10:30 AM–11:15 AM; 1st Sun & 3rd Sun 1 PM–2 PM; Thu 4 PM–5:30 PM",
+      "start": "2026-09-28T16:00",
+      "end": "2026-09-28T17:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-brentwood-community-united-methodist-church-m2242-1600",
+      "seriesSlug": "add-brentwood-community-united-methodist-church",
+      "title": "Brentwood Community United Methodist Church — Free Food",
+      "description": "Free food at Brentwood Community United Methodist Church. Schedule: 2nd Tue & 4th Tue 4 PM–5 PM; Mon, Wed 9 AM–11:30 AM. Call 925-382-9967 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Brentwood Community United Methodist Church",
+      "address": "218 Pine St, Brentwood, CA 94513",
+      "lat": 37.934931,
+      "lng": -121.695916,
+      "category": "food-assistance",
+      "sourceOrg": "Brentwood Community United Methodist Church",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Tue & 4th Tue 4 PM–5 PM; Mon, Wed 9 AM–11:30 AM",
+      "start": "2026-10-06T16:00",
+      "end": "2026-10-06T17:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 2
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "2:2,4:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-brentwood-community-united-methodist-church-w13-0900",
+      "seriesSlug": "add-brentwood-community-united-methodist-church",
+      "title": "Brentwood Community United Methodist Church — Free Food",
+      "description": "Free food at Brentwood Community United Methodist Church. Schedule: 2nd Tue & 4th Tue 4 PM–5 PM; Mon, Wed 9 AM–11:30 AM. Call 925-382-9967 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Brentwood Community United Methodist Church",
+      "address": "218 Pine St, Brentwood, CA 94513",
+      "lat": 37.934931,
+      "lng": -121.695916,
+      "category": "food-assistance",
+      "sourceOrg": "Brentwood Community United Methodist Church",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Tue & 4th Tue 4 PM–5 PM; Mon, Wed 9 AM–11:30 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-brentwood-senior-center-m2444-1000",
+      "seriesSlug": "add-brentwood-senior-center",
+      "title": "Brentwood Senior Center — Free Food",
+      "description": "Free food at Brentwood Senior Center. Schedule: 2nd Thu & 4th Thu 10 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Brentwood Senior Center",
+      "address": "193 Griffith Ln, Brentwood, CA 94513",
+      "lat": 37.925964,
+      "lng": -121.70593,
+      "category": "food-assistance",
+      "sourceOrg": "Brentwood Senior Center",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Thu & 4th Thu 10 AM–11 AM",
+      "start": "2026-10-08T10:00",
+      "end": "2026-10-08T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "2:4,4:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-immaculate-heart-of-mary-church-m2242-1200",
+      "seriesSlug": "add-immaculate-heart-of-mary-church",
+      "title": "Immaculate Heart of Mary Church — Free Food",
+      "description": "Free food at Immaculate Heart of Mary Church. Schedule: 2nd Tue & 4th Tue 12 PM–1 PM; Fri 11 AM–12 PM. Call 925-676-7543 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Immaculate Heart of Mary Church",
+      "address": "500 Fairview Ave, Brentwood, CA 94513",
+      "lat": 37.93349,
+      "lng": -121.72251,
+      "category": "food-assistance",
+      "sourceOrg": "Immaculate Heart of Mary Church",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Tue & 4th Tue 12 PM–1 PM; Fri 11 AM–12 PM",
+      "start": "2026-10-06T12:00",
+      "end": "2026-10-06T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 2
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "2:2,4:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-immaculate-heart-of-mary-church-w5-1100",
+      "seriesSlug": "add-immaculate-heart-of-mary-church",
+      "title": "Immaculate Heart of Mary Church — Free Food",
+      "description": "Free food at Immaculate Heart of Mary Church. Schedule: 2nd Tue & 4th Tue 12 PM–1 PM; Fri 11 AM–12 PM. Call 925-676-7543 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Immaculate Heart of Mary Church",
+      "address": "500 Fairview Ave, Brentwood, CA 94513",
+      "lat": 37.93349,
+      "lng": -121.72251,
+      "category": "food-assistance",
+      "sourceOrg": "Immaculate Heart of Mary Church",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Tue & 4th Tue 12 PM–1 PM; Fri 11 AM–12 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-seed-of-faith-church-m2646-1000",
+      "seriesSlug": "add-seed-of-faith-church",
+      "title": "Seed of Faith Church — Free Food",
+      "description": "Free food at Seed of Faith Church. Schedule: 2nd Sat & 4th Sat 10 AM–11 AM. Call 925-513-2970 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Seed of Faith Church",
+      "address": "605 Harvest Park Dr, Brentwood, CA 94513",
+      "lat": 37.924847,
+      "lng": -121.685328,
+      "category": "food-assistance",
+      "sourceOrg": "Seed of Faith Church",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Sat & 4th Sat 10 AM–11 AM",
+      "start": "2026-10-10T10:00",
+      "end": "2026-10-10T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6,4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-support-life-foundation-brentwood-w5-1030",
+      "seriesSlug": "add-support-life-foundation-brentwood",
+      "title": "Support Life Foundation Brentwood — Free Food",
+      "description": "Free food at Support Life Foundation Brentwood. Schedule: Fri 10:30 AM–11:15 AM. Call 510-541-6293 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Support Life Foundation Brentwood",
+      "address": "7701 Lone Tree Way, Brentwood, CA 94513",
+      "lat": 37.961188,
+      "lng": -121.710498,
+      "category": "food-assistance",
+      "sourceOrg": "Support Life Foundation Brentwood",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Fri 10:30 AM–11:15 AM",
+      "start": "2026-09-28T10:30",
+      "end": "2026-09-28T11:15",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-dwelling-place-church-m1737-1500",
+      "seriesSlug": "add-the-dwelling-place-church",
+      "title": "The Dwelling Place Church — Free Food",
+      "description": "Free food at The Dwelling Place Church. Schedule: 1st Sun & 3rd Sun 3 PM–4 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Dwelling Place Church",
+      "address": "90 Village Dr, Brentwood, CA 94513",
+      "lat": 37.94099,
+      "lng": -121.69555,
+      "category": "food-assistance",
+      "sourceOrg": "The Dwelling Place Church",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "1st Sun & 3rd Sun 3 PM–4 PM",
+      "start": "2026-10-11T15:00",
+      "end": "2026-10-11T16:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 7
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 7
+          }
+        ]
+      },
+      "recurDays": "1:7,3:7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-delta-christian-community-food-pantry-byron-w2-0830",
+      "seriesSlug": "add-delta-christian-community-food-pantry-byron",
+      "title": "Delta Christian Community Food Pantry - Byron — Free Food",
+      "description": "Free food at Delta Christian Community Food Pantry - Byron. Schedule: Tue 8:30 AM–9:15 AM. Call 925-634-6625 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Delta Christian Community Food Pantry - Byron",
+      "address": "2800 Camino Diablo, Byron, CA 94514",
+      "lat": 37.866301,
+      "lng": -121.645925,
+      "category": "food-assistance",
+      "sourceOrg": "Delta Christian Community Food Pantry - Byron",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Tue 8:30 AM–9:15 AM",
+      "start": "2026-09-28T08:30",
+      "end": "2026-09-28T09:15",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-cambridge-elementary-school-m1636-1200",
+      "seriesSlug": "add-cambridge-elementary-school",
+      "title": "Cambridge Elementary School — Free Food",
+      "description": "Free food at Cambridge Elementary School. Schedule: 1st Sat & 3rd Sat 12 PM–1 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Cambridge Elementary School",
+      "address": "1135 Lacey Ln, Concord, CA 94520",
+      "lat": 37.95446,
+      "lng": -122.04526,
+      "category": "food-assistance",
+      "sourceOrg": "Cambridge Elementary School",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "1st Sat & 3rd Sat 12 PM–1 PM",
+      "start": "2026-10-10T12:00",
+      "end": "2026-10-10T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "1:6,3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-concord-international-seventh-day-adventist-w4-1700",
+      "seriesSlug": "add-concord-international-seventh-day-adventist",
+      "title": "Concord International Seventh-day Adventist — Free Food",
+      "description": "Free food at Concord International Seventh-day Adventist. Schedule: Thu 5 PM–6:30 PM. Call 925-349-9298 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Concord International Seventh-day Adventist",
+      "address": "1655 West St, Concord, CA 94521",
+      "lat": 37.973806,
+      "lng": -121.99596,
+      "category": "food-assistance",
+      "sourceOrg": "Concord International Seventh-day Adventist",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Thu 5 PM–6:30 PM",
+      "start": "2026-09-28T17:00",
+      "end": "2026-09-28T18:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-concord-senior-center-m1434-0930",
+      "seriesSlug": "add-concord-senior-center",
+      "title": "Concord Senior Center — Free Food",
+      "description": "Free food at Concord Senior Center. Schedule: 1st Thu & 3rd Thu 9:30 AM–10:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Concord Senior Center",
+      "address": "2727 Parkside Circle, Concord, CA 94519",
+      "lat": 37.983081,
+      "lng": -122.029353,
+      "category": "food-assistance",
+      "sourceOrg": "Concord Senior Center",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "1st Thu & 3rd Thu 9:30 AM–10:30 AM",
+      "start": "2026-10-08T09:30",
+      "end": "2026-10-08T10:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4,3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-good-shepherd-lutheran-church-m1434-0900",
+      "seriesSlug": "add-good-shepherd-lutheran-church",
+      "title": "Good Shepherd Lutheran Church — Free Food",
+      "description": "Free food at Good Shepherd Lutheran Church. Schedule: 1st Thu & 3rd Thu 9 AM–10 AM; Mon–Wed, Fri 10:30 AM–12:30 PM. Call 925-768-9087 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Good Shepherd Lutheran Church",
+      "address": "4000 Clayton Rd, Concord, CA 94521",
+      "lat": 37.96686,
+      "lng": -122.00073,
+      "category": "food-assistance",
+      "sourceOrg": "Good Shepherd Lutheran Church",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "1st Thu & 3rd Thu 9 AM–10 AM; Mon–Wed, Fri 10:30 AM–12:30 PM",
+      "start": "2026-10-08T09:00",
+      "end": "2026-10-08T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4,3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-good-shepherd-lutheran-church-w1235-1030",
+      "seriesSlug": "add-good-shepherd-lutheran-church",
+      "title": "Good Shepherd Lutheran Church — Free Food",
+      "description": "Free food at Good Shepherd Lutheran Church. Schedule: 1st Thu & 3rd Thu 9 AM–10 AM; Mon–Wed, Fri 10:30 AM–12:30 PM. Call 925-768-9087 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Good Shepherd Lutheran Church",
+      "address": "4000 Clayton Rd, Concord, CA 94521",
+      "lat": 37.96686,
+      "lng": -122.00073,
+      "category": "food-assistance",
+      "sourceOrg": "Good Shepherd Lutheran Church",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "1st Thu & 3rd Thu 9 AM–10 AM; Mon–Wed, Fri 10:30 AM–12:30 PM",
+      "start": "2026-09-28T10:30",
+      "end": "2026-09-28T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-la-clinica-monument-m2747-1000",
+      "seriesSlug": "add-la-clinica-monument",
+      "title": "La Clinica Monument — Free Food",
+      "description": "Free food at La Clinica Monument. Schedule: 2nd Sun & 4th Sun 10 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "La Clinica Monument",
+      "address": "2000 Sierra Rd, Concord, CA 94518",
+      "lat": 37.952185,
+      "lng": -122.036795,
+      "category": "food-assistance",
+      "sourceOrg": "La Clinica Monument",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Sun & 4th Sun 10 AM–11 AM",
+      "start": "2026-10-11T10:00",
+      "end": "2026-10-11T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 7
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 7
+          }
+        ]
+      },
+      "recurDays": "2:7,4:7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-monument-crisis-center-m2141-1400",
+      "seriesSlug": "add-monument-crisis-center",
+      "title": "Monument Crisis Center — Free Food",
+      "description": "Free food at Monument Crisis Center. Schedule: 2nd Mon & 4th Mon 2 PM–3 PM; Mon–Wed 9 AM–12 PM. Call 925-825-7751 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Monument Crisis Center",
+      "address": "1990 Market St, Concord, CA 94520",
+      "lat": 37.975693,
+      "lng": -122.042935,
+      "category": "food-assistance",
+      "sourceOrg": "Monument Crisis Center",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Mon & 4th Mon 2 PM–3 PM; Mon–Wed 9 AM–12 PM",
+      "start": "2026-10-05T14:00",
+      "end": "2026-10-05T15:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 1
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "2:1,4:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-monument-crisis-center-w123-0900",
+      "seriesSlug": "add-monument-crisis-center",
+      "title": "Monument Crisis Center — Free Food",
+      "description": "Free food at Monument Crisis Center. Schedule: 2nd Mon & 4th Mon 2 PM–3 PM; Mon–Wed 9 AM–12 PM. Call 925-825-7751 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Monument Crisis Center",
+      "address": "1990 Market St, Concord, CA 94520",
+      "lat": 37.975693,
+      "lng": -122.042935,
+      "category": "food-assistance",
+      "sourceOrg": "Monument Crisis Center",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Mon & 4th Mon 2 PM–3 PM; Mon–Wed 9 AM–12 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-mt-diablo-adult-education-loma-vista-m1434-1400",
+      "seriesSlug": "add-mt-diablo-adult-education-loma-vista",
+      "title": "Mt. Diablo Adult Education (Loma Vista) — Free Food",
+      "description": "Free food at Mt. Diablo Adult Education (Loma Vista). Schedule: 1st Thu & 3rd Thu 2 PM–3 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Mt. Diablo Adult Education (Loma Vista)",
+      "address": "1266 San Carlos Ave, Concord, CA 94518",
+      "lat": 37.9688,
+      "lng": -122.02659,
+      "category": "food-assistance",
+      "sourceOrg": "Mt. Diablo Adult Education (Loma Vista)",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "1st Thu & 3rd Thu 2 PM–3 PM",
+      "start": "2026-10-08T14:00",
+      "end": "2026-10-08T15:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4,3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-mt-diablo-high-school-m1636-1400",
+      "seriesSlug": "add-mt-diablo-high-school",
+      "title": "Mt. Diablo High School — Free Food",
+      "description": "Free food at Mt. Diablo High School. Schedule: 1st Sat & 3rd Sat 2 PM–3 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Mt. Diablo High School",
+      "address": "2611 East St, Concord, CA 94520",
+      "lat": 37.98304,
+      "lng": -122.03476,
+      "category": "food-assistance",
+      "sourceOrg": "Mt. Diablo High School",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "1st Sat & 3rd Sat 2 PM–3 PM",
+      "start": "2026-10-10T14:00",
+      "end": "2026-10-10T15:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "1:6,3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-queen-of-all-saints-svdp-w3-1000",
+      "seriesSlug": "add-queen-of-all-saints-svdp",
+      "title": "Queen of All Saints (SVdP) — Free Food",
+      "description": "Free food at Queen of All Saints (SVdP). Schedule: Wed 10 AM–12 PM; 3rd Sat 10 AM–11 AM. Call 925-609-5944 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Queen of All Saints (SVdP)",
+      "address": "2390 Grant St, Concord, CA 94520",
+      "lat": 37.98119,
+      "lng": -122.035552,
+      "category": "food-assistance",
+      "sourceOrg": "Queen of All Saints (SVdP)",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Wed 10 AM–12 PM; 3rd Sat 10 AM–11 AM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-queen-of-all-saints-svdp-m36-1000",
+      "seriesSlug": "add-queen-of-all-saints-svdp",
+      "title": "Queen of All Saints (SVdP) — Free Food",
+      "description": "Free food at Queen of All Saints (SVdP). Schedule: Wed 10 AM–12 PM; 3rd Sat 10 AM–11 AM. Call 925-609-5944 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Queen of All Saints (SVdP)",
+      "address": "2390 Grant St, Concord, CA 94520",
+      "lat": 37.98119,
+      "lng": -122.035552,
+      "category": "food-assistance",
+      "sourceOrg": "Queen of All Saints (SVdP)",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Wed 10 AM–12 PM; 3rd Sat 10 AM–11 AM",
+      "start": "2026-10-10T10:00",
+      "end": "2026-10-10T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-refuge-outreach-services-w2-1530",
+      "seriesSlug": "add-refuge-outreach-services",
+      "title": "Refuge Outreach Services — Free Food",
+      "description": "Free food at Refuge Outreach Services. Schedule: Tue 3:30 PM–5:30 PM. Call 925-435-6766 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Refuge Outreach Services",
+      "address": "1187 Meadow Ln, Concord, CA 94520",
+      "lat": 37.959584,
+      "lng": -122.042485,
+      "category": "food-assistance",
+      "sourceOrg": "Refuge Outreach Services",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Tue 3:30 PM–5:30 PM",
+      "start": "2026-09-28T15:30",
+      "end": "2026-09-28T17:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-salvation-army-concord-w1235-1000",
+      "seriesSlug": "add-salvation-army-concord",
+      "title": "Salvation Army Concord — Free Food",
+      "description": "Free food at Salvation Army Concord. Schedule: Mon–Wed, Fri 10 AM–11:45 AM; Mon–Wed, Fri 1 PM–2:45 PM. Call 925-676-6180 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salvation Army Concord",
+      "address": "3950 Clayton Rd, Concord, CA 94521",
+      "lat": 37.967578,
+      "lng": -122.002285,
+      "category": "food-assistance",
+      "sourceOrg": "Salvation Army Concord",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Mon–Wed, Fri 10 AM–11:45 AM; Mon–Wed, Fri 1 PM–2:45 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T11:45",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-salvation-army-concord-w1235-1300",
+      "seriesSlug": "add-salvation-army-concord",
+      "title": "Salvation Army Concord — Free Food",
+      "description": "Free food at Salvation Army Concord. Schedule: Mon–Wed, Fri 10 AM–11:45 AM; Mon–Wed, Fri 1 PM–2:45 PM. Call 925-676-6180 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salvation Army Concord",
+      "address": "3950 Clayton Rd, Concord, CA 94521",
+      "lat": 37.967578,
+      "lng": -122.002285,
+      "category": "food-assistance",
+      "sourceOrg": "Salvation Army Concord",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Mon–Wed, Fri 10 AM–11:45 AM; Mon–Wed, Fri 1 PM–2:45 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T14:45",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-share-first-christian-church-w1235-1000",
+      "seriesSlug": "add-share-first-christian-church",
+      "title": "SHARE (First Christian Church) — Free Food",
+      "description": "Free food at SHARE (First Christian Church). Schedule: Mon–Wed, Fri 10 AM–1:30 PM. Call 925-827-4273 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "SHARE (First Christian Church)",
+      "address": "3039 Willow Pass Rd, Concord, CA 94519",
+      "lat": 37.981186,
+      "lng": -122.022649,
+      "category": "food-assistance",
+      "sourceOrg": "SHARE (First Christian Church)",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Mon–Wed, Fri 10 AM–1:30 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T13:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-bonaventure-s-church-m1333-1600",
+      "seriesSlug": "add-st-bonaventure-s-church",
+      "title": "St. Bonaventure's Church — Free Food",
+      "description": "Free food at St. Bonaventure's Church. Schedule: 1st Wed & 3rd Wed 4 PM–5 PM; Tue 8:30 AM–10 AM. Call 925-672-5800 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Bonaventure's Church",
+      "address": "5562 Clayton Rd, Concord, CA 94521",
+      "lat": 37.947568,
+      "lng": -121.951952,
+      "category": "food-assistance",
+      "sourceOrg": "St. Bonaventure's Church",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "1st Wed & 3rd Wed 4 PM–5 PM; Tue 8:30 AM–10 AM",
+      "start": "2026-10-07T16:00",
+      "end": "2026-10-07T17:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "1:3,3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-bonaventure-s-church-w2-0830",
+      "seriesSlug": "add-st-bonaventure-s-church",
+      "title": "St. Bonaventure's Church — Free Food",
+      "description": "Free food at St. Bonaventure's Church. Schedule: 1st Wed & 3rd Wed 4 PM–5 PM; Tue 8:30 AM–10 AM. Call 925-672-5800 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Bonaventure's Church",
+      "address": "5562 Clayton Rd, Concord, CA 94521",
+      "lat": 37.947568,
+      "lng": -121.951952,
+      "category": "food-assistance",
+      "sourceOrg": "St. Bonaventure's Church",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "1st Wed & 3rd Wed 4 PM–5 PM; Tue 8:30 AM–10 AM",
+      "start": "2026-09-28T08:30",
+      "end": "2026-09-28T10:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-francis-of-assisi-svdp-w36-0900",
+      "seriesSlug": "add-st-francis-of-assisi-svdp",
+      "title": "St. Francis of Assisi (SVdP) — Free Food",
+      "description": "Free food at St. Francis of Assisi (SVdP). Schedule: Wed, Sat 9 AM–11:30 AM. Call 925-682-5811 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Francis of Assisi (SVdP)",
+      "address": "860 Oak Grove Rd, Concord, CA 94518",
+      "lat": 37.94154,
+      "lng": -122.02724,
+      "category": "food-assistance",
+      "sourceOrg": "St. Francis of Assisi (SVdP)",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Wed, Sat 9 AM–11:30 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3,6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-bay-church-compassion-ministries-w6-1130",
+      "seriesSlug": "add-the-bay-church-compassion-ministries",
+      "title": "The Bay Church Compassion Ministries — Free Food",
+      "description": "Free food at The Bay Church Compassion Ministries. Schedule: Sat 11:30 AM–1 PM. Call 925-458-9100 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Bay Church Compassion Ministries",
+      "address": "4725 Evora Rd, Concord, CA 94520",
+      "lat": 38.022937,
+      "lng": -121.982981,
+      "category": "food-assistance",
+      "sourceOrg": "The Bay Church Compassion Ministries",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Sat 11:30 AM–1 PM",
+      "start": "2026-09-28T11:30",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-we-love-our-city-at-father-s-house-east-bay-w6-0845",
+      "seriesSlug": "add-we-love-our-city-at-father-s-house-east-bay",
+      "title": "We Love Our City at Father's House East Bay — Free Food",
+      "description": "Free food at We Love Our City at Father's House East Bay. Schedule: Sat 8:45 AM–10 AM. Call 707-454-0268 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "We Love Our City at Father's House East Bay",
+      "address": "2140 Olivera Ct, Concord, CA 94520",
+      "lat": 37.99692,
+      "lng": -122.0402,
+      "category": "food-assistance",
+      "sourceOrg": "We Love Our City at Father's House East Bay",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Sat 8:45 AM–10 AM",
+      "start": "2026-09-28T08:45",
+      "end": "2026-09-28T10:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-wic-concord-m1333-1400",
+      "seriesSlug": "add-wic-concord",
+      "title": "WIC Concord — Free Food",
+      "description": "Free food at WIC Concord. Schedule: 1st Wed & 3rd Wed 2 PM–3 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "WIC Concord",
+      "address": "2731 Systron Drive, Concord, CA 94518",
+      "lat": 37.965487,
+      "lng": -122.028579,
+      "category": "food-assistance",
+      "sourceOrg": "WIC Concord",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "1st Wed & 3rd Wed 2 PM–3 PM",
+      "start": "2026-10-07T14:00",
+      "end": "2026-10-07T15:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "1:3,3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-jerome-catholic-church-w3-1100",
+      "seriesSlug": "add-st-jerome-catholic-church",
+      "title": "St. Jerome Catholic Church — Free Food",
+      "description": "Free food at St. Jerome Catholic Church. Schedule: Wed 11 AM–12 PM. Call 510-809-5377 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Jerome Catholic Church",
+      "address": "308 Carmel Ave, El Cerrito, CA 94530",
+      "lat": 37.902929,
+      "lng": -122.290487,
+      "category": "food-assistance",
+      "sourceOrg": "St. Jerome Catholic Church",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Wed 11 AM–12 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-john-church-svdp-m1636-1000",
+      "seriesSlug": "add-st-john-church-svdp",
+      "title": "St. John Church (SVdP) — Free Food",
+      "description": "Free food at St. John Church (SVdP). Schedule: 1st Sat & 3rd Sat 10 AM–11 AM. Call 510-232-5659 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. John Church (SVdP)",
+      "address": "11150 San Pablo Ave, El Cerrito, CA 94530",
+      "lat": 37.919093,
+      "lng": -122.313454,
+      "category": "food-assistance",
+      "sourceOrg": "St. John Church (SVdP)",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "1st Sat & 3rd Sat 10 AM–11 AM",
+      "start": "2026-10-10T10:00",
+      "end": "2026-10-10T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "1:6,3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-appian-way-seventh-day-adventist-church-w3-1000",
+      "seriesSlug": "add-appian-way-seventh-day-adventist-church",
+      "title": "Appian Way Seventh-day Adventist Church — Free Food",
+      "description": "Free food at Appian Way Seventh-day Adventist Church. Schedule: Wed 10 AM–12 PM. Call 925-642-2651 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Appian Way Seventh-day Adventist Church",
+      "address": "980 Appian Way Bldg A, El Sobrante, CA 94803",
+      "lat": 37.986012,
+      "lng": -122.297247,
+      "category": "food-assistance",
+      "sourceOrg": "Appian Way Seventh-day Adventist Church",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Wed 10 AM–12 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-moose-lodge-550-m1535-1000",
+      "seriesSlug": "add-moose-lodge-550",
+      "title": "Moose Lodge #550 — Free Food",
+      "description": "Free food at Moose Lodge #550. Schedule: 1st Fri & 3rd Fri 10 AM–11 AM; last Fri 10 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Moose Lodge #550",
+      "address": "4660 Appian Way, El Sobrante, CA 94803",
+      "lat": 37.972509,
+      "lng": -122.302495,
+      "category": "food-assistance",
+      "sourceOrg": "Moose Lodge #550",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "1st Fri & 3rd Fri 10 AM–11 AM; last Fri 10 AM–12 PM",
+      "start": "2026-10-09T10:00",
+      "end": "2026-10-09T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "1:5,3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-moose-lodge-550-m-15-1000",
+      "seriesSlug": "add-moose-lodge-550",
+      "title": "Moose Lodge #550 — Free Food",
+      "description": "Free food at Moose Lodge #550. Schedule: 1st Fri & 3rd Fri 10 AM–11 AM; last Fri 10 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Moose Lodge #550",
+      "address": "4660 Appian Way, El Sobrante, CA 94803",
+      "lat": 37.972509,
+      "lng": -122.302495,
+      "category": "food-assistance",
+      "sourceOrg": "Moose Lodge #550",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "1st Fri & 3rd Fri 10 AM–11 AM; last Fri 10 AM–12 PM",
+      "start": "2026-10-09T10:00",
+      "end": "2026-10-09T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": -1,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "-1:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-salvation-army-el-sobrante-w4-1000",
+      "seriesSlug": "add-salvation-army-el-sobrante",
+      "title": "Salvation Army El Sobrante — Free Food",
+      "description": "Free food at Salvation Army El Sobrante. Schedule: Thu 10 AM–12 PM; Thu 1 PM–2:30 PM. Call 510-262-0500 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salvation Army El Sobrante",
+      "address": "4600 Appian Way, El Sobrante, CA 94803",
+      "lat": 37.972193,
+      "lng": -122.303542,
+      "category": "food-assistance",
+      "sourceOrg": "Salvation Army El Sobrante",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Thu 10 AM–12 PM; Thu 1 PM–2:30 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-salvation-army-el-sobrante-w4-1300",
+      "seriesSlug": "add-salvation-army-el-sobrante",
+      "title": "Salvation Army El Sobrante — Free Food",
+      "description": "Free food at Salvation Army El Sobrante. Schedule: Thu 10 AM–12 PM; Thu 1 PM–2:30 PM. Call 510-262-0500 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salvation Army El Sobrante",
+      "address": "4600 Appian Way, El Sobrante, CA 94803",
+      "lat": 37.972193,
+      "lng": -122.303542,
+      "category": "food-assistance",
+      "sourceOrg": "Salvation Army El Sobrante",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Thu 10 AM–12 PM; Thu 1 PM–2:30 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T14:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-callistus-catholic-church-svdp-w14-1100",
+      "seriesSlug": "add-st-callistus-catholic-church-svdp",
+      "title": "St. Callistus Catholic Church (SVdP) — Free Food",
+      "description": "Free food at St. Callistus Catholic Church (SVdP). Schedule: Mon, Thu 11 AM–12 PM. Call 510-243-7501 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Callistus Catholic Church (SVdP)",
+      "address": "3580 San Pablo Dam Rd, El Sobrante, CA 94803",
+      "lat": 37.96326,
+      "lng": -122.31894,
+      "category": "food-assistance",
+      "sourceOrg": "St. Callistus Catholic Church (SVdP)",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Mon, Thu 11 AM–12 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-hercules-senior-center-m2242-1000",
+      "seriesSlug": "add-hercules-senior-center",
+      "title": "Hercules Senior Center — Free Food",
+      "description": "Free food at Hercules Senior Center. Schedule: 2nd Tue & 4th Tue 10 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Hercules Senior Center",
+      "address": "111 Civic Center, Hercules, CA 94547",
+      "lat": 38.010469,
+      "lng": -122.266147,
+      "category": "food-assistance",
+      "sourceOrg": "Hercules Senior Center",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Tue & 4th Tue 10 AM–11 AM",
+      "start": "2026-10-06T10:00",
+      "end": "2026-10-06T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 2
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "2:2,4:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-hercules-senior-center-produce-m1232-1100",
+      "seriesSlug": "add-hercules-senior-center-produce",
+      "title": "Hercules Senior Center Produce — Free Food",
+      "description": "Free food at Hercules Senior Center Produce. Schedule: 1st Tue & 3rd Tue 11 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Hercules Senior Center Produce",
+      "address": "111 Civic Dr, Hercules, CA 94547",
+      "lat": 38.010469,
+      "lng": -122.266147,
+      "category": "food-assistance",
+      "sourceOrg": "Hercules Senior Center Produce",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "1st Tue & 3rd Tue 11 AM–12 PM",
+      "start": "2026-10-06T11:00",
+      "end": "2026-10-06T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 2
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "1:2,3:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-delta-christian-community-food-pantry-knightsen-w2-0930",
+      "seriesSlug": "add-delta-christian-community-food-pantry-knightsen",
+      "title": "Delta Christian Community Food Pantry - Knightsen — Free Food",
+      "description": "Free food at Delta Christian Community Food Pantry - Knightsen. Schedule: Tue 9:30 AM–10:15 AM. Call 925-634-6625 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Delta Christian Community Food Pantry - Knightsen",
+      "address": "3090 Curlew Connex, Knightsen, CA 94548",
+      "lat": 37.969107,
+      "lng": -121.668189,
+      "category": "food-assistance",
+      "sourceOrg": "Delta Christian Community Food Pantry - Knightsen",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Tue 9:30 AM–10:15 AM",
+      "start": "2026-09-28T09:30",
+      "end": "2026-09-28T10:15",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-boys-girls-club-of-contra-costa-m2545-1200",
+      "seriesSlug": "add-boys-girls-club-of-contra-costa",
+      "title": "Boys & Girls Club of Contra Costa — Free Food",
+      "description": "Free food at Boys & Girls Club of Contra Costa. Schedule: 2nd Fri & 4th Fri 12 PM–1 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Boys & Girls Club of Contra Costa",
+      "address": "1301 Alhambra Ave, Martinez, CA 94553",
+      "lat": 38.013185,
+      "lng": -122.134462,
+      "category": "food-assistance",
+      "sourceOrg": "Boys & Girls Club of Contra Costa",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Fri & 4th Fri 12 PM–1 PM",
+      "start": "2026-10-09T12:00",
+      "end": "2026-10-09T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "2:5,4:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-john-muir-elementary-school-m2545-1600",
+      "seriesSlug": "add-john-muir-elementary-school",
+      "title": "John Muir Elementary School — Free Food",
+      "description": "Free food at John Muir Elementary School. Schedule: 2nd Fri & 4th Fri 4 PM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "John Muir Elementary School",
+      "address": "205 Vista Way, Martinez, CA 94553",
+      "lat": 37.999996,
+      "lng": -122.120164,
+      "category": "food-assistance",
+      "sourceOrg": "John Muir Elementary School",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Fri & 4th Fri 4 PM–5 PM",
+      "start": "2026-10-09T16:00",
+      "end": "2026-10-09T17:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "2:5,4:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-loaves-and-fishes-of-contra-costa-w1234567-1100",
+      "seriesSlug": "add-loaves-and-fishes-of-contra-costa",
+      "title": "Loaves and Fishes of Contra Costa — Free Food",
+      "description": "Free food at Loaves and Fishes of Contra Costa. Schedule: Mon–Sun 11 AM–12:45 PM. Call 925-293-4792 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Loaves and Fishes of Contra Costa",
+      "address": "835 Ferry St, Martinez, CA 94553",
+      "lat": 38.016773,
+      "lng": -122.134676,
+      "category": "food-assistance",
+      "sourceOrg": "Loaves and Fishes of Contra Costa",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Mon–Sun 11 AM–12:45 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T12:45",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5,6,7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-martinez-adult-education-w2-1400",
+      "seriesSlug": "add-martinez-adult-education",
+      "title": "Martinez Adult Education — Free Food",
+      "description": "Free food at Martinez Adult Education. Schedule: Tue 2 PM–3 PM. Call 925-335-5890 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Martinez Adult Education",
+      "address": "600 F St, Martinez, CA 94553",
+      "lat": 38.000432,
+      "lng": -122.130854,
+      "category": "food-assistance",
+      "sourceOrg": "Martinez Adult Education",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Tue 2 PM–3 PM",
+      "start": "2026-09-28T14:00",
+      "end": "2026-09-28T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-martinez-health-center-m2141-1200",
+      "seriesSlug": "add-martinez-health-center",
+      "title": "Martinez Health Center — Free Food",
+      "description": "Free food at Martinez Health Center. Schedule: 2nd Mon & 4th Mon 12 PM–1 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Martinez Health Center",
+      "address": "2500 Alhambra Blvd, Martinez, CA 94553",
+      "lat": 38.006644,
+      "lng": -122.132965,
+      "category": "food-assistance",
+      "sourceOrg": "Martinez Health Center",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Mon & 4th Mon 12 PM–1 PM",
+      "start": "2026-10-05T12:00",
+      "end": "2026-10-05T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 1
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "2:1,4:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-second-baptist-church-of-martinez-m2646-1100",
+      "seriesSlug": "add-second-baptist-church-of-martinez",
+      "title": "Second Baptist Church of Martinez — Free Food",
+      "description": "Free food at Second Baptist Church of Martinez. Schedule: 2nd Sat & 4th Sat 11 AM–12 PM. Call 925-228-3860 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Second Baptist Church of Martinez",
+      "address": "1020 Las Juntas, Martinez, CA 94553",
+      "lat": 38.015964,
+      "lng": -122.133359,
+      "category": "food-assistance",
+      "sourceOrg": "Second Baptist Church of Martinez",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Sat & 4th Sat 11 AM–12 PM",
+      "start": "2026-10-10T11:00",
+      "end": "2026-10-10T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6,4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-catherine-s-svdp-w6-0930",
+      "seriesSlug": "add-st-catherine-s-svdp",
+      "title": "St. Catherine's (SVdP) — Free Food",
+      "description": "Free food at St. Catherine's (SVdP). Schedule: Sat 9:30 AM–10:30 AM. Call 925-788-7409 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Catherine's (SVdP)",
+      "address": "1125 Ferry St, Martinez, CA 94553",
+      "lat": 38.0152,
+      "lng": -122.1334,
+      "category": "food-assistance",
+      "sourceOrg": "St. Catherine's (SVdP)",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Sat 9:30 AM–10:30 AM",
+      "start": "2026-09-28T09:30",
+      "end": "2026-09-28T10:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-teamsters-local-315-hall-m1434-0900",
+      "seriesSlug": "add-teamsters-local-315-hall",
+      "title": "Teamsters Local 315 Hall — Free Food",
+      "description": "Free food at Teamsters Local 315 Hall. Schedule: 1st Thu & 3rd Thu 9 AM–10 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Teamsters Local 315 Hall",
+      "address": "2727 Alhambra Ave, Martinez, CA 94553",
+      "lat": 38.004711,
+      "lng": -122.130724,
+      "category": "food-assistance",
+      "sourceOrg": "Teamsters Local 315 Hall",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "1st Thu & 3rd Thu 9 AM–10 AM",
+      "start": "2026-10-08T09:00",
+      "end": "2026-10-08T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4,3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-loaves-and-fishes-at-redman-pocahontas-hall-w12345-1100",
+      "seriesSlug": "add-loaves-and-fishes-at-redman-pocahontas-hall",
+      "title": "Loaves and Fishes at Redman-Pocahontas Hall — Free Food",
+      "description": "Free food at Loaves and Fishes at Redman-Pocahontas Hall. Schedule: Mon–Fri 11 AM–12:45 PM. Call 925-293-4792 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Loaves and Fishes at Redman-Pocahontas Hall",
+      "address": "1403 Main St, Oakley, CA 94561",
+      "lat": 38.004925,
+      "lng": -121.7428,
+      "category": "food-assistance",
+      "sourceOrg": "Loaves and Fishes at Redman-Pocahontas Hall",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Mon–Fri 11 AM–12:45 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T12:45",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-oakley-senior-center-w4-1300",
+      "seriesSlug": "add-oakley-senior-center",
+      "title": "Oakley Senior Center — Free Food",
+      "description": "Free food at Oakley Senior Center. Schedule: Thu 1 PM–2 PM. Call 925-783-0818 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Oakley Senior Center",
+      "address": "971 O'Hara Avenue, Oakley, CA 94561",
+      "lat": 37.991308,
+      "lng": -121.714529,
+      "category": "food-assistance",
+      "sourceOrg": "Oakley Senior Center",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Thu 1 PM–2 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-anthony-s-catholic-church-m2444-0900",
+      "seriesSlug": "add-st-anthony-s-catholic-church",
+      "title": "St. Anthony's Catholic Church — Free Food",
+      "description": "Free food at St. Anthony's Catholic Church. Schedule: 2nd Thu & 4th Thu 9 AM–10:30 AM; 2nd Sat & 4th Sat 9 AM–10 AM. Call 925-325-7424 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Anthony's Catholic Church",
+      "address": "971 O'Hara Ave, Oakley, CA 94561",
+      "lat": 37.991308,
+      "lng": -121.714529,
+      "category": "food-assistance",
+      "sourceOrg": "St. Anthony's Catholic Church",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Thu & 4th Thu 9 AM–10:30 AM; 2nd Sat & 4th Sat 9 AM–10 AM",
+      "start": "2026-10-08T09:00",
+      "end": "2026-10-08T10:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "2:4,4:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-anthony-s-catholic-church-m2646-0900",
+      "seriesSlug": "add-st-anthony-s-catholic-church",
+      "title": "St. Anthony's Catholic Church — Free Food",
+      "description": "Free food at St. Anthony's Catholic Church. Schedule: 2nd Thu & 4th Thu 9 AM–10:30 AM; 2nd Sat & 4th Sat 9 AM–10 AM. Call 925-325-7424 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Anthony's Catholic Church",
+      "address": "971 O'Hara Ave, Oakley, CA 94561",
+      "lat": 37.991308,
+      "lng": -121.714529,
+      "category": "food-assistance",
+      "sourceOrg": "St. Anthony's Catholic Church",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Thu & 4th Thu 9 AM–10:30 AM; 2nd Sat & 4th Sat 9 AM–10 AM",
+      "start": "2026-10-10T09:00",
+      "end": "2026-10-10T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6,4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-commons-at-oakley-m2242-1400",
+      "seriesSlug": "add-the-commons-at-oakley",
+      "title": "The Commons at Oakley — Free Food",
+      "description": "Free food at The Commons at Oakley. Schedule: 2nd Tue & 4th Tue 2 PM–3 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Commons at Oakley",
+      "address": "69 Carol Ln, Oakley, CA 94561",
+      "lat": 38.00167,
+      "lng": -121.73446,
+      "category": "food-assistance",
+      "sourceOrg": "The Commons at Oakley",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Tue & 4th Tue 2 PM–3 PM",
+      "start": "2026-10-06T14:00",
+      "end": "2026-10-06T15:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 2
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "2:2,4:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-pacheco-community-center-m1333-1200",
+      "seriesSlug": "add-pacheco-community-center",
+      "title": "Pacheco Community Center — Free Food",
+      "description": "Free food at Pacheco Community Center. Schedule: 1st Wed & 3rd Wed 12 PM–1 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Pacheco Community Center",
+      "address": "5800 Pacheco Blvd, Pacheco, CA 94553",
+      "lat": 37.984958,
+      "lng": -122.068468,
+      "category": "food-assistance",
+      "sourceOrg": "Pacheco Community Center",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "1st Wed & 3rd Wed 12 PM–1 PM",
+      "start": "2026-10-07T12:00",
+      "end": "2026-10-07T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "1:3,3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-city-of-pinole-m21-0900",
+      "seriesSlug": "add-city-of-pinole",
+      "title": "City of Pinole — Free Food",
+      "description": "Free food at City of Pinole. Schedule: 2nd Mon 9 AM–10 AM; 2nd Tue & 4th Tue 10 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "City of Pinole",
+      "address": "2500 Charles Ave, Pinole, CA 94564",
+      "lat": 38.007489,
+      "lng": -122.289949,
+      "category": "food-assistance",
+      "sourceOrg": "City of Pinole",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Mon 9 AM–10 AM; 2nd Tue & 4th Tue 10 AM–11 AM",
+      "start": "2026-10-05T09:00",
+      "end": "2026-10-05T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "2:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-city-of-pinole-m2242-1000",
+      "seriesSlug": "add-city-of-pinole",
+      "title": "City of Pinole — Free Food",
+      "description": "Free food at City of Pinole. Schedule: 2nd Mon 9 AM–10 AM; 2nd Tue & 4th Tue 10 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "City of Pinole",
+      "address": "2500 Charles Ave, Pinole, CA 94564",
+      "lat": 38.007489,
+      "lng": -122.289949,
+      "category": "food-assistance",
+      "sourceOrg": "City of Pinole",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Mon 9 AM–10 AM; 2nd Tue & 4th Tue 10 AM–11 AM",
+      "start": "2026-10-06T10:00",
+      "end": "2026-10-06T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 2
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "2:2,4:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-buchanan-park-m1232-1200",
+      "seriesSlug": "add-buchanan-park",
+      "title": "Buchanan Park — Free Food",
+      "description": "Free food at Buchanan Park. Schedule: 1st Tue & 3rd Tue 12 PM–1 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Buchanan Park",
+      "address": "4150 Harbor St, Pittsburg, CA 94565",
+      "lat": 37.99853,
+      "lng": -121.88711,
+      "category": "food-assistance",
+      "sourceOrg": "Buchanan Park",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "1st Tue & 3rd Tue 12 PM–1 PM",
+      "start": "2026-10-06T12:00",
+      "end": "2026-10-06T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 2
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "1:2,3:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-church-of-the-good-shepherd-m2444-1000",
+      "seriesSlug": "add-church-of-the-good-shepherd",
+      "title": "Church of the Good Shepherd — Free Food",
+      "description": "Free food at Church of the Good Shepherd. Schedule: 2nd Thu & 4th Thu 10 AM–11 AM; Mon 11:30 AM–1:30 PM; Sat 11 AM–1 PM. Call 925-432-6404 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Church of the Good Shepherd",
+      "address": "3200 Harbor St, Pittsburg, CA 94565",
+      "lat": 38.005982,
+      "lng": -121.886189,
+      "category": "food-assistance",
+      "sourceOrg": "Church of the Good Shepherd",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Thu & 4th Thu 10 AM–11 AM; Mon 11:30 AM–1:30 PM; Sat 11 AM–1 PM",
+      "start": "2026-10-08T10:00",
+      "end": "2026-10-08T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "2:4,4:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-church-of-the-good-shepherd-w1-1130",
+      "seriesSlug": "add-church-of-the-good-shepherd",
+      "title": "Church of the Good Shepherd — Free Food",
+      "description": "Free food at Church of the Good Shepherd. Schedule: 2nd Thu & 4th Thu 10 AM–11 AM; Mon 11:30 AM–1:30 PM; Sat 11 AM–1 PM. Call 925-432-6404 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Church of the Good Shepherd",
+      "address": "3200 Harbor St, Pittsburg, CA 94565",
+      "lat": 38.005982,
+      "lng": -121.886189,
+      "category": "food-assistance",
+      "sourceOrg": "Church of the Good Shepherd",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Thu & 4th Thu 10 AM–11 AM; Mon 11:30 AM–1:30 PM; Sat 11 AM–1 PM",
+      "start": "2026-09-28T11:30",
+      "end": "2026-09-28T13:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-church-of-the-good-shepherd-w6-1100",
+      "seriesSlug": "add-church-of-the-good-shepherd",
+      "title": "Church of the Good Shepherd — Free Food",
+      "description": "Free food at Church of the Good Shepherd. Schedule: 2nd Thu & 4th Thu 10 AM–11 AM; Mon 11:30 AM–1:30 PM; Sat 11 AM–1 PM. Call 925-432-6404 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Church of the Good Shepherd",
+      "address": "3200 Harbor St, Pittsburg, CA 94565",
+      "lat": 38.005982,
+      "lng": -121.886189,
+      "category": "food-assistance",
+      "sourceOrg": "Church of the Good Shepherd",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Thu & 4th Thu 10 AM–11 AM; Mon 11:30 AM–1:30 PM; Sat 11 AM–1 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-diane-avenue-church-of-christ-m2444-1000",
+      "seriesSlug": "add-diane-avenue-church-of-christ",
+      "title": "Diane Avenue Church of Christ — Free Food",
+      "description": "Free food at Diane Avenue Church of Christ. Schedule: 2nd Thu & 4th Thu 10 AM–11:30 AM; 3rd Fri 11 AM–12:30 PM. Call 925-432-6040 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Diane Avenue Church of Christ",
+      "address": "283 Diane Ave, Pittsburg, CA 94565",
+      "lat": 38.013865,
+      "lng": -121.872309,
+      "category": "food-assistance",
+      "sourceOrg": "Diane Avenue Church of Christ",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Thu & 4th Thu 10 AM–11:30 AM; 3rd Fri 11 AM–12:30 PM",
+      "start": "2026-10-08T10:00",
+      "end": "2026-10-08T11:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "2:4,4:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-diane-avenue-church-of-christ-m35-1100",
+      "seriesSlug": "add-diane-avenue-church-of-christ",
+      "title": "Diane Avenue Church of Christ — Free Food",
+      "description": "Free food at Diane Avenue Church of Christ. Schedule: 2nd Thu & 4th Thu 10 AM–11:30 AM; 3rd Fri 11 AM–12:30 PM. Call 925-432-6040 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Diane Avenue Church of Christ",
+      "address": "283 Diane Ave, Pittsburg, CA 94565",
+      "lat": 38.013865,
+      "lng": -121.872309,
+      "category": "food-assistance",
+      "sourceOrg": "Diane Avenue Church of Christ",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Thu & 4th Thu 10 AM–11:30 AM; 3rd Fri 11 AM–12:30 PM",
+      "start": "2026-10-09T11:00",
+      "end": "2026-10-09T12:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-el-pueblo-housing-development-m2747-1230",
+      "seriesSlug": "add-el-pueblo-housing-development",
+      "title": "El Pueblo Housing Development — Free Food",
+      "description": "Free food at El Pueblo Housing Development. Schedule: 2nd Sun & 4th Sun 12:30 PM–1:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "El Pueblo Housing Development",
+      "address": "875 El Pueblo Ave, Pittsburg, CA 94565",
+      "lat": 38.016963,
+      "lng": -121.872724,
+      "category": "food-assistance",
+      "sourceOrg": "El Pueblo Housing Development",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Sun & 4th Sun 12:30 PM–1:30 PM",
+      "start": "2026-10-11T12:30",
+      "end": "2026-10-11T13:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 7
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 7
+          }
+        ]
+      },
+      "recurDays": "2:7,4:7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-first-baptist-church-m1434-1130",
+      "seriesSlug": "add-first-baptist-church",
+      "title": "First Baptist Church — Free Food",
+      "description": "Free food at First Baptist Church. Schedule: 1st Thu & 3rd Thu 11:30 AM–12:30 PM; Tue, Thu 9 AM–4 PM. Call 925-473-2018 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "First Baptist Church",
+      "address": "224 Linda Vista Ave, Pittsburg, CA 94565",
+      "lat": 38.035853,
+      "lng": -121.891098,
+      "category": "food-assistance",
+      "sourceOrg": "First Baptist Church",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "1st Thu & 3rd Thu 11:30 AM–12:30 PM; Tue, Thu 9 AM–4 PM",
+      "start": "2026-10-08T11:30",
+      "end": "2026-10-08T12:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4,3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-first-baptist-church-w24-0900",
+      "seriesSlug": "add-first-baptist-church",
+      "title": "First Baptist Church — Free Food",
+      "description": "Free food at First Baptist Church. Schedule: 1st Thu & 3rd Thu 11:30 AM–12:30 PM; Tue, Thu 9 AM–4 PM. Call 925-473-2018 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "First Baptist Church",
+      "address": "224 Linda Vista Ave, Pittsburg, CA 94565",
+      "lat": 38.035853,
+      "lng": -121.891098,
+      "category": "food-assistance",
+      "sourceOrg": "First Baptist Church",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "1st Thu & 3rd Thu 11:30 AM–12:30 PM; Tue, Thu 9 AM–4 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-greater-faith-missionary-baptist-church-m2646-0900",
+      "seriesSlug": "add-greater-faith-missionary-baptist-church",
+      "title": "Greater Faith Missionary Baptist Church — Free Food",
+      "description": "Free food at Greater Faith Missionary Baptist Church. Schedule: 2nd Sat & 4th Sat 9 AM–10 AM. Call 925-322-5728 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Greater Faith Missionary Baptist Church",
+      "address": "4150 Railroad Ave, Pittsburg, CA 94565",
+      "lat": 37.9996,
+      "lng": -121.89636,
+      "category": "food-assistance",
+      "sourceOrg": "Greater Faith Missionary Baptist Church",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Sat & 4th Sat 9 AM–10 AM",
+      "start": "2026-10-10T09:00",
+      "end": "2026-10-10T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6,4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-loaves-and-fishes-at-st-vincent-de-paul-building-w1234567-1100",
+      "seriesSlug": "add-loaves-and-fishes-at-st-vincent-de-paul-building",
+      "title": "Loaves and Fishes at St. Vincent de Paul Building — Free Food",
+      "description": "Free food at Loaves and Fishes at St. Vincent de Paul Building. Schedule: Mon–Sun 11 AM–12:45 PM. Call 925-293-4792 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Loaves and Fishes at St. Vincent de Paul Building",
+      "address": "1415 Simpson Ct, Pittsburg, CA 94565",
+      "lat": 38.0094,
+      "lng": -121.86649,
+      "category": "food-assistance",
+      "sourceOrg": "Loaves and Fishes at St. Vincent de Paul Building",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Mon–Sun 11 AM–12:45 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T12:45",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5,6,7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-loaves-and-fishes-at-stoneman-village-w15-1100",
+      "seriesSlug": "add-loaves-and-fishes-at-stoneman-village",
+      "title": "Loaves and Fishes at Stoneman Village — Free Food",
+      "description": "Free food at Loaves and Fishes at Stoneman Village. Schedule: Mon, Fri 11 AM–12 PM. Call 925-293-4792 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Loaves and Fishes at Stoneman Village",
+      "address": "390 E Leland Rd, Pittsburg, CA 94565",
+      "lat": 38.010556,
+      "lng": -121.887263,
+      "category": "food-assistance",
+      "sourceOrg": "Loaves and Fishes at Stoneman Village",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Mon, Fri 11 AM–12 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-new-destiny-church-m1535-1330",
+      "seriesSlug": "add-new-destiny-church",
+      "title": "New Destiny Church — Free Food",
+      "description": "Free food at New Destiny Church. Schedule: 1st Fri & 3rd Fri 1:30 PM–3:30 PM. Call 925-439-8989 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "New Destiny Church",
+      "address": "1411 E Leland Rd, Pittsburg, CA 94565",
+      "lat": 38.008758,
+      "lng": -121.867121,
+      "category": "food-assistance",
+      "sourceOrg": "New Destiny Church",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "1st Fri & 3rd Fri 1:30 PM–3:30 PM",
+      "start": "2026-10-09T13:30",
+      "end": "2026-10-09T15:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "1:5,3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-pittsburg-city-park-m1232-1400",
+      "seriesSlug": "add-pittsburg-city-park",
+      "title": "Pittsburg City Park — Free Food",
+      "description": "Free food at Pittsburg City Park. Schedule: 1st Tue & 3rd Tue 2 PM–3 PM; 4th Tue 10 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Pittsburg City Park",
+      "address": "60 Civic Ave, Pittsburg, CA 94565",
+      "lat": 38.022701,
+      "lng": -121.889476,
+      "category": "food-assistance",
+      "sourceOrg": "Pittsburg City Park",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "1st Tue & 3rd Tue 2 PM–3 PM; 4th Tue 10 AM–12 PM",
+      "start": "2026-10-06T14:00",
+      "end": "2026-10-06T15:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 2
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "1:2,3:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-pittsburg-city-park-m42-1000",
+      "seriesSlug": "add-pittsburg-city-park",
+      "title": "Pittsburg City Park — Free Food",
+      "description": "Free food at Pittsburg City Park. Schedule: 1st Tue & 3rd Tue 2 PM–3 PM; 4th Tue 10 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Pittsburg City Park",
+      "address": "60 Civic Ave, Pittsburg, CA 94565",
+      "lat": 38.022701,
+      "lng": -121.889476,
+      "category": "food-assistance",
+      "sourceOrg": "Pittsburg City Park",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "1st Tue & 3rd Tue 2 PM–3 PM; 4th Tue 10 AM–12 PM",
+      "start": "2026-10-06T10:00",
+      "end": "2026-10-06T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "4:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-pittsburg-historical-museum-m2444-1200",
+      "seriesSlug": "add-pittsburg-historical-museum",
+      "title": "Pittsburg Historical Museum — Free Food",
+      "description": "Free food at Pittsburg Historical Museum. Schedule: 2nd Thu & 4th Thu 12 PM–1 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Pittsburg Historical Museum",
+      "address": "525 Railroad Ave, Pittsburg, CA 94565",
+      "lat": 38.031396,
+      "lng": -121.8836,
+      "category": "food-assistance",
+      "sourceOrg": "Pittsburg Historical Museum",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Thu & 4th Thu 12 PM–1 PM",
+      "start": "2026-10-08T12:00",
+      "end": "2026-10-08T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "2:4,4:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-pittsburg-united-methodist-church-w5-1230",
+      "seriesSlug": "add-pittsburg-united-methodist-church",
+      "title": "Pittsburg United Methodist Church — Free Food",
+      "description": "Free food at Pittsburg United Methodist Church. Schedule: Fri 12:30 PM–1 PM. Call 925-432-7614 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Pittsburg United Methodist Church",
+      "address": "153 W Leland Rd, Pittsburg, CA 94565",
+      "lat": 38.01304,
+      "lng": -121.896444,
+      "category": "food-assistance",
+      "sourceOrg": "Pittsburg United Methodist Church",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Fri 12:30 PM–1 PM",
+      "start": "2026-09-28T12:30",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-solomon-temple-m2444-1400",
+      "seriesSlug": "add-solomon-temple",
+      "title": "Solomon Temple — Free Food",
+      "description": "Free food at Solomon Temple. Schedule: 2nd Thu & 4th Thu 2 PM–3 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Solomon Temple",
+      "address": "655 California Ave, Pittsburg, CA 94565",
+      "lat": 38.014994,
+      "lng": -121.877518,
+      "category": "food-assistance",
+      "sourceOrg": "Solomon Temple",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Thu & 4th Thu 2 PM–3 PM",
+      "start": "2026-10-08T14:00",
+      "end": "2026-10-08T15:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "2:4,4:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-peter-s-martyr-church-svdp-m2545-1000",
+      "seriesSlug": "add-st-peter-s-martyr-church-svdp",
+      "title": "St. Peter's Martyr Church (SVdP) — Free Food",
+      "description": "Free food at St. Peter's Martyr Church (SVdP). Schedule: 2nd Fri & 4th Fri 10 AM–11 AM. Call 925-432-4771 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Peter's Martyr Church (SVdP)",
+      "address": "740 Black Diamond St, Pittsburg, CA 94565",
+      "lat": 38.030347,
+      "lng": -121.885979,
+      "category": "food-assistance",
+      "sourceOrg": "St. Peter's Martyr Church (SVdP)",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Fri & 4th Fri 10 AM–11 AM",
+      "start": "2026-10-09T10:00",
+      "end": "2026-10-09T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "2:5,4:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-vincent-de-paul-society-pittsburg-w12345-0830",
+      "seriesSlug": "add-st-vincent-de-paul-society-pittsburg",
+      "title": "St. Vincent de Paul Society Pittsburg — Free Food",
+      "description": "Free food at St. Vincent de Paul Society Pittsburg. Schedule: Mon–Fri 8:30 AM–4:30 PM. Call 925-439-5060 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Vincent de Paul Society Pittsburg",
+      "address": "2210 Gladstone Dr, Pittsburg, CA 94565",
+      "lat": 38.009721,
+      "lng": -121.866139,
+      "category": "food-assistance",
+      "sourceOrg": "St. Vincent de Paul Society Pittsburg",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Mon–Fri 8:30 AM–4:30 PM",
+      "start": "2026-09-28T08:30",
+      "end": "2026-09-28T16:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-wic-pittsburg-m1434-1330",
+      "seriesSlug": "add-wic-pittsburg",
+      "title": "WIC Pittsburg — Free Food",
+      "description": "Free food at WIC Pittsburg. Schedule: 1st Thu & 3rd Thu 1:30 PM–2:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "WIC Pittsburg",
+      "address": "2311 Loveridge Rd, Pittsburg, CA 94565",
+      "lat": 38.006443,
+      "lng": -121.86948,
+      "category": "food-assistance",
+      "sourceOrg": "WIC Pittsburg",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "1st Thu & 3rd Thu 1:30 PM–2:30 PM",
+      "start": "2026-10-08T13:30",
+      "end": "2026-10-08T14:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4,3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-hillcrest-congregational-church-w135-0900",
+      "seriesSlug": "add-hillcrest-congregational-church",
+      "title": "Hillcrest Congregational Church — Free Food",
+      "description": "Free food at Hillcrest Congregational Church. Schedule: Mon, Wed, Fri 9 AM–11:45 AM; 2nd Fri & 4th Fri 2 PM–3 PM; Tue, Thu 10 AM–11 AM. Call 925-689-8260 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Hillcrest Congregational Church",
+      "address": "404 Gregory Ln, Pleasant Hill, CA 94523",
+      "lat": 37.94757,
+      "lng": -122.073971,
+      "category": "food-assistance",
+      "sourceOrg": "Hillcrest Congregational Church",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Mon, Wed, Fri 9 AM–11:45 AM; 2nd Fri & 4th Fri 2 PM–3 PM; Tue, Thu 10 AM–11 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T11:45",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-hillcrest-congregational-church-m2545-1400",
+      "seriesSlug": "add-hillcrest-congregational-church",
+      "title": "Hillcrest Congregational Church — Free Food",
+      "description": "Free food at Hillcrest Congregational Church. Schedule: Mon, Wed, Fri 9 AM–11:45 AM; 2nd Fri & 4th Fri 2 PM–3 PM; Tue, Thu 10 AM–11 AM. Call 925-689-8260 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Hillcrest Congregational Church",
+      "address": "404 Gregory Ln, Pleasant Hill, CA 94523",
+      "lat": 37.94757,
+      "lng": -122.073971,
+      "category": "food-assistance",
+      "sourceOrg": "Hillcrest Congregational Church",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Mon, Wed, Fri 9 AM–11:45 AM; 2nd Fri & 4th Fri 2 PM–3 PM; Tue, Thu 10 AM–11 AM",
+      "start": "2026-10-09T14:00",
+      "end": "2026-10-09T15:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "2:5,4:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-hillcrest-congregational-church-w24-1000",
+      "seriesSlug": "add-hillcrest-congregational-church",
+      "title": "Hillcrest Congregational Church — Free Food",
+      "description": "Free food at Hillcrest Congregational Church. Schedule: Mon, Wed, Fri 9 AM–11:45 AM; 2nd Fri & 4th Fri 2 PM–3 PM; Tue, Thu 10 AM–11 AM. Call 925-689-8260 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Hillcrest Congregational Church",
+      "address": "404 Gregory Ln, Pleasant Hill, CA 94523",
+      "lat": 37.94757,
+      "lng": -122.073971,
+      "category": "food-assistance",
+      "sourceOrg": "Hillcrest Congregational Church",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Mon, Wed, Fri 9 AM–11:45 AM; 2nd Fri & 4th Fri 2 PM–3 PM; Tue, Thu 10 AM–11 AM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-pleasant-hill-senior-center-m1434-0900",
+      "seriesSlug": "add-pleasant-hill-senior-center",
+      "title": "Pleasant Hill Senior Center — Free Food",
+      "description": "Free food at Pleasant Hill Senior Center. Schedule: 1st Thu & 3rd Thu 9 AM–10 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Pleasant Hill Senior Center",
+      "address": "233 Gregory Lane, Pleasant Hill, CA 94523",
+      "lat": 37.949505,
+      "lng": -122.06737,
+      "category": "food-assistance",
+      "sourceOrg": "Pleasant Hill Senior Center",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "1st Thu & 3rd Thu 9 AM–10 AM",
+      "start": "2026-10-08T09:00",
+      "end": "2026-10-08T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4,3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-pleasant-hill-seventh-day-adventist-w24-1100",
+      "seriesSlug": "add-pleasant-hill-seventh-day-adventist",
+      "title": "Pleasant Hill Seventh-day Adventist — Free Food",
+      "description": "Free food at Pleasant Hill Seventh-day Adventist. Schedule: Tue, Thu 11 AM–4 PM. Call 925-939-2235 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Pleasant Hill Seventh-day Adventist",
+      "address": "816 Grayson Rd, Pleasant Hill, CA 94523",
+      "lat": 37.946705,
+      "lng": -122.08971,
+      "category": "food-assistance",
+      "sourceOrg": "Pleasant Hill Seventh-day Adventist",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Tue, Thu 11 AM–4 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-bay-area-rescue-mission-meals-w1234567-0600",
+      "seriesSlug": "add-bay-area-rescue-mission-meals",
+      "title": "Bay Area Rescue Mission (meals) — Free Food",
+      "description": "Free food at Bay Area Rescue Mission (meals). Schedule: Mon–Sun 6 AM–7:45 AM; Mon–Sun 11 AM–1 PM; Mon–Sun 4 PM–5:45 PM. Call 510-215-4884 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Bay Area Rescue Mission (meals)",
+      "address": "200 Macdonald Ave, Richmond, CA 94801",
+      "lat": 37.935464,
+      "lng": -122.367516,
+      "category": "food-assistance",
+      "sourceOrg": "Bay Area Rescue Mission (meals)",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Mon–Sun 6 AM–7:45 AM; Mon–Sun 11 AM–1 PM; Mon–Sun 4 PM–5:45 PM",
+      "start": "2026-09-28T06:00",
+      "end": "2026-09-28T07:45",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5,6,7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-bay-area-rescue-mission-meals-w1234567-1100",
+      "seriesSlug": "add-bay-area-rescue-mission-meals",
+      "title": "Bay Area Rescue Mission (meals) — Free Food",
+      "description": "Free food at Bay Area Rescue Mission (meals). Schedule: Mon–Sun 6 AM–7:45 AM; Mon–Sun 11 AM–1 PM; Mon–Sun 4 PM–5:45 PM. Call 510-215-4884 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Bay Area Rescue Mission (meals)",
+      "address": "200 Macdonald Ave, Richmond, CA 94801",
+      "lat": 37.935464,
+      "lng": -122.367516,
+      "category": "food-assistance",
+      "sourceOrg": "Bay Area Rescue Mission (meals)",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Mon–Sun 6 AM–7:45 AM; Mon–Sun 11 AM–1 PM; Mon–Sun 4 PM–5:45 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5,6,7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-bay-area-rescue-mission-meals-w1234567-1600",
+      "seriesSlug": "add-bay-area-rescue-mission-meals",
+      "title": "Bay Area Rescue Mission (meals) — Free Food",
+      "description": "Free food at Bay Area Rescue Mission (meals). Schedule: Mon–Sun 6 AM–7:45 AM; Mon–Sun 11 AM–1 PM; Mon–Sun 4 PM–5:45 PM. Call 510-215-4884 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Bay Area Rescue Mission (meals)",
+      "address": "200 Macdonald Ave, Richmond, CA 94801",
+      "lat": 37.935464,
+      "lng": -122.367516,
+      "category": "food-assistance",
+      "sourceOrg": "Bay Area Rescue Mission (meals)",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Mon–Sun 6 AM–7:45 AM; Mon–Sun 11 AM–1 PM; Mon–Sun 4 PM–5:45 PM",
+      "start": "2026-09-28T16:00",
+      "end": "2026-09-28T17:45",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5,6,7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-bay-area-rescue-mission-pantry-w123456-1300",
+      "seriesSlug": "add-bay-area-rescue-mission-pantry",
+      "title": "Bay Area Rescue Mission Pantry — Free Food",
+      "description": "Free food at Bay Area Rescue Mission Pantry. Schedule: Mon–Sat 1 PM–2:30 PM. Call 510-215-4884 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Bay Area Rescue Mission Pantry",
+      "address": "123 Macdonald Ave, Richmond, CA 94801",
+      "lat": 37.935714,
+      "lng": -122.367707,
+      "category": "food-assistance",
+      "sourceOrg": "Bay Area Rescue Mission Pantry",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Mon–Sat 1 PM–2:30 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T14:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5,6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-beacon-light-seventh-day-adventist-food-pantry-m2343-0900",
+      "seriesSlug": "add-beacon-light-seventh-day-adventist-food-pantry",
+      "title": "Beacon Light Seventh-day Adventist Food Pantry — Free Food",
+      "description": "Free food at Beacon Light Seventh-day Adventist Food Pantry. Schedule: 2nd Wed & 4th Wed 9 AM–10 AM. Call 510-234-7771 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Beacon Light Seventh-day Adventist Food Pantry",
+      "address": "607 S 19th St, Richmond, CA 94804",
+      "lat": 37.923776,
+      "lng": -122.351906,
+      "category": "food-assistance",
+      "sourceOrg": "Beacon Light Seventh-day Adventist Food Pantry",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Wed & 4th Wed 9 AM–10 AM",
+      "start": "2026-10-07T09:00",
+      "end": "2026-10-07T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "2:3,4:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-booker-t-anderson-center-m2646-1200",
+      "seriesSlug": "add-booker-t-anderson-center",
+      "title": "Booker T. Anderson Center — Free Food",
+      "description": "Free food at Booker T. Anderson Center. Schedule: 2nd Sat & 4th Sat 12 PM–1 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Booker T. Anderson Center",
+      "address": "960 S 47th St, Richmond, CA 94804",
+      "lat": 37.9186,
+      "lng": -122.32674,
+      "category": "food-assistance",
+      "sourceOrg": "Booker T. Anderson Center",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Sat & 4th Sat 12 PM–1 PM",
+      "start": "2026-10-10T12:00",
+      "end": "2026-10-10T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6,4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-corrine-sain-senior-family-community-center-m2545-1030",
+      "seriesSlug": "add-corrine-sain-senior-family-community-center",
+      "title": "Corrine Sain Senior & Family Community Center — Free Food",
+      "description": "Free food at Corrine Sain Senior & Family Community Center. Schedule: 2nd Fri & 4th Fri 10:30 AM–11:30 AM; Tue–Fri 9 AM–11 AM. Call 510-221-2538 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Corrine Sain Senior & Family Community Center",
+      "address": "515 Silver Ave, Richmond, CA 94801",
+      "lat": 37.957649,
+      "lng": -122.363896,
+      "category": "food-assistance",
+      "sourceOrg": "Corrine Sain Senior & Family Community Center",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Fri & 4th Fri 10:30 AM–11:30 AM; Tue–Fri 9 AM–11 AM",
+      "start": "2026-10-09T10:30",
+      "end": "2026-10-09T11:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "2:5,4:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-corrine-sain-senior-family-community-center-w2345-0900",
+      "seriesSlug": "add-corrine-sain-senior-family-community-center",
+      "title": "Corrine Sain Senior & Family Community Center — Free Food",
+      "description": "Free food at Corrine Sain Senior & Family Community Center. Schedule: 2nd Fri & 4th Fri 10:30 AM–11:30 AM; Tue–Fri 9 AM–11 AM. Call 510-221-2538 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Corrine Sain Senior & Family Community Center",
+      "address": "515 Silver Ave, Richmond, CA 94801",
+      "lat": 37.957649,
+      "lng": -122.363896,
+      "category": "food-assistance",
+      "sourceOrg": "Corrine Sain Senior & Family Community Center",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Fri & 4th Fri 10:30 AM–11:30 AM; Tue–Fri 9 AM–11 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-ephesians-community-development-center-w3-1100",
+      "seriesSlug": "add-ephesians-community-development-center",
+      "title": "Ephesians Community Development Center — Free Food",
+      "description": "Free food at Ephesians Community Development Center. Schedule: Wed 11 AM–1:30 PM. Call 510-778-1528 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Ephesians Community Development Center",
+      "address": "2887 Foothill Ave, Richmond, CA 94804",
+      "lat": 37.922231,
+      "lng": -122.342548,
+      "category": "food-assistance",
+      "sourceOrg": "Ephesians Community Development Center",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Wed 11 AM–1:30 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T13:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-grip-souper-center-meals-w1234567-1130",
+      "seriesSlug": "add-grip-souper-center-meals",
+      "title": "GRIP Souper Center (meals) — Free Food",
+      "description": "Free food at GRIP Souper Center (meals). Schedule: Mon–Sun 11:30 AM–12:45 PM. Call 510-233-2141 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "GRIP Souper Center (meals)",
+      "address": "165 22nd St, Richmond, CA 94801",
+      "lat": 37.933448,
+      "lng": -122.348919,
+      "category": "food-assistance",
+      "sourceOrg": "GRIP Souper Center (meals)",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Mon–Sun 11:30 AM–12:45 PM",
+      "start": "2026-09-28T11:30",
+      "end": "2026-09-28T12:45",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5,6,7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-kennedy-high-school-m1636-1400",
+      "seriesSlug": "add-kennedy-high-school",
+      "title": "Kennedy High School — Free Food",
+      "description": "Free food at Kennedy High School. Schedule: 1st Sat & 3rd Sat 2 PM–3 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Kennedy High School",
+      "address": "4300 Cutting Blvd, Richmond, CA 94804",
+      "lat": 37.924339,
+      "lng": -122.327628,
+      "category": "food-assistance",
+      "sourceOrg": "Kennedy High School",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "1st Sat & 3rd Sat 2 PM–3 PM",
+      "start": "2026-10-10T14:00",
+      "end": "2026-10-10T15:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "1:6,3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-lifelong-william-jenkins-health-center-w3-1000",
+      "seriesSlug": "add-lifelong-william-jenkins-health-center",
+      "title": "LifeLong William Jenkins Health Center — Free Food",
+      "description": "Free food at LifeLong William Jenkins Health Center. Schedule: Wed 10 AM–12 PM. Call 510-981-4100 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "LifeLong William Jenkins Health Center",
+      "address": "150 Harbour Way, Richmond, CA 94801",
+      "lat": 37.933895,
+      "lng": -122.359523,
+      "category": "food-assistance",
+      "sourceOrg": "LifeLong William Jenkins Health Center",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Wed 10 AM–12 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-living-hope-neighborhood-church-m1636-1000",
+      "seriesSlug": "add-living-hope-neighborhood-church",
+      "title": "Living Hope Neighborhood Church — Free Food",
+      "description": "Free food at Living Hope Neighborhood Church. Schedule: 1st Sat & 3rd Sat 10 AM–11 AM; Fri 10:30 AM–12:30 PM. Call 510-233-7353 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Living Hope Neighborhood Church",
+      "address": "2800 Rheem Ave, Richmond, CA 94804",
+      "lat": 37.949519,
+      "lng": -122.340713,
+      "category": "food-assistance",
+      "sourceOrg": "Living Hope Neighborhood Church",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "1st Sat & 3rd Sat 10 AM–11 AM; Fri 10:30 AM–12:30 PM",
+      "start": "2026-10-10T10:00",
+      "end": "2026-10-10T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "1:6,3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-living-hope-neighborhood-church-w5-1030",
+      "seriesSlug": "add-living-hope-neighborhood-church",
+      "title": "Living Hope Neighborhood Church — Free Food",
+      "description": "Free food at Living Hope Neighborhood Church. Schedule: 1st Sat & 3rd Sat 10 AM–11 AM; Fri 10:30 AM–12:30 PM. Call 510-233-7353 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Living Hope Neighborhood Church",
+      "address": "2800 Rheem Ave, Richmond, CA 94804",
+      "lat": 37.949519,
+      "lng": -122.340713,
+      "category": "food-assistance",
+      "sourceOrg": "Living Hope Neighborhood Church",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "1st Sat & 3rd Sat 10 AM–11 AM; Fri 10:30 AM–12:30 PM",
+      "start": "2026-09-28T10:30",
+      "end": "2026-09-28T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-macdonald-80-shopping-center-m1434-1400",
+      "seriesSlug": "add-macdonald-80-shopping-center",
+      "title": "MacDonald 80 Shopping Center — Free Food",
+      "description": "Free food at MacDonald 80 Shopping Center. Schedule: 1st Thu & 3rd Thu 2 PM–3 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "MacDonald 80 Shopping Center",
+      "address": "4500 Macdonald Ave, Richmond, CA 94805",
+      "lat": 37.93208,
+      "lng": -122.327464,
+      "category": "food-assistance",
+      "sourceOrg": "MacDonald 80 Shopping Center",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "1st Thu & 3rd Thu 2 PM–3 PM",
+      "start": "2026-10-08T14:00",
+      "end": "2026-10-08T15:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4,3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-multicultural-institute-w4-0900",
+      "seriesSlug": "add-multicultural-institute",
+      "title": "Multicultural Institute — Free Food",
+      "description": "Free food at Multicultural Institute. Schedule: Thu 9 AM–11 AM. Call 510-847-1479 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Multicultural Institute",
+      "address": "3600 MacDonald Ave, Richmond, CA 94805",
+      "lat": 37.933834,
+      "lng": -122.335292,
+      "category": "food-assistance",
+      "sourceOrg": "Multicultural Institute",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Thu 9 AM–11 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-nevin-community-center-m2242-1000",
+      "seriesSlug": "add-nevin-community-center",
+      "title": "Nevin Community Center — Free Food",
+      "description": "Free food at Nevin Community Center. Schedule: 2nd Tue & 4th Tue 10 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Nevin Community Center",
+      "address": "598 Nevin Ave, Richmond, CA 94804",
+      "lat": 37.936611,
+      "lng": -122.363982,
+      "category": "food-assistance",
+      "sourceOrg": "Nevin Community Center",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Tue & 4th Tue 10 AM–11 AM",
+      "start": "2026-10-06T10:00",
+      "end": "2026-10-06T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 2
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "2:2,4:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-new-gethsemane-cogic-w3-1000",
+      "seriesSlug": "add-new-gethsemane-cogic",
+      "title": "New Gethsemane COGIC — Free Food",
+      "description": "Free food at New Gethsemane COGIC. Schedule: Wed 10 AM–12 PM. Call 510-620-9628 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "New Gethsemane COGIC",
+      "address": "2100 Roosevelt St, Richmond, CA 94801",
+      "lat": 37.939644,
+      "lng": -122.349113,
+      "category": "food-assistance",
+      "sourceOrg": "New Gethsemane COGIC",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Wed 10 AM–12 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-north-richmond-missionary-baptist-church-m1434-1200",
+      "seriesSlug": "add-north-richmond-missionary-baptist-church",
+      "title": "North Richmond Missionary Baptist Church — Free Food",
+      "description": "Free food at North Richmond Missionary Baptist Church. Schedule: 1st Thu & 3rd Thu 12 PM–1 PM; 2nd Fri 10 AM–12 PM; Wed 10:30 AM–11:30 AM. Call 510-232-7751 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "North Richmond Missionary Baptist Church",
+      "address": "1427 Fred Jackson Way, Richmond, CA 94801",
+      "lat": 37.95354,
+      "lng": -122.36726,
+      "category": "food-assistance",
+      "sourceOrg": "North Richmond Missionary Baptist Church",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "1st Thu & 3rd Thu 12 PM–1 PM; 2nd Fri 10 AM–12 PM; Wed 10:30 AM–11:30 AM",
+      "start": "2026-10-08T12:00",
+      "end": "2026-10-08T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4,3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-north-richmond-missionary-baptist-church-m25-1000",
+      "seriesSlug": "add-north-richmond-missionary-baptist-church",
+      "title": "North Richmond Missionary Baptist Church — Free Food",
+      "description": "Free food at North Richmond Missionary Baptist Church. Schedule: 1st Thu & 3rd Thu 12 PM–1 PM; 2nd Fri 10 AM–12 PM; Wed 10:30 AM–11:30 AM. Call 510-232-7751 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "North Richmond Missionary Baptist Church",
+      "address": "1427 Fred Jackson Way, Richmond, CA 94801",
+      "lat": 37.95354,
+      "lng": -122.36726,
+      "category": "food-assistance",
+      "sourceOrg": "North Richmond Missionary Baptist Church",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "1st Thu & 3rd Thu 12 PM–1 PM; 2nd Fri 10 AM–12 PM; Wed 10:30 AM–11:30 AM",
+      "start": "2026-10-09T10:00",
+      "end": "2026-10-09T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "2:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-north-richmond-missionary-baptist-church-w3-1030",
+      "seriesSlug": "add-north-richmond-missionary-baptist-church",
+      "title": "North Richmond Missionary Baptist Church — Free Food",
+      "description": "Free food at North Richmond Missionary Baptist Church. Schedule: 1st Thu & 3rd Thu 12 PM–1 PM; 2nd Fri 10 AM–12 PM; Wed 10:30 AM–11:30 AM. Call 510-232-7751 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "North Richmond Missionary Baptist Church",
+      "address": "1427 Fred Jackson Way, Richmond, CA 94801",
+      "lat": 37.95354,
+      "lng": -122.36726,
+      "category": "food-assistance",
+      "sourceOrg": "North Richmond Missionary Baptist Church",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "1st Thu & 3rd Thu 12 PM–1 PM; 2nd Fri 10 AM–12 PM; Wed 10:30 AM–11:30 AM",
+      "start": "2026-09-28T10:30",
+      "end": "2026-09-28T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-pilgrim-rest-missionary-baptist-church-pantry-w1-1300",
+      "seriesSlug": "add-pilgrim-rest-missionary-baptist-church-pantry",
+      "title": "Pilgrim Rest Missionary Baptist Church Pantry — Free Food",
+      "description": "Free food at Pilgrim Rest Missionary Baptist Church Pantry. Schedule: Mon 1 PM–2 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Pilgrim Rest Missionary Baptist Church Pantry",
+      "address": "831 S 43rd St, Richmond, CA 94804",
+      "lat": 37.920689,
+      "lng": -122.329902,
+      "category": "food-assistance",
+      "sourceOrg": "Pilgrim Rest Missionary Baptist Church Pantry",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Mon 1 PM–2 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-providence-baptist-church-m34-1130",
+      "seriesSlug": "add-providence-baptist-church",
+      "title": "Providence Baptist Church — Free Food",
+      "description": "Free food at Providence Baptist Church. Schedule: 3rd Thu 11:30 AM–1:30 PM. Call 510-234-1162 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Providence Baptist Church",
+      "address": "314 S 12th St, Richmond, CA 94804",
+      "lat": 37.92768,
+      "lng": -122.357778,
+      "category": "food-assistance",
+      "sourceOrg": "Providence Baptist Church",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "3rd Thu 11:30 AM–1:30 PM",
+      "start": "2026-10-08T11:30",
+      "end": "2026-10-08T13:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-richmond-civic-center-m2444-1200",
+      "seriesSlug": "add-richmond-civic-center",
+      "title": "Richmond Civic Center — Free Food",
+      "description": "Free food at Richmond Civic Center. Schedule: 2nd Thu & 4th Thu 12 PM–1:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Richmond Civic Center",
+      "address": "24 Barrett Ave, Richmond, CA 94804",
+      "lat": 37.938424,
+      "lng": -122.368587,
+      "category": "food-assistance",
+      "sourceOrg": "Richmond Civic Center",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Thu & 4th Thu 12 PM–1:30 PM",
+      "start": "2026-10-08T12:00",
+      "end": "2026-10-08T13:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "2:4,4:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-richmond-emergency-food-pantry-w25-1100",
+      "seriesSlug": "add-richmond-emergency-food-pantry",
+      "title": "Richmond Emergency Food Pantry — Free Food",
+      "description": "Free food at Richmond Emergency Food Pantry. Schedule: Tue, Fri 11 AM–2 PM. Call 510-235-9732 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Richmond Emergency Food Pantry",
+      "address": "2369 Barrett Ave, Richmond, CA 94804",
+      "lat": 37.938736,
+      "lng": -122.345991,
+      "category": "food-assistance",
+      "sourceOrg": "Richmond Emergency Food Pantry",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Tue, Fri 11 AM–2 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sojourner-truth-presbyterian-church-m1636-1200",
+      "seriesSlug": "add-sojourner-truth-presbyterian-church",
+      "title": "Sojourner Truth Presbyterian Church — Free Food",
+      "description": "Free food at Sojourner Truth Presbyterian Church. Schedule: 1st Sat & 3rd Sat 12 PM–1 PM; 3rd Sat 1 PM–3 PM. Call 510-222-2020 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Sojourner Truth Presbyterian Church",
+      "address": "2621 Shane Dr, Richmond, CA 94806",
+      "lat": 37.968563,
+      "lng": -122.335351,
+      "category": "food-assistance",
+      "sourceOrg": "Sojourner Truth Presbyterian Church",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "1st Sat & 3rd Sat 12 PM–1 PM; 3rd Sat 1 PM–3 PM",
+      "start": "2026-10-10T12:00",
+      "end": "2026-10-10T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "1:6,3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sojourner-truth-presbyterian-church-m36-1300",
+      "seriesSlug": "add-sojourner-truth-presbyterian-church",
+      "title": "Sojourner Truth Presbyterian Church — Free Food",
+      "description": "Free food at Sojourner Truth Presbyterian Church. Schedule: 1st Sat & 3rd Sat 12 PM–1 PM; 3rd Sat 1 PM–3 PM. Call 510-222-2020 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Sojourner Truth Presbyterian Church",
+      "address": "2621 Shane Dr, Richmond, CA 94806",
+      "lat": 37.968563,
+      "lng": -122.335351,
+      "category": "food-assistance",
+      "sourceOrg": "Sojourner Truth Presbyterian Church",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "1st Sat & 3rd Sat 12 PM–1 PM; 3rd Sat 1 PM–3 PM",
+      "start": "2026-10-10T13:00",
+      "end": "2026-10-10T15:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-southside-church-of-christ-m42-1000",
+      "seriesSlug": "add-southside-church-of-christ",
+      "title": "Southside Church of Christ — Free Food",
+      "description": "Free food at Southside Church of Christ. Schedule: 4th Tue 10 AM–11:30 AM; 2nd Fri & 4th Fri 10:30 AM–11:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Southside Church of Christ",
+      "address": "1501 Florida Ave, Richmond, CA 94804",
+      "lat": 37.9296,
+      "lng": -122.35469,
+      "category": "food-assistance",
+      "sourceOrg": "Southside Church of Christ",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "4th Tue 10 AM–11:30 AM; 2nd Fri & 4th Fri 10:30 AM–11:30 AM",
+      "start": "2026-10-06T10:00",
+      "end": "2026-10-06T11:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "4:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-southside-church-of-christ-m2545-1030",
+      "seriesSlug": "add-southside-church-of-christ",
+      "title": "Southside Church of Christ — Free Food",
+      "description": "Free food at Southside Church of Christ. Schedule: 4th Tue 10 AM–11:30 AM; 2nd Fri & 4th Fri 10:30 AM–11:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Southside Church of Christ",
+      "address": "1501 Florida Ave, Richmond, CA 94804",
+      "lat": 37.9296,
+      "lng": -122.35469,
+      "category": "food-assistance",
+      "sourceOrg": "Southside Church of Christ",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "4th Tue 10 AM–11:30 AM; 2nd Fri & 4th Fri 10:30 AM–11:30 AM",
+      "start": "2026-10-09T10:30",
+      "end": "2026-10-09T11:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "2:5,4:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-john-missionary-baptist-church-w2-1200",
+      "seriesSlug": "add-st-john-missionary-baptist-church",
+      "title": "St. John Missionary Baptist Church — Free Food",
+      "description": "Free food at St. John Missionary Baptist Church. Schedule: Tue 12 PM–1 PM. Call 714-323-6152 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. John Missionary Baptist Church",
+      "address": "662 S 52nd St, Richmond, CA 94804",
+      "lat": 37.92302,
+      "lng": -122.321516,
+      "category": "food-assistance",
+      "sourceOrg": "St. John Missionary Baptist Church",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Tue 12 PM–1 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-support-life-foundation-richmond-w5-1000",
+      "seriesSlug": "add-support-life-foundation-richmond",
+      "title": "Support Life Foundation Richmond — Free Food",
+      "description": "Free food at Support Life Foundation Richmond. Schedule: Fri 10 AM–11 AM. Call 510-541-6293 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Support Life Foundation Richmond",
+      "address": "1110 36th St, Richmond, CA 94804",
+      "lat": 37.949639,
+      "lng": -122.33272,
+      "category": "food-assistance",
+      "sourceOrg": "Support Life Foundation Richmond",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Fri 10 AM–11 AM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-true-fellowship-baptist-church-m36-1100",
+      "seriesSlug": "add-true-fellowship-baptist-church",
+      "title": "True Fellowship Baptist Church — Free Food",
+      "description": "Free food at True Fellowship Baptist Church. Schedule: 3rd Sat 11 AM–12 PM. Call 510-215-8322 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "True Fellowship Baptist Church",
+      "address": "1213 Fred Jackson Way, Richmond, CA 94801",
+      "lat": 37.95083,
+      "lng": -122.3672,
+      "category": "food-assistance",
+      "sourceOrg": "True Fellowship Baptist Church",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "3rd Sat 11 AM–12 PM",
+      "start": "2026-10-10T11:00",
+      "end": "2026-10-10T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-veteran-s-memorial-hall-m1131-1230",
+      "seriesSlug": "add-veteran-s-memorial-hall",
+      "title": "Veteran's Memorial Hall — Free Food",
+      "description": "Free food at Veteran's Memorial Hall. Schedule: 1st Mon & 3rd Mon 12:30 PM–2 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Veteran's Memorial Hall",
+      "address": "968 23rd St, Richmond, CA 94804",
+      "lat": 37.946788,
+      "lng": -122.347129,
+      "category": "food-assistance",
+      "sourceOrg": "Veteran's Memorial Hall",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "1st Mon & 3rd Mon 12:30 PM–2 PM",
+      "start": "2026-10-05T12:30",
+      "end": "2026-10-05T14:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 1
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "1:1,3:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-west-contra-costa-adult-education-m1131-0930",
+      "seriesSlug": "add-west-contra-costa-adult-education",
+      "title": "West Contra Costa Adult Education — Free Food",
+      "description": "Free food at West Contra Costa Adult Education. Schedule: 1st Mon & 3rd Mon 9:30 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "West Contra Costa Adult Education",
+      "address": "5625 Sutter Ave, Richmond, CA 94804",
+      "lat": 37.90789,
+      "lng": -122.31272,
+      "category": "food-assistance",
+      "sourceOrg": "West Contra Costa Adult Education",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "1st Mon & 3rd Mon 9:30 AM–11 AM",
+      "start": "2026-10-05T09:30",
+      "end": "2026-10-05T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 1
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "1:1,3:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-bayo-vista-child-care-center-m2444-1600",
+      "seriesSlug": "add-bayo-vista-child-care-center",
+      "title": "Bayo Vista Child Care Center — Free Food",
+      "description": "Free food at Bayo Vista Child Care Center. Schedule: 2nd Thu & 4th Thu 4 PM–5 PM; 2nd Tue 10 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Bayo Vista Child Care Center",
+      "address": "2 California St, Rodeo, CA 94572",
+      "lat": 38.03877,
+      "lng": -122.263135,
+      "category": "food-assistance",
+      "sourceOrg": "Bayo Vista Child Care Center",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Thu & 4th Thu 4 PM–5 PM; 2nd Tue 10 AM–12 PM",
+      "start": "2026-10-08T16:00",
+      "end": "2026-10-08T17:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "2:4,4:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-bayo-vista-child-care-center-m22-1000",
+      "seriesSlug": "add-bayo-vista-child-care-center",
+      "title": "Bayo Vista Child Care Center — Free Food",
+      "description": "Free food at Bayo Vista Child Care Center. Schedule: 2nd Thu & 4th Thu 4 PM–5 PM; 2nd Tue 10 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Bayo Vista Child Care Center",
+      "address": "2 California St, Rodeo, CA 94572",
+      "lat": 38.03877,
+      "lng": -122.263135,
+      "category": "food-assistance",
+      "sourceOrg": "Bayo Vista Child Care Center",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Thu & 4th Thu 4 PM–5 PM; 2nd Tue 10 AM–12 PM",
+      "start": "2026-10-06T10:00",
+      "end": "2026-10-06T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "2:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-lefty-gomez-recreational-center-m1131-1200",
+      "seriesSlug": "add-lefty-gomez-recreational-center",
+      "title": "Lefty Gomez Recreational Center — Free Food",
+      "description": "Free food at Lefty Gomez Recreational Center. Schedule: 1st Mon & 3rd Mon 12 PM–1 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Lefty Gomez Recreational Center",
+      "address": "470 Parker Ave, Rodeo, CA 94572",
+      "lat": 38.031468,
+      "lng": -122.266874,
+      "category": "food-assistance",
+      "sourceOrg": "Lefty Gomez Recreational Center",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "1st Mon & 3rd Mon 12 PM–1 PM",
+      "start": "2026-10-05T12:00",
+      "end": "2026-10-05T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 1
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "1:1,3:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-rodeo-senior-center-m2545-0900",
+      "seriesSlug": "add-rodeo-senior-center",
+      "title": "Rodeo Senior Center — Free Food",
+      "description": "Free food at Rodeo Senior Center. Schedule: 2nd Fri & 4th Fri 9 AM–10 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Rodeo Senior Center",
+      "address": "189 Parker Ave, Rodeo, CA 94572",
+      "lat": 38.036154,
+      "lng": -122.267635,
+      "category": "food-assistance",
+      "sourceOrg": "Rodeo Senior Center",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Fri & 4th Fri 9 AM–10 AM",
+      "start": "2026-10-09T09:00",
+      "end": "2026-10-09T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "2:5,4:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-anchor-of-life-church-w3-1630",
+      "seriesSlug": "add-anchor-of-life-church",
+      "title": "Anchor of Life Church — Free Food",
+      "description": "Free food at Anchor of Life Church. Schedule: Wed 4:30 PM–6 PM. Call 510-815-5651 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Anchor of Life Church",
+      "address": "2707 17th St, San Pablo, CA 94806",
+      "lat": 37.970109,
+      "lng": -122.348448,
+      "category": "food-assistance",
+      "sourceOrg": "Anchor of Life Church",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Wed 4:30 PM–6 PM",
+      "start": "2026-09-28T16:30",
+      "end": "2026-09-28T18:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-contra-costa-college-m1131-1330",
+      "seriesSlug": "add-contra-costa-college",
+      "title": "Contra Costa College — Free Food",
+      "description": "Free food at Contra Costa College. Schedule: 1st Mon & 3rd Mon 1:30 PM–3 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Contra Costa College",
+      "address": "2600 Mission Bell Dr, San Pablo, CA 94806",
+      "lat": 37.971762,
+      "lng": -122.33959,
+      "category": "food-assistance",
+      "sourceOrg": "Contra Costa College",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "1st Mon & 3rd Mon 1:30 PM–3 PM",
+      "start": "2026-10-05T13:30",
+      "end": "2026-10-05T15:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 1
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "1:1,3:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-davis-park-community-center-m2545-1130",
+      "seriesSlug": "add-davis-park-community-center",
+      "title": "Davis Park Community Center — Free Food",
+      "description": "Free food at Davis Park Community Center. Schedule: 2nd Fri & 4th Fri 11:30 AM–12:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Davis Park Community Center",
+      "address": "1651 Folsom Ave, San Pablo, CA 94806",
+      "lat": 37.96097,
+      "lng": -122.35278,
+      "category": "food-assistance",
+      "sourceOrg": "Davis Park Community Center",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Fri & 4th Fri 11:30 AM–12:30 PM",
+      "start": "2026-10-09T11:30",
+      "end": "2026-10-09T12:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "2:5,4:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-family-church-ministries-w3-1000",
+      "seriesSlug": "add-family-church-ministries",
+      "title": "Family Church Ministries — Free Food",
+      "description": "Free food at Family Church Ministries. Schedule: Wed 10 AM–12 PM. Call 510-867-5957 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Family Church Ministries",
+      "address": "1452 Rumrill Blvd, San Pablo, CA 94806",
+      "lat": 37.95435,
+      "lng": -122.356707,
+      "category": "food-assistance",
+      "sourceOrg": "Family Church Ministries",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Wed 10 AM–12 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-san-pablo-city-hall-m2646-1400",
+      "seriesSlug": "add-san-pablo-city-hall",
+      "title": "San Pablo City Hall — Free Food",
+      "description": "Free food at San Pablo City Hall. Schedule: 2nd Sat & 4th Sat 2 PM–3 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "San Pablo City Hall",
+      "address": "1000 Gateway Ave, San Pablo, CA 94806",
+      "lat": 37.955839,
+      "lng": -122.338953,
+      "category": "food-assistance",
+      "sourceOrg": "San Pablo City Hall",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "2nd Sat & 4th Sat 2 PM–3 PM",
+      "start": "2026-10-10T14:00",
+      "end": "2026-10-10T15:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6,4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-san-pablo-food-pantry-w13-1200",
+      "seriesSlug": "add-san-pablo-food-pantry",
+      "title": "San Pablo Food Pantry — Free Food",
+      "description": "Free food at San Pablo Food Pantry. Schedule: Mon, Wed 12 PM–1 PM. Call 510-232-0258 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "San Pablo Food Pantry",
+      "address": "2301 Rumrill Blvd Room 27, San Pablo, CA 94806",
+      "lat": 37.964568,
+      "lng": -122.354875,
+      "category": "food-assistance",
+      "sourceOrg": "San Pablo Food Pantry",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Mon, Wed 12 PM–1 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-san-pablo-library-community-room-m1535-0930",
+      "seriesSlug": "add-san-pablo-library-community-room",
+      "title": "San Pablo Library - Community Room — Free Food",
+      "description": "Free food at San Pablo Library - Community Room. Schedule: 1st Fri & 3rd Fri 9:30 AM–10:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "San Pablo Library - Community Room",
+      "address": "13751 San Pablo Ave, San Pablo, CA 94806",
+      "lat": 37.957966,
+      "lng": -122.339862,
+      "category": "food-assistance",
+      "sourceOrg": "San Pablo Library - Community Room",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "1st Fri & 3rd Fri 9:30 AM–10:30 AM",
+      "start": "2026-10-09T09:30",
+      "end": "2026-10-09T10:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "1:5,3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-paul-conference-svdp-w4-1100",
+      "seriesSlug": "add-st-paul-conference-svdp",
+      "title": "St. Paul Conference SVdP — Free Food",
+      "description": "Free food at St. Paul Conference SVdP. Schedule: Thu 11 AM–2 PM. Call 510-691-6404 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Paul Conference SVdP",
+      "address": "1850 Church Lane, San Pablo, CA 94806",
+      "lat": 37.956851,
+      "lng": -122.341616,
+      "category": "food-assistance",
+      "sourceOrg": "St. Paul Conference SVdP",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Thu 11 AM–2 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-san-ramon-valley-islamic-center-m1636-1100",
+      "seriesSlug": "add-san-ramon-valley-islamic-center",
+      "title": "San Ramon Valley Islamic Center — Free Food",
+      "description": "Free food at San Ramon Valley Islamic Center. Schedule: 1st Sat & 3rd Sat 11 AM–1 PM. Call 925-480-9611 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "San Ramon Valley Islamic Center",
+      "address": "3223 Crow Canyon Rd, San Ramon, CA 94583",
+      "lat": 37.779478,
+      "lng": -121.968424,
+      "category": "food-assistance",
+      "sourceOrg": "San Ramon Valley Islamic Center",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "1st Sat & 3rd Sat 11 AM–1 PM",
+      "start": "2026-10-10T11:00",
+      "end": "2026-10-10T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "1:6,3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-mary-s-catholic-church-svdp-w4-1230",
+      "seriesSlug": "add-st-mary-s-catholic-church-svdp",
+      "title": "St. Mary's Catholic Church (SVdP) — Free Food",
+      "description": "Free food at St. Mary's Catholic Church (SVdP). Schedule: Thu 12:30 PM–4:30 PM. Call 925-937-2817 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Mary's Catholic Church (SVdP)",
+      "address": "1186 Bont Lane, Walnut Creek, CA 94596",
+      "lat": 37.895877,
+      "lng": -122.068604,
+      "category": "food-assistance",
+      "sourceOrg": "St. Mary's Catholic Church (SVdP)",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Thu 12:30 PM–4:30 PM",
+      "start": "2026-09-28T12:30",
+      "end": "2026-09-28T16:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-paul-s-episcopal-church-m34-1000",
+      "seriesSlug": "add-st-paul-s-episcopal-church",
+      "title": "St. Paul's Episcopal Church — Free Food",
+      "description": "Free food at St. Paul's Episcopal Church. Schedule: 3rd Thu 10 AM–11:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Paul's Episcopal Church",
+      "address": "1924 Trinity Avenue, Walnut Creek, CA 94596",
+      "lat": 37.901707,
+      "lng": -122.06801,
+      "category": "food-assistance",
+      "sourceOrg": "St. Paul's Episcopal Church",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "3rd Thu 10 AM–11:30 AM",
+      "start": "2026-10-08T10:00",
+      "end": "2026-10-08T11:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-paul-s-trinity-center-meals-w12345-0800",
+      "seriesSlug": "add-st-paul-s-trinity-center-meals",
+      "title": "St. Paul's Trinity Center (meals) — Free Food",
+      "description": "Free food at St. Paul's Trinity Center (meals). Schedule: Mon–Fri 8 AM–9 AM; Mon–Fri 12:15 PM–1:15 PM. Call 925-949-8712 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Paul's Trinity Center (meals)",
+      "address": "1888 Trinity Ave, Walnut Creek, CA 94596",
+      "lat": 37.901707,
+      "lng": -122.067872,
+      "category": "food-assistance",
+      "sourceOrg": "St. Paul's Trinity Center (meals)",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Mon–Fri 8 AM–9 AM; Mon–Fri 12:15 PM–1:15 PM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T09:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-paul-s-trinity-center-meals-w12345-1215",
+      "seriesSlug": "add-st-paul-s-trinity-center-meals",
+      "title": "St. Paul's Trinity Center (meals) — Free Food",
+      "description": "Free food at St. Paul's Trinity Center (meals). Schedule: Mon–Fri 8 AM–9 AM; Mon–Fri 12:15 PM–1:15 PM. Call 925-949-8712 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Paul's Trinity Center (meals)",
+      "address": "1888 Trinity Ave, Walnut Creek, CA 94596",
+      "lat": 37.901707,
+      "lng": -122.067872,
+      "category": "food-assistance",
+      "sourceOrg": "St. Paul's Trinity Center (meals)",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Mon–Fri 8 AM–9 AM; Mon–Fri 12:15 PM–1:15 PM",
+      "start": "2026-09-28T12:15",
+      "end": "2026-09-28T13:15",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-support-life-foundation-walnut-creek-w5-1000",
+      "seriesSlug": "add-support-life-foundation-walnut-creek",
+      "title": "Support Life Foundation Walnut Creek — Free Food",
+      "description": "Free food at Support Life Foundation Walnut Creek. Schedule: Fri 10 AM–11 AM. Call 510-541-6293 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Support Life Foundation Walnut Creek",
+      "address": "2449 Buena Vista Ave Ste 3, Walnut Creek, CA 94597",
+      "lat": 37.91334,
+      "lng": -122.07347,
+      "category": "food-assistance",
+      "sourceOrg": "Support Life Foundation Walnut Creek",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "Fri 10 AM–11 AM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-walnut-creek-church-of-christ-m1434-1000",
+      "seriesSlug": "add-walnut-creek-church-of-christ",
+      "title": "Walnut Creek Church of Christ — Free Food",
+      "description": "Free food at Walnut Creek Church of Christ. Schedule: 1st Thu & 3rd Thu 10 AM–12 PM. Call 925-825-7810 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Walnut Creek Church of Christ",
+      "address": "500 Minert Rd, Walnut Creek, CA 94598",
+      "lat": 37.93809,
+      "lng": -122.03747,
+      "category": "food-assistance",
+      "sourceOrg": "Walnut Creek Church of Christ",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "1st Thu & 3rd Thu 10 AM–12 PM",
+      "start": "2026-10-08T10:00",
+      "end": "2026-10-08T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4,3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-walnut-creek-united-methodist-church-m1434-0930",
+      "seriesSlug": "add-walnut-creek-united-methodist-church",
+      "title": "Walnut Creek United Methodist Church — Free Food",
+      "description": "Free food at Walnut Creek United Methodist Church. Schedule: 1st Thu & 3rd Thu 9:30 AM–10:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Walnut Creek United Methodist Church",
+      "address": "1543 Sunnyvale Ave, Walnut Creek, CA 94596",
+      "lat": 37.928228,
+      "lng": -122.063349,
+      "category": "food-assistance",
+      "sourceOrg": "Walnut Creek United Methodist Church",
+      "url": "https://www.foodbankccs.org/find-food/",
+      "schedulePattern": "1st Thu & 3rd Thu 9:30 AM–10:30 AM",
+      "start": "2026-10-08T09:30",
+      "end": "2026-10-08T10:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4,3:4"
+    }
+  ]
+}

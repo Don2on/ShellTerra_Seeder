@@ -1,0 +1,213 @@
+{
+  "sites": [
+    {
+      "name": "Dolores Mission / Proyecto Pastoral Food Pantry",
+      "org": "Proyecto Pastoral at Dolores Mission",
+      "address": "170 S Gless St, Los Angeles, CA, 90033",
+      "phone": "(323) 881-0018",
+      "website": "https://www.proyectopastoral.org",
+      "eligibility": "Open to the community; Boyle Heights residents",
+      "category": "pantry",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "monthly", "patterns": ["third tuesday"], "open": "10:00", "close": "11:00", "note": "Free community food pantry; also fresh produce several times weekly at Aliso-Pico Rec Center (call for dates)" }
+      ]
+    },
+    {
+      "name": "Downtown Women's Center Day Center",
+      "org": "Downtown Women's Center",
+      "address": "442 S San Pedro St, Los Angeles, CA, 90013",
+      "phone": "(213) 680-0600",
+      "website": "https://downtownwomenscenter.org",
+      "eligibility": "Women and survivors of violence experiencing homelessness/poverty",
+      "category": "hot-meal",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon", "tue", "wed", "thu", "fri"], "open": "08:00", "close": "14:00", "note": "Breakfast 8am, lunch noon (11am first Thursday), afternoon snack 2pm; day center open 6am-4pm weekdays" },
+        { "freq": "weekly", "days": ["sat", "sun"], "open": "08:00", "close": "14:00", "note": "Meals served; day center open 7am-3pm weekends" }
+      ]
+    },
+    {
+      "name": "Fred Jordan Mission",
+      "org": "Fred Jordan Missions",
+      "address": "445 Towne Ave, Los Angeles, CA, 90013",
+      "phone": "(213) 626-2576",
+      "website": "https://www.fjm.org",
+      "eligibility": "Open to all; Skid Row neighbors in need",
+      "category": "hot-meal",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon", "tue", "wed", "thu", "fri", "sat", "sun"], "open": "09:30", "close": "13:30", "note": "Doors open 9:30am breakfast; hot lunch served midday daily until food runs out" }
+      ]
+    },
+    {
+      "name": "SELAH Neighborhood Homeless Coalition Food Pantry",
+      "org": "SELAH Neighborhood Homeless Coalition",
+      "address": "267 Belmont Ave, Los Angeles, CA, 90026",
+      "phone": "",
+      "website": "https://www.selahnhc.org",
+      "eligibility": "Open to all",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["tue", "wed", "thu"], "open": "09:45", "close": "14:00", "note": "Walk-in food pantry" }
+      ]
+    },
+    {
+      "name": "SELAH Tuesday Echo Park Drop-In",
+      "org": "SELAH Neighborhood Homeless Coalition",
+      "address": "1146 Glendale Blvd, Los Angeles, CA, 90026",
+      "phone": "",
+      "website": "https://www.selahnhc.org/scheduled-services",
+      "eligibility": "Unhoused and food-insecure neighbors",
+      "category": "mobile",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["tue"], "open": "09:00", "close": "10:30", "note": "Drop-in at Echo Park United Methodist Church: food, coffee, hygiene items" }
+      ]
+    },
+    {
+      "name": "SELAH Sunday Social on Riverside Dr",
+      "org": "SELAH Neighborhood Homeless Coalition",
+      "address": "3220 Riverside Dr, Los Angeles, CA, 90027",
+      "phone": "",
+      "website": "https://www.selahnhc.org/scheduled-services",
+      "eligibility": "Unhoused and food-insecure neighbors",
+      "category": "mobile",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "monthly", "patterns": ["first sunday"], "open": "11:00", "close": "13:00", "note": "Hot coffee, food, hygiene items" }
+      ]
+    },
+    {
+      "name": "The Center in Hollywood Food Pantry",
+      "org": "The Center in Hollywood (at Blessed Sacrament)",
+      "address": "6636 Selma Ave, Los Angeles, CA, 90028",
+      "phone": "(323) 785-2060",
+      "website": "https://thecenterinhollywood.org",
+      "eligibility": "Open to all; unhoused and low-income neighbors",
+      "category": "pantry",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "weekly", "days": ["tue", "wed", "thu"], "open": "09:00", "close": "10:00", "note": "Food distribution; SELAH Hollywood drop-in also held here Sundays 1-4pm" }
+      ]
+    },
+    {
+      "name": "LA Trade-Tech College Basic Needs Food Pantry",
+      "org": "Los Angeles Trade-Technical College",
+      "address": "400 W Washington Blvd, Los Angeles, CA, 90015",
+      "phone": "(213) 763-7000",
+      "website": "https://www.lattc.edu",
+      "eligibility": "Enrolled LATTC students",
+      "category": "college-pantry",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "weekly", "days": ["thu"], "open": "11:00", "close": "13:00", "note": "Produce/non-perishable distribution at E3 Culinary Arts Outdoor Plaza every other Thursday; Basic Needs Center (C4-126) open Mon-Thu 8am-4pm" }
+      ]
+    },
+    {
+      "name": "East Los Angeles College Basic Needs Food Pantry",
+      "org": "East Los Angeles College",
+      "address": "1301 Avenida Cesar Chavez, Monterey Park, CA, 91754",
+      "phone": "(323) 265-8650",
+      "website": "https://www.elac.edu/student-services/basic-needs-center",
+      "eligibility": "Enrolled ELAC students",
+      "category": "college-pantry",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon", "tue", "wed", "thu"], "open": "08:00", "close": "17:00", "note": "Basic Needs Center F5-300; Fri 8am-1pm; periodic larger pantry distributions at E3 Quad" }
+      ]
+    },
+    {
+      "name": "Crenshaw United Methodist Church Food Pantry",
+      "org": "Crenshaw United Methodist Church",
+      "address": "3740 Don Felipe Dr, Los Angeles, CA, 90008",
+      "phone": "(323) 292-0141",
+      "website": "",
+      "eligibility": "Open to all",
+      "category": "church",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["sat"], "open": "10:00", "close": "12:00", "note": "Trader Joe's rescue food 1st/2nd/4th Saturdays; LA Regional Food Bank on 3rd Saturday" }
+      ]
+    },
+    {
+      "name": "West Adams-Leimert Park FamilySource Center Food Giveaway",
+      "org": "West Adams-Leimert Park FamilySource Center",
+      "address": "4305 Degnan Blvd, Suite 105, Los Angeles, CA, 90008",
+      "phone": "",
+      "website": "",
+      "eligibility": "No eligibility requirements; first come first served while supplies last; bring own bags",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["tue"], "open": "11:30", "close": "15:00", "note": "Free food giveaway" }
+      ]
+    },
+    {
+      "name": "Homeboy Industries Feed HOPE Food Pantry",
+      "org": "Homeboy Industries",
+      "address": "130 W Bruno St, Los Angeles, CA, 90012",
+      "phone": "(323) 526-1254",
+      "website": "https://homeboyindustries.org/feedhope/",
+      "eligibility": "Open to the community; food-insecure individuals and families",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["fri"], "open": "14:00", "close": "15:00", "note": "Free pre-packaged meals/groceries at pantry adjacent to campus on Bruno St" }
+      ]
+    },
+    {
+      "name": "Southeast Churches Service Center",
+      "org": "Southeast Churches Service Center",
+      "address": "2780 E Gage Ave, Huntington Park, CA, 90255",
+      "phone": "(323) 585-8254",
+      "website": "",
+      "eligibility": "Residents of Huntington Park, Maywood, South Gate, Bell Gardens, Bell, Cudahy; State ID + proof of address + income award letter on first visit; once monthly",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon", "tue", "wed", "thu", "fri"], "open": "09:00", "close": "15:30", "note": "Packaged and fresh food; closed noon-1pm" }
+      ]
+    },
+    {
+      "name": "Southeast Rio Vista YMCA Food Distribution",
+      "org": "Southeast Rio Vista YMCA (with LA Regional Food Bank)",
+      "address": "4801 E 58th St, Maywood, CA, 90270",
+      "phone": "(323) 585-6631",
+      "website": "",
+      "eligibility": "Open to the community; free",
+      "category": "mobile",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "monthly", "patterns": ["third monday"], "open": "09:00", "close": "11:00", "note": "Monthly drive-up/community food distribution" }
+      ]
+    },
+    {
+      "name": "Hippie Kitchen (Hospitality Kitchen)",
+      "org": "Los Angeles Catholic Worker",
+      "address": "821 E 6th St, Los Angeles, CA, 90021",
+      "phone": "(213) 614-9615",
+      "website": "https://www.lacatholicworker.org",
+      "eligibility": "Open to all; Skid Row community",
+      "category": "hot-meal",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["tue", "thu", "sat"], "open": "09:00", "close": "12:00", "note": "Free hot meals at corner of 6th St and Gladys Ave" }
+      ]
+    },
+    {
+      "name": "Hollywood United Methodist Church Sack Lunch Program",
+      "org": "Hollywood United Methodist Church",
+      "address": "6817 Franklin Ave, Los Angeles, CA, 90028",
+      "phone": "(323) 874-2104",
+      "website": "https://hollywoodumc.org",
+      "eligibility": "Open to all",
+      "category": "hot-meal",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "weekly", "days": ["tue"], "open": "11:00", "close": "13:00", "note": "Sack lunches, hygiene products and clothing provided" }
+      ]
+    }
+  ]
+}

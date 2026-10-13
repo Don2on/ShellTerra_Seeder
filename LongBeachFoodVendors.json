@@ -1,0 +1,4821 @@
+{
+  "_comment": "Long Beach food-distribution PROVIDER directory derived from LongBeachFoodDistribution.json (seriesSlug grouping). Providers are food banks/pantries/churches/schools, not businesses; category fixed to Food Assistance. Tagline from schedulePattern + sourceOrg. _deferred sites appear as event-less \"call ahead\" cards.",
+  "_shell": "FoodDistributionLongBeach",
+  "_shellId": "6ab8a3910019b374bbb7",
+  "_collection": "vendors",
+  "_source": "LongBeachFoodDistribution.json (City of Long Beach food-distribution guide + Long Beach subset of the LA Regional Food Bank pantry locator — Sep 2026).",
+  "_verify_before_running": "Confirm _shellId matches the seeded activities shell (6ab8a3910019b374bbb7). _eventCount is informational; the seeder ignores it.",
+  "vendors": [
+    {
+      "slug": "long-beach-lutheran-social-services-long-beach-48466",
+      "name": "Long Beach Lutheran Social Services",
+      "category": "Food Assistance",
+      "tagline": "Monday, Tuesday 10 AM-12 PM, 12:30-2 PM, Wednesday 11 AM-12 PM, 12:30-2 PM, Thursday 10 AM-12 PM, 12:30- 2 PM · Los Angeles Regional Food Bank",
+      "description": "Free food distribution site (via Los Angeles Regional Food Bank). Schedule: Monday, Tuesday 10 AM-12 PM, 12:30-2 PM, Wednesday 11 AM-12 PM, 12:30-2 PM, Thursday 10 AM-12 PM, 12:30- 2 PM. Call ahead to confirm hours — distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.lafoodbank.org/find-food/pantry-locator/",
+      "phone": "(562) 599-1321",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "1611 Pine Avenue, Long Beach, CA 90813",
+      "lat": 33.787467,
+      "lng": -118.192732,
+      "neighborhood": "",
+      "hours": "Mon–Tue, 10 AM–12 PM; Mon–Tue, 12:30 PM–2 PM; Wed, 11 AM–12 PM; Wed, 12:30 PM–2 PM; Thu, 10 AM–12 PM; Thu, 12:30 PM–2 PM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-09-29",
+          "time": "10:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-09-29",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-09-30",
+          "time": "11:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-09-30",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-01",
+          "time": "10:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-01",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-05",
+          "time": "10:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-05",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-06",
+          "time": "10:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-06",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-07",
+          "time": "11:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-07",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-08",
+          "time": "10:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-08",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-12",
+          "time": "10:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-12",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-13",
+          "time": "10:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-13",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-14",
+          "time": "11:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-14",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-15",
+          "time": "10:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-15",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-19",
+          "time": "10:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-19",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-20",
+          "time": "10:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-20",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-21",
+          "time": "11:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-21",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-22",
+          "time": "10:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-22",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-26",
+          "time": "10:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-26",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "10:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "11:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-29",
+          "time": "10:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-29",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-02",
+          "time": "10:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-02",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-03",
+          "time": "10:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-03",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-04",
+          "time": "11:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-04",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-05",
+          "time": "10:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-05",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-09",
+          "time": "10:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-09",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-10",
+          "time": "10:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-10",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "11:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-12",
+          "time": "10:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-12",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "10:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "10:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "11:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-19",
+          "time": "10:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-19",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-23",
+          "time": "10:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-23",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-24",
+          "time": "10:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-24",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-25",
+          "time": "11:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-25",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-26",
+          "time": "10:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-26",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-30",
+          "time": "10:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-30",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "10:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-02",
+          "time": "11:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-02",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-03",
+          "time": "10:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-03",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-07",
+          "time": "10:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-07",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-08",
+          "time": "10:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-08",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-09",
+          "time": "11:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-09",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-10",
+          "time": "10:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-10",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-14",
+          "time": "10:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-14",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-15",
+          "time": "10:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-15",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-16",
+          "time": "11:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-16",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-17",
+          "time": "10:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-17",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-21",
+          "time": "10:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-21",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-22",
+          "time": "10:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-22",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-23",
+          "time": "11:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-23",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-24",
+          "time": "10:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-24",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-28",
+          "time": "10:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-28",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-29",
+          "time": "10:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-29",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-30",
+          "time": "11:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-30",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-31",
+          "time": "10:00",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-31",
+          "time": "12:30",
+          "title": "Long Beach Lutheran Social Services - Free Food Distribution"
+        }
+      ],
+      "_eventCount": 110
+    },
+    {
+      "slug": "lb-long-beach-community-table",
+      "name": "Long Beach Community Table",
+      "category": "Food Assistance",
+      "tagline": "Tue–Wed 5:30 PM–7 PM; Fri 12 PM–4 PM; Sat 12 PM–2 PM · City of Long Beach Dept. of Health & Human Services",
+      "description": "Free food distribution site (via City of Long Beach Dept. of Health & Human Services). Schedule: Tue–Wed 5:30 PM–7 PM; Fri 12 PM–4 PM; Sat 12 PM–2 PM. Call ahead to confirm hours — distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.longbeach.gov/health/healthy-living/community/nutrition/",
+      "phone": "(562) 548-0774",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "3311 E. 59th St., Long Beach, CA 90805",
+      "lat": 33.863219,
+      "lng": -118.152743,
+      "neighborhood": "",
+      "hours": "Tue–Wed, 5:30 PM–7 PM; Fri, 12 PM–4 PM; Sat, 12 PM–2 PM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-09-29",
+          "time": "17:30",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-09-30",
+          "time": "17:30",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-02",
+          "time": "12:00",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-03",
+          "time": "12:00",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-06",
+          "time": "17:30",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-07",
+          "time": "17:30",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-09",
+          "time": "12:00",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-10",
+          "time": "12:00",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-13",
+          "time": "17:30",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-14",
+          "time": "17:30",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-16",
+          "time": "12:00",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-17",
+          "time": "12:00",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-20",
+          "time": "17:30",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-21",
+          "time": "17:30",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-23",
+          "time": "12:00",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-24",
+          "time": "12:00",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "17:30",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "17:30",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-30",
+          "time": "12:00",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-31",
+          "time": "12:00",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-03",
+          "time": "17:30",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-04",
+          "time": "17:30",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "12:00",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-07",
+          "time": "12:00",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-10",
+          "time": "17:30",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "17:30",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "12:00",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "12:00",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "17:30",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "17:30",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-20",
+          "time": "12:00",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-21",
+          "time": "12:00",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-24",
+          "time": "17:30",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-25",
+          "time": "17:30",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-27",
+          "time": "12:00",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-28",
+          "time": "12:00",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "17:30",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-02",
+          "time": "17:30",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-04",
+          "time": "12:00",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-05",
+          "time": "12:00",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-08",
+          "time": "17:30",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-09",
+          "time": "17:30",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-11",
+          "time": "12:00",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-12",
+          "time": "12:00",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-15",
+          "time": "17:30",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-16",
+          "time": "17:30",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-18",
+          "time": "12:00",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-19",
+          "time": "12:00",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-22",
+          "time": "17:30",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-23",
+          "time": "17:30",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-25",
+          "time": "12:00",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-26",
+          "time": "12:00",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-29",
+          "time": "17:30",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-30",
+          "time": "17:30",
+          "title": "Long Beach Community Table — Free Food Distribution"
+        }
+      ],
+      "_eventCount": 54
+    },
+    {
+      "slug": "lb-light-life-christian-fellowship",
+      "name": "Light & Life Christian Fellowship",
+      "category": "Food Assistance",
+      "tagline": "Wed 10 AM–12 PM; 2nd Sat 10 AM–12 PM (Farmer's Market Produce) · City of Long Beach Dept. of Health & Human Services",
+      "description": "Free food distribution site (via City of Long Beach Dept. of Health & Human Services). Schedule: Wed 10 AM–12 PM; 2nd Sat 10 AM–12 PM (Farmer's Market Produce). Call ahead to confirm hours — distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.longbeach.gov/health/healthy-living/community/nutrition/",
+      "phone": "(562) 630-6074",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "5951 Downey Ave., Long Beach, CA 90805",
+      "lat": 33.86366,
+      "lng": -118.152312,
+      "neighborhood": "",
+      "hours": "Wed, 10 AM–12 PM; 2nd Sat, 10 AM–12 PM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-09-30",
+          "time": "10:00",
+          "title": "Light & Life Christian Fellowship — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-07",
+          "time": "10:00",
+          "title": "Light & Life Christian Fellowship — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-10",
+          "time": "10:00",
+          "title": "Light & Life Christian Fellowship — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-14",
+          "time": "10:00",
+          "title": "Light & Life Christian Fellowship — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-21",
+          "time": "10:00",
+          "title": "Light & Life Christian Fellowship — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "10:00",
+          "title": "Light & Life Christian Fellowship — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-04",
+          "time": "10:00",
+          "title": "Light & Life Christian Fellowship — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "10:00",
+          "title": "Light & Life Christian Fellowship — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "10:00",
+          "title": "Light & Life Christian Fellowship — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "10:00",
+          "title": "Light & Life Christian Fellowship — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-25",
+          "time": "10:00",
+          "title": "Light & Life Christian Fellowship — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-02",
+          "time": "10:00",
+          "title": "Light & Life Christian Fellowship — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-09",
+          "time": "10:00",
+          "title": "Light & Life Christian Fellowship — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-12",
+          "time": "10:00",
+          "title": "Light & Life Christian Fellowship — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-16",
+          "time": "10:00",
+          "title": "Light & Life Christian Fellowship — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-23",
+          "time": "10:00",
+          "title": "Light & Life Christian Fellowship — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-30",
+          "time": "10:00",
+          "title": "Light & Life Christian Fellowship — Free Food Distribution"
+        }
+      ],
+      "_eventCount": 17
+    },
+    {
+      "slug": "catholic-charities-of-long-beach-long-beach-51149",
+      "name": "Catholic Charities of Long Beach",
+      "category": "Food Assistance",
+      "tagline": "Tuesday, Wednesday 9:30 AM-12 PM, 1:30-3 PM · Los Angeles Regional Food Bank",
+      "description": "Free food distribution site (via Los Angeles Regional Food Bank). Schedule: Tuesday, Wednesday 9:30 AM-12 PM, 1:30-3 PM. Call ahead to confirm hours — distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.lafoodbank.org/find-food/pantry-locator/",
+      "phone": "",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "123 East 14th Street, Long Beach 90813",
+      "lat": 33.784066,
+      "lng": -118.191642,
+      "neighborhood": "",
+      "hours": "Tue–Wed, 9:30 AM–12 PM; Tue–Wed, 1:30 PM–3 PM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-09-29",
+          "time": "09:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-09-29",
+          "time": "13:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-09-30",
+          "time": "09:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-09-30",
+          "time": "13:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-06",
+          "time": "09:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-06",
+          "time": "13:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-07",
+          "time": "09:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-07",
+          "time": "13:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-13",
+          "time": "09:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-13",
+          "time": "13:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-14",
+          "time": "09:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-14",
+          "time": "13:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-20",
+          "time": "09:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-20",
+          "time": "13:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-21",
+          "time": "09:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-21",
+          "time": "13:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "09:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "13:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "09:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "13:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-03",
+          "time": "09:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-03",
+          "time": "13:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-04",
+          "time": "09:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-04",
+          "time": "13:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-10",
+          "time": "09:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-10",
+          "time": "13:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "09:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "13:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "09:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "13:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "09:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "13:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-24",
+          "time": "09:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-24",
+          "time": "13:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-25",
+          "time": "09:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-25",
+          "time": "13:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "09:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "13:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-02",
+          "time": "09:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-02",
+          "time": "13:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-08",
+          "time": "09:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-08",
+          "time": "13:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-09",
+          "time": "09:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-09",
+          "time": "13:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-15",
+          "time": "09:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-15",
+          "time": "13:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-16",
+          "time": "09:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-16",
+          "time": "13:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-22",
+          "time": "09:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-22",
+          "time": "13:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-23",
+          "time": "09:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-23",
+          "time": "13:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-29",
+          "time": "09:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-29",
+          "time": "13:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-30",
+          "time": "09:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-30",
+          "time": "13:30",
+          "title": "Catholic Charities of Long Beach - Free Food Distribution"
+        }
+      ],
+      "_eventCount": 56
+    },
+    {
+      "slug": "lb-salvation-army-long-beach-red-shield-services",
+      "name": "Salvation Army — Long Beach Red Shield Services",
+      "category": "Food Assistance",
+      "tagline": "Mon–Wed, Fri 9:15 AM–11:45 AM · City of Long Beach Dept. of Health & Human Services",
+      "description": "Free food distribution site (via City of Long Beach Dept. of Health & Human Services). Schedule: Mon–Wed, Fri 9:15 AM–11:45 AM. Call ahead to confirm hours — distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.longbeach.gov/health/healthy-living/community/nutrition/",
+      "phone": "(562) 247-3528",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "3092 Long Beach Blvd., Long Beach, CA 90807",
+      "lat": 33.813196,
+      "lng": -118.189006,
+      "neighborhood": "",
+      "hours": "Mon–Wed, Fri, 9:15 AM–11:45 AM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-09-29",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-09-30",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-02",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-05",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-06",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-07",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-09",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-12",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-13",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-14",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-16",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-19",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-20",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-21",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-23",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-26",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-30",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-02",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-03",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-04",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-09",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-10",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-20",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-23",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-24",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-25",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-27",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-30",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-02",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-04",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-07",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-08",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-09",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-11",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-14",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-15",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-16",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-18",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-21",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-22",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-23",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-25",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-28",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-29",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-30",
+          "time": "09:15",
+          "title": "Salvation Army — Long Beach Red Shield Services — Free Food Distribution"
+        }
+      ],
+      "_eventCount": 54
+    },
+    {
+      "slug": "lb-christian-outreach-in-action-coa",
+      "name": "Christian Outreach in Action (COA)",
+      "category": "Food Assistance",
+      "tagline": "Mon–Fri 10 AM–12:30 PM · City of Long Beach Dept. of Health & Human Services",
+      "description": "Free food distribution site (via City of Long Beach Dept. of Health & Human Services). Schedule: Mon–Fri 10 AM–12:30 PM. Call ahead to confirm hours — distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.longbeach.gov/health/healthy-living/community/nutrition/",
+      "phone": "(562) 432-1440",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "515 E. 3rd St., Long Beach, CA 90802",
+      "lat": 33.77072,
+      "lng": -118.18605,
+      "neighborhood": "",
+      "hours": "Mon–Fri, 10 AM–12:30 PM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-09-29",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-09-30",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-01",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-02",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-05",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-06",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-07",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-08",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-09",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-12",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-13",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-14",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-15",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-16",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-19",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-20",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-21",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-22",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-23",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-26",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-29",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-30",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-02",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-03",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-04",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-05",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-09",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-10",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-12",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-19",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-20",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-23",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-24",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-25",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-26",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-27",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-30",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-02",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-03",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-04",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-07",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-08",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-09",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-10",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-11",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-14",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-15",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-16",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-17",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-18",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-21",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-22",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-23",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-24",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-25",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-28",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-29",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-30",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-31",
+          "time": "10:00",
+          "title": "Christian Outreach in Action (COA) — Free Food Distribution"
+        }
+      ],
+      "_eventCount": 68
+    },
+    {
+      "slug": "lb-food-finders-inc-long-beach-senior-center",
+      "name": "Food Finders Inc. — Long Beach Senior Center",
+      "category": "Food Assistance",
+      "tagline": "Mon, Fri from 10:30 AM · City of Long Beach Dept. of Health & Human Services",
+      "description": "Free food distribution site (via City of Long Beach Dept. of Health & Human Services). Schedule: Mon, Fri from 10:30 AM. Call ahead to confirm hours — distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.longbeach.gov/health/healthy-living/community/nutrition/",
+      "phone": "(562) 570-3500",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "1150 E. 4th St., Long Beach, CA 90802",
+      "lat": 33.771163,
+      "lng": -118.176972,
+      "neighborhood": "",
+      "hours": "Mon, Fri, 10:30 AM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-10-02",
+          "time": "10:30",
+          "title": "Food Finders Inc. — Long Beach Senior Center — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-05",
+          "time": "10:30",
+          "title": "Food Finders Inc. — Long Beach Senior Center — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-09",
+          "time": "10:30",
+          "title": "Food Finders Inc. — Long Beach Senior Center — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-12",
+          "time": "10:30",
+          "title": "Food Finders Inc. — Long Beach Senior Center — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-16",
+          "time": "10:30",
+          "title": "Food Finders Inc. — Long Beach Senior Center — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-19",
+          "time": "10:30",
+          "title": "Food Finders Inc. — Long Beach Senior Center — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-23",
+          "time": "10:30",
+          "title": "Food Finders Inc. — Long Beach Senior Center — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-26",
+          "time": "10:30",
+          "title": "Food Finders Inc. — Long Beach Senior Center — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-30",
+          "time": "10:30",
+          "title": "Food Finders Inc. — Long Beach Senior Center — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-02",
+          "time": "10:30",
+          "title": "Food Finders Inc. — Long Beach Senior Center — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "10:30",
+          "title": "Food Finders Inc. — Long Beach Senior Center — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-09",
+          "time": "10:30",
+          "title": "Food Finders Inc. — Long Beach Senior Center — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "10:30",
+          "title": "Food Finders Inc. — Long Beach Senior Center — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "10:30",
+          "title": "Food Finders Inc. — Long Beach Senior Center — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-20",
+          "time": "10:30",
+          "title": "Food Finders Inc. — Long Beach Senior Center — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-23",
+          "time": "10:30",
+          "title": "Food Finders Inc. — Long Beach Senior Center — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-27",
+          "time": "10:30",
+          "title": "Food Finders Inc. — Long Beach Senior Center — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-30",
+          "time": "10:30",
+          "title": "Food Finders Inc. — Long Beach Senior Center — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-04",
+          "time": "10:30",
+          "title": "Food Finders Inc. — Long Beach Senior Center — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-07",
+          "time": "10:30",
+          "title": "Food Finders Inc. — Long Beach Senior Center — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-11",
+          "time": "10:30",
+          "title": "Food Finders Inc. — Long Beach Senior Center — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-14",
+          "time": "10:30",
+          "title": "Food Finders Inc. — Long Beach Senior Center — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-18",
+          "time": "10:30",
+          "title": "Food Finders Inc. — Long Beach Senior Center — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-21",
+          "time": "10:30",
+          "title": "Food Finders Inc. — Long Beach Senior Center — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-25",
+          "time": "10:30",
+          "title": "Food Finders Inc. — Long Beach Senior Center — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-28",
+          "time": "10:30",
+          "title": "Food Finders Inc. — Long Beach Senior Center — Free Food Distribution"
+        }
+      ],
+      "_eventCount": 26
+    },
+    {
+      "slug": "lb-lbcei-church-one-ministries",
+      "name": "LBCEI — Church One Ministries",
+      "category": "Food Assistance",
+      "tagline": "Mon–Thu 11 AM–1 PM · City of Long Beach Dept. of Health & Human Services",
+      "description": "Free food distribution site (via City of Long Beach Dept. of Health & Human Services). Schedule: Mon–Thu 11 AM–1 PM. Call ahead to confirm hours — distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.longbeach.gov/health/healthy-living/community/nutrition/",
+      "phone": "(562) 633-2515",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "700 70th St., Long Beach, CA 90805",
+      "lat": 33.881476,
+      "lng": -118.183573,
+      "neighborhood": "",
+      "hours": "Mon–Thu, 11 AM–1 PM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-09-29",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-09-30",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-01",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-05",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-06",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-07",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-08",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-12",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-13",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-14",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-15",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-19",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-20",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-21",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-22",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-26",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-29",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-02",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-03",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-04",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-05",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-09",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-10",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-12",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-19",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-23",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-24",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-25",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-26",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-30",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-02",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-03",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-07",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-08",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-09",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-10",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-14",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-15",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-16",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-17",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-21",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-22",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-23",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-24",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-28",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-29",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-30",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-31",
+          "time": "11:00",
+          "title": "LBCEI — Church One Ministries — Free Food Distribution"
+        }
+      ],
+      "_eventCount": 55
+    },
+    {
+      "slug": "lb-st-gregory-s-episcopal-church",
+      "name": "St. Gregory's Episcopal Church",
+      "category": "Food Assistance",
+      "tagline": "3rd Wed 9 AM–11 AM · City of Long Beach Dept. of Health & Human Services",
+      "description": "Free food distribution site (via City of Long Beach Dept. of Health & Human Services). Schedule: 3rd Wed 9 AM–11 AM. Call ahead to confirm hours — distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.longbeach.gov/health/healthy-living/community/nutrition/",
+      "phone": "(562) 420-1311",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "6201 E. Willow St., Long Beach, CA 90815",
+      "lat": 33.803589,
+      "lng": -118.110651,
+      "neighborhood": "",
+      "hours": "3rd Wed, 9 AM–11 AM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-10-21",
+          "time": "09:00",
+          "title": "St. Gregory's Episcopal Church — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "09:00",
+          "title": "St. Gregory's Episcopal Church — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-16",
+          "time": "09:00",
+          "title": "St. Gregory's Episcopal Church — Free Food Distribution"
+        }
+      ],
+      "_eventCount": 3
+    },
+    {
+      "slug": "lb-help-me-help-you-hmhy-cesar-chavez-elementary",
+      "name": "Help Me Help You (HMHY) — Cesar Chavez Elementary",
+      "category": "Food Assistance",
+      "tagline": "1st Wed 2 PM–3 PM (Walk-up only) · City of Long Beach Dept. of Health & Human Services",
+      "description": "Free food distribution site (via City of Long Beach Dept. of Health & Human Services). Schedule: 1st Wed 2 PM–3 PM (Walk-up only). Call ahead to confirm hours — distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.longbeach.gov/health/healthy-living/community/nutrition/",
+      "phone": "(562) 612-5001",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "730 W. 3rd St., Long Beach, CA 90802",
+      "lat": 33.769936,
+      "lng": -118.201096,
+      "neighborhood": "",
+      "hours": "1st Wed, 2 PM–3 PM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-10-07",
+          "time": "14:00",
+          "title": "Help Me Help You (HMHY) — Cesar Chavez Elementary — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-04",
+          "time": "14:00",
+          "title": "Help Me Help You (HMHY) — Cesar Chavez Elementary — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-02",
+          "time": "14:00",
+          "title": "Help Me Help You (HMHY) — Cesar Chavez Elementary — Free Food Distribution"
+        }
+      ],
+      "_eventCount": 3
+    },
+    {
+      "slug": "lb-help-me-help-you-hmhy-lincoln-elementary",
+      "name": "Help Me Help You (HMHY) — Lincoln Elementary",
+      "category": "Food Assistance",
+      "tagline": "2nd Wed & 4th Wed 11:15 AM–12:15 PM (Walk-up only) · City of Long Beach Dept. of Health & Human Services",
+      "description": "Free food distribution site (via City of Long Beach Dept. of Health & Human Services). Schedule: 2nd Wed & 4th Wed 11:15 AM–12:15 PM (Walk-up only). Call ahead to confirm hours — distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.longbeach.gov/health/healthy-living/community/nutrition/",
+      "phone": "(562) 612-5001",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "1175 E. 11th St., Long Beach, CA 90813",
+      "lat": 33.781546,
+      "lng": -118.177365,
+      "neighborhood": "",
+      "hours": "2nd & 4th Wed, 11:15 AM–12:15 PM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-10-14",
+          "time": "11:15",
+          "title": "Help Me Help You (HMHY) — Lincoln Elementary — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "11:15",
+          "title": "Help Me Help You (HMHY) — Lincoln Elementary — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "11:15",
+          "title": "Help Me Help You (HMHY) — Lincoln Elementary — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-25",
+          "time": "11:15",
+          "title": "Help Me Help You (HMHY) — Lincoln Elementary — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-09",
+          "time": "11:15",
+          "title": "Help Me Help You (HMHY) — Lincoln Elementary — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-23",
+          "time": "11:15",
+          "title": "Help Me Help You (HMHY) — Lincoln Elementary — Free Food Distribution"
+        }
+      ],
+      "_eventCount": 6
+    },
+    {
+      "slug": "lb-help-me-help-you-hmhy-whittier-elementary",
+      "name": "Help Me Help You (HMHY) — Whittier Elementary",
+      "category": "Food Assistance",
+      "tagline": "3rd Wed 11:30 AM–12:30 PM (Walk-up only) · City of Long Beach Dept. of Health & Human Services",
+      "description": "Free food distribution site (via City of Long Beach Dept. of Health & Human Services). Schedule: 3rd Wed 11:30 AM–12:30 PM (Walk-up only). Call ahead to confirm hours — distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.longbeach.gov/health/healthy-living/community/nutrition/",
+      "phone": "(562) 612-5001",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "1716 Walnut Ave., Long Beach, CA 90813",
+      "lat": 33.788484,
+      "lng": -118.172002,
+      "neighborhood": "",
+      "hours": "3rd Wed, 11:30 AM–12:30 PM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-10-21",
+          "time": "11:30",
+          "title": "Help Me Help You (HMHY) — Whittier Elementary — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "11:30",
+          "title": "Help Me Help You (HMHY) — Whittier Elementary — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-16",
+          "time": "11:30",
+          "title": "Help Me Help You (HMHY) — Whittier Elementary — Free Food Distribution"
+        }
+      ],
+      "_eventCount": 3
+    },
+    {
+      "slug": "lb-help-me-help-you-hmhy-molaa-museum-of-latin-american",
+      "name": "Help Me Help You (HMHY) — MOLAA (Museum of Latin American Art)",
+      "category": "Food Assistance",
+      "tagline": "1st Wed & 3rd Wed 4 PM–5 PM (Walk-up and drive-thru) · City of Long Beach Dept. of Health & Human Services",
+      "description": "Free food distribution site (via City of Long Beach Dept. of Health & Human Services). Schedule: 1st Wed & 3rd Wed 4 PM–5 PM (Walk-up and drive-thru). Call ahead to confirm hours — distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.longbeach.gov/health/healthy-living/community/nutrition/",
+      "phone": "(562) 612-5001",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "628 Alamitos Ave., Long Beach, CA 90802",
+      "lat": 33.774492,
+      "lng": -118.179777,
+      "neighborhood": "",
+      "hours": "1st & 3rd Wed, 4 PM–5 PM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-10-07",
+          "time": "16:00",
+          "title": "Help Me Help You (HMHY) — MOLAA (Museum of Latin American Art) — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-21",
+          "time": "16:00",
+          "title": "Help Me Help You (HMHY) — MOLAA (Museum of Latin American Art) — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-04",
+          "time": "16:00",
+          "title": "Help Me Help You (HMHY) — MOLAA (Museum of Latin American Art) — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "16:00",
+          "title": "Help Me Help You (HMHY) — MOLAA (Museum of Latin American Art) — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-02",
+          "time": "16:00",
+          "title": "Help Me Help You (HMHY) — MOLAA (Museum of Latin American Art) — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-16",
+          "time": "16:00",
+          "title": "Help Me Help You (HMHY) — MOLAA (Museum of Latin American Art) — Free Food Distribution"
+        }
+      ],
+      "_eventCount": 6
+    },
+    {
+      "slug": "lb-help-me-help-you-hmhy-philadelphian-sda-church",
+      "name": "Help Me Help You (HMHY) — Philadelphian SDA Church",
+      "category": "Food Assistance",
+      "tagline": "2nd Wed & 4th Wed 1 PM–2 PM (Walk-up and drive-thru) · City of Long Beach Dept. of Health & Human Services",
+      "description": "Free food distribution site (via City of Long Beach Dept. of Health & Human Services). Schedule: 2nd Wed & 4th Wed 1 PM–2 PM (Walk-up and drive-thru). Call ahead to confirm hours — distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.longbeach.gov/health/healthy-living/community/nutrition/",
+      "phone": "(562) 612-5001",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "2640 Santa Fe Ave., Long Beach, CA 90810",
+      "lat": 33.805188,
+      "lng": -118.215072,
+      "neighborhood": "",
+      "hours": "2nd & 4th Wed, 1 PM–2 PM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-10-14",
+          "time": "13:00",
+          "title": "Help Me Help You (HMHY) — Philadelphian SDA Church — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "13:00",
+          "title": "Help Me Help You (HMHY) — Philadelphian SDA Church — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "13:00",
+          "title": "Help Me Help You (HMHY) — Philadelphian SDA Church — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-25",
+          "time": "13:00",
+          "title": "Help Me Help You (HMHY) — Philadelphian SDA Church — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-09",
+          "time": "13:00",
+          "title": "Help Me Help You (HMHY) — Philadelphian SDA Church — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-23",
+          "time": "13:00",
+          "title": "Help Me Help You (HMHY) — Philadelphian SDA Church — Free Food Distribution"
+        }
+      ],
+      "_eventCount": 6
+    },
+    {
+      "slug": "lb-food-finders-inc-st-lucy-catholic-church",
+      "name": "Food Finders Inc. — St. Lucy Catholic Church",
+      "category": "Food Assistance",
+      "tagline": "Thu 10 AM–12 PM · City of Long Beach Dept. of Health & Human Services",
+      "description": "Free food distribution site (via City of Long Beach Dept. of Health & Human Services). Schedule: Thu 10 AM–12 PM. Call ahead to confirm hours — distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.longbeach.gov/health/healthy-living/community/nutrition/",
+      "phone": "(562) 424-9051",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "2344 Cota Ave., Long Beach, CA 90810",
+      "lat": 33.799734,
+      "lng": -118.216275,
+      "neighborhood": "",
+      "hours": "Thu, 10 AM–12 PM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-10-01",
+          "time": "10:00",
+          "title": "Food Finders Inc. — St. Lucy Catholic Church — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-08",
+          "time": "10:00",
+          "title": "Food Finders Inc. — St. Lucy Catholic Church — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-15",
+          "time": "10:00",
+          "title": "Food Finders Inc. — St. Lucy Catholic Church — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-22",
+          "time": "10:00",
+          "title": "Food Finders Inc. — St. Lucy Catholic Church — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-29",
+          "time": "10:00",
+          "title": "Food Finders Inc. — St. Lucy Catholic Church — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-05",
+          "time": "10:00",
+          "title": "Food Finders Inc. — St. Lucy Catholic Church — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-12",
+          "time": "10:00",
+          "title": "Food Finders Inc. — St. Lucy Catholic Church — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-19",
+          "time": "10:00",
+          "title": "Food Finders Inc. — St. Lucy Catholic Church — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-26",
+          "time": "10:00",
+          "title": "Food Finders Inc. — St. Lucy Catholic Church — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-03",
+          "time": "10:00",
+          "title": "Food Finders Inc. — St. Lucy Catholic Church — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-10",
+          "time": "10:00",
+          "title": "Food Finders Inc. — St. Lucy Catholic Church — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-17",
+          "time": "10:00",
+          "title": "Food Finders Inc. — St. Lucy Catholic Church — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-24",
+          "time": "10:00",
+          "title": "Food Finders Inc. — St. Lucy Catholic Church — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-31",
+          "time": "10:00",
+          "title": "Food Finders Inc. — St. Lucy Catholic Church — Free Food Distribution"
+        }
+      ],
+      "_eventCount": 14
+    },
+    {
+      "slug": "lb-help-me-help-you-hmhy-stevenson-elementary",
+      "name": "Help Me Help You (HMHY) — Stevenson Elementary",
+      "category": "Food Assistance",
+      "tagline": "1st Fri & 3rd Fri 11:30 AM–12:30 PM (Walk-up only) · City of Long Beach Dept. of Health & Human Services",
+      "description": "Free food distribution site (via City of Long Beach Dept. of Health & Human Services). Schedule: 1st Fri & 3rd Fri 11:30 AM–12:30 PM (Walk-up only). Call ahead to confirm hours — distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.longbeach.gov/health/healthy-living/community/nutrition/",
+      "phone": "(562) 612-5001",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "515 Lime Ave., Long Beach, CA 90802",
+      "lat": 33.773803,
+      "lng": -118.184107,
+      "neighborhood": "",
+      "hours": "1st & 3rd Fri, 11:30 AM–12:30 PM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-10-02",
+          "time": "11:30",
+          "title": "Help Me Help You (HMHY) — Stevenson Elementary — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-16",
+          "time": "11:30",
+          "title": "Help Me Help You (HMHY) — Stevenson Elementary — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "11:30",
+          "title": "Help Me Help You (HMHY) — Stevenson Elementary — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-20",
+          "time": "11:30",
+          "title": "Help Me Help You (HMHY) — Stevenson Elementary — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-04",
+          "time": "11:30",
+          "title": "Help Me Help You (HMHY) — Stevenson Elementary — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-18",
+          "time": "11:30",
+          "title": "Help Me Help You (HMHY) — Stevenson Elementary — Free Food Distribution"
+        }
+      ],
+      "_eventCount": 6
+    },
+    {
+      "slug": "lb-help-me-help-you-hmhy-oropeza-elementary",
+      "name": "Help Me Help You (HMHY) — Oropeza Elementary",
+      "category": "Food Assistance",
+      "tagline": "2nd Fri & 4th Fri 11:30 AM–12:30 PM (Walk-up and drive-thru) · City of Long Beach Dept. of Health & Human Services",
+      "description": "Free food distribution site (via City of Long Beach Dept. of Health & Human Services). Schedule: 2nd Fri & 4th Fri 11:30 AM–12:30 PM (Walk-up and drive-thru). Call ahead to confirm hours — distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.longbeach.gov/health/healthy-living/community/nutrition/",
+      "phone": "(562) 612-5001",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "700 Locust Ave., Long Beach, CA 90813",
+      "lat": 33.775949,
+      "lng": -118.190779,
+      "neighborhood": "",
+      "hours": "2nd & 4th Fri, 11:30 AM–12:30 PM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-10-09",
+          "time": "11:30",
+          "title": "Help Me Help You (HMHY) — Oropeza Elementary — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-23",
+          "time": "11:30",
+          "title": "Help Me Help You (HMHY) — Oropeza Elementary — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "11:30",
+          "title": "Help Me Help You (HMHY) — Oropeza Elementary — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-27",
+          "time": "11:30",
+          "title": "Help Me Help You (HMHY) — Oropeza Elementary — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-11",
+          "time": "11:30",
+          "title": "Help Me Help You (HMHY) — Oropeza Elementary — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-25",
+          "time": "11:30",
+          "title": "Help Me Help You (HMHY) — Oropeza Elementary — Free Food Distribution"
+        }
+      ],
+      "_eventCount": 6
+    },
+    {
+      "slug": "lb-help-me-help-you-hmhy-mckinley-elementary",
+      "name": "Help Me Help You (HMHY) — McKinley Elementary",
+      "category": "Food Assistance",
+      "tagline": "2nd Fri & 4th Fri 2 PM–3 PM (Walk-up only) · City of Long Beach Dept. of Health & Human Services",
+      "description": "Free food distribution site (via City of Long Beach Dept. of Health & Human Services). Schedule: 2nd Fri & 4th Fri 2 PM–3 PM (Walk-up only). Call ahead to confirm hours — distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.longbeach.gov/health/healthy-living/community/nutrition/",
+      "phone": "(562) 612-5001",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "6822 Paramount Blvd., Long Beach, CA 90805",
+      "lat": 33.878839,
+      "lng": -118.159546,
+      "neighborhood": "",
+      "hours": "2nd & 4th Fri, 2 PM–3 PM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-10-09",
+          "time": "14:00",
+          "title": "Help Me Help You (HMHY) — McKinley Elementary — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-23",
+          "time": "14:00",
+          "title": "Help Me Help You (HMHY) — McKinley Elementary — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "14:00",
+          "title": "Help Me Help You (HMHY) — McKinley Elementary — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-27",
+          "time": "14:00",
+          "title": "Help Me Help You (HMHY) — McKinley Elementary — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-11",
+          "time": "14:00",
+          "title": "Help Me Help You (HMHY) — McKinley Elementary — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-25",
+          "time": "14:00",
+          "title": "Help Me Help You (HMHY) — McKinley Elementary — Free Food Distribution"
+        }
+      ],
+      "_eventCount": 6
+    },
+    {
+      "slug": "lb-help-me-help-you-hmhy-revive-church",
+      "name": "Help Me Help You (HMHY) — Revive Church",
+      "category": "Food Assistance",
+      "tagline": "1st Fri & 3rd Fri 1 PM–2 PM (Walk-up and drive-thru) · City of Long Beach Dept. of Health & Human Services",
+      "description": "Free food distribution site (via City of Long Beach Dept. of Health & Human Services). Schedule: 1st Fri & 3rd Fri 1 PM–2 PM (Walk-up and drive-thru). Call ahead to confirm hours — distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.longbeach.gov/health/healthy-living/community/nutrition/",
+      "phone": "(562) 612-5001",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "669 Obispo Ave., Long Beach, CA 90814",
+      "lat": 33.775154,
+      "lng": -118.154589,
+      "neighborhood": "",
+      "hours": "1st & 3rd Fri, 1 PM–2 PM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-10-02",
+          "time": "13:00",
+          "title": "Help Me Help You (HMHY) — Revive Church — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-16",
+          "time": "13:00",
+          "title": "Help Me Help You (HMHY) — Revive Church — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "13:00",
+          "title": "Help Me Help You (HMHY) — Revive Church — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-20",
+          "time": "13:00",
+          "title": "Help Me Help You (HMHY) — Revive Church — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-04",
+          "time": "13:00",
+          "title": "Help Me Help You (HMHY) — Revive Church — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-18",
+          "time": "13:00",
+          "title": "Help Me Help You (HMHY) — Revive Church — Free Food Distribution"
+        }
+      ],
+      "_eventCount": 6
+    },
+    {
+      "slug": "lb-crossroads-long-beach",
+      "name": "Crossroads Long Beach",
+      "category": "Food Assistance",
+      "tagline": "3rd Sat 9 AM–12 PM · City of Long Beach Dept. of Health & Human Services",
+      "description": "Free food distribution site (via City of Long Beach Dept. of Health & Human Services). Schedule: 3rd Sat 9 AM–12 PM. Call ahead to confirm hours — distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.longbeach.gov/health/healthy-living/community/nutrition/",
+      "phone": "(562) 428-4611",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "1900 E. South St., Long Beach, CA 90805",
+      "lat": 33.859837,
+      "lng": -118.169168,
+      "neighborhood": "",
+      "hours": "3rd Sat, 9 AM–12 PM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-10-17",
+          "time": "09:00",
+          "title": "Crossroads Long Beach — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-21",
+          "time": "09:00",
+          "title": "Crossroads Long Beach — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-19",
+          "time": "09:00",
+          "title": "Crossroads Long Beach — Free Food Distribution"
+        }
+      ],
+      "_eventCount": 3
+    },
+    {
+      "slug": "lb-tranquility-counseling-services-at-new-hope-church",
+      "name": "Tranquility Counseling Services at New Hope Church",
+      "category": "Food Assistance",
+      "tagline": "1st Sat & 3rd Sat 10 AM–11 AM · City of Long Beach Dept. of Health & Human Services",
+      "description": "Free food distribution site (via City of Long Beach Dept. of Health & Human Services). Schedule: 1st Sat & 3rd Sat 10 AM–11 AM. Call ahead to confirm hours — distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.longbeach.gov/health/healthy-living/community/nutrition/",
+      "phone": "(562) 787-5173",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "1119 E. Rhea St., Long Beach, CA 90806",
+      "lat": 33.792908,
+      "lng": -118.178052,
+      "neighborhood": "",
+      "hours": "1st & 3rd Sat, 10 AM–11 AM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-10-03",
+          "time": "10:00",
+          "title": "Tranquility Counseling Services at New Hope Church — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-17",
+          "time": "10:00",
+          "title": "Tranquility Counseling Services at New Hope Church — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-07",
+          "time": "10:00",
+          "title": "Tranquility Counseling Services at New Hope Church — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-21",
+          "time": "10:00",
+          "title": "Tranquility Counseling Services at New Hope Church — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-05",
+          "time": "10:00",
+          "title": "Tranquility Counseling Services at New Hope Church — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-19",
+          "time": "10:00",
+          "title": "Tranquility Counseling Services at New Hope Church — Free Food Distribution"
+        }
+      ],
+      "_eventCount": 6
+    },
+    {
+      "slug": "lb-pools-of-hope",
+      "name": "Pools of Hope",
+      "category": "Food Assistance",
+      "tagline": "Sat 11 AM–1 PM (Walk-up and drive-thru) · City of Long Beach Dept. of Health & Human Services",
+      "description": "Free food distribution site (via City of Long Beach Dept. of Health & Human Services). Schedule: Sat 11 AM–1 PM (Walk-up and drive-thru). Call ahead to confirm hours — distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.longbeach.gov/health/healthy-living/community/nutrition/",
+      "phone": "(310) 537-2224",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "6801 Long Beach Blvd., Long Beach, CA 90805",
+      "lat": 33.87789,
+      "lng": -118.20436,
+      "neighborhood": "",
+      "hours": "Sat, 11 AM–1 PM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-10-03",
+          "time": "11:00",
+          "title": "Pools of Hope — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-10",
+          "time": "11:00",
+          "title": "Pools of Hope — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-17",
+          "time": "11:00",
+          "title": "Pools of Hope — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-24",
+          "time": "11:00",
+          "title": "Pools of Hope — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-31",
+          "time": "11:00",
+          "title": "Pools of Hope — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-07",
+          "time": "11:00",
+          "title": "Pools of Hope — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "11:00",
+          "title": "Pools of Hope — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-21",
+          "time": "11:00",
+          "title": "Pools of Hope — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-28",
+          "time": "11:00",
+          "title": "Pools of Hope — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-05",
+          "time": "11:00",
+          "title": "Pools of Hope — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-12",
+          "time": "11:00",
+          "title": "Pools of Hope — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-19",
+          "time": "11:00",
+          "title": "Pools of Hope — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-26",
+          "time": "11:00",
+          "title": "Pools of Hope — Free Food Distribution"
+        }
+      ],
+      "_eventCount": 13
+    },
+    {
+      "slug": "lb-women-in-action-reaching-out-greater-open-door-world",
+      "name": "Women in Action Reaching Out (Greater Open Door World Wide Ministries Church)",
+      "category": "Food Assistance",
+      "tagline": "1st Sat & 3rd Sat 9 AM–10 AM · City of Long Beach Dept. of Health & Human Services",
+      "description": "Free food distribution site (via City of Long Beach Dept. of Health & Human Services). Schedule: 1st Sat & 3rd Sat 9 AM–10 AM. Call ahead to confirm hours — distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.longbeach.gov/health/healthy-living/community/nutrition/",
+      "phone": "(562) 253-8078",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "135 W. Victoria St., Long Beach, CA 90805",
+      "lat": 33.86573,
+      "lng": -118.20153,
+      "neighborhood": "",
+      "hours": "1st & 3rd Sat, 9 AM–10 AM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-10-03",
+          "time": "09:00",
+          "title": "Women in Action Reaching Out (Greater Open Door World Wide Ministries Church) — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-17",
+          "time": "09:00",
+          "title": "Women in Action Reaching Out (Greater Open Door World Wide Ministries Church) — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-07",
+          "time": "09:00",
+          "title": "Women in Action Reaching Out (Greater Open Door World Wide Ministries Church) — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-21",
+          "time": "09:00",
+          "title": "Women in Action Reaching Out (Greater Open Door World Wide Ministries Church) — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-05",
+          "time": "09:00",
+          "title": "Women in Action Reaching Out (Greater Open Door World Wide Ministries Church) — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-19",
+          "time": "09:00",
+          "title": "Women in Action Reaching Out (Greater Open Door World Wide Ministries Church) — Free Food Distribution"
+        }
+      ],
+      "_eventCount": 6
+    },
+    {
+      "slug": "lb-help-me-help-you-hmhy-lindsey-academy",
+      "name": "Help Me Help You (HMHY) — Lindsey Academy",
+      "category": "Food Assistance",
+      "tagline": "3rd Sat from 12 PM (Walk-up and drive-thru) · City of Long Beach Dept. of Health & Human Services",
+      "description": "Free food distribution site (via City of Long Beach Dept. of Health & Human Services). Schedule: 3rd Sat from 12 PM (Walk-up and drive-thru). Call ahead to confirm hours — distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.longbeach.gov/health/healthy-living/community/nutrition/",
+      "phone": "(562) 612-5001",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "5075 Daisy Ave., Long Beach, CA 90805",
+      "lat": 33.84814,
+      "lng": -118.19983,
+      "neighborhood": "",
+      "hours": "3rd Sat, 12 PM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-10-17",
+          "time": "12:00",
+          "title": "Help Me Help You (HMHY) — Lindsey Academy — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-21",
+          "time": "12:00",
+          "title": "Help Me Help You (HMHY) — Lindsey Academy — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-19",
+          "time": "12:00",
+          "title": "Help Me Help You (HMHY) — Lindsey Academy — Free Food Distribution"
+        }
+      ],
+      "_eventCount": 3
+    },
+    {
+      "slug": "lb-cherry-carson-assembly-of-god-church",
+      "name": "Cherry-Carson Assembly of God Church",
+      "category": "Food Assistance",
+      "tagline": "Sun from 12:30 PM · City of Long Beach Dept. of Health & Human Services",
+      "description": "Free food distribution site (via City of Long Beach Dept. of Health & Human Services). Schedule: Sun from 12:30 PM. Call ahead to confirm hours — distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.longbeach.gov/health/healthy-living/community/nutrition/",
+      "phone": "(562) 424-8412",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "4103 Cherry Ave., Long Beach, CA 90807",
+      "lat": 33.83332,
+      "lng": -118.16797,
+      "neighborhood": "",
+      "hours": "Sun, 12:30 PM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-10-04",
+          "time": "12:30",
+          "title": "Cherry-Carson Assembly of God Church — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-11",
+          "time": "12:30",
+          "title": "Cherry-Carson Assembly of God Church — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-18",
+          "time": "12:30",
+          "title": "Cherry-Carson Assembly of God Church — Free Food Distribution"
+        },
+        {
+          "date": "2026-10-25",
+          "time": "12:30",
+          "title": "Cherry-Carson Assembly of God Church — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-01",
+          "time": "12:30",
+          "title": "Cherry-Carson Assembly of God Church — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-08",
+          "time": "12:30",
+          "title": "Cherry-Carson Assembly of God Church — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "12:30",
+          "title": "Cherry-Carson Assembly of God Church — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-22",
+          "time": "12:30",
+          "title": "Cherry-Carson Assembly of God Church — Free Food Distribution"
+        },
+        {
+          "date": "2026-11-29",
+          "time": "12:30",
+          "title": "Cherry-Carson Assembly of God Church — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-06",
+          "time": "12:30",
+          "title": "Cherry-Carson Assembly of God Church — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-13",
+          "time": "12:30",
+          "title": "Cherry-Carson Assembly of God Church — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-20",
+          "time": "12:30",
+          "title": "Cherry-Carson Assembly of God Church — Free Food Distribution"
+        },
+        {
+          "date": "2026-12-27",
+          "time": "12:30",
+          "title": "Cherry-Carson Assembly of God Church — Free Food Distribution"
+        }
+      ],
+      "_eventCount": 13
+    },
+    {
+      "slug": "divine-victory-ministries-long-beach-48296",
+      "name": "Divine Victory Ministries",
+      "category": "Food Assistance",
+      "tagline": "Thursday 10 AM-1 PM · Los Angeles Regional Food Bank",
+      "description": "Free food distribution site (via Los Angeles Regional Food Bank). Schedule: Thursday 10 AM-1 PM. Call ahead to confirm hours — distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.lafoodbank.org/find-food/pantry-locator/",
+      "phone": "(562)702-6761",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "1011 Pine Avenue, Long Beach, CA 90813",
+      "lat": 33.779414,
+      "lng": -118.192682,
+      "neighborhood": "",
+      "hours": "Thu, 10 AM–1 PM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-10-01",
+          "time": "10:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-08",
+          "time": "10:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-15",
+          "time": "10:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-22",
+          "time": "10:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-29",
+          "time": "10:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-05",
+          "time": "10:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-12",
+          "time": "10:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-19",
+          "time": "10:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-26",
+          "time": "10:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-03",
+          "time": "10:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-10",
+          "time": "10:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-17",
+          "time": "10:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-24",
+          "time": "10:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-31",
+          "time": "10:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        }
+      ],
+      "_eventCount": 14
+    },
+    {
+      "slug": "we-help-inc-long-beach-48657",
+      "name": "We Help Inc.",
+      "category": "Food Assistance",
+      "tagline": "Saturday 8:30-10:30 AM · Los Angeles Regional Food Bank",
+      "description": "Free food distribution site (via Los Angeles Regional Food Bank). Schedule: Saturday 8:30-10:30 AM. Call ahead to confirm hours — distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.lafoodbank.org/find-food/pantry-locator/",
+      "phone": "(626)641-3604",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "1330 E. 16th Street, Long Beach, CA 90813",
+      "lat": 33.786989,
+      "lng": -118.174508,
+      "neighborhood": "",
+      "hours": "Sat, 8:30 AM–10:30 AM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-10-03",
+          "time": "08:30",
+          "title": "We Help Inc. - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-10",
+          "time": "08:30",
+          "title": "We Help Inc. - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-17",
+          "time": "08:30",
+          "title": "We Help Inc. - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-24",
+          "time": "08:30",
+          "title": "We Help Inc. - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-31",
+          "time": "08:30",
+          "title": "We Help Inc. - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-07",
+          "time": "08:30",
+          "title": "We Help Inc. - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "08:30",
+          "title": "We Help Inc. - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-21",
+          "time": "08:30",
+          "title": "We Help Inc. - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-28",
+          "time": "08:30",
+          "title": "We Help Inc. - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-05",
+          "time": "08:30",
+          "title": "We Help Inc. - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-12",
+          "time": "08:30",
+          "title": "We Help Inc. - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-19",
+          "time": "08:30",
+          "title": "We Help Inc. - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-26",
+          "time": "08:30",
+          "title": "We Help Inc. - Free Food Distribution"
+        }
+      ],
+      "_eventCount": 13
+    },
+    {
+      "slug": "long-beach-poly-high-school-food-bank-long-beach-49371",
+      "name": "Long Beach Poly High School Food Bank",
+      "category": "Food Assistance",
+      "tagline": "Wednesday and Friday 1:15-3:15 PM · Los Angeles Regional Food Bank",
+      "description": "Free food distribution site (via Los Angeles Regional Food Bank). Schedule: Wednesday and Friday 1:15-3:15 PM. Call ahead to confirm hours — distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.lafoodbank.org/find-food/pantry-locator/",
+      "phone": "(323) 561-5504",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "1600 Atlantic Avenue, Long Beach 90813",
+      "lat": 33.787068,
+      "lng": -118.182845,
+      "neighborhood": "",
+      "hours": "Wed, Fri, 1:15 PM–3:15 PM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-09-30",
+          "time": "13:15",
+          "title": "Long Beach Poly High School Food Bank - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-02",
+          "time": "13:15",
+          "title": "Long Beach Poly High School Food Bank - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-07",
+          "time": "13:15",
+          "title": "Long Beach Poly High School Food Bank - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-09",
+          "time": "13:15",
+          "title": "Long Beach Poly High School Food Bank - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-14",
+          "time": "13:15",
+          "title": "Long Beach Poly High School Food Bank - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-16",
+          "time": "13:15",
+          "title": "Long Beach Poly High School Food Bank - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-21",
+          "time": "13:15",
+          "title": "Long Beach Poly High School Food Bank - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-23",
+          "time": "13:15",
+          "title": "Long Beach Poly High School Food Bank - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "13:15",
+          "title": "Long Beach Poly High School Food Bank - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-30",
+          "time": "13:15",
+          "title": "Long Beach Poly High School Food Bank - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-04",
+          "time": "13:15",
+          "title": "Long Beach Poly High School Food Bank - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "13:15",
+          "title": "Long Beach Poly High School Food Bank - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "13:15",
+          "title": "Long Beach Poly High School Food Bank - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "13:15",
+          "title": "Long Beach Poly High School Food Bank - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "13:15",
+          "title": "Long Beach Poly High School Food Bank - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-20",
+          "time": "13:15",
+          "title": "Long Beach Poly High School Food Bank - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-25",
+          "time": "13:15",
+          "title": "Long Beach Poly High School Food Bank - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-27",
+          "time": "13:15",
+          "title": "Long Beach Poly High School Food Bank - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-02",
+          "time": "13:15",
+          "title": "Long Beach Poly High School Food Bank - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-04",
+          "time": "13:15",
+          "title": "Long Beach Poly High School Food Bank - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-09",
+          "time": "13:15",
+          "title": "Long Beach Poly High School Food Bank - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-11",
+          "time": "13:15",
+          "title": "Long Beach Poly High School Food Bank - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-16",
+          "time": "13:15",
+          "title": "Long Beach Poly High School Food Bank - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-18",
+          "time": "13:15",
+          "title": "Long Beach Poly High School Food Bank - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-23",
+          "time": "13:15",
+          "title": "Long Beach Poly High School Food Bank - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-25",
+          "time": "13:15",
+          "title": "Long Beach Poly High School Food Bank - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-30",
+          "time": "13:15",
+          "title": "Long Beach Poly High School Food Bank - Free Food Distribution"
+        }
+      ],
+      "_eventCount": 27
+    },
+    {
+      "slug": "faith-baptist-fellowship-of-long-beach-long-beach-48316",
+      "name": "Faith Baptist Fellowship of Long Beach",
+      "category": "Food Assistance",
+      "tagline": "3rd Saturday 10 AM-12 PM · Los Angeles Regional Food Bank",
+      "description": "Free food distribution site (via Los Angeles Regional Food Bank). Schedule: 3rd Saturday 10 AM-12 PM. Call ahead to confirm hours — distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.lafoodbank.org/find-food/pantry-locator/",
+      "phone": "(310)212-5175",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "2155 Atlantic Avenue, Long Beach, CA 90806",
+      "lat": 33.796308,
+      "lng": -118.185336,
+      "neighborhood": "",
+      "hours": "3rd Sat, 10 AM–12 PM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-10-17",
+          "time": "10:00",
+          "title": "Faith Baptist Fellowship of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-21",
+          "time": "10:00",
+          "title": "Faith Baptist Fellowship of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-19",
+          "time": "10:00",
+          "title": "Faith Baptist Fellowship of Long Beach - Free Food Distribution"
+        }
+      ],
+      "_eventCount": 3
+    },
+    {
+      "slug": "long-beach-city-college-mfp-long-beach-48465",
+      "name": "Long Beach City College - MFP",
+      "category": "Food Assistance",
+      "tagline": "Thursday 1-3 PM · Los Angeles Regional Food Bank",
+      "description": "Free food distribution site (via Los Angeles Regional Food Bank). Schedule: Thursday 1-3 PM. Call ahead to confirm hours — distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.lafoodbank.org/find-food/pantry-locator/",
+      "phone": "(562)938-3241",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "1305 E Pacific Coast Hwy, Long Beach, CA 90806",
+      "lat": 33.791186,
+      "lng": -118.247894,
+      "neighborhood": "",
+      "hours": "Thu, 1 PM–3 PM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-10-01",
+          "time": "13:00",
+          "title": "Long Beach City College - MFP - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-08",
+          "time": "13:00",
+          "title": "Long Beach City College - MFP - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-15",
+          "time": "13:00",
+          "title": "Long Beach City College - MFP - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-22",
+          "time": "13:00",
+          "title": "Long Beach City College - MFP - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-29",
+          "time": "13:00",
+          "title": "Long Beach City College - MFP - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-05",
+          "time": "13:00",
+          "title": "Long Beach City College - MFP - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-12",
+          "time": "13:00",
+          "title": "Long Beach City College - MFP - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-19",
+          "time": "13:00",
+          "title": "Long Beach City College - MFP - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-26",
+          "time": "13:00",
+          "title": "Long Beach City College - MFP - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-03",
+          "time": "13:00",
+          "title": "Long Beach City College - MFP - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-10",
+          "time": "13:00",
+          "title": "Long Beach City College - MFP - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-17",
+          "time": "13:00",
+          "title": "Long Beach City College - MFP - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-24",
+          "time": "13:00",
+          "title": "Long Beach City College - MFP - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-31",
+          "time": "13:00",
+          "title": "Long Beach City College - MFP - Free Food Distribution"
+        }
+      ],
+      "_eventCount": 14
+    },
+    {
+      "slug": "we-help-inc-long-beach-51502",
+      "name": "We Help Inc.",
+      "category": "Food Assistance",
+      "tagline": "3rd Saturday 11:30 AM-1 PM · Los Angeles Regional Food Bank",
+      "description": "Free food distribution site (via Los Angeles Regional Food Bank). Schedule: 3rd Saturday 11:30 AM-1 PM. Call ahead to confirm hours — distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.lafoodbank.org/find-food/pantry-locator/",
+      "phone": "(626)641-3604",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "1455 W. Willow Street, Long Beach 90810",
+      "lat": 33.804777,
+      "lng": -118.211954,
+      "neighborhood": "",
+      "hours": "3rd Sat, 11:30 AM–1 PM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-10-17",
+          "time": "11:30",
+          "title": "We Help Inc. - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-21",
+          "time": "11:30",
+          "title": "We Help Inc. - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-19",
+          "time": "11:30",
+          "title": "We Help Inc. - Free Food Distribution"
+        }
+      ],
+      "_eventCount": 3
+    },
+    {
+      "slug": "truett-memorial-southern-baptist-church-long-beach-48641",
+      "name": "Truett Memorial Southern Baptist Church",
+      "category": "Food Assistance",
+      "tagline": "Monday-Thursday, Saturday 10-11 AM · Los Angeles Regional Food Bank",
+      "description": "Free food distribution site (via Los Angeles Regional Food Bank). Schedule: Monday-Thursday, Saturday 10-11 AM. Call ahead to confirm hours — distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.lafoodbank.org/find-food/pantry-locator/",
+      "phone": "(562) 425-1235",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "3435 San Anseline Avenue, Long Beach, CA 90808",
+      "lat": 33.819743,
+      "lng": -118.121366,
+      "neighborhood": "",
+      "hours": "Mon–Thu, Sat, 10 AM–11 AM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-09-29",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-09-30",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-01",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-03",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-05",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-06",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-07",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-08",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-10",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-12",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-13",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-14",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-15",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-17",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-19",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-20",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-21",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-22",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-24",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-26",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-29",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-31",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-02",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-03",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-04",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-05",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-07",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-09",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-10",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-12",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-19",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-21",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-23",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-24",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-25",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-26",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-28",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-30",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-02",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-03",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-05",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-07",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-08",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-09",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-10",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-12",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-14",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-15",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-16",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-17",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-19",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-21",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-22",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-23",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-24",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-26",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-28",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-29",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-30",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-31",
+          "time": "10:00",
+          "title": "Truett Memorial Southern Baptist Church - Free Food Distribution"
+        }
+      ],
+      "_eventCount": 68
+    },
+    {
+      "slug": "first-southern-baptist-church-of-long-beach-long-beach-48333",
+      "name": "First Southern Baptist Church of Long Beach",
+      "category": "Food Assistance",
+      "tagline": "Saturday 10am - 12pm · Los Angeles Regional Food Bank",
+      "description": "Free food distribution site (via Los Angeles Regional Food Bank). Schedule: Saturday 10am - 12pm. Call ahead to confirm hours — distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.lafoodbank.org/find-food/pantry-locator/",
+      "phone": "562.531.2925",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "3435 San Anseline Avenue, Long Beach, CA 90808",
+      "lat": 33.8197433,
+      "lng": -118.1213659,
+      "neighborhood": "",
+      "hours": "Sat, 10 AM–12 PM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-10-03",
+          "time": "10:00",
+          "title": "First Southern Baptist Church of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-10",
+          "time": "10:00",
+          "title": "First Southern Baptist Church of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-17",
+          "time": "10:00",
+          "title": "First Southern Baptist Church of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-24",
+          "time": "10:00",
+          "title": "First Southern Baptist Church of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-31",
+          "time": "10:00",
+          "title": "First Southern Baptist Church of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-07",
+          "time": "10:00",
+          "title": "First Southern Baptist Church of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "10:00",
+          "title": "First Southern Baptist Church of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-21",
+          "time": "10:00",
+          "title": "First Southern Baptist Church of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-28",
+          "time": "10:00",
+          "title": "First Southern Baptist Church of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-05",
+          "time": "10:00",
+          "title": "First Southern Baptist Church of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-12",
+          "time": "10:00",
+          "title": "First Southern Baptist Church of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-19",
+          "time": "10:00",
+          "title": "First Southern Baptist Church of Long Beach - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-26",
+          "time": "10:00",
+          "title": "First Southern Baptist Church of Long Beach - Free Food Distribution"
+        }
+      ],
+      "_eventCount": 13
+    },
+    {
+      "slug": "long-beach-city-college-mfp-long-beach-48464",
+      "name": "Long Beach City College - MFP",
+      "category": "Food Assistance",
+      "tagline": "Friday 1-3 PM · Los Angeles Regional Food Bank",
+      "description": "Free food distribution site (via Los Angeles Regional Food Bank). Schedule: Friday 1-3 PM. Call ahead to confirm hours — distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.lafoodbank.org/find-food/pantry-locator/",
+      "phone": "(562)938-3241",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "4901 E Carson Street, Long Beach, CA 90808",
+      "lat": 33.832793,
+      "lng": -118.134784,
+      "neighborhood": "",
+      "hours": "Fri, 1 PM–3 PM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-10-02",
+          "time": "13:00",
+          "title": "Long Beach City College - MFP - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-09",
+          "time": "13:00",
+          "title": "Long Beach City College - MFP - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-16",
+          "time": "13:00",
+          "title": "Long Beach City College - MFP - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-23",
+          "time": "13:00",
+          "title": "Long Beach City College - MFP - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-30",
+          "time": "13:00",
+          "title": "Long Beach City College - MFP - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "13:00",
+          "title": "Long Beach City College - MFP - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "13:00",
+          "title": "Long Beach City College - MFP - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-20",
+          "time": "13:00",
+          "title": "Long Beach City College - MFP - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-27",
+          "time": "13:00",
+          "title": "Long Beach City College - MFP - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-04",
+          "time": "13:00",
+          "title": "Long Beach City College - MFP - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-11",
+          "time": "13:00",
+          "title": "Long Beach City College - MFP - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-18",
+          "time": "13:00",
+          "title": "Long Beach City College - MFP - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-25",
+          "time": "13:00",
+          "title": "Long Beach City College - MFP - Free Food Distribution"
+        }
+      ],
+      "_eventCount": 13
+    },
+    {
+      "slug": "divine-victory-ministries-long-beach-48293",
+      "name": "Divine Victory Ministries",
+      "category": "Food Assistance",
+      "tagline": "Saturday 9 AM-12 PM · Los Angeles Regional Food Bank",
+      "description": "Free food distribution site (via Los Angeles Regional Food Bank). Schedule: Saturday 9 AM-12 PM. Call ahead to confirm hours — distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.lafoodbank.org/find-food/pantry-locator/",
+      "phone": "(562)702-6761",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "855 Elm Avenue, Long Beach, CA 90805",
+      "lat": 33.852426,
+      "lng": -118.188349,
+      "neighborhood": "",
+      "hours": "Sat, 9 AM–12 PM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-10-03",
+          "time": "09:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-10",
+          "time": "09:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-17",
+          "time": "09:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-24",
+          "time": "09:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-31",
+          "time": "09:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-07",
+          "time": "09:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "09:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-21",
+          "time": "09:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-28",
+          "time": "09:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-05",
+          "time": "09:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-12",
+          "time": "09:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-19",
+          "time": "09:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-26",
+          "time": "09:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        }
+      ],
+      "_eventCount": 13
+    },
+    {
+      "slug": "divine-victory-ministries-long-beach-48297",
+      "name": "Divine Victory Ministries",
+      "category": "Food Assistance",
+      "tagline": "Sunday 1-3 PM · Los Angeles Regional Food Bank",
+      "description": "Free food distribution site (via Los Angeles Regional Food Bank). Schedule: Sunday 1-3 PM. Call ahead to confirm hours — distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.lafoodbank.org/find-food/pantry-locator/",
+      "phone": "(562)702-6761",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "5514 Atlantic Avenue, Long Beach, CA 90805",
+      "lat": 33.857569,
+      "lng": -118.184787,
+      "neighborhood": "",
+      "hours": "Sun, 1 PM–3 PM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-10-04",
+          "time": "13:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-11",
+          "time": "13:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-18",
+          "time": "13:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-25",
+          "time": "13:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-01",
+          "time": "13:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-08",
+          "time": "13:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "13:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-22",
+          "time": "13:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-29",
+          "time": "13:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-06",
+          "time": "13:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-13",
+          "time": "13:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-20",
+          "time": "13:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-27",
+          "time": "13:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        }
+      ],
+      "_eventCount": 13
+    },
+    {
+      "slug": "divine-victory-ministries-long-beach-48294",
+      "name": "Divine Victory Ministries",
+      "category": "Food Assistance",
+      "tagline": "Monday 12-4 PM · Los Angeles Regional Food Bank",
+      "description": "Free food distribution site (via Los Angeles Regional Food Bank). Schedule: Monday 12-4 PM. Call ahead to confirm hours — distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.lafoodbank.org/find-food/pantry-locator/",
+      "phone": "(562)702-6761",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "6650 Orange Avenue, Long Beach, CA 90805",
+      "lat": 33.875821,
+      "lng": -118.176949,
+      "neighborhood": "",
+      "hours": "Mon, 12 PM–4 PM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-10-05",
+          "time": "12:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-12",
+          "time": "12:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-19",
+          "time": "12:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-26",
+          "time": "12:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-02",
+          "time": "12:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-09",
+          "time": "12:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "12:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-23",
+          "time": "12:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-30",
+          "time": "12:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-07",
+          "time": "12:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-14",
+          "time": "12:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-21",
+          "time": "12:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-28",
+          "time": "12:00",
+          "title": "Divine Victory Ministries - Free Food Distribution"
+        }
+      ],
+      "_eventCount": 13
+    },
+    {
+      "slug": "puente-latino-association-long-beach-48526",
+      "name": "Puente Latino Association",
+      "category": "Food Assistance",
+      "tagline": "3rd Saturday of the month 8-9:30 AM · Los Angeles Regional Food Bank",
+      "description": "Free food distribution site (via Los Angeles Regional Food Bank). Schedule: 3rd Saturday of the month 8-9:30 AM. Call ahead to confirm hours — distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.lafoodbank.org/find-food/pantry-locator/",
+      "phone": "(562)264-5449",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "6850 Atlantic Boulevard, Long Beach, CA 90805",
+      "lat": 33.879534,
+      "lng": -118.182845,
+      "neighborhood": "",
+      "hours": "3rd & 3rd Sat, 8 AM–9:30 AM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-10-17",
+          "time": "08:00",
+          "title": "Puente Latino Association - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-19",
+          "time": "08:00",
+          "title": "Puente Latino Association - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "08:00",
+          "title": "Puente Latino Association - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-21",
+          "time": "08:00",
+          "title": "Puente Latino Association - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-19",
+          "time": "08:00",
+          "title": "Puente Latino Association - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-21",
+          "time": "08:00",
+          "title": "Puente Latino Association - Free Food Distribution"
+        }
+      ],
+      "_eventCount": 6
+    },
+    {
+      "slug": "ministerio-a-la-luz-de-la-palabra-compton-48489",
+      "name": "Ministerio a la Luz de la Palabra",
+      "category": "Food Assistance",
+      "tagline": "Saturday 8 AM-12 PM · Los Angeles Regional Food Bank",
+      "description": "Free food distribution site (via Los Angeles Regional Food Bank). Schedule: Saturday 8 AM-12 PM. Call ahead to confirm hours — distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.lafoodbank.org/find-food/pantry-locator/",
+      "phone": "(310)365-2277",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "111 N. Long Beach Boulevard, Compton, CA 90221",
+      "lat": 33.896575,
+      "lng": -118.208319,
+      "neighborhood": "",
+      "hours": "Sat, 8 AM–12 PM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-10-03",
+          "time": "08:00",
+          "title": "Ministerio a la Luz de la Palabra - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-10",
+          "time": "08:00",
+          "title": "Ministerio a la Luz de la Palabra - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-17",
+          "time": "08:00",
+          "title": "Ministerio a la Luz de la Palabra - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-24",
+          "time": "08:00",
+          "title": "Ministerio a la Luz de la Palabra - Free Food Distribution"
+        },
+        {
+          "date": "2026-10-31",
+          "time": "08:00",
+          "title": "Ministerio a la Luz de la Palabra - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-07",
+          "time": "08:00",
+          "title": "Ministerio a la Luz de la Palabra - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "08:00",
+          "title": "Ministerio a la Luz de la Palabra - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-21",
+          "time": "08:00",
+          "title": "Ministerio a la Luz de la Palabra - Free Food Distribution"
+        },
+        {
+          "date": "2026-11-28",
+          "time": "08:00",
+          "title": "Ministerio a la Luz de la Palabra - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-05",
+          "time": "08:00",
+          "title": "Ministerio a la Luz de la Palabra - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-12",
+          "time": "08:00",
+          "title": "Ministerio a la Luz de la Palabra - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-19",
+          "time": "08:00",
+          "title": "Ministerio a la Luz de la Palabra - Free Food Distribution"
+        },
+        {
+          "date": "2026-12-26",
+          "time": "08:00",
+          "title": "Ministerio a la Luz de la Palabra - Free Food Distribution"
+        }
+      ],
+      "_eventCount": 13
+    }
+  ]
+}

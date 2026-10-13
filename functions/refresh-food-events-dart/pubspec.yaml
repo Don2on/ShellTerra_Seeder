@@ -1,0 +1,8 @@
+name: refresh_food_events
+description: Monthly — roll CaliFood food-vendor events forward from activity recurrence.
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  dart_appwrite: ^13.0.0

@@ -1,0 +1,257 @@
+{
+  "sites": [
+    {
+      "name": "SELAH Neighborhood Homeless Coalition Food Pantry",
+      "org": "SELAH Neighborhood Homeless Coalition",
+      "address": "267 Belmont Ave, Los Angeles, CA 90026",
+      "phone": "",
+      "website": "https://www.selahnhc.org",
+      "eligibility": "Open to all; serves unhoused and low-income neighbors in Silver Lake/Echo Park/Los Feliz/Atwater/Hollywood",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["tue", "wed", "thu"], "open": "09:45", "close": "14:00", "note": "" }
+      ]
+    },
+    {
+      "name": "Thai CDC East Hollywood Certified Farmers Market (Market Match)",
+      "org": "Thai Community Development Center",
+      "address": "6376 Yucca St, Los Angeles, CA 90028",
+      "phone": "(323) 468-2555",
+      "website": "https://thaicdc.org",
+      "eligibility": "Open to all; Market Match doubles CalFresh/EBT purchasing power for fresh produce",
+      "category": "mobile",
+      "confidence": "medium",
+      "schedules": []
+    },
+    {
+      "name": "Seeds of Hope - Harper Community Apartments",
+      "org": "Seeds of Hope / Food Forward",
+      "address": "1260 N Harper Ave, West Hollywood, CA 90046",
+      "phone": "(213) 482-2040",
+      "website": "https://seedsofhope.ladiocese.org",
+      "eligibility": "Open to anyone in need, all ages",
+      "category": "mobile",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "monthly", "patterns": ["third tuesday"], "open": "13:30", "close": "14:30", "note": "" }
+      ]
+    },
+    {
+      "name": "Seeds of Hope - Plummer Park (Fiesta Hall)",
+      "org": "Seeds of Hope / Food Forward",
+      "address": "7377 Santa Monica Blvd, West Hollywood, CA 90046",
+      "phone": "(213) 482-2040",
+      "website": "https://seedsofhope.ladiocese.org",
+      "eligibility": "Open to anyone in need; free fresh produce and pantry staples",
+      "category": "mobile",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "weekly", "days": ["tue"], "open": "10:00", "close": "12:00", "note": "at Plummer Park Fiesta Hall" }
+      ]
+    },
+    {
+      "name": "Margaret Travis Senior Center Food Bank",
+      "org": "City of South Gate Parks & Recreation",
+      "address": "4855 Tweedy Blvd, South Gate, CA 90280",
+      "phone": "(323) 357-9662",
+      "website": "https://www.cityofsouthgate.org",
+      "eligibility": "South Gate residents; income/family-size based; priority for seniors; suggested $3 donation",
+      "category": "senior",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "monthly", "patterns": ["third monday"], "open": "13:00", "close": "15:00", "note": "" }
+      ]
+    },
+    {
+      "name": "St. Bernard Catholic Church Food Pantry",
+      "org": "St. Bernard Catholic Church",
+      "address": "9647 E Beach St, Bellflower, CA 90706",
+      "phone": "(562) 867-2337",
+      "website": "",
+      "eligibility": "Free; neediest families and children in the community",
+      "category": "church",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["tue"], "open": "09:30", "close": "13:00", "note": "" }
+      ]
+    },
+    {
+      "name": "Holy Redeemer Lutheran Church Food Pantry",
+      "org": "Holy Redeemer Lutheran Church",
+      "address": "14515 Blaine Ave, Bellflower, CA 90706",
+      "phone": "(562) 867-0714",
+      "website": "",
+      "eligibility": "Open to community",
+      "category": "church",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["fri"], "open": "09:00", "close": "10:00", "note": "" }
+      ]
+    },
+    {
+      "name": "St. Dominic Savio Church Food Distribution",
+      "org": "St. Dominic Savio Catholic Church",
+      "address": "13400 Bellflower Blvd, Bellflower, CA 90706",
+      "phone": "(562) 920-7796",
+      "website": "",
+      "eligibility": "Open to community",
+      "category": "church",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["thu"], "open": "08:00", "close": "10:00", "note": "" }
+      ]
+    },
+    {
+      "name": "Lakewood First United Methodist Church - Broken Loaf Food Pantry",
+      "org": "Lakewood First United Methodist Church",
+      "address": "4300 N Bellflower Blvd, Lakewood, CA 90713",
+      "phone": "(562) 425-1219",
+      "website": "",
+      "eligibility": "No pre-qualification or forms; food and clothing",
+      "category": "church",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["sat"], "open": "09:00", "close": "11:00", "note": "" }
+      ]
+    },
+    {
+      "name": "The Journey @ Mayfair Church Food Pantry",
+      "org": "The Journey @ Mayfair Church",
+      "address": "6150 Bellflower Blvd, Lakewood, CA 90713",
+      "phone": "(562) 867-3198",
+      "website": "",
+      "eligibility": "Open to community",
+      "category": "church",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "monthly", "patterns": ["second saturday"], "open": "08:30", "close": "10:00", "note": "" }
+      ]
+    },
+    {
+      "name": "Holy Family Catholic Church Food Pantry (Artesia)",
+      "org": "Holy Family Catholic Church",
+      "address": "18708 Clarkdale Ave, Artesia, CA 90701",
+      "phone": "(562) 865-2185",
+      "website": "https://www.holyfamilyartesia.org",
+      "eligibility": "Open to community; drive-through in parking lot",
+      "category": "church",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "monthly", "patterns": ["third saturday"], "open": "09:00", "close": "11:00", "note": "drive-through" }
+      ]
+    },
+    {
+      "name": "New Life Community Church Food Pantry (Artesia)",
+      "org": "New Life Community Church",
+      "address": "18800 Norwalk Blvd, Artesia, CA 90701",
+      "phone": "(562) 924-4466",
+      "website": "https://nl-cc.org",
+      "eligibility": "Open to community; serves 100-250 families weekly",
+      "category": "church",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["sat"], "open": "09:00", "close": "10:00", "note": "" }
+      ]
+    },
+    {
+      "name": "New Life Lutheran Church - Norwalk Area Food Pantry",
+      "org": "New Life Lutheran Church",
+      "address": "12712 Feldner Rd, Norwalk, CA 90650",
+      "phone": "",
+      "website": "https://www.newlifenorwalk.org",
+      "eligibility": "Open to Norwalk area residents",
+      "category": "church",
+      "confidence": "medium",
+      "schedules": []
+    },
+    {
+      "name": "St. James AME Church - Compton Food Pantry",
+      "org": "St. James AME Church / Compton Food Pantry",
+      "address": "601 W Rosecrans Ave, Compton, CA 90222",
+      "phone": "(310) 801-1490",
+      "website": "",
+      "eligibility": "Open to community; senior/disabled delivery available",
+      "category": "church",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["sat"], "open": "12:00", "close": "15:00", "note": "community distribution" },
+        { "freq": "monthly", "patterns": ["fourth sunday"], "open": "12:00", "close": "13:00", "note": "church distribution" }
+      ]
+    },
+    {
+      "name": "Alondra Church of Christ Food Pantry",
+      "org": "Alondra Church of Christ",
+      "address": "2301 E Alondra Blvd, Compton, CA 90221",
+      "phone": "(310) 632-1146",
+      "website": "",
+      "eligibility": "Call ahead before visiting",
+      "category": "church",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon"], "open": "09:45", "close": "11:45", "note": "" }
+      ]
+    },
+    {
+      "name": "Kingdom Life Christian Fellowship Food Distribution",
+      "org": "Kingdom Life Christian Fellowship",
+      "address": "1919 E Compton Blvd, Compton, CA 90221",
+      "phone": "",
+      "website": "",
+      "eligibility": "Open to community; free groceries",
+      "category": "church",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "monthly", "patterns": ["third saturday"], "open": "", "close": "", "note": "free groceries; time call-ahead" }
+      ]
+    },
+    {
+      "name": "Catholic Charities Pico Rivera Family Resource Center Food Pantry",
+      "org": "Catholic Charities of Los Angeles",
+      "address": "5014 Passons Blvd, Pico Rivera, CA 90660",
+      "phone": "(562) 949-0937",
+      "website": "https://catholiccharitiesla.org",
+      "eligibility": "ID required; non-residents need proof of income and utility bill",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["tue", "thu"], "open": "09:00", "close": "12:00", "note": "also 13:30-15:00 same days" }
+      ]
+    },
+    {
+      "name": "Cory's Kitchen - Calvary Chapel Pico Rivera",
+      "org": "Cory's Kitchen / Calvary Chapel Pico Rivera",
+      "address": "8110 Paramount Blvd, Pico Rivera, CA 90660",
+      "phone": "(562) 777-5134",
+      "website": "https://www.coryskitchen.org",
+      "eligibility": "Open to community",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "monthly", "patterns": ["first thursday", "third thursday"], "open": "18:00", "close": "19:30", "note": "" }
+      ]
+    },
+    {
+      "name": "Las Buenas Nuevas Church Food Distribution",
+      "org": "Las Buenas Nuevas Church",
+      "address": "11910 Alondra Blvd, Norwalk, CA 90650",
+      "phone": "(562) 926-3147",
+      "website": "",
+      "eligibility": "Open to community",
+      "category": "church",
+      "confidence": "medium",
+      "schedules": []
+    },
+    {
+      "name": "Community Resource Center - Norwalk Food Pantry",
+      "org": "Community Resource Center of Los Angeles",
+      "address": "11721 Rosecrans Ave, Norwalk, CA 90650",
+      "phone": "",
+      "website": "https://www.communityresourcecenterla.org",
+      "eligibility": "Free food pantry open to community",
+      "category": "pantry",
+      "confidence": "medium",
+      "schedules": []
+    }
+  ]
+}

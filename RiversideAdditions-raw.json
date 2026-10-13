@@ -1,0 +1,3840 @@
+{
+  "_meta": {
+    "topic": "Riverside County food distributions",
+    "generated": "2026-10-11",
+    "source": "Hand-collected list (Placer Food Bank/Feeding the Foothills, FBNN, FIND Food Bank, Feeding America Riverside-San Bernardino). Schedules parsed via LA clause parser. lat/lng geocoded downstream.",
+    "note": "Drop-in raw for prepare-food-additions.mjs. Single start-times / \"daily\" / \"on call\"-only route to _deferred."
+  },
+  "sites": [
+    {
+      "name": "Wellspring Church",
+      "org": "Wellspring Church",
+      "address": "44-175 Washington St, Indian Wells, CA 92210",
+      "phone": "(760) 200-2000",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "2nd Sat 7am-9am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat"
+          ],
+          "open": "07:00",
+          "close": "09:00"
+        }
+      ]
+    },
+    {
+      "name": "FIND Mobile Market - Rancho Las Flores Park",
+      "org": "FIND Mobile Market - Rancho Las Flores Park",
+      "address": "48400 Van Buren St, Coachella, CA 92236",
+      "phone": "(760) 775-3663",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Fri 7am-9am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Fri"
+          ],
+          "open": "07:00",
+          "close": "09:00"
+        }
+      ]
+    },
+    {
+      "name": "FIND Mobile Market - Oasis Elementary School",
+      "org": "FIND Mobile Market - Oasis Elementary School",
+      "address": "88175 74th Ave, Thermal, CA 92274",
+      "phone": "(760) 775-3663",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Fri 4pm-6pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Fri",
+            "4th Fri"
+          ],
+          "open": "16:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "FIND Mobile Market - North Shore Community Park",
+      "org": "FIND Mobile Market - North Shore Community Park",
+      "address": "99480 70th Ave, Mecca, CA 92254",
+      "phone": "(760) 775-3663",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Tue 4pm-6pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Tue"
+          ],
+          "open": "16:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "FIND Mobile Market - La Quinta Library",
+      "org": "FIND Mobile Market - La Quinta Library",
+      "address": "78275 Calle Tampico, La Quinta, CA 92253",
+      "phone": "(760) 775-3663",
+      "eligibility": "walk-up, seniors only",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Sat 7am-9am (walk-up, seniors only)",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Sat"
+          ],
+          "open": "07:00",
+          "close": "09:00"
+        }
+      ]
+    },
+    {
+      "name": "Set Free Church Desert Center",
+      "org": "Set Free Church Desert Center",
+      "address": "25980 Kaiser Rd, Desert Center, CA 92239",
+      "phone": "(760) 718-7571",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Daily 9am-6pm",
+      "schedules": []
+    },
+    {
+      "name": "Set Free Church Blythe",
+      "org": "Set Free Church Blythe",
+      "address": "350 N. Palm Dr, Blythe, CA 92225",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 9am-3pm; every other Sat 9am-3pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "15:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "09:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Idyllwild Forest Health Project",
+      "org": "Idyllwild Forest Health Project",
+      "address": "54162 Maranatha Dr, Idyllwild-Pine Cove, CA 92549",
+      "phone": "(951) 468-0110",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Thu 12pm-2pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu",
+            "4th Thu"
+          ],
+          "open": "12:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "First Baptist Church Indio",
+      "org": "First Baptist Church Indio",
+      "address": "82490 Doctor Carreon Blvd, Indio, CA 92201",
+      "phone": "(760) 342-6299",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 8:30am-9:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "08:30",
+          "close": "09:30"
+        }
+      ]
+    },
+    {
+      "name": "Desert Hot Springs Senior Center",
+      "org": "Desert Hot Springs Senior Center",
+      "address": "11777 West Dr, Desert Hot Springs, CA 92240",
+      "phone": "(760) 329-0222",
+      "eligibility": "age 55+ only",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Wed 9am-11am (age 55+ only)",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Wed"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Ripley Center",
+      "org": "Ripley Center",
+      "address": "24501 School Rd, Ripley, CA 92225",
+      "phone": "(760) 922-9873",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Wed 8am-10am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Wed"
+          ],
+          "open": "08:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Iglesia Fraternidad Cristiana",
+      "org": "Iglesia Fraternidad Cristiana",
+      "address": "83151 Requa Ave, Indio, CA 92201",
+      "phone": "(760) 342-0692",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mar-Oct; Nov-Feb",
+      "schedules": []
+    },
+    {
+      "name": "La Mision de San Juan Diego",
+      "org": "La Mision de San Juan Diego",
+      "address": "100110 Compass Dr, North Shore, CA 92254",
+      "phone": "(760) 899-2012",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Tue 5pm-6pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Tue"
+          ],
+          "open": "17:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Louis Rey Church",
+      "org": "St. Louis Rey Church",
+      "address": "68633 C St, Cathedral City, CA 92234",
+      "phone": "(760) 844-6629",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Fri 9am-10am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri"
+          ],
+          "open": "09:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Grace Church DHS",
+      "org": "Grace Church DHS",
+      "address": "17400 Bubbling Wells Rd, Desert Hot Springs, CA 92241",
+      "phone": "(760) 251-2416",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Tue 5pm-6pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Tue"
+          ],
+          "open": "17:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "FIND Mobile Market - Sky Valley Community Center",
+      "org": "FIND Mobile Market - Sky Valley Community Center",
+      "address": "20905 Hot Springs Rd, Desert Hot Springs, CA 92241",
+      "phone": "(760) 775-3663",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Tue 4pm-5pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Tue"
+          ],
+          "open": "16:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "FIND Mobile Market - Desert Mirage High School",
+      "org": "FIND Mobile Market - Desert Mirage High School",
+      "address": "86150 Ave 66, Thermal, CA 92274",
+      "phone": "(760) 775-3663",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Wed 4pm-6pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Wed"
+          ],
+          "open": "16:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "FIND Mobile Market - Cabot Yerxa Elementary School",
+      "org": "FIND Mobile Market - Cabot Yerxa Elementary School",
+      "address": "67067 Desert View Ave, Desert Hot Springs, CA 92240",
+      "phone": "(760) 775-3663",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Mon 9am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Mon"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "FIND Mobile Market - Coachella Valley High School",
+      "org": "FIND Mobile Market - Coachella Valley High School",
+      "address": "83800 Airport Blvd, Thermal, CA 92274",
+      "phone": "(760) 775-3663",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Mon 11am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Mon"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Well in the Desert",
+      "org": "Well in the Desert",
+      "address": "181 N. Indian Canyon, Palm Springs, CA 92262",
+      "phone": "(760) 656-8905",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 6am until gone; hot lunch Mon-Fri",
+      "schedules": []
+    },
+    {
+      "name": "Desert Chapel",
+      "org": "Desert Chapel",
+      "address": "630 S. Sunrise Way, Palm Springs, CA 92264",
+      "phone": "(760) 327-2772",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Sat 7am-8am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat",
+            "4th Sat"
+          ],
+          "open": "07:00",
+          "close": "08:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Theresa's Catholic Church",
+      "org": "St. Theresa's Catholic Church",
+      "address": "2800 E. Ramon Rd, Palm Springs, CA 92264",
+      "phone": "(760) 323-2669",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 7:30am-11:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "07:30",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "The Center - The Community Food Bank",
+      "org": "The Center - The Community Food Bank",
+      "address": "2901 E. Alejo Rd, Palm Springs, CA 92262",
+      "phone": "(760) 416-7790",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 5pm-7pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "17:00",
+          "close": "19:00"
+        }
+      ]
+    },
+    {
+      "name": "FIND Mobile Market - James O. Jessie Desert Highlands Unity Center",
+      "org": "FIND Mobile Market - James O. Jessie Desert Highlands Unity Center",
+      "address": "480 W Tramview Rd, Palm Springs, CA 92262",
+      "phone": "(760) 775-3663",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Thu 4pm-6pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu",
+            "4th Thu"
+          ],
+          "open": "16:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "FIND Mobile Market - Palm Springs Convention Center",
+      "org": "FIND Mobile Market - Palm Springs Convention Center",
+      "address": "277 N. Avenida Caballeros, Palm Springs, CA 92262",
+      "phone": "(760) 775-3663",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Thu 4pm-5:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu"
+          ],
+          "open": "16:00",
+          "close": "17:30"
+        }
+      ]
+    },
+    {
+      "name": "Palm Desert Oasis Church",
+      "org": "Palm Desert Oasis Church",
+      "address": "74-200 Country Club Dr, Palm Desert, CA 92260",
+      "phone": "(760) 568-0809",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "Sat 7:30am-8:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "07:30",
+          "close": "08:30"
+        }
+      ]
+    },
+    {
+      "name": "The Joslyn Center",
+      "org": "The Joslyn Center",
+      "address": "73-750 Catalina Way, Palm Desert, CA 92260",
+      "phone": "(760) 895-4652",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "Fri 8am-10am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "08:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "St. John's Lutheran Church",
+      "org": "St. John's Lutheran Church",
+      "address": "42-695 Washington St, Palm Desert, CA 92211",
+      "phone": "(760) 345-2122",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "call to confirm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "07:00",
+          "close": "08:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Margaret's Church Neighbors 4 Neighbors",
+      "org": "St. Margaret's Church Neighbors 4 Neighbors",
+      "address": "47-535 Hwy 74, Palm Desert, CA 92260",
+      "phone": "(760) 346-2697",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "Tue 10am-5pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "FIND Mobile Market - Palm Desert High School",
+      "org": "FIND Mobile Market - Palm Desert High School",
+      "address": "74910 Aztec Rd, Palm Desert, CA 92260",
+      "phone": "(760) 775-3663",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Wed 4:30pm-6pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Wed"
+          ],
+          "open": "16:30",
+          "close": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Iglesia Un Manantial en el Desierto",
+      "org": "Iglesia Un Manantial en el Desierto",
+      "address": "99241 Access Rd, North Shore, CA 92254",
+      "phone": "(760) 238-2186",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Every other Thu 8pm",
+      "schedules": []
+    },
+    {
+      "name": "Galilee Center",
+      "org": "Galilee Center",
+      "address": "66-101 Hammond Rd, Mecca, CA 92254",
+      "phone": "(760) 396-9100",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "Thu 3pm until gone",
+      "schedules": []
+    },
+    {
+      "name": "Catholic Charities Site #2",
+      "org": "Catholic Charities Site #2",
+      "address": "99-155 Sea View Dr, Mecca, CA 92254",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "Wed 8am-9:15am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "08:00",
+          "close": "09:15"
+        }
+      ]
+    },
+    {
+      "name": "Catholic Charities Site #1",
+      "org": "Catholic Charities Site #1",
+      "address": "65-050 Cahuilla St, Mecca, CA 92254",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "Wed 8am-9:15am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "08:00",
+          "close": "09:15"
+        }
+      ]
+    },
+    {
+      "name": "Community Food Pantry",
+      "org": "Community Food Pantry",
+      "address": "81050 Harrison St, Thermal, CA 92274",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Wed, Fri 9:30am-11:30am; 2nd & 4th Wed 5pm-6:30pm; 1st Sat 9:30am-11:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed",
+            "Fri"
+          ],
+          "open": "09:30",
+          "close": "11:30"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed",
+            "4th Wed"
+          ],
+          "open": "17:00",
+          "close": "18:30"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Sat"
+          ],
+          "open": "09:30",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Coachella Valley Rescue Mission",
+      "org": "Coachella Valley Rescue Mission",
+      "address": "47-470 Van Buren St, Indio, CA 92201",
+      "phone": "(760) 347-3512",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "Food distribution Wed 8am-10am; hot meals daily",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "08:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Destiny Church",
+      "org": "Destiny Church",
+      "address": "82625 Showcase Parkway, Indio, CA 92203",
+      "phone": "(760) 863-0700",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 8am-9am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "08:00",
+          "close": "09:00"
+        }
+      ]
+    },
+    {
+      "name": "Iglesia Bethel",
+      "org": "Iglesia Bethel",
+      "address": "43-907 Jackson St, Indio, CA 92201",
+      "phone": "(760) 574-8065",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "1st Fri 6:30pm-8pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri"
+          ],
+          "open": "18:30",
+          "close": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "Martha's Village & Kitchen",
+      "org": "Martha's Village & Kitchen",
+      "address": "83791 Date Ave, Indio, CA 92201",
+      "phone": "(760) 347-4741",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "USDA 3rd Wed 8am-10am; emergency bags Mon-Fri 8am-10am & 1pm-3pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Wed"
+          ],
+          "open": "08:00",
+          "close": "10:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "08:00",
+          "close": "10:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "13:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "St. John's Episcopal Church",
+      "org": "St. John's Episcopal Church",
+      "address": "45319 Deglet Noor St, Indio, CA 92201",
+      "phone": "(760) 347-3265",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "drive-thru",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Thu"
+          ],
+          "open": "14:30",
+          "close": "17:30"
+        }
+      ]
+    },
+    {
+      "name": "Love of Christ",
+      "org": "Love of Christ",
+      "address": "43640 Burr St, Indio, CA 92201",
+      "phone": "(760) 777-2825",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Fri 6:30pm-7:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Fri"
+          ],
+          "open": "18:30",
+          "close": "19:30"
+        }
+      ]
+    },
+    {
+      "name": "FIND Mobile Market - Shadow Hills High School",
+      "org": "FIND Mobile Market - Shadow Hills High School",
+      "address": "39225 Jefferson St, Indio, CA 92201",
+      "phone": "(760) 775-3663",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Sat 8am-10am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Sat"
+          ],
+          "open": "08:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "FIND Mobile Market - Mathis Brothers",
+      "org": "FIND Mobile Market - Mathis Brothers",
+      "address": "81410 CA-111, Indio, CA 92201",
+      "phone": "(760) 775-3663",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Sat 6:30am-8:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "06:30",
+          "close": "08:30"
+        }
+      ]
+    },
+    {
+      "name": "Abundant Life Church",
+      "org": "Abundant Life Church",
+      "address": "82025 Bliss St, Indio, CA 92201",
+      "phone": "(760) 775-5959",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 8am-9:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "08:00",
+          "close": "09:30"
+        }
+      ]
+    },
+    {
+      "name": "The Narrow Door",
+      "org": "The Narrow Door",
+      "address": "43052 Madison St Ste 101, Indio, CA 92201",
+      "phone": "(760) 775-6200",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Sat 9am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "FIND Regional Food Bank Mobile Market",
+      "org": "FIND Regional Food Bank Mobile Market",
+      "address": "83775 Citrus Ave, Indio, CA 92201",
+      "phone": "(760) 775-3663",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 7am-8:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "07:00",
+          "close": "08:30"
+        }
+      ]
+    },
+    {
+      "name": "Boys & Girls Club Indio",
+      "org": "Boys & Girls Club Indio",
+      "address": "83100 Date Ave, Indio, CA 92201",
+      "phone": "(760) 836-1160",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Thu 4pm until food runs out",
+      "schedules": []
+    },
+    {
+      "name": "Food Now",
+      "org": "Food Now",
+      "address": "14080 Palm Dr Ste E, Desert Hot Springs, CA 92240",
+      "phone": "(760) 288-7878",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed & Thu 7:30am-10:30am drive-thru",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed",
+            "Thu"
+          ],
+          "open": "07:30",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "St. Elizabeth's Pantry",
+      "org": "St. Elizabeth's Pantry",
+      "address": "66700 Pierson Blvd, Desert Hot Springs, CA 92240",
+      "phone": "(760) 329-8794",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 8:30am-10:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "08:30",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "Family Worship Center",
+      "org": "Family Worship Center",
+      "address": "85901 Vista Del Norte, Coachella, CA 92236",
+      "phone": "(760) 574-0583",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 6pm-7pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "18:00",
+          "close": "19:00"
+        }
+      ]
+    },
+    {
+      "name": "F.I.S.H.",
+      "org": "F.I.S.H.",
+      "address": "1612 1st St, Coachella, CA 92236",
+      "phone": "(760) 398-9000",
+      "eligibility": "photo ID first visit",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue, Wed, Fri 8am-9am (photo ID first visit)",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Wed",
+            "Fri"
+          ],
+          "open": "08:00",
+          "close": "09:00"
+        }
+      ]
+    },
+    {
+      "name": "Centro Libre",
+      "org": "Centro Libre",
+      "address": "83246 Ave 50, Coachella, CA 92236",
+      "phone": "(760) 698-3191",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "May through September",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "last Tue"
+          ],
+          "open": "17:00",
+          "close": "19:00"
+        }
+      ]
+    },
+    {
+      "name": "Calvary Christian Center",
+      "org": "Calvary Christian Center",
+      "address": "68550 Dinah Shore Dr, Cathedral City, CA 92234",
+      "phone": "(760) 656-3525",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat after the 2nd Thu 8am-10am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu"
+          ],
+          "open": "08:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Salvation Army - Cathedral City",
+      "org": "Salvation Army - Cathedral City",
+      "address": "30400 Landau Blvd, Cathedral City, CA 92234",
+      "phone": "(760) 324-2275",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon & Fri 9am-10am; USDA 3rd Tue 1pm-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "10:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Tue"
+          ],
+          "open": "13:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Cathedral City Senior Center",
+      "org": "Cathedral City Senior Center",
+      "address": "37171 W. Buddy Rogers Ave, Cathedral City, CA 92234",
+      "phone": "(760) 321-1548",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 8:30am-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "08:30",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Vision Eterna",
+      "org": "Vision Eterna",
+      "address": "35688 Cathedral Canyon Dr Ste 101, Cathedral City, CA 92234",
+      "phone": "(760) 883-9216",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Sat 8am-10am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Sat"
+          ],
+          "open": "08:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "FIND Mobile Market - Agua Caliente Elementary School",
+      "org": "FIND Mobile Market - Agua Caliente Elementary School",
+      "address": "30800 San Luis Rey Dr, Cathedral City, CA 92234",
+      "phone": "(760) 775-3663",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Sat 9am-10am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Sat"
+          ],
+          "open": "09:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "FIND Mobile Market - Cabazon Community Center",
+      "org": "FIND Mobile Market - Cabazon Community Center",
+      "address": "50390 Carmen Ave, Cabazon, CA 92230",
+      "phone": "(760) 775-3663",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Wed 10am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Wed"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Blythe Emergency Food Pantry",
+      "org": "Blythe Emergency Food Pantry",
+      "address": "181 South Main St, Blythe, CA 92225",
+      "phone": "(760) 922-8836",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Wed, Fri 10am-11:45am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed",
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "11:45"
+        }
+      ]
+    },
+    {
+      "name": "FIND Mobile Market - Anza Electric Co-op",
+      "org": "FIND Mobile Market - Anza Electric Co-op",
+      "address": "54870 CA-371, Anza, CA 92539",
+      "phone": "(760) 775-3663",
+      "eligibility": "",
+      "website": "https://findfoodbank.org/map",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Sat 9am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Idyllwild Community Center",
+      "org": "Idyllwild Community Center",
+      "address": "25925 Cedar St, Idyllwild-Pine Cove, CA 92549",
+      "phone": "(951) 659-2638",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Tue 10am-12:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Tue"
+          ],
+          "open": "10:00",
+          "close": "12:30"
+        }
+      ]
+    },
+    {
+      "name": "Food for the Faithful",
+      "org": "Food for the Faithful",
+      "address": "56250 CA-371, Anza, CA 92539",
+      "phone": "(951) 763-5636",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Last Fri of month 7am-2pm; Wed & Thu 7am-2pm on call",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "last Fri"
+          ],
+          "open": "07:00",
+          "close": "14:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed",
+            "Thu"
+          ],
+          "open": "07:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "FSA - James A Venable Community Center",
+      "org": "FSA - James A Venable Community Center",
+      "address": "50390 Carmen Ave, Cabazon, CA 92230",
+      "phone": "(951) 922-1097",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Tue 9:30am-11:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Tue"
+          ],
+          "open": "09:30",
+          "close": "11:30"
+        }
+      ],
+      "allowColocated": true
+    },
+    {
+      "name": "Bread of Life Church",
+      "org": "Bread of Life Church",
+      "address": "45252 CA-74, Hemet, CA 92544",
+      "phone": "(951) 927-8217",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sun 10am-1:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sun"
+          ],
+          "open": "10:00",
+          "close": "13:30"
+        }
+      ]
+    },
+    {
+      "name": "First Missionary Baptist Church of Banning",
+      "org": "First Missionary Baptist Church of Banning",
+      "address": "332 N Allen St, Banning, CA 92220",
+      "phone": "(951) 849-8113",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Wed 10am-2pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed",
+            "4th Wed"
+          ],
+          "open": "10:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "H.E.L.P. Inc.",
+      "org": "H.E.L.P. Inc.",
+      "address": "53 S 6th St, Banning, CA 92220",
+      "phone": "(951) 922-2305",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 9am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Hub City Church",
+      "org": "Hub City Church",
+      "address": "109 N 2nd St, Banning, CA 92220",
+      "phone": "(760) 985-5657",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sun 10am-12pm; Tue & Fri 5pm-7pm; Thu 10am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sun"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Fri"
+          ],
+          "open": "17:00",
+          "close": "19:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "10:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Kateri Catholic Church",
+      "org": "St. Kateri Catholic Church",
+      "address": "157 W Nicolet St, Banning, CA 92220",
+      "phone": "(951) 845-2849",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Wed 8:30am-10:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Wed",
+            "3rd Wed"
+          ],
+          "open": "08:30",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "Kids Cures Foundation",
+      "org": "Kids Cures Foundation",
+      "address": "2041 W Nicolet St, Beaumont, CA 92223",
+      "phone": "(951) 378-6124",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Sat 10am-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat",
+            "4th Sat"
+          ],
+          "open": "10:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "SDA Hemet Church",
+      "org": "SDA Hemet Church",
+      "address": "27025 Girard St, Hemet, CA 92544",
+      "phone": "(951) 929-2632",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue & Wed 9am-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Wed"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "San Jacinto United Methodist Church",
+      "org": "San Jacinto United Methodist Church",
+      "address": "210 S San Jacinto Ave, San Jacinto, CA 92583",
+      "phone": "(951) 654-2307",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 1pm-2pm; 2nd Sun 8am-9am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "13:00",
+          "close": "14:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sun"
+          ],
+          "open": "08:00",
+          "close": "09:00"
+        }
+      ]
+    },
+    {
+      "name": "Sunrise Church - Banning",
+      "org": "Sunrise Church - Banning",
+      "address": "4024 W Wilson St, Banning, CA 92220",
+      "phone": "(909) 875-5566",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue-Fri 9am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Evangequip Missions",
+      "org": "Evangequip Missions",
+      "address": "530 S Buena Vista St, Hemet, CA 92543",
+      "phone": "(909) 838-8062",
+      "eligibility": "by appointment only",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 7pm-8pm; Fri & Sat 5pm-7pm (by appointment only)",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "19:00",
+          "close": "20:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri",
+            "Sat"
+          ],
+          "open": "17:00",
+          "close": "19:00"
+        }
+      ]
+    },
+    {
+      "name": "Community Pantry and Valley Community Pantry",
+      "org": "Community Pantry and Valley Community Pantry",
+      "address": "305 E Devonshire, Hemet, CA 92543",
+      "phone": "(951) 929-1101",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Tue, Wed 9:30am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed"
+          ],
+          "open": "09:30",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Our Lady of the Valley Catholic Church",
+      "org": "Our Lady of the Valley Catholic Church",
+      "address": "780 S State St, Hemet, CA 92543",
+      "phone": "(951) 765-9691",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Tue 8:30am-9am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Tue"
+          ],
+          "open": "08:30",
+          "close": "09:00"
+        }
+      ]
+    },
+    {
+      "name": "Mt. San Jacinto College - San Jacinto Campus",
+      "org": "Mt. San Jacinto College - San Jacinto Campus",
+      "address": "1499 N State St, San Jacinto, CA 92583",
+      "phone": "(951) 487-6752",
+      "eligibility": "students only",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 10am-12pm (students only)",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "My City Youth",
+      "org": "My City Youth",
+      "address": "145 N Tahquitz Ave, Hemet, CA 92543",
+      "phone": "(951) 652-0647",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 9am-5pm; Wed 10am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "The Salvation Army Hemet Corps",
+      "org": "The Salvation Army Hemet Corps",
+      "address": "340 S Palm Ave, Hemet, CA 92543",
+      "phone": "(951) 791-9497",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Wed, Fri 11:30am-1:30pm; 3rd Thu 10am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed",
+            "Fri"
+          ],
+          "open": "11:30",
+          "close": "13:30"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Thu"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Carol's Kitchen Inc.",
+      "org": "Carol's Kitchen Inc.",
+      "address": "244 Maple Ave Suite W, Beaumont, CA 92223",
+      "phone": "(909) 284-4104",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Tue, Thu, Fri 11:30am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Thu",
+            "Fri"
+          ],
+          "open": "11:30",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Beaumont Seventh Day Adventist",
+      "org": "Beaumont Seventh Day Adventist",
+      "address": "1343 Palm Ave, Beaumont, CA 92223",
+      "phone": "(909) 229-2472",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 2nd Wed 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Wed",
+            "2nd Wed"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "First Church of God",
+      "org": "First Church of God",
+      "address": "31371 CA-74, Homeland, CA 92548",
+      "phone": "(951) 926-1345",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 9am-11am; 2nd Mon 9am-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Mon"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Mt. San Jacinto College - Menifee Campus",
+      "org": "Mt. San Jacinto College - Menifee Campus",
+      "address": "28237 La Piedra Rd, Menifee, CA 92584",
+      "phone": "(951) 487-6752",
+      "eligibility": "students only",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Wed 8:30am-2pm (students only)",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed"
+          ],
+          "open": "08:30",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Mission Ministry Trinity Baptist Church",
+      "org": "Mission Ministry Trinity Baptist Church",
+      "address": "29175 Ironwood Ave, Moreno Valley, CA 92555",
+      "phone": "(951) 601-0253",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 9:30am-12:30pm; 3rd Wed 10am-12pm; Thu 9:30am-12:30pm on call",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "09:30",
+          "close": "12:30"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Wed"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "09:30",
+          "close": "12:30"
+        }
+      ]
+    },
+    {
+      "name": "Perris Church of Christ",
+      "org": "Perris Church of Christ",
+      "address": "27157 Sunset Ave, Perris, CA 92571",
+      "phone": "(951) 928-2055",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Sat 10am-11:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Sat"
+          ],
+          "open": "10:00",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Canyon Hills Calvary Chapel Food Pantry",
+      "org": "Canyon Hills Calvary Chapel Food Pantry",
+      "address": "28125 Bradley Rd Ste 130, Menifee, CA 92586",
+      "phone": "(951) 265-8421",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 11:30am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "11:30",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Menifee Valley Community Cupboard",
+      "org": "Menifee Valley Community Cupboard",
+      "address": "26808 Cherry Hills Blvd, Sun City, CA 92586",
+      "phone": "(951) 301-4414",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 10am-1pm; 3rd Wed 10am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "10:00",
+          "close": "13:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Wed"
+          ],
+          "open": "10:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Society of St Vincent de Paul - St Catherine of Alexandria",
+      "org": "Society of St Vincent de Paul - St Catherine of Alexandria",
+      "address": "41875 C St, Temecula, CA 92592",
+      "phone": "(562) 537-4692",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "on call",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Community Food Pantry Murrieta",
+      "org": "Community Food Pantry Murrieta",
+      "address": "39493 Los Alamos Rd Suite A, Murrieta, CA 92563",
+      "phone": "(951) 677-6347",
+      "eligibility": "",
+      "website": "https://communityoutreachofmurrieta.com",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed & Thu 6am-10am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed",
+            "Thu"
+          ],
+          "open": "06:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "VNW - Circle of Care Inc.",
+      "org": "VNW - Circle of Care Inc.",
+      "address": "26090 Ynez Rd, Temecula, CA 92591",
+      "phone": "(951) 973-3582",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Thu 8:30am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "08:30",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Mission Hope",
+      "org": "Mission Hope",
+      "address": "41760 Rider Way, Temecula, CA 92590",
+      "phone": "(951) 751-5828",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue, Wed, Thu 9:30am-12pm; 2nd Mon 9:30am-12:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "09:30",
+          "close": "12:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Mon"
+          ],
+          "open": "09:30",
+          "close": "12:30"
+        }
+      ]
+    },
+    {
+      "name": "The Salvation Army - Murrieta Corps",
+      "org": "The Salvation Army - Murrieta Corps",
+      "address": "40270 Los Alamos Rd, Murrieta, CA 92562",
+      "phone": "(951) 677-1324",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 8:30am-11:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "08:30",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "RCCD Foundation - Moreno Valley College",
+      "org": "RCCD Foundation - Moreno Valley College",
+      "address": "16130 Lasselle St, Moreno Valley, CA 92551",
+      "phone": "(951) 571-6263",
+      "eligibility": "students only",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Wed 1pm-5pm; Thu 9am-5pm (students only)",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed"
+          ],
+          "open": "13:00",
+          "close": "17:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Greater Works Church",
+      "org": "Greater Works Church",
+      "address": "25823 Jefferson Ave, Murrieta, CA 92562",
+      "phone": "(951) 805-8309",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st, 3rd, 5th Wed 12:30pm-2pm; Sat 12pm-1:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Wed",
+            "3rd Wed",
+            "5th Wed"
+          ],
+          "open": "12:30",
+          "close": "14:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "12:00",
+          "close": "13:30"
+        }
+      ]
+    },
+    {
+      "name": "Saint James Community Food Pantry",
+      "org": "Saint James Community Food Pantry",
+      "address": "269 W 3rd St, Perris, CA 92570",
+      "phone": "(951) 657-2380",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon & Wed 10:30am-1:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "open": "10:30",
+          "close": "13:30"
+        }
+      ]
+    },
+    {
+      "name": "SDA Lake Perris Church",
+      "org": "SDA Lake Perris Church",
+      "address": "377 W 3rd St, Perris, CA 92570",
+      "phone": "(951) 453-2033",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 10am-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Murrieta Senior Center",
+      "org": "Murrieta Senior Center",
+      "address": "5 Town Square, Murrieta, CA 92562",
+      "phone": "(951) 304-7275",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Tue 9am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Tue"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Murrieta United Methodist Church",
+      "org": "Murrieta United Methodist Church",
+      "address": "24652 Adams Ave, Murrieta, CA 92562",
+      "phone": "(951) 813-9701",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 8am-9am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "08:00",
+          "close": "09:00"
+        }
+      ]
+    },
+    {
+      "name": "MovementChurch Choice Market",
+      "org": "MovementChurch Choice Market",
+      "address": "25550 Ironwood Ave, Moreno Valley, CA 92557",
+      "phone": "(951) 491-9240",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 9am-10:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "09:00",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "The Salvation Army Moreno Valley",
+      "org": "The Salvation Army Moreno Valley",
+      "address": "24741 Alessandro Blvd, Moreno Valley, CA 92553",
+      "phone": "(951) 784-4490",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Wed, Fri 12pm-3pm; 1st Mon 11am-2pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed",
+            "Fri"
+          ],
+          "open": "12:00",
+          "close": "15:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Mon"
+          ],
+          "open": "11:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Survival Ministries",
+      "org": "Survival Ministries",
+      "address": "23100 Betty Rd, Perris, CA 92570",
+      "phone": "(951) 657-8810",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon & Wed 9am-12pm; Fri 9am-11:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Bethel AME Church",
+      "org": "Bethel AME Church",
+      "address": "24480 Sophie St, Perris, CA 92570",
+      "phone": "(951) 657-5705",
+      "eligibility": "",
+      "website": "https://bameperris.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Sat 11am-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Sat"
+          ],
+          "open": "11:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Casa de Oracion Perris",
+      "org": "Casa de Oracion Perris",
+      "address": "1895 Weston Rd, Perris, CA 92570",
+      "phone": "(949) 309-7022",
+      "eligibility": "on call only",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Daily 5pm-7pm (on call only)",
+      "schedules": []
+    },
+    {
+      "name": "SDA Moreno Valley",
+      "org": "SDA Moreno Valley",
+      "address": "12649 Indian St, Moreno Valley, CA 92553",
+      "phone": "(951) 662-4857",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 9am-3pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "09:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Ministerio Juda",
+      "org": "Ministerio Juda",
+      "address": "22109 Rocky Hills Rd, Perris, CA 92570",
+      "phone": "(951) 238-4116",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sun 10am-1pm; Fri 10am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sun"
+          ],
+          "open": "10:00",
+          "close": "13:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Moreno Valley Conference & Recreation Center",
+      "org": "Moreno Valley Conference & Recreation Center",
+      "address": "14075 Frederick St, Moreno Valley, CA 92553",
+      "phone": "(951) 413-3430",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Thu 9am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Bread Of Life Fellowship Apostolic Assembly",
+      "org": "Bread Of Life Fellowship Apostolic Assembly",
+      "address": "21020 Malaga Rd, Lake Elsinore, CA 92532",
+      "phone": "(951) 245-0124",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue, Wed, Thu 10am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Charles Meigs Community Center",
+      "org": "Charles Meigs Community Center",
+      "address": "21091 Rider St, Perris, CA 92570",
+      "phone": "(951) 210-1580",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Last Wed of month 9am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "last Wed"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Helping Hands Group",
+      "org": "Helping Hands Group",
+      "address": "31877 Corydon Rd Suite 110, Lake Elsinore, CA 92530",
+      "phone": "(951) 445-2354",
+      "eligibility": "delivery only, by appointment",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 3rd Sat 12pm-2pm (delivery only, by appointment)",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat",
+            "3rd Sat"
+          ],
+          "open": "12:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Generations Church",
+      "org": "Generations Church",
+      "address": "12125 Day St A203, Moreno Valley, CA 92557",
+      "phone": "(951) 686-6000",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "on call",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Al Rahma Food Bank",
+      "org": "Al Rahma Food Bank",
+      "address": "12125 Day St T102, Moreno Valley, CA 92557",
+      "phone": "(951) 378-3033",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 2pm-5pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "14:00",
+          "close": "17:00"
+        }
+      ],
+      "allowColocated": true
+    },
+    {
+      "name": "Cross Word Christian Church",
+      "org": "Cross Word Christian Church",
+      "address": "21401 Box Springs Rd, Moreno Valley, CA 92557",
+      "phone": "(951) 275-5360",
+      "eligibility": "",
+      "website": "https://crosswordchurch.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Sat 10am-11:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat",
+            "4th Sat"
+          ],
+          "open": "10:00",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "HOPE Food Pantry",
+      "org": "HOPE Food Pantry",
+      "address": "506 W Minthorn St, Lake Elsinore, CA 92530",
+      "phone": "(951) 376-3703",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue, Wed, Thu 9am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "The Grove Community Church Corner Pantry",
+      "org": "The Grove Community Church Corner Pantry",
+      "address": "19321 Grove Community Dr, Riverside, CA 92508",
+      "phone": "(951) 571-9090",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "closed 2nd Mon",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "09:30",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "3 Phases of Becoming a Woman",
+      "org": "3 Phases of Becoming a Woman",
+      "address": "17498 Grand Ave, Lake Elsinore, CA 92530",
+      "phone": "(951) 378-1051",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue-Sat 9am-5pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat"
+          ],
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Vineyard Christian Fellowship",
+      "org": "Vineyard Christian Fellowship",
+      "address": "17470 Grand Ave, Lake Elsinore, CA 92530",
+      "phone": "(951) 678-9419",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue, Thu, Sat 8:30am-9am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Thu",
+            "Sat"
+          ],
+          "open": "08:30",
+          "close": "09:00"
+        }
+      ]
+    },
+    {
+      "name": "R'Pantry - UC Riverside",
+      "org": "R'Pantry - UC Riverside",
+      "address": "900 University Ave HUB 346, Riverside, CA 92521",
+      "phone": "(951) 827-3663",
+      "eligibility": "college students only",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Tue, Wed, Fri 10am-4:30pm (college students only)",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "16:30"
+        }
+      ]
+    },
+    {
+      "name": "FSA - Highgrove Community Center",
+      "org": "FSA - Highgrove Community Center",
+      "address": "459 Center St, Riverside, CA 92507",
+      "phone": "(951) 686-1096",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Fri 8am-10:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Fri"
+          ],
+          "open": "08:00",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "Jamboree Housing",
+      "org": "Jamboree Housing",
+      "address": "550 Center St, Riverside, CA 92507",
+      "phone": "(949) 263-8676",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Mon 4:30pm-5:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Mon"
+          ],
+          "open": "16:30",
+          "close": "17:30"
+        }
+      ]
+    },
+    {
+      "name": "SDA Riverside Spanish Church",
+      "org": "SDA Riverside Spanish Church",
+      "address": "3625 Ottawa Ave, Riverside, CA 92507",
+      "phone": "(951) 902-5616",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Fri 9am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Fri"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "University Women's Shelter",
+      "org": "University Women's Shelter",
+      "address": "4366 Bermuda Ave, Riverside, CA 92507",
+      "phone": "(951) 224-9438",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 9am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Community Settlement Association",
+      "org": "Community Settlement Association",
+      "address": "4366 Bermuda Ave, Riverside, CA 92507",
+      "phone": "(951) 686-6266",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon & Wed 11am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ],
+      "allowColocated": true
+    },
+    {
+      "name": "SDA Mount Rubidoux Church",
+      "org": "SDA Mount Rubidoux Church",
+      "address": "5320 Victoria Ave, Riverside, CA 92506",
+      "phone": "(951) 276-8374",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Tue 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "The Salvation Army - Riverside",
+      "org": "The Salvation Army - Riverside",
+      "address": "3695 1st St, Riverside, CA 92501",
+      "phone": "(951) 784-4490",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Wed, Fri 9am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Life Spring Church",
+      "org": "Life Spring Church",
+      "address": "1224 Main St, Riverside, CA 92501",
+      "phone": "(951) 683-6081",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Mon 9am-11am; 3rd Mon 9am-11:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Mon"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Mon"
+          ],
+          "open": "09:00",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "First Congregational of Riverside (Project Food)",
+      "org": "First Congregational of Riverside (Project Food)",
+      "address": "3504 Mission Inn Avenue, Riverside, CA 92501",
+      "phone": "(951) 684-2494",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 5:30pm-6:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "17:30",
+          "close": "18:30"
+        }
+      ]
+    },
+    {
+      "name": "RCCD Foundation - Riverside City College",
+      "org": "RCCD Foundation - Riverside City College",
+      "address": "4800 Magnolia Ave, Riverside, CA 92506",
+      "phone": "(951) 222-8572",
+      "eligibility": "RCC students only",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 8am-5pm (RCC students only)",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Veterans not Forgotten",
+      "org": "Veterans not Forgotten",
+      "address": "6476 Riverside Ave, Riverside, CA 92506",
+      "phone": "(951) 640-3673",
+      "eligibility": "deliveries only",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 10am-12pm (deliveries only)",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Starting Over Inc",
+      "org": "Starting Over Inc",
+      "address": "6355 Riverside Ave Ste 100, Riverside, CA 92506",
+      "phone": "(562) 676-3784",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 8am-5:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "08:00",
+          "close": "17:30"
+        }
+      ]
+    },
+    {
+      "name": "Walden Family Services",
+      "org": "Walden Family Services",
+      "address": "3576 Arlington Ave Suite 106, Riverside, CA 92506",
+      "phone": "(951) 788-5905",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 10am-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "The Fruit of Our Hands Ministries",
+      "org": "The Fruit of Our Hands Ministries",
+      "address": "7000 Indiana Ave Suite 114, Riverside, CA 92506",
+      "phone": "(951) 289-9808",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue, Wed, Thu 9:30am-11:30am; Thu & Fri 9:30am-1:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "09:30",
+          "close": "11:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu",
+            "Fri"
+          ],
+          "open": "09:30",
+          "close": "13:30"
+        }
+      ]
+    },
+    {
+      "name": "Saint Vincent De Paul",
+      "org": "Saint Vincent De Paul",
+      "address": "6956 Nixon Dr, Riverside, CA 92506",
+      "phone": "(951) 684-7386",
+      "eligibility": "delivery only",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 9am-5pm (delivery only)",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Catholic Charities - Riverside",
+      "org": "Catholic Charities - Riverside",
+      "address": "3020 Madison St, Riverside, CA 92504",
+      "phone": "(909) 388-1239",
+      "eligibility": "",
+      "website": "https://ccsbriv.com",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Thu 9am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Thu"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Trinity Evangelical Lutheran Church",
+      "org": "Trinity Evangelical Lutheran Church",
+      "address": "5969 Brockton Ave, Riverside, CA 92506",
+      "phone": "(951) 500-6510",
+      "eligibility": "",
+      "website": "https://trinityriverside.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 8am-10am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "08:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Casa Blanca Home of Neighborly Services",
+      "org": "Casa Blanca Home of Neighborly Services",
+      "address": "7680 Casa Blanca St, Riverside, CA 92504",
+      "phone": "(951) 688-3043",
+      "eligibility": "by appointment only",
+      "website": "https://casablancahns.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 10am-11am (by appointment only)",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Mt. Calvary Missionary Baptist Church",
+      "org": "Mt. Calvary Missionary Baptist Church",
+      "address": "5476 34th St, Riverside, CA 92509",
+      "phone": "(951) 684-6480",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Sat 10am-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat"
+          ],
+          "open": "10:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Bethel Christian Center",
+      "org": "Bethel Christian Center",
+      "address": "2425 Van Buren Boulevard, Riverside, CA 92503",
+      "phone": "(951) 359-1123",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "on call",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sun"
+          ],
+          "open": "11:30",
+          "close": "12:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "08:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Our Lady Of Perpetual Help",
+      "org": "Our Lady Of Perpetual Help",
+      "address": "5250 Central Ave, Riverside, CA 92504",
+      "phone": "(951) 689-8921",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue, Thu, Fri 10am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Thu",
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Magnolia Church",
+      "org": "Magnolia Church",
+      "address": "8351 Magnolia Ave, Riverside, CA 92504",
+      "phone": "(951) 689-5700",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Sat 9am-10:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Sat"
+          ],
+          "open": "09:00",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "Central Community Christian Fellowship",
+      "org": "Central Community Christian Fellowship",
+      "address": "5623 Arlington Ave, Riverside, CA 92504",
+      "phone": "(951) 689-5806",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 8am-10am; Tue, Wed, Thu, Sat 9am-5pm drive-through",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "08:00",
+          "close": "10:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Wed",
+            "Thu",
+            "Sat"
+          ],
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "The Avenue",
+      "org": "The Avenue",
+      "address": "8223 California Ave, Riverside, CA 92504",
+      "phone": "(618) 560-7416",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sun 9am-12pm; Wed, Thu, Fri 9am-3pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sun"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Arlington SDA Church",
+      "org": "Arlington SDA Church",
+      "address": "8778 Magnolia Ave, Riverside, CA 92503",
+      "phone": "(951) 688-6630",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 9am-11:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "09:00",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Wesley United Methodist Church",
+      "org": "Wesley United Methodist Church",
+      "address": "5770 Arlington Ave, Riverside, CA 92504",
+      "phone": "(951) 689-2649",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 9am-10am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "MFI Recovery Center",
+      "org": "MFI Recovery Center",
+      "address": "5860 Arlington Ave, Riverside, CA 92504",
+      "phone": "(951) 683-6596",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Tue 9am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Tue"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Eddie Dee Center",
+      "org": "Eddie Dee Center",
+      "address": "5888 Mission Blvd, Rubidoux, CA 92509",
+      "phone": "(951) 275-9975",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 9am-12pm; 1st Thu 9am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Saint Michael's Episcopal Church",
+      "org": "Saint Michael's Episcopal Church",
+      "address": "4070 Jackson St, Riverside, CA 92503",
+      "phone": "(951) 689-0642",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Thu 9am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "09:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Feeding the Neighborhood",
+      "org": "Feeding the Neighborhood",
+      "address": "9800 Indiana Ave Suite 2, Riverside, CA 92503",
+      "phone": "(951) 809-4379",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Sat 8:30am-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "08:30",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Lighthouse of Hope Foundation",
+      "org": "Lighthouse of Hope Foundation",
+      "address": "9085 California Ave, Riverside, CA 92503",
+      "phone": "(951) 213-5590",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Wed, Fri 11am-2pm; 3rd Sat 10am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed",
+            "Fri"
+          ],
+          "open": "11:00",
+          "close": "14:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "St. John The Evangelist Catholic Church",
+      "org": "St. John The Evangelist Catholic Church",
+      "address": "3980 Opal St, Riverside, CA 92509",
+      "phone": "(951) 684-6864",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 9:30am-11:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "09:30",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Reformed Baptist Church",
+      "org": "Reformed Baptist Church",
+      "address": "7250 Mission Blvd, Jurupa Valley, CA 92509",
+      "phone": "(951) 776-7680",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Sat 9am-10:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "09:00",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "Lake Hills Christian Center",
+      "org": "Lake Hills Christian Center",
+      "address": "12500 Indiana Ave, Riverside, CA 92503",
+      "phone": "(951) 737-6680",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "on call",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Arlington Temporary Assistance",
+      "org": "Arlington Temporary Assistance",
+      "address": "10495 Arlington Ave #112, Riverside, CA 92505",
+      "phone": "(951) 689-5620",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Thu 10am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "10:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "La Sierra Senior Center",
+      "org": "La Sierra Senior Center",
+      "address": "5215 La Sierra Ave B, Riverside, CA 92505",
+      "phone": "(951) 351-6437",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Fri 9am-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Fri"
+          ],
+          "open": "09:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "La Sierra Spanish SDA",
+      "org": "La Sierra Spanish SDA",
+      "address": "5885 La Sierra Ave, Riverside, CA 92505",
+      "phone": "(951) 533-7680",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 8am-10am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "08:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Inland Vineyard Christian Fellowship",
+      "org": "Inland Vineyard Christian Fellowship",
+      "address": "935 N McKinley St, Corona, CA 92879",
+      "phone": "(951) 549-1192",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 9am-10am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "09:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Manna Ministries - Vision Plus Church",
+      "org": "Manna Ministries - Vision Plus Church",
+      "address": "9875 Bellegrave Ave, Jurupa Valley, CA 92509",
+      "phone": "(951) 236-9477",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "on call",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "08:00",
+          "close": "14:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "08:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "The Truth Church",
+      "org": "The Truth Church",
+      "address": "10281 54th St, Mira Loma, CA 91752",
+      "phone": "(909) 625-7975",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Sat 8am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "08:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Sacred Heart Catholic Church",
+      "org": "Sacred Heart Catholic Church",
+      "address": "9935 Mission Blvd, Riverside, CA 92509",
+      "phone": "(951) 515-1806",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Tue 8am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Tue"
+          ],
+          "open": "08:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Calvary Chapel Inland",
+      "org": "Calvary Chapel Inland",
+      "address": "5383 Martin St, Mira Loma, CA 91752",
+      "phone": "(951) 318-7724",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sun 9am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sun"
+          ],
+          "open": "09:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Crossroads Christian Church",
+      "org": "Crossroads Christian Church",
+      "address": "2331 Kellogg Ave, Corona, CA 92881",
+      "phone": "(951) 314-7036",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 10am-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Beacon Hill Assembly of God",
+      "org": "Beacon Hill Assembly of God",
+      "address": "3659 Corona Ave, Norco, CA 92860",
+      "phone": "(951) 736-0555",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Sat 9am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Sat",
+            "3rd Sat"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "SDA Corona Main Spanish",
+      "org": "SDA Corona Main Spanish",
+      "address": "114 E 10th St, Corona, CA 92879",
+      "phone": "(951) 690-6438",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Wed 8pm-9pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Wed",
+            "3rd Wed"
+          ],
+          "open": "20:00",
+          "close": "21:00"
+        }
+      ]
+    },
+    {
+      "name": "Corona Senior Center",
+      "org": "Corona Senior Center",
+      "address": "365 N Main St, Corona, CA 92878",
+      "phone": "(951) 817-5755",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Wed 9am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "River Run Senior Apartments",
+      "org": "River Run Senior Apartments",
+      "address": "863 River Rd, Corona, CA 92878",
+      "phone": "(951) 808-8300",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Tue 9am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Tue"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Vantagepoint Church",
+      "org": "Vantagepoint Church",
+      "address": "12750 Citrus St, Eastvale, CA 92880",
+      "phone": "(951) 727-3524",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Tue 10am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Tue"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "New Beginnings Community Church Norco",
+      "org": "New Beginnings Community Church Norco",
+      "address": "1769 Western Ave, Norco, CA 92860",
+      "phone": "(951) 734-9574",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sun 9am-12:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sun"
+          ],
+          "open": "09:00",
+          "close": "12:30"
+        }
+      ]
+    },
+    {
+      "name": "New Hope Family Worship Center",
+      "org": "New Hope Family Worship Center",
+      "address": "804 S Lincoln Ave, Corona, CA 92882",
+      "phone": "(951) 737-4673",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "on call",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Riverside Central - Iglesia Adventista Del Septimo Dia",
+      "org": "Riverside Central - Iglesia Adventista Del Septimo Dia",
+      "address": "5363 Tyler Ave, Riverside, CA 92503",
+      "phone": "(951) 393-9975",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 10am-10:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "10:00",
+          "close": "10:30"
+        }
+      ]
+    }
+  ]
+}

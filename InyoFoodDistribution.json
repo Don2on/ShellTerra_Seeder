@@ -1,0 +1,133 @@
+{
+  "_meta": {
+    "topic": "Net-new Inyo County food distributions",
+    "generated": "2026-10-05",
+    "source": "Research supplementing shell PENDING-Inyo; raw ./InyoAdditions-raw.json."
+  },
+  "_deferred": {
+    "add-mendenhall-park-imaca-drive-thru-distribution": {
+      "title": "Mendenhall Park (IMACA drive-thru distribution)",
+      "status": "date varies Phone: (760) 873-8557.",
+      "address": "327 N. School St, Big Pine, CA 93513",
+      "lat": 37.169282,
+      "lng": -118.294034,
+      "phone": "(760) 873-8557",
+      "eligibility": "",
+      "sourceUrl": "https://www.imaca.net/"
+    },
+    "add-eastern-sierra-tri-county-fairgrounds-monthly-di": {
+      "title": "Eastern Sierra Tri-County Fairgrounds (monthly distribution)",
+      "status": "date varies Phone: (760) 873-8557.",
+      "address": "1234 Sierra St, Bishop, CA 93514",
+      "lat": 37.37041,
+      "lng": -118.398195,
+      "phone": "(760) 873-8557",
+      "eligibility": "",
+      "sourceUrl": "https://www.imaca.net/"
+    },
+    "add-first-united-methodist-church-soup-kitchen": {
+      "title": "First United Methodist Church (soup kitchen)",
+      "status": "Mon, Wed, Fri 12pm Phone: (760) 872-7701.",
+      "address": "205 N Fowler St, Bishop, CA 93514",
+      "lat": 37.362362,
+      "lng": -118.39842,
+      "phone": "(760) 872-7701",
+      "eligibility": "",
+      "sourceUrl": "https://www.imaca.net/"
+    },
+    "add-darwin-imaca-food-shed": {
+      "title": "Darwin - IMACA Food Shed",
+      "status": "date varies Phone: (760) 873-8557.",
+      "address": "251 Reddy St, Darwin, CA 93522",
+      "lat": 36.26982,
+      "lng": -117.5922,
+      "phone": "(760) 873-8557",
+      "eligibility": "",
+      "sourceUrl": "https://www.imaca.net/"
+    },
+    "add-independence-park-imaca-drive-thru-distribution": {
+      "title": "Independence Park (IMACA drive-thru distribution)",
+      "status": "date varies Phone: (760) 873-8557.",
+      "address": "609 S Edwards St, Independence, CA 93526",
+      "lat": 36.797464,
+      "lng": -118.197172,
+      "phone": "(760) 873-8557",
+      "eligibility": "",
+      "sourceUrl": "https://www.imaca.net/"
+    },
+    "add-keeler-volunteer-fire-station-imaca-distribution": {
+      "title": "Keeler Volunteer Fire Station (IMACA distribution)",
+      "status": "date varies Phone: (760) 873-8557.",
+      "address": "Old State Hwy, Keeler, CA 93530",
+      "lat": 36.488658,
+      "lng": -117.8741,
+      "phone": "(760) 873-8557",
+      "eligibility": "",
+      "sourceUrl": "https://www.imaca.net/"
+    },
+    "add-lone-pine-sports-complex-imaca-drive-thru-distri": {
+      "title": "Lone Pine Sports Complex (IMACA drive-thru distribution)",
+      "status": "date varies Phone: (760) 873-8557.",
+      "address": "724 N Main St, Lone Pine, CA 93545",
+      "lat": 36.608782,
+      "lng": -118.064866,
+      "phone": "(760) 873-8557",
+      "eligibility": "",
+      "sourceUrl": "https://www.imaca.net/"
+    },
+    "add-tecopa-community-center-imaca-distribution": {
+      "title": "Tecopa Community Center (IMACA distribution)",
+      "status": "date varies Phone: (760) 873-8557.",
+      "address": "400 Tecopa Hot Springs Rd, Tecopa, CA 92389",
+      "lat": 35.87578,
+      "lng": -116.22796,
+      "phone": "(760) 873-8557",
+      "eligibility": "",
+      "sourceUrl": "https://www.imaca.net/"
+    }
+  },
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "add-salvation-army-bishop-w12345-0900",
+      "seriesSlug": "add-salvation-army-bishop",
+      "title": "Salvation Army - Bishop — Free Food",
+      "description": "Free food at Salvation Army - Bishop. Schedule: Mon–Fri 9 AM–1:30 PM. Call (760) 872-2124 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salvation Army - Bishop",
+      "address": "137 S Main St, Bishop, CA 93514",
+      "lat": 37.360771,
+      "lng": -118.395559,
+      "category": "food-assistance",
+      "sourceOrg": "Salvation Army - Bishop",
+      "url": "https://www.imaca.net/",
+      "schedulePattern": "Mon–Fri 9 AM–1:30 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T13:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-timbisha-shoshone-tribe-w25-0800",
+      "seriesSlug": "add-timbisha-shoshone-tribe",
+      "title": "Timbisha Shoshone Tribe — Free Food",
+      "description": "Free food at Timbisha Shoshone Tribe. Schedule: Tue, Fri 8 AM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Timbisha Shoshone Tribe",
+      "address": "621 W Line St Suite 109, Bishop, CA 93514",
+      "lat": 37.361711,
+      "lng": -118.400855,
+      "category": "food-assistance",
+      "sourceOrg": "Timbisha Shoshone Tribe",
+      "url": "https://www.imaca.net/",
+      "schedulePattern": "Tue, Fri 8 AM–5 PM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,5"
+    }
+  ]
+}

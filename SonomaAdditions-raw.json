@@ -1,0 +1,3013 @@
+{
+  "_meta": {
+    "topic": "Sonoma County food distributions",
+    "generated": "2026-10-11",
+    "source": "Hand-collected list (Sierra County, Siskiyou/Great Northern Services, Food Bank of Contra Costa & Solano, Redwood Empire Food Bank). Schedules parsed via LA clause parser.",
+    "note": "Drop-in raw for prepare-food-additions.mjs. Single-time entries route to _deferred."
+  },
+  "sites": [
+    {
+      "name": "Bodega Bay Church",
+      "org": "Bodega Bay Church",
+      "address": "1320 Bay View St, Bodega Bay, CA 94923",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd, 4th & 5th Wed 3pm-4pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed",
+            "4th Wed",
+            "5th Wed"
+          ],
+          "open": "15:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Waves of Compassion Bodega Bay",
+      "org": "Waves of Compassion Bodega Bay",
+      "address": "1370 Bodega Ave, Bodega Bay, CA 94923",
+      "phone": "707-595-0294",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Wed 3:30pm-5pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Wed",
+            "3rd Wed"
+          ],
+          "open": "15:30",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Cloverdale Citrus Fairgrounds",
+      "org": "Cloverdale Citrus Fairgrounds",
+      "address": "1 Citrus Fair Dr, Cloverdale, CA 95425",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 3:30pm-4:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "15:30",
+          "close": "16:30"
+        }
+      ]
+    },
+    {
+      "name": "Cloverdale Food Pantry",
+      "org": "Cloverdale Food Pantry",
+      "address": "202 Commercial St, Cloverdale, CA 95425",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 11am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "11:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Cloverdale LDS Church",
+      "org": "Cloverdale LDS Church",
+      "address": "1101 S Cloverdale Blvd, Cloverdale, CA 95425",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 10am-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "La Familia Sana",
+      "org": "La Familia Sana",
+      "address": "439 N. Cloverdale Blvd, Cloverdale, CA 95425",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Tue 3pm-4:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue",
+            "4th Tue"
+          ],
+          "open": "15:00",
+          "close": "16:30"
+        }
+      ]
+    },
+    {
+      "name": "New Hope Market",
+      "org": "New Hope Market",
+      "address": "183 E Cotati Ave, Cotati, CA 94931",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 4pm-6pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "16:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Joseph Church",
+      "org": "St. Joseph Church",
+      "address": "150 St Joseph Way, Cotati, CA 94931",
+      "phone": "707-584-1579",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 9:30am-10:30am; Fri 9:30am-10:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "09:30",
+          "close": "10:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "09:30",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "Thomas Page Academy",
+      "org": "Thomas Page Academy",
+      "address": "1075 Madrone Ave, Cotati, CA 94931",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Fri 1pm-2pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri",
+            "3rd Fri"
+          ],
+          "open": "13:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Windwood Apartments",
+      "org": "Windwood Apartments",
+      "address": "298 E Cotati Ave, Cotati, CA 94931",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Tue 3pm-4pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue"
+          ],
+          "open": "15:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Food For Thought",
+      "org": "Food For Thought",
+      "address": "6550 Railroad Ave, Forestville, CA 95436",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue, Wed, Thu 10am-4:30pm; Fri 10am-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "10:00",
+          "close": "16:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Forestville United Methodist Church",
+      "org": "Forestville United Methodist Church",
+      "address": "6550 Covey Rd, Forestville, CA 95436",
+      "phone": "707-887-2020",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Wed 11am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed",
+            "4th Wed"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ],
+      "allowColocated": true
+    },
+    {
+      "name": "Spring Hills Church",
+      "org": "Spring Hills Church",
+      "address": "3700 Fulton Rd, Fulton, CA 95439",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 11am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Geyserville New Tech Academy",
+      "org": "Geyserville New Tech Academy",
+      "address": "1300 Moody Ln, Geyserville, CA 95441",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 4:30pm-5:15pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "16:30",
+          "close": "17:15"
+        }
+      ]
+    },
+    {
+      "name": "Graton Day Labor Center",
+      "org": "Graton Day Labor Center",
+      "address": "2981 Bowen St, Graton, CA 95444",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Fri 9:30am-10:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Fri",
+            "4th Fri"
+          ],
+          "open": "09:30",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "Guerneville School",
+      "org": "Guerneville School",
+      "address": "14630 Armstrong Woods Rd, Guerneville, CA 95446",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 1:30pm-2:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "13:30",
+          "close": "14:30"
+        }
+      ]
+    },
+    {
+      "name": "River to Coast Children's Services",
+      "org": "River to Coast Children's Services",
+      "address": "16300 First St, Guerneville, CA 95446",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 2pm-4:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "14:00",
+          "close": "16:30"
+        }
+      ]
+    },
+    {
+      "name": "Russian River Food Pantry (Salvation Army and SVdP)",
+      "org": "Russian River Food Pantry (Salvation Army and SVdP)",
+      "address": "16290 5th St, Guerneville, CA 95446",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Sat 9am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat",
+            "4th Sat"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Hubert's Hall",
+      "org": "St. Hubert's Hall",
+      "address": "16290 5th St, Guerneville, CA 95446",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 11:30am-12:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "11:30",
+          "close": "12:30"
+        }
+      ],
+      "allowColocated": true
+    },
+    {
+      "name": "Alliance Medical Center - Healdsburg",
+      "org": "Alliance Medical Center - Healdsburg",
+      "address": "1381 University Ave, Healdsburg, CA 95448",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 9am-9:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "09:00",
+          "close": "09:30"
+        }
+      ]
+    },
+    {
+      "name": "Corazon Healdsburg",
+      "org": "Corazon Healdsburg",
+      "address": "1557 Healdsburg Ave, Healdsburg, CA 95448",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 9:30am-10:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "09:30",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "Healdsburg Recreation Park",
+      "org": "Healdsburg Recreation Park",
+      "address": "515 Piper St, Healdsburg, CA 95448",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 2pm-3pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "14:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Healdsburg Shared Ministries",
+      "org": "Healdsburg Shared Ministries",
+      "address": "1505 Healdsburg Ave, Healdsburg, CA 95448",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 3pm-4:30pm; Wed, Fri 2:30pm-5pm; Thu 12pm-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "15:00",
+          "close": "16:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed",
+            "Fri"
+          ],
+          "open": "14:30",
+          "close": "17:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Trinity Baptist Church",
+      "org": "Trinity Baptist Church",
+      "address": "515 Powell Ave, Healdsburg, CA 95448",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 8am-9:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "08:00",
+          "close": "09:30"
+        }
+      ],
+      "allowColocated": true
+    },
+    {
+      "name": "Jenner Community Center",
+      "org": "Jenner Community Center",
+      "address": "10398 CA-1, Jenner, CA 95450",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Wed 11am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Monte Rio Community Center",
+      "org": "Monte Rio Community Center",
+      "address": "20488 CA-116, Monte Rio, CA 95462",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 3pm-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "15:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Philip Church",
+      "org": "St. Philip Church",
+      "address": "3730 Bohemian Hwy, Occidental, CA 95465",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Tue 8am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue"
+          ],
+          "open": "08:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "COTS Mary Isaak Center (meals)",
+      "org": "COTS Mary Isaak Center (meals)",
+      "address": "900 Hopper St, Petaluma, CA 94952",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Daily 11:30am-12:30pm and 5pm-6pm",
+      "schedules": []
+    },
+    {
+      "name": "Elim Lutheran Church (Westside Pantry)",
+      "org": "Elim Lutheran Church (Westside Pantry)",
+      "address": "220 Stanley St, Petaluma, CA 94952",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 5pm-5:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "17:00",
+          "close": "17:30"
+        }
+      ]
+    },
+    {
+      "name": "McDowell Elementary",
+      "org": "McDowell Elementary",
+      "address": "421 S McDowell Blvd, Petaluma, CA 94954",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 10am-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Miwok Valley Elementary",
+      "org": "Miwok Valley Elementary",
+      "address": "1010 St Francis Dr, Petaluma, CA 94954",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 4pm-5pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "16:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "New Life Christian Fellowship",
+      "org": "New Life Christian Fellowship",
+      "address": "1310 Clegg St, Petaluma, CA 94954",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 10am-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Park Lane Apartments",
+      "org": "Park Lane Apartments",
+      "address": "109 Magnolia Ave, Petaluma, CA 94952",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Fri 9:30am-10:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Fri"
+          ],
+          "open": "09:30",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "Petaluma Community Center",
+      "org": "Petaluma Community Center",
+      "address": "320 N McDowell Blvd, Petaluma, CA 94954",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 11:30am-12:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "11:30",
+          "close": "12:30"
+        }
+      ]
+    },
+    {
+      "name": "Petaluma Fairgrounds",
+      "org": "Petaluma Fairgrounds",
+      "address": "175 Fairgrounds Dr, Petaluma, CA 94952",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 9am-10am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Petaluma Senior Center",
+      "org": "Petaluma Senior Center",
+      "address": "320 N McDowell Blvd, Petaluma, CA 94954",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Fri 8am-9am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri",
+            "3rd Fri"
+          ],
+          "open": "08:00",
+          "close": "09:00"
+        }
+      ],
+      "allowColocated": true
+    },
+    {
+      "name": "Salvation Army Petaluma",
+      "org": "Salvation Army Petaluma",
+      "address": "721 S McDowell Blvd, Petaluma, CA 94954",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue, Wed, Thu 9am-12pm; Tue 1pm-3:15pm; Wed, Fri 9am-10:45am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "13:00",
+          "close": "15:15"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "10:45"
+        }
+      ]
+    },
+    {
+      "name": "Santa Rosa Junior College Petaluma",
+      "org": "Santa Rosa Junior College Petaluma",
+      "address": "680 Sonoma Mountain Parkway, Petaluma, CA 94954",
+      "phone": "707-778-4124",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Tue 12pm-2pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Tue"
+          ],
+          "open": "12:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Two Rock Elementary",
+      "org": "Two Rock Elementary",
+      "address": "5001 Spring Hill Rd, Petaluma, CA 94952",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Fri 9am-10am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Fri",
+            "4th Fri"
+          ],
+          "open": "09:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Una Vida",
+      "org": "Una Vida",
+      "address": "1315 Rand Street, Petaluma, CA 94954",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 4pm-5:30pm; Thu, Sat 2pm-5pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "16:00",
+          "close": "17:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu",
+            "Sat"
+          ],
+          "open": "14:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Alicia Park",
+      "org": "Alicia Park",
+      "address": "299 Santa Alicia Dr, Rohnert Park, CA 94928",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 10am-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "CPI Family Resource Center at John Reed Elementary",
+      "org": "CPI Family Resource Center at John Reed Elementary",
+      "address": "390 Arlen Dr, Rohnert Park, CA 94928",
+      "phone": "707-792-4732",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 9am-5pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Iglesia Cristiana SE",
+      "org": "Iglesia Cristiana SE",
+      "address": "6640 Redwood Dr, Rohnert Park, CA 94928",
+      "phone": "707-484-5918",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Sun 1pm-1:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sun",
+            "4th Sun"
+          ],
+          "open": "13:00",
+          "close": "13:30"
+        }
+      ]
+    },
+    {
+      "name": "Iglesia Josue at Rohnert Park Community Center",
+      "org": "Iglesia Josue at Rohnert Park Community Center",
+      "address": "5401 Snyder Ln, Rohnert Park, CA 94928",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Sat 9am-10am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat",
+            "4th Sat"
+          ],
+          "open": "09:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "John Reed Elementary",
+      "org": "John Reed Elementary",
+      "address": "390 Arlen Dr, Rohnert Park, CA 94928",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Fri 1pm-2:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Fri",
+            "4th Fri"
+          ],
+          "open": "13:00",
+          "close": "14:30"
+        }
+      ],
+      "allowColocated": true
+    },
+    {
+      "name": "Neighbors Organized Against Hunger (NOAH)",
+      "org": "Neighbors Organized Against Hunger (NOAH)",
+      "address": "5443 Snyder Ln, Rohnert Park, CA 94928",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 4pm-6pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "16:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Petaluma Health Center - Rohnert Park",
+      "org": "Petaluma Health Center - Rohnert Park",
+      "address": "5900 State Farm Dr, Rohnert Park, CA 94928",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 8:45am-9:45am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "08:45",
+          "close": "09:45"
+        }
+      ]
+    },
+    {
+      "name": "Primera Iglesia Bautista",
+      "org": "Primera Iglesia Bautista",
+      "address": "5475 Snyder Lane, Rohnert Park, CA 94928",
+      "phone": "510-533-5045",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sun 5pm-5:15pm; Thu 8pm-8:15pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sun"
+          ],
+          "open": "17:00",
+          "close": "17:15"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "20:00",
+          "close": "20:15"
+        }
+      ]
+    },
+    {
+      "name": "Rancho Grande Mobile Home Park",
+      "org": "Rancho Grande Mobile Home Park",
+      "address": "5099 Snyder Ln, Rohnert Park, CA 94928",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Fri 10am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Fri"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Rancho Verde Mobile Home Park",
+      "org": "Rancho Verde Mobile Home Park",
+      "address": "750 Rohnert Park Expy, Rohnert Park, CA 94928",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Tue 10:30am-11:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue",
+            "4th Tue"
+          ],
+          "open": "10:30",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Rohnert Park Senior Center",
+      "org": "Rohnert Park Senior Center",
+      "address": "6800 Hunter Dr, Rohnert Park, CA 94928",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Fri 10am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Fri"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Elizabeth Seton Church",
+      "org": "St. Elizabeth Seton Church",
+      "address": "4595 Snyder Lane, Rohnert Park, CA 94928",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 3:30pm-4:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "15:30",
+          "close": "16:30"
+        }
+      ]
+    },
+    {
+      "name": "Tower Apartments",
+      "org": "Tower Apartments",
+      "address": "781 E Cotati Ave, Rohnert Park, CA 94928",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Thu 12:30pm-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu",
+            "3rd Thu"
+          ],
+          "open": "12:30",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "6th Street Playhouse",
+      "org": "6th Street Playhouse",
+      "address": "52 W 6th St, Santa Rosa, CA 95401",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 10:30am-11:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "10:30",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Acacia Lane Apartments",
+      "org": "Acacia Lane Apartments",
+      "address": "657 Acacia Ln, Santa Rosa, CA 95409",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Fri 10:30am-11:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Fri",
+            "4th Fri"
+          ],
+          "open": "10:30",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Bayer Park",
+      "org": "Bayer Park",
+      "address": "1550 West Ave, Santa Rosa, CA 95407",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 2:30pm-3pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "14:30",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Bayside Santa Rosa",
+      "org": "Bayside Santa Rosa",
+      "address": "3175 Sebastopol Rd, Santa Rosa, CA 95407",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 8am-9am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "08:00",
+          "close": "09:00"
+        }
+      ]
+    },
+    {
+      "name": "Bellevue Elementary",
+      "org": "Bellevue Elementary",
+      "address": "3223 Primrose Ave, Santa Rosa, CA 95407",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 2pm-3pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "14:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Buckelew Programs Sonoma",
+      "org": "Buckelew Programs Sonoma",
+      "address": "2235 Mercury Way Ste 107, Santa Rosa, CA 95407",
+      "phone": "707-909-0897",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Tue, Thu, Fri 10am-3pm; Wed 1pm-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Thu",
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "15:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "13:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Casa Roseland",
+      "org": "Casa Roseland",
+      "address": "583 West Ave, Santa Rosa, CA 95407",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 12pm-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Catholic Charities Community Emergency Food Pantry",
+      "org": "Catholic Charities Community Emergency Food Pantry",
+      "address": "987 Airway Court Suite 101, Santa Rosa, CA 95403",
+      "phone": "707-528-8712",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 9am-5pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Cesar Chavez Language Academy",
+      "org": "Cesar Chavez Language Academy",
+      "address": "2480 Sebastopol Rd, Santa Rosa, CA 95407",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 10:30am-11:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "10:30",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Christian Family Fellowship",
+      "org": "Christian Family Fellowship",
+      "address": "1160 A Hopper Ave, Santa Rosa, CA 95403",
+      "phone": "707-571-0245",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sun 9:30am-9:45am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sun"
+          ],
+          "open": "09:30",
+          "close": "09:45"
+        }
+      ]
+    },
+    {
+      "name": "Church of the Incarnation - Sunday Open Table",
+      "org": "Church of the Incarnation - Sunday Open Table",
+      "address": "550 Mendocino Ave, Santa Rosa, CA 95404",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sun 6:30am-8am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sun"
+          ],
+          "open": "06:30",
+          "close": "08:00"
+        }
+      ]
+    },
+    {
+      "name": "Community Baptist Church - 4 Seasons of Giving",
+      "org": "Community Baptist Church - 4 Seasons of Giving",
+      "address": "1620 Sonoma Ave, Santa Rosa, CA 95405",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 12pm-2pm; 2nd & 4th Sat 10am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "12:00",
+          "close": "14:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat",
+            "4th Sat"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "CPI Family Resource Center",
+      "org": "CPI Family Resource Center",
+      "address": "3642 Standish Ave, Santa Rosa, CA 95407",
+      "phone": "707-585-6108",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Sat 9am-7pm; 2nd & 4th Sat 10am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat"
+          ],
+          "open": "09:00",
+          "close": "19:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat",
+            "4th Sat"
+          ],
+          "open": "10:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Economic Assistance Center",
+      "org": "Economic Assistance Center",
+      "address": "2550 Paulin Dr, Santa Rosa, CA 95403",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 2pm-3pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "14:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Elisha's Pantry",
+      "org": "Elisha's Pantry",
+      "address": "1717 Yulupa Ave, Santa Rosa, CA 95405",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 3:15pm-5pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "15:15",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Elsie Allen High",
+      "org": "Elsie Allen High",
+      "address": "599 Bellevue Ave, Santa Rosa, CA 95407",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 11am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Epicenter Parking Lot",
+      "org": "Epicenter Parking Lot",
+      "address": "3215 Coffey Lane, Santa Rosa, CA 95403",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 10am-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "FISH of Santa Rosa",
+      "org": "FISH of Santa Rosa",
+      "address": "1710 Sebastopol Rd, Santa Rosa, CA 95407",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 12pm-2pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "12:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Helen Lehman Elementary",
+      "org": "Helen Lehman Elementary",
+      "address": "1700 Jennings Ave, Santa Rosa, CA 95401",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 11am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Hilliard Comstock Middle School",
+      "org": "Hilliard Comstock Middle School",
+      "address": "2750 W Steele Lane, Santa Rosa, CA 95403",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Thu 2pm-3pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu",
+            "3rd Thu"
+          ],
+          "open": "14:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Individual and Family Support Network",
+      "org": "Individual and Family Support Network",
+      "address": "2455 Bennett Valley Rd Suite C200, Santa Rosa, CA 95404",
+      "phone": "707-546-7907",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Tue 9:30am-12:30pm and 1:30pm-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue"
+          ],
+          "open": "09:30",
+          "close": "12:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue"
+          ],
+          "open": "13:30",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Jewish Community Free Clinic",
+      "org": "Jewish Community Free Clinic",
+      "address": "50 Montgomery Dr, Santa Rosa, CA 95404",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 1pm-5pm; Tue, Thu 10am-1pm; Wed 11am-3pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "13:00",
+          "close": "17:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "open": "10:00",
+          "close": "13:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "11:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Kaiser MOB 5",
+      "org": "Kaiser MOB 5",
+      "address": "3975 Old Redwood Hwy, Santa Rosa, CA 95403",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Sat 8am-9am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Sat",
+            "3rd Sat"
+          ],
+          "open": "08:00",
+          "close": "09:00"
+        }
+      ]
+    },
+    {
+      "name": "Kawana Springs Elementary School",
+      "org": "Kawana Springs Elementary School",
+      "address": "2121 Moraga Drive, Santa Rosa, CA 95404",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 10am-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Lamplighter Mobile Home Park",
+      "org": "Lamplighter Mobile Home Park",
+      "address": "2800 Santa Rosa Ave, Santa Rosa, CA 95407",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Tue 11am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Laurel at Perennial Park",
+      "org": "Laurel at Perennial Park",
+      "address": "510 Renaissance Way, Santa Rosa, CA 95403",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Thu 12pm-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu",
+            "3rd Thu"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Leisure Mobile Home Park",
+      "org": "Leisure Mobile Home Park",
+      "address": "2185 Occidental Rd, Santa Rosa, CA 95401",
+      "phone": "707-546-3865",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Thu 8am-5pm; Fri 8am-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "08:00",
+          "close": "17:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "08:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Martin Luther King Jr. Park",
+      "org": "Martin Luther King Jr. Park",
+      "address": "1208 Hendley St, Santa Rosa, CA 95404",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 1:30pm-2:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "13:30",
+          "close": "14:30"
+        }
+      ]
+    },
+    {
+      "name": "Northpoint Santa Rosa LDS Church",
+      "org": "Northpoint Santa Rosa LDS Church",
+      "address": "1550 Northpoint Parkway, Santa Rosa, CA 95407",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 9:30am-10:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "09:30",
+          "close": "10:30"
+        }
+      ],
+      "allowColocated": true
+    },
+    {
+      "name": "Rancho Cabeza Mobile Home Park",
+      "org": "Rancho Cabeza Mobile Home Park",
+      "address": "677 Calistoga Rd, Santa Rosa, CA 95409",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Tue 10am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Tue"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Redemption Hill Church",
+      "org": "Redemption Hill Church",
+      "address": "2100 Petaluma Hill Rd, Santa Rosa, CA 95404",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Tue 1:30pm-2:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Tue",
+            "3rd Tue"
+          ],
+          "open": "13:30",
+          "close": "14:30"
+        }
+      ]
+    },
+    {
+      "name": "Resurrection Church",
+      "org": "Resurrection Church",
+      "address": "303 Stony Point Rd, Santa Rosa, CA 95401",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 2pm-3pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "14:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Ridgway High",
+      "org": "Ridgway High",
+      "address": "325 Ridgway Ave, Santa Rosa, CA 95401",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 4:15pm-5pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "16:15",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Salvation Army Santa Rosa",
+      "org": "Salvation Army Santa Rosa",
+      "address": "93 Stony Cir, Santa Rosa, CA 95401",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue-Fri 10am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Santa Rosa Community Health Dutton",
+      "org": "Santa Rosa Community Health Dutton",
+      "address": "1300 N Dutton Ave, Santa Rosa, CA 95401",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 12:30pm-1:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "12:30",
+          "close": "13:30"
+        }
+      ]
+    },
+    {
+      "name": "Santa Rosa Junior College Roseland",
+      "org": "Santa Rosa Junior College Roseland",
+      "address": "950 S Wright Rd, Santa Rosa, CA 95407",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Thu 12pm-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu",
+            "3rd Thu"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Santa Rosa Junior College Santa Rosa",
+      "org": "Santa Rosa Junior College Santa Rosa",
+      "address": "1501 Mendocino Ave, Santa Rosa, CA 95401",
+      "phone": "707-524-1805",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue, Wed, Thu 10am-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Santa Rosa Nazarene Church",
+      "org": "Santa Rosa Nazarene Church",
+      "address": "1135 Farmers Lane, Santa Rosa, CA 95405",
+      "phone": "707-542-2650",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 8:30am-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "08:30",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Santa Rosa Seventh Day Adventist Church",
+      "org": "Santa Rosa Seventh Day Adventist Church",
+      "address": "840 Sonoma Ave, Santa Rosa, CA 95404",
+      "phone": "707-578-8883",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Mon 4:30pm-6pm; 1st & 3rd Thu 4:30pm-6pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Mon",
+            "4th Mon"
+          ],
+          "open": "16:30",
+          "close": "18:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu",
+            "3rd Thu"
+          ],
+          "open": "16:30",
+          "close": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Santa Rosa Veterans Memorial Building",
+      "org": "Santa Rosa Veterans Memorial Building",
+      "address": "1351 Maple Ave, Santa Rosa, CA 95404",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 8:30am-9:30am and 3:30pm-4:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "08:30",
+          "close": "09:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "15:30",
+          "close": "16:30"
+        }
+      ]
+    },
+    {
+      "name": "Shiloh Neighborhood Church",
+      "org": "Shiloh Neighborhood Church",
+      "address": "5901 Old Redwood Hwy, Santa Rosa, CA 95403",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 10:30am-11:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "10:30",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Sons of Norway",
+      "org": "Sons of Norway",
+      "address": "617 W 9th St, Santa Rosa, CA 95401",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 11am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Southwest Community Park",
+      "org": "Southwest Community Park",
+      "address": "1698 Hearn Ave, Santa Rosa, CA 95407",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed, Fri 8:30am-9:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed",
+            "Fri"
+          ],
+          "open": "08:30",
+          "close": "09:30"
+        }
+      ]
+    },
+    {
+      "name": "St. Eugene Cathedral SVdP",
+      "org": "St. Eugene Cathedral SVdP",
+      "address": "2323 Montgomery Dr, Santa Rosa, CA 95405",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 10am-2pm; Wed 12pm-2pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "10:00",
+          "close": "14:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "12:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Rose Church SVdP",
+      "org": "St. Rose Church SVdP",
+      "address": "340 10th St, Santa Rosa, CA 95401",
+      "phone": "707-584-1579",
+      "eligibility": "call for appointment",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Wed, Fri 1pm-2pm (call for appointment)",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed",
+            "Fri"
+          ],
+          "open": "13:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Taylor Mountain Elementary",
+      "org": "Taylor Mountain Elementary",
+      "address": "1210 East Bellevue Ave, Santa Rosa, CA 95407",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 9:30am-10:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "09:30",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "VA Clinic South (veterans and active duty only)",
+      "org": "VA Clinic South (veterans and active duty only)",
+      "address": "2285 Challenger Way, Santa Rosa, CA 95407",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 1:30pm-2:45pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "13:30",
+          "close": "14:45"
+        }
+      ]
+    },
+    {
+      "name": "Valley Oak Park",
+      "org": "Valley Oak Park",
+      "address": "2600 Northcoast St, Santa Rosa, CA 95403",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Fri 9:30am-10:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Fri"
+          ],
+          "open": "09:30",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "Vintage at Bennett Valley",
+      "org": "Vintage at Bennett Valley",
+      "address": "1405 Townview Ave, Santa Rosa, CA 95405",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Fri 9:30am-10:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Fri"
+          ],
+          "open": "09:30",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "Vintage Zinfandel Apartments",
+      "org": "Vintage Zinfandel Apartments",
+      "address": "2037 Zinfandel Ave, Santa Rosa, CA 95403",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Tue 11:30am-12:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Tue",
+            "3rd Tue"
+          ],
+          "open": "11:30",
+          "close": "12:30"
+        }
+      ]
+    },
+    {
+      "name": "Voices Sonoma Youth Center",
+      "org": "Voices Sonoma Youth Center",
+      "address": "2800 Cleveland Avenue Suite C, Santa Rosa, CA 95403",
+      "phone": "707-579-4327",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue-Fri 1pm-6pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "13:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Rotary Club Sebastopol Sunrise Lunch Sack",
+      "org": "Rotary Club Sebastopol Sunrise Lunch Sack",
+      "address": "7433 Bodega Ave, Sebastopol, CA 95472",
+      "phone": "707-280-4360",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Thu 6:30am-10am; Mon-Thu 10am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Thu"
+          ],
+          "open": "06:30",
+          "close": "10:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Sebastopol Inter-Church Food Pantry",
+      "org": "Sebastopol Inter-Church Food Pantry",
+      "address": "500 Robinson Rd, Sebastopol, CA 95472",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Wed, Fri 10am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed",
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Sebastopol SDA Community Service",
+      "org": "Sebastopol SDA Community Service",
+      "address": "1665 Gravenstein Hwy N, Sebastopol, CA 95472",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Wed 8:30am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Wed",
+            "3rd Wed"
+          ],
+          "open": "08:30",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Sebastian Church",
+      "org": "St. Sebastian Church",
+      "address": "7983 Covert Ln, Sebastopol, CA 95472",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 3:30pm-4:30pm; 2nd Wed 9:30am-10:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "15:30",
+          "close": "16:30"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed"
+          ],
+          "open": "09:30",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "WCHC Teen Clinic",
+      "org": "WCHC Teen Clinic",
+      "address": "652 Petaluma Ave Suite F, Sebastopol, CA 95472",
+      "phone": "707-887-0427",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Thu 1:30pm-5pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "13:30",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Alta Madrone SAHA",
+      "org": "Alta Madrone SAHA",
+      "address": "1269 Broadway, Sonoma, CA 95476",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Tue 12:30pm-1:15pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Tue",
+            "3rd Tue"
+          ],
+          "open": "12:30",
+          "close": "13:15"
+        }
+      ]
+    },
+    {
+      "name": "El Verano Elementary",
+      "org": "El Verano Elementary",
+      "address": "18606 Riverside Dr, Sonoma, CA 95476",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Sat 9:30am-10:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Sat",
+            "3rd Sat"
+          ],
+          "open": "09:30",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "FAHA Manor Apartments",
+      "org": "FAHA Manor Apartments",
+      "address": "191 W Verano Ave, Sonoma, CA 95476",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Tue 1pm-1:45pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Tue"
+          ],
+          "open": "13:00",
+          "close": "13:45"
+        }
+      ]
+    },
+    {
+      "name": "FISH of Sonoma",
+      "org": "FISH of Sonoma",
+      "address": "18330 Sonoma Hwy, Sonoma, CA 95476",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 1:30pm-2:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "13:30",
+          "close": "14:30"
+        }
+      ]
+    },
+    {
+      "name": "Oak Ridge Senior Apartments",
+      "org": "Oak Ridge Senior Apartments",
+      "address": "18800 Beatrice Dr, Sonoma, CA 95476",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Tue 1pm-1:45pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue"
+          ],
+          "open": "13:00",
+          "close": "13:45"
+        }
+      ]
+    },
+    {
+      "name": "Seven Flags Mobile Park",
+      "org": "Seven Flags Mobile Park",
+      "address": "1400 Watmaugh Rd, Sonoma, CA 95476",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Tue 1pm-1:45pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Tue"
+          ],
+          "open": "13:00",
+          "close": "13:45"
+        }
+      ]
+    },
+    {
+      "name": "Sonoma Creek Senior Housing",
+      "org": "Sonoma Creek Senior Housing",
+      "address": "809 Oregon St, Sonoma, CA 95476",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Tue 1pm-1:45pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Tue"
+          ],
+          "open": "13:00",
+          "close": "13:45"
+        }
+      ]
+    },
+    {
+      "name": "Sonoma Family Meal, Unity Kitchen",
+      "org": "Sonoma Family Meal, Unity Kitchen",
+      "address": "17400 Sonoma Hwy, Sonoma, CA 95476",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 9am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Sonoma SDA Church Open Pantry",
+      "org": "Sonoma SDA Church Open Pantry",
+      "address": "20575 Broadway, Sonoma, CA 95476",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 12pm-12:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "12:00",
+          "close": "12:30"
+        }
+      ]
+    },
+    {
+      "name": "Sonoma Valley Community Health Center",
+      "org": "Sonoma Valley Community Health Center",
+      "address": "19270 Sonoma Hwy, Sonoma, CA 95476",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Fri 8:30am-9:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri",
+            "3rd Fri"
+          ],
+          "open": "08:30",
+          "close": "09:30"
+        }
+      ]
+    },
+    {
+      "name": "St. Andrew Presbyterian Church",
+      "org": "St. Andrew Presbyterian Church",
+      "address": "16290 Arnold Dr, Sonoma, CA 95476",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 4pm-5pm; Fri 9:30am-10:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "16:00",
+          "close": "17:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "09:30",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "St. Leo Church SVdP",
+      "org": "St. Leo Church SVdP",
+      "address": "601 Agua Caliente Rd W, Sonoma, CA 95476",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 8:30am-9:30am; Wed, Thu, Fri 11:30am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "08:30",
+          "close": "09:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "11:30",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Alliance Medical Center - Windsor",
+      "org": "Alliance Medical Center - Windsor",
+      "address": "8465 Old Redwood Hwy, Windsor, CA 95492",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 9am-9:15am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "09:15"
+        }
+      ]
+    },
+    {
+      "name": "Forest Winds Apartments",
+      "org": "Forest Winds Apartments",
+      "address": "6697 Old Redwood Hwy, Windsor, CA 95492",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Tue 1pm-1:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Tue"
+          ],
+          "open": "13:00",
+          "close": "13:30"
+        }
+      ]
+    },
+    {
+      "name": "Keiser Park",
+      "org": "Keiser Park",
+      "address": "700 Windsor River Rd, Windsor, CA 95492",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 1:30pm-2:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "13:30",
+          "close": "14:30"
+        }
+      ]
+    },
+    {
+      "name": "Nuestra Comunidad Bluebird Campus",
+      "org": "Nuestra Comunidad Bluebird Campus",
+      "address": "21 Bluebird Dr Bldg D, Windsor, CA 95492",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Fri 10am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Fri",
+            "4th Fri"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Our Lady of Guadalupe Church",
+      "org": "Our Lady of Guadalupe Church",
+      "address": "8400 Old Redwood Hwy, Windsor, CA 95492",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 8am-9am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "08:00",
+          "close": "09:00"
+        }
+      ]
+    },
+    {
+      "name": "Vinecrest Senior Apartments",
+      "org": "Vinecrest Senior Apartments",
+      "address": "8400 Hembree Ln, Windsor, CA 95492",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Tue 11am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Tue"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ],
+      "allowColocated": true
+    },
+    {
+      "name": "Windsor Presbyterian Church",
+      "org": "Windsor Presbyterian Church",
+      "address": "251 Windsor River Rd, Windsor, CA 95492",
+      "phone": "707-838-1566",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 8:30am-10am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "08:30",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Windsor Senior Center",
+      "org": "Windsor Senior Center",
+      "address": "9231 Foxwood Dr, Windsor, CA 95492",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Fri 10am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri",
+            "3rd Fri"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Windsor Service Alliance",
+      "org": "Windsor Service Alliance",
+      "address": "8987 Windsor Rd, Windsor, CA 95492",
+      "phone": "707-838-6947",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "drive-thru",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "13:00",
+          "close": "16:00"
+        }
+      ]
+    }
+  ]
+}

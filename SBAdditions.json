@@ -1,0 +1,807 @@
+{
+  "_meta": {
+    "topic": "Net-new San Bernardino County food distributions",
+    "generated": "2026-09-28",
+    "source": "Research supplementing shell 6abaa385b4b328f7ae43; raw ./additions-sanbernardino-raw.json."
+  },
+  "_deferred": {
+    "add-neighborhood-vineyard-church-food-distribution": {
+      "title": "Neighborhood Vineyard Church Food Distribution",
+      "status": "3rd Saturday; drive-thru Phone: 909-646-8860.",
+      "address": "11966 Jack Benny Dr Suite 104, Rancho Cucamonga, CA 91739",
+      "lat": 34.101456,
+      "lng": -117.544324,
+      "phone": "909-646-8860",
+      "eligibility": "Free; drive-through",
+      "sourceUrl": "https://nvcfamily.org/food-pantry/"
+    },
+    "add-holy-family-catholic-church-food-distribution": {
+      "title": "Holy Family Catholic Church Food Distribution",
+      "status": "2nd Wednesday of the month; 3rd Wednesday of the month Phone: 760-244-9180.",
+      "address": "9974 I Ave, Hesperia, CA 92345",
+      "lat": 34.433559,
+      "lng": -117.281252,
+      "phone": "760-244-9180",
+      "eligibility": "Free",
+      "sourceUrl": "https://www.holyfamilyhd.org/"
+    },
+    "add-apple-valley-church-of-the-nazarene-food-distrib": {
+      "title": "Apple Valley Church of the Nazarene Food Distribution",
+      "status": "3rd Friday; proof of income/ID/residency required Phone: 760-247-8433.",
+      "address": "12935 Central Rd, Apple Valley, CA 92308",
+      "lat": 34.487184,
+      "lng": -117.172251,
+      "phone": "760-247-8433",
+      "eligibility": "Free",
+      "sourceUrl": "https://avnaz.org/food-distribution"
+    },
+    "add-yucca-valley-church-of-the-nazarene-food-distrib": {
+      "title": "Yucca Valley Church of the Nazarene Food Distribution",
+      "status": "2nd Thursday of the month or until all food is distributed Phone: 760-362-3581.",
+      "address": "56248 Buena Vista Dr, Yucca Valley, CA 92284",
+      "lat": 34.12768,
+      "lng": -116.43695,
+      "phone": "760-362-3581",
+      "eligibility": "Free; drive-thru only",
+      "sourceUrl": "https://findfoodbank.org/locations/yucca-valley-church-of-the-nazarene/"
+    }
+  },
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "add-mary-s-table-mary-s-mercy-center-w123467-1130",
+      "seriesSlug": "add-mary-s-table-mary-s-mercy-center",
+      "title": "Mary's Table - Mary's Mercy Center — Free Food",
+      "description": "Free food at Mary's Table - Mary's Mercy Center (Mary's Mercy Center). Schedule: Mon–Thu, Sat–Sun 11:30 AM–1:30 PM (Hot lunch; closed Fridays); Food baskets first three Wednesdays of each month. Eligibility: Open to all; no ID required. Call 909-889-2558 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Mary's Table - Mary's Mercy Center",
+      "address": "641 Roberds Ave, San Bernardino, CA 92411",
+      "lat": 34.1112,
+      "lng": -117.317085,
+      "category": "food-assistance",
+      "sourceOrg": "Mary's Mercy Center",
+      "url": "https://marysmercycenter.org/ministeries/marys-table/",
+      "schedulePattern": "Mon–Thu, Sat–Sun 11:30 AM–1:30 PM (Hot lunch; closed Fridays); Food baskets first three Wednesdays of each month",
+      "start": "2026-09-21T11:30",
+      "end": "2026-09-21T13:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,6,7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-salvation-army-ontario-corps-w4-0930",
+      "seriesSlug": "add-the-salvation-army-ontario-corps",
+      "title": "The Salvation Army - Ontario Corps — Free Food",
+      "description": "Free food at The Salvation Army - Ontario Corps (The Salvation Army). Schedule: Thu 9:30 AM–12 PM (By appointment only; call ahead). Eligibility: Free; call to confirm. Call 909-986-6748 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Salvation Army - Ontario Corps",
+      "address": "1412 S Euclid Ave, Ontario, CA 91762",
+      "lat": 34.048025,
+      "lng": -117.651805,
+      "category": "food-assistance",
+      "sourceOrg": "The Salvation Army",
+      "url": "https://www.salvationarmyusa.org/ca/ontario/s-euclid-avenue-corps/",
+      "schedulePattern": "Thu 9:30 AM–12 PM (By appointment only; call ahead)",
+      "start": "2026-09-21T09:30",
+      "end": "2026-09-21T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-salvation-army-san-bernardino-corps-w3-0830",
+      "seriesSlug": "add-the-salvation-army-san-bernardino-corps",
+      "title": "The Salvation Army - San Bernardino Corps — Free Food",
+      "description": "Free food at The Salvation Army - San Bernardino Corps (The Salvation Army). Schedule: Wed 8:30 AM–3 PM. Eligibility: Free. Call 909-792-6868 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Salvation Army - San Bernardino Corps",
+      "address": "2626 Pacific St, Highland, CA 92346",
+      "lat": 34.12962,
+      "lng": -117.23002,
+      "category": "food-assistance",
+      "sourceOrg": "The Salvation Army",
+      "url": "https://sanbernardino.salvationarmy.org/",
+      "schedulePattern": "Wed 8:30 AM–3 PM",
+      "start": "2026-09-21T08:30",
+      "end": "2026-09-21T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-salvation-army-victor-valley-corps-w234-0900",
+      "seriesSlug": "add-the-salvation-army-victor-valley-corps",
+      "title": "The Salvation Army - Victor Valley Corps — Free Food",
+      "description": "Free food at The Salvation Army - Victor Valley Corps (The Salvation Army). Schedule: Tue–Thu 9 AM–12 PM (Food pantry). Eligibility: Free. Call 760-245-2545 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Salvation Army - Victor Valley Corps",
+      "address": "14585 La Paz Dr, Victorville, CA 92395",
+      "lat": 34.516004,
+      "lng": -117.312227,
+      "category": "food-assistance",
+      "sourceOrg": "The Salvation Army",
+      "url": "https://victorvalley.salvationarmy.org/",
+      "schedulePattern": "Tue–Thu 9 AM–12 PM (Food pantry)",
+      "start": "2026-09-21T09:00",
+      "end": "2026-09-21T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-redlands-family-service-association-w12345-1000",
+      "seriesSlug": "add-redlands-family-service-association",
+      "title": "Redlands Family Service Association — Free Food",
+      "description": "Free food at Redlands Family Service Association. Schedule: Mon–Fri 10 AM–11 AM (Nutritional support meals served to the public; food boxes also available during office hours 8:30-16:30). Eligibility: Open to the public; no eligibility requirement for meals. Call 909-793-2673 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Redlands Family Service Association",
+      "address": "612 Lawton St, Redlands, CA 92374",
+      "lat": 34.061024,
+      "lng": -117.189627,
+      "category": "food-assistance",
+      "sourceOrg": "Redlands Family Service Association",
+      "url": "https://www.redlandsfamilyservice.org/",
+      "schedulePattern": "Mon–Fri 10 AM–11 AM (Nutritional support meals served to the public; food boxes also available during office hours 8:30-16:30)",
+      "start": "2026-09-21T10:00",
+      "end": "2026-09-21T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-foothill-family-shelter-food-pantry-w2345-0900",
+      "seriesSlug": "add-foothill-family-shelter-food-pantry",
+      "title": "Foothill Family Shelter Food Pantry — Free Food",
+      "description": "Free food at Foothill Family Shelter Food Pantry (Foothill Family Shelter). Schedule: Tue–Fri 9 AM–5 PM (Closed 12:00-13:00 for lunch). Eligibility: Serves Upland, Rancho Cucamonga, Montclair, Ontario. Call 909-920-0453 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Foothill Family Shelter Food Pantry",
+      "address": "1501 W 9th St Ste D, Upland, CA 91786",
+      "lat": 34.096332,
+      "lng": -117.67988,
+      "category": "food-assistance",
+      "sourceOrg": "Foothill Family Shelter",
+      "url": "https://www.foothillfamilyshelter.org/",
+      "schedulePattern": "Tue–Fri 9 AM–5 PM (Closed 12:00-13:00 for lunch)",
+      "start": "2026-09-21T09:00",
+      "end": "2026-09-21T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-eagle-food-pantry-w2-1745",
+      "seriesSlug": "add-eagle-food-pantry",
+      "title": "Eagle Food Pantry — Free Food",
+      "description": "Free food at Eagle Food Pantry. Schedule: Tue 5:45 PM–6:45 PM; Sat 9:30 AM–11:30 AM. Eligibility: Free. Call 951-313-6816 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Eagle Food Pantry",
+      "address": "7950 Cherry Ave Unit 111, Fontana, CA 92336",
+      "lat": 34.109251,
+      "lng": -117.489235,
+      "category": "food-assistance",
+      "sourceOrg": "Eagle Food Pantry",
+      "url": "",
+      "schedulePattern": "Tue 5:45 PM–6:45 PM; Sat 9:30 AM–11:30 AM",
+      "start": "2026-09-21T17:45",
+      "end": "2026-09-21T18:45",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-eagle-food-pantry-w6-0930",
+      "seriesSlug": "add-eagle-food-pantry",
+      "title": "Eagle Food Pantry — Free Food",
+      "description": "Free food at Eagle Food Pantry. Schedule: Tue 5:45 PM–6:45 PM; Sat 9:30 AM–11:30 AM. Eligibility: Free. Call 951-313-6816 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Eagle Food Pantry",
+      "address": "7950 Cherry Ave Unit 111, Fontana, CA 92336",
+      "lat": 34.109251,
+      "lng": -117.489235,
+      "category": "food-assistance",
+      "sourceOrg": "Eagle Food Pantry",
+      "url": "",
+      "schedulePattern": "Tue 5:45 PM–6:45 PM; Sat 9:30 AM–11:30 AM",
+      "start": "2026-09-21T09:30",
+      "end": "2026-09-21T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sunrise-church-peace-community-resource-center-w1-0900",
+      "seriesSlug": "add-sunrise-church-peace-community-resource-center",
+      "title": "Sunrise Church - Peace Community Resource Center — Free Food",
+      "description": "Free food at Sunrise Church - Peace Community Resource Center (Sunrise Church). Schedule: Mon 9 AM–12 PM; Tue–Fri 9 AM–4 PM. Eligibility: Free; drive-thru. Call 909-875-5566 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Sunrise Church - Peace Community Resource Center",
+      "address": "690 W Etiwanda Ave, Rialto, CA 92376",
+      "lat": 34.11472,
+      "lng": -117.38288,
+      "category": "food-assistance",
+      "sourceOrg": "Sunrise Church",
+      "url": "https://www.sunrisechurch.org/centrodepaz",
+      "schedulePattern": "Mon 9 AM–12 PM; Tue–Fri 9 AM–4 PM",
+      "start": "2026-09-21T09:00",
+      "end": "2026-09-21T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sunrise-church-peace-community-resource-center-w2345-0900",
+      "seriesSlug": "add-sunrise-church-peace-community-resource-center",
+      "title": "Sunrise Church - Peace Community Resource Center — Free Food",
+      "description": "Free food at Sunrise Church - Peace Community Resource Center (Sunrise Church). Schedule: Mon 9 AM–12 PM; Tue–Fri 9 AM–4 PM. Eligibility: Free; drive-thru. Call 909-875-5566 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Sunrise Church - Peace Community Resource Center",
+      "address": "690 W Etiwanda Ave, Rialto, CA 92376",
+      "lat": 34.11472,
+      "lng": -117.38288,
+      "category": "food-assistance",
+      "sourceOrg": "Sunrise Church",
+      "url": "https://www.sunrisechurch.org/centrodepaz",
+      "schedulePattern": "Mon 9 AM–12 PM; Tue–Fri 9 AM–4 PM",
+      "start": "2026-09-21T09:00",
+      "end": "2026-09-21T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-colton-community-church-food-pantry-w7-1200",
+      "seriesSlug": "add-colton-community-church-food-pantry",
+      "title": "Colton Community Church Food Pantry — Free Food",
+      "description": "Free food at Colton Community Church Food Pantry (Colton Community Church). Schedule: Sun 12 PM–1 PM; Last Monday of the month. Eligibility: Free. Call 909-825-0381 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Colton Community Church Food Pantry",
+      "address": "1301 N Rancho Ave, Colton, CA 92324",
+      "lat": 34.081713,
+      "lng": -117.335374,
+      "category": "food-assistance",
+      "sourceOrg": "Colton Community Church",
+      "url": "https://www.coltoncommunitychurch.com/",
+      "schedulePattern": "Sun 12 PM–1 PM; Last Monday of the month",
+      "start": "2026-09-21T12:00",
+      "end": "2026-09-21T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-impact-christian-church-food-pantry-victor-valle-w2-1100",
+      "seriesSlug": "add-impact-christian-church-food-pantry-victor-valle",
+      "title": "Impact Christian Church Food Pantry (Victor Valley Rescue Mission) — Free Food",
+      "description": "Free food at Impact Christian Church Food Pantry (Victor Valley Rescue Mission) (Impact Christian Church / Victor Valley Rescue Mission). Schedule: Tue 11 AM–12 PM (Drive-up). Eligibility: Anyone in need, all ages; walk-ins accepted. Call 760-246-4100 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Impact Christian Church Food Pantry (Victor Valley Rescue Mission)",
+      "address": "17746 George Blvd, Victorville, CA 92394",
+      "lat": 34.580608,
+      "lng": -117.365791,
+      "category": "food-assistance",
+      "sourceOrg": "Impact Christian Church / Victor Valley Rescue Mission",
+      "url": "https://www.greaterimpact.cc/",
+      "schedulePattern": "Tue 11 AM–12 PM (Drive-up)",
+      "start": "2026-09-21T11:00",
+      "end": "2026-09-21T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-samaritans-helping-hand-food-pantry-w12345-1000",
+      "seriesSlug": "add-samaritans-helping-hand-food-pantry",
+      "title": "Samaritans Helping Hand Food Pantry — Free Food",
+      "description": "Free food at Samaritans Helping Hand Food Pantry (Samaritans Helping Hand). Schedule: Mon–Fri 10 AM–12 PM (ID and SSN required). Eligibility: ID and Social Security required. Call 760-243-5933 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Samaritans Helping Hand Food Pantry",
+      "address": "15527 8th St, Victorville, CA 92395",
+      "lat": 34.53337,
+      "lng": -117.294087,
+      "category": "food-assistance",
+      "sourceOrg": "Samaritans Helping Hand",
+      "url": "",
+      "schedulePattern": "Mon–Fri 10 AM–12 PM (ID and SSN required)",
+      "start": "2026-09-21T10:00",
+      "end": "2026-09-21T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-restoration-center-seventh-day-adventist-church-w3-1100",
+      "seriesSlug": "add-restoration-center-seventh-day-adventist-church",
+      "title": "Restoration Center - Seventh-day Adventist Church — Free Food",
+      "description": "Free food at Restoration Center - Seventh-day Adventist Church (Restoration Center SDA Church). Schedule: Wed 11 AM–1:30 PM (Bring your own bags). Eligibility: Free; bring your own bags. Call 760-243-2525 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Restoration Center - Seventh-day Adventist Church",
+      "address": "16673 Avalon Ave, Victorville, CA 92395",
+      "lat": 34.53715,
+      "lng": -117.30059,
+      "category": "food-assistance",
+      "sourceOrg": "Restoration Center SDA Church",
+      "url": "https://www.restorationcentersda.org/",
+      "schedulePattern": "Wed 11 AM–1:30 PM (Bring your own bags)",
+      "start": "2026-09-21T11:00",
+      "end": "2026-09-21T13:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-victorville-peace-center-sonrise-church-w2345-0900",
+      "seriesSlug": "add-victorville-peace-center-sonrise-church",
+      "title": "Victorville Peace Center - Sonrise Church — Free Food",
+      "description": "Free food at Victorville Peace Center - Sonrise Church (Sonrise Church). Schedule: Tue–Fri 9 AM–12 PM (Valid photo ID required; once per 7 days). Eligibility: Free. Call 760-241-0168 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Victorville Peace Center - Sonrise Church",
+      "address": "13495 Arrowhead Dr, Victorville, CA 92395",
+      "lat": 34.495647,
+      "lng": -117.311333,
+      "category": "food-assistance",
+      "sourceOrg": "Sonrise Church",
+      "url": "https://www.sunrisechurch.org/victorville",
+      "schedulePattern": "Tue–Fri 9 AM–12 PM (Valid photo ID required; once per 7 days)",
+      "start": "2026-09-21T09:00",
+      "end": "2026-09-21T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-gate-church-food-distribution-w1-0900",
+      "seriesSlug": "add-the-gate-church-food-distribution",
+      "title": "The Gate Church Food Distribution — Free Food",
+      "description": "Free food at The Gate Church Food Distribution (The Gate Church). Schedule: Mon 9 AM–12 PM (ID and proof of residency required). Eligibility: ID and proof of residency required. Call 760-949-8979 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Gate Church Food Distribution",
+      "address": "11783 Amethyst Rd, Victorville, CA 92392",
+      "lat": 34.464452,
+      "lng": -117.362616,
+      "category": "food-assistance",
+      "sourceOrg": "The Gate Church",
+      "url": "",
+      "schedulePattern": "Mon 9 AM–12 PM (ID and proof of residency required)",
+      "start": "2026-09-21T09:00",
+      "end": "2026-09-21T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-trinity-lutheran-church-food-pantry-w1234-0900",
+      "seriesSlug": "add-trinity-lutheran-church-food-pantry",
+      "title": "Trinity Lutheran Church Food Pantry — Free Food",
+      "description": "Free food at Trinity Lutheran Church Food Pantry (Trinity Lutheran Church). Schedule: Mon–Thu 9 AM–1 PM. Eligibility: Free. Call 760-245-3225 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Trinity Lutheran Church Food Pantry",
+      "address": "16138 Molino Dr, Victorville, CA 92395",
+      "lat": 34.51206,
+      "lng": -117.31199,
+      "category": "food-assistance",
+      "sourceOrg": "Trinity Lutheran Church",
+      "url": "",
+      "schedulePattern": "Mon–Thu 9 AM–1 PM",
+      "start": "2026-09-21T09:00",
+      "end": "2026-09-21T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-oasis-community-church-alex-ross-ford-food-pantr-w4-1000",
+      "seriesSlug": "add-oasis-community-church-alex-ross-ford-food-pantr",
+      "title": "Oasis Community Church - Alex Ross Ford Food Pantry — Free Food",
+      "description": "Free food at Oasis Community Church - Alex Ross Ford Food Pantry (Oasis Community Church). Schedule: Thu 10 AM–12 PM. Eligibility: Free. Call 442-529-2657 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Oasis Community Church - Alex Ross Ford Food Pantry",
+      "address": "6631 Utah Trail, Twentynine Palms, CA 92277",
+      "lat": 34.133661,
+      "lng": -116.036392,
+      "category": "food-assistance",
+      "sourceOrg": "Oasis Community Church",
+      "url": "https://occ29palms.org/",
+      "schedulePattern": "Thu 10 AM–12 PM",
+      "start": "2026-09-21T10:00",
+      "end": "2026-09-21T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-set-free-church-29-palms-food-pantry-w1234-0800",
+      "seriesSlug": "add-set-free-church-29-palms-food-pantry",
+      "title": "Set Free Church 29 Palms Food Pantry — Free Food",
+      "description": "Free food at Set Free Church 29 Palms Food Pantry (Set Free Church). Schedule: Mon–Thu 8 AM–5 PM (Primarily non-perishable); Fri 1 PM–5 PM (Main distribution incl. perishables). Eligibility: Free. Call 760-361-1339 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Set Free Church 29 Palms Food Pantry",
+      "address": "82575 Amboy Rd, Twentynine Palms, CA 92277",
+      "lat": 34.16426,
+      "lng": -115.85929,
+      "category": "food-assistance",
+      "sourceOrg": "Set Free Church",
+      "url": "https://setfree-wondervalley.org/food-ministry",
+      "schedulePattern": "Mon–Thu 8 AM–5 PM (Primarily non-perishable); Fri 1 PM–5 PM (Main distribution incl. perishables)",
+      "start": "2026-09-21T08:00",
+      "end": "2026-09-21T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-set-free-church-29-palms-food-pantry-w5-1300",
+      "seriesSlug": "add-set-free-church-29-palms-food-pantry",
+      "title": "Set Free Church 29 Palms Food Pantry — Free Food",
+      "description": "Free food at Set Free Church 29 Palms Food Pantry (Set Free Church). Schedule: Mon–Thu 8 AM–5 PM (Primarily non-perishable); Fri 1 PM–5 PM (Main distribution incl. perishables). Eligibility: Free. Call 760-361-1339 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Set Free Church 29 Palms Food Pantry",
+      "address": "82575 Amboy Rd, Twentynine Palms, CA 92277",
+      "lat": 34.16426,
+      "lng": -115.85929,
+      "category": "food-assistance",
+      "sourceOrg": "Set Free Church",
+      "url": "https://setfree-wondervalley.org/food-ministry",
+      "schedulePattern": "Mon–Thu 8 AM–5 PM (Primarily non-perishable); Fri 1 PM–5 PM (Main distribution incl. perishables)",
+      "start": "2026-09-21T13:00",
+      "end": "2026-09-21T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-first-christian-church-of-yucca-valley-food-pant-w2345-0900",
+      "seriesSlug": "add-first-christian-church-of-yucca-valley-food-pant",
+      "title": "First Christian Church of Yucca Valley Food Pantry — Free Food",
+      "description": "Free food at First Christian Church of Yucca Valley Food Pantry (First Christian Church of Yucca Valley). Schedule: Tue–Fri 9 AM–3 PM; Sun 11 AM–12:30 PM (After church services). Eligibility: Free. Call 760-365-4014 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "First Christian Church of Yucca Valley Food Pantry",
+      "address": "56284 Buena Vista Dr, Yucca Valley, CA 92284",
+      "lat": 34.127701,
+      "lng": -116.436127,
+      "category": "food-assistance",
+      "sourceOrg": "First Christian Church of Yucca Valley",
+      "url": "https://firstchurchyuccavalley.com/",
+      "schedulePattern": "Tue–Fri 9 AM–3 PM; Sun 11 AM–12:30 PM (After church services)",
+      "start": "2026-09-21T09:00",
+      "end": "2026-09-21T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-first-christian-church-of-yucca-valley-food-pant-w7-1100",
+      "seriesSlug": "add-first-christian-church-of-yucca-valley-food-pant",
+      "title": "First Christian Church of Yucca Valley Food Pantry — Free Food",
+      "description": "Free food at First Christian Church of Yucca Valley Food Pantry (First Christian Church of Yucca Valley). Schedule: Tue–Fri 9 AM–3 PM; Sun 11 AM–12:30 PM (After church services). Eligibility: Free. Call 760-365-4014 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "First Christian Church of Yucca Valley Food Pantry",
+      "address": "56284 Buena Vista Dr, Yucca Valley, CA 92284",
+      "lat": 34.127701,
+      "lng": -116.436127,
+      "category": "food-assistance",
+      "sourceOrg": "First Christian Church of Yucca Valley",
+      "url": "https://firstchurchyuccavalley.com/",
+      "schedulePattern": "Tue–Fri 9 AM–3 PM; Sun 11 AM–12:30 PM (After church services)",
+      "start": "2026-09-21T11:00",
+      "end": "2026-09-21T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-obershaw-den-food-pantry-csusb-w234-0900",
+      "seriesSlug": "add-obershaw-den-food-pantry-csusb",
+      "title": "Obershaw DEN Food Pantry (CSUSB) — Free Food",
+      "description": "Free food at Obershaw DEN Food Pantry (CSUSB) (California State University San Bernardino - Basic Needs). Schedule: Tue–Thu 9 AM–5 PM (Student Union South 224; hours vary by term - call to confirm). Eligibility: Currently enrolled CSUSB students. Call 909-537-3663 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Obershaw DEN Food Pantry (CSUSB)",
+      "address": "5500 University Pkwy, San Bernardino, CA 92407",
+      "lat": 34.18123,
+      "lng": -117.323652,
+      "category": "food-assistance",
+      "sourceOrg": "California State University San Bernardino - Basic Needs",
+      "url": "https://www.csusb.edu/basic-needs/food-security/obershaw-den",
+      "schedulePattern": "Tue–Thu 9 AM–5 PM (Student Union South 224; hours vary by term - call to confirm)",
+      "start": "2026-09-21T09:00",
+      "end": "2026-09-21T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-blue-s-pantry-san-bernardino-valley-college-w234-1000",
+      "seriesSlug": "add-blue-s-pantry-san-bernardino-valley-college",
+      "title": "Blue's Pantry (San Bernardino Valley College) — Free Food",
+      "description": "Free food at Blue's Pantry (San Bernardino Valley College) (San Bernardino Valley College - Basic Needs). Schedule: Tue–Thu 10 AM–4 PM (Fall/Spring hours; call ahead). Eligibility: Currently enrolled SBVC students. Call 909-384-4400 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Blue's Pantry (San Bernardino Valley College)",
+      "address": "701 S Mt Vernon Ave, San Bernardino, CA 92410",
+      "lat": 34.087588,
+      "lng": -117.310696,
+      "category": "food-assistance",
+      "sourceOrg": "San Bernardino Valley College - Basic Needs",
+      "url": "https://www.valleycollege.edu/about-sbvc/facilities/blues-pantry/index.php",
+      "schedulePattern": "Tue–Thu 10 AM–4 PM (Fall/Spring hours; call ahead)",
+      "start": "2026-09-21T10:00",
+      "end": "2026-09-21T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-crafton-hills-college-campus-food-pantry-w14-0900",
+      "seriesSlug": "add-crafton-hills-college-campus-food-pantry",
+      "title": "Crafton Hills College Campus Food Pantry — Free Food",
+      "description": "Free food at Crafton Hills College Campus Food Pantry (Crafton Hills College - Basic Needs). Schedule: Mon, Thu 9 AM–6 PM (Room CCR-153); Tue–Wed 9 AM–7 PM (Room CCR-153); Fri 9 AM–1 PM (Room CCR-153). Eligibility: Registered CHC students only. Call 909-389-3233 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Crafton Hills College Campus Food Pantry",
+      "address": "11711 Sand Canyon Rd, Yucaipa, CA 92399",
+      "lat": 34.039125,
+      "lng": -117.101259,
+      "category": "food-assistance",
+      "sourceOrg": "Crafton Hills College - Basic Needs",
+      "url": "https://www.craftonhills.edu/current-students/food-pantry/index.php",
+      "schedulePattern": "Mon, Thu 9 AM–6 PM (Room CCR-153); Tue–Wed 9 AM–7 PM (Room CCR-153); Fri 9 AM–1 PM (Room CCR-153)",
+      "start": "2026-09-21T09:00",
+      "end": "2026-09-21T18:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-crafton-hills-college-campus-food-pantry-w23-0900",
+      "seriesSlug": "add-crafton-hills-college-campus-food-pantry",
+      "title": "Crafton Hills College Campus Food Pantry — Free Food",
+      "description": "Free food at Crafton Hills College Campus Food Pantry (Crafton Hills College - Basic Needs). Schedule: Mon, Thu 9 AM–6 PM (Room CCR-153); Tue–Wed 9 AM–7 PM (Room CCR-153); Fri 9 AM–1 PM (Room CCR-153). Eligibility: Registered CHC students only. Call 909-389-3233 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Crafton Hills College Campus Food Pantry",
+      "address": "11711 Sand Canyon Rd, Yucaipa, CA 92399",
+      "lat": 34.039125,
+      "lng": -117.101259,
+      "category": "food-assistance",
+      "sourceOrg": "Crafton Hills College - Basic Needs",
+      "url": "https://www.craftonhills.edu/current-students/food-pantry/index.php",
+      "schedulePattern": "Mon, Thu 9 AM–6 PM (Room CCR-153); Tue–Wed 9 AM–7 PM (Room CCR-153); Fri 9 AM–1 PM (Room CCR-153)",
+      "start": "2026-09-21T09:00",
+      "end": "2026-09-21T19:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-crafton-hills-college-campus-food-pantry-w5-0900",
+      "seriesSlug": "add-crafton-hills-college-campus-food-pantry",
+      "title": "Crafton Hills College Campus Food Pantry — Free Food",
+      "description": "Free food at Crafton Hills College Campus Food Pantry (Crafton Hills College - Basic Needs). Schedule: Mon, Thu 9 AM–6 PM (Room CCR-153); Tue–Wed 9 AM–7 PM (Room CCR-153); Fri 9 AM–1 PM (Room CCR-153). Eligibility: Registered CHC students only. Call 909-389-3233 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Crafton Hills College Campus Food Pantry",
+      "address": "11711 Sand Canyon Rd, Yucaipa, CA 92399",
+      "lat": 34.039125,
+      "lng": -117.101259,
+      "category": "food-assistance",
+      "sourceOrg": "Crafton Hills College - Basic Needs",
+      "url": "https://www.craftonhills.edu/current-students/food-pantry/index.php",
+      "schedulePattern": "Mon, Thu 9 AM–6 PM (Room CCR-153); Tue–Wed 9 AM–7 PM (Room CCR-153); Fri 9 AM–1 PM (Room CCR-153)",
+      "start": "2026-09-21T09:00",
+      "end": "2026-09-21T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-chaffey-college-panther-pantry-panther-care-w12345-0730",
+      "seriesSlug": "add-chaffey-college-panther-pantry-panther-care",
+      "title": "Chaffey College Panther Pantry (Panther Care) — Free Food",
+      "description": "Free food at Chaffey College Panther Pantry (Panther Care) (Chaffey College - Panther Care Program). Schedule: Mon–Fri 7:30 AM–4:30 PM (Farmers Market Thursdays 11:00-14:00 open to community). Eligibility: Actively enrolled Chaffey College students (student ID required). Call 909-652-6534 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Chaffey College Panther Pantry (Panther Care)",
+      "address": "5885 Haven Ave, Rancho Cucamonga, CA 91737",
+      "lat": 34.146725,
+      "lng": -117.570862,
+      "category": "food-assistance",
+      "sourceOrg": "Chaffey College - Panther Care Program",
+      "url": "https://www.chaffey.edu/spops/panther-care/index.php",
+      "schedulePattern": "Mon–Fri 7:30 AM–4:30 PM (Farmers Market Thursdays 11:00-14:00 open to community)",
+      "start": "2026-09-21T07:30",
+      "end": "2026-09-21T16:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-vvc-peak-pantry-victor-valley-college-w12345-1000",
+      "seriesSlug": "add-vvc-peak-pantry-victor-valley-college",
+      "title": "VVC PEAK Pantry (Victor Valley College) — Free Food",
+      "description": "Free food at VVC PEAK Pantry (Victor Valley College) (Victor Valley College - Basic Needs / THRIVE). Schedule: Mon–Fri 10 AM–3 PM (Student Activities Center (Bldg 44)). Eligibility: Enrolled VVC students (student ID required). Call 760-245-4271 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "VVC PEAK Pantry (Victor Valley College)",
+      "address": "18422 Bear Valley Rd, Victorville, CA 92395",
+      "lat": 34.474723,
+      "lng": -117.261573,
+      "category": "food-assistance",
+      "sourceOrg": "Victor Valley College - Basic Needs / THRIVE",
+      "url": "https://www.vvc.edu/student-parents/food-cash-aid",
+      "schedulePattern": "Mon–Fri 10 AM–3 PM (Student Activities Center (Bldg 44))",
+      "start": "2026-09-21T10:00",
+      "end": "2026-09-21T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-chino-senior-center-congregate-meals-w12345-1130",
+      "seriesSlug": "add-chino-senior-center-congregate-meals",
+      "title": "Chino Senior Center - Congregate Meals — Free Food",
+      "description": "Free food at Chino Senior Center - Congregate Meals (San Bernardino County Dept. of Aging and Adult Services). Schedule: Mon–Fri 11:30 AM–12:30 PM (Dine-in hot lunch). Eligibility: Seniors 60+; suggested donation. Call 909-334-3453 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Chino Senior Center - Congregate Meals",
+      "address": "13170 Central Ave, Chino, CA 91710",
+      "lat": 34.01443,
+      "lng": -117.689773,
+      "category": "food-assistance",
+      "sourceOrg": "San Bernardino County Dept. of Aging and Adult Services",
+      "url": "",
+      "schedulePattern": "Mon–Fri 11:30 AM–12:30 PM (Dine-in hot lunch)",
+      "start": "2026-09-21T11:30",
+      "end": "2026-09-21T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-james-l-brulte-senior-center-congregate-meals-w12345-1130",
+      "seriesSlug": "add-james-l-brulte-senior-center-congregate-meals",
+      "title": "James L. Brulte Senior Center - Congregate Meals — Free Food",
+      "description": "Free food at James L. Brulte Senior Center - Congregate Meals (City of Rancho Cucamonga / San Bernardino County DAAS). Schedule: Mon–Fri 11:30 AM–12:30 PM (David Dreier Hall; hot lunch). Eligibility: Seniors 60+; suggested donation $3. Call 909-477-2780 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "James L. Brulte Senior Center - Congregate Meals",
+      "address": "11200 Base Line Rd, Rancho Cucamonga, CA 91701",
+      "lat": 34.12315,
+      "lng": -117.560417,
+      "category": "food-assistance",
+      "sourceOrg": "City of Rancho Cucamonga / San Bernardino County DAAS",
+      "url": "https://www.cityofrc.us/news/congregate-meals",
+      "schedulePattern": "Mon–Fri 11:30 AM–12:30 PM (David Dreier Hall; hot lunch)",
+      "start": "2026-09-21T11:30",
+      "end": "2026-09-21T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-lytle-creek-community-center-senior-nutrition-w12345-1200",
+      "seriesSlug": "add-lytle-creek-community-center-senior-nutrition",
+      "title": "Lytle Creek Community Center - Senior Nutrition — Free Food",
+      "description": "Free food at Lytle Creek Community Center - Senior Nutrition (City of San Bernardino Parks, Recreation and Community Services). Schedule: Mon–Fri 12 PM–12:30 PM (Grab-and-go). Eligibility: Seniors 60+; suggested donation. Call 909-384-5424 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Lytle Creek Community Center - Senior Nutrition",
+      "address": "380 S K St, San Bernardino, CA 92410",
+      "lat": 34.094505,
+      "lng": -117.308525,
+      "category": "food-assistance",
+      "sourceOrg": "City of San Bernardino Parks, Recreation and Community Services",
+      "url": "",
+      "schedulePattern": "Mon–Fri 12 PM–12:30 PM (Grab-and-go)",
+      "start": "2026-09-21T12:00",
+      "end": "2026-09-21T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-new-hope-family-center-senior-nutrition-w12345-1130",
+      "seriesSlug": "add-new-hope-family-center-senior-nutrition",
+      "title": "New Hope Family Center - Senior Nutrition — Free Food",
+      "description": "Free food at New Hope Family Center - Senior Nutrition (San Bernardino County Dept. of Aging and Adult Services). Schedule: Mon–Fri 11:30 AM–12:30 PM (Grab-and-go; seniors 60+; $4 suggested donation). Eligibility: Seniors 60+; suggested donation. Call 909-473-9120 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "New Hope Family Center - Senior Nutrition",
+      "address": "1505 W Highland Ave, San Bernardino, CA 92411",
+      "lat": 34.135505,
+      "lng": -117.318678,
+      "category": "food-assistance",
+      "sourceOrg": "San Bernardino County Dept. of Aging and Adult Services",
+      "url": "https://www.sanbernardino.gov/404/Older-Californians-Nutrition-Program",
+      "schedulePattern": "Mon–Fri 11:30 AM–12:30 PM (Grab-and-go; seniors 60+; $4 suggested donation)",
+      "start": "2026-09-21T11:30",
+      "end": "2026-09-21T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-scherer-yucaipa-senior-nutrition-center-fsa-w12345-1130",
+      "seriesSlug": "add-scherer-yucaipa-senior-nutrition-center-fsa",
+      "title": "Scherer/Yucaipa Senior Nutrition Center (FSA) — Free Food",
+      "description": "Free food at Scherer/Yucaipa Senior Nutrition Center (FSA) (Family Service Association / City of Yucaipa). Schedule: Mon–Fri 11:30 AM–12:30 PM (Check-in begins 10:45; next to Scherer Community Center). Eligibility: Seniors 60+; suggested donation, none turned away. Call 909-790-3170 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Scherer/Yucaipa Senior Nutrition Center (FSA)",
+      "address": "12202 First St, Yucaipa, CA 92399",
+      "lat": 34.03205,
+      "lng": -117.041302,
+      "category": "food-assistance",
+      "sourceOrg": "Family Service Association / City of Yucaipa",
+      "url": "https://www.fsaca.org/programs/senior-nutrition/",
+      "schedulePattern": "Mon–Fri 11:30 AM–12:30 PM (Check-in begins 10:45; next to Scherer Community Center)",
+      "start": "2026-09-21T11:30",
+      "end": "2026-09-21T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-redlands-community-center-senior-nutrition-fsa-w12345-1130",
+      "seriesSlug": "add-redlands-community-center-senior-nutrition-fsa",
+      "title": "Redlands Community Center Senior Nutrition (FSA) — Free Food",
+      "description": "Free food at Redlands Community Center Senior Nutrition (FSA) (Family Service Association). Schedule: Mon–Fri 11:30 AM–12:30 PM (Hot lunch). Eligibility: Seniors 60+; suggested donation $3, none turned away. Call 909-790-3170 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Redlands Community Center Senior Nutrition (FSA)",
+      "address": "111 W Lugonia Ave, Redlands, CA 92374",
+      "lat": 34.069425,
+      "lng": -117.184022,
+      "category": "food-assistance",
+      "sourceOrg": "Family Service Association",
+      "url": "https://www.fsaca.org/programs/senior-nutrition/",
+      "schedulePattern": "Mon–Fri 11:30 AM–12:30 PM (Hot lunch)",
+      "start": "2026-09-21T11:30",
+      "end": "2026-09-21T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-george-white-senior-nutrition-fontana-w3-1030",
+      "seriesSlug": "add-george-white-senior-nutrition-fontana",
+      "title": "George White Senior Nutrition - Fontana — Free Food",
+      "description": "Free food at George White Senior Nutrition - Fontana (San Bernardino County Dept. of Aging and Adult Services). Schedule: Wed 10:30 AM–11:30 AM (Grab-and-go; seniors 60+; $1-$3 donation). Eligibility: Seniors 60+; suggested donation. Call 909-822-4493 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "George White Senior Nutrition - Fontana",
+      "address": "8565 Nuevo St, Fontana, CA 92335",
+      "lat": 34.098056,
+      "lng": -117.436606,
+      "category": "food-assistance",
+      "sourceOrg": "San Bernardino County Dept. of Aging and Adult Services",
+      "url": "https://www.fsaca.org/",
+      "schedulePattern": "Wed 10:30 AM–11:30 AM (Grab-and-go; seniors 60+; $1-$3 donation)",
+      "start": "2026-09-21T10:30",
+      "end": "2026-09-21T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    }
+  ]
+}

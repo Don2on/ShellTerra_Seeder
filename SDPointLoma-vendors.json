@@ -1,0 +1,404 @@
+{
+  "_comment": "Net-new SD food sites to ADD to FoodDistributionSD. Deduped vs ./SDFoodVendors.json, ./SDFoodAdditions-vendors.json, ./SDFoodAdditions2-vendors.json, ./sd-pointloma-exclude.json by street#+ZIP.",
+  "_shell": "FoodDistributionSD",
+  "_shellId": "6a84dbe4ec8215c0345e",
+  "_collection": "vendors",
+  "vendors": [
+    {
+      "slug": "sd-add-sacred-heart-church-of-ocean-beach",
+      "name": "Sacred Heart Church of Ocean Beach",
+      "category": "Food Assistance",
+      "tagline": "Mon–Fri 8:30 AM–4 PM (nonperishable pantry at parish office); 2nd Tue & 4th Tue from 6 PM (community dinner)",
+      "description": "Free food at Sacred Heart Church of Ocean Beach (Sacred Heart Catholic Church). Schedule: Mon–Fri 8:30 AM–4 PM (nonperishable pantry at parish office); 2nd Tue & 4th Tue from 6 PM (community dinner). Eligibility: Open to all. Call (619) 224-2746 to confirm before you go — hours change and supplies can run out. Source: community research, Sep 2026.",
+      "logoUrl": "",
+      "website": "https://sacredheartob.org/community-dinner/",
+      "phone": "(619) 224-2746",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "4776 Saratoga Ave, San Diego, CA 92107",
+      "lat": 32.74653,
+      "lng": -117.24582,
+      "neighborhood": "San Diego",
+      "hours": "Mon–Fri 8:30 AM–4 PM (nonperishable pantry at parish office); 2nd Tue & 4th Tue from 6 PM (community dinner)",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-09-29",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-09-30",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-10-01",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-10-02",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-10-05",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-10-06",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-10-07",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-10-08",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-10-09",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-10-12",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-10-13",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-10-13",
+          "time": "18:00",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-10-14",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-10-15",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-10-16",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-10-19",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-10-20",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-10-21",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-10-22",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-10-23",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-10-26",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "18:00",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-10-29",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-10-30",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-11-02",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-11-03",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-11-04",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-11-05",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-11-09",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-11-10",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-11-10",
+          "time": "18:00",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-11-12",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-11-19",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-11-20",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-11-23",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-11-24",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-11-24",
+          "time": "18:00",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-11-25",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-11-26",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-11-27",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-11-30",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-12-02",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-12-03",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-12-04",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-12-07",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-12-08",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-12-08",
+          "time": "18:00",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-12-09",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-12-10",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-12-11",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-12-14",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-12-15",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-12-16",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-12-17",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-12-18",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-12-21",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-12-22",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-12-22",
+          "time": "18:00",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-12-23",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-12-24",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-12-25",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-12-28",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-12-29",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-12-30",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        },
+        {
+          "date": "2026-12-31",
+          "time": "08:30",
+          "title": "Sacred Heart Church of Ocean Beach — Free Food"
+        }
+      ],
+      "_eventCount": 74,
+      "_category": "independent",
+      "_confidence": "medium"
+    }
+  ]
+}

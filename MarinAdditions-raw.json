@@ -1,0 +1,492 @@
+{
+  "_meta": {
+    "topic": "Marin County food distributions",
+    "generated": "2026-10-11",
+    "source": "Hand-collected list (FBNN/Susanville, Central California Food Bank, SF-Marin/Canal Alliance, Merced County Food Bank). Schedules parsed via LA clause parser. lat/lng geocoded downstream.",
+    "note": "Drop-in raw for prepare-food-additions.mjs. Single start-times / \"by appointment\" / \"daily\" route to _deferred."
+  },
+  "sites": [
+    {
+      "name": "Holy Innocents Episcopal Church",
+      "org": "Holy Innocents Episcopal Church",
+      "address": "2 Tamalpais Dr, Corte Madera, CA 94925",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 3:45-5:45pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "15:45",
+          "close": "17:45"
+        }
+      ]
+    },
+    {
+      "name": "Fairfax Food Pantry (Fairfax Community Church)",
+      "org": "Fairfax Food Pantry (Fairfax Community Church)",
+      "address": "2398 Sir Francis Drake Blvd, Fairfax, CA 94930",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "closes early if supplies run out",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "08:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Bayside MLK Academy",
+      "org": "Bayside MLK Academy",
+      "address": "200 Phillips Dr, Marin City, CA 94965",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 10:30am-12:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "10:30",
+          "close": "12:30"
+        }
+      ]
+    },
+    {
+      "name": "Southern Marin Food Pantry (St. Andrew Presbyterian Church)",
+      "org": "Southern Marin Food Pantry (St. Andrew Presbyterian Church)",
+      "address": "101 Donahue St, Marin City, CA 94965",
+      "phone": "(415) 332-1011",
+      "eligibility": "Southern Marin residents",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 12-1:30pm (Southern Marin residents)",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "12:00",
+          "close": "13:30"
+        }
+      ]
+    },
+    {
+      "name": "Tamalpais High School",
+      "org": "Tamalpais High School",
+      "address": "700 Miller Ave, Mill Valley, CA 94941",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 11am-2pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "11:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "North Marin Community Services (weekly community market)",
+      "org": "North Marin Community Services (weekly community market)",
+      "address": "1907 Novato Blvd, Novato, CA 94947",
+      "phone": "(415) 892-1643",
+      "eligibility": "Novato residents",
+      "website": "https://www.northmarincs.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 2-6pm; Fri 10am-2pm (Novato residents)",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "14:00",
+          "close": "18:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Novato Health Hub (Marin Community Clinics)",
+      "org": "Novato Health Hub (Marin Community Clinics)",
+      "address": "6100 Redwood Blvd, Suite A, Novato, CA 94945",
+      "phone": "(415) 448-1500",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "drive-thru",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "13:30",
+          "close": "15:30"
+        }
+      ]
+    },
+    {
+      "name": "West Marin Community Services Food Pantry",
+      "org": "West Marin Community Services Food Pantry",
+      "address": "11431 State Route 1, Suite 10, Point Reyes Station, CA 94956",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.westmarincommunityservices.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Tue, Wed, Fri 9am-12pm & 1-4pm; Thu 12-5pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Fri"
+          ],
+          "open": "13:00",
+          "close": "16:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "12:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "San Geronimo Community Presbyterian Church - Honor Food Pantry",
+      "org": "San Geronimo Community Presbyterian Church - Honor Food Pantry",
+      "address": "6001 Sir Francis Drake Blvd, San Geronimo, CA 94963",
+      "phone": "",
+      "eligibility": "seniors 70+; all West Marin residents",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 11am (seniors 70+), 12pm (all West Marin residents), drive-through",
+      "schedules": []
+    },
+    {
+      "name": "San Geronimo Valley Community Center Food Pantry",
+      "org": "San Geronimo Valley Community Center Food Pantry",
+      "address": "6350 Sir Francis Drake Blvd, San Geronimo, CA 94963",
+      "phone": "(415) 488-8888",
+      "eligibility": "",
+      "website": "https://sgvcc.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 9am-5pm; Thu 11am-2pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "11:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Alcohol Justice & Multicultural Center of Marin",
+      "org": "Alcohol Justice & Multicultural Center of Marin",
+      "address": "24 Belvedere St, San Rafael, CA 94901",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 8:30-10:40am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "08:30",
+          "close": "10:40"
+        }
+      ]
+    },
+    {
+      "name": "Anthem Church",
+      "org": "Anthem Church",
+      "address": "50 Los Ranchitos Rd, San Rafael, CA 94903",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 7:45-8:45am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "07:45",
+          "close": "08:45"
+        }
+      ]
+    },
+    {
+      "name": "Bahia Vista Elementary",
+      "org": "Bahia Vista Elementary",
+      "address": "125 Bahia Way, San Rafael, CA 94901",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed & Fri 10am",
+      "schedules": []
+    },
+    {
+      "name": "Canal Alliance Food Pantry",
+      "org": "Canal Alliance Food Pantry",
+      "address": "91 Larkspur St, San Rafael, CA 94901",
+      "phone": "(415) 454-2640",
+      "eligibility": "",
+      "website": "https://www.canalalliance.org/services/food-pantry",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "while supplies last",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "08:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Kerner drive-through pantry (SF-Marin Food Bank)",
+      "org": "Kerner drive-through pantry (SF-Marin Food Bank)",
+      "address": "2550 Kerner Blvd, San Rafael, CA 94901",
+      "phone": "(415) 824-3663",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 10am-2pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "10:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Marin Child Care Council",
+      "org": "Marin Child Care Council",
+      "address": "555 Northgate Dr, Suite 105, San Rafael, CA 94903",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 10am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "10:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Marin Community Clinics Health Hub",
+      "org": "Marin Community Clinics Health Hub",
+      "address": "3110 Kerner Blvd, San Rafael, CA 94901",
+      "phone": "(415) 755-2556",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "drive-thru",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "13:30",
+          "close": "15:30"
+        }
+      ]
+    },
+    {
+      "name": "Ritter Center Food Pantry",
+      "org": "Ritter Center Food Pantry",
+      "address": "16 Ritter St, San Rafael, CA 94901",
+      "phone": "(415) 457-8182",
+      "eligibility": "",
+      "website": "https://rittercenter.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "closed Thu",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue"
+          ],
+          "open": "13:00",
+          "close": "15:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "09:00",
+          "close": "15:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Salvation Army - San Rafael",
+      "org": "Salvation Army - San Rafael",
+      "address": "351 Mission Ave, San Rafael, CA 94901",
+      "phone": "(415) 459-4520",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "emergency pantry",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Vincent de Paul Dining Room (free meals)",
+      "org": "St. Vincent de Paul Dining Room (free meals)",
+      "address": "820 B St, San Rafael, CA 94901",
+      "phone": "(415) 454-3303",
+      "eligibility": "",
+      "website": "https://vinnies.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Daily 6am-1pm; breakfast 6:30-8am, lunch 11am-1pm",
+      "schedules": []
+    },
+    {
+      "name": "Vivalon Brown Bag Pantry",
+      "org": "Vivalon Brown Bag Pantry",
+      "address": "930 Tamalpais Ave, San Rafael, CA 94901",
+      "phone": "(415) 456-9062",
+      "eligibility": "age 60+ or adults with disabilities",
+      "website": "https://vivalon.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 11am-12pm (age 60+ or adults with disabilities)",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ]
+    }
+  ]
+}

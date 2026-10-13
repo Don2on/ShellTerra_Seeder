@@ -1,0 +1,125 @@
+{
+  "_meta": {
+    "topic": "Net-new San Diego County food distributions",
+    "generated": "2026-09-28",
+    "source": "Research supplementing shell 6a84dbe4ec8215c0345e; raw ./additions-sd-raw.json."
+  },
+  "_deferred": {
+    "add-karen-organization-of-san-diego-food-distributio": {
+      "title": "Karen Organization of San Diego Food Distribution (Global Marketplace)",
+      "status": "Active. Distributions at Global Marketplace (5591 University Ave) are held on announced specific dates (e.g. 10 a.m.-1 p.m.) rather than a fixed weekly recurrence; no registration required, bring your own bags. Check karensandiego.org/news-events for current dates. Main office is at 5354 University Ave. Contact Hsihsa Thaw, hsihsa@karensandiego.org. Phone: 619-582-0783.",
+      "address": "5591 University Ave, San Diego, CA 92105",
+      "lat": 32.747536,
+      "lng": -117.075631,
+      "phone": "619-582-0783",
+      "eligibility": "Everyone welcome, no registration required; first come first served, bring your own bag. Serves refugee and wider City Heights community.",
+      "sourceUrl": "https://karensandiego.org"
+    },
+    "add-eje-academies-food-distribution": {
+      "title": "EJE Academies Food Distribution",
+      "status": "1st & 3rd Tuesday, 11:00 am until supplies last",
+      "address": "851 S Johnson Ave, El Cajon, CA 92020",
+      "lat": 32.785016,
+      "lng": -116.970546,
+      "phone": "",
+      "eligibility": "Open to families/community; first come, first served.",
+      "sourceUrl": "https://www.ejeacademies.org"
+    },
+    "add-la-mesa-first-united-methodist-church-food-pantr": {
+      "title": "La Mesa First United Methodist Church Food Pantry",
+      "status": "last Sat Phone: 619-466-4163.",
+      "address": "4690 Palm Ave, La Mesa, CA 91941",
+      "lat": 32.763712,
+      "lng": -117.018619,
+      "phone": "619-466-4163",
+      "eligibility": "Open to community; monthly distribution.",
+      "sourceUrl": "https://www.lamesaumc.com"
+    }
+  },
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "add-mision-vida-nueva-food-distribution-w6-1100",
+      "seriesSlug": "add-mision-vida-nueva-food-distribution",
+      "title": "Mision Vida Nueva Food Distribution — Free Food",
+      "description": "Free food at Mision Vida Nueva Food Distribution (Mision Vida Nueva). Schedule: Sat 11 AM–12 PM (Every Saturday except 5th Saturday; until food runs out). Eligibility: Open to anyone in need; no ID or income proof required. Priority/separate line for individuals with a disability.. Call 760-500-9327 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Mision Vida Nueva Food Distribution",
+      "address": "980 N Ash St, Escondido, CA 92027",
+      "lat": 33.139923,
+      "lng": -117.073702,
+      "category": "food-assistance",
+      "sourceOrg": "Mision Vida Nueva",
+      "url": "https://www.misionvidanueva.org",
+      "schedulePattern": "Sat 11 AM–12 PM (Every Saturday except 5th Saturday; until food runs out)",
+      "start": "2026-09-21T11:00",
+      "end": "2026-09-21T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-ruth-anointed-world-ministries-escondido-felicit-w5-1200",
+      "seriesSlug": "add-ruth-anointed-world-ministries-escondido-felicit",
+      "title": "Ruth Anointed World Ministries (Escondido - Felicita) — Free Food",
+      "description": "Free food at Ruth Anointed World Ministries (Escondido - Felicita) (R.A.W. Ruth Anointed World Ministries). Schedule: Fri 12 PM–1 PM; Sat 10 AM–11 AM. Eligibility: Anyone in need; sign in and wait until number is called.. Call 760-580-0835 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Ruth Anointed World Ministries (Escondido - Felicita)",
+      "address": "777 W Felicita Ave, Escondido, CA 92025",
+      "lat": 33.100753,
+      "lng": -117.079466,
+      "category": "food-assistance",
+      "sourceOrg": "R.A.W. Ruth Anointed World Ministries",
+      "url": "",
+      "schedulePattern": "Fri 12 PM–1 PM; Sat 10 AM–11 AM",
+      "start": "2026-09-21T12:00",
+      "end": "2026-09-21T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-ruth-anointed-world-ministries-escondido-felicit-w6-1000",
+      "seriesSlug": "add-ruth-anointed-world-ministries-escondido-felicit",
+      "title": "Ruth Anointed World Ministries (Escondido - Felicita) — Free Food",
+      "description": "Free food at Ruth Anointed World Ministries (Escondido - Felicita) (R.A.W. Ruth Anointed World Ministries). Schedule: Fri 12 PM–1 PM; Sat 10 AM–11 AM. Eligibility: Anyone in need; sign in and wait until number is called.. Call 760-580-0835 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Ruth Anointed World Ministries (Escondido - Felicita)",
+      "address": "777 W Felicita Ave, Escondido, CA 92025",
+      "lat": 33.100753,
+      "lng": -117.079466,
+      "category": "food-assistance",
+      "sourceOrg": "R.A.W. Ruth Anointed World Ministries",
+      "url": "",
+      "schedulePattern": "Fri 12 PM–1 PM; Sat 10 AM–11 AM",
+      "start": "2026-09-21T10:00",
+      "end": "2026-09-21T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-holy-trinity-parish-food-bank-w13-1000",
+      "seriesSlug": "add-holy-trinity-parish-food-bank",
+      "title": "Holy Trinity Parish Food Bank — Free Food",
+      "description": "Free food at Holy Trinity Parish Food Bank (Holy Trinity Catholic Church). Schedule: Mon, Wed 10 AM–12 PM. Eligibility: Open to community neighbors; must show current photo ID with an El Cajon address. One bag of staples per family per week. Distributed from main entrance of Parish Hall.. Call 619-444-9425 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Holy Trinity Parish Food Bank",
+      "address": "405 Ballard St, El Cajon, CA 92019",
+      "lat": 32.79026,
+      "lng": -116.94057,
+      "category": "food-assistance",
+      "sourceOrg": "Holy Trinity Catholic Church",
+      "url": "https://www.holytrinityelcajon.org",
+      "schedulePattern": "Mon, Wed 10 AM–12 PM",
+      "start": "2026-09-21T10:00",
+      "end": "2026-09-21T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3"
+    }
+  ]
+}

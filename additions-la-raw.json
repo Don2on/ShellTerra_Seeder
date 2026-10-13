@@ -1,0 +1,4374 @@
+{
+  "sites": [
+    {
+      "name": "CASS - Christian Association for Social Services Pantry",
+      "org": "Christian Association for Social Services (CASS)",
+      "address": "5814 Venice Blvd, Los Angeles, CA 90019",
+      "phone": "(310) 529-1921",
+      "website": "https://www.wsfb.org/our-services/need-food-help/",
+      "eligibility": "None",
+      "category": "pantry",
+      "confidence": "high",
+      "note": "Westside Food Bank partner agency; bi-weekly on 2nd and 4th Saturdays.",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "second saturday",
+            "fourth saturday"
+          ],
+          "open": "09:30",
+          "close": "12:30",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Cochran Ave Baptist Church Pantry",
+      "org": "Cochran Avenue Baptist Church",
+      "address": "1304 S. Cochran Ave, Los Angeles, CA 90019",
+      "phone": "(323) 938-0141",
+      "website": "https://www.wsfb.org/our-services/need-food-help/",
+      "eligibility": "None",
+      "category": "church",
+      "confidence": "high",
+      "note": "Westside Food Bank partner agency.",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "tue"
+          ],
+          "open": "11:00",
+          "close": "12:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Church on Pearl Pantry",
+      "org": "Church on Pearl",
+      "address": "1520 Pearl St, Santa Monica, CA 90405",
+      "phone": "(310) 310-1384",
+      "website": "https://www.wsfb.org/our-services/need-food-help/",
+      "eligibility": "None",
+      "category": "pantry",
+      "confidence": "high",
+      "note": "Westside Food Bank partner agency.",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "wed"
+          ],
+          "open": "14:30",
+          "close": "17:30",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Inglewood Community Table",
+      "org": "Inglewood Community Table",
+      "address": "420 E Ellis St, Inglewood, CA 90302",
+      "phone": "(310) 259-0763",
+      "website": "https://www.wsfb.org/our-services/need-food-help/",
+      "eligibility": "None",
+      "category": "pantry",
+      "confidence": "high",
+      "note": "Westside Food Bank partner agency.",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "tue"
+          ],
+          "open": "13:30",
+          "close": "15:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Mar Vista Family Center Pantry",
+      "org": "Mar Vista Family Center",
+      "address": "5075 S. Slauson Ave, Culver City, CA 90230",
+      "phone": "(310) 391-7366",
+      "website": "https://www.wsfb.org/our-services/need-food-help/",
+      "eligibility": "None",
+      "category": "pantry",
+      "confidence": "high",
+      "note": "Westside Food Bank partner agency.",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "wed"
+          ],
+          "open": "08:30",
+          "close": "09:30",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Mt. Olive Lutheran Church Pantry",
+      "org": "Mt. Olive Lutheran Church",
+      "address": "1343 Ocean Park Blvd, Santa Monica, CA 90405",
+      "phone": "(310) 452-1116",
+      "website": "https://www.wsfb.org/our-services/need-food-help/",
+      "eligibility": "None",
+      "category": "church",
+      "confidence": "high",
+      "note": "Westside Food Bank partner agency; website lists broad daily access hours (call ahead).",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+          ],
+          "open": "07:00",
+          "close": "23:00",
+          "note": "Call ahead to confirm"
+        }
+      ]
+    },
+    {
+      "name": "St. Augustine's S.A.V.E.S. Food Pantry",
+      "org": "St. Augustine Catholic Church",
+      "address": "3850 Jasmine Ave, Culver City, CA 90232",
+      "phone": "(310) 838-2702",
+      "website": "https://www.wsfb.org/our-services/need-food-help/",
+      "eligibility": "None",
+      "category": "church",
+      "confidence": "high",
+      "note": "Westside Food Bank partner agency.",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "wed",
+            "fri"
+          ],
+          "open": "09:00",
+          "close": "11:30",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "St. Robert's Center",
+      "org": "St. Robert Bellarmine Catholic Church",
+      "address": "211 3rd Ave, Venice, CA 90291",
+      "phone": "(310) 392-8701",
+      "website": "https://www.wsfb.org/our-services/need-food-help/",
+      "eligibility": "None",
+      "category": "church",
+      "confidence": "high",
+      "note": "Westside Food Bank partner agency.",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "sat"
+          ],
+          "open": "08:30",
+          "close": "11:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Step Up on Second",
+      "org": "Step Up",
+      "address": "1328 2nd St, Santa Monica, CA 90401",
+      "phone": "(310) 576-1308",
+      "website": "https://www.wsfb.org/our-services/need-food-help/",
+      "eligibility": "None",
+      "category": "pantry",
+      "confidence": "high",
+      "note": "Westside Food Bank partner agency.",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "tue",
+            "wed",
+            "thu"
+          ],
+          "open": "12:00",
+          "close": "14:00",
+          "note": ""
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "fri"
+          ],
+          "open": "11:00",
+          "close": "14:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "YMCA - Collins & Katz Family Pantry",
+      "org": "Collins & Katz Family YMCA",
+      "address": "1466 S. Westgate Ave, Los Angeles, CA 90025",
+      "phone": "(310) 477-1511",
+      "website": "https://www.wsfb.org/our-services/need-food-help/",
+      "eligibility": "None",
+      "category": "pantry",
+      "confidence": "high",
+      "note": "Westside Food Bank partner agency (West LA).",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "thu"
+          ],
+          "open": "09:00",
+          "close": "11:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "YMCA - Culver-Palms Pantry",
+      "org": "Culver-Palms Family YMCA",
+      "address": "4500 Sepulveda Blvd, Culver City, CA 90230",
+      "phone": "(310) 390-3601",
+      "website": "https://www.wsfb.org/our-services/need-food-help/",
+      "eligibility": "None",
+      "category": "pantry",
+      "confidence": "high",
+      "note": "Westside Food Bank partner agency.",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "thu"
+          ],
+          "open": "11:00",
+          "close": "14:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Westside Food Bank Mobile Pantry - Venice Family Clinic",
+      "org": "Westside Food Bank",
+      "address": "4700 Inglewood Blvd, Ste 102, Culver City, CA 90230",
+      "phone": "(310) 828-6016",
+      "website": "https://www.wsfb.org/our-services/need-food-help/",
+      "eligibility": "None",
+      "category": "mobile",
+      "confidence": "high",
+      "note": "WSFB mobile distribution outside Venice Family Clinic (MDS 1).",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "tue"
+          ],
+          "open": "09:00",
+          "close": "10:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Westside Food Bank Mobile Pantry - Virginia Ave Park",
+      "org": "Westside Food Bank",
+      "address": "2200 Virginia Ave, Santa Monica, CA 90404",
+      "phone": "(310) 828-6016",
+      "website": "https://www.wsfb.org/our-services/need-food-help/",
+      "eligibility": "None",
+      "category": "mobile",
+      "confidence": "high",
+      "note": "WSFB mobile distribution.",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "thu"
+          ],
+          "open": "11:00",
+          "close": "12:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Westside Food Bank Mobile Pantry - Farragut Ave Elementary",
+      "org": "Westside Food Bank",
+      "address": "10820 Farragut Dr, Culver City, CA 90230",
+      "phone": "(310) 828-6016",
+      "website": "https://www.wsfb.org/our-services/need-food-help/",
+      "eligibility": "None",
+      "category": "mobile",
+      "confidence": "high",
+      "note": "WSFB mobile distribution in school parking lot.",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "thu"
+          ],
+          "open": "15:00",
+          "close": "16:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Westside Food Bank Mobile Pantry - West LA Civic Center",
+      "org": "Westside Food Bank",
+      "address": "1645 Corinth Ave, Los Angeles, CA 90025",
+      "phone": "(310) 828-6016",
+      "website": "https://www.wsfb.org/our-services/need-food-help/",
+      "eligibility": "None",
+      "category": "mobile",
+      "confidence": "high",
+      "note": "WSFB mobile distribution at Iowa & Corinth parking lot.",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "fri"
+          ],
+          "open": "15:30",
+          "close": "16:30",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Harbor Interfaith Services - FISH Food Pantry",
+      "org": "Harbor Interfaith Services",
+      "address": "670 W. 9th St, San Pedro, CA 90731",
+      "phone": "(310) 831-9123",
+      "website": "https://www.harborinterfaith.org/",
+      "eligibility": "None",
+      "category": "pantry",
+      "confidence": "high",
+      "note": "Family Resource Center provides a 3-day food supply; office hours Mon-Fri 8:30a-5:30p, call for pantry pickup.",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open": "08:30",
+          "close": "17:30",
+          "note": "Call ahead"
+        }
+      ]
+    },
+    {
+      "name": "Beacon Light Mission",
+      "org": "Beacon Light Mission",
+      "address": "525 N. Broad Ave, Wilmington, CA 90744",
+      "phone": "(310) 830-7063",
+      "website": "",
+      "eligibility": "None",
+      "category": "hot-meal",
+      "confidence": "high",
+      "note": "Emergency food and meals; open Mon-Fri 9a-7p, Sat-Sun 4p-7p.",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open": "09:00",
+          "close": "19:00",
+          "note": ""
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "sat",
+            "sun"
+          ],
+          "open": "16:00",
+          "close": "19:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Toberman Neighborhood Center Food Pantry",
+      "org": "Toberman Neighborhood Center",
+      "address": "131 N Grand Ave, San Pedro, CA 90731",
+      "phone": "(310) 832-1145",
+      "website": "https://www.toberman.org/food-pantry",
+      "eligibility": "None",
+      "category": "pantry",
+      "confidence": "high",
+      "note": "Weekly grocery distribution Mon/Tue/Thu/Fri mornings; also daily grab-and-go meals 3:30-5:00p weekdays.",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "thu",
+            "fri"
+          ],
+          "open": "08:00",
+          "close": "11:30",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "St. Margaret's Center Food Pantry",
+      "org": "Catholic Charities of Los Angeles",
+      "address": "10217 S. Inglewood Ave, Lennox, CA 90304",
+      "phone": "(310) 672-2208",
+      "website": "",
+      "eligibility": "Income-qualified households",
+      "category": "pantry",
+      "confidence": "high",
+      "note": "NOTE: existing list has St. Margaret's Center at Inglewood 90304 (same org). Pantry by appointment Tue-Fri 1-4pm. Verify not a duplicate before seeding.",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open": "13:00",
+          "close": "16:00",
+          "note": "By appointment"
+        }
+      ]
+    },
+    {
+      "name": "Harbor City Food Pantry",
+      "org": "Harbor City Food Pantry",
+      "address": "1034 252nd St, Harbor City, CA 90710",
+      "phone": "",
+      "website": "https://www.facebook.com/harborcityfoodpantry/",
+      "eligibility": "None",
+      "category": "pantry",
+      "confidence": "high",
+      "note": "Family-run nonprofit, first come first served.",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "sat"
+          ],
+          "open": "11:00",
+          "close": "13:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Wayside United Methodist Church Food Pantry",
+      "org": "Wayside United Methodist Church",
+      "address": "25904 Cayuga Ave, Lomita, CA 90717",
+      "phone": "(310) 326-4541",
+      "website": "",
+      "eligibility": "None",
+      "category": "church",
+      "confidence": "medium",
+      "note": "Emergency food for Harbor City, Lomita, San Pedro, Torrance, Wilmington residents. Exact pantry hours unconfirmed - call ahead.",
+      "schedules": []
+    },
+    {
+      "name": "St. Margaret Mary Alacoque Food Pantry",
+      "org": "St. Margaret Mary Alacoque Catholic Church",
+      "address": "25511 Eshelman Ave, Lomita, CA 90717",
+      "phone": "(310) 326-3364",
+      "website": "https://smmlomita.org/",
+      "eligibility": "None",
+      "category": "church",
+      "confidence": "medium",
+      "note": "Food pantry open during parish office hours Mon-Fri 8a-5p per findhelp; recommend calling to confirm distribution window.",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open": "08:00",
+          "close": "17:00",
+          "note": "Call ahead"
+        }
+      ]
+    },
+    {
+      "name": "Mary Star of the Sea - St. Vincent de Paul Food Pantry",
+      "org": "Mary Star of the Sea Catholic Church",
+      "address": "853 W. 7th St, San Pedro, CA 90731",
+      "phone": "(424) 536-0296",
+      "website": "https://marystar.org/outreach-ministries",
+      "eligibility": "None",
+      "category": "church",
+      "confidence": "medium",
+      "note": "St. Vincent de Paul conference food assistance; schedule not clearly confirmed online - call ahead.",
+      "schedules": []
+    },
+    {
+      "name": "House of Yahweh South Bay Outreach Center",
+      "org": "House of Yahweh",
+      "address": "4046 Marine Ave, Lawndale, CA 90260",
+      "phone": "(310) 675-6412",
+      "website": "https://www.hoy-southbay.org/",
+      "eligibility": "None",
+      "category": "pantry",
+      "confidence": "high",
+      "note": "Walk-in emergency food serving South Bay; weekly distributions. Also lunch Mon-Fri 10a-2p.",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open": "09:00",
+          "close": "16:00",
+          "note": ""
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "sat"
+          ],
+          "open": "13:45",
+          "close": "14:45",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Love the City Center Food Pantry",
+      "org": "Love the City Center",
+      "address": "3979 Tilden Ave, Culver City, CA 90232",
+      "phone": "",
+      "website": "https://www.lovethecitycenter.org/",
+      "eligibility": "None",
+      "category": "pantry",
+      "confidence": "high",
+      "note": "Weekly free food giveaway for low-income community.",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "fri"
+          ],
+          "open": "11:00",
+          "close": "13:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "The Peace Project - Culver City Shares",
+      "org": "The Peace Project (The Whole 9)",
+      "address": "3830 Main St, Culver City, CA 90232",
+      "phone": "(310) 836-4600",
+      "website": "https://www.thepeaceproject.com/culver-city-shares",
+      "eligibility": "None",
+      "category": "pantry",
+      "confidence": "medium",
+      "note": "Weekly food distribution; start time ~10am Wednesdays, end time unconfirmed.",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "wed"
+          ],
+          "open": "10:00",
+          "close": "12:00",
+          "note": "Start confirmed 10a; end approximate"
+        }
+      ]
+    },
+    {
+      "name": "City of Inglewood Senior Food Distribution",
+      "org": "City of Inglewood",
+      "address": "400 W Beach Ave, Inglewood, CA 90302",
+      "phone": "(310) 412-5111",
+      "website": "https://www.cityofinglewood.org/795/Food-Distribution-Program",
+      "eligibility": "Seniors 60+",
+      "category": "senior",
+      "confidence": "high",
+      "note": "At Rogers Park; monthly on 4th Tuesday, bring CA ID and proof of income.",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "fourth tuesday"
+          ],
+          "open": "13:00",
+          "close": "16:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "C.A.S.E. Pantry El Segundo",
+      "org": "Christian Assistance Serving El Segundo (C.A.S.E.)",
+      "address": "305 Richmond St, El Segundo, CA 90245",
+      "phone": "",
+      "website": "https://casepantryelsegundo.org/",
+      "eligibility": "El Segundo residents (6+ months), screened and accepted",
+      "category": "pantry",
+      "confidence": "medium",
+      "note": "Pantry location disclosed only to accepted clients; 305 Richmond St is the donation drop-off / contact address. Open twice monthly; days/hours given after screening.",
+      "schedules": []
+    },
+    {
+      "name": "Rock of the Valley Food Pantry",
+      "org": "Rescue Mission Alliance Valley Food Bank",
+      "address": "7722 Kester Ave, Van Nuys, CA, 91405",
+      "phone": "(818) 510-4140",
+      "website": "https://valleyfoodbank.org/food-pantry-locations/",
+      "eligibility": "Open to anyone in need; no ID required",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "tue"
+          ],
+          "open": "16:00",
+          "close": "17:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Panorama Baptist Church Food Pantry",
+      "org": "Rescue Mission Alliance Valley Food Bank",
+      "address": "8767 Woodman Ave, Arleta, CA, 91331",
+      "phone": "(818) 510-4140",
+      "website": "https://valleyfoodbank.org/food-pantry-locations/",
+      "eligibility": "Open to anyone in need",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "wed"
+          ],
+          "open": "11:00",
+          "close": "13:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "First United Methodist Church of Reseda Food Pantry",
+      "org": "Rescue Mission Alliance Valley Food Bank",
+      "address": "18120 Saticoy St, Reseda, CA, 91335",
+      "phone": "(818) 510-4140",
+      "website": "https://valleyfoodbank.org/food-pantry-locations/",
+      "eligibility": "Open to anyone in need",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "wed"
+          ],
+          "open": "13:00",
+          "close": "15:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Valley Park Church Food Pantry",
+      "org": "Rescue Mission Alliance Valley Food Bank",
+      "address": "16514 Nordhoff St, North Hills, CA, 91343",
+      "phone": "(818) 510-4140",
+      "website": "https://valleyfoodbank.org/food-pantry-locations/",
+      "eligibility": "Open to anyone in need",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "wed"
+          ],
+          "open": "15:00",
+          "close": "16:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "La Voz Sylmar SDA Church Food Pantry",
+      "org": "Rescue Mission Alliance Valley Food Bank",
+      "address": "13550 Herron St, Sylmar, CA, 91342",
+      "phone": "(818) 510-4140",
+      "website": "https://valleyfoodbank.org/food-pantry-locations/",
+      "eligibility": "Open to anyone in need",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "thu"
+          ],
+          "open": "17:00",
+          "close": "18:30",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Lighthouse of San Fernando Food Pantry",
+      "org": "Rescue Mission Alliance Valley Food Bank",
+      "address": "622 N Maclay Ave, San Fernando, CA, 91340",
+      "phone": "(818) 510-4140",
+      "website": "https://valleyfoodbank.org/food-pantry-locations/",
+      "eligibility": "Open to anyone in need",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "fri"
+          ],
+          "open": "15:00",
+          "close": "16:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Church of Christ Reseda Food Pantry",
+      "org": "Rescue Mission Alliance Valley Food Bank",
+      "address": "7806 Reseda Blvd, Reseda, CA, 91335",
+      "phone": "(818) 510-4140",
+      "website": "https://valleyfoodbank.org/food-pantry-locations/",
+      "eligibility": "Open to anyone in need",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "first friday",
+            "second friday",
+            "third friday"
+          ],
+          "open": "14:30",
+          "close": "16:30",
+          "note": "1st-3rd Fridays only"
+        }
+      ]
+    },
+    {
+      "name": "Valley Korean United Methodist Church Food Pantry",
+      "org": "Rescue Mission Alliance Valley Food Bank",
+      "address": "10408 Balboa Blvd, Granada Hills, CA, 91344",
+      "phone": "(818) 510-4140",
+      "website": "https://valleyfoodbank.org/food-pantry-locations/",
+      "eligibility": "Open to anyone in need",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "first friday"
+          ],
+          "open": "14:00",
+          "close": "16:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Making It Happen Food Pantry",
+      "org": "Rescue Mission Alliance Valley Food Bank",
+      "address": "9666 Foothill Pl, Lake View Terrace, CA, 91342",
+      "phone": "(818) 510-4140",
+      "website": "https://valleyfoodbank.org/food-pantry-locations/",
+      "eligibility": "Open to anyone in need",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "sat"
+          ],
+          "open": "13:30",
+          "close": "14:30",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Lake View Terrace Hosting Church Food Pantry",
+      "org": "Rescue Mission Alliance Valley Food Bank",
+      "address": "11901 Foothill Blvd, Sylmar, CA, 91342",
+      "phone": "(818) 510-4140",
+      "website": "https://valleyfoodbank.org/food-pantry-locations/",
+      "eligibility": "Open to anyone in need",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "second saturday"
+          ],
+          "open": "10:30",
+          "close": "11:30",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "St Paul's First Lutheran Church Food Pantry",
+      "org": "Rescue Mission Alliance Valley Food Bank",
+      "address": "5244 Tujunga Ave, North Hollywood, CA, 91601",
+      "phone": "(818) 510-4140",
+      "website": "https://valleyfoodbank.org/food-pantry-locations/",
+      "eligibility": "Open to anyone in need",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "fourth saturday"
+          ],
+          "open": "10:00",
+          "close": "12:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "The House - A Church Family Food Pantry",
+      "org": "Rescue Mission Alliance Valley Food Bank",
+      "address": "19345 Londelius St, Northridge, CA, 91324",
+      "phone": "(818) 510-4140",
+      "website": "https://valleyfoodbank.org/food-pantry-locations/",
+      "eligibility": "Open to anyone in need",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "last saturday"
+          ],
+          "open": "10:00",
+          "close": "11:30",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Valley Food Bank (Main Distribution)",
+      "org": "Rescue Mission Alliance Valley Food Bank",
+      "address": "12701 Van Nuys Blvd, Suite A, Pacoima, CA, 91331",
+      "phone": "(818) 510-4140",
+      "website": "https://valleyfoodbank.org/",
+      "eligibility": "Open to anyone in need; also distributes to partner pantries",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open": "07:00",
+          "close": "15:30",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Valley Beth Shalom Food Bank",
+      "org": "Valley Beth Shalom",
+      "address": "15739 Ventura Blvd, Encino, CA, 91436",
+      "phone": "(818) 788-6000",
+      "website": "https://www.vbs.org/",
+      "eligibility": "Serves anyone in the San Fernando Valley incl. undocumented, homeless, benefit recipients; walk-in, no ID/referral; up to twice per month",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "thu"
+          ],
+          "open": "10:00",
+          "close": "14:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "ONEgeneration Senior Food Pantry (Van Nuys)",
+      "org": "ONEgeneration",
+      "address": "17400 Victory Blvd, Van Nuys, CA, 91406",
+      "phone": "(818) 705-2345",
+      "website": "https://www.onegeneration.org/",
+      "eligibility": "Older adults (seniors)",
+      "category": "senior",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open": "12:00",
+          "close": "12:30",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Loaves & Fishes II",
+      "org": "Catholic Charities of Los Angeles",
+      "address": "7309 Van Nuys Blvd, Van Nuys, CA, 91405",
+      "phone": "(818) 997-0943",
+      "website": "https://catholiccharitiesla.org/san-fernando-region/",
+      "eligibility": "Emergency food for anyone in need",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "wed",
+            "fri"
+          ],
+          "open": "10:00",
+          "close": "13:30",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "CSUN Food Pantry (Laurel Hall)",
+      "org": "California State University, Northridge",
+      "address": "18111 Nordhoff St, Laurel Hall, Northridge, CA, 91330",
+      "phone": "(818) 677-2730",
+      "website": "https://www.csun.edu/",
+      "eligibility": "CSUN students",
+      "category": "college-pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "wed"
+          ],
+          "open": "15:00",
+          "close": "19:00",
+          "note": ""
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "thu"
+          ],
+          "open": "11:00",
+          "close": "15:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Hope of the Valley - Sun Valley Hot Meals",
+      "org": "Hope of the Valley Rescue Mission",
+      "address": "8165 San Fernando Rd, Sun Valley, CA, 91352",
+      "phone": "(818) 392-0020",
+      "website": "https://hopethemission.org/",
+      "eligibility": "Anyone in need; homeless and food-insecure individuals",
+      "category": "hot-meal",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open": "12:15",
+          "close": "13:00",
+          "note": "Hot lunch"
+        }
+      ]
+    },
+    {
+      "name": "Salvation Army - Sepulveda Blvd (Van Nuys)",
+      "org": "The Salvation Army",
+      "address": "6300 Sepulveda Blvd, Van Nuys, CA, 91411",
+      "phone": "(818) 337-3588",
+      "website": "https://www.salvationarmyusa.org/",
+      "eligibility": "Emergency food assistance; call to confirm operating status",
+      "category": "pantry",
+      "confidence": "medium",
+      "schedules": []
+    },
+    {
+      "name": "ACTION Food Pantry (Grace Lutheran Church)",
+      "org": "A.C.T.I.O.N. / Grace Lutheran Church",
+      "address": "17880 E. Covina Blvd, Covina, CA, 91722",
+      "phone": "(626) 319-0554",
+      "website": "https://www.actionfoodpantry.com/",
+      "eligibility": "Open to the public; new clients may sign up Thursdays beginning at 11am",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "thu"
+          ],
+          "open": "12:00",
+          "close": "15:00",
+          "note": "New-client signup from 11:00"
+        }
+      ]
+    },
+    {
+      "name": "Foothill Community Church - Saturday Community Meal",
+      "org": "Foothill Community (Free Methodist) Church",
+      "address": "777 E. Alosta Ave, Azusa, CA, 91702",
+      "phone": "(626) 969-7916",
+      "website": "https://foothill.org/",
+      "eligibility": "Open to anyone; hot meal and fellowship",
+      "category": "hot-meal",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "sat"
+          ],
+          "open": "11:00",
+          "close": "13:00",
+          "note": "Community meal (clothing 11:00-12:30)"
+        }
+      ]
+    },
+    {
+      "name": "Union Station Homeless Services - Adult Center",
+      "org": "Union Station Homeless Services",
+      "address": "412 S. Raymond Ave, Pasadena, CA, 91105",
+      "phone": "(626) 240-4550",
+      "website": "https://unionstationhs.org/",
+      "eligibility": "Homeless and low-income adults; sack lunches available daily",
+      "category": "hot-meal",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "sun",
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat"
+          ],
+          "open": "08:00",
+          "close": "14:30",
+          "note": "Sack lunches daily"
+        }
+      ]
+    },
+    {
+      "name": "First United Methodist Church of Pasadena Food Pantry",
+      "org": "First United Methodist Church of Pasadena",
+      "address": "500 E. Colorado Blvd, Pasadena, CA, 91101",
+      "phone": "(626) 796-0157",
+      "website": "https://www.fumcpasadena.org/",
+      "eligibility": "Open to the public",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "tue"
+          ],
+          "open": "10:00",
+          "close": "12:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Hill Avenue Grace Lutheran Church Food Pantry",
+      "org": "Hill Avenue Grace Lutheran Church",
+      "address": "73 N. Hill Ave, Pasadena, CA, 91106",
+      "phone": "(626) 792-4169",
+      "website": "https://www.hillavenuegrace.org/",
+      "eligibility": "Open to the public",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "sat"
+          ],
+          "open": "09:30",
+          "close": "11:30",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Pasadena Senior Center Food Pantry",
+      "org": "Pasadena Senior Center",
+      "address": "85 E. Holly St, Pasadena, CA, 91103",
+      "phone": "(626) 685-6732",
+      "website": "https://www.pasadenaseniorcenter.org/",
+      "eligibility": "Seniors; low-income older adults",
+      "category": "senior",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open": "08:30",
+          "close": "16:30",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Juicy Little Society Senior Food Distribution",
+      "org": "Juicy Little Society (at Fair Oaks Burger)",
+      "address": "2560 N. Fair Oaks Ave, Altadena, CA, 91001",
+      "phone": "(626) 410-5869",
+      "website": "",
+      "eligibility": "Primarily seniors from Altadena and Pasadena",
+      "category": "senior",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "wed"
+          ],
+          "open": "12:00",
+          "close": "15:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Westminster Presbyterian Church - ACTS Food Pantry",
+      "org": "Altadena Congregations Together Serving (ACTS) / Westminster Presbyterian Church",
+      "address": "1757 N. Lake Ave, Pasadena, CA, 91104",
+      "phone": "(626) 794-7141",
+      "website": "https://www.wpcpas.org/",
+      "eligibility": "Open to the public; pantry at rear of church",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "sat"
+          ],
+          "open": "10:00",
+          "close": "12:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "All Saints Church Pasadena - Sack Lunch Program",
+      "org": "All Saints Episcopal Church",
+      "address": "132 N. Euclid Ave, Pasadena, CA, 91101",
+      "phone": "(626) 796-1172",
+      "website": "https://allsaints-pas.org/",
+      "eligibility": "Open to anyone in need",
+      "category": "hot-meal",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon"
+          ],
+          "open": "08:00",
+          "close": "11:00",
+          "note": "Sack lunch"
+        }
+      ]
+    },
+    {
+      "name": "Pasadena City College - Lancer Pantry",
+      "org": "Pasadena City College",
+      "address": "1570 E. Colorado Blvd (Room CC-211), Pasadena, CA, 91106",
+      "phone": "(626) 585-7264",
+      "website": "https://pasadena.edu/campus-life/lancer-pantry/index.php",
+      "eligibility": "Currently enrolled PCC students with valid student ID",
+      "category": "college-pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "tue",
+            "wed",
+            "thu"
+          ],
+          "open": "10:00",
+          "close": "16:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Mt. San Antonio College - Mountie Fresh Food Pantry",
+      "org": "Mt. San Antonio College Basic Needs",
+      "address": "1100 N. Grand Ave, Walnut, CA, 91789",
+      "phone": "",
+      "website": "https://www.mtsac.edu/basic-needs/mountiefreshfoodpantry.html",
+      "eligibility": "Currently enrolled Mt. SAC students",
+      "category": "college-pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue"
+          ],
+          "open": "08:00",
+          "close": "19:00",
+          "note": ""
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "wed",
+            "thu"
+          ],
+          "open": "08:00",
+          "close": "17:00",
+          "note": ""
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "fri"
+          ],
+          "open": "08:00",
+          "close": "16:30",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Mission San Gabriel Archangel - Food Pantry",
+      "org": "Mission San Gabriel Archangel (Catholic parish)",
+      "address": "254 Santa Anita St, San Gabriel, CA, 91776",
+      "phone": "(626) 457-3035",
+      "website": "https://sangabrielmissionchurch.org/food-pantry",
+      "eligibility": "Open to the public",
+      "category": "church",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "second sunday",
+            "fourth sunday"
+          ],
+          "open": "07:00",
+          "close": "10:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Salvation Army Pomona Corps Community Center",
+      "org": "The Salvation Army",
+      "address": "490 E. La Verne Ave, Pomona, CA, 91767",
+      "phone": "(909) 623-1579",
+      "website": "https://pomona.salvationarmy.org/",
+      "eligibility": "Emergency food for low-income residents; call ahead",
+      "category": "pantry",
+      "confidence": "medium",
+      "schedules": []
+    },
+    {
+      "name": "Salvation Army Glendale Corps - People's Choice Market",
+      "org": "The Salvation Army",
+      "address": "801 S. Central Ave, Glendale, CA, 91204",
+      "phone": "(818) 246-5586",
+      "website": "https://glendale-ca.salvationarmy.org/",
+      "eligibility": "Local Glendale/Burbank residents; choice-style food market",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu"
+          ],
+          "open": "12:00",
+          "close": "15:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Salvation Army Burbank Corps Food Pantry",
+      "org": "The Salvation Army",
+      "address": "300 E. Angeleno Ave, Burbank, CA, 91502",
+      "phone": "(818) 845-7214",
+      "website": "https://burbank.salvationarmy.org/",
+      "eligibility": "Local Glendale/Burbank residents; call ahead (status may vary)",
+      "category": "pantry",
+      "confidence": "medium",
+      "schedules": []
+    },
+    {
+      "name": "Alhambra Teachers Association Food Distribution",
+      "org": "Alhambra Teachers Association",
+      "address": "3030 W. Main St, Alhambra, CA, 91801",
+      "phone": "(626) 289-1933",
+      "website": "",
+      "eligibility": "Open to the public",
+      "category": "pantry",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "wed"
+          ],
+          "open": "09:00",
+          "close": "12:00",
+          "note": "Alternating Wednesdays - call to confirm"
+        }
+      ]
+    },
+    {
+      "name": "All Souls Catholic Church Food Distribution",
+      "org": "All Souls Catholic Church (Alhambra)",
+      "address": "29 S. Electric Ave, Alhambra, CA, 91801",
+      "phone": "(626) 281-0466",
+      "website": "",
+      "eligibility": "Open to the public",
+      "category": "church",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "third thursday"
+          ],
+          "open": "12:00",
+          "close": "14:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Antelope Valley Partners for Health - Jackman St Pantry",
+      "org": "Antelope Valley Partners for Health",
+      "address": "858 W. Jackman St, Lancaster, CA, 93534",
+      "phone": "661-942-4719",
+      "website": "https://www.avph.org/food-pantry-resources/",
+      "eligibility": "Open to the community; Gold Certified Pantry",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "second friday",
+            "fourth friday"
+          ],
+          "open": "08:00",
+          "close": "11:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Antelope Valley Wellness Community Food Pantry",
+      "org": "Antelope Valley Wellness Community",
+      "address": "335-B East Ave K-6, Lancaster, CA, 93535",
+      "phone": "",
+      "website": "https://www.avph.org/food-pantry-resources/",
+      "eligibility": "Open to the community",
+      "category": "pantry",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "third wednesday"
+          ],
+          "open": "09:30",
+          "close": "11:30",
+          "note": "Starts 9:30am"
+        }
+      ]
+    },
+    {
+      "name": "Cornerstone Church Food Pantry",
+      "org": "Cornerstone Church",
+      "address": "8533 E Ave T, Littlerock, CA, 93543",
+      "phone": "661-944-1880",
+      "website": "https://www.avph.org/food-pantry-resources/",
+      "eligibility": "Open to the community",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "wed"
+          ],
+          "open": "12:00",
+          "close": "14:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Desert Vineyard Church - The Free Market",
+      "org": "Desert Vineyard Church",
+      "address": "1011 East Ave I, Lancaster, CA, 93535",
+      "phone": "661-945-2777",
+      "website": "https://www.desertvineyard.org/need-help/",
+      "eligibility": "Open to the community; free-choice grocery market",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "wed"
+          ],
+          "open": "11:00",
+          "close": "14:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Eastside Union School District Community Center Pantry",
+      "org": "Rescue Mission Alliance Antelope Valley / Eastside Union",
+      "address": "45006 N 30th St East, Lancaster, CA, 93535",
+      "phone": "661-952-1200",
+      "website": "https://www.avdreamcenter.org/food-pantry-locations/",
+      "eligibility": "Open to the community; drive-thru",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "second friday"
+          ],
+          "open": "11:00",
+          "close": "13:00",
+          "note": "Drive-thru"
+        }
+      ],
+      "lat": 34.700848,
+      "lng": -118.076508
+    },
+    {
+      "name": "Guyman/Trend Community Pantry",
+      "org": "Guyman Avenue Community Pantry",
+      "address": "43028 Guyman Ave, Lancaster, CA, 93536",
+      "phone": "661-317-5915",
+      "website": "https://www.avph.org/food-pantry-resources/",
+      "eligibility": "Open to the community; Gold Certified Pantry",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "second thursday",
+            "fourth thursday"
+          ],
+          "open": "14:30",
+          "close": "16:00",
+          "note": "Starts 2:30pm"
+        }
+      ]
+    },
+    {
+      "name": "L.A. Care Community Resource Center Food Pantry",
+      "org": "L.A. Care Health Plan",
+      "address": "2072 E Palmdale Blvd, Palmdale, CA, 93550",
+      "phone": "213-438-5580",
+      "website": "https://www.avph.org/food-pantry-resources/",
+      "eligibility": "Gold Certified Pantry; ticket required",
+      "category": "pantry",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "second thursday",
+            "fourth thursday"
+          ],
+          "open": "13:30",
+          "close": "15:00",
+          "note": "Ticket required"
+        }
+      ]
+    },
+    {
+      "name": "Palmdale Vineyard Church Food Pantry",
+      "org": "Palmdale Vineyard Church",
+      "address": "509 E Palmdale Blvd #G, Palmdale, CA, 93550",
+      "phone": "661-947-2222",
+      "website": "https://www.avph.org/food-pantry-resources/",
+      "eligibility": "Open to the community",
+      "category": "pantry",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu"
+          ],
+          "open": "09:00",
+          "close": "15:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "RCCG Jesus Assembly Food Pantry",
+      "org": "RCCG Jesus Assembly",
+      "address": "340 W Milling St, Lancaster, CA, 93534",
+      "phone": "661-609-7661",
+      "website": "https://www.avph.org/food-pantry-resources/",
+      "eligibility": "Open to the community; Bronze Certified Pantry; drive-thru",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "second friday",
+            "fourth friday"
+          ],
+          "open": "08:45",
+          "close": "10:00",
+          "note": "Drive-thru"
+        }
+      ]
+    },
+    {
+      "name": "St. Vincent de Paul - Lancaster Food Pantry",
+      "org": "Society of St. Vincent de Paul",
+      "address": "45058 Trevor Ave, Lancaster, CA, 93534",
+      "phone": "661-942-3222",
+      "website": "https://www.avph.org/food-pantry-resources/",
+      "eligibility": "Open to the community",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "wed",
+            "sat"
+          ],
+          "open": "09:00",
+          "close": "11:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "The Highlands Christian Fellowship Food Pantry",
+      "org": "The Highlands Christian Fellowship",
+      "address": "39625 20th St W, Palmdale, CA, 93551",
+      "phone": "661-273-1000",
+      "website": "https://www.avph.org/food-pantry-resources/",
+      "eligibility": "Open to the community; Gold Certified Pantry; drive-thru",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "second saturday",
+            "last saturday"
+          ],
+          "open": "12:30",
+          "close": "13:30",
+          "note": "Drive-thru"
+        }
+      ]
+    },
+    {
+      "name": "Renew Life Fellowship Food Pantry",
+      "org": "Renew Life Fellowship / Rescue Mission Alliance AV",
+      "address": "44950 Mall Loop Drive Unit 1-103, Lancaster, CA, 93536",
+      "phone": "",
+      "website": "https://www.avdreamcenter.org/food-pantry-locations/",
+      "eligibility": "Open to the community",
+      "category": "pantry",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "second saturday"
+          ],
+          "open": "10:30",
+          "close": "11:30",
+          "note": ""
+        }
+      ],
+      "lat": 34.700104,
+      "lng": -118.173291
+    },
+    {
+      "name": "Lighthouse Assembly of God Food Pantry",
+      "org": "Lighthouse Assembly of God Church / Rescue Mission Alliance AV",
+      "address": "38500 9th St East, Palmdale, CA, 93550",
+      "phone": "",
+      "website": "https://www.avdreamcenter.org/food-pantry-locations/",
+      "eligibility": "Open to the community",
+      "category": "pantry",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "fri"
+          ],
+          "open": "09:30",
+          "close": "10:30",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Christian Life Assembly Food Pantry",
+      "org": "Christian Life Assembly / Rescue Mission Alliance AV",
+      "address": "3250 Lancaster Blvd, Lancaster, CA, 93535",
+      "phone": "",
+      "website": "https://www.avdreamcenter.org/food-pantry-locations/",
+      "eligibility": "Open to the community",
+      "category": "pantry",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "third sunday"
+          ],
+          "open": "12:00",
+          "close": "13:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Nueva Vida Food Pantry",
+      "org": "Nueva Vida / Rescue Mission Alliance AV",
+      "address": "3030 E Ave R-8, Palmdale, CA, 93550",
+      "phone": "",
+      "website": "https://www.avdreamcenter.org/food-pantry-locations/",
+      "eligibility": "Open to the community",
+      "category": "pantry",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "fri"
+          ],
+          "open": "11:30",
+          "close": "12:30",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "iLEAD Lancaster Food Pantry",
+      "org": "iLEAD Lancaster / Rescue Mission Alliance AV",
+      "address": "254 East Avenue K4, Lancaster, CA, 93535",
+      "phone": "",
+      "website": "https://www.avdreamcenter.org/food-pantry-locations/",
+      "eligibility": "Open to the community",
+      "category": "pantry",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "third friday"
+          ],
+          "open": "12:30",
+          "close": "14:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Lancaster Spanish SDA Church Food Pantry",
+      "org": "Lancaster Spanish Seventh-day Adventist Church / Rescue Mission Alliance AV",
+      "address": "4052 W. Ave L, Lancaster, CA, 93536",
+      "phone": "",
+      "website": "https://www.avdreamcenter.org/food-pantry-locations/",
+      "eligibility": "Open to the community",
+      "category": "church",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "thu"
+          ],
+          "open": "14:00",
+          "close": "16:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "The Salvation Army Antelope Valley Corps Community Center",
+      "org": "The Salvation Army",
+      "address": "44517 Sierra Hwy, Lancaster, CA, 93534",
+      "phone": "661-948-3418",
+      "website": "https://www.salvationarmyusa.org/ca/lancaster/sierra-highway-corps/",
+      "eligibility": "Emergency food/groceries for residents in need",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open": "09:00",
+          "close": "12:00",
+          "note": "Call ahead to confirm; some sources list afternoon hours 1-3pm"
+        }
+      ]
+    },
+    {
+      "name": "Grace Resources Hot Meal Dining Hall",
+      "org": "Grace Resource Center",
+      "address": "45134 N Sierra Hwy, Lancaster, CA, 93534",
+      "phone": "661-940-5272",
+      "website": "https://resources.relayinstitute.org/project/grace-resource-center-inc-local-meal-programs/",
+      "eligibility": "Hot meals open to anyone in need",
+      "category": "hot-meal",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "tue",
+            "wed",
+            "fri"
+          ],
+          "open": "17:30",
+          "close": "18:00",
+          "note": "Dinner"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "sun"
+          ],
+          "open": "13:30",
+          "close": "14:00",
+          "note": "Lunch"
+        }
+      ]
+    },
+    {
+      "name": "Antelope Valley College Basic Needs Food Pantry",
+      "org": "Antelope Valley College",
+      "address": "3041 W Ave K, Lancaster, CA, 93536",
+      "phone": "661-722-6300",
+      "website": "https://www.avc.edu/basicneeds/food",
+      "eligibility": "Currently enrolled AVC students",
+      "category": "college-pantry",
+      "confidence": "medium",
+      "schedules": []
+    },
+    {
+      "name": "College of the Canyons Basic Needs Center (BaNC)",
+      "org": "College of the Canyons",
+      "address": "26455 Rockwell Canyon Rd, Student Center Room 123B, Santa Clarita, CA, 91355",
+      "phone": "661-362-3261",
+      "website": "https://www.canyons.edu/studentservices/foodservices/",
+      "eligibility": "Currently enrolled COC students",
+      "category": "college-pantry",
+      "confidence": "high",
+      "schedules": []
+    },
+    {
+      "name": "Single Mothers Outreach Food Assistance",
+      "org": "Single Mothers Outreach",
+      "address": "24781 Valley Street, Santa Clarita, CA, 91321",
+      "phone": "661-288-0117",
+      "website": "https://singlemothersoutreach.org/programs-and-services/assist/",
+      "eligibility": "Single-parent families in SCV",
+      "category": "pantry",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu"
+          ],
+          "open": "09:00",
+          "close": "17:00",
+          "note": "Call ahead; appointment-based assistance"
+        }
+      ]
+    },
+    {
+      "name": "Bridge to Home - Client Services Center Meals",
+      "org": "Bridge to Home",
+      "address": "23031 Drayton Street, Santa Clarita, CA, 91350",
+      "phone": "661-254-4663",
+      "website": "https://btohome.org/contact",
+      "eligibility": "Ages 18+; homeless/low-income SCV residents",
+      "category": "hot-meal",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "sun",
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat"
+          ],
+          "open": "11:00",
+          "close": "20:00",
+          "note": "Free meals daily"
+        }
+      ]
+    },
+    {
+      "name": "Santa Clarita Valley Senior Center at Bella Vida - Lunch Program",
+      "org": "Santa Clarita Valley Senior Center",
+      "address": "27180 Golden Valley Rd, Santa Clarita, CA, 91350",
+      "phone": "661-259-9444",
+      "website": "https://211la.org/agencies/Hxb9ewXKlHzey5pkuObPqvghONdlGw/santa-clarita-valley-senior-center",
+      "eligibility": "Ages 60+; suggested donation $3.50",
+      "category": "senior",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open": "11:00",
+          "close": "13:00",
+          "note": "Congregate lunch"
+        }
+      ]
+    },
+    {
+      "name": "Grace Baptist Church Food Pantry",
+      "org": "Grace Baptist Church",
+      "address": "22833 Copper Hill Drive, Santa Clarita, CA, 91350",
+      "phone": "661-296-8737",
+      "website": "https://www.gracebaptist.org/food-pantry",
+      "eligibility": "Open to the community",
+      "category": "church",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon"
+          ],
+          "open": "09:00",
+          "close": "12:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "SCV Food Pantry Mobile - Castaic Lake Senior Village",
+      "org": "Santa Clarita Valley Food Pantry",
+      "address": "31900 Castaic Road, Castaic, CA, 91384",
+      "phone": "661-255-9930",
+      "website": "https://www.scvfoodpantry.org/location-and-hours",
+      "eligibility": "Residents of the mobile-site community",
+      "category": "mobile",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "first tuesday"
+          ],
+          "open": "09:30",
+          "close": "11:00",
+          "note": "Mobile distribution"
+        }
+      ]
+    },
+    {
+      "name": "SCV Food Pantry Mobile - CalArts",
+      "org": "Santa Clarita Valley Food Pantry",
+      "address": "24700 McBean Parkway, Valencia, CA, 91355",
+      "phone": "661-255-9930",
+      "website": "https://www.scvfoodpantry.org/location-and-hours",
+      "eligibility": "CalArts community / open",
+      "category": "mobile",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "second wednesday"
+          ],
+          "open": "09:30",
+          "close": "11:00",
+          "note": "Mobile distribution"
+        }
+      ]
+    },
+    {
+      "name": "Dolores Mission / Proyecto Pastoral Food Pantry",
+      "org": "Proyecto Pastoral at Dolores Mission",
+      "address": "170 S Gless St, Los Angeles, CA, 90033",
+      "phone": "(323) 881-0018",
+      "website": "https://www.proyectopastoral.org",
+      "eligibility": "Open to the community; Boyle Heights residents",
+      "category": "pantry",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "third tuesday"
+          ],
+          "open": "10:00",
+          "close": "11:00",
+          "note": "Free community food pantry; also fresh produce several times weekly at Aliso-Pico Rec Center (call for dates)"
+        }
+      ]
+    },
+    {
+      "name": "Downtown Women's Center Day Center",
+      "org": "Downtown Women's Center",
+      "address": "442 S San Pedro St, Los Angeles, CA, 90013",
+      "phone": "(213) 680-0600",
+      "website": "https://downtownwomenscenter.org",
+      "eligibility": "Women and survivors of violence experiencing homelessness/poverty",
+      "category": "hot-meal",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open": "08:00",
+          "close": "14:00",
+          "note": "Breakfast 8am, lunch noon (11am first Thursday), afternoon snack 2pm; day center open 6am-4pm weekdays"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "sat",
+            "sun"
+          ],
+          "open": "08:00",
+          "close": "14:00",
+          "note": "Meals served; day center open 7am-3pm weekends"
+        }
+      ]
+    },
+    {
+      "name": "Fred Jordan Mission",
+      "org": "Fred Jordan Missions",
+      "address": "445 Towne Ave, Los Angeles, CA, 90013",
+      "phone": "(213) 626-2576",
+      "website": "https://www.fjm.org",
+      "eligibility": "Open to all; Skid Row neighbors in need",
+      "category": "hot-meal",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+          ],
+          "open": "09:30",
+          "close": "13:30",
+          "note": "Doors open 9:30am breakfast; hot lunch served midday daily until food runs out"
+        }
+      ]
+    },
+    {
+      "name": "SELAH Neighborhood Homeless Coalition Food Pantry",
+      "org": "SELAH Neighborhood Homeless Coalition",
+      "address": "267 Belmont Ave, Los Angeles, CA, 90026",
+      "phone": "",
+      "website": "https://www.selahnhc.org",
+      "eligibility": "Open to all",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "tue",
+            "wed",
+            "thu"
+          ],
+          "open": "09:45",
+          "close": "14:00",
+          "note": "Walk-in food pantry"
+        }
+      ]
+    },
+    {
+      "name": "SELAH Tuesday Echo Park Drop-In",
+      "org": "SELAH Neighborhood Homeless Coalition",
+      "address": "1146 Glendale Blvd, Los Angeles, CA, 90026",
+      "phone": "",
+      "website": "https://www.selahnhc.org/scheduled-services",
+      "eligibility": "Unhoused and food-insecure neighbors",
+      "category": "mobile",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "tue"
+          ],
+          "open": "09:00",
+          "close": "10:30",
+          "note": "Drop-in at Echo Park United Methodist Church: food, coffee, hygiene items"
+        }
+      ]
+    },
+    {
+      "name": "SELAH Sunday Social on Riverside Dr",
+      "org": "SELAH Neighborhood Homeless Coalition",
+      "address": "3220 Riverside Dr, Los Angeles, CA, 90027",
+      "phone": "",
+      "website": "https://www.selahnhc.org/scheduled-services",
+      "eligibility": "Unhoused and food-insecure neighbors",
+      "category": "mobile",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "first sunday"
+          ],
+          "open": "11:00",
+          "close": "13:00",
+          "note": "Hot coffee, food, hygiene items"
+        }
+      ]
+    },
+    {
+      "name": "The Center in Hollywood Food Pantry",
+      "org": "The Center in Hollywood (at Blessed Sacrament)",
+      "address": "6636 Selma Ave, Los Angeles, CA, 90028",
+      "phone": "(323) 785-2060",
+      "website": "https://thecenterinhollywood.org",
+      "eligibility": "Open to all; unhoused and low-income neighbors",
+      "category": "pantry",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "tue",
+            "wed",
+            "thu"
+          ],
+          "open": "09:00",
+          "close": "10:00",
+          "note": "Food distribution; SELAH Hollywood drop-in also held here Sundays 1-4pm"
+        }
+      ]
+    },
+    {
+      "name": "LA Trade-Tech College Basic Needs Food Pantry",
+      "org": "Los Angeles Trade-Technical College",
+      "address": "400 W Washington Blvd, Los Angeles, CA, 90015",
+      "phone": "(213) 763-7000",
+      "website": "https://www.lattc.edu",
+      "eligibility": "Enrolled LATTC students",
+      "category": "college-pantry",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "thu"
+          ],
+          "open": "11:00",
+          "close": "13:00",
+          "note": "Produce/non-perishable distribution at E3 Culinary Arts Outdoor Plaza every other Thursday; Basic Needs Center (C4-126) open Mon-Thu 8am-4pm"
+        }
+      ]
+    },
+    {
+      "name": "East Los Angeles College Basic Needs Food Pantry",
+      "org": "East Los Angeles College",
+      "address": "1301 Avenida Cesar Chavez, Monterey Park, CA, 91754",
+      "phone": "(323) 265-8650",
+      "website": "https://www.elac.edu/student-services/basic-needs-center",
+      "eligibility": "Enrolled ELAC students",
+      "category": "college-pantry",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu"
+          ],
+          "open": "08:00",
+          "close": "17:00",
+          "note": "Basic Needs Center F5-300; Fri 8am-1pm; periodic larger pantry distributions at E3 Quad"
+        }
+      ]
+    },
+    {
+      "name": "Crenshaw United Methodist Church Food Pantry",
+      "org": "Crenshaw United Methodist Church",
+      "address": "3740 Don Felipe Dr, Los Angeles, CA, 90008",
+      "phone": "(323) 292-0141",
+      "website": "",
+      "eligibility": "Open to all",
+      "category": "church",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "sat"
+          ],
+          "open": "10:00",
+          "close": "12:00",
+          "note": "Trader Joe's rescue food 1st/2nd/4th Saturdays; LA Regional Food Bank on 3rd Saturday"
+        }
+      ]
+    },
+    {
+      "name": "West Adams-Leimert Park FamilySource Center Food Giveaway",
+      "org": "West Adams-Leimert Park FamilySource Center",
+      "address": "4305 Degnan Blvd, Suite 105, Los Angeles, CA, 90008",
+      "phone": "",
+      "website": "",
+      "eligibility": "No eligibility requirements; first come first served while supplies last; bring own bags",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "tue"
+          ],
+          "open": "11:30",
+          "close": "15:00",
+          "note": "Free food giveaway"
+        }
+      ]
+    },
+    {
+      "name": "Homeboy Industries Feed HOPE Food Pantry",
+      "org": "Homeboy Industries",
+      "address": "130 W Bruno St, Los Angeles, CA, 90012",
+      "phone": "(323) 526-1254",
+      "website": "https://homeboyindustries.org/feedhope/",
+      "eligibility": "Open to the community; food-insecure individuals and families",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "fri"
+          ],
+          "open": "14:00",
+          "close": "15:00",
+          "note": "Free pre-packaged meals/groceries at pantry adjacent to campus on Bruno St"
+        }
+      ]
+    },
+    {
+      "name": "Southeast Churches Service Center",
+      "org": "Southeast Churches Service Center",
+      "address": "2780 E Gage Ave, Huntington Park, CA, 90255",
+      "phone": "(323) 585-8254",
+      "website": "",
+      "eligibility": "Residents of Huntington Park, Maywood, South Gate, Bell Gardens, Bell, Cudahy; State ID + proof of address + income award letter on first visit; once monthly",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open": "09:00",
+          "close": "15:30",
+          "note": "Packaged and fresh food; closed noon-1pm"
+        }
+      ]
+    },
+    {
+      "name": "Southeast Rio Vista YMCA Food Distribution",
+      "org": "Southeast Rio Vista YMCA (with LA Regional Food Bank)",
+      "address": "4801 E 58th St, Maywood, CA, 90270",
+      "phone": "(323) 585-6631",
+      "website": "",
+      "eligibility": "Open to the community; free",
+      "category": "mobile",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "third monday"
+          ],
+          "open": "09:00",
+          "close": "11:00",
+          "note": "Monthly drive-up/community food distribution"
+        }
+      ]
+    },
+    {
+      "name": "Hippie Kitchen (Hospitality Kitchen)",
+      "org": "Los Angeles Catholic Worker",
+      "address": "821 E 6th St, Los Angeles, CA, 90021",
+      "phone": "(213) 614-9615",
+      "website": "https://www.lacatholicworker.org",
+      "eligibility": "Open to all; Skid Row community",
+      "category": "hot-meal",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "tue",
+            "thu",
+            "sat"
+          ],
+          "open": "09:00",
+          "close": "12:00",
+          "note": "Free hot meals at corner of 6th St and Gladys Ave"
+        }
+      ]
+    },
+    {
+      "name": "Hollywood United Methodist Church Sack Lunch Program",
+      "org": "Hollywood United Methodist Church",
+      "address": "6817 Franklin Ave, Los Angeles, CA, 90028",
+      "phone": "(323) 874-2104",
+      "website": "https://hollywoodumc.org",
+      "eligibility": "Open to all",
+      "category": "hot-meal",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "tue"
+          ],
+          "open": "11:00",
+          "close": "13:00",
+          "note": "Sack lunches, hygiene products and clothing provided"
+        }
+      ]
+    },
+    {
+      "name": "SELAH Neighborhood Homeless Coalition Food Pantry",
+      "org": "SELAH Neighborhood Homeless Coalition",
+      "address": "267 Belmont Ave, Los Angeles, CA 90026",
+      "phone": "",
+      "website": "https://www.selahnhc.org",
+      "eligibility": "Open to all; serves unhoused and low-income neighbors in Silver Lake/Echo Park/Los Feliz/Atwater/Hollywood",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "tue",
+            "wed",
+            "thu"
+          ],
+          "open": "09:45",
+          "close": "14:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Thai CDC East Hollywood Certified Farmers Market (Market Match)",
+      "org": "Thai Community Development Center",
+      "address": "6376 Yucca St, Los Angeles, CA 90028",
+      "phone": "(323) 468-2555",
+      "website": "https://thaicdc.org",
+      "eligibility": "Open to all; Market Match doubles CalFresh/EBT purchasing power for fresh produce",
+      "category": "mobile",
+      "confidence": "medium",
+      "schedules": []
+    },
+    {
+      "name": "Seeds of Hope - Harper Community Apartments",
+      "org": "Seeds of Hope / Food Forward",
+      "address": "1260 N Harper Ave, West Hollywood, CA 90046",
+      "phone": "(213) 482-2040",
+      "website": "https://seedsofhope.ladiocese.org",
+      "eligibility": "Open to anyone in need, all ages",
+      "category": "mobile",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "third tuesday"
+          ],
+          "open": "13:30",
+          "close": "14:30",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Seeds of Hope - Plummer Park (Fiesta Hall)",
+      "org": "Seeds of Hope / Food Forward",
+      "address": "7377 Santa Monica Blvd, West Hollywood, CA 90046",
+      "phone": "(213) 482-2040",
+      "website": "https://seedsofhope.ladiocese.org",
+      "eligibility": "Open to anyone in need; free fresh produce and pantry staples",
+      "category": "mobile",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "tue"
+          ],
+          "open": "10:00",
+          "close": "12:00",
+          "note": "at Plummer Park Fiesta Hall"
+        }
+      ]
+    },
+    {
+      "name": "Margaret Travis Senior Center Food Bank",
+      "org": "City of South Gate Parks & Recreation",
+      "address": "4855 Tweedy Blvd, South Gate, CA 90280",
+      "phone": "(323) 357-9662",
+      "website": "https://www.cityofsouthgate.org",
+      "eligibility": "South Gate residents; income/family-size based; priority for seniors; suggested $3 donation",
+      "category": "senior",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "third monday"
+          ],
+          "open": "13:00",
+          "close": "15:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "St. Bernard Catholic Church Food Pantry",
+      "org": "St. Bernard Catholic Church",
+      "address": "9647 E Beach St, Bellflower, CA 90706",
+      "phone": "(562) 867-2337",
+      "website": "",
+      "eligibility": "Free; neediest families and children in the community",
+      "category": "church",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "tue"
+          ],
+          "open": "09:30",
+          "close": "13:00",
+          "note": ""
+        }
+      ],
+      "lat": 33.877685,
+      "lng": -118.127385
+    },
+    {
+      "name": "Holy Redeemer Lutheran Church Food Pantry",
+      "org": "Holy Redeemer Lutheran Church",
+      "address": "14515 Blaine Ave, Bellflower, CA 90706",
+      "phone": "(562) 867-0714",
+      "website": "",
+      "eligibility": "Open to community",
+      "category": "church",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "fri"
+          ],
+          "open": "09:00",
+          "close": "10:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "St. Dominic Savio Church Food Distribution",
+      "org": "St. Dominic Savio Catholic Church",
+      "address": "13400 Bellflower Blvd, Bellflower, CA 90706",
+      "phone": "(562) 920-7796",
+      "website": "",
+      "eligibility": "Open to community",
+      "category": "church",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "thu"
+          ],
+          "open": "08:00",
+          "close": "10:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Lakewood First United Methodist Church - Broken Loaf Food Pantry",
+      "org": "Lakewood First United Methodist Church",
+      "address": "4300 N Bellflower Blvd, Lakewood, CA 90713",
+      "phone": "(562) 425-1219",
+      "website": "",
+      "eligibility": "No pre-qualification or forms; food and clothing",
+      "category": "church",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "sat"
+          ],
+          "open": "09:00",
+          "close": "11:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "The Journey @ Mayfair Church Food Pantry",
+      "org": "The Journey @ Mayfair Church",
+      "address": "6150 Bellflower Blvd, Lakewood, CA 90713",
+      "phone": "(562) 867-3198",
+      "website": "",
+      "eligibility": "Open to community",
+      "category": "church",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "second saturday"
+          ],
+          "open": "08:30",
+          "close": "10:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Holy Family Catholic Church Food Pantry (Artesia)",
+      "org": "Holy Family Catholic Church",
+      "address": "18708 Clarkdale Ave, Artesia, CA 90701",
+      "phone": "(562) 865-2185",
+      "website": "https://www.holyfamilyartesia.org",
+      "eligibility": "Open to community; drive-through in parking lot",
+      "category": "church",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "third saturday"
+          ],
+          "open": "09:00",
+          "close": "11:00",
+          "note": "drive-through"
+        }
+      ]
+    },
+    {
+      "name": "New Life Community Church Food Pantry (Artesia)",
+      "org": "New Life Community Church",
+      "address": "18800 Norwalk Blvd, Artesia, CA 90701",
+      "phone": "(562) 924-4466",
+      "website": "https://nl-cc.org",
+      "eligibility": "Open to community; serves 100-250 families weekly",
+      "category": "church",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "sat"
+          ],
+          "open": "09:00",
+          "close": "10:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "St. James AME Church - Compton Food Pantry",
+      "org": "St. James AME Church / Compton Food Pantry",
+      "address": "601 W Rosecrans Ave, Compton, CA 90222",
+      "phone": "(310) 801-1490",
+      "website": "",
+      "eligibility": "Open to community; senior/disabled delivery available",
+      "category": "church",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "sat"
+          ],
+          "open": "12:00",
+          "close": "15:00",
+          "note": "community distribution"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "fourth sunday"
+          ],
+          "open": "12:00",
+          "close": "13:00",
+          "note": "church distribution"
+        }
+      ]
+    },
+    {
+      "name": "Alondra Church of Christ Food Pantry",
+      "org": "Alondra Church of Christ",
+      "address": "2301 E Alondra Blvd, Compton, CA 90221",
+      "phone": "(310) 632-1146",
+      "website": "",
+      "eligibility": "Call ahead before visiting",
+      "category": "church",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon"
+          ],
+          "open": "09:45",
+          "close": "11:45",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Kingdom Life Christian Fellowship Food Distribution",
+      "org": "Kingdom Life Christian Fellowship",
+      "address": "1919 E Compton Blvd, Compton, CA 90221",
+      "phone": "",
+      "website": "",
+      "eligibility": "Open to community; free groceries",
+      "category": "church",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "third saturday"
+          ],
+          "open": "",
+          "close": "",
+          "note": "free groceries; time call-ahead"
+        }
+      ]
+    },
+    {
+      "name": "Catholic Charities Pico Rivera Family Resource Center Food Pantry",
+      "org": "Catholic Charities of Los Angeles",
+      "address": "5014 Passons Blvd, Pico Rivera, CA 90660",
+      "phone": "(562) 949-0937",
+      "website": "https://catholiccharitiesla.org",
+      "eligibility": "ID required; non-residents need proof of income and utility bill",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "tue",
+            "thu"
+          ],
+          "open": "09:00",
+          "close": "12:00",
+          "note": "also 13:30-15:00 same days"
+        }
+      ]
+    },
+    {
+      "name": "Cory's Kitchen - Calvary Chapel Pico Rivera",
+      "org": "Cory's Kitchen / Calvary Chapel Pico Rivera",
+      "address": "8110 Paramount Blvd, Pico Rivera, CA 90660",
+      "phone": "(562) 777-5134",
+      "website": "https://www.coryskitchen.org",
+      "eligibility": "Open to community",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "first thursday",
+            "third thursday"
+          ],
+          "open": "18:00",
+          "close": "19:30",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Las Buenas Nuevas Church Food Distribution",
+      "org": "Las Buenas Nuevas Church",
+      "address": "11910 Alondra Blvd, Norwalk, CA 90650",
+      "phone": "(562) 926-3147",
+      "website": "",
+      "eligibility": "Open to community",
+      "category": "church",
+      "confidence": "medium",
+      "schedules": []
+    },
+    {
+      "name": "Community Resource Center - Norwalk Food Pantry",
+      "org": "Community Resource Center of Los Angeles",
+      "address": "11721 Rosecrans Ave, Norwalk, CA 90650",
+      "phone": "",
+      "website": "https://www.communityresourcecenterla.org",
+      "eligibility": "Free food pantry open to community",
+      "category": "pantry",
+      "confidence": "medium",
+      "schedules": []
+    },
+    {
+      "name": "LA Pierce College - Brahma Bodega Food Pantry",
+      "org": "Los Angeles Pierce College",
+      "address": "6201 Winnetka Ave (Multicultural Center, LLC 5110), Woodland Hills, CA, 91371",
+      "phone": "818-464-4410",
+      "website": "https://www.lapc.edu/student-services/spr/brahma-pantry",
+      "eligibility": "Enrolled students",
+      "category": "college-pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu"
+          ],
+          "open": "09:00",
+          "close": "13:00",
+          "note": "Brahma Bodega"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "fri"
+          ],
+          "open": "09:30",
+          "close": "12:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "LA Valley College - Monarch Market (Basic Needs Center)",
+      "org": "Los Angeles Valley College",
+      "address": "5800 Fulton Ave (in front of Unity Center), Valley Glen, CA, 91401",
+      "phone": "818-778-5965",
+      "website": "https://www.lavc.edu/student-services/spr/calworks/food-pantry",
+      "eligibility": "Enrolled students",
+      "category": "college-pantry",
+      "confidence": "medium",
+      "schedules": []
+    },
+    {
+      "name": "East LA College - Husky Food Pantry (Basic Needs Center)",
+      "org": "East Los Angeles College",
+      "address": "1301 Avenida Cesar Chavez (MPR F5-201), Monterey Park, CA, 91754",
+      "phone": "323-265-8650",
+      "website": "https://www.elac.edu/student-services/spr/student-health-center/food-resources",
+      "eligibility": "Enrolled students; public pantry distributions open to community",
+      "category": "college-pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "second wednesday",
+            "fourth wednesday"
+          ],
+          "open": "12:00",
+          "close": "15:00",
+          "note": "Public food pantry distribution"
+        }
+      ]
+    },
+    {
+      "name": "LA Trade-Tech College - Beaver's Lounge Food Pantry",
+      "org": "Los Angeles Trade-Technical College",
+      "address": "400 W Washington Blvd (E3/Culinary Arts Building, Outdoor Plaza), Los Angeles, CA, 90015",
+      "phone": "",
+      "website": "https://www.lattc.edu/student-services/spr/students-in-need/food",
+      "eligibility": "Enrolled students",
+      "category": "college-pantry",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "thu"
+          ],
+          "open": "11:00",
+          "close": "13:00",
+          "note": "Every other Thursday, until supplies last"
+        }
+      ]
+    },
+    {
+      "name": "LA Mission College - Basic Needs Center Food Pantry",
+      "org": "Los Angeles Mission College",
+      "address": "13356 Eldridge Ave (Campus Services Building), Sylmar, CA, 91342",
+      "phone": "818-833-3393",
+      "website": "https://www.lamc.edu/student-services/spr/basic-needs-center",
+      "eligibility": "Enrolled students",
+      "category": "college-pantry",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu"
+          ],
+          "open": "08:30",
+          "close": "16:00",
+          "note": "Basic Needs Center office hours"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "fri"
+          ],
+          "open": "08:30",
+          "close": "12:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "LA Southwest College - Welcome Center Food Pantry",
+      "org": "Los Angeles Southwest College",
+      "address": "1600 W Imperial Hwy (Student Services Building, Room 118), Los Angeles, CA, 90047",
+      "phone": "323-241-5032",
+      "website": "https://www.lasc.edu/student-services/welcome-center",
+      "eligibility": "Enrolled students",
+      "category": "college-pantry",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "thu"
+          ],
+          "open": "09:00",
+          "close": "16:00",
+          "note": "Closed noon-1pm for lunch"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "wed"
+          ],
+          "open": "09:00",
+          "close": "12:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "LA Harbor College - Seahawk Market Food Pantry",
+      "org": "Los Angeles Harbor College",
+      "address": "1111 Figueroa Place (Tech-103, enter via Tech-100), Wilmington, CA, 90744",
+      "phone": "310-233-4057",
+      "website": "https://www.lahc.edu/student-services/spr/basic-needs-center",
+      "eligibility": "Enrolled students",
+      "category": "college-pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu"
+          ],
+          "open": "10:00",
+          "close": "16:00",
+          "note": "Seahawk Market"
+        }
+      ]
+    },
+    {
+      "name": "Cal Poly Pomona - Poly Pantry",
+      "org": "Cal Poly Pomona (ASI)",
+      "address": "3801 W Temple Ave (Bronco Student Center, Bldg 35, Room 1216), Pomona, CA, 91768",
+      "phone": "",
+      "website": "https://asi.cpp.edu/services/poly-pantry/",
+      "eligibility": "Enrolled students",
+      "category": "college-pantry",
+      "confidence": "medium",
+      "schedules": []
+    },
+    {
+      "name": "CSU Dominguez Hills - Teddy's Pantry (Toro CARE)",
+      "org": "California State University, Dominguez Hills",
+      "address": "1000 E Victoria St (College of Education, Bldg 14, H-023), Carson, CA, 90747",
+      "phone": "310-243-3600",
+      "website": "https://www.csudh.edu/toro-care/food-support/teddys-pantry/",
+      "eligibility": "Enrolled students",
+      "category": "college-pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "wed"
+          ],
+          "open": "13:00",
+          "close": "17:00",
+          "note": "Teddy's Pantry"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "tue",
+            "thu",
+            "fri"
+          ],
+          "open": "09:00",
+          "close": "17:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Pasadena City College - Lancer Pantry",
+      "org": "Pasadena City College (Lancer Care Center)",
+      "address": "1570 E Colorado Blvd (Room R-125), Pasadena, CA, 91106",
+      "phone": "626-585-7264",
+      "website": "https://pasadena.edu/campus-life/lancer-pantry/index.php",
+      "eligibility": "Enrolled students (valid PCC ID)",
+      "category": "college-pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "tue",
+            "wed",
+            "thu"
+          ],
+          "open": "10:00",
+          "close": "16:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Glendale College - GCC CARES Food Pantry (Garfield Campus)",
+      "org": "Glendale Community College",
+      "address": "1122 E Garfield Ave (Somerset SO100 & SO104), Glendale, CA, 91205",
+      "phone": "818-240-1000",
+      "website": "https://www.glendale.edu/students/student-services/student-basic-needs/food-support/food-pantry",
+      "eligibility": "Enrolled students (appointment)",
+      "category": "college-pantry",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "tue",
+            "wed",
+            "thu"
+          ],
+          "open": "11:00",
+          "close": "16:00",
+          "note": "Appointment only"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "fri"
+          ],
+          "open": "11:00",
+          "close": "15:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "El Camino College - Warrior Pantry (Basic Needs Center)",
+      "org": "El Camino College",
+      "address": "16007 Crenshaw Blvd (El Camino Commons, Parking Lot L), Torrance, CA, 90506",
+      "phone": "310-660-3593",
+      "website": "https://www.elcamino.edu/support/resources/basics/warrior-pantry/index.php",
+      "eligibility": "Enrolled students",
+      "category": "college-pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "tue"
+          ],
+          "open": "10:00",
+          "close": "15:00",
+          "note": ""
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "wed",
+            "thu"
+          ],
+          "open": "11:00",
+          "close": "16:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Mt. San Antonio College - Mountie Fresh Food Pantry",
+      "org": "Mt. San Antonio College",
+      "address": "1100 N Grand Ave (Building 67A-103), Walnut, CA, 91789",
+      "phone": "",
+      "website": "https://www.mtsac.edu/basic-needs/mountiefreshfoodpantry.html",
+      "eligibility": "Enrolled students (appointment)",
+      "category": "college-pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "tue",
+            "wed"
+          ],
+          "open": "10:00",
+          "close": "17:00",
+          "note": ""
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "fri"
+          ],
+          "open": "11:00",
+          "close": "14:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "College of the Canyons - Basic Needs Center (Valencia)",
+      "org": "College of the Canyons",
+      "address": "26455 Rockwell Canyon Rd (STC-123), Santa Clarita, CA, 91355",
+      "phone": "661-362-3375",
+      "website": "https://www.canyons.edu/studentservices/banc/index.php",
+      "eligibility": "Enrolled students",
+      "category": "college-pantry",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu"
+          ],
+          "open": "09:00",
+          "close": "17:00",
+          "note": ""
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "fri"
+          ],
+          "open": "09:00",
+          "close": "13:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "College of the Canyons - Basic Needs Center (Canyon Country)",
+      "org": "College of the Canyons",
+      "address": "17200 Sierra Hwy (Quad 1A), Santa Clarita, CA, 91351",
+      "phone": "661-362-3975",
+      "website": "https://www.canyons.edu/studentservices/banc/index.php",
+      "eligibility": "Enrolled students",
+      "category": "college-pantry",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed"
+          ],
+          "open": "09:00",
+          "close": "17:00",
+          "note": ""
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "thu"
+          ],
+          "open": "09:00",
+          "close": "14:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Antelope Valley College - Marauder Marketplace (Basic Needs Center)",
+      "org": "Antelope Valley College",
+      "address": "3041 W Ave K (T-100), Lancaster, CA, 93536",
+      "phone": "661-722-6685",
+      "website": "https://www.avc.edu/basic-needs/food",
+      "eligibility": "Enrolled students",
+      "category": "college-pantry",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu"
+          ],
+          "open": "07:30",
+          "close": "18:00",
+          "note": ""
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "fri"
+          ],
+          "open": "07:30",
+          "close": "11:30",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "ONEgeneration - Canoga Park Senior Dining Center",
+      "org": "ONEgeneration",
+      "address": "7326 Jordan Ave, Canoga Park, CA, 91303",
+      "phone": "818-708-4758",
+      "website": "https://www.onegeneration.org/dining-centers/",
+      "eligibility": "Seniors 60+",
+      "category": "senior",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open": "11:30",
+          "close": "12:30",
+          "note": "Congregate lunch, suggested $3"
+        }
+      ]
+    },
+    {
+      "name": "ONEgeneration - Wilkinson Senior Dining Center",
+      "org": "ONEgeneration",
+      "address": "8956 Vanalden Ave, Northridge, CA, 91324",
+      "phone": "818-654-8376",
+      "website": "https://www.onegeneration.org/dining-centers/",
+      "eligibility": "Seniors 60+",
+      "category": "senior",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open": "11:30",
+          "close": "12:30",
+          "note": "Congregate lunch, suggested $3"
+        }
+      ]
+    },
+    {
+      "name": "St. Barnabas Senior Services - Angelus Plaza Dining Room",
+      "org": "St. Barnabas Senior Services",
+      "address": "255 N Hill St, Los Angeles, CA, 90012",
+      "phone": "213-388-4444",
+      "website": "https://www.sbssla.org/",
+      "eligibility": "Seniors 60+",
+      "category": "senior",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open": "11:30",
+          "close": "12:30",
+          "note": "Congregate lunch"
+        }
+      ]
+    },
+    {
+      "name": "St. Barnabas Senior Services - Golden Dragon Dining Site",
+      "org": "St. Barnabas Senior Services",
+      "address": "960 N Broadway, Los Angeles, CA, 90012",
+      "phone": "213-388-4444",
+      "website": "https://www.sbssla.org/",
+      "eligibility": "Seniors 60+",
+      "category": "senior",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open": "11:30",
+          "close": "12:30",
+          "note": "Congregate lunch"
+        }
+      ]
+    },
+    {
+      "name": "St. Barnabas Senior Services - Crescent Arms Dining Room",
+      "org": "St. Barnabas Senior Services",
+      "address": "1709 W 8th St, Los Angeles, CA, 90017",
+      "phone": "213-388-4444",
+      "website": "https://www.sbssla.org/",
+      "eligibility": "Seniors 60+",
+      "category": "senior",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open": "11:30",
+          "close": "12:30",
+          "note": "Congregate lunch"
+        }
+      ]
+    },
+    {
+      "name": "St. Barnabas Senior Services - Echo Park Center",
+      "org": "St. Barnabas Senior Services",
+      "address": "1021 N Alvarado St, Los Angeles, CA, 90026",
+      "phone": "213-592-1166",
+      "website": "https://www.sbssla.org/",
+      "eligibility": "Seniors 60+",
+      "category": "senior",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open": "08:00",
+          "close": "16:00",
+          "note": "Senior center / meal site"
+        }
+      ]
+    },
+    {
+      "name": "Human Services Association - Clara Street Senior Center Congregate Meals",
+      "org": "Human Services Association",
+      "address": "6722 Clara St, Bell Gardens, CA, 90201",
+      "phone": "562-806-5400",
+      "website": "https://www.hsala.org/services/congregate-meals-program",
+      "eligibility": "Seniors 60+",
+      "category": "senior",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open": "11:30",
+          "close": "12:30",
+          "note": "Congregate lunch, suggested $3"
+        }
+      ]
+    },
+    {
+      "name": "Jewish Family Service LA - Jona Goldrich (Freda Mohr) Multipurpose Center",
+      "org": "Jewish Family Service of Los Angeles",
+      "address": "330 N Fairfax Ave, Los Angeles, CA, 90036",
+      "phone": "323-937-5900",
+      "website": "https://www.jfsla.org/location/freda-mohr-multipurpose-center/",
+      "eligibility": "Seniors 60+",
+      "category": "senior",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open": "11:30",
+          "close": "12:30",
+          "note": "Senior congregate lunch"
+        }
+      ]
+    },
+    {
+      "name": "LA Korean Senior Corps Congregate Meals (Salvation Army)",
+      "org": "Salvation Army / LA Dept of Aging Nutrition",
+      "address": "933 S Hoover St, Los Angeles, CA, 90006",
+      "phone": "213-482-7252",
+      "website": "https://aging.lacity.gov/nutrition-services",
+      "eligibility": "Seniors 60+",
+      "category": "senior",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "wed",
+            "fri"
+          ],
+          "open": "09:00",
+          "close": "16:00",
+          "note": "Congregate meal site"
+        }
+      ]
+    },
+    {
+      "name": "City of Glendale Adult Recreation Center - Senior Nutrition Program",
+      "org": "City of Glendale Community Services & Parks",
+      "address": "201 E Colorado St, Glendale, CA, 91205",
+      "phone": "818-548-3775",
+      "website": "https://www.glendaleca.gov/",
+      "eligibility": "Seniors 60+",
+      "category": "senior",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open": "11:30",
+          "close": "12:30",
+          "note": "Congregate lunch, suggested $2.50"
+        }
+      ]
+    },
+    {
+      "name": "Pasadena Senior Center - Congregate Meal Program",
+      "org": "Pasadena Senior Center",
+      "address": "85 E Holly St, Pasadena, CA, 91103",
+      "phone": "626-795-4331",
+      "website": "https://www.pasadenaseniorcenter.org/",
+      "eligibility": "Seniors 60+",
+      "category": "senior",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open": "11:30",
+          "close": "12:30",
+          "note": "Congregate lunch"
+        }
+      ]
+    },
+    {
+      "name": "Anderson Munger Family YMCA - FeedLA Food Distribution",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "4301 W 3rd St, Los Angeles, CA, 90020",
+      "phone": "323-244-9077",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to all / seniors 60+",
+      "category": "senior",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "second tuesday",
+            "fourth tuesday"
+          ],
+          "open": "09:00",
+          "close": "12:00",
+          "note": "FeedLA distribution"
+        }
+      ]
+    },
+    {
+      "name": "Collins & Katz Family YMCA - FeedLA Food Distribution",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "1466 S Westgate Ave, Los Angeles, CA, 90025",
+      "phone": "323-244-9077",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to all",
+      "category": "senior",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "thu"
+          ],
+          "open": "10:30",
+          "close": "12:00",
+          "note": "FeedLA distribution"
+        }
+      ]
+    },
+    {
+      "name": "Crenshaw Family YMCA - FeedLA Food Distribution",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "3820 Santa Rosalia Dr, Los Angeles, CA, 90008",
+      "phone": "323-244-9077",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to all",
+      "category": "senior",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "tue"
+          ],
+          "open": "11:00",
+          "close": "15:00",
+          "note": "FeedLA distribution"
+        }
+      ]
+    },
+    {
+      "name": "Crowell Family YMCA - FeedLA Food Distribution",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "1605 Garfield Ave, South Pasadena, CA, 91030",
+      "phone": "323-244-9077",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to all",
+      "category": "senior",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "thu"
+          ],
+          "open": "10:00",
+          "close": "12:00",
+          "note": "FeedLA distribution"
+        }
+      ]
+    },
+    {
+      "name": "Culver-Palms Family YMCA - FeedLA Food Distribution",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "4500 Sepulveda Blvd, Culver City, CA, 90230",
+      "phone": "323-244-9077",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to all",
+      "category": "senior",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "thu"
+          ],
+          "open": "10:30",
+          "close": "13:30",
+          "note": "FeedLA distribution"
+        }
+      ]
+    },
+    {
+      "name": "East Valley Family YMCA - FeedLA Food Distribution",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "5142 Tujunga Ave, North Hollywood, CA, 91601",
+      "phone": "323-244-9077",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to all",
+      "category": "senior",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "thu"
+          ],
+          "open": "10:00",
+          "close": "12:30",
+          "note": "FeedLA distribution"
+        }
+      ]
+    },
+    {
+      "name": "Gardena-Carson Family YMCA - FeedLA Food Distribution",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "1000 W Artesia Blvd, Gardena, CA, 90247",
+      "phone": "323-244-9077",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to all",
+      "category": "senior",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "thu"
+          ],
+          "open": "10:00",
+          "close": "11:00",
+          "note": "FeedLA distribution"
+        }
+      ]
+    },
+    {
+      "name": "Montebello-Commerce YMCA - FeedLA Food Distribution",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "2000 W Beverly Blvd, Montebello, CA, 90640",
+      "phone": "323-244-9077",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to all",
+      "category": "senior",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "thu"
+          ],
+          "open": "10:00",
+          "close": "12:00",
+          "note": "FeedLA distribution"
+        }
+      ]
+    },
+    {
+      "name": "North Valley Family YMCA - FeedLA Food Distribution",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "10896 Lehigh Ave, Pacoima, CA, 91331",
+      "phone": "323-244-9077",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to all",
+      "category": "senior",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon"
+          ],
+          "open": "11:00",
+          "close": "12:00",
+          "note": "FeedLA distribution"
+        }
+      ]
+    },
+    {
+      "name": "Santa Anita Family YMCA - FeedLA Food Distribution",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "501 S Mountain Ave, Monrovia, CA, 91016",
+      "phone": "323-244-9077",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to all",
+      "category": "senior",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "thu"
+          ],
+          "open": "09:30",
+          "close": "12:00",
+          "note": "FeedLA distribution"
+        }
+      ]
+    },
+    {
+      "name": "Southeast-Rio Vista YMCA - FeedLA Food Distribution",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "8912 Madison Ave, South Gate, CA, 90280",
+      "phone": "323-244-9077",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to all",
+      "category": "senior",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "fri"
+          ],
+          "open": "09:00",
+          "close": "11:00",
+          "note": "FeedLA distribution"
+        }
+      ]
+    },
+    {
+      "name": "Westchester Family YMCA - FeedLA Food Distribution",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "8015 S Sepulveda Blvd, Los Angeles, CA, 90045",
+      "phone": "323-244-9077",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to all",
+      "category": "senior",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "thu"
+          ],
+          "open": "10:00",
+          "close": "12:00",
+          "note": "FeedLA distribution"
+        }
+      ]
+    },
+    {
+      "name": "Weingart YMCA Wellness & Aquatic Center - FeedLA Food Distribution",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "9900 S Vermont Ave, Los Angeles, CA, 90044",
+      "phone": "323-244-9077",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to all",
+      "category": "senior",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "first tuesday",
+            "third tuesday"
+          ],
+          "open": "09:00",
+          "close": "11:30",
+          "note": "FeedLA distribution"
+        }
+      ]
+    },
+    {
+      "name": "Catholic Charities - St. Robert's Community Center (Venice Saturday Food Program)",
+      "org": "Catholic Charities of Los Angeles",
+      "address": "211 3rd Avenue, Venice, CA, 90291",
+      "phone": "(213) 318-5756",
+      "website": "https://catholiccharitiesla.org/program-directory-by-city/",
+      "eligibility": "Open to anyone in need",
+      "category": "hot-meal",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "sat"
+          ],
+          "open": "08:30",
+          "close": "11:00",
+          "note": "Breakfast and sack lunches"
+        }
+      ]
+    },
+    {
+      "name": "Catholic Charities - Alhambra Community Services Center",
+      "org": "Catholic Charities of Los Angeles",
+      "address": "104 South First Street, Alhambra, CA, 91801",
+      "phone": "(323) 887-7122",
+      "website": "https://catholiccharitiesla.org/program-directory-by-city/",
+      "eligibility": "Call ahead",
+      "category": "pantry",
+      "confidence": "medium",
+      "schedules": []
+    },
+    {
+      "name": "Catholic Charities - Burbank Community Services Center",
+      "org": "Catholic Charities of Los Angeles",
+      "address": "1190 Flower Street, Burbank, CA, 91502",
+      "phone": "(818) 566-7148",
+      "website": "https://catholiccharitiesla.org/program-directory-by-city/",
+      "eligibility": "Call ahead",
+      "category": "pantry",
+      "confidence": "medium",
+      "schedules": []
+    },
+    {
+      "name": "Catholic Charities - Compton Community Services Center",
+      "org": "Catholic Charities of Los Angeles",
+      "address": "2909 E. Pacific Commerce Dr., Compton, CA, 90221",
+      "phone": "(310) 762-1101",
+      "website": "https://catholiccharitiesla.org/program-directory-by-city/",
+      "eligibility": "Call ahead",
+      "category": "pantry",
+      "confidence": "medium",
+      "schedules": []
+    },
+    {
+      "name": "Catholic Charities - Pomona Community Services Center",
+      "org": "Catholic Charities of Los Angeles",
+      "address": "1460 E. Holt Avenue, Suite 98, Pomona, CA, 91767",
+      "phone": "(909) 629-1331",
+      "website": "https://catholiccharitiesla.org/program-directory-by-city/",
+      "eligibility": "Call ahead",
+      "category": "pantry",
+      "confidence": "medium",
+      "schedules": []
+    },
+    {
+      "name": "Salvation Army - Glendale Corps Community Center Food Pantry",
+      "org": "Salvation Army",
+      "address": "320 W. Windsor Road, Glendale, CA, 91204",
+      "phone": "(818) 246-5586",
+      "website": "https://glendale-ca.salvationarmy.org/glendale-ca/cure-hunger/",
+      "eligibility": "Open to anyone in need",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open": "13:00",
+          "close": "16:00",
+          "note": "Food pantry"
+        }
+      ]
+    },
+    {
+      "name": "Salvation Army - Inglewood Citadel Corps Community Center Food Pantry",
+      "org": "Salvation Army",
+      "address": "324 E. Queen Street, Inglewood, CA, 90301",
+      "phone": "(310) 677-3375",
+      "website": "https://inglewood.salvationarmy.org/inglewood_corps/",
+      "eligibility": "Open to anyone in need",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open": "13:00",
+          "close": "15:00",
+          "note": "Food pantry"
+        }
+      ]
+    },
+    {
+      "name": "YMCA FeedLA - Anderson Munger Family YMCA",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "4301 W 3rd Street, Los Angeles, CA, 90020",
+      "phone": "(213) 427-6700",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to anyone in need; no membership required",
+      "category": "mobile",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "second tuesday",
+            "fourth tuesday"
+          ],
+          "open": "09:00",
+          "close": "12:00",
+          "note": "FeedLA distribution"
+        }
+      ]
+    },
+    {
+      "name": "YMCA FeedLA - Antelope Valley Family YMCA",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "43001 10th Street West, Lancaster, CA, 93534",
+      "phone": "(661) 723-9622",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to anyone in need; no membership required",
+      "category": "mobile",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "first monday",
+            "third monday"
+          ],
+          "open": "15:00",
+          "close": "19:00",
+          "note": "FeedLA distribution; days vary, call ahead"
+        }
+      ]
+    },
+    {
+      "name": "YMCA FeedLA - Burbank YMCA",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "321 E Magnolia Boulevard, Burbank, CA, 91502",
+      "phone": "(818) 845-8551",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to anyone in need; no membership required",
+      "category": "mobile",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "first thursday",
+            "third thursday"
+          ],
+          "open": "10:30",
+          "close": "12:30",
+          "note": "FeedLA distribution; days vary, call ahead"
+        }
+      ]
+    },
+    {
+      "name": "YMCA FeedLA - Collins & Katz Family YMCA",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "1466 S Westgate Avenue, Los Angeles, CA, 90025",
+      "phone": "(310) 477-1511",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to anyone in need; no membership required",
+      "category": "mobile",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "thu"
+          ],
+          "open": "10:30",
+          "close": "12:00",
+          "note": "FeedLA distribution"
+        }
+      ]
+    },
+    {
+      "name": "YMCA FeedLA - Crenshaw Family YMCA",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "3820 Santa Rosalia Drive, Los Angeles, CA, 90008",
+      "phone": "(323) 292-9558",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to anyone in need; no membership required",
+      "category": "mobile",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "tue"
+          ],
+          "open": "11:00",
+          "close": "15:00",
+          "note": "FeedLA distribution"
+        }
+      ]
+    },
+    {
+      "name": "YMCA FeedLA - Crowell Family YMCA",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "1605 Garfield Avenue, South Pasadena, CA, 91030",
+      "phone": "(626) 799-9119",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to anyone in need; no membership required",
+      "category": "mobile",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "thu"
+          ],
+          "open": "10:00",
+          "close": "12:00",
+          "note": "FeedLA distribution"
+        }
+      ]
+    },
+    {
+      "name": "YMCA FeedLA - Culver-Palms Family YMCA",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "4500 Sepulveda Boulevard, Culver City, CA, 90230",
+      "phone": "(310) 390-3604",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to anyone in need; no membership required",
+      "category": "mobile",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "thu"
+          ],
+          "open": "10:30",
+          "close": "13:30",
+          "note": "FeedLA distribution"
+        }
+      ]
+    },
+    {
+      "name": "YMCA FeedLA - East Valley Family YMCA",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "5142 Tujunga Avenue, North Hollywood, CA, 91601",
+      "phone": "(818) 763-5126",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to anyone in need; no membership required",
+      "category": "mobile",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "thu"
+          ],
+          "open": "10:00",
+          "close": "12:30",
+          "note": "FeedLA distribution"
+        }
+      ]
+    },
+    {
+      "name": "YMCA FeedLA - Gardena-Carson Family YMCA",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "1000 W Artesia Boulevard, Gardena, CA, 90247",
+      "phone": "(310) 324-9622",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to anyone in need; no membership required",
+      "category": "mobile",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "thu"
+          ],
+          "open": "10:00",
+          "close": "11:00",
+          "note": "FeedLA distribution"
+        }
+      ]
+    },
+    {
+      "name": "YMCA FeedLA - Hollywood YMCA",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "1553 N Schrader Boulevard, Los Angeles, CA, 90028",
+      "phone": "(323) 467-4161",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to anyone in need; no membership required",
+      "category": "mobile",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "fourth thursday"
+          ],
+          "open": "12:00",
+          "close": "14:00",
+          "note": "FeedLA distribution; starts 12:00 until supplies last"
+        }
+      ]
+    },
+    {
+      "name": "YMCA FeedLA - Montebello-Commerce YMCA",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "2000 W Beverly Boulevard, Montebello, CA, 90640",
+      "phone": "(323) 887-9622",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to anyone in need; no membership required",
+      "category": "mobile",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "thu"
+          ],
+          "open": "10:00",
+          "close": "12:00",
+          "note": "FeedLA distribution"
+        }
+      ]
+    },
+    {
+      "name": "YMCA FeedLA - North Valley Family YMCA (San Fernando Gardens)",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "10896 Lehigh Avenue, Pacoima, CA, 91331",
+      "phone": "(818) 893-6478",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to anyone in need; no membership required",
+      "category": "mobile",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon"
+          ],
+          "open": "11:00",
+          "close": "12:00",
+          "note": "FeedLA distribution"
+        }
+      ]
+    },
+    {
+      "name": "YMCA FeedLA - Pasadena-Sierra Madre YMCA",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "611 E Sierra Madre Boulevard, Sierra Madre, CA, 91024",
+      "phone": "(626) 355-8114",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to anyone in need; no membership required",
+      "category": "mobile",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "thu"
+          ],
+          "open": "10:00",
+          "close": "12:00",
+          "note": "FeedLA distribution"
+        }
+      ]
+    },
+    {
+      "name": "YMCA FeedLA - Santa Anita Family YMCA (Monrovia)",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "501 S Mountain Avenue, Monrovia, CA, 91016",
+      "phone": "(626) 359-9244",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to anyone in need; no membership required",
+      "category": "mobile",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "thu"
+          ],
+          "open": "09:30",
+          "close": "12:00",
+          "note": "FeedLA distribution"
+        }
+      ]
+    },
+    {
+      "name": "YMCA FeedLA - Santa Anita Family YMCA (El Monte)",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "3900 Gilman Road, El Monte, CA, 91732",
+      "phone": "(626) 359-9244",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to anyone in need; no membership required",
+      "category": "mobile",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "tue"
+          ],
+          "open": "16:00",
+          "close": "19:00",
+          "note": "FeedLA distribution"
+        }
+      ]
+    },
+    {
+      "name": "YMCA FeedLA - Santa Anita Family YMCA (Azusa)",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "340 N Orange Place, Azusa, CA, 91702",
+      "phone": "(626) 359-9244",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to anyone in need; no membership required",
+      "category": "mobile",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "second wednesday",
+            "fourth wednesday"
+          ],
+          "open": "09:30",
+          "close": "12:00",
+          "note": "FeedLA distribution; days vary, call ahead"
+        }
+      ]
+    },
+    {
+      "name": "YMCA FeedLA - Southeast-Rio Vista YMCA",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "8912 Madison Avenue, South Gate, CA, 90280",
+      "phone": "(323) 564-4863",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to anyone in need; no membership required",
+      "category": "mobile",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "fri"
+          ],
+          "open": "09:00",
+          "close": "11:00",
+          "note": "FeedLA distribution; starts 09:00 until supplies last"
+        }
+      ]
+    },
+    {
+      "name": "YMCA FeedLA - Weingart YMCA Wellness & Aquatic Center",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "9900 S Vermont Avenue, Los Angeles, CA, 90044",
+      "phone": "(323) 777-9622",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to anyone in need; no membership required",
+      "category": "mobile",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "first tuesday",
+            "third tuesday"
+          ],
+          "open": "09:00",
+          "close": "11:30",
+          "note": "FeedLA distribution; days vary, call ahead"
+        }
+      ]
+    },
+    {
+      "name": "YMCA FeedLA - Westchester Family YMCA",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "8015 S Sepulveda Boulevard, Los Angeles, CA, 90045",
+      "phone": "(310) 670-4316",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to anyone in need; no membership required",
+      "category": "mobile",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "thu"
+          ],
+          "open": "10:00",
+          "close": "12:00",
+          "note": "FeedLA distribution"
+        }
+      ]
+    },
+    {
+      "name": "YMCA FeedLA - Wilmington YMCA",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "1127 N Avalon Boulevard, Wilmington, CA, 90744",
+      "phone": "(310) 549-9622",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to anyone in need; no membership required",
+      "category": "mobile",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "second tuesday",
+            "fourth tuesday"
+          ],
+          "open": "10:00",
+          "close": "12:00",
+          "note": "FeedLA distribution; days vary, call ahead"
+        }
+      ]
+    },
+    {
+      "name": "SOVA West Hollywood Food Pantry (JFS/SOVA)",
+      "org": "Jewish Family Service LA / SOVA",
+      "address": "7377 Santa Monica Boulevard, West Hollywood, CA, 90046",
+      "phone": "(323) 851-8202",
+      "website": "https://www.jfsla.org/program/sova/",
+      "eligibility": "Open to anyone in need; nonsectarian",
+      "category": "pantry",
+      "confidence": "medium",
+      "schedules": []
+    },
+    {
+      "name": "St. Vincent de Paul - Incarnation Catholic Church Conference",
+      "org": "St. Vincent de Paul (SVdP) Los Angeles Council",
+      "address": "1001 N Brand Boulevard, Glendale, CA, 91202",
+      "phone": "(818) 242-2579",
+      "website": "https://incaglendale.org/st-vincent-de-paul",
+      "eligibility": "Call ahead for assistance",
+      "category": "church",
+      "confidence": "medium",
+      "schedules": []
+    },
+    {
+      "name": "St. Vincent de Paul - Torrance Conference Food Pantry",
+      "org": "St. Vincent de Paul (SVdP) Los Angeles Council",
+      "address": "1551 El Prado Avenue, Torrance, CA, 90501",
+      "phone": "(310) 328-3242",
+      "website": "https://svdpla.org/",
+      "eligibility": "Call ahead",
+      "category": "church",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "fourth saturday"
+          ],
+          "open": "11:00",
+          "close": "12:00",
+          "note": "Food pantry"
+        }
+      ]
+    },
+    {
+      "name": "Volunteers of America Los Angeles - Western Avenue Grocery Assistance",
+      "org": "Volunteers of America Los Angeles",
+      "address": "1075 N. Western Avenue, Los Angeles, CA, 90029",
+      "phone": "(323) 364-8663",
+      "website": "https://www.voala.org/",
+      "eligibility": "For those ineligible for CalFresh/other benefits; grocery gift-card assistance",
+      "category": "pantry",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open": "08:30",
+          "close": "16:00",
+          "note": "Grocery gift-card assistance"
+        }
+      ]
+    }
+  ]
+}

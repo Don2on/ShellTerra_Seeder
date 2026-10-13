@@ -1,0 +1,252 @@
+{
+  "_meta": {
+    "topic": "Net-new Nevada County food distributions",
+    "generated": "2026-10-05",
+    "source": "Research supplementing shell PENDING-Nevada; raw ./NevadaAdditions-raw.json."
+  },
+  "_deferred": {
+    "add-gold-country-senior-services-lunch-cafe": {
+      "title": "Gold Country Senior Services (lunch cafe)",
+      "status": "Lunch Mon, Tue, Thu 12pm Phone: (530) 273-4961.",
+      "address": "231 Colfax Ave, Grass Valley, CA 95945",
+      "lat": 39.215726,
+      "lng": -121.058164,
+      "phone": "(530) 273-4961",
+      "eligibility": "",
+      "sourceUrl": "https://www.foodbankofnevadacounty.org/"
+    },
+    "add-sierra-roots-first-community-church": {
+      "title": "Sierra Roots (First Community Church)",
+      "status": "Lunch Thu 11:30am (winter only) Phone: (530) 751-3263.",
+      "address": "300 Main St, Nevada City, CA 95959",
+      "lat": 39.264034,
+      "lng": -121.01757,
+      "phone": "(530) 751-3263",
+      "eligibility": "winter only",
+      "sourceUrl": "https://www.foodbankofnevadacounty.org/"
+    },
+    "add-washington-fire-department-food-bank-of-nevada-c": {
+      "title": "Washington Fire Department (Food Bank of Nevada County distribution)",
+      "status": "3rd Wed 12pm Phone: (530) 272-3796.",
+      "address": "15406 Washington Rd, Washington, CA 95986",
+      "lat": 39.35867,
+      "lng": -120.80003,
+      "phone": "(530) 272-3796",
+      "eligibility": "",
+      "sourceUrl": "https://www.foodbankofnevadacounty.org/"
+    }
+  },
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "add-grass-valley-seventh-day-adventist-church-food-b-m2444-1000",
+      "seriesSlug": "add-grass-valley-seventh-day-adventist-church-food-b",
+      "title": "Grass Valley Seventh-day Adventist Church (Food Bank of Nevada County distribution) — Free Food",
+      "description": "Free food at Grass Valley Seventh-day Adventist Church (Food Bank of Nevada County distribution). Schedule: 2nd Thu & 4th Thu 10 AM–1 PM. Call (530) 272-3796 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Grass Valley Seventh-day Adventist Church (Food Bank of Nevada County distribution)",
+      "address": "12889 Osborne Hill Rd, Grass Valley, CA 95945",
+      "lat": 39.19982,
+      "lng": -121.037665,
+      "category": "food-assistance",
+      "sourceOrg": "Grass Valley Seventh-day Adventist Church (Food Bank of Nevada County distribution)",
+      "url": "https://www.foodbankofnevadacounty.org/",
+      "schedulePattern": "2nd Thu & 4th Thu 10 AM–1 PM",
+      "start": "2026-10-08T10:00",
+      "end": "2026-10-08T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "2:4,4:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-interfaith-food-ministry-w1356-1000",
+      "seriesSlug": "add-interfaith-food-ministry",
+      "title": "Interfaith Food Ministry — Free Food",
+      "description": "Free food at Interfaith Food Ministry. Schedule: Mon, Wed, Fri–Sat 10 AM–1 PM. Call (530) 273-8132 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Interfaith Food Ministry",
+      "address": "440 Henderson St, Grass Valley, CA 95945",
+      "lat": 39.214289,
+      "lng": -121.057616,
+      "category": "food-assistance",
+      "sourceOrg": "Interfaith Food Ministry",
+      "url": "https://www.foodbankofnevadacounty.org/",
+      "schedulePattern": "Mon, Wed, Fri–Sat 10 AM–1 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3,5,6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sierra-united-methodist-church-higgins-corner-fo-m34-1530",
+      "seriesSlug": "add-sierra-united-methodist-church-higgins-corner-fo",
+      "title": "Sierra United Methodist Church Higgins Corner (Food Bank of Nevada County distribution) — Free Food",
+      "description": "Free food at Sierra United Methodist Church Higgins Corner (Food Bank of Nevada County distribution). Schedule: 3rd Thu 3:30 PM–5:30 PM. Call (530) 272-3796 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Sierra United Methodist Church Higgins Corner (Food Bank of Nevada County distribution)",
+      "address": "22559 W. Hacienda Dr, Grass Valley, CA 95949",
+      "lat": 39.141385,
+      "lng": -121.069526,
+      "category": "food-assistance",
+      "sourceOrg": "Sierra United Methodist Church Higgins Corner (Food Bank of Nevada County distribution)",
+      "url": "https://www.foodbankofnevadacounty.org/",
+      "schedulePattern": "3rd Thu 3:30 PM–5:30 PM",
+      "start": "2026-10-08T15:30",
+      "end": "2026-10-08T17:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-salvation-army-emergency-pantry-w1234-1000",
+      "seriesSlug": "add-the-salvation-army-emergency-pantry",
+      "title": "The Salvation Army (emergency pantry) — Free Food",
+      "description": "Free food at The Salvation Army (emergency pantry). Schedule: Mon–Thu 10 AM–3 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Salvation Army (emergency pantry)",
+      "address": "10725 Alta St, Grass Valley, CA 95945",
+      "lat": 39.229269,
+      "lng": -121.071043,
+      "category": "food-assistance",
+      "sourceOrg": "The Salvation Army (emergency pantry)",
+      "url": "https://www.foodbankofnevadacounty.org/",
+      "schedulePattern": "Mon–Thu 10 AM–3 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-oak-tree-school-food-bank-of-nevada-county-distr-m22-1000",
+      "seriesSlug": "add-oak-tree-school-food-bank-of-nevada-county-distr",
+      "title": "Oak Tree School (Food Bank of Nevada County distribution) — Free Food",
+      "description": "Free food at Oak Tree School (Food Bank of Nevada County distribution). Schedule: 2nd Tue 10 AM–12 PM. Call (530) 272-3796 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Oak Tree School (Food Bank of Nevada County distribution)",
+      "address": "18847 Oak Tree Rd, North San Juan, CA 95960",
+      "lat": 39.36452,
+      "lng": -121.085093,
+      "category": "food-assistance",
+      "sourceOrg": "Oak Tree School (Food Bank of Nevada County distribution)",
+      "url": "https://www.foodbankofnevadacounty.org/",
+      "schedulePattern": "2nd Tue 10 AM–12 PM",
+      "start": "2026-10-06T10:00",
+      "end": "2026-10-06T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "2:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-san-juan-ridge-partners-family-resource-center-e-w24-1200",
+      "seriesSlug": "add-san-juan-ridge-partners-family-resource-center-e",
+      "title": "San Juan Ridge PARTNERS Family Resource Center (emergency pantry) — Free Food",
+      "description": "Free food at San Juan Ridge PARTNERS Family Resource Center (emergency pantry). Schedule: Tue, Thu 12 PM–3 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "San Juan Ridge PARTNERS Family Resource Center (emergency pantry)",
+      "address": "18847 Oak Tree Rd, North San Juan, CA 95960",
+      "lat": 39.36452,
+      "lng": -121.085093,
+      "category": "food-assistance",
+      "sourceOrg": "San Juan Ridge PARTNERS Family Resource Center (emergency pantry)",
+      "url": "https://www.foodbankofnevadacounty.org/",
+      "schedulePattern": "Tue, Thu 12 PM–3 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sierra-community-house-truckee-w2-1300",
+      "seriesSlug": "add-sierra-community-house-truckee",
+      "title": "Sierra Community House - Truckee — Free Food",
+      "description": "Free food at Sierra Community House - Truckee. Schedule: Tue 1 PM–5:30 PM; Wed 3 PM–4:30 PM; Thu 2 PM–3:30 PM. Call (530) 546-0952 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Sierra Community House - Truckee",
+      "address": "12116 Chandelle Way Suite D2, Truckee, CA 96161",
+      "lat": 39.320447,
+      "lng": -120.151107,
+      "category": "food-assistance",
+      "sourceOrg": "Sierra Community House - Truckee",
+      "url": "https://www.foodbankofnevadacounty.org/",
+      "schedulePattern": "Tue 1 PM–5:30 PM; Wed 3 PM–4:30 PM; Thu 2 PM–3:30 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T17:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sierra-community-house-truckee-w3-1500",
+      "seriesSlug": "add-sierra-community-house-truckee",
+      "title": "Sierra Community House - Truckee — Free Food",
+      "description": "Free food at Sierra Community House - Truckee. Schedule: Tue 1 PM–5:30 PM; Wed 3 PM–4:30 PM; Thu 2 PM–3:30 PM. Call (530) 546-0952 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Sierra Community House - Truckee",
+      "address": "12116 Chandelle Way Suite D2, Truckee, CA 96161",
+      "lat": 39.320447,
+      "lng": -120.151107,
+      "category": "food-assistance",
+      "sourceOrg": "Sierra Community House - Truckee",
+      "url": "https://www.foodbankofnevadacounty.org/",
+      "schedulePattern": "Tue 1 PM–5:30 PM; Wed 3 PM–4:30 PM; Thu 2 PM–3:30 PM",
+      "start": "2026-09-28T15:00",
+      "end": "2026-09-28T16:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sierra-community-house-truckee-w4-1400",
+      "seriesSlug": "add-sierra-community-house-truckee",
+      "title": "Sierra Community House - Truckee — Free Food",
+      "description": "Free food at Sierra Community House - Truckee. Schedule: Tue 1 PM–5:30 PM; Wed 3 PM–4:30 PM; Thu 2 PM–3:30 PM. Call (530) 546-0952 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Sierra Community House - Truckee",
+      "address": "12116 Chandelle Way Suite D2, Truckee, CA 96161",
+      "lat": 39.320447,
+      "lng": -120.151107,
+      "category": "food-assistance",
+      "sourceOrg": "Sierra Community House - Truckee",
+      "url": "https://www.foodbankofnevadacounty.org/",
+      "schedulePattern": "Tue 1 PM–5:30 PM; Wed 3 PM–4:30 PM; Thu 2 PM–3:30 PM",
+      "start": "2026-09-28T14:00",
+      "end": "2026-09-28T15:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "_meta": {
+    "topic": "Net-new Modoc County food distributions",
+    "generated": "2026-10-05",
+    "source": "Research supplementing shell PENDING-Modoc; raw ./ModocAdditions-raw.json."
+  },
+  "_deferred": {},
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "add-modoc-senior-center-t-e-a-c-h-inc-w24-0915",
+      "seriesSlug": "add-modoc-senior-center-t-e-a-c-h-inc",
+      "title": "Modoc Senior Center (T.E.A.C.H., Inc.) — Free Food",
+      "description": "Free food at Modoc Senior Center (T.E.A.C.H., Inc.). Schedule: Tue, Thu 9:15 AM–2:15 PM. Call (530) 233-5556 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Modoc Senior Center (T.E.A.C.H., Inc.)",
+      "address": "906 W. 4th St, Alturas, CA 96101",
+      "lat": 41.487488,
+      "lng": -120.556242,
+      "category": "food-assistance",
+      "sourceOrg": "Modoc Senior Center (T.E.A.C.H., Inc.)",
+      "url": "https://www.teachinc.org",
+      "schedulePattern": "Tue, Thu 9:15 AM–2:15 PM",
+      "start": "2026-09-28T09:15",
+      "end": "2026-09-28T14:15",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-t-e-a-c-h-inc-emergency-food-bank-w12345-0800",
+      "seriesSlug": "add-t-e-a-c-h-inc-emergency-food-bank",
+      "title": "T.E.A.C.H., Inc. Emergency Food Bank — Free Food",
+      "description": "Free food at T.E.A.C.H., Inc. Emergency Food Bank. Schedule: Mon–Fri 8 AM–12 PM; Mon–Fri 1 PM–5 PM. Call (530) 233-3111 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "T.E.A.C.H., Inc. Emergency Food Bank",
+      "address": "112 E. 2nd St, Alturas, CA 96101",
+      "lat": 41.485179,
+      "lng": -120.541708,
+      "category": "food-assistance",
+      "sourceOrg": "T.E.A.C.H., Inc. Emergency Food Bank",
+      "url": "https://www.teachinc.org",
+      "schedulePattern": "Mon–Fri 8 AM–12 PM; Mon–Fri 1 PM–5 PM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-t-e-a-c-h-inc-emergency-food-bank-w12345-1300",
+      "seriesSlug": "add-t-e-a-c-h-inc-emergency-food-bank",
+      "title": "T.E.A.C.H., Inc. Emergency Food Bank — Free Food",
+      "description": "Free food at T.E.A.C.H., Inc. Emergency Food Bank. Schedule: Mon–Fri 8 AM–12 PM; Mon–Fri 1 PM–5 PM. Call (530) 233-3111 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "T.E.A.C.H., Inc. Emergency Food Bank",
+      "address": "112 E. 2nd St, Alturas, CA 96101",
+      "lat": 41.485179,
+      "lng": -120.541708,
+      "category": "food-assistance",
+      "sourceOrg": "T.E.A.C.H., Inc. Emergency Food Bank",
+      "url": "https://www.teachinc.org",
+      "schedulePattern": "Mon–Fri 8 AM–12 PM; Mon–Fri 1 PM–5 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    }
+  ]
+}

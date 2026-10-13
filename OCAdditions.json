@@ -1,0 +1,399 @@
+{
+  "_meta": {
+    "topic": "Net-new Orange County food distributions",
+    "generated": "2026-09-28",
+    "source": "Research supplementing shell 6aac35296621e11030a0; raw ./additions-oc-raw.json."
+  },
+  "_deferred": {
+    "add-santa-ana-college-fainbarg-chase-thrive-center": {
+      "title": "Santa Ana College - Fainbarg Chase Thrive Center",
+      "status": "Primary source (SAC SCE food-support page) confirms the Fainbarg Chase Thrive Center food pantry at Village-206, 2900 W Edinger Ave, Santa Ana CA 92704, phone (714) 564-6458, and that it is active for 2025-2026 (Spring 2026 programs listed). Specific food-pantry shopping hours are NOT reliably published: the Thrive Center office hours are Mon-Thu 8:00-17:00 / Fri 8:00-12:00, but these differ from pantry shopping hours (various unconfirmed snippets gave Mon-Thu 10:00-12:00 & 13:00-18:00, Fri 10:00-12:00). Pantry serves current SAC/SCE students only. Contact (714) 564-6458 / thrivecenter@sac.edu to confirm pantry hours. Note the main SAC campus is 1530 W 17th St 92706, but the SCE/Thrive food-support page lists the pantry at 2900 W Edinger Ave. Phone: (714) 564-6458.",
+      "address": "2900 W Edinger Ave, Santa Ana, CA 92704",
+      "lat": 33.726301,
+      "lng": -117.909331,
+      "phone": "(714) 564-6458",
+      "eligibility": "Santa Ana College students",
+      "sourceUrl": "https://sac.edu/studentservices/thrivecenter/index.php"
+    }
+  },
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "add-sikh-center-of-orange-county-food-pantry-w6-0900",
+      "seriesSlug": "add-sikh-center-of-orange-county-food-pantry",
+      "title": "Sikh Center of Orange County Food Pantry — Free Food",
+      "description": "Free food at Sikh Center of Orange County Food Pantry (Sikh Center of Orange County (Gurdwara)). Schedule: Sat 9 AM–12 PM (Food pantry; gurdwara also serves daily langar free community meals). Eligibility: Open to all, no questions asked. Call (714) 756-8233 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Sikh Center of Orange County Food Pantry",
+      "address": "2514 W Warner Ave, Santa Ana, CA 92704",
+      "lat": 33.71478,
+      "lng": -117.903479,
+      "category": "food-assistance",
+      "sourceOrg": "Sikh Center of Orange County (Gurdwara)",
+      "url": "https://sikhcenteroc.org/",
+      "schedulePattern": "Sat 9 AM–12 PM (Food pantry; gurdwara also serves daily langar free community meals)",
+      "start": "2026-09-21T09:00",
+      "end": "2026-09-21T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-orangethorpe-christian-church-hot-meal-program-w1-1800",
+      "seriesSlug": "add-orangethorpe-christian-church-hot-meal-program",
+      "title": "Orangethorpe Christian Church - Hot Meal Program — Free Food",
+      "description": "Free food at Orangethorpe Christian Church - Hot Meal Program (Orangethorpe Christian Church (5-church collaborative)). Schedule: Mon 6 PM–7 PM (Free hot dinner). Eligibility: Anyone in need; no paperwork, no questions asked. Call (714) 871-3400 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Orangethorpe Christian Church - Hot Meal Program",
+      "address": "2200 W Orangethorpe Ave, Fullerton, CA 92833",
+      "lat": 33.858684,
+      "lng": -117.966874,
+      "category": "food-assistance",
+      "sourceOrg": "Orangethorpe Christian Church (5-church collaborative)",
+      "url": "",
+      "schedulePattern": "Mon 6 PM–7 PM (Free hot dinner)",
+      "start": "2026-09-21T18:00",
+      "end": "2026-09-21T19:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-first-christian-church-fullerton-hot-meals-minis-w3-1800",
+      "seriesSlug": "add-first-christian-church-fullerton-hot-meals-minis",
+      "title": "First Christian Church Fullerton - Hot Meals Ministry — Free Food",
+      "description": "Free food at First Christian Church Fullerton - Hot Meals Ministry (First Christian Church Fullerton). Schedule: Wed 6 PM–7 PM (Hot meal plus clothing and career counseling; ~100 served weekly). Eligibility: Homeless and anyone in need; free. Call (714) 525-5525 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "First Christian Church Fullerton - Hot Meals Ministry",
+      "address": "109 E Wilshire Ave, Fullerton, CA 92832",
+      "lat": 33.872555,
+      "lng": -117.923937,
+      "category": "food-assistance",
+      "sourceOrg": "First Christian Church Fullerton",
+      "url": "https://www.fullertonfirstchristian.org/",
+      "schedulePattern": "Wed 6 PM–7 PM (Hot meal plus clothing and career counseling; ~100 served weekly)",
+      "start": "2026-09-21T18:00",
+      "end": "2026-09-21T19:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-uci-food-pantry-fresh-basic-needs-center-w23-1000",
+      "seriesSlug": "add-uci-food-pantry-fresh-basic-needs-center",
+      "title": "UCI Food Pantry (FRESH Basic Needs Center) — Free Food",
+      "description": "Free food at UCI Food Pantry (FRESH Basic Needs Center) (University of California, Irvine - Basic Needs Center). Schedule: Tue–Wed 10 AM–3 PM (Fall 2025 hours; closed other days). Eligibility: UCI students (present Student ID or ID number). Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "UCI Food Pantry (FRESH Basic Needs Center)",
+      "address": "G302 Student Center, Irvine, CA 92697",
+      "lat": 33.64243,
+      "lng": -117.841933,
+      "category": "food-assistance",
+      "sourceOrg": "University of California, Irvine - Basic Needs Center",
+      "url": "https://basicneeds.uci.edu/food-pantry.php",
+      "schedulePattern": "Tue–Wed 10 AM–3 PM (Fall 2025 hours; closed other days)",
+      "start": "2026-09-21T10:00",
+      "end": "2026-09-21T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-csuf-asi-food-pantry-w1-1300",
+      "seriesSlug": "add-csuf-asi-food-pantry",
+      "title": "CSUF ASI Food Pantry — Free Food",
+      "description": "Free food at CSUF ASI Food Pantry (Associated Students, Cal State Fullerton). Schedule: Mon 1 PM–7 PM; Tue–Thu 10 AM–7 PM; Fri 10 AM–5 PM (Walk-ins accepted Fridays); Sat 12:15 PM–3 PM. Eligibility: Any enrolled CSUF student, regardless of financial status. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "CSUF ASI Food Pantry",
+      "address": "Titan Student Union TSU-129, 800 N State College Blvd, Fullerton, CA 92831",
+      "lat": 33.878974,
+      "lng": -117.883381,
+      "category": "food-assistance",
+      "sourceOrg": "Associated Students, Cal State Fullerton",
+      "url": "https://asi.fullerton.edu/services/",
+      "schedulePattern": "Mon 1 PM–7 PM; Tue–Thu 10 AM–7 PM; Fri 10 AM–5 PM (Walk-ins accepted Fridays); Sat 12:15 PM–3 PM",
+      "start": "2026-09-21T13:00",
+      "end": "2026-09-21T19:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-csuf-asi-food-pantry-w234-1000",
+      "seriesSlug": "add-csuf-asi-food-pantry",
+      "title": "CSUF ASI Food Pantry — Free Food",
+      "description": "Free food at CSUF ASI Food Pantry (Associated Students, Cal State Fullerton). Schedule: Mon 1 PM–7 PM; Tue–Thu 10 AM–7 PM; Fri 10 AM–5 PM (Walk-ins accepted Fridays); Sat 12:15 PM–3 PM. Eligibility: Any enrolled CSUF student, regardless of financial status. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "CSUF ASI Food Pantry",
+      "address": "Titan Student Union TSU-129, 800 N State College Blvd, Fullerton, CA 92831",
+      "lat": 33.878974,
+      "lng": -117.883381,
+      "category": "food-assistance",
+      "sourceOrg": "Associated Students, Cal State Fullerton",
+      "url": "https://asi.fullerton.edu/services/",
+      "schedulePattern": "Mon 1 PM–7 PM; Tue–Thu 10 AM–7 PM; Fri 10 AM–5 PM (Walk-ins accepted Fridays); Sat 12:15 PM–3 PM",
+      "start": "2026-09-21T10:00",
+      "end": "2026-09-21T19:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-csuf-asi-food-pantry-w5-1000",
+      "seriesSlug": "add-csuf-asi-food-pantry",
+      "title": "CSUF ASI Food Pantry — Free Food",
+      "description": "Free food at CSUF ASI Food Pantry (Associated Students, Cal State Fullerton). Schedule: Mon 1 PM–7 PM; Tue–Thu 10 AM–7 PM; Fri 10 AM–5 PM (Walk-ins accepted Fridays); Sat 12:15 PM–3 PM. Eligibility: Any enrolled CSUF student, regardless of financial status. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "CSUF ASI Food Pantry",
+      "address": "Titan Student Union TSU-129, 800 N State College Blvd, Fullerton, CA 92831",
+      "lat": 33.878974,
+      "lng": -117.883381,
+      "category": "food-assistance",
+      "sourceOrg": "Associated Students, Cal State Fullerton",
+      "url": "https://asi.fullerton.edu/services/",
+      "schedulePattern": "Mon 1 PM–7 PM; Tue–Thu 10 AM–7 PM; Fri 10 AM–5 PM (Walk-ins accepted Fridays); Sat 12:15 PM–3 PM",
+      "start": "2026-09-21T10:00",
+      "end": "2026-09-21T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-csuf-asi-food-pantry-w6-1215",
+      "seriesSlug": "add-csuf-asi-food-pantry",
+      "title": "CSUF ASI Food Pantry — Free Food",
+      "description": "Free food at CSUF ASI Food Pantry (Associated Students, Cal State Fullerton). Schedule: Mon 1 PM–7 PM; Tue–Thu 10 AM–7 PM; Fri 10 AM–5 PM (Walk-ins accepted Fridays); Sat 12:15 PM–3 PM. Eligibility: Any enrolled CSUF student, regardless of financial status. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "CSUF ASI Food Pantry",
+      "address": "Titan Student Union TSU-129, 800 N State College Blvd, Fullerton, CA 92831",
+      "lat": 33.878974,
+      "lng": -117.883381,
+      "category": "food-assistance",
+      "sourceOrg": "Associated Students, Cal State Fullerton",
+      "url": "https://asi.fullerton.edu/services/",
+      "schedulePattern": "Mon 1 PM–7 PM; Tue–Thu 10 AM–7 PM; Fri 10 AM–5 PM (Walk-ins accepted Fridays); Sat 12:15 PM–3 PM",
+      "start": "2026-09-21T12:15",
+      "end": "2026-09-21T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-chapman-university-panther-pantry-w12345-1000",
+      "seriesSlug": "add-chapman-university-panther-pantry",
+      "title": "Chapman University - Panther Pantry — Free Food",
+      "description": "Free food at Chapman University - Panther Pantry (Chapman University). Schedule: Mon–Fri 10 AM–6 PM (Fall/Spring hours). Eligibility: Chapman students. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Chapman University - Panther Pantry",
+      "address": "Morlan Hall 172, 318 N Glassell St, Orange, CA 92866",
+      "lat": 33.791852,
+      "lng": -117.85311,
+      "category": "food-assistance",
+      "sourceOrg": "Chapman University",
+      "url": "https://www.chapman.edu/students/services/food-pantry/index.aspx",
+      "schedulePattern": "Mon–Fri 10 AM–6 PM (Fall/Spring hours)",
+      "start": "2026-09-21T10:00",
+      "end": "2026-09-21T18:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-golden-west-college-the-stand-w145-0800",
+      "seriesSlug": "add-golden-west-college-the-stand",
+      "title": "Golden West College - The Stand — Free Food",
+      "description": "Free food at Golden West College - The Stand (Golden West College (CCCD) - Basic Needs). Schedule: Mon, Thu–Fri 8 AM–5 PM; Tue–Wed 8 AM–10 AM (Closed ~10:00-13:00 for restocking); Tue–Wed 1 PM–5 PM. Eligibility: Golden West College students. Call (714) 892-7711 ext. 58160 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Golden West College - The Stand",
+      "address": "Recreation Building Room 100, 15744 Goldenwest St, Huntington Beach, CA 92647",
+      "lat": 33.73567,
+      "lng": -118.00107,
+      "category": "food-assistance",
+      "sourceOrg": "Golden West College (CCCD) - Basic Needs",
+      "url": "https://www.goldenwestcollege.edu/student-equity/the-stand/index.html",
+      "schedulePattern": "Mon, Thu–Fri 8 AM–5 PM; Tue–Wed 8 AM–10 AM (Closed ~10:00-13:00 for restocking); Tue–Wed 1 PM–5 PM",
+      "start": "2026-09-21T08:00",
+      "end": "2026-09-21T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-golden-west-college-the-stand-w23-0800",
+      "seriesSlug": "add-golden-west-college-the-stand",
+      "title": "Golden West College - The Stand — Free Food",
+      "description": "Free food at Golden West College - The Stand (Golden West College (CCCD) - Basic Needs). Schedule: Mon, Thu–Fri 8 AM–5 PM; Tue–Wed 8 AM–10 AM (Closed ~10:00-13:00 for restocking); Tue–Wed 1 PM–5 PM. Eligibility: Golden West College students. Call (714) 892-7711 ext. 58160 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Golden West College - The Stand",
+      "address": "Recreation Building Room 100, 15744 Goldenwest St, Huntington Beach, CA 92647",
+      "lat": 33.73567,
+      "lng": -118.00107,
+      "category": "food-assistance",
+      "sourceOrg": "Golden West College (CCCD) - Basic Needs",
+      "url": "https://www.goldenwestcollege.edu/student-equity/the-stand/index.html",
+      "schedulePattern": "Mon, Thu–Fri 8 AM–5 PM; Tue–Wed 8 AM–10 AM (Closed ~10:00-13:00 for restocking); Tue–Wed 1 PM–5 PM",
+      "start": "2026-09-21T08:00",
+      "end": "2026-09-21T10:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-golden-west-college-the-stand-w23-1300",
+      "seriesSlug": "add-golden-west-college-the-stand",
+      "title": "Golden West College - The Stand — Free Food",
+      "description": "Free food at Golden West College - The Stand (Golden West College (CCCD) - Basic Needs). Schedule: Mon, Thu–Fri 8 AM–5 PM; Tue–Wed 8 AM–10 AM (Closed ~10:00-13:00 for restocking); Tue–Wed 1 PM–5 PM. Eligibility: Golden West College students. Call (714) 892-7711 ext. 58160 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Golden West College - The Stand",
+      "address": "Recreation Building Room 100, 15744 Goldenwest St, Huntington Beach, CA 92647",
+      "lat": 33.73567,
+      "lng": -118.00107,
+      "category": "food-assistance",
+      "sourceOrg": "Golden West College (CCCD) - Basic Needs",
+      "url": "https://www.goldenwestcollege.edu/student-equity/the-stand/index.html",
+      "schedulePattern": "Mon, Thu–Fri 8 AM–5 PM; Tue–Wed 8 AM–10 AM (Closed ~10:00-13:00 for restocking); Tue–Wed 1 PM–5 PM",
+      "start": "2026-09-21T13:00",
+      "end": "2026-09-21T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-saddleback-college-food-resource-center-w1234-1000",
+      "seriesSlug": "add-saddleback-college-food-resource-center",
+      "title": "Saddleback College - Food Resource Center — Free Food",
+      "description": "Free food at Saddleback College - Food Resource Center (Saddleback College (SOCCCD) - Basic Needs). Schedule: Mon–Thu 10 AM–4 PM; Fri 10 AM–3 PM. Eligibility: Saddleback College students. Call (949) 348-6410 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Saddleback College - Food Resource Center",
+      "address": "Room PE 502, 28000 Marguerite Pkwy, Mission Viejo, CA 92692",
+      "lat": 33.552274,
+      "lng": -117.666186,
+      "category": "food-assistance",
+      "sourceOrg": "Saddleback College (SOCCCD) - Basic Needs",
+      "url": "https://www.saddleback.edu/student-support/care-corner",
+      "schedulePattern": "Mon–Thu 10 AM–4 PM; Fri 10 AM–3 PM",
+      "start": "2026-09-21T10:00",
+      "end": "2026-09-21T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-saddleback-college-food-resource-center-w5-1000",
+      "seriesSlug": "add-saddleback-college-food-resource-center",
+      "title": "Saddleback College - Food Resource Center — Free Food",
+      "description": "Free food at Saddleback College - Food Resource Center (Saddleback College (SOCCCD) - Basic Needs). Schedule: Mon–Thu 10 AM–4 PM; Fri 10 AM–3 PM. Eligibility: Saddleback College students. Call (949) 348-6410 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Saddleback College - Food Resource Center",
+      "address": "Room PE 502, 28000 Marguerite Pkwy, Mission Viejo, CA 92692",
+      "lat": 33.552274,
+      "lng": -117.666186,
+      "category": "food-assistance",
+      "sourceOrg": "Saddleback College (SOCCCD) - Basic Needs",
+      "url": "https://www.saddleback.edu/student-support/care-corner",
+      "schedulePattern": "Mon–Thu 10 AM–4 PM; Fri 10 AM–3 PM",
+      "start": "2026-09-21T10:00",
+      "end": "2026-09-21T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-irvine-valley-college-the-spot-pantry-w1-1030",
+      "seriesSlug": "add-irvine-valley-college-the-spot-pantry",
+      "title": "Irvine Valley College - The Spot Pantry — Free Food",
+      "description": "Free food at Irvine Valley College - The Spot Pantry (Irvine Valley College (SOCCCD) - Center for Basic Needs). Schedule: Mon 10:30 AM–1 PM; Tue–Thu 10:30 AM–4 PM (Closed Fridays, weekends, holidays). Eligibility: Irvine Valley College students. Call (949) 451-5364 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Irvine Valley College - The Spot Pantry",
+      "address": "5500 Irvine Center Dr, Irvine, CA 92618",
+      "lat": 33.676462,
+      "lng": -117.777338,
+      "category": "food-assistance",
+      "sourceOrg": "Irvine Valley College (SOCCCD) - Center for Basic Needs",
+      "url": "https://www.ivc.edu/the-spot/pantry",
+      "schedulePattern": "Mon 10:30 AM–1 PM; Tue–Thu 10:30 AM–4 PM (Closed Fridays, weekends, holidays)",
+      "start": "2026-09-21T10:30",
+      "end": "2026-09-21T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-irvine-valley-college-the-spot-pantry-w234-1030",
+      "seriesSlug": "add-irvine-valley-college-the-spot-pantry",
+      "title": "Irvine Valley College - The Spot Pantry — Free Food",
+      "description": "Free food at Irvine Valley College - The Spot Pantry (Irvine Valley College (SOCCCD) - Center for Basic Needs). Schedule: Mon 10:30 AM–1 PM; Tue–Thu 10:30 AM–4 PM (Closed Fridays, weekends, holidays). Eligibility: Irvine Valley College students. Call (949) 451-5364 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Irvine Valley College - The Spot Pantry",
+      "address": "5500 Irvine Center Dr, Irvine, CA 92618",
+      "lat": 33.676462,
+      "lng": -117.777338,
+      "category": "food-assistance",
+      "sourceOrg": "Irvine Valley College (SOCCCD) - Center for Basic Needs",
+      "url": "https://www.ivc.edu/the-spot/pantry",
+      "schedulePattern": "Mon 10:30 AM–1 PM; Tue–Thu 10:30 AM–4 PM (Closed Fridays, weekends, holidays)",
+      "start": "2026-09-21T10:30",
+      "end": "2026-09-21T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-orange-coast-college-pirates-cove-food-pantry-w1234-1000",
+      "seriesSlug": "add-orange-coast-college-pirates-cove-food-pantry",
+      "title": "Orange Coast College - Pirates' Cove Food Pantry — Free Food",
+      "description": "Free food at Orange Coast College - Pirates' Cove Food Pantry (Orange Coast College (CCCD) - OCC Cares Basic Needs). Schedule: Mon–Thu 10 AM–3 PM; Fri 10 AM–1 PM. Eligibility: Orange Coast College students. Call (714) 432-5794 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Orange Coast College - Pirates' Cove Food Pantry",
+      "address": "Behind the bookstore, 2701 Fairview Rd, Costa Mesa, CA 92626",
+      "lat": 33.667957,
+      "lng": -117.912781,
+      "category": "food-assistance",
+      "sourceOrg": "Orange Coast College (CCCD) - OCC Cares Basic Needs",
+      "url": "https://orangecoastcollege.edu/services-support/basic-needs/food-resources/",
+      "schedulePattern": "Mon–Thu 10 AM–3 PM; Fri 10 AM–1 PM",
+      "start": "2026-09-21T10:00",
+      "end": "2026-09-21T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-orange-coast-college-pirates-cove-food-pantry-w5-1000",
+      "seriesSlug": "add-orange-coast-college-pirates-cove-food-pantry",
+      "title": "Orange Coast College - Pirates' Cove Food Pantry — Free Food",
+      "description": "Free food at Orange Coast College - Pirates' Cove Food Pantry (Orange Coast College (CCCD) - OCC Cares Basic Needs). Schedule: Mon–Thu 10 AM–3 PM; Fri 10 AM–1 PM. Eligibility: Orange Coast College students. Call (714) 432-5794 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Orange Coast College - Pirates' Cove Food Pantry",
+      "address": "Behind the bookstore, 2701 Fairview Rd, Costa Mesa, CA 92626",
+      "lat": 33.667957,
+      "lng": -117.912781,
+      "category": "food-assistance",
+      "sourceOrg": "Orange Coast College (CCCD) - OCC Cares Basic Needs",
+      "url": "https://orangecoastcollege.edu/services-support/basic-needs/food-resources/",
+      "schedulePattern": "Mon–Thu 10 AM–3 PM; Fri 10 AM–1 PM",
+      "start": "2026-09-21T10:00",
+      "end": "2026-09-21T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    }
+  ]
+}

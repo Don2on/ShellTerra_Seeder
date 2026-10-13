@@ -1,0 +1,654 @@
+{
+  "_meta": {
+    "topic": "Monterey County food distributions",
+    "generated": "2026-10-11",
+    "source": "Hand-collected list (Food Bank for Monterey County, Community Action of Napa Valley, Food Bank of Nevada County / 211). Schedules parsed via LA clause parser. lat/lng geocoded downstream.",
+    "note": "Drop-in raw for prepare-food-additions.mjs. \"Monthly <day>\"/\"twice a month\"/single start-times route to _deferred."
+  },
+  "sites": [
+    {
+      "name": "St. Philip's Lutheran Church",
+      "org": "St. Philip's Lutheran Church",
+      "address": "8065 Carmel Valley Rd, Carmel, CA 93923",
+      "phone": "(831) 758-1523",
+      "eligibility": "seniors and general public",
+      "website": "https://foodbankformontereycounty.org/food-assistance/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Fri 9-10am (seniors and general public)",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri",
+            "3rd Fri"
+          ],
+          "open": "09:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Rippling River Center (senior site)",
+      "org": "Rippling River Center (senior site)",
+      "address": "53 E Carmel Valley Rd, Carmel Valley, CA 93924",
+      "phone": "(831) 758-1523",
+      "eligibility": "",
+      "website": "https://foodbankformontereycounty.org/food-assistance/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Fri 10:30-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Fri"
+          ],
+          "open": "10:30",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Our Lady of Refuge Catholic Church",
+      "org": "Our Lady of Refuge Catholic Church",
+      "address": "11140 Preston St, Castroville, CA 95012",
+      "phone": "(831) 758-1523",
+      "eligibility": "",
+      "website": "https://foodbankformontereycounty.org/food-assistance/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Thu 9-10am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu"
+          ],
+          "open": "09:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Chualar Union Elementary School",
+      "org": "Chualar Union Elementary School",
+      "address": "24285 Lincoln St, Chualar, CA 93925",
+      "phone": "(831) 758-1523",
+      "eligibility": "",
+      "website": "https://foodbankformontereycounty.org/food-assistance/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Thu 12-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Theodore Church",
+      "org": "St. Theodore Church",
+      "address": "116 S Belden St, Gonzales, CA 93926",
+      "phone": "(831) 758-1523",
+      "eligibility": "",
+      "website": "https://foodbankformontereycounty.org/food-assistance/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Thu 9:30-10:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Thu"
+          ],
+          "open": "09:30",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "Greenfield Memorial Hall",
+      "org": "Greenfield Memorial Hall",
+      "address": "615 El Camino Real, Greenfield, CA 93927",
+      "phone": "(831) 758-1523",
+      "eligibility": "",
+      "website": "https://foodbankformontereycounty.org/food-assistance/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Tue 9:30-10:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Tue"
+          ],
+          "open": "09:30",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "Hall District Elementary School",
+      "org": "Hall District Elementary School",
+      "address": "300 Sill Rd, Las Lomas, CA 95076",
+      "phone": "(831) 758-1523",
+      "eligibility": "",
+      "website": "https://foodbankformontereycounty.org/food-assistance/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Fri 12:30-2pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Fri"
+          ],
+          "open": "12:30",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Holy Assembly Missionary Baptist Church",
+      "org": "Holy Assembly Missionary Baptist Church",
+      "address": "3305 Abdy Way, Marina, CA 93933",
+      "phone": "(831) 758-1523",
+      "eligibility": "",
+      "website": "https://foodbankformontereycounty.org/food-assistance/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Sat 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Marina Library (produce truck)",
+      "org": "Marina Library (produce truck)",
+      "address": "190 Seaside Cir, Marina, CA 93933",
+      "phone": "(831) 758-1523",
+      "eligibility": "",
+      "website": "https://foodbankformontereycounty.org/food-assistance/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Oct 11",
+      "schedules": []
+    },
+    {
+      "name": "Monterey County Free Libraries - Admin Office",
+      "org": "Monterey County Free Libraries - Admin Office",
+      "address": "188 Seaside Cir, Marina, CA 93933",
+      "phone": "(831) 758-1523",
+      "eligibility": "",
+      "website": "https://foodbankformontereycounty.org/food-assistance/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Oct 5",
+      "schedules": []
+    },
+    {
+      "name": "St. Mary's by-the-Sea Episcopal Church",
+      "org": "St. Mary's by-the-Sea Episcopal Church",
+      "address": "146 12th St, Pacific Grove, CA 93950",
+      "phone": "(831) 758-1523",
+      "eligibility": "",
+      "website": "https://foodbankformontereycounty.org/food-assistance/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Wed, Fri 1-2pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed",
+            "Fri"
+          ],
+          "open": "13:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Prunedale Grange Hall",
+      "org": "Prunedale Grange Hall",
+      "address": "17890 Moro Rd, Prunedale, CA 93907",
+      "phone": "(831) 758-1523",
+      "eligibility": "",
+      "website": "https://foodbankformontereycounty.org/food-assistance/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Oct 5",
+      "schedules": []
+    },
+    {
+      "name": "Alisal Community School (produce truck)",
+      "org": "Alisal Community School (produce truck)",
+      "address": "1437 Del Monte Ave, Salinas, CA 93905",
+      "phone": "(831) 758-1523",
+      "eligibility": "",
+      "website": "https://foodbankformontereycounty.org/food-assistance/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Oct 30",
+      "schedules": []
+    },
+    {
+      "name": "Alisal Integrated Health Center (produce truck)",
+      "org": "Alisal Integrated Health Center (produce truck)",
+      "address": "331 N Sanborn Rd, Salinas, CA 93905",
+      "phone": "(831) 758-1523",
+      "eligibility": "",
+      "website": "https://foodbankformontereycounty.org/food-assistance/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Oct 20",
+      "schedules": []
+    },
+    {
+      "name": "Firehouse Recreation Center (senior site)",
+      "org": "Firehouse Recreation Center (senior site)",
+      "address": "1330 E Alisal St, Salinas, CA 93905",
+      "phone": "(831) 758-1523",
+      "eligibility": "",
+      "website": "https://foodbankformontereycounty.org/food-assistance/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 9-10am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "09:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Frank Paul Family Resource Center (produce truck)",
+      "org": "Frank Paul Family Resource Center (produce truck)",
+      "address": "1296 Rider Ave, Salinas, CA 93905",
+      "phone": "(831) 758-1523",
+      "eligibility": "",
+      "website": "https://foodbankformontereycounty.org/food-assistance/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Oct 14",
+      "schedules": []
+    },
+    {
+      "name": "Grace Christian Fellowship",
+      "org": "Grace Christian Fellowship",
+      "address": "111 Prado St, Salinas, CA 93906",
+      "phone": "(831) 758-1523",
+      "eligibility": "",
+      "website": "https://foodbankformontereycounty.org/food-assistance/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 9-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "La Paz Middle School (produce truck)",
+      "org": "La Paz Middle School (produce truck)",
+      "address": "1300 N Sanborn Rd, Salinas, CA 93905",
+      "phone": "(831) 758-1523",
+      "eligibility": "",
+      "website": "https://foodbankformontereycounty.org/food-assistance/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Oct 1 & 15",
+      "schedules": []
+    },
+    {
+      "name": "Lutheran Church of the Good Shepherd",
+      "org": "Lutheran Church of the Good Shepherd",
+      "address": "580 Larkin St, Salinas, CA 93907",
+      "phone": "(831) 758-1523",
+      "eligibility": "",
+      "website": "https://foodbankformontereycounty.org/food-assistance/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 9-10am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Martin Luther King Jr Academy (produce truck)",
+      "org": "Martin Luther King Jr Academy (produce truck)",
+      "address": "925 N Sanborn Rd, Salinas, CA 93905",
+      "phone": "(831) 758-1523",
+      "eligibility": "",
+      "website": "https://foodbankformontereycounty.org/food-assistance/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Oct 21",
+      "schedules": []
+    },
+    {
+      "name": "Parallel Church",
+      "org": "Parallel Church",
+      "address": "327 Pajaro St, Salinas, CA 93901",
+      "phone": "(831) 758-1523",
+      "eligibility": "",
+      "website": "https://foodbankformontereycounty.org/food-assistance/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Tue 5:30-6:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Tue"
+          ],
+          "open": "17:30",
+          "close": "18:30"
+        }
+      ]
+    },
+    {
+      "name": "Royal Family Church of God",
+      "org": "Royal Family Church of God",
+      "address": "671 E Market St, Salinas, CA 93905",
+      "phone": "(831) 758-1523",
+      "eligibility": "",
+      "website": "https://foodbankformontereycounty.org/food-assistance/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Sat 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat",
+            "4th Sat"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Salinas Valley Community Church",
+      "org": "Salinas Valley Community Church",
+      "address": "368 San Juan Grade Rd, Salinas, CA 93906",
+      "phone": "(831) 758-1523",
+      "eligibility": "",
+      "website": "https://foodbankformontereycounty.org/food-assistance/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Fri 9-10:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Fri"
+          ],
+          "open": "09:00",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "Santa Rita Elementary School (produce truck)",
+      "org": "Santa Rita Elementary School (produce truck)",
+      "address": "2014 Santa Rita St, Salinas, CA 93906",
+      "phone": "(831) 758-1523",
+      "eligibility": "",
+      "website": "https://foodbankformontereycounty.org/food-assistance/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Oct 8",
+      "schedules": []
+    },
+    {
+      "name": "Sherwood Elementary (produce truck)",
+      "org": "Sherwood Elementary (produce truck)",
+      "address": "110 S Wood St, Salinas, CA 93905",
+      "phone": "(831) 758-1523",
+      "eligibility": "",
+      "website": "https://foodbankformontereycounty.org/food-assistance/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Oct 23",
+      "schedules": []
+    },
+    {
+      "name": "St. Ansgar's Lutheran Church",
+      "org": "St. Ansgar's Lutheran Church",
+      "address": "72 E San Joaquin St, Salinas, CA 93901",
+      "phone": "(831) 758-1523",
+      "eligibility": "",
+      "website": "https://foodbankformontereycounty.org/food-assistance/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Wed 8:30-9:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Wed"
+          ],
+          "open": "08:30",
+          "close": "09:30"
+        }
+      ]
+    },
+    {
+      "name": "St. Paul's Episcopal Church (produce truck)",
+      "org": "St. Paul's Episcopal Church (produce truck)",
+      "address": "1071 Pajaro St, Salinas, CA 93901",
+      "phone": "(831) 758-1523",
+      "eligibility": "",
+      "website": "https://foodbankformontereycounty.org/food-assistance/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Oct 29; Oct 25",
+      "schedules": []
+    },
+    {
+      "name": "The Father's House",
+      "org": "The Father's House",
+      "address": "55 Natividad Rd, Salinas, CA 93906",
+      "phone": "(831) 758-1523",
+      "eligibility": "",
+      "website": "https://foodbankformontereycounty.org/food-assistance/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Wed 5-6pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed",
+            "4th Wed"
+          ],
+          "open": "17:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "University Park Elementary (produce truck)",
+      "org": "University Park Elementary (produce truck)",
+      "address": "833 W Acacia St, Salinas, CA 93901",
+      "phone": "(831) 758-1523",
+      "eligibility": "",
+      "website": "https://foodbankformontereycounty.org/food-assistance/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Oct 28",
+      "schedules": []
+    },
+    {
+      "name": "Vineyard Church of Salinas",
+      "org": "Vineyard Church of Salinas",
+      "address": "1122 E Alisal St, Salinas, CA 93905",
+      "phone": "(831) 758-1523",
+      "eligibility": "",
+      "website": "https://foodbankformontereycounty.org/food-assistance/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Oct 9",
+      "schedules": []
+    },
+    {
+      "name": "San Ardo distribution",
+      "org": "San Ardo distribution",
+      "address": "Cattlemen Rd and College St, San Ardo, CA 93450",
+      "phone": "(831) 758-1523",
+      "eligibility": "",
+      "website": "https://foodbankformontereycounty.org/food-assistance/",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "1st Wed 10-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Wed"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Bethel Baptist Church",
+      "org": "Bethel Baptist Church",
+      "address": "390 Elm Ave, Seaside, CA 93955",
+      "phone": "(831) 758-1523",
+      "eligibility": "",
+      "website": "https://foodbankformontereycounty.org/food-assistance/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue & Thu 4-6pm; one Sat a month 12-2pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "open": "16:00",
+          "close": "18:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "12:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Seaside High School",
+      "org": "Seaside High School",
+      "address": "2200 Noche Buena St, Seaside, CA 93955",
+      "phone": "(831) 758-1523",
+      "eligibility": "",
+      "website": "https://foodbankformontereycounty.org/food-assistance/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 4-5pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "16:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Francis Xavier Church",
+      "org": "St. Francis Xavier Church",
+      "address": "1475 La Salle Ave, Seaside, CA 93955",
+      "phone": "(831) 758-1523",
+      "eligibility": "",
+      "website": "https://foodbankformontereycounty.org/food-assistance/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Tue 9-10am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue"
+          ],
+          "open": "09:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Main Street Middle School (produce truck)",
+      "org": "Main Street Middle School (produce truck)",
+      "address": "441 Main St, Soledad, CA 93960",
+      "phone": "(831) 758-1523",
+      "eligibility": "",
+      "website": "https://foodbankformontereycounty.org/food-assistance/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Oct 6",
+      "schedules": []
+    },
+    {
+      "name": "Our Lady of Solitude Church",
+      "org": "Our Lady of Solitude Church",
+      "address": "235 Main St, Soledad, CA 93960",
+      "phone": "(831) 758-1523",
+      "eligibility": "",
+      "website": "https://foodbankformontereycounty.org/food-assistance/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Mon 9:30-10:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Mon"
+          ],
+          "open": "09:30",
+          "close": "10:30"
+        }
+      ]
+    }
+  ]
+}

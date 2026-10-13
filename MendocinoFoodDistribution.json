@@ -1,0 +1,855 @@
+{
+  "_meta": {
+    "topic": "Net-new Mendocino County food distributions",
+    "generated": "2026-10-05",
+    "source": "Research supplementing shell PENDING-Mendocino; raw ./MendocinoAdditions-raw.json."
+  },
+  "_deferred": {
+    "add-redwood-coast-senior-center-lunch": {
+      "title": "Redwood Coast Senior Center (lunch)",
+      "status": "Daily lunch 11:30am-12:30pm Phone: (707) 964-0443.",
+      "address": "490 N Harold St, Fort Bragg, CA 95437",
+      "lat": 39.446761,
+      "lng": -123.796935,
+      "phone": "(707) 964-0443",
+      "eligibility": "",
+      "sourceUrl": "https://www.mendofood.org/find-food"
+    },
+    "add-plowshares-peace-and-justice-center-meals": {
+      "title": "Plowshares Peace and Justice Center (meals)",
+      "status": "Mon-Fri lunch from 11:30am Phone: (707) 462-8582.",
+      "address": "1346 S. State St, Ukiah, CA 95482",
+      "lat": 39.130214,
+      "lng": -123.206135,
+      "phone": "(707) 462-8582",
+      "eligibility": "",
+      "sourceUrl": "https://www.mendofood.org/find-food"
+    },
+    "add-community-care-management-corp": {
+      "title": "Community Care Management Corp.",
+      "status": "Call ahead for current days and hours. Phone: (707) 468-9347.",
+      "address": "301 S State St, Ukiah, CA 95482",
+      "lat": 39.148669,
+      "lng": -123.20674,
+      "phone": "(707) 468-9347",
+      "eligibility": "",
+      "sourceUrl": "https://www.mendofood.org/find-food"
+    },
+    "add-mendocino-college-student-pantry": {
+      "title": "Mendocino College (student pantry)",
+      "status": "Call ahead for current days and hours. Phone: (707) 468-3000.",
+      "address": "1000 Hensley Creek Rd, Ukiah, CA 95482",
+      "lat": 39.188686,
+      "lng": -123.227637,
+      "phone": "(707) 468-3000",
+      "eligibility": "",
+      "sourceUrl": "https://www.mendofood.org/find-food"
+    },
+    "add-south-ukiah-rotary-children-s-backpack-program": {
+      "title": "South Ukiah Rotary (children's backpack program)",
+      "status": "Call ahead for current days and hours. Phone: (707) 674-7767.",
+      "address": "115 S Orchard Ave, Ukiah, CA 95482",
+      "lat": 39.150643,
+      "lng": -123.198615,
+      "phone": "(707) 674-7767",
+      "eligibility": "",
+      "sourceUrl": "https://www.mendofood.org/find-food"
+    },
+    "add-the-hunger-express-weekend-sack-lunches": {
+      "title": "The Hunger Express (weekend sack lunches)",
+      "status": "Call ahead for current days and hours. Phone: (707) 972-3157.",
+      "address": ", Ukiah, CA 95482",
+      "lat": 39.150028,
+      "lng": -123.207655,
+      "phone": "(707) 972-3157",
+      "eligibility": "",
+      "sourceUrl": "https://www.mendofood.org/find-food"
+    }
+  },
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "add-albion-pop-up-w1-1600",
+      "seriesSlug": "add-albion-pop-up",
+      "title": "Albion Pop-Up — Free Food",
+      "description": "Free food at Albion Pop-Up. Schedule: Mon 4 PM–5 PM. Call (707) 615-6654 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Albion Pop-Up",
+      "address": "3512 Albion Ridge Rd, Albion, CA 95410",
+      "lat": 39.22682,
+      "lng": -123.75419,
+      "category": "food-assistance",
+      "sourceOrg": "Albion Pop-Up",
+      "url": "https://www.mendofood.org/find-food",
+      "schedulePattern": "Mon 4 PM–5 PM",
+      "start": "2026-09-28T16:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-comptche-food-pantry-chapel-of-the-redwoods-w1-1400",
+      "seriesSlug": "add-comptche-food-pantry-chapel-of-the-redwoods",
+      "title": "Comptche Food Pantry (Chapel of the Redwoods) — Free Food",
+      "description": "Free food at Comptche Food Pantry (Chapel of the Redwoods). Schedule: Mon 2 PM–4 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Comptche Food Pantry (Chapel of the Redwoods)",
+      "address": "31201 Comptche Ukiah Rd, Comptche, CA 95427",
+      "lat": 39.26461,
+      "lng": -123.59408,
+      "category": "food-assistance",
+      "sourceOrg": "Comptche Food Pantry (Chapel of the Redwoods)",
+      "url": "https://www.mendofood.org/find-food",
+      "schedulePattern": "Mon 2 PM–4 PM",
+      "start": "2026-09-28T14:00",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-covelo-pop-up-m24-1200",
+      "seriesSlug": "add-covelo-pop-up",
+      "title": "Covelo Pop-Up — Free Food",
+      "description": "Free food at Covelo Pop-Up. Schedule: 2nd Thu 12 PM–1 PM. Call (707) 615-6654 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Covelo Pop-Up",
+      "address": "24065 Riffe Rd, Covelo, CA 95428",
+      "lat": 39.789554,
+      "lng": -123.246316,
+      "category": "food-assistance",
+      "sourceOrg": "Covelo Pop-Up",
+      "url": "https://www.mendofood.org/find-food",
+      "schedulePattern": "2nd Thu 12 PM–1 PM",
+      "start": "2026-10-08T12:00",
+      "end": "2026-10-08T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "2:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-round-valley-food-bank-m35-1000",
+      "seriesSlug": "add-round-valley-food-bank",
+      "title": "Round Valley Food Bank — Free Food",
+      "description": "Free food at Round Valley Food Bank. Schedule: 3rd Fri 10 AM–2 PM. Call (707) 983-6262 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Round Valley Food Bank",
+      "address": "24065 Riffe Rd, Covelo, CA 95428",
+      "lat": 39.789554,
+      "lng": -123.246316,
+      "category": "food-assistance",
+      "sourceOrg": "Round Valley Food Bank",
+      "url": "https://www.mendofood.org/find-food",
+      "schedulePattern": "3rd Fri 10 AM–2 PM",
+      "start": "2026-10-09T10:00",
+      "end": "2026-10-09T14:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-fort-bragg-food-bank-w135-1000",
+      "seriesSlug": "add-fort-bragg-food-bank",
+      "title": "Fort Bragg Food Bank — Free Food",
+      "description": "Free food at Fort Bragg Food Bank. Schedule: Mon, Wed, Fri 10 AM–10:30 AM; Mon 10:30 AM–4 PM; Wed 10:30 AM–5:30 PM; Fri 10:30 AM–4 PM; Tue 10 AM–12 PM. Call (707) 964-9404 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Fort Bragg Food Bank",
+      "address": "910 N Franklin St, Fort Bragg, CA 95437",
+      "lat": 39.452142,
+      "lng": -123.804203,
+      "category": "food-assistance",
+      "sourceOrg": "Fort Bragg Food Bank",
+      "url": "https://www.mendofood.org/find-food",
+      "schedulePattern": "Mon, Wed, Fri 10 AM–10:30 AM; Mon 10:30 AM–4 PM; Wed 10:30 AM–5:30 PM; Fri 10:30 AM–4 PM; Tue 10 AM–12 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T10:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-fort-bragg-food-bank-w1-1030",
+      "seriesSlug": "add-fort-bragg-food-bank",
+      "title": "Fort Bragg Food Bank — Free Food",
+      "description": "Free food at Fort Bragg Food Bank. Schedule: Mon, Wed, Fri 10 AM–10:30 AM; Mon 10:30 AM–4 PM; Wed 10:30 AM–5:30 PM; Fri 10:30 AM–4 PM; Tue 10 AM–12 PM. Call (707) 964-9404 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Fort Bragg Food Bank",
+      "address": "910 N Franklin St, Fort Bragg, CA 95437",
+      "lat": 39.452142,
+      "lng": -123.804203,
+      "category": "food-assistance",
+      "sourceOrg": "Fort Bragg Food Bank",
+      "url": "https://www.mendofood.org/find-food",
+      "schedulePattern": "Mon, Wed, Fri 10 AM–10:30 AM; Mon 10:30 AM–4 PM; Wed 10:30 AM–5:30 PM; Fri 10:30 AM–4 PM; Tue 10 AM–12 PM",
+      "start": "2026-09-28T10:30",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-fort-bragg-food-bank-w3-1030",
+      "seriesSlug": "add-fort-bragg-food-bank",
+      "title": "Fort Bragg Food Bank — Free Food",
+      "description": "Free food at Fort Bragg Food Bank. Schedule: Mon, Wed, Fri 10 AM–10:30 AM; Mon 10:30 AM–4 PM; Wed 10:30 AM–5:30 PM; Fri 10:30 AM–4 PM; Tue 10 AM–12 PM. Call (707) 964-9404 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Fort Bragg Food Bank",
+      "address": "910 N Franklin St, Fort Bragg, CA 95437",
+      "lat": 39.452142,
+      "lng": -123.804203,
+      "category": "food-assistance",
+      "sourceOrg": "Fort Bragg Food Bank",
+      "url": "https://www.mendofood.org/find-food",
+      "schedulePattern": "Mon, Wed, Fri 10 AM–10:30 AM; Mon 10:30 AM–4 PM; Wed 10:30 AM–5:30 PM; Fri 10:30 AM–4 PM; Tue 10 AM–12 PM",
+      "start": "2026-09-28T10:30",
+      "end": "2026-09-28T17:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-fort-bragg-food-bank-w5-1030",
+      "seriesSlug": "add-fort-bragg-food-bank",
+      "title": "Fort Bragg Food Bank — Free Food",
+      "description": "Free food at Fort Bragg Food Bank. Schedule: Mon, Wed, Fri 10 AM–10:30 AM; Mon 10:30 AM–4 PM; Wed 10:30 AM–5:30 PM; Fri 10:30 AM–4 PM; Tue 10 AM–12 PM. Call (707) 964-9404 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Fort Bragg Food Bank",
+      "address": "910 N Franklin St, Fort Bragg, CA 95437",
+      "lat": 39.452142,
+      "lng": -123.804203,
+      "category": "food-assistance",
+      "sourceOrg": "Fort Bragg Food Bank",
+      "url": "https://www.mendofood.org/find-food",
+      "schedulePattern": "Mon, Wed, Fri 10 AM–10:30 AM; Mon 10:30 AM–4 PM; Wed 10:30 AM–5:30 PM; Fri 10:30 AM–4 PM; Tue 10 AM–12 PM",
+      "start": "2026-09-28T10:30",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-fort-bragg-food-bank-w2-1000",
+      "seriesSlug": "add-fort-bragg-food-bank",
+      "title": "Fort Bragg Food Bank — Free Food",
+      "description": "Free food at Fort Bragg Food Bank. Schedule: Mon, Wed, Fri 10 AM–10:30 AM; Mon 10:30 AM–4 PM; Wed 10:30 AM–5:30 PM; Fri 10:30 AM–4 PM; Tue 10 AM–12 PM. Call (707) 964-9404 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Fort Bragg Food Bank",
+      "address": "910 N Franklin St, Fort Bragg, CA 95437",
+      "lat": 39.452142,
+      "lng": -123.804203,
+      "category": "food-assistance",
+      "sourceOrg": "Fort Bragg Food Bank",
+      "url": "https://www.mendofood.org/find-food",
+      "schedulePattern": "Mon, Wed, Fri 10 AM–10:30 AM; Mon 10:30 AM–4 PM; Wed 10:30 AM–5:30 PM; Fri 10:30 AM–4 PM; Tue 10 AM–12 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-mendocino-coast-hospitality-house-meals-w12345-1000",
+      "seriesSlug": "add-mendocino-coast-hospitality-house-meals",
+      "title": "Mendocino Coast Hospitality House (meals) — Free Food",
+      "description": "Free food at Mendocino Coast Hospitality House (meals). Schedule: Mon–Fri 10 AM–12 PM. Call (707) 961-0172 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Mendocino Coast Hospitality House (meals)",
+      "address": "237 N. McPherson St, Fort Bragg, CA 95437",
+      "lat": 39.443683,
+      "lng": -123.803594,
+      "category": "food-assistance",
+      "sourceOrg": "Mendocino Coast Hospitality House (meals)",
+      "url": "https://www.mendofood.org/find-food",
+      "schedulePattern": "Mon–Fri 10 AM–12 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-vincent-de-paul-bag-lunch-w7-1200",
+      "seriesSlug": "add-st-vincent-de-paul-bag-lunch",
+      "title": "St. Vincent de Paul Bag Lunch — Free Food",
+      "description": "Free food at St. Vincent de Paul Bag Lunch. Schedule: Sun 12 PM–1 PM. Call (707) 964-8829 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Vincent de Paul Bag Lunch",
+      "address": "255 S. Harold St, Fort Bragg, CA 95437",
+      "lat": 39.439852,
+      "lng": -123.798406,
+      "category": "food-assistance",
+      "sourceOrg": "St. Vincent de Paul Bag Lunch",
+      "url": "https://www.mendofood.org/find-food",
+      "schedulePattern": "Sun 12 PM–1 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-trinity-lutheran-bag-lunch-w1-0000",
+      "seriesSlug": "add-trinity-lutheran-bag-lunch",
+      "title": "Trinity Lutheran Bag Lunch — Free Food",
+      "description": "Free food at Trinity Lutheran Bag Lunch. Schedule: Mon 12 AM–12:30 PM. Call (707) 964-0681 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Trinity Lutheran Bag Lunch",
+      "address": "620 E Redwood Ave, Fort Bragg, CA 95437",
+      "lat": 39.444014,
+      "lng": -123.799025,
+      "category": "food-assistance",
+      "sourceOrg": "Trinity Lutheran Bag Lunch",
+      "url": "https://www.mendofood.org/find-food",
+      "schedulePattern": "Mon 12 AM–12:30 PM",
+      "start": "2026-09-28T00:00",
+      "end": "2026-09-28T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-coastal-seniors-community-lunch-gualala-w2-1130",
+      "seriesSlug": "add-coastal-seniors-community-lunch-gualala",
+      "title": "Coastal Seniors Community Lunch (Gualala) — Free Food",
+      "description": "Free food at Coastal Seniors Community Lunch (Gualala). Schedule: Tue 11:30 AM–1 PM. Call (707) 882-2137 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Coastal Seniors Community Lunch (Gualala)",
+      "address": "47950 Center St, Gualala, CA 95445",
+      "lat": 38.766548,
+      "lng": -123.527764,
+      "category": "food-assistance",
+      "sourceOrg": "Coastal Seniors Community Lunch (Gualala)",
+      "url": "https://www.mendofood.org/find-food",
+      "schedulePattern": "Tue 11:30 AM–1 PM",
+      "start": "2026-09-28T11:30",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-gualala-food-bank-gualala-baptist-church-m23-1100",
+      "seriesSlug": "add-gualala-food-bank-gualala-baptist-church",
+      "title": "Gualala Food Bank (Gualala Baptist Church) — Free Food",
+      "description": "Free food at Gualala Food Bank (Gualala Baptist Church). Schedule: 2nd Wed 11 AM–12:30 PM. Call (707) 884-4330 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Gualala Food Bank (Gualala Baptist Church)",
+      "address": "37300 Church St, Gualala, CA 95445",
+      "lat": 38.76767,
+      "lng": -123.52714,
+      "category": "food-assistance",
+      "sourceOrg": "Gualala Food Bank (Gualala Baptist Church)",
+      "url": "https://www.mendofood.org/find-food",
+      "schedulePattern": "2nd Wed 11 AM–12:30 PM",
+      "start": "2026-10-07T11:00",
+      "end": "2026-10-07T12:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "2:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-laytonville-food-bank-healthy-start-m25-1300",
+      "seriesSlug": "add-laytonville-food-bank-healthy-start",
+      "title": "Laytonville Food Bank (Healthy Start) — Free Food",
+      "description": "Free food at Laytonville Food Bank (Healthy Start). Schedule: 2nd Fri 1 PM–4 PM. Call (707) 984-8089 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Laytonville Food Bank (Healthy Start)",
+      "address": "44400 Willis Ave, Laytonville, CA 95454",
+      "lat": 39.680261,
+      "lng": -123.484005,
+      "category": "food-assistance",
+      "sourceOrg": "Laytonville Food Bank (Healthy Start)",
+      "url": "https://www.mendofood.org/find-food",
+      "schedulePattern": "2nd Fri 1 PM–4 PM",
+      "start": "2026-10-09T13:00",
+      "end": "2026-10-09T16:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "2:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-laytonville-pop-up-m44-1200",
+      "seriesSlug": "add-laytonville-pop-up",
+      "title": "Laytonville Pop-Up — Free Food",
+      "description": "Free food at Laytonville Pop-Up. Schedule: 4th Thu 12 PM–1 PM. Call (707) 615-6654 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Laytonville Pop-Up",
+      "address": "300 Cahto Dr, Laytonville, CA 95454",
+      "lat": 39.66935,
+      "lng": -123.496971,
+      "category": "food-assistance",
+      "sourceOrg": "Laytonville Pop-Up",
+      "url": "https://www.mendofood.org/find-food",
+      "schedulePattern": "4th Thu 12 PM–1 PM",
+      "start": "2026-10-08T12:00",
+      "end": "2026-10-08T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "4:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-leggett-food-pantry-m36-1000",
+      "seriesSlug": "add-leggett-food-pantry",
+      "title": "Leggett Food Pantry — Free Food",
+      "description": "Free food at Leggett Food Pantry. Schedule: 3rd Sat 10 AM–12:30 PM. Call (707) 354-3465 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Leggett Food Pantry",
+      "address": "65100 Drive-Thru Tree Rd, Leggett, CA 95585",
+      "lat": 39.84375,
+      "lng": -123.692008,
+      "category": "food-assistance",
+      "sourceOrg": "Leggett Food Pantry",
+      "url": "https://www.mendofood.org/find-food",
+      "schedulePattern": "3rd Sat 10 AM–12:30 PM",
+      "start": "2026-10-10T10:00",
+      "end": "2026-10-10T12:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-leggett-pop-up-m12-1200",
+      "seriesSlug": "add-leggett-pop-up",
+      "title": "Leggett Pop-Up — Free Food",
+      "description": "Free food at Leggett Pop-Up. Schedule: 1st Tue 12 PM–1 PM. Call (707) 615-6654 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Leggett Pop-Up",
+      "address": "65100 Drive-Thru Tree Rd, Leggett, CA 95585",
+      "lat": 39.84375,
+      "lng": -123.692008,
+      "category": "food-assistance",
+      "sourceOrg": "Leggett Pop-Up",
+      "url": "https://www.mendofood.org/find-food",
+      "schedulePattern": "1st Tue 12 PM–1 PM",
+      "start": "2026-10-06T12:00",
+      "end": "2026-10-06T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "1:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-mendocino-community-pantry-mendocino-presbyteria-w2-1330",
+      "seriesSlug": "add-mendocino-community-pantry-mendocino-presbyteria",
+      "title": "Mendocino Community Pantry (Mendocino Presbyterian Church) — Free Food",
+      "description": "Free food at Mendocino Community Pantry (Mendocino Presbyterian Church). Schedule: Tue 1:30 PM–3 PM. Call (707) 937-5441 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Mendocino Community Pantry (Mendocino Presbyterian Church)",
+      "address": "44831 Main St, Mendocino, CA 95460",
+      "lat": 39.305228,
+      "lng": -123.796598,
+      "category": "food-assistance",
+      "sourceOrg": "Mendocino Community Pantry (Mendocino Presbyterian Church)",
+      "url": "https://www.mendofood.org/find-food",
+      "schedulePattern": "Tue 1:30 PM–3 PM",
+      "start": "2026-09-28T13:30",
+      "end": "2026-09-28T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-anderson-valley-food-bank-philo-grange-m2343-1430",
+      "seriesSlug": "add-anderson-valley-food-bank-philo-grange",
+      "title": "Anderson Valley Food Bank (Philo Grange) — Free Food",
+      "description": "Free food at Anderson Valley Food Bank (Philo Grange). Schedule: 2nd Wed & 4th Wed 2:30 PM–5:30 PM. Call (707) 357-7735 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Anderson Valley Food Bank (Philo Grange)",
+      "address": "9800 Hwy 128, Philo, CA 95466",
+      "lat": 39.053437,
+      "lng": -123.422787,
+      "category": "food-assistance",
+      "sourceOrg": "Anderson Valley Food Bank (Philo Grange)",
+      "url": "https://www.mendofood.org/find-food",
+      "schedulePattern": "2nd Wed & 4th Wed 2:30 PM–5:30 PM",
+      "start": "2026-10-07T14:30",
+      "end": "2026-10-07T17:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "2:3,4:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-coastal-seniors-point-arena-food-bank-veterans-h-m22-0830",
+      "seriesSlug": "add-coastal-seniors-point-arena-food-bank-veterans-h",
+      "title": "Coastal Seniors / Point Arena Food Bank (Veterans Hall) — Free Food",
+      "description": "Free food at Coastal Seniors / Point Arena Food Bank (Veterans Hall). Schedule: 2nd Tue 8:30 AM–10:30 AM. Call (707) 882-2137 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Coastal Seniors / Point Arena Food Bank (Veterans Hall)",
+      "address": "24000 S. Hwy 1, Point Arena, CA 95468",
+      "lat": 38.91652,
+      "lng": -123.70379,
+      "category": "food-assistance",
+      "sourceOrg": "Coastal Seniors / Point Arena Food Bank (Veterans Hall)",
+      "url": "https://www.mendofood.org/find-food",
+      "schedulePattern": "2nd Tue 8:30 AM–10:30 AM",
+      "start": "2026-10-06T08:30",
+      "end": "2026-10-06T10:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "2:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-ukiah-community-food-bank-w2-0900",
+      "seriesSlug": "add-ukiah-community-food-bank",
+      "title": "Ukiah Community Food Bank — Free Food",
+      "description": "Free food at Ukiah Community Food Bank. Schedule: Tue 9 AM–12 PM; Wed 12 PM–4 PM; Thu 9 AM–2 PM; Fri 12 PM–4 PM. Call (707) 463-2409 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Ukiah Community Food Bank",
+      "address": "888 N State St, Ukiah, CA 95482",
+      "lat": 39.158403,
+      "lng": -123.209257,
+      "category": "food-assistance",
+      "sourceOrg": "Ukiah Community Food Bank",
+      "url": "https://www.mendofood.org/find-food",
+      "schedulePattern": "Tue 9 AM–12 PM; Wed 12 PM–4 PM; Thu 9 AM–2 PM; Fri 12 PM–4 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-ukiah-community-food-bank-w3-1200",
+      "seriesSlug": "add-ukiah-community-food-bank",
+      "title": "Ukiah Community Food Bank — Free Food",
+      "description": "Free food at Ukiah Community Food Bank. Schedule: Tue 9 AM–12 PM; Wed 12 PM–4 PM; Thu 9 AM–2 PM; Fri 12 PM–4 PM. Call (707) 463-2409 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Ukiah Community Food Bank",
+      "address": "888 N State St, Ukiah, CA 95482",
+      "lat": 39.158403,
+      "lng": -123.209257,
+      "category": "food-assistance",
+      "sourceOrg": "Ukiah Community Food Bank",
+      "url": "https://www.mendofood.org/find-food",
+      "schedulePattern": "Tue 9 AM–12 PM; Wed 12 PM–4 PM; Thu 9 AM–2 PM; Fri 12 PM–4 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-ukiah-community-food-bank-w4-0900",
+      "seriesSlug": "add-ukiah-community-food-bank",
+      "title": "Ukiah Community Food Bank — Free Food",
+      "description": "Free food at Ukiah Community Food Bank. Schedule: Tue 9 AM–12 PM; Wed 12 PM–4 PM; Thu 9 AM–2 PM; Fri 12 PM–4 PM. Call (707) 463-2409 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Ukiah Community Food Bank",
+      "address": "888 N State St, Ukiah, CA 95482",
+      "lat": 39.158403,
+      "lng": -123.209257,
+      "category": "food-assistance",
+      "sourceOrg": "Ukiah Community Food Bank",
+      "url": "https://www.mendofood.org/find-food",
+      "schedulePattern": "Tue 9 AM–12 PM; Wed 12 PM–4 PM; Thu 9 AM–2 PM; Fri 12 PM–4 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-ukiah-community-food-bank-w5-1200",
+      "seriesSlug": "add-ukiah-community-food-bank",
+      "title": "Ukiah Community Food Bank — Free Food",
+      "description": "Free food at Ukiah Community Food Bank. Schedule: Tue 9 AM–12 PM; Wed 12 PM–4 PM; Thu 9 AM–2 PM; Fri 12 PM–4 PM. Call (707) 463-2409 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Ukiah Community Food Bank",
+      "address": "888 N State St, Ukiah, CA 95482",
+      "lat": 39.158403,
+      "lng": -123.209257,
+      "category": "food-assistance",
+      "sourceOrg": "Ukiah Community Food Bank",
+      "url": "https://www.mendofood.org/find-food",
+      "schedulePattern": "Tue 9 AM–12 PM; Wed 12 PM–4 PM; Thu 9 AM–2 PM; Fri 12 PM–4 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-ukiah-seventh-day-adventist-w4-1800",
+      "seriesSlug": "add-ukiah-seventh-day-adventist",
+      "title": "Ukiah Seventh Day Adventist — Free Food",
+      "description": "Free food at Ukiah Seventh Day Adventist. Schedule: Thu 6 PM–7 PM. Call (707) 462-5455 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Ukiah Seventh Day Adventist",
+      "address": "200 Wabash Ave, Ukiah, CA 95482",
+      "lat": 39.132541,
+      "lng": -123.208093,
+      "category": "food-assistance",
+      "sourceOrg": "Ukiah Seventh Day Adventist",
+      "url": "https://www.mendofood.org/find-food",
+      "schedulePattern": "Thu 6 PM–7 PM",
+      "start": "2026-09-28T18:00",
+      "end": "2026-09-28T19:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-united-disaster-relief-of-northern-california-w12345-1000",
+      "seriesSlug": "add-united-disaster-relief-of-northern-california",
+      "title": "United Disaster Relief of Northern California — Free Food",
+      "description": "Free food at United Disaster Relief of Northern California. Schedule: Mon–Fri 10 AM–2 PM. Call (707) 489-3970 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "United Disaster Relief of Northern California",
+      "address": "650 Babcock Ln, Ukiah, CA 95482",
+      "lat": 39.14374,
+      "lng": -123.191744,
+      "category": "food-assistance",
+      "sourceOrg": "United Disaster Relief of Northern California",
+      "url": "https://www.mendofood.org/find-food",
+      "schedulePattern": "Mon–Fri 10 AM–2 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-vision-family-resource-center-w12345-1000",
+      "seriesSlug": "add-vision-family-resource-center",
+      "title": "Vision Family Resource Center — Free Food",
+      "description": "Free food at Vision Family Resource Center. Schedule: Mon–Fri 10 AM–5 PM. Call (707) 467-3210 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Vision Family Resource Center",
+      "address": "102 Scott St, Ukiah, CA 95482",
+      "lat": 39.153827,
+      "lng": -123.208876,
+      "category": "food-assistance",
+      "sourceOrg": "Vision Family Resource Center",
+      "url": "https://www.mendofood.org/find-food",
+      "schedulePattern": "Mon–Fri 10 AM–5 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-westport-choice-pantry-m33-1800",
+      "seriesSlug": "add-westport-choice-pantry",
+      "title": "Westport Choice Pantry — Free Food",
+      "description": "Free food at Westport Choice Pantry. Schedule: 3rd Wed 6 PM–8 PM. Call (707) 972-3583 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Westport Choice Pantry",
+      "address": "37551 N. Shoreline Hwy, Westport, CA 95488",
+      "lat": 39.613668,
+      "lng": -123.781682,
+      "category": "food-assistance",
+      "sourceOrg": "Westport Choice Pantry",
+      "url": "https://www.mendofood.org/find-food",
+      "schedulePattern": "3rd Wed 6 PM–8 PM",
+      "start": "2026-10-07T18:00",
+      "end": "2026-10-07T20:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-nuestra-alianza-de-willits-w2-0900",
+      "seriesSlug": "add-nuestra-alianza-de-willits",
+      "title": "Nuestra Alianza De Willits — Free Food",
+      "description": "Free food at Nuestra Alianza De Willits. Schedule: Tue 9 AM–5:30 PM. Call (707) 456-9418 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Nuestra Alianza De Willits",
+      "address": "291 School St, Willits, CA 95490",
+      "lat": 39.409834,
+      "lng": -123.35583,
+      "category": "food-assistance",
+      "sourceOrg": "Nuestra Alianza De Willits",
+      "url": "https://www.mendofood.org/find-food",
+      "schedulePattern": "Tue 9 AM–5:30 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T17:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-willits-community-services-and-food-bank-w35-1100",
+      "seriesSlug": "add-willits-community-services-and-food-bank",
+      "title": "Willits Community Services and Food Bank — Free Food",
+      "description": "Free food at Willits Community Services and Food Bank. Schedule: Wed, Fri 11 AM–4:30 PM. Call (707) 459-3333 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Willits Community Services and Food Bank",
+      "address": "344 Railroad Ave, Willits, CA 95490",
+      "lat": 39.408577,
+      "lng": -123.350469,
+      "category": "food-assistance",
+      "sourceOrg": "Willits Community Services and Food Bank",
+      "url": "https://www.mendofood.org/find-food",
+      "schedulePattern": "Wed, Fri 11 AM–4:30 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T16:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-willits-daily-bread-meals-w1234-1630",
+      "seriesSlug": "add-willits-daily-bread-meals",
+      "title": "Willits Daily Bread (meals) — Free Food",
+      "description": "Free food at Willits Daily Bread (meals). Schedule: Mon–Thu 4:30 PM–5:30 PM. Call (707) 367-5669 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Willits Daily Bread (meals)",
+      "address": "66 E Commercial St, Willits, CA 95490",
+      "lat": 39.412738,
+      "lng": -123.35412,
+      "category": "food-assistance",
+      "sourceOrg": "Willits Daily Bread (meals)",
+      "url": "https://www.mendofood.org/find-food",
+      "schedulePattern": "Mon–Thu 4:30 PM–5:30 PM",
+      "start": "2026-09-28T16:30",
+      "end": "2026-09-28T17:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-willits-pop-up-m14-1000",
+      "seriesSlug": "add-willits-pop-up",
+      "title": "Willits Pop-Up — Free Food",
+      "description": "Free food at Willits Pop-Up. Schedule: 1st Thu 10 AM–11:30 AM. Call (707) 615-6654 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Willits Pop-Up",
+      "address": "1250 Blosser Ln, Willits, CA 95490",
+      "lat": 39.399771,
+      "lng": -123.360711,
+      "category": "food-assistance",
+      "sourceOrg": "Willits Pop-Up",
+      "url": "https://www.mendofood.org/find-food",
+      "schedulePattern": "1st Thu 10 AM–11:30 AM",
+      "start": "2026-10-08T10:00",
+      "end": "2026-10-08T11:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-willits-senior-center-lunch-w12345-1145",
+      "seriesSlug": "add-willits-senior-center-lunch",
+      "title": "Willits Senior Center (lunch) — Free Food",
+      "description": "Free food at Willits Senior Center (lunch). Schedule: Mon–Fri 11:45 AM–1 PM. Call (707) 459-6826 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Willits Senior Center (lunch)",
+      "address": "1501 Baechtel Rd, Willits, CA 95490",
+      "lat": 39.394373,
+      "lng": -123.343332,
+      "category": "food-assistance",
+      "sourceOrg": "Willits Senior Center (lunch)",
+      "url": "https://www.mendofood.org/find-food",
+      "schedulePattern": "Mon–Fri 11:45 AM–1 PM",
+      "start": "2026-09-28T11:45",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    }
+  ]
+}

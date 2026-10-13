@@ -1,0 +1,31 @@
+{
+  "_meta": {
+    "topic": "Net-new San Diego food distributions",
+    "generated": "2026-09-28",
+    "source": "Research supplementing FoodDistributionSD; raw ./SDSanYsidro-sites.json."
+  },
+  "_deferred": {},
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "sd-add-san-ysidro-health-el-cajon-cmss-w2-1000",
+      "seriesSlug": "sd-add-san-ysidro-health-el-cajon-cmss",
+      "title": "San Ysidro Health - El Cajon (CMSS) — Free Food",
+      "description": "Free food at San Ysidro Health - El Cajon (CMSS) (San Ysidro Health). Schedule: Tue 10 AM–12:30 PM (CMSS parking lot; or until supplies last). Eligibility: Open to all; walk-ins accepted (serves El Cajon refugee & immigrant community). Call (619) 631-7400 to confirm before you go — hours change and supplies can run out. Source: community research, Sep 2026.",
+      "locationName": "San Ysidro Health - El Cajon (CMSS)",
+      "address": "436 S Magnolia Ave, El Cajon, CA 92020",
+      "lat": 32.791083,
+      "lng": -116.96274,
+      "category": "food-assistance",
+      "sourceOrg": "San Ysidro Health",
+      "url": "https://www.sanysidrohealth.org/",
+      "schedulePattern": "Tue 10 AM–12:30 PM (CMSS parking lot; or until supplies last)",
+      "start": "2026-09-21T10:00",
+      "end": "2026-09-21T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    }
+  ]
+}

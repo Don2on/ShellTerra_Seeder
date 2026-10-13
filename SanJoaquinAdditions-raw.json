@@ -1,0 +1,523 @@
+{
+  "_meta": {
+    "topic": "SanJoaquin County food distributions",
+    "generated": "2026-10-11",
+    "source": "Hand-collected list (SF HSA / SF-Marin FB, San Joaquin Vivery finder, SLO Food Bank, Second Harvest of Silicon Valley). Schedules parsed via LA clause parser.",
+    "note": "Drop-in raw for prepare-food-additions.mjs. SLO neighborhood \"Monthly (date varies)\" + single-time meals route to _deferred."
+  },
+  "sites": [
+    {
+      "name": "C.A.R.E.",
+      "org": "C.A.R.E.",
+      "address": "1601 Second St., Escalon, CA 95320",
+      "phone": "209-417-2048",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 8am-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "08:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Prayer Valley Family Worship",
+      "org": "Prayer Valley Family Worship",
+      "address": "14172 Avon Ave, Lathrop, CA 95330",
+      "phone": "209-662-4019",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Thu 9am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu",
+            "4th Thu"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Salvation Army - Lodi",
+      "org": "Salvation Army - Lodi",
+      "address": "525 W. Lockeford St., Lodi, CA 95240",
+      "phone": "209-369-5896",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue, Thu 9am-10:45am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "open": "09:00",
+          "close": "10:45"
+        }
+      ]
+    },
+    {
+      "name": "Calvary Community Church",
+      "org": "Calvary Community Church",
+      "address": "815 West Lathrop Rd., Manteca, CA 95336",
+      "phone": "209-239-1345",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "while supplies last",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "16:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Fellowship Baptist Church of Manteca",
+      "org": "Fellowship Baptist Church of Manteca",
+      "address": "1130 Pine Street, Manteca, CA 95336",
+      "phone": "209-239-0508",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Wed 2pm-3:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Wed"
+          ],
+          "open": "14:00",
+          "close": "15:30"
+        }
+      ]
+    },
+    {
+      "name": "St. Paul's United Methodist",
+      "org": "St. Paul's United Methodist",
+      "address": "910 E North Street, Manteca, CA 95336",
+      "phone": "209-823-7154",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Last Sat of month 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "last Sat"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Vincent De Paul - Manteca",
+      "org": "St. Vincent De Paul - Manteca",
+      "address": "505 E. North St., Manteca, CA 95336",
+      "phone": "209-823-8099",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue, Wed, Fri 2pm-3:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Wed",
+            "Fri"
+          ],
+          "open": "14:00",
+          "close": "15:30"
+        }
+      ]
+    },
+    {
+      "name": "Transformed Through Hope Ministries",
+      "org": "Transformed Through Hope Ministries",
+      "address": "314 Locust Ave, Manteca, CA 95337",
+      "phone": "209-815-9815",
+      "eligibility": "",
+      "website": "https://transformedthministries.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Sat 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Eastside Church of God in Christ",
+      "org": "Eastside Church of God in Christ",
+      "address": "3206 E. Marsh St, Stockton, CA 95205",
+      "phone": "209-942-0220",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 2:30pm-4:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "14:30",
+          "close": "16:30"
+        }
+      ]
+    },
+    {
+      "name": "Good Samaritan Training Center",
+      "org": "Good Samaritan Training Center",
+      "address": "1331 E. Fremont St., Stockton, CA 95205",
+      "phone": "209-981-5855",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Wed, Fri 9am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Greater Faith Missionary Baptist Church",
+      "org": "Greater Faith Missionary Baptist Church",
+      "address": "345 W. Worth St., Stockton, CA 95206",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "while supplies last",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Sat"
+          ],
+          "open": "14:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Light House Community Church",
+      "org": "Light House Community Church",
+      "address": "2393 Vail St., Stockton, CA 95205",
+      "phone": "209-463-5208",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "while supplies last",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sun"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Salvation Army - Stockton",
+      "org": "Salvation Army - Stockton",
+      "address": "1305 E Weber St, Stockton, CA 95205",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Wed 9am-3pm; Tue, Thu 9am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "open": "09:00",
+          "close": "15:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "SDA Stockton",
+      "org": "SDA Stockton",
+      "address": "135 W. Vine St., Stockton, CA 95204",
+      "phone": "209-465-0217",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Wed 11am-2pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Wed"
+          ],
+          "open": "11:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "SDA Valley Community",
+      "org": "SDA Valley Community",
+      "address": "2929 S B Street, Stockton, CA 95205",
+      "phone": "209-915-1959",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 10am-1pm; 4th Mon 8:30am-10am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "10:00",
+          "close": "13:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Mon"
+          ],
+          "open": "08:30",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Vincent de Paul - Stockton",
+      "org": "St. Vincent de Paul - Stockton",
+      "address": "2544 Plymouth Rd., Stockton, CA 95204",
+      "phone": "209-465-3081",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 10am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Valley Ministries",
+      "org": "Valley Ministries",
+      "address": "4118 Coronado Ave., Stockton, CA 95204",
+      "phone": "209-810-9500",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sun 9am-10am and 11am-11:30am; Wed 9am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sun"
+          ],
+          "open": "09:00",
+          "close": "10:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Sun"
+          ],
+          "open": "11:00",
+          "close": "11:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "09:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Wings of Healing",
+      "org": "Wings of Healing",
+      "address": "834 East Main St, Stockton, CA 95202",
+      "phone": "209-948-5564",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 9:30am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "09:30",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Community Partnership for Families of San Joaquin",
+      "org": "Community Partnership for Families of San Joaquin",
+      "address": "236 W. Beverly Pl., Tracy, CA 95376",
+      "phone": "209-229-4922",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "while supplies last",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Interfaith Ministries - Tracy",
+      "org": "Interfaith Ministries - Tracy",
+      "address": "311 W. Grantline Rd., Tracy, CA 95376",
+      "phone": "209-836-5424",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Thu 10am-2pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "10:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "New Heart Church of the Nazarene",
+      "org": "New Heart Church of the Nazarene",
+      "address": "1647 Bessie Ave., Tracy, CA 95376",
+      "phone": "209-914-7780",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 3pm-4:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "15:00",
+          "close": "16:30"
+        }
+      ]
+    },
+    {
+      "name": "Tracy Spanish SDA",
+      "org": "Tracy Spanish SDA",
+      "address": "2141 Holly Dr., Tracy, CA 95376",
+      "phone": "209-597-3694",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Wed 10:30am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Wed"
+          ],
+          "open": "10:30",
+          "close": "12:00"
+        }
+      ]
+    }
+  ]
+}

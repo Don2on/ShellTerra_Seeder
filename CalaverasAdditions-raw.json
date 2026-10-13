@@ -1,0 +1,447 @@
+{
+  "_meta": {
+    "topic": "Calaveras County food distributions",
+    "generated": "2026-10-11",
+    "source": "Hand-collected list (North State Food Bank, Resource Connection, NVC Food Bank, county resource lists, Google). Schedules parsed via LA clause parser. lat/lng geocoded downstream.",
+    "note": "Drop-in raw for prepare-food-additions.mjs. \"Monthly (date varies/call)\" and single start-times route to _deferred (vendor card, no event)."
+  },
+  "sites": [
+    {
+      "name": "First Baptist of Angels Camp",
+      "org": "First Baptist of Angels Camp",
+      "address": "1555 Depot Rd, Angels Camp, CA 95222",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "commodities",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Seventh Day Adventist Church (Angels Camp)",
+      "org": "Seventh Day Adventist Church (Angels Camp)",
+      "address": "140 N Main St, Angels Camp, CA 95222",
+      "phone": "(209) 736-0941",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 10am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "10:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Sierra Hope Food Pantry",
+      "org": "Sierra Hope Food Pantry",
+      "address": "473 S Main St, Angels Camp, CA 95222",
+      "phone": "(209) 736-6792",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 1-3pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "13:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Patrick's Helping Hands",
+      "org": "St. Patrick's Helping Hands",
+      "address": "820 S Main St, Angels Camp, CA 95222",
+      "phone": "(209) 736-4575",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 1-3pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "13:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Chapel in the Pines",
+      "org": "Chapel in the Pines",
+      "address": "2286 Cedar Lane, Arnold, CA 95223",
+      "phone": "(209) 795-1064",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 10am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Our Lady of the Sierra Helping Hands",
+      "org": "Our Lady of the Sierra Helping Hands",
+      "address": "1301 Linebaugh Rd, Arnold, CA 95223",
+      "phone": "(209) 794-7625",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 9:30-10am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "09:30",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Community Food Pantry (Lake Tulloch Bible Church)",
+      "org": "Community Food Pantry (Lake Tulloch Bible Church)",
+      "address": "3566 Spangler Ln #3, Copperopolis, CA 95228",
+      "phone": "(209) 785-4302",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2018 list said 3rd Thu 1-4pm; verify",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "08:30",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Copperopolis Armory (mobile pantry)",
+      "org": "Copperopolis Armory (mobile pantry)",
+      "address": ", Copperopolis, CA 95228",
+      "phone": "(209) 754-1257",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "1st Thu 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Mokelumne Hill Church",
+      "org": "Mokelumne Hill Church",
+      "address": "8085 Hwy 26, Suite 2B, Mokelumne Hill, CA 95245",
+      "phone": "(209) 286-1165",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Thu 4-6pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Thu"
+          ],
+          "open": "16:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Mountain Ranch Resource Center",
+      "org": "Mountain Ranch Resource Center",
+      "address": "7867 Whiskey Slide Rd, Mountain Ranch, CA 95246",
+      "phone": "(209) 754-4073",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Thu 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Thu"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Murphys Senior Center",
+      "org": "Murphys Senior Center",
+      "address": "65 Mitchler St, Murphys, CA 95247",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue & Thu 11am-1pm; drive-thru pantry 4th Sat",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "open": "11:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Rail Road Flat Elementary School (mobile pantry)",
+      "org": "Rail Road Flat Elementary School (mobile pantry)",
+      "address": "298 Rail Road Flat Rd, Rail Road Flat, CA 95248",
+      "phone": "(209) 754-1257",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Last Thu 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "last Thu"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Calaveras Senior Center",
+      "org": "Calaveras Senior Center",
+      "address": "956 Mountain Ranch Rd, San Andreas, CA 95249",
+      "phone": "(209) 754-1257",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "schedule varies",
+      "schedules": []
+    },
+    {
+      "name": "San Andreas Community Covenant Church (free dinner)",
+      "org": "San Andreas Community Covenant Church (free dinner)",
+      "address": "261 Treat Ave, San Andreas, CA 95249",
+      "phone": "(209) 754-3881",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 4:30-6pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "16:30",
+          "close": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Seventh Day Adventist Church (San Andreas)",
+      "org": "Seventh Day Adventist Church (San Andreas)",
+      "address": "399 Mariposa St, San Andreas, CA 95249",
+      "phone": "(530) 586-1366",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 10am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "The Resource Connection Food Bank",
+      "org": "The Resource Connection Food Bank",
+      "address": "206 George Reed Dr, San Andreas, CA 95249",
+      "phone": "(209) 754-1257",
+      "eligibility": "",
+      "website": "https://trcac.org/the-food-bank-2/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "closed 12-12:30pm; closed Thu",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Community United Methodist Church",
+      "org": "Community United Methodist Church",
+      "address": "135 Laurel St, Valley Springs, CA 95252",
+      "phone": "(209) 772-2429",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Fri 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Good Samaritan Community Covenant Church",
+      "org": "Good Samaritan Community Covenant Church",
+      "address": "4684 Baldwin St, Valley Springs, CA 95252",
+      "phone": "(209) 772-9548",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "free breakfast on the 4th",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat",
+            "4th Sat"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Stone Corral Community Church",
+      "org": "Stone Corral Community Church",
+      "address": "9441 Hwy 26, Valley Springs, CA 95252",
+      "phone": "(209) 786-2448",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Wed 9am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Wed"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Community Covenant Church",
+      "org": "Community Covenant Church",
+      "address": "22264 Hwy 26, West Point, CA 95255",
+      "phone": "(209) 293-4226",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "pantry and free lunch",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "11:30",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "West Point Community Hall (mobile pantry)",
+      "org": "West Point Community Hall (mobile pantry)",
+      "address": "22283 Hwy 26, West Point, CA 95255",
+      "phone": "(209) 754-1257",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Wed 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    }
+  ]
+}

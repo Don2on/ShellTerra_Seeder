@@ -1,0 +1,2329 @@
+{
+  "_meta": {
+    "topic": "SanMateo County food distributions",
+    "generated": "2026-10-11",
+    "source": "Hand-collected list (SF HSA / SF-Marin FB, San Joaquin Vivery finder, SLO Food Bank, Second Harvest of Silicon Valley). Schedules parsed via LA clause parser.",
+    "note": "Drop-in raw for prepare-food-additions.mjs. SLO neighborhood \"Monthly (date varies)\" + single-time meals route to _deferred."
+  },
+  "sites": [
+    {
+      "name": "Selby Lane School",
+      "org": "Selby Lane School",
+      "address": "170 Selby Lane, Atherton, CA 94027",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Thu 2:45pm-4:45pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu"
+          ],
+          "open": "14:45",
+          "close": "16:45"
+        }
+      ]
+    },
+    {
+      "name": "Menlo College pantry",
+      "org": "Menlo College pantry",
+      "address": "1000 El Camino Real, Atherton, CA 94027",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Thu 3pm-9pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "15:00",
+          "close": "21:00"
+        }
+      ]
+    },
+    {
+      "name": "Yaseen Belmont Masjid",
+      "org": "Yaseen Belmont Masjid",
+      "address": "621 Masonic Way, Belmont, CA 94002",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Sat 7:45am-9am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Sat"
+          ],
+          "open": "07:45",
+          "close": "09:00"
+        }
+      ]
+    },
+    {
+      "name": "CALL Primrose",
+      "org": "CALL Primrose",
+      "address": "139 Primrose Road, Burlingame, CA 94010",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 9:30am-2:45pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "09:30",
+          "close": "14:45"
+        }
+      ]
+    },
+    {
+      "name": "Support Life",
+      "org": "Support Life",
+      "address": "1722 Gilbreth Road, Burlingame, CA 94010",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Fri 11am-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Fri"
+          ],
+          "open": "11:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Colma Historical Society",
+      "org": "Colma Historical Society",
+      "address": "1500 Hillside Boulevard, Colma, CA 94014",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Wed 9:30am-11:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Wed"
+          ],
+          "open": "09:30",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Doelger & Lincoln Senior Centers (meal program)",
+      "org": "Doelger & Lincoln Senior Centers (meal program)",
+      "address": "101 Lake Merced Boulevard, Daly City, CA 94015",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "meals",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Daly City Partnership",
+      "org": "Daly City Partnership",
+      "address": "350 90th Street 1st Floor, Daly City, CA 94015",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Tue, Wed 10:30am-2pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed"
+          ],
+          "open": "10:30",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Doelger & Lincoln Senior Centers (groceries)",
+      "org": "Doelger & Lincoln Senior Centers (groceries)",
+      "address": "101 Lake Merced Boulevard, Daly City, CA 94015",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Tue 9am-11:45am; 2nd & 4th Thu 9am-11:45am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Tue",
+            "3rd Tue"
+          ],
+          "open": "09:00",
+          "close": "11:45"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu",
+            "4th Thu"
+          ],
+          "open": "09:00",
+          "close": "11:45"
+        }
+      ],
+      "allowColocated": true
+    },
+    {
+      "name": "Lincoln Community Center",
+      "org": "Lincoln Community Center",
+      "address": "901 Brunswick Street, Daly City, CA 94014",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Wed 2pm-3pm; meals Mon-Fri 12pm-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed",
+            "4th Wed"
+          ],
+          "open": "14:00",
+          "close": "15:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Our Second Home",
+      "org": "Our Second Home",
+      "address": "725 Price Street, Daly City, CA 94014",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 11:30am-1:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "11:30",
+          "close": "13:30"
+        }
+      ]
+    },
+    {
+      "name": "Bayshore Community Center (meal program)",
+      "org": "Bayshore Community Center (meal program)",
+      "address": "450 Martin St, Daly City, CA 94014",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "meals",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Gellert Community Center (meal program)",
+      "org": "Gellert Community Center (meal program)",
+      "address": "50 Wembley Drive, Daly City, CA 94015",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "meals",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Boys & Girls Clubs of the Peninsula",
+      "org": "Boys & Girls Clubs of the Peninsula",
+      "address": "2031 Pulgas Ave, East Palo Alto, CA 94303",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Fri 5pm-6pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri",
+            "3rd Fri"
+          ],
+          "open": "17:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Runnymede Gardens Apartments",
+      "org": "Runnymede Gardens Apartments",
+      "address": "2301 Cooley Ave, East Palo Alto, CA 94303",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Thu 10:30am-11:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Thu"
+          ],
+          "open": "10:30",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Costano Elementary School",
+      "org": "Costano Elementary School",
+      "address": "2086 Clarke Ave, East Palo Alto, CA 94303",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Sat 8:30am-11:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat",
+            "4th Sat"
+          ],
+          "open": "08:30",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Ecumenical Hunger Program",
+      "org": "Ecumenical Hunger Program",
+      "address": "2411 Pulgas Avenue, East Palo Alto, CA 94303",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Thu 9am-12pm and 2pm-5pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "14:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "One East Palo Alto",
+      "org": "One East Palo Alto",
+      "address": "2100 Bay Road, East Palo Alto, CA 94303",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 2pm-3:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "14:00",
+          "close": "15:30"
+        }
+      ]
+    },
+    {
+      "name": "WeHOPE",
+      "org": "WeHOPE",
+      "address": "1854 Bay Rd, East Palo Alto, CA 94303",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 11:30am-1:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "11:30",
+          "close": "13:30"
+        }
+      ]
+    },
+    {
+      "name": "Los Robles Ronald McNair Academy",
+      "org": "Los Robles Ronald McNair Academy",
+      "address": "2033 Pulgas Ave, East Palo Alto, CA 94303",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 2pm-3pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "14:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "MidPen Housing",
+      "org": "MidPen Housing",
+      "address": "2358 University Avenue, East Palo Alto, CA 94303",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Thu 10:30am-11:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Thu"
+          ],
+          "open": "10:30",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Samaritan House East Palo Alto (meal)",
+      "org": "Samaritan House East Palo Alto (meal)",
+      "address": "1832 Bay Road, East Palo Alto, CA 94303",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "meals",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "15:30",
+          "close": "16:30"
+        }
+      ]
+    },
+    {
+      "name": "Onyxx Village Connection (mobile meals)",
+      "org": "Onyxx Village Connection (mobile meals)",
+      "address": "Mobile van, East Palo Alto, CA 94303",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "meals",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Foster City Library",
+      "org": "Foster City Library",
+      "address": "1000 East Hillsdale Boulevard, Foster City, CA 94404",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Fri 8:30am-9:45am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri",
+            "3rd Fri"
+          ],
+          "open": "08:30",
+          "close": "09:45"
+        }
+      ]
+    },
+    {
+      "name": "Half Moon Village Apartments",
+      "org": "Half Moon Village Apartments",
+      "address": "801 Arnold Way, Half Moon Bay, CA 94019",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Mon 1:30pm-2:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Mon",
+            "4th Mon"
+          ],
+          "open": "13:30",
+          "close": "14:30"
+        }
+      ]
+    },
+    {
+      "name": "Main Street Park Apartments",
+      "org": "Main Street Park Apartments",
+      "address": "1101 Main Street, Half Moon Bay, CA 94019",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Wed 3:30pm-5:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Wed"
+          ],
+          "open": "15:30",
+          "close": "17:30"
+        }
+      ]
+    },
+    {
+      "name": "Moonridge Apartments",
+      "org": "Moonridge Apartments",
+      "address": "2001 Miramontes Point Rd, Half Moon Bay, CA 94019",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Wed 3:30pm-5:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Wed"
+          ],
+          "open": "15:30",
+          "close": "17:30"
+        }
+      ]
+    },
+    {
+      "name": "Ted Adcock Community Center",
+      "org": "Ted Adcock Community Center",
+      "address": "535 Kelly Avenue, Half Moon Bay, CA 94019",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Thu 3pm-5pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu",
+            "4th Thu"
+          ],
+          "open": "15:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "No Strings Attached Breakfast (meal)",
+      "org": "No Strings Attached Breakfast (meal)",
+      "address": "925 Main Street, Half Moon Bay, CA 94019",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "meals",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "09:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Senior Coastsiders (meal program)",
+      "org": "Senior Coastsiders (meal program)",
+      "address": "925 Main St, Half Moon Bay, CA 94019",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "meals",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "14:00"
+        }
+      ],
+      "allowColocated": true
+    },
+    {
+      "name": "Ayudando Latinos A Sonar (ALAS)",
+      "org": "Ayudando Latinos A Sonar (ALAS)",
+      "address": "507 Purissima Street, Half Moon Bay, CA 94019",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 9am-4:30pm; 2nd & 4th Sat 10am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "16:30"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat",
+            "4th Sat"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Coastside Hope Pantry",
+      "org": "Coastside Hope Pantry",
+      "address": "248 Main Street, Half Moon Bay, CA 94019",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Tue, Thu, Fri 8:30am-12pm; Mon-Fri 1pm-5pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Thu",
+            "Fri"
+          ],
+          "open": "08:30",
+          "close": "12:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "13:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "SVDP Our Lady of the Pillar",
+      "org": "SVDP Our Lady of the Pillar",
+      "address": "400 Church St, Half Moon Bay, CA 94019",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 12:30pm-2:30pm; Sat 10am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "12:30",
+          "close": "14:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Coastside Adult Day Health Center (meal)",
+      "org": "Coastside Adult Day Health Center (meal)",
+      "address": "925 Main Street Suite A, Half Moon Bay, CA 94019",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "meals",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ],
+      "allowColocated": true
+    },
+    {
+      "name": "SVDP Our Lady of Refuge",
+      "org": "SVDP Our Lady of Refuge",
+      "address": "146 Sears Ranch Road, La Honda, CA 94020",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sun 12pm-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sun"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Garfield Community School",
+      "org": "Garfield Community School",
+      "address": "3600 Middlefield Road, Menlo Park, CA 94025",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Tue 3pm-4pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue",
+            "4th Tue"
+          ],
+          "open": "15:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Menlo Park Senior Center",
+      "org": "Menlo Park Senior Center",
+      "address": "100 Terminal Ave, Menlo Park, CA 94025",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Thu 10am-11:45am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu",
+            "4th Thu"
+          ],
+          "open": "10:00",
+          "close": "11:45"
+        }
+      ]
+    },
+    {
+      "name": "Mt. Olive Apostolic Holy Church of God (meal)",
+      "org": "Mt. Olive Apostolic Holy Church of God (meal)",
+      "address": "605 Hamilton Avenue, Menlo Park, CA 94025",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "meals",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "16:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Anthony's Dining Room (meal)",
+      "org": "St. Anthony's Dining Room (meal)",
+      "address": "3500 Middlefield Road, Menlo Park, CA 94025",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "meals",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat"
+          ],
+          "open": "11:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Belle Haven Elementary School",
+      "org": "Belle Haven Elementary School",
+      "address": "415 Ivy Drive, Menlo Park, CA 94025",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 2pm-3pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "14:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Little House Adult Day Activity Center",
+      "org": "Little House Adult Day Activity Center",
+      "address": "800 Middle Avenue, Menlo Park, CA 94025",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 11:30am-1:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "11:30",
+          "close": "13:30"
+        }
+      ]
+    },
+    {
+      "name": "Abode Services SMC",
+      "org": "Abode Services SMC",
+      "address": "181 North Rollins Road, Millbrae, CA 94030",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Mon 9am-10am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Mon"
+          ],
+          "open": "09:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Pacifica Resource Center (Buel Ave distribution)",
+      "org": "Pacifica Resource Center (Buel Ave distribution)",
+      "address": "555 Buel Ave, Pacifica, CA 94044",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Wed 2:30pm-4:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Wed"
+          ],
+          "open": "14:30",
+          "close": "16:30"
+        }
+      ]
+    },
+    {
+      "name": "Pacifica Resource Center (2316 Palmetto)",
+      "org": "Pacifica Resource Center (2316 Palmetto)",
+      "address": "2316 Palmetto Avenue, Pacifica, CA 94044",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Thu 9am-12pm; Fri 9am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Pacifica Resource Center (1809 Palmetto)",
+      "org": "Pacifica Resource Center (1809 Palmetto)",
+      "address": "1809 Palmetto Avenue, Pacifica, CA 94044",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Thu 9am-12:30pm; Fri 9am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "09:00",
+          "close": "12:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Puente de la Costa Sur",
+      "org": "Puente de la Costa Sur",
+      "address": "620 North Street, Pescadero, CA 94060",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 8am-5pm; 1st Wed 4pm-6pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "08:00",
+          "close": "17:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Wed"
+          ],
+          "open": "16:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "SVDP St. Anthony Mission",
+      "org": "SVDP St. Anthony Mission",
+      "address": "696 North St, Pescadero, CA 94060",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Sat 2pm-4pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat",
+            "4th Sat"
+          ],
+          "open": "14:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Pescadero Elementary School",
+      "org": "Pescadero Elementary School",
+      "address": "620 North Street, Pescadero, CA 94060",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Mon 4:30pm-5:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Mon",
+            "4th Mon"
+          ],
+          "open": "16:30",
+          "close": "17:30"
+        }
+      ],
+      "allowColocated": true
+    },
+    {
+      "name": "Canada College / SMCCCD",
+      "org": "Canada College / SMCCCD",
+      "address": "4200 Farm Hill Blvd, Redwood City, CA 94061",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 10:30am-12:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "10:30",
+          "close": "12:30"
+        }
+      ]
+    },
+    {
+      "name": "Fair Oaks Adult Activity Center",
+      "org": "Fair Oaks Adult Activity Center",
+      "address": "2600 Middlefield Rd, Redwood City, CA 94063",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Fri 10:30am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Fri",
+            "4th Fri"
+          ],
+          "open": "10:30",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Fair Oaks Community Center",
+      "org": "Fair Oaks Community Center",
+      "address": "2600 Middlefield Rd, Redwood City, CA 94063",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Fri 4pm-6pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri"
+          ],
+          "open": "16:00",
+          "close": "18:00"
+        }
+      ],
+      "allowColocated": true
+    },
+    {
+      "name": "Hoover Elementary School",
+      "org": "Hoover Elementary School",
+      "address": "701 Charter Street, Redwood City, CA 94063",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Thu 3pm-4:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu"
+          ],
+          "open": "15:00",
+          "close": "16:30"
+        }
+      ]
+    },
+    {
+      "name": "John F. Kennedy Middle School",
+      "org": "John F. Kennedy Middle School",
+      "address": "2521 Goodwin Ave, Redwood City, CA 94061",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Thu 3pm-4pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Thu"
+          ],
+          "open": "15:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Rocketship RWC Prep",
+      "org": "Rocketship RWC Prep",
+      "address": "1148 Hudson St, Redwood City, CA 94061",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Fri 3:30pm-5pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri",
+            "3rd Fri"
+          ],
+          "open": "15:30",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Taft Elementary School",
+      "org": "Taft Elementary School",
+      "address": "903 Tenth Ave, Redwood City, CA 94063",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Wed 2:30pm-3:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed"
+          ],
+          "open": "14:30",
+          "close": "15:30"
+        }
+      ]
+    },
+    {
+      "name": "AIDS Community Resource Consortium",
+      "org": "AIDS Community Resource Consortium",
+      "address": "855 Douglas Avenue, Redwood City, CA 94063",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed, Thu 9am-2pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed",
+            "Thu"
+          ],
+          "open": "09:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Project READ - Redwood City Library",
+      "org": "Project READ - Redwood City Library",
+      "address": "1044 Middlefield Road, Redwood City, CA 94063",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 2pm-5pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "14:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Salvation Army Redwood City",
+      "org": "Salvation Army Redwood City",
+      "address": "660 Veterans Blvd, Redwood City, CA 94063",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 9:15am-11am and 1pm-2:30pm; Fri 9:15am-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "09:15",
+          "close": "11:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "13:00",
+          "close": "14:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "09:15",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Service League of San Mateo County",
+      "org": "Service League of San Mateo County",
+      "address": "727 Middlefield Rd, Redwood City, CA 94063",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 8am-5pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "SparkPoint at Canada College",
+      "org": "SparkPoint at Canada College",
+      "address": "4200 Farm Hill Blvd, Redwood City, CA 94061",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue, Wed, Thu 12pm-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "12:00",
+          "close": "16:00"
+        }
+      ],
+      "allowColocated": true
+    },
+    {
+      "name": "St. Francis Center",
+      "org": "St. Francis Center",
+      "address": "151 Buckingham Ave, Redwood City, CA 94063",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 10:30am-1:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "10:30",
+          "close": "13:30"
+        }
+      ]
+    },
+    {
+      "name": "Verbo Family Services",
+      "org": "Verbo Family Services",
+      "address": "2798 Bay Rd, Redwood City, CA 94063",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 11:30am-1:30pm; Fri 4:30pm-8pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "11:30",
+          "close": "13:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "16:30",
+          "close": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "CityTeam at ChaseLove",
+      "org": "CityTeam at ChaseLove",
+      "address": "468 Grand Street, Redwood City, CA 94062",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Sat 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Sat"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Belle Air Elementary School",
+      "org": "Belle Air Elementary School",
+      "address": "450 Third Ave, San Bruno, CA 94066",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Wed 2:30pm-4pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Wed"
+          ],
+          "open": "14:30",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "First Tongan United Methodist Church",
+      "org": "First Tongan United Methodist Church",
+      "address": "560 El Camino Real, San Bruno, CA 94066",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Sat 8am-9:30am; 3rd Sat 1pm-2pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Sat"
+          ],
+          "open": "08:00",
+          "close": "09:30"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "13:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Skyline College",
+      "org": "Skyline College",
+      "address": "3300 College Drive Building 1 Floor 2, San Bruno, CA 94066",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue, Wed, Thu 10:30am-4pm; Fri 10:30am-12:30pm; 1st Fri 3pm-5pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "10:30",
+          "close": "16:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "10:30",
+          "close": "12:30"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri"
+          ],
+          "open": "15:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "San Carlos Adult Community Center",
+      "org": "San Carlos Adult Community Center",
+      "address": "601 Chestnut Street, San Carlos, CA 94070",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 12pm-2pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "12:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "College of San Mateo",
+      "org": "College of San Mateo",
+      "address": "1700 West Hillsdale Blvd, San Mateo, CA 94402",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Fri 11am-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Fri",
+            "4th Fri"
+          ],
+          "open": "11:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Fiesta Gardens International School",
+      "org": "Fiesta Gardens International School",
+      "address": "715 Indian Avenue, San Mateo, CA 94401",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Alternate Sat 9am-10:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "09:00",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "Greater Life Church",
+      "org": "Greater Life Church",
+      "address": "525 South Bayshore Boulevard, San Mateo, CA 94401",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Wed 1pm-2:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Wed",
+            "3rd Wed"
+          ],
+          "open": "13:00",
+          "close": "14:30"
+        }
+      ]
+    },
+    {
+      "name": "Hillsdale High School",
+      "org": "Hillsdale High School",
+      "address": "3115 Del Monte St, San Mateo, CA 94403",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 8am-9:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "08:00",
+          "close": "09:30"
+        }
+      ]
+    },
+    {
+      "name": "Hillsdale United Methodist Church",
+      "org": "Hillsdale United Methodist Church",
+      "address": "303 W 36th Ave, San Mateo, CA 94403",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Fri 3:30pm-5:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri"
+          ],
+          "open": "15:30",
+          "close": "17:30"
+        }
+      ]
+    },
+    {
+      "name": "Martin Luther King Jr Community Center",
+      "org": "Martin Luther King Jr Community Center",
+      "address": "725 Monte Diablo Ave, San Mateo, CA 94401",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Mon 2pm-3pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Mon"
+          ],
+          "open": "14:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Rogell Court",
+      "org": "Rogell Court",
+      "address": "409 Rogell Court, San Mateo, CA 94401",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Mon 8am-8:45am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Mon"
+          ],
+          "open": "08:00",
+          "close": "08:45"
+        }
+      ]
+    },
+    {
+      "name": "Samaritan House at Cottage Grove",
+      "org": "Samaritan House at Cottage Grove",
+      "address": "949 Ocean View Way, San Mateo, CA 94403",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Fri 4pm-5pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Fri"
+          ],
+          "open": "16:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Samaritan House at King Center",
+      "org": "Samaritan House at King Center",
+      "address": "725 Monte Diablo Ave, San Mateo, CA 94401",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Mon 11am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Mon"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ],
+      "allowColocated": true
+    },
+    {
+      "name": "San Mateo County Event Center",
+      "org": "San Mateo County Event Center",
+      "address": "1346 Saratoga Drive, San Mateo, CA 94403",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 8:30am-10:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "08:30",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "Sturge Presbyterian Church",
+      "org": "Sturge Presbyterian Church",
+      "address": "25 South Humboldt Street, San Mateo, CA 94401",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Thu 4pm-5:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu",
+            "3rd Thu"
+          ],
+          "open": "16:00",
+          "close": "17:30"
+        }
+      ]
+    },
+    {
+      "name": "Waypoint Church",
+      "org": "Waypoint Church",
+      "address": "194 W 25th Avenue, San Mateo, CA 94403",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Tue 8:15am-9:15am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue",
+            "4th Tue"
+          ],
+          "open": "08:15",
+          "close": "09:15"
+        }
+      ]
+    },
+    {
+      "name": "Samaritan House (meal program)",
+      "org": "Samaritan House (meal program)",
+      "address": "4031 Pacific Blvd, San Mateo, CA 94403",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "meals",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat",
+            "Sun"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "SVDP of San Mateo County (meal program)",
+      "org": "SVDP of San Mateo County (meal program)",
+      "address": "50 N. B Street, San Mateo, CA 94401",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "meals",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Macedonia Church of God in Christ",
+      "org": "Macedonia Church of God in Christ",
+      "address": "66 N. Claremont Street, San Mateo, CA 94401",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 7am-10:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "07:00",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "Mid-Pen Hispanic Outreach",
+      "org": "Mid-Pen Hispanic Outreach",
+      "address": "194 W. 25th Ave, San Mateo, CA 94403",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 11am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ],
+      "allowColocated": true
+    },
+    {
+      "name": "Samaritan House pantry",
+      "org": "Samaritan House pantry",
+      "address": "4031 Pacific Blvd, San Mateo, CA 94403",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 9am-12pm and 1pm-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "13:00",
+          "close": "16:00"
+        }
+      ],
+      "allowColocated": true
+    },
+    {
+      "name": "Samaritan House (Tilton Ave meal)",
+      "org": "Samaritan House (Tilton Ave meal)",
+      "address": "225 Tilton Avenue, San Mateo, CA 94401",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "meals",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "16:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "All Souls Catholic Church",
+      "org": "All Souls Catholic Church",
+      "address": "315 Walnut Ave, South San Francisco, CA 94080",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Sat 11am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Sat"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Grace Covenant Church",
+      "org": "Grace Covenant Church",
+      "address": "740 Del Monte Avenue, South San Francisco, CA 94080",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Sat 8am-9:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Sat"
+          ],
+          "open": "08:00",
+          "close": "09:30"
+        }
+      ]
+    },
+    {
+      "name": "HPSM",
+      "org": "HPSM",
+      "address": "685 Gateway Boulevard, South San Francisco, CA 94080",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Sat 8am-10am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Sat"
+          ],
+          "open": "08:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Latin American 7th Day Adventist",
+      "org": "Latin American 7th Day Adventist",
+      "address": "540 Miller Ave, South San Francisco, CA 94080",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Thu 3pm-5pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Thu"
+          ],
+          "open": "15:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "South San Francisco Adult School",
+      "org": "South San Francisco Adult School",
+      "address": "825 Southwood Drive, South San Francisco, CA 94080",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Tue 2pm-3pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Tue"
+          ],
+          "open": "14:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "YMCA (1 W. Orange)",
+      "org": "YMCA (1 W. Orange)",
+      "address": "1 W. Orange Ave, South San Francisco, CA 94080",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Wed 12:30pm-1:30pm; 3rd Fri 1:30pm-2:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Wed"
+          ],
+          "open": "12:30",
+          "close": "13:30"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Fri"
+          ],
+          "open": "13:30",
+          "close": "14:30"
+        }
+      ]
+    },
+    {
+      "name": "SVDP Homeless Help Center (meal program)",
+      "org": "SVDP Homeless Help Center (meal program)",
+      "address": "344 Grand Avenue, South San Francisco, CA 94080",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "meals",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Embassy Christian",
+      "org": "Embassy Christian",
+      "address": "925 Linden Avenue, South San Francisco, CA 94080",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Sat 8:30am-10:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat"
+          ],
+          "open": "08:30",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "Primera Iglesia Bautista de SSF",
+      "org": "Primera Iglesia Bautista de SSF",
+      "address": "299 Country Club Drive, South San Francisco, CA 94080",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 6pm-7pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "18:00",
+          "close": "19:00"
+        }
+      ]
+    },
+    {
+      "name": "Unity Lutheran Church",
+      "org": "Unity Lutheran Church",
+      "address": "609 Southwood Drive, South San Francisco, CA 94080",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Sat 11am-12:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Sat"
+          ],
+          "open": "11:00",
+          "close": "12:30"
+        }
+      ]
+    },
+    {
+      "name": "YMCA Community Resource Center",
+      "org": "YMCA Community Resource Center",
+      "address": "1486 Huntington Ave, South San Francisco, CA 94080",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 8am-12pm; Tue, Thu 12pm-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "08:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "open": "12:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "YMCA SSF Library (meal program)",
+      "org": "YMCA SSF Library (meal program)",
+      "address": "840 W Orange Avenue, South San Francisco, CA 94080",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "meals",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Thu"
+          ],
+          "open": "09:00",
+          "close": "10:30"
+        }
+      ]
+    }
+  ]
+}

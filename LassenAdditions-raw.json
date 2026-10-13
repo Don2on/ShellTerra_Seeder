@@ -1,0 +1,276 @@
+{
+  "_meta": {
+    "topic": "Lassen County food distributions",
+    "generated": "2026-10-11",
+    "source": "Hand-collected list (FBNN/Susanville, Central California Food Bank, SF-Marin/Canal Alliance, Merced County Food Bank). Schedules parsed via LA clause parser. lat/lng geocoded downstream.",
+    "note": "Drop-in raw for prepare-food-additions.mjs. Single start-times / \"by appointment\" / \"daily\" route to _deferred."
+  },
+  "sites": [
+    {
+      "name": "Big Valley 50 Plus (Bieber Veterans Hall)",
+      "org": "Big Valley 50 Plus (Bieber Veterans Hall)",
+      "address": "470 Bridge St, Bieber, CA 96009",
+      "phone": "(530) 292-7151",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Senior meals Tue-Thu 11am-2pm; monthly food distribution Thu 11:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "11:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Fort Sage Family Resource Center",
+      "org": "Fort Sage Family Resource Center",
+      "address": "457-440 Sierra Dr, Herlong, CA 96113",
+      "phone": "",
+      "eligibility": "photo ID",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "1st & 3rd Fri 9-11am & 4-6pm; 2nd & 4th Wed 9am-6pm (photo ID)",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri",
+            "3rd Fri"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed",
+            "4th Wed"
+          ],
+          "open": "09:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Freedom Church Ministries",
+      "org": "Freedom Church Ministries",
+      "address": "170 David S Hall, Herlong, CA 96113",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 1:30-3pm; two Saturdays a month 9am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "13:30",
+          "close": "15:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "God Cares Food Pantry",
+      "org": "God Cares Food Pantry",
+      "address": "464-905 Standish Buntingville Rd, Janesville, CA 96114",
+      "phone": "(530) 310-1733",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "Thu 2-5pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "14:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Milford Food Pantry",
+      "org": "Milford Food Pantry",
+      "address": "450-075 Milford Grade Rd, Milford, CA 96121",
+      "phone": "(530) 260-1115",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "drive-through",
+      "schedules": []
+    },
+    {
+      "name": "Crossroads Ministries",
+      "org": "Crossroads Ministries",
+      "address": "2410 Main St, Susanville, CA 96130",
+      "phone": "(530) 251-0701",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Food distribution Mon-Fri 9-11:30am; breakfast 7:30am and lunch 12pm Mon-Fri; dinner Sat 6-8pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "11:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat"
+          ],
+          "open": "18:00",
+          "close": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "HOPE Food Pantry (Susanville United Methodist)",
+      "org": "HOPE Food Pantry (Susanville United Methodist)",
+      "address": "60 S Lassen St, Susanville, CA 96130",
+      "phone": "(530) 249-5839",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 3-6pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "15:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Lassen Family Services",
+      "org": "Lassen Family Services",
+      "address": "1306 Riverside Dr, Susanville, CA 96130",
+      "phone": "(530) 257-5004",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "By appointment Mon, Wed, Fri 8am-5pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed",
+            "Fri"
+          ],
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Salvation Army - Susanville",
+      "org": "Salvation Army - Susanville",
+      "address": "1560 Main St, Susanville, CA 96130",
+      "phone": "(530) 257-0314",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "get a number first",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Fri",
+            "4th Fri"
+          ],
+          "open": "12:30",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Westwood Family Resource Center",
+      "org": "Westwood Family Resource Center",
+      "address": "125 Birch St, Westwood, CA 96137",
+      "phone": "(530) 588-8282",
+      "eligibility": "photo ID",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Fri 1-4pm (photo ID)",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Fri",
+            "4th Fri"
+          ],
+          "open": "13:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Lassen Indian Health Center (tribal food distribution)",
+      "org": "Lassen Indian Health Center (tribal food distribution)",
+      "address": "795 Joaquin St, Susanville, CA 96130",
+      "phone": "(530) 257-2542",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Third week of the month, no time listed",
+      "schedules": []
+    }
+  ]
+}

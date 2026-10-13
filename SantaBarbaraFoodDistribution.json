@@ -1,0 +1,1161 @@
+{
+  "_meta": {
+    "topic": "Net-new SantaBarbara County food distributions",
+    "generated": "2026-10-05",
+    "source": "Research supplementing shell PENDING-SantaBarbara; raw ./SantaBarbaraAdditions-raw.json."
+  },
+  "_deferred": {
+    "add-santa-ynez-valley-community-outreach-outdoor-pan": {
+      "title": "Santa Ynez Valley Community Outreach (outdoor pantry)",
+      "status": "Open daily 24 hours Phone: (805) 688-4571.",
+      "address": "164 W Hwy 246, Buellton, CA 93427",
+      "lat": 34.613418,
+      "lng": -120.196562,
+      "phone": "(805) 688-4571",
+      "eligibility": "",
+      "sourceUrl": "https://foodbanksbc.org"
+    },
+    "add-sandpiper-apartments": {
+      "title": "Sandpiper Apartments",
+      "status": "1st Thu 9am",
+      "address": "375 Ellwood Beach Dr, Goleta, CA 93117",
+      "lat": 34.42579,
+      "lng": -119.88585,
+      "phone": "",
+      "eligibility": "",
+      "sourceUrl": "https://foodbanksbc.org"
+    },
+    "add-family-service-center": {
+      "title": "Family Service Center",
+      "status": "Last Thu of month 12pm",
+      "address": "230 Cesar E. Chavez, Guadalupe, CA 93434",
+      "lat": 34.96094,
+      "lng": -120.58796,
+      "phone": "",
+      "eligibility": "",
+      "sourceUrl": "https://foodbanksbc.org"
+    },
+    "add-cuyama-family-resource-center": {
+      "title": "Cuyama Family Resource Center",
+      "status": "3rd Fri 11am",
+      "address": "4689 Highway 166, New Cuyama, CA 93254",
+      "lat": 34.94582,
+      "lng": -119.68296,
+      "phone": "",
+      "eligibility": "",
+      "sourceUrl": "https://foodbanksbc.org"
+    },
+    "add-franklin-community-center": {
+      "title": "Franklin Community Center",
+      "status": "Thu 1pm; 3rd Tue 1:30pm",
+      "address": "1136 E. Montecito St, Santa Barbara, CA 93103",
+      "lat": 34.42712,
+      "lng": -119.6794,
+      "phone": "",
+      "eligibility": "",
+      "sourceUrl": "https://foodbanksbc.org"
+    },
+    "add-grace-food-pantry": {
+      "title": "Grace Food Pantry",
+      "status": "1st through 4th Sat 9am",
+      "address": "3869 State St, Santa Barbara, CA 93105",
+      "lat": 34.43978,
+      "lng": -119.749588,
+      "phone": "",
+      "eligibility": "",
+      "sourceUrl": "https://foodbanksbc.org"
+    },
+    "add-iglesia-bautista": {
+      "title": "Iglesia Bautista",
+      "status": "3rd Thu 2pm",
+      "address": "736 W. Islay St, Santa Barbara, CA 93101",
+      "lat": 34.420944,
+      "lng": -119.720901,
+      "phone": "",
+      "eligibility": "",
+      "sourceUrl": "https://foodbanksbc.org"
+    },
+    "add-positano-apartments": {
+      "title": "Positano Apartments",
+      "status": "3rd Mon 3:30pm",
+      "address": "11 Camino De Vida, Santa Barbara, CA 93111",
+      "lat": 34.440496,
+      "lng": -119.790406,
+      "phone": "",
+      "eligibility": "",
+      "sourceUrl": "https://foodbanksbc.org"
+    },
+    "add-westside-community-center": {
+      "title": "Westside Community Center",
+      "status": "Mon 1pm",
+      "address": "423 W. Victoria St, Santa Barbara, CA 93101",
+      "lat": 34.419462,
+      "lng": -119.710648,
+      "phone": "",
+      "eligibility": "",
+      "sourceUrl": "https://foodbanksbc.org"
+    },
+    "add-children-s-park-lower-westside": {
+      "title": "Children's Park (Lower Westside)",
+      "status": "1st and 2nd Tue 1pm",
+      "address": "520 Wentworth Ave, Santa Barbara, CA 93101",
+      "lat": 34.41159,
+      "lng": -119.70181,
+      "phone": "",
+      "eligibility": "",
+      "sourceUrl": "https://foodbanksbc.org"
+    },
+    "add-elks-lodge": {
+      "title": "Elks Lodge",
+      "status": "Last Thu of month 9am",
+      "address": "1309 N. Bradley Rd, Santa Maria, CA 93454",
+      "lat": 34.963966,
+      "lng": -120.422285,
+      "phone": "",
+      "eligibility": "",
+      "sourceUrl": "https://foodbanksbc.org"
+    },
+    "add-residences-of-depot-st": {
+      "title": "Residences of Depot St.",
+      "status": "3rd Wed 3pm",
+      "address": "201 W Depot St, Santa Maria, CA 93458",
+      "lat": 34.923458,
+      "lng": -120.438494,
+      "phone": "",
+      "eligibility": "",
+      "sourceUrl": "https://foodbanksbc.org"
+    }
+  },
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "add-veterans-pantry-w12345-0800",
+      "seriesSlug": "add-veterans-pantry",
+      "title": "Veterans Pantry — Free Food",
+      "description": "Free food at Veterans Pantry. Schedule: Mon–Fri 8 AM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Veterans Pantry",
+      "address": "164 W Hwy 246, Buellton, CA 93427",
+      "lat": 34.613418,
+      "lng": -120.196562,
+      "category": "food-assistance",
+      "sourceOrg": "Veterans Pantry",
+      "url": "https://foodbanksbc.org",
+      "schedulePattern": "Mon–Fri 8 AM–5 PM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-carpinteria-children-s-project-m23-1500",
+      "seriesSlug": "add-carpinteria-children-s-project",
+      "title": "Carpinteria Children's Project — Free Food",
+      "description": "Free food at Carpinteria Children's Project. Schedule: 2nd Wed 3 PM–5:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Carpinteria Children's Project",
+      "address": "5201 8th St, Carpinteria, CA 93013",
+      "lat": 35.138187,
+      "lng": -119.464311,
+      "category": "food-assistance",
+      "sourceOrg": "Carpinteria Children's Project",
+      "url": "https://foodbanksbc.org",
+      "schedulePattern": "2nd Wed 3 PM–5:30 PM",
+      "start": "2026-10-07T15:00",
+      "end": "2026-10-07T17:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "2:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-el-camino-school-m44-1600",
+      "seriesSlug": "add-el-camino-school",
+      "title": "El Camino School — Free Food",
+      "description": "Free food at El Camino School. Schedule: 4th Thu 4 PM–6 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "El Camino School",
+      "address": "5020 San Simeon Dr, Santa Barbara, CA 93111",
+      "lat": 34.43992,
+      "lng": -119.79698,
+      "category": "food-assistance",
+      "sourceOrg": "El Camino School",
+      "url": "https://foodbanksbc.org",
+      "schedulePattern": "4th Thu 4 PM–6 PM",
+      "start": "2026-10-08T16:00",
+      "end": "2026-10-08T18:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "4:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-good-shepherd-pantry-m16-0900",
+      "seriesSlug": "add-good-shepherd-pantry",
+      "title": "Good Shepherd Pantry — Free Food",
+      "description": "Free food at Good Shepherd Pantry. Schedule: 1st Sat 9 AM–10 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Good Shepherd Pantry",
+      "address": "380 N. Fairview Ave, Goleta, CA 93117",
+      "lat": 34.445351,
+      "lng": -119.829238,
+      "category": "food-assistance",
+      "sourceOrg": "Good Shepherd Pantry",
+      "url": "https://foodbanksbc.org",
+      "schedulePattern": "1st Sat 9 AM–10 AM",
+      "start": "2026-10-10T09:00",
+      "end": "2026-10-10T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "1:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-goleta-valley-community-center-m26-0830",
+      "seriesSlug": "add-goleta-valley-community-center",
+      "title": "Goleta Valley Community Center — Free Food",
+      "description": "Free food at Goleta Valley Community Center. Schedule: 2nd Sat 8:30 AM–10:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Goleta Valley Community Center",
+      "address": "5679 Hollister Ave, Goleta, CA 93117",
+      "lat": 34.43503,
+      "lng": -119.82344,
+      "category": "food-assistance",
+      "sourceOrg": "Goleta Valley Community Center",
+      "url": "https://foodbanksbc.org",
+      "schedulePattern": "2nd Sat 8:30 AM–10:30 AM",
+      "start": "2026-10-10T08:30",
+      "end": "2026-10-10T10:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-reality-church-at-girls-inc-m-14-1600",
+      "seriesSlug": "add-reality-church-at-girls-inc",
+      "title": "Reality Church (at Girls Inc.) — Free Food",
+      "description": "Free food at Reality Church (at Girls Inc.). Schedule: last Thu 4 PM–5:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Reality Church (at Girls Inc.)",
+      "address": "5315 Foothill Rd, Carpinteria, CA 93013",
+      "lat": 34.406549,
+      "lng": -119.510512,
+      "category": "food-assistance",
+      "sourceOrg": "Reality Church (at Girls Inc.)",
+      "url": "https://foodbanksbc.org",
+      "schedulePattern": "last Thu 4 PM–5:30 PM",
+      "start": "2026-10-08T16:00",
+      "end": "2026-10-08T17:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": -1,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "-1:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-guadalupe-senior-center-m14-1130",
+      "seriesSlug": "add-guadalupe-senior-center",
+      "title": "Guadalupe Senior Center — Free Food",
+      "description": "Free food at Guadalupe Senior Center. Schedule: 1st Thu 11:30 AM–2 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Guadalupe Senior Center",
+      "address": "4545 10th St, Guadalupe, CA 93434",
+      "lat": 34.97097,
+      "lng": -120.57026,
+      "category": "food-assistance",
+      "sourceOrg": "Guadalupe Senior Center",
+      "url": "https://foodbanksbc.org",
+      "schedulePattern": "1st Thu 11:30 AM–2 PM",
+      "start": "2026-10-08T11:30",
+      "end": "2026-10-08T14:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-beatitude-house-w2-1000",
+      "seriesSlug": "add-beatitude-house",
+      "title": "Beatitude House — Free Food",
+      "description": "Free food at Beatitude House. Schedule: Tue 10 AM–11:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Beatitude House",
+      "address": "267 Campodonico Ave, Guadalupe, CA 93434",
+      "lat": 34.961134,
+      "lng": -120.575584,
+      "category": "food-assistance",
+      "sourceOrg": "Beatitude House",
+      "url": "https://foodbanksbc.org",
+      "schedulePattern": "Tue 10 AM–11:30 AM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-l-e-a-p-at-isla-vista-elementary-school-m34-1130",
+      "seriesSlug": "add-l-e-a-p-at-isla-vista-elementary-school",
+      "title": "L.E.A.P. at Isla Vista Elementary School — Free Food",
+      "description": "Free food at L.E.A.P. at Isla Vista Elementary School. Schedule: 3rd Thu 11:30 AM–5:30 PM. Eligibility: by appointment only. Call 805-869-3303 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "L.E.A.P. at Isla Vista Elementary School",
+      "address": "6875 El Colegio Rd, Isla Vista, CA 93117",
+      "lat": 34.416866,
+      "lng": -119.868726,
+      "category": "food-assistance",
+      "sourceOrg": "L.E.A.P. at Isla Vista Elementary School",
+      "url": "https://foodbanksbc.org",
+      "schedulePattern": "3rd Thu 11:30 AM–5:30 PM",
+      "start": "2026-10-08T11:30",
+      "end": "2026-10-08T17:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-catholic-charities-lompoc-w12345-1000",
+      "seriesSlug": "add-catholic-charities-lompoc",
+      "title": "Catholic Charities - Lompoc — Free Food",
+      "description": "Free food at Catholic Charities - Lompoc. Schedule: Mon–Fri 10 AM–11:45 AM; Mon–Fri 12:30 PM–2 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Catholic Charities - Lompoc",
+      "address": "329 N. 2nd St, Lompoc, CA 93436",
+      "lat": 34.64321,
+      "lng": -120.44681,
+      "category": "food-assistance",
+      "sourceOrg": "Catholic Charities - Lompoc",
+      "url": "https://foodbanksbc.org",
+      "schedulePattern": "Mon–Fri 10 AM–11:45 AM; Mon–Fri 12:30 PM–2 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T11:45",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-catholic-charities-lompoc-w12345-1230",
+      "seriesSlug": "add-catholic-charities-lompoc",
+      "title": "Catholic Charities - Lompoc — Free Food",
+      "description": "Free food at Catholic Charities - Lompoc. Schedule: Mon–Fri 10 AM–11:45 AM; Mon–Fri 12:30 PM–2 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Catholic Charities - Lompoc",
+      "address": "329 N. 2nd St, Lompoc, CA 93436",
+      "lat": 34.64321,
+      "lng": -120.44681,
+      "category": "food-assistance",
+      "sourceOrg": "Catholic Charities - Lompoc",
+      "url": "https://foodbanksbc.org",
+      "schedulePattern": "Mon–Fri 10 AM–11:45 AM; Mon–Fri 12:30 PM–2 PM",
+      "start": "2026-09-28T12:30",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-santa-rita-village-m43-1000",
+      "seriesSlug": "add-santa-rita-village",
+      "title": "Santa Rita Village — Free Food",
+      "description": "Free food at Santa Rita Village. Schedule: 4th Wed 10 AM–11:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Santa Rita Village",
+      "address": "926 W. Apricot Ave, Lompoc, CA 93436",
+      "lat": 34.639925,
+      "lng": -120.469357,
+      "category": "food-assistance",
+      "sourceOrg": "Santa Rita Village",
+      "url": "https://foodbanksbc.org",
+      "schedulePattern": "4th Wed 10 AM–11:30 AM",
+      "start": "2026-10-07T10:00",
+      "end": "2026-10-07T11:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "4:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-mission-hills-shopping-center-m11-1500",
+      "seriesSlug": "add-mission-hills-shopping-center",
+      "title": "Mission Hills Shopping Center — Free Food",
+      "description": "Free food at Mission Hills Shopping Center. Schedule: 1st Mon 3 PM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Mission Hills Shopping Center",
+      "address": "1450 Burton Mesa Blvd, Lompoc, CA 93436",
+      "lat": 34.691026,
+      "lng": -120.436225,
+      "category": "food-assistance",
+      "sourceOrg": "Mission Hills Shopping Center",
+      "url": "https://foodbanksbc.org",
+      "schedulePattern": "1st Mon 3 PM–5 PM",
+      "start": "2026-10-05T15:00",
+      "end": "2026-10-05T17:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "1:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-trinity-church-of-the-nazarene-m21-1500",
+      "seriesSlug": "add-trinity-church-of-the-nazarene",
+      "title": "Trinity Church of the Nazarene — Free Food",
+      "description": "Free food at Trinity Church of the Nazarene. Schedule: 2nd Mon 3 PM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Trinity Church of the Nazarene",
+      "address": "500 E North Ave, Lompoc, CA 93436",
+      "lat": 34.652761,
+      "lng": -120.452107,
+      "category": "food-assistance",
+      "sourceOrg": "Trinity Church of the Nazarene",
+      "url": "https://foodbanksbc.org",
+      "schedulePattern": "2nd Mon 3 PM–5 PM",
+      "start": "2026-10-05T15:00",
+      "end": "2026-10-05T17:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "2:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-lompoc-high-school-m-16-0800",
+      "seriesSlug": "add-lompoc-high-school",
+      "title": "Lompoc High School — Free Food",
+      "description": "Free food at Lompoc High School. Schedule: last Sat 8 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Lompoc High School",
+      "address": "515 W. College Ave, Lompoc, CA 93436",
+      "lat": 34.64747,
+      "lng": -120.46309,
+      "category": "food-assistance",
+      "sourceOrg": "Lompoc High School",
+      "url": "https://foodbanksbc.org",
+      "schedulePattern": "last Sat 8 AM–11 AM",
+      "start": "2026-10-10T08:00",
+      "end": "2026-10-10T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": -1,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "-1:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-micah-mission-prepared-meals-w6-1300",
+      "seriesSlug": "add-micah-mission-prepared-meals",
+      "title": "Micah Mission (prepared meals) — Free Food",
+      "description": "Free food at Micah Mission (prepared meals). Schedule: Sat 1 PM–2:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Micah Mission (prepared meals)",
+      "address": "500 E North Ave, Lompoc, CA 93436",
+      "lat": 34.652761,
+      "lng": -120.452107,
+      "category": "food-assistance",
+      "sourceOrg": "Micah Mission (prepared meals)",
+      "url": "https://foodbanksbc.org",
+      "schedulePattern": "Sat 1 PM–2:30 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T14:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-timothy-s-church-prepared-meals-w2-1600",
+      "seriesSlug": "add-st-timothy-s-church-prepared-meals",
+      "title": "St. Timothy's Church (prepared meals) — Free Food",
+      "description": "Free food at St. Timothy's Church (prepared meals). Schedule: Tue 4 PM–5:45 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Timothy's Church (prepared meals)",
+      "address": "403 North J St, Lompoc, CA 93436",
+      "lat": 34.64406,
+      "lng": -120.46085,
+      "category": "food-assistance",
+      "sourceOrg": "St. Timothy's Church (prepared meals)",
+      "url": "https://foodbanksbc.org",
+      "schedulePattern": "Tue 4 PM–5:45 PM",
+      "start": "2026-09-28T16:00",
+      "end": "2026-09-28T17:45",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-la-purisima-catholic-church-prepared-meals-w5-1600",
+      "seriesSlug": "add-la-purisima-catholic-church-prepared-meals",
+      "title": "La Purisima Catholic Church (prepared meals) — Free Food",
+      "description": "Free food at La Purisima Catholic Church (prepared meals). Schedule: Fri 4 PM–4:45 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "La Purisima Catholic Church (prepared meals)",
+      "address": "333 South I St, Lompoc, CA 93436",
+      "lat": 34.634296,
+      "lng": -120.45926,
+      "category": "food-assistance",
+      "sourceOrg": "La Purisima Catholic Church (prepared meals)",
+      "url": "https://foodbanksbc.org",
+      "schedulePattern": "Fri 4 PM–4:45 PM",
+      "start": "2026-09-28T16:00",
+      "end": "2026-09-28T16:45",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-people-helping-people-los-alamos-w4-1000",
+      "seriesSlug": "add-people-helping-people-los-alamos",
+      "title": "People Helping People - Los Alamos — Free Food",
+      "description": "Free food at People Helping People - Los Alamos. Schedule: Thu 10 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "People Helping People - Los Alamos",
+      "address": "260 Gonzalez Dr, Los Alamos, CA 93440",
+      "lat": 34.74681,
+      "lng": -120.2826,
+      "category": "food-assistance",
+      "sourceOrg": "People Helping People - Los Alamos",
+      "url": "https://foodbanksbc.org",
+      "schedulePattern": "Thu 10 AM–11 AM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-orcutt-presbyterian-church-w5-1400",
+      "seriesSlug": "add-orcutt-presbyterian-church",
+      "title": "Orcutt Presbyterian Church — Free Food",
+      "description": "Free food at Orcutt Presbyterian Church. Schedule: Fri 2 PM–4 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Orcutt Presbyterian Church",
+      "address": "993 Patterson Rd, Orcutt, CA 93455",
+      "lat": 34.869057,
+      "lng": -120.422242,
+      "category": "food-assistance",
+      "sourceOrg": "Orcutt Presbyterian Church",
+      "url": "https://foodbanksbc.org",
+      "schedulePattern": "Fri 2 PM–4 PM",
+      "start": "2026-09-28T14:00",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-oasis-orcutt-senior-center-m34-0900",
+      "seriesSlug": "add-oasis-orcutt-senior-center",
+      "title": "Oasis Orcutt Senior Center — Free Food",
+      "description": "Free food at Oasis Orcutt Senior Center. Schedule: 3rd Thu 9 AM–10:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Oasis Orcutt Senior Center",
+      "address": "420 Soares Ave, Orcutt, CA 93455",
+      "lat": 34.861661,
+      "lng": -120.443166,
+      "category": "food-assistance",
+      "sourceOrg": "Oasis Orcutt Senior Center",
+      "url": "https://foodbanksbc.org",
+      "schedulePattern": "3rd Thu 9 AM–10:30 AM",
+      "start": "2026-10-08T09:00",
+      "end": "2026-10-08T10:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-franklin-elementary-school-m36-0830",
+      "seriesSlug": "add-franklin-elementary-school",
+      "title": "Franklin Elementary School — Free Food",
+      "description": "Free food at Franklin Elementary School. Schedule: 3rd Sat 8:30 AM–10:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Franklin Elementary School",
+      "address": "1111 E Mason St, Santa Barbara, CA 93103",
+      "lat": 34.425248,
+      "lng": -119.678135,
+      "category": "food-assistance",
+      "sourceOrg": "Franklin Elementary School",
+      "url": "https://foodbanksbc.org",
+      "schedulePattern": "3rd Sat 8:30 AM–10:30 AM",
+      "start": "2026-10-10T08:30",
+      "end": "2026-10-10T10:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-harding-elementary-auditorium-m42-1430",
+      "seriesSlug": "add-harding-elementary-auditorium",
+      "title": "Harding Elementary Auditorium — Free Food",
+      "description": "Free food at Harding Elementary Auditorium. Schedule: 4th Tue 2:30 PM–5 PM. Call 805-967-5741 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Harding Elementary Auditorium",
+      "address": "1625 Robbins St, Santa Barbara, CA 93101",
+      "lat": 34.41656,
+      "lng": -119.72199,
+      "category": "food-assistance",
+      "sourceOrg": "Harding Elementary Auditorium",
+      "url": "https://foodbanksbc.org",
+      "schedulePattern": "4th Tue 2:30 PM–5 PM",
+      "start": "2026-10-06T14:30",
+      "end": "2026-10-06T17:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "4:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-new-life-church-m32-1300",
+      "seriesSlug": "add-new-life-church",
+      "title": "New Life Church — Free Food",
+      "description": "Free food at New Life Church. Schedule: 3rd Tue 1 PM–2:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "New Life Church",
+      "address": "50 E. Alamar Ave, Santa Barbara, CA 93105",
+      "lat": 34.439826,
+      "lng": -119.724316,
+      "category": "food-assistance",
+      "sourceOrg": "New Life Church",
+      "url": "https://foodbanksbc.org",
+      "schedulePattern": "3rd Tue 1 PM–2:30 PM",
+      "start": "2026-10-06T13:00",
+      "end": "2026-10-06T14:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "3:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-mckinley-elementary-school-m22-1430",
+      "seriesSlug": "add-mckinley-elementary-school",
+      "title": "McKinley Elementary School — Free Food",
+      "description": "Free food at McKinley Elementary School. Schedule: 2nd Tue 2:30 PM–4:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "McKinley Elementary School",
+      "address": "350 Loma Alta Dr, Santa Barbara, CA 93109",
+      "lat": 34.4077,
+      "lng": -119.70148,
+      "category": "food-assistance",
+      "sourceOrg": "McKinley Elementary School",
+      "url": "https://foodbanksbc.org",
+      "schedulePattern": "2nd Tue 2:30 PM–4:30 PM",
+      "start": "2026-10-06T14:30",
+      "end": "2026-10-06T16:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "2:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-presidio-springs-m33-1400",
+      "seriesSlug": "add-presidio-springs",
+      "title": "Presidio Springs — Free Food",
+      "description": "Free food at Presidio Springs. Schedule: 3rd Wed 2 PM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Presidio Springs",
+      "address": "721 Laguna St, Santa Barbara, CA 93101",
+      "lat": 34.423255,
+      "lng": -119.694645,
+      "category": "food-assistance",
+      "sourceOrg": "Presidio Springs",
+      "url": "https://foodbanksbc.org",
+      "schedulePattern": "3rd Wed 2 PM–5 PM",
+      "start": "2026-10-07T14:00",
+      "end": "2026-10-07T17:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-salvation-army-santa-barbara-w24-0900",
+      "seriesSlug": "add-salvation-army-santa-barbara",
+      "title": "Salvation Army - Santa Barbara — Free Food",
+      "description": "Free food at Salvation Army - Santa Barbara. Schedule: Tue, Thu 9 AM–12 PM; Wed 1 PM–4 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salvation Army - Santa Barbara",
+      "address": "4849 Hollister Ave, Santa Barbara, CA 93111",
+      "lat": 34.435956,
+      "lng": -119.790963,
+      "category": "food-assistance",
+      "sourceOrg": "Salvation Army - Santa Barbara",
+      "url": "https://foodbanksbc.org",
+      "schedulePattern": "Tue, Thu 9 AM–12 PM; Wed 1 PM–4 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-salvation-army-santa-barbara-w3-1300",
+      "seriesSlug": "add-salvation-army-santa-barbara",
+      "title": "Salvation Army - Santa Barbara — Free Food",
+      "description": "Free food at Salvation Army - Santa Barbara. Schedule: Tue, Thu 9 AM–12 PM; Wed 1 PM–4 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salvation Army - Santa Barbara",
+      "address": "4849 Hollister Ave, Santa Barbara, CA 93111",
+      "lat": 34.435956,
+      "lng": -119.790963,
+      "category": "food-assistance",
+      "sourceOrg": "Salvation Army - Santa Barbara",
+      "url": "https://foodbanksbc.org",
+      "schedulePattern": "Tue, Thu 9 AM–12 PM; Wed 1 PM–4 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-unity-shoppe-w12345-1000",
+      "seriesSlug": "add-unity-shoppe",
+      "title": "Unity Shoppe — Free Food",
+      "description": "Free food at Unity Shoppe. Schedule: Mon–Fri 10 AM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Unity Shoppe",
+      "address": "1401 Chapala St, Santa Barbara, CA 93101",
+      "lat": 34.424085,
+      "lng": -119.708377,
+      "category": "food-assistance",
+      "sourceOrg": "Unity Shoppe",
+      "url": "https://foodbanksbc.org",
+      "schedulePattern": "Mon–Fri 10 AM–5 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-catholic-charities-santa-barbara-w12345-0900",
+      "seriesSlug": "add-catholic-charities-santa-barbara",
+      "title": "Catholic Charities - Santa Barbara — Free Food",
+      "description": "Free food at Catholic Charities - Santa Barbara. Schedule: Mon–Fri 9 AM–4:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Catholic Charities - Santa Barbara",
+      "address": "609 E. Haley St, Santa Barbara, CA 93103",
+      "lat": 34.423661,
+      "lng": -119.688603,
+      "category": "food-assistance",
+      "sourceOrg": "Catholic Charities - Santa Barbara",
+      "url": "https://foodbanksbc.org",
+      "schedulePattern": "Mon–Fri 9 AM–4:30 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T16:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-la-cumbre-jr-high-school-m34-1430",
+      "seriesSlug": "add-la-cumbre-jr-high-school",
+      "title": "La Cumbre Jr. High School — Free Food",
+      "description": "Free food at La Cumbre Jr. High School. Schedule: 3rd Thu 2:30 PM–4:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "La Cumbre Jr. High School",
+      "address": "2255 Modoc Rd, Santa Barbara, CA 93101",
+      "lat": 34.424102,
+      "lng": -119.728328,
+      "category": "food-assistance",
+      "sourceOrg": "La Cumbre Jr. High School",
+      "url": "https://foodbanksbc.org",
+      "schedulePattern": "3rd Thu 2:30 PM–4:30 PM",
+      "start": "2026-10-08T14:30",
+      "end": "2026-10-08T16:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-allan-hancock-college-m1636-0800",
+      "seriesSlug": "add-allan-hancock-college",
+      "title": "Allan Hancock College — Free Food",
+      "description": "Free food at Allan Hancock College. Schedule: 1st Sat & 3rd Sat 8 AM–10:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Allan Hancock College",
+      "address": "800 S. College Dr, Santa Maria, CA 93454",
+      "lat": 34.942842,
+      "lng": -120.419986,
+      "category": "food-assistance",
+      "sourceOrg": "Allan Hancock College",
+      "url": "https://foodbanksbc.org",
+      "schedulePattern": "1st Sat & 3rd Sat 8 AM–10:30 AM",
+      "start": "2026-10-10T08:00",
+      "end": "2026-10-10T10:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "1:6,3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-boys-girls-club-m26-0830",
+      "seriesSlug": "add-boys-girls-club",
+      "title": "Boys & Girls Club — Free Food",
+      "description": "Free food at Boys & Girls Club. Schedule: 2nd Sat 8:30 AM–10:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Boys & Girls Club",
+      "address": "901 N Railroad Ave, Santa Maria, CA 93458",
+      "lat": 34.961824,
+      "lng": -120.445034,
+      "category": "food-assistance",
+      "sourceOrg": "Boys & Girls Club",
+      "url": "https://foodbanksbc.org",
+      "schedulePattern": "2nd Sat 8:30 AM–10:30 AM",
+      "start": "2026-10-10T08:30",
+      "end": "2026-10-10T10:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-coast-valley-worship-center-w2-1000",
+      "seriesSlug": "add-coast-valley-worship-center",
+      "title": "Coast Valley Worship Center — Free Food",
+      "description": "Free food at Coast Valley Worship Center. Schedule: Tue 10 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Coast Valley Worship Center",
+      "address": "2548 S. Broadway, Santa Maria, CA 93455",
+      "lat": 34.91361,
+      "lng": -120.43444,
+      "category": "food-assistance",
+      "sourceOrg": "Coast Valley Worship Center",
+      "url": "https://foodbanksbc.org",
+      "schedulePattern": "Tue 10 AM–11 AM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-salvation-army-santa-maria-w135-0900",
+      "seriesSlug": "add-salvation-army-santa-maria",
+      "title": "Salvation Army - Santa Maria — Free Food",
+      "description": "Free food at Salvation Army - Santa Maria. Schedule: Mon, Wed, Fri 9 AM–4 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salvation Army - Santa Maria",
+      "address": "200 W. Cook Ave, Santa Maria, CA 93458",
+      "lat": 34.949628,
+      "lng": -120.438041,
+      "category": "food-assistance",
+      "sourceOrg": "Salvation Army - Santa Maria",
+      "url": "https://foodbanksbc.org",
+      "schedulePattern": "Mon, Wed, Fri 9 AM–4 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-peter-s-episcopal-church-w4-0930",
+      "seriesSlug": "add-st-peter-s-episcopal-church",
+      "title": "St. Peter's Episcopal Church — Free Food",
+      "description": "Free food at St. Peter's Episcopal Church. Schedule: Thu 9:30 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Peter's Episcopal Church",
+      "address": "402 S. Lincoln St, Santa Maria, CA 93458",
+      "lat": 34.949574,
+      "lng": -120.437036,
+      "category": "food-assistance",
+      "sourceOrg": "St. Peter's Episcopal Church",
+      "url": "https://foodbanksbc.org",
+      "schedulePattern": "Thu 9:30 AM–11 AM",
+      "start": "2026-09-28T09:30",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-santa-maria-fairpark-m33-0800",
+      "seriesSlug": "add-santa-maria-fairpark",
+      "title": "Santa Maria Fairpark — Free Food",
+      "description": "Free food at Santa Maria Fairpark. Schedule: 3rd Wed 8 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Santa Maria Fairpark",
+      "address": "937 S Thornburg St, Santa Maria, CA 93458",
+      "lat": 34.940506,
+      "lng": -120.443368,
+      "category": "food-assistance",
+      "sourceOrg": "Santa Maria Fairpark",
+      "url": "https://foodbanksbc.org",
+      "schedulePattern": "3rd Wed 8 AM–11 AM",
+      "start": "2026-10-07T08:00",
+      "end": "2026-10-07T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-veterans-clinic-m43-1500",
+      "seriesSlug": "add-veterans-clinic",
+      "title": "Veterans Clinic — Free Food",
+      "description": "Free food at Veterans Clinic. Schedule: 4th Wed 3 PM–4:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Veterans Clinic",
+      "address": "1550 E Main St, Santa Maria, CA 93454",
+      "lat": 34.951638,
+      "lng": -120.409646,
+      "category": "food-assistance",
+      "sourceOrg": "Veterans Clinic",
+      "url": "https://foodbanksbc.org",
+      "schedulePattern": "4th Wed 3 PM–4:30 PM",
+      "start": "2026-10-07T15:00",
+      "end": "2026-10-07T16:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "4:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-red-oaks-baptist-church-m41-1500",
+      "seriesSlug": "add-red-oaks-baptist-church",
+      "title": "Red Oaks Baptist Church — Free Food",
+      "description": "Free food at Red Oaks Baptist Church. Schedule: 4th Mon 3 PM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Red Oaks Baptist Church",
+      "address": "3600 Pinewood Dr, Santa Maria, CA 93455",
+      "lat": 34.89461,
+      "lng": -120.48068,
+      "category": "food-assistance",
+      "sourceOrg": "Red Oaks Baptist Church",
+      "url": "https://foodbanksbc.org",
+      "schedulePattern": "4th Mon 3 PM–5 PM",
+      "start": "2026-10-05T15:00",
+      "end": "2026-10-05T17:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "4:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-american-gi-forum-m22-1300",
+      "seriesSlug": "add-american-gi-forum",
+      "title": "American GI Forum — Free Food",
+      "description": "Free food at American GI Forum. Schedule: 2nd Tue 1 PM–4 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "American GI Forum",
+      "address": "117 W Bunny Ave, Santa Maria, CA 93458",
+      "lat": 34.96342,
+      "lng": -120.436549,
+      "category": "food-assistance",
+      "sourceOrg": "American GI Forum",
+      "url": "https://foodbanksbc.org",
+      "schedulePattern": "2nd Tue 1 PM–4 PM",
+      "start": "2026-10-06T13:00",
+      "end": "2026-10-06T16:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "2:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-bethania-lutheran-church-w2-1715",
+      "seriesSlug": "add-bethania-lutheran-church",
+      "title": "Bethania Lutheran Church — Free Food",
+      "description": "Free food at Bethania Lutheran Church. Schedule: Tue 5:15 PM–6:45 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Bethania Lutheran Church",
+      "address": "603 Atterdag Rd, Solvang, CA 93463",
+      "lat": 34.598922,
+      "lng": -120.14157,
+      "category": "food-assistance",
+      "sourceOrg": "Bethania Lutheran Church",
+      "url": "https://foodbanksbc.org",
+      "schedulePattern": "Tue 5:15 PM–6:45 PM",
+      "start": "2026-09-28T17:15",
+      "end": "2026-09-28T18:45",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-people-helping-people-solvang-w4-1200",
+      "seriesSlug": "add-people-helping-people-solvang",
+      "title": "People Helping People - Solvang — Free Food",
+      "description": "Free food at People Helping People - Solvang. Schedule: Thu 12 PM–4 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "People Helping People - Solvang",
+      "address": "1760 Mission Drive, Solvang, CA 93463",
+      "lat": 34.593513,
+      "lng": -120.137317,
+      "category": "food-assistance",
+      "sourceOrg": "People Helping People - Solvang",
+      "url": "https://foodbanksbc.org",
+      "schedulePattern": "Thu 12 PM–4 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    }
+  ]
+}

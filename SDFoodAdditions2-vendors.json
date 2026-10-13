@@ -1,0 +1,478 @@
+{
+  "_comment": "Net-new SD food sites to ADD to FoodDistributionSD. Deduped vs ./SDFoodVendors.json, ./SDFoodAdditions-vendors.json, ./sd-round2-exclude.json by street#+ZIP.",
+  "_shell": "FoodDistributionSD",
+  "_shellId": "6a84dbe4ec8215c0345e",
+  "_collection": "vendors",
+  "vendors": [
+    {
+      "slug": "sd-add-southern-california-tribal-fdpir-food-distributi",
+      "name": "Southern California Tribal FDPIR Food Distribution",
+      "category": "Food Assistance",
+      "tagline": "USDA FDPIR; monthly distribution rotates to each reservation (Pala, Rincon, Pauma, La Jolla, San Pasqual, Mesa Grande, Los Coyotes, Campo, Viejas, Barona, Santa Ysabel). Call for the current calendar.",
+      "description": "Free food at Southern California Tribal FDPIR Food Distribution (Southern California Tribal Chairmen's Association). Schedule: USDA FDPIR; monthly distribution rotates to each reservation (Pala, Rincon, Pauma, La Jolla, San Pasqual, Mesa Grande, Los Coyotes, Campo, Viejas, Barona, Santa Ysabel). Call for the current calendar.. Eligibility: Tribal/Native American low-income households near reservations; cannot also receive CalFresh; SSN required. Call (760) 749-5608 to confirm before you go — hours change and supplies can run out. Source: community research, Sep 2026.",
+      "logoUrl": "",
+      "website": "https://sctca.net/food-distribution/",
+      "phone": "(760) 749-5608",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "36146 Pala Temecula Road, Pala, CA 92059",
+      "lat": 33.3695,
+      "lng": -117.077307,
+      "neighborhood": "Pala",
+      "hours": "USDA FDPIR; monthly distribution rotates to each reservation (Pala, Rincon, Pauma, La Jolla, San Pasqual, Mesa Grande, Los Coyotes, Campo, Viejas, Barona, Santa Ysabel). Call for the current calendar.",
+      "featured": false,
+      "verified": false,
+      "events": [],
+      "_eventCount": 0,
+      "_category": "independent",
+      "_confidence": "medium"
+    },
+    {
+      "slug": "sd-add-st-vincent-de-paul-pantry-at-our-lady-of-mount-c",
+      "name": "St. Vincent de Paul Pantry at Our Lady of Mount Carmel",
+      "category": "Food Assistance",
+      "tagline": "Mon 2 PM–7 PM; Fri 2 PM–6 PM (diapers Fri 3-6pm)",
+      "description": "Free food at St. Vincent de Paul Pantry at Our Lady of Mount Carmel (SVdP / Our Lady of Mount Carmel Parish). Schedule: Mon 2 PM–7 PM; Fri 2 PM–6 PM (diapers Fri 3-6pm). Eligibility: Local residents in need. Call (619) 428-1415 to confirm before you go — hours change and supplies can run out. Source: community research, Sep 2026.",
+      "logoUrl": "",
+      "website": "https://www.ourladyofmountcarmel-sy.org/",
+      "phone": "(619) 428-1415",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "2020 Alaquinas Drive, San Ysidro, CA 92173",
+      "lat": 32.560045,
+      "lng": -117.044508,
+      "neighborhood": "San Ysidro",
+      "hours": "Mon 2 PM–7 PM; Fri 2 PM–6 PM (diapers Fri 3-6pm)",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-10-02",
+          "time": "14:00",
+          "title": "St. Vincent de Paul Pantry at Our Lady of Mount Carmel — Free Food"
+        },
+        {
+          "date": "2026-10-05",
+          "time": "14:00",
+          "title": "St. Vincent de Paul Pantry at Our Lady of Mount Carmel — Free Food"
+        },
+        {
+          "date": "2026-10-09",
+          "time": "14:00",
+          "title": "St. Vincent de Paul Pantry at Our Lady of Mount Carmel — Free Food"
+        },
+        {
+          "date": "2026-10-12",
+          "time": "14:00",
+          "title": "St. Vincent de Paul Pantry at Our Lady of Mount Carmel — Free Food"
+        },
+        {
+          "date": "2026-10-16",
+          "time": "14:00",
+          "title": "St. Vincent de Paul Pantry at Our Lady of Mount Carmel — Free Food"
+        },
+        {
+          "date": "2026-10-19",
+          "time": "14:00",
+          "title": "St. Vincent de Paul Pantry at Our Lady of Mount Carmel — Free Food"
+        },
+        {
+          "date": "2026-10-23",
+          "time": "14:00",
+          "title": "St. Vincent de Paul Pantry at Our Lady of Mount Carmel — Free Food"
+        },
+        {
+          "date": "2026-10-26",
+          "time": "14:00",
+          "title": "St. Vincent de Paul Pantry at Our Lady of Mount Carmel — Free Food"
+        },
+        {
+          "date": "2026-10-30",
+          "time": "14:00",
+          "title": "St. Vincent de Paul Pantry at Our Lady of Mount Carmel — Free Food"
+        },
+        {
+          "date": "2026-11-02",
+          "time": "14:00",
+          "title": "St. Vincent de Paul Pantry at Our Lady of Mount Carmel — Free Food"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "14:00",
+          "title": "St. Vincent de Paul Pantry at Our Lady of Mount Carmel — Free Food"
+        },
+        {
+          "date": "2026-11-09",
+          "time": "14:00",
+          "title": "St. Vincent de Paul Pantry at Our Lady of Mount Carmel — Free Food"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "14:00",
+          "title": "St. Vincent de Paul Pantry at Our Lady of Mount Carmel — Free Food"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "14:00",
+          "title": "St. Vincent de Paul Pantry at Our Lady of Mount Carmel — Free Food"
+        },
+        {
+          "date": "2026-11-20",
+          "time": "14:00",
+          "title": "St. Vincent de Paul Pantry at Our Lady of Mount Carmel — Free Food"
+        },
+        {
+          "date": "2026-11-23",
+          "time": "14:00",
+          "title": "St. Vincent de Paul Pantry at Our Lady of Mount Carmel — Free Food"
+        },
+        {
+          "date": "2026-11-27",
+          "time": "14:00",
+          "title": "St. Vincent de Paul Pantry at Our Lady of Mount Carmel — Free Food"
+        },
+        {
+          "date": "2026-11-30",
+          "time": "14:00",
+          "title": "St. Vincent de Paul Pantry at Our Lady of Mount Carmel — Free Food"
+        },
+        {
+          "date": "2026-12-04",
+          "time": "14:00",
+          "title": "St. Vincent de Paul Pantry at Our Lady of Mount Carmel — Free Food"
+        },
+        {
+          "date": "2026-12-07",
+          "time": "14:00",
+          "title": "St. Vincent de Paul Pantry at Our Lady of Mount Carmel — Free Food"
+        },
+        {
+          "date": "2026-12-11",
+          "time": "14:00",
+          "title": "St. Vincent de Paul Pantry at Our Lady of Mount Carmel — Free Food"
+        },
+        {
+          "date": "2026-12-14",
+          "time": "14:00",
+          "title": "St. Vincent de Paul Pantry at Our Lady of Mount Carmel — Free Food"
+        },
+        {
+          "date": "2026-12-18",
+          "time": "14:00",
+          "title": "St. Vincent de Paul Pantry at Our Lady of Mount Carmel — Free Food"
+        },
+        {
+          "date": "2026-12-21",
+          "time": "14:00",
+          "title": "St. Vincent de Paul Pantry at Our Lady of Mount Carmel — Free Food"
+        },
+        {
+          "date": "2026-12-25",
+          "time": "14:00",
+          "title": "St. Vincent de Paul Pantry at Our Lady of Mount Carmel — Free Food"
+        },
+        {
+          "date": "2026-12-28",
+          "time": "14:00",
+          "title": "St. Vincent de Paul Pantry at Our Lady of Mount Carmel — Free Food"
+        }
+      ],
+      "_eventCount": 26,
+      "_category": "independent",
+      "_confidence": "medium"
+    },
+    {
+      "slug": "sd-add-chula-vista-church-of-christ-food-pantry",
+      "name": "Chula Vista Church of Christ Food Pantry",
+      "category": "Food Assistance",
+      "tagline": "2nd Sat 11 AM–1 PM (or until food runs out)",
+      "description": "Free food at Chula Vista Church of Christ Food Pantry (Chula Vista Church of Christ). Schedule: 2nd Sat 11 AM–1 PM (or until food runs out). Eligibility: One bag per household. Call (619) 422-7747 to confirm before you go — hours change and supplies can run out. Source: community research, Sep 2026.",
+      "logoUrl": "",
+      "website": "https://www.foodpantries.org/li/ca_91911_chula-vista-church-of-christ-pantry",
+      "phone": "(619) 422-7747",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "470 L Street, Chula Vista, CA 91911",
+      "lat": 32.618303,
+      "lng": -117.078454,
+      "neighborhood": "Chula Vista",
+      "hours": "2nd Sat 11 AM–1 PM (or until food runs out)",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-10-10",
+          "time": "11:00",
+          "title": "Chula Vista Church of Christ Food Pantry — Free Food"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "11:00",
+          "title": "Chula Vista Church of Christ Food Pantry — Free Food"
+        },
+        {
+          "date": "2026-12-12",
+          "time": "11:00",
+          "title": "Chula Vista Church of Christ Food Pantry — Free Food"
+        }
+      ],
+      "_eventCount": 3,
+      "_category": "independent",
+      "_confidence": "high"
+    },
+    {
+      "slug": "sd-add-first-christian-church-of-national-city-food-pan",
+      "name": "First Christian Church of National City Food Pantry",
+      "category": "Food Assistance",
+      "tagline": "Tue 8:30 AM–9:30 AM (plus monthly Friday distributions)",
+      "description": "Free food at First Christian Church of National City Food Pantry (First Christian Church of National City). Schedule: Tue 8:30 AM–9:30 AM (plus monthly Friday distributions). Eligibility: Open to community; walk-in. Call (619) 474-2254 to confirm before you go — hours change and supplies can run out. Source: community research, Sep 2026.",
+      "logoUrl": "",
+      "website": "https://feedam.org/resource/192713",
+      "phone": "(619) 474-2254",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "1800 E 17th Street, National City, CA 91950",
+      "lat": 32.672912,
+      "lng": -117.085821,
+      "neighborhood": "National City",
+      "hours": "Tue 8:30 AM–9:30 AM (plus monthly Friday distributions)",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-09-29",
+          "time": "08:30",
+          "title": "First Christian Church of National City Food Pantry — Free Food"
+        },
+        {
+          "date": "2026-10-06",
+          "time": "08:30",
+          "title": "First Christian Church of National City Food Pantry — Free Food"
+        },
+        {
+          "date": "2026-10-13",
+          "time": "08:30",
+          "title": "First Christian Church of National City Food Pantry — Free Food"
+        },
+        {
+          "date": "2026-10-20",
+          "time": "08:30",
+          "title": "First Christian Church of National City Food Pantry — Free Food"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "08:30",
+          "title": "First Christian Church of National City Food Pantry — Free Food"
+        },
+        {
+          "date": "2026-11-03",
+          "time": "08:30",
+          "title": "First Christian Church of National City Food Pantry — Free Food"
+        },
+        {
+          "date": "2026-11-10",
+          "time": "08:30",
+          "title": "First Christian Church of National City Food Pantry — Free Food"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "08:30",
+          "title": "First Christian Church of National City Food Pantry — Free Food"
+        },
+        {
+          "date": "2026-11-24",
+          "time": "08:30",
+          "title": "First Christian Church of National City Food Pantry — Free Food"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "08:30",
+          "title": "First Christian Church of National City Food Pantry — Free Food"
+        },
+        {
+          "date": "2026-12-08",
+          "time": "08:30",
+          "title": "First Christian Church of National City Food Pantry — Free Food"
+        },
+        {
+          "date": "2026-12-15",
+          "time": "08:30",
+          "title": "First Christian Church of National City Food Pantry — Free Food"
+        },
+        {
+          "date": "2026-12-22",
+          "time": "08:30",
+          "title": "First Christian Church of National City Food Pantry — Free Food"
+        },
+        {
+          "date": "2026-12-29",
+          "time": "08:30",
+          "title": "First Christian Church of National City Food Pantry — Free Food"
+        }
+      ],
+      "_eventCount": 14,
+      "_category": "independent",
+      "_confidence": "medium"
+    },
+    {
+      "slug": "sd-add-paradise-valley-community-services-food-pantry",
+      "name": "Paradise Valley Community Services Food Pantry",
+      "category": "Food Assistance",
+      "tagline": "Tue 9 AM–12 PM",
+      "description": "Free food at Paradise Valley Community Services Food Pantry (Paradise Valley Seventh-day Adventist Church). Schedule: Tue 9 AM–12 PM. Eligibility: Walk-in; behind the church. Confirm hours before you go — supplies can run out. Source: community research, Sep 2026.",
+      "logoUrl": "",
+      "website": "https://www.nationalcityca.gov/government/library/nc-connects",
+      "phone": "",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "2715 Burden Drive, National City, CA 91950",
+      "lat": 32.684241,
+      "lng": -117.07907,
+      "neighborhood": "National City",
+      "hours": "Tue 9 AM–12 PM",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-09-29",
+          "time": "09:00",
+          "title": "Paradise Valley Community Services Food Pantry — Free Food"
+        },
+        {
+          "date": "2026-10-06",
+          "time": "09:00",
+          "title": "Paradise Valley Community Services Food Pantry — Free Food"
+        },
+        {
+          "date": "2026-10-13",
+          "time": "09:00",
+          "title": "Paradise Valley Community Services Food Pantry — Free Food"
+        },
+        {
+          "date": "2026-10-20",
+          "time": "09:00",
+          "title": "Paradise Valley Community Services Food Pantry — Free Food"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "09:00",
+          "title": "Paradise Valley Community Services Food Pantry — Free Food"
+        },
+        {
+          "date": "2026-11-03",
+          "time": "09:00",
+          "title": "Paradise Valley Community Services Food Pantry — Free Food"
+        },
+        {
+          "date": "2026-11-10",
+          "time": "09:00",
+          "title": "Paradise Valley Community Services Food Pantry — Free Food"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "09:00",
+          "title": "Paradise Valley Community Services Food Pantry — Free Food"
+        },
+        {
+          "date": "2026-11-24",
+          "time": "09:00",
+          "title": "Paradise Valley Community Services Food Pantry — Free Food"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "09:00",
+          "title": "Paradise Valley Community Services Food Pantry — Free Food"
+        },
+        {
+          "date": "2026-12-08",
+          "time": "09:00",
+          "title": "Paradise Valley Community Services Food Pantry — Free Food"
+        },
+        {
+          "date": "2026-12-15",
+          "time": "09:00",
+          "title": "Paradise Valley Community Services Food Pantry — Free Food"
+        },
+        {
+          "date": "2026-12-22",
+          "time": "09:00",
+          "title": "Paradise Valley Community Services Food Pantry — Free Food"
+        },
+        {
+          "date": "2026-12-29",
+          "time": "09:00",
+          "title": "Paradise Valley Community Services Food Pantry — Free Food"
+        }
+      ],
+      "_eventCount": 14,
+      "_category": "independent",
+      "_confidence": "medium"
+    },
+    {
+      "slug": "sd-add-we-all-we-got-sd-mutual-aid-food-distribution",
+      "name": "We All We Got SD Mutual Aid Food Distribution",
+      "category": "Food Assistance",
+      "tagline": "2nd Sat & 4th Sat from 12 PM (until supplies last)",
+      "description": "Free food at We All We Got SD Mutual Aid Food Distribution (We All We Got San Diego). Schedule: 2nd Sat & 4th Sat from 12 PM (until supplies last). Eligibility: No ID or proof of income; open to all. Call (619) 800-4473 to confirm before you go — hours change and supplies can run out. Source: community research, Sep 2026.",
+      "logoUrl": "",
+      "website": "https://www.weallwegotsd.com/food-distribution",
+      "phone": "(619) 800-4473",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "4133 Poplar Street, San Diego, CA 92105",
+      "lat": 32.733845,
+      "lng": -117.106085,
+      "neighborhood": "San Diego",
+      "hours": "2nd Sat & 4th Sat from 12 PM (until supplies last)",
+      "featured": false,
+      "verified": false,
+      "events": [
+        {
+          "date": "2026-10-10",
+          "time": "12:00",
+          "title": "We All We Got SD Mutual Aid Food Distribution — Free Food"
+        },
+        {
+          "date": "2026-10-24",
+          "time": "12:00",
+          "title": "We All We Got SD Mutual Aid Food Distribution — Free Food"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "12:00",
+          "title": "We All We Got SD Mutual Aid Food Distribution — Free Food"
+        },
+        {
+          "date": "2026-11-28",
+          "time": "12:00",
+          "title": "We All We Got SD Mutual Aid Food Distribution — Free Food"
+        },
+        {
+          "date": "2026-12-12",
+          "time": "12:00",
+          "title": "We All We Got SD Mutual Aid Food Distribution — Free Food"
+        },
+        {
+          "date": "2026-12-26",
+          "time": "12:00",
+          "title": "We All We Got SD Mutual Aid Food Distribution — Free Food"
+        }
+      ],
+      "_eventCount": 6,
+      "_category": "independent",
+      "_confidence": "high"
+    }
+  ]
+}

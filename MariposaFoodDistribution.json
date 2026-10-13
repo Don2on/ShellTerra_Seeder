@@ -1,0 +1,148 @@
+{
+  "_meta": {
+    "topic": "Net-new Mariposa County food distributions",
+    "generated": "2026-10-05",
+    "source": "Research supplementing shell PENDING-Mariposa; raw ./MariposaAdditions-raw.json."
+  },
+  "_deferred": {},
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "add-circle-of-hope-m32-0900",
+      "seriesSlug": "add-circle-of-hope",
+      "title": "Circle of Hope — Free Food",
+      "description": "Free food at Circle of Hope. Schedule: 3rd Tue 9 AM–11 AM. Call (209) 383-1265 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Circle of Hope",
+      "address": "3567 Hwy 140, Catheys Valley, CA 95306",
+      "lat": 37.4794,
+      "lng": -120.06369,
+      "category": "food-assistance",
+      "sourceOrg": "Circle of Hope",
+      "url": "https://mmcfb.org/usda-site-list",
+      "schedulePattern": "3rd Tue 9 AM–11 AM",
+      "start": "2026-10-06T09:00",
+      "end": "2026-10-06T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "3:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-old-school-house-m-15-0900",
+      "seriesSlug": "add-old-school-house",
+      "title": "Old School House — Free Food",
+      "description": "Free food at Old School House. Schedule: last Fri 9 AM–11 AM. Call (209) 383-1265 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Old School House",
+      "address": "10331 Cemetery Rd, Coulterville, CA 95311",
+      "lat": 37.712835,
+      "lng": -120.19489,
+      "category": "food-assistance",
+      "sourceOrg": "Old School House",
+      "url": "https://mmcfb.org/usda-site-list",
+      "schedulePattern": "last Fri 9 AM–11 AM",
+      "start": "2026-10-09T09:00",
+      "end": "2026-10-09T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": -1,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "-1:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-assembly-of-god-w3-0730",
+      "seriesSlug": "add-assembly-of-god",
+      "title": "Assembly of God — Free Food",
+      "description": "Free food at Assembly of God. Schedule: Wed 7:30 AM–9:30 AM. Call (209) 966-2249 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Assembly of God",
+      "address": "5265 Hwy 49 North, Mariposa, CA 95338",
+      "lat": 37.495543,
+      "lng": -119.980255,
+      "category": "food-assistance",
+      "sourceOrg": "Assembly of God",
+      "url": "https://mmcfb.org/usda-site-list",
+      "schedulePattern": "Wed 7:30 AM–9:30 AM",
+      "start": "2026-09-28T07:30",
+      "end": "2026-09-28T09:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-heritage-house-w12345-0800",
+      "seriesSlug": "add-heritage-house",
+      "title": "Heritage House — Free Food",
+      "description": "Free food at Heritage House. Schedule: Mon–Fri 8 AM–5 PM. Call (209) 966-7770 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Heritage House",
+      "address": "5200 Hwy 49 North, Mariposa, CA 95338",
+      "lat": 37.493282,
+      "lng": -119.975648,
+      "category": "food-assistance",
+      "sourceOrg": "Heritage House",
+      "url": "https://mmcfb.org/",
+      "schedulePattern": "Mon–Fri 8 AM–5 PM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-manna-house-w12345-1000",
+      "seriesSlug": "add-manna-house",
+      "title": "Manna House — Free Food",
+      "description": "Free food at Manna House. Schedule: Mon–Fri 10 AM–2 PM. Call (209) 742-7985 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Manna House",
+      "address": "5127 Charles St, Mariposa, CA 95338",
+      "lat": 37.490374,
+      "lng": -119.970609,
+      "category": "food-assistance",
+      "sourceOrg": "Manna House",
+      "url": "https://mmcfb.org/usda-site-list",
+      "schedulePattern": "Mon–Fri 10 AM–2 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-new-beginnings-church-w24-1300",
+      "seriesSlug": "add-new-beginnings-church",
+      "title": "New Beginnings Church — Free Food",
+      "description": "Free food at New Beginnings Church. Schedule: Tue, Thu 1 PM–2:30 PM. Call (209) 966-8226 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "New Beginnings Church",
+      "address": "4603 Hwy 49 South, Mariposa, CA 95338",
+      "lat": 37.460378,
+      "lng": -119.944103,
+      "category": "food-assistance",
+      "sourceOrg": "New Beginnings Church",
+      "url": "https://mmcfb.org/usda-site-list",
+      "schedulePattern": "Tue, Thu 1 PM–2:30 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T14:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,4"
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "_meta": {
+    "topic": "Net-new Glenn County food distributions",
+    "generated": "2026-10-05",
+    "source": "Research supplementing shell PENDING-Glenn; raw ./GlennAdditions-raw.json."
+  },
+  "_deferred": {
+    "add-elk-creek-grange-monthly-commodity-distribution": {
+      "title": "Elk Creek Grange (monthly commodity distribution)",
+      "status": "date varies, call Phone: (530) 712-2600.",
+      "address": "145 Church St, Elk Creek, CA 95939",
+      "lat": 39.605818,
+      "lng": -122.539378,
+      "phone": "(530) 712-2600",
+      "eligibility": "",
+      "sourceUrl": "https://nvcfoodbank.org/locations/"
+    },
+    "add-hamilton-city-evangelical-free-church-monthly-co": {
+      "title": "Hamilton City Evangelical Free Church (monthly commodity distribution)",
+      "status": "date varies, usually 3rd week Phone: (530) 712-2600.",
+      "address": "490 Los Robles Ave, Hamilton City, CA 95951",
+      "lat": 39.743689,
+      "lng": -122.015508,
+      "phone": "(530) 712-2600",
+      "eligibility": "",
+      "sourceUrl": "https://nvcfoodbank.org/locations/"
+    },
+    "add-federated-church-of-orland": {
+      "title": "Federated Church of Orland",
+      "status": "2nd Tue 10am Phone: (530) 865-3131.",
+      "address": "709 1st St, Orland, CA 95963",
+      "lat": 39.746631,
+      "lng": -122.189796,
+      "phone": "(530) 865-3131",
+      "eligibility": "",
+      "sourceUrl": "https://nvcfoodbank.org/locations/"
+    },
+    "add-glenn-county-fairgrounds-north-state-food-bank-d": {
+      "title": "Glenn County Fairgrounds (North State Food Bank drive-thru)",
+      "status": "Oct 2, 2026; date varies Phone: (530) 712-2600.",
+      "address": "221 E Yolo St, Orland, CA 95963",
+      "lat": 39.741924,
+      "lng": -122.180533,
+      "phone": "(530) 712-2600",
+      "eligibility": "",
+      "sourceUrl": "https://www.buttecaa.com/north-state-food-bank/distribution-calendar/"
+    },
+    "add-real-life-church": {
+      "title": "Real Life Church",
+      "status": "Call ahead for current days and hours.",
+      "address": "1044 Trinity St, Orland, CA 95963",
+      "lat": 39.752823,
+      "lng": -122.204613,
+      "phone": "",
+      "eligibility": "",
+      "sourceUrl": "https://nvcfoodbank.org/locations/"
+    },
+    "add-tri-counties-community-action-partnership": {
+      "title": "Tri Counties Community Action Partnership",
+      "status": "Call ahead for current days and hours.",
+      "address": "318 6th St, Orland, CA 95963",
+      "lat": 39.751028,
+      "lng": -122.197404,
+      "phone": "",
+      "eligibility": "",
+      "sourceUrl": "https://nvcfoodbank.org/locations/"
+    },
+    "add-church-of-the-nazarene-north-valley-community-fo": {
+      "title": "Church of the Nazarene / North Valley Community Food Bank",
+      "status": "Call ahead for current days and hours. Phone: (530) 473-9050.",
+      "address": "216 N Culver St, Willows, CA 95988",
+      "lat": 39.522018,
+      "lng": -122.204226,
+      "phone": "(530) 473-9050",
+      "eligibility": "",
+      "sourceUrl": "https://nvcfoodbank.org"
+    },
+    "add-first-5-glenn-county": {
+      "title": "First 5 Glenn County",
+      "status": "Call ahead for current days and hours. Phone: (530) 934-6885.",
+      "address": "1035 W Wood St, Willows, CA 95988",
+      "lat": 39.524454,
+      "lng": -122.206636,
+      "phone": "(530) 934-6885",
+      "eligibility": "",
+      "sourceUrl": "https://nvcfoodbank.org/locations/"
+    }
+  },
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "add-capay-rancho-assembly-of-god-m32-1400",
+      "seriesSlug": "add-capay-rancho-assembly-of-god",
+      "title": "Capay Rancho Assembly of God — Free Food",
+      "description": "Free food at Capay Rancho Assembly of God. Schedule: 3rd Tue 2 PM–4 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Capay Rancho Assembly of God",
+      "address": "4754 4th Ave, Orland, CA 95963",
+      "lat": 39.776138,
+      "lng": -122.084951,
+      "category": "food-assistance",
+      "sourceOrg": "Capay Rancho Assembly of God",
+      "url": "https://nvcfoodbank.org/locations/",
+      "schedulePattern": "3rd Tue 2 PM–4 PM",
+      "start": "2026-10-06T14:00",
+      "end": "2026-10-06T16:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "3:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-first-christian-church-of-orland-m46-1200",
+      "seriesSlug": "add-first-christian-church-of-orland",
+      "title": "First Christian Church of Orland — Free Food",
+      "description": "Free food at First Christian Church of Orland. Schedule: 4th Sat 12 PM–2 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "First Christian Church of Orland",
+      "address": "635 A St, Orland, CA 95963",
+      "lat": 39.74757,
+      "lng": -122.188497,
+      "category": "food-assistance",
+      "sourceOrg": "First Christian Church of Orland",
+      "url": "https://nvcfoodbank.org/locations/",
+      "schedulePattern": "4th Sat 12 PM–2 PM",
+      "start": "2026-10-10T12:00",
+      "end": "2026-10-10T14:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-orland-pantry-at-first-lutheran-church-w1-1000",
+      "seriesSlug": "add-orland-pantry-at-first-lutheran-church",
+      "title": "Orland Pantry at First Lutheran Church — Free Food",
+      "description": "Free food at Orland Pantry at First Lutheran Church. Schedule: Mon 10 AM–12 PM; Wed 3 PM–5 PM; Wed 9 AM–11 AM. Call (530) 681-6334 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Orland Pantry at First Lutheran Church",
+      "address": "19 Colusa St, Orland, CA 95963",
+      "lat": 39.74597,
+      "lng": -122.188573,
+      "category": "food-assistance",
+      "sourceOrg": "Orland Pantry at First Lutheran Church",
+      "url": "https://nvcfoodbank.org/locations/",
+      "schedulePattern": "Mon 10 AM–12 PM; Wed 3 PM–5 PM; Wed 9 AM–11 AM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-orland-pantry-at-first-lutheran-church-w3-1500",
+      "seriesSlug": "add-orland-pantry-at-first-lutheran-church",
+      "title": "Orland Pantry at First Lutheran Church — Free Food",
+      "description": "Free food at Orland Pantry at First Lutheran Church. Schedule: Mon 10 AM–12 PM; Wed 3 PM–5 PM; Wed 9 AM–11 AM. Call (530) 681-6334 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Orland Pantry at First Lutheran Church",
+      "address": "19 Colusa St, Orland, CA 95963",
+      "lat": 39.74597,
+      "lng": -122.188573,
+      "category": "food-assistance",
+      "sourceOrg": "Orland Pantry at First Lutheran Church",
+      "url": "https://nvcfoodbank.org/locations/",
+      "schedulePattern": "Mon 10 AM–12 PM; Wed 3 PM–5 PM; Wed 9 AM–11 AM",
+      "start": "2026-09-28T15:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-orland-pantry-at-first-lutheran-church-w3-0900",
+      "seriesSlug": "add-orland-pantry-at-first-lutheran-church",
+      "title": "Orland Pantry at First Lutheran Church — Free Food",
+      "description": "Free food at Orland Pantry at First Lutheran Church. Schedule: Mon 10 AM–12 PM; Wed 3 PM–5 PM; Wed 9 AM–11 AM. Call (530) 681-6334 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Orland Pantry at First Lutheran Church",
+      "address": "19 Colusa St, Orland, CA 95963",
+      "lat": 39.74597,
+      "lng": -122.188573,
+      "category": "food-assistance",
+      "sourceOrg": "Orland Pantry at First Lutheran Church",
+      "url": "https://nvcfoodbank.org/locations/",
+      "schedulePattern": "Mon 10 AM–12 PM; Wed 3 PM–5 PM; Wed 9 AM–11 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-first-baptist-church-willows-m45-1200",
+      "seriesSlug": "add-first-baptist-church-willows",
+      "title": "First Baptist Church Willows — Free Food",
+      "description": "Free food at First Baptist Church Willows. Schedule: 4th Fri 12 PM–2 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "First Baptist Church Willows",
+      "address": "154 N Lassen St, Willows, CA 95988",
+      "lat": 39.521524,
+      "lng": -122.199196,
+      "category": "food-assistance",
+      "sourceOrg": "First Baptist Church Willows",
+      "url": "https://nvcfoodbank.org/locations/",
+      "schedulePattern": "4th Fri 12 PM–2 PM",
+      "start": "2026-10-09T12:00",
+      "end": "2026-10-09T14:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "4:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-willows-adventist-community-services-food-bank-w1-0900",
+      "seriesSlug": "add-willows-adventist-community-services-food-bank",
+      "title": "Willows Adventist Community Services Food Bank — Free Food",
+      "description": "Free food at Willows Adventist Community Services Food Bank. Schedule: Mon 9 AM–11 AM; Mon 12 PM–1 PM. Call (530) 934-3212 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Willows Adventist Community Services Food Bank",
+      "address": "543 W 1st Ave, Willows, CA 95988",
+      "lat": 39.53383,
+      "lng": -122.19998,
+      "category": "food-assistance",
+      "sourceOrg": "Willows Adventist Community Services Food Bank",
+      "url": "https://nvcfoodbank.org/locations/",
+      "schedulePattern": "Mon 9 AM–11 AM; Mon 12 PM–1 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-willows-adventist-community-services-food-bank-w1-1200",
+      "seriesSlug": "add-willows-adventist-community-services-food-bank",
+      "title": "Willows Adventist Community Services Food Bank — Free Food",
+      "description": "Free food at Willows Adventist Community Services Food Bank. Schedule: Mon 9 AM–11 AM; Mon 12 PM–1 PM. Call (530) 934-3212 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Willows Adventist Community Services Food Bank",
+      "address": "543 W 1st Ave, Willows, CA 95988",
+      "lat": 39.53383,
+      "lng": -122.19998,
+      "category": "food-assistance",
+      "sourceOrg": "Willows Adventist Community Services Food Bank",
+      "url": "https://nvcfoodbank.org/locations/",
+      "schedulePattern": "Mon 9 AM–11 AM; Mon 12 PM–1 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    }
+  ]
+}

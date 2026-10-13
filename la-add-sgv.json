@@ -1,0 +1,223 @@
+{
+  "sites": [
+    {
+      "name": "ACTION Food Pantry (Grace Lutheran Church)",
+      "org": "A.C.T.I.O.N. / Grace Lutheran Church",
+      "address": "17880 E. Covina Blvd, Covina, CA, 91722",
+      "phone": "(626) 319-0554",
+      "website": "https://www.actionfoodpantry.com/",
+      "eligibility": "Open to the public; new clients may sign up Thursdays beginning at 11am",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["thu"], "open": "12:00", "close": "15:00", "note": "New-client signup from 11:00" }
+      ]
+    },
+    {
+      "name": "Foothill Community Church - Saturday Community Meal",
+      "org": "Foothill Community (Free Methodist) Church",
+      "address": "777 E. Alosta Ave, Azusa, CA, 91702",
+      "phone": "(626) 969-7916",
+      "website": "https://foothill.org/",
+      "eligibility": "Open to anyone; hot meal and fellowship",
+      "category": "hot-meal",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["sat"], "open": "11:00", "close": "13:00", "note": "Community meal (clothing 11:00-12:30)" }
+      ]
+    },
+    {
+      "name": "Union Station Homeless Services - Adult Center",
+      "org": "Union Station Homeless Services",
+      "address": "412 S. Raymond Ave, Pasadena, CA, 91105",
+      "phone": "(626) 240-4550",
+      "website": "https://unionstationhs.org/",
+      "eligibility": "Homeless and low-income adults; sack lunches available daily",
+      "category": "hot-meal",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "weekly", "days": ["sun", "mon", "tue", "wed", "thu", "fri", "sat"], "open": "08:00", "close": "14:30", "note": "Sack lunches daily" }
+      ]
+    },
+    {
+      "name": "First United Methodist Church of Pasadena Food Pantry",
+      "org": "First United Methodist Church of Pasadena",
+      "address": "500 E. Colorado Blvd, Pasadena, CA, 91101",
+      "phone": "(626) 796-0157",
+      "website": "https://www.fumcpasadena.org/",
+      "eligibility": "Open to the public",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["tue"], "open": "10:00", "close": "12:00", "note": "" }
+      ]
+    },
+    {
+      "name": "Hill Avenue Grace Lutheran Church Food Pantry",
+      "org": "Hill Avenue Grace Lutheran Church",
+      "address": "73 N. Hill Ave, Pasadena, CA, 91106",
+      "phone": "(626) 792-4169",
+      "website": "https://www.hillavenuegrace.org/",
+      "eligibility": "Open to the public",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["sat"], "open": "09:30", "close": "11:30", "note": "" }
+      ]
+    },
+    {
+      "name": "Pasadena Senior Center Food Pantry",
+      "org": "Pasadena Senior Center",
+      "address": "85 E. Holly St, Pasadena, CA, 91103",
+      "phone": "(626) 685-6732",
+      "website": "https://www.pasadenaseniorcenter.org/",
+      "eligibility": "Seniors; low-income older adults",
+      "category": "senior",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon", "tue", "wed", "thu", "fri"], "open": "08:30", "close": "16:30", "note": "" }
+      ]
+    },
+    {
+      "name": "Juicy Little Society Senior Food Distribution",
+      "org": "Juicy Little Society (at Fair Oaks Burger)",
+      "address": "2560 N. Fair Oaks Ave, Altadena, CA, 91001",
+      "phone": "(626) 410-5869",
+      "website": "",
+      "eligibility": "Primarily seniors from Altadena and Pasadena",
+      "category": "senior",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["wed"], "open": "12:00", "close": "15:00", "note": "" }
+      ]
+    },
+    {
+      "name": "Westminster Presbyterian Church - ACTS Food Pantry",
+      "org": "Altadena Congregations Together Serving (ACTS) / Westminster Presbyterian Church",
+      "address": "1757 N. Lake Ave, Pasadena, CA, 91104",
+      "phone": "(626) 794-7141",
+      "website": "https://www.wpcpas.org/",
+      "eligibility": "Open to the public; pantry at rear of church",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["sat"], "open": "10:00", "close": "12:00", "note": "" }
+      ]
+    },
+    {
+      "name": "All Saints Church Pasadena - Sack Lunch Program",
+      "org": "All Saints Episcopal Church",
+      "address": "132 N. Euclid Ave, Pasadena, CA, 91101",
+      "phone": "(626) 796-1172",
+      "website": "https://allsaints-pas.org/",
+      "eligibility": "Open to anyone in need",
+      "category": "hot-meal",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon"], "open": "08:00", "close": "11:00", "note": "Sack lunch" }
+      ]
+    },
+    {
+      "name": "Pasadena City College - Lancer Pantry",
+      "org": "Pasadena City College",
+      "address": "1570 E. Colorado Blvd (Room CC-211), Pasadena, CA, 91106",
+      "phone": "(626) 585-7264",
+      "website": "https://pasadena.edu/campus-life/lancer-pantry/index.php",
+      "eligibility": "Currently enrolled PCC students with valid student ID",
+      "category": "college-pantry",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["tue", "wed", "thu"], "open": "10:00", "close": "16:00", "note": "" }
+      ]
+    },
+    {
+      "name": "Mt. San Antonio College - Mountie Fresh Food Pantry",
+      "org": "Mt. San Antonio College Basic Needs",
+      "address": "1100 N. Grand Ave, Walnut, CA, 91789",
+      "phone": "",
+      "website": "https://www.mtsac.edu/basic-needs/mountiefreshfoodpantry.html",
+      "eligibility": "Currently enrolled Mt. SAC students",
+      "category": "college-pantry",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon", "tue"], "open": "08:00", "close": "19:00", "note": "" },
+        { "freq": "weekly", "days": ["wed", "thu"], "open": "08:00", "close": "17:00", "note": "" },
+        { "freq": "weekly", "days": ["fri"], "open": "08:00", "close": "16:30", "note": "" }
+      ]
+    },
+    {
+      "name": "Mission San Gabriel Archangel - Food Pantry",
+      "org": "Mission San Gabriel Archangel (Catholic parish)",
+      "address": "254 Santa Anita St, San Gabriel, CA, 91776",
+      "phone": "(626) 457-3035",
+      "website": "https://sangabrielmissionchurch.org/food-pantry",
+      "eligibility": "Open to the public",
+      "category": "church",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "monthly", "patterns": ["second sunday", "fourth sunday"], "open": "07:00", "close": "10:00", "note": "" }
+      ]
+    },
+    {
+      "name": "Salvation Army Pomona Corps Community Center",
+      "org": "The Salvation Army",
+      "address": "490 E. La Verne Ave, Pomona, CA, 91767",
+      "phone": "(909) 623-1579",
+      "website": "https://pomona.salvationarmy.org/",
+      "eligibility": "Emergency food for low-income residents; call ahead",
+      "category": "pantry",
+      "confidence": "medium",
+      "schedules": []
+    },
+    {
+      "name": "Salvation Army Glendale Corps - People's Choice Market",
+      "org": "The Salvation Army",
+      "address": "801 S. Central Ave, Glendale, CA, 91204",
+      "phone": "(818) 246-5586",
+      "website": "https://glendale-ca.salvationarmy.org/",
+      "eligibility": "Local Glendale/Burbank residents; choice-style food market",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon", "tue", "wed", "thu"], "open": "12:00", "close": "15:00", "note": "" }
+      ]
+    },
+    {
+      "name": "Salvation Army Burbank Corps Food Pantry",
+      "org": "The Salvation Army",
+      "address": "300 E. Angeleno Ave, Burbank, CA, 91502",
+      "phone": "(818) 845-7214",
+      "website": "https://burbank.salvationarmy.org/",
+      "eligibility": "Local Glendale/Burbank residents; call ahead (status may vary)",
+      "category": "pantry",
+      "confidence": "medium",
+      "schedules": []
+    },
+    {
+      "name": "Alhambra Teachers Association Food Distribution",
+      "org": "Alhambra Teachers Association",
+      "address": "3030 W. Main St, Alhambra, CA, 91801",
+      "phone": "(626) 289-1933",
+      "website": "",
+      "eligibility": "Open to the public",
+      "category": "pantry",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "weekly", "days": ["wed"], "open": "09:00", "close": "12:00", "note": "Alternating Wednesdays - call to confirm" }
+      ]
+    },
+    {
+      "name": "All Souls Catholic Church Food Distribution",
+      "org": "All Souls Catholic Church (Alhambra)",
+      "address": "29 S. Electric Ave, Alhambra, CA, 91801",
+      "phone": "(626) 281-0466",
+      "website": "",
+      "eligibility": "Open to the public",
+      "category": "church",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "monthly", "patterns": ["third thursday"], "open": "12:00", "close": "14:00", "note": "" }
+      ]
+    }
+  ]
+}

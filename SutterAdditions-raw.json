@@ -1,0 +1,272 @@
+{
+  "_meta": {
+    "topic": "Sutter County food distributions",
+    "generated": "2026-10-11",
+    "source": "Hand-collected list (Second Harvest of the Greater Valley / Vivery finder, Sutter County resource list, Tehama Together). Schedules parsed via LA clause parser.",
+    "note": "Drop-in raw for prepare-food-additions.mjs. Single-time entries route to _deferred."
+  },
+  "sites": [
+    {
+      "name": "First Baptist of Live Oak",
+      "org": "First Baptist of Live Oak",
+      "address": "2480 Pennington Rd, Live Oak, CA 95953",
+      "phone": "530-695-2894",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Last Sun of month 1:15pm-2:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "last Sun"
+          ],
+          "open": "13:15",
+          "close": "14:30"
+        }
+      ]
+    },
+    {
+      "name": "Meridian Community Church Food Closet",
+      "org": "Meridian Community Church Food Closet",
+      "address": "1121 2nd St, Meridian, CA 95957",
+      "phone": "530-693-1026",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Wed 11am-12:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Wed"
+          ],
+          "open": "11:00",
+          "close": "12:30"
+        }
+      ]
+    },
+    {
+      "name": "Be Xtra Community Center",
+      "org": "Be Xtra Community Center",
+      "address": "1251 E Onstott Rd, Yuba City, CA 95991",
+      "phone": "530-301-3867",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 9am-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "The Bride Church",
+      "org": "The Bride Church",
+      "address": "1321 Peachtree Ln, Yuba City, CA 95993",
+      "phone": "530-751-0505",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 9am-11:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "09:00",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Calvary Christian Center",
+      "org": "Calvary Christian Center",
+      "address": "2620 Colusa Highway, Yuba City, CA 95993",
+      "phone": "530-673-6035",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Sat 12pm until food runs out",
+      "schedules": []
+    },
+    {
+      "name": "Christian Assistance Network Food Pantry",
+      "org": "Christian Assistance Network Food Pantry",
+      "address": "232 Teegarden Ave, Yuba City, CA 95991",
+      "phone": "530-671-7344",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Wed 1pm-3pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed"
+          ],
+          "open": "13:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Church of Glad Tidings",
+      "org": "Church of Glad Tidings",
+      "address": "4444 Live Oak Blvd, Yuba City, CA 95991",
+      "phone": "530-671-3160",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed & Fri 9am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Cornerstone of Hope Food Pantry",
+      "org": "Cornerstone of Hope Food Pantry",
+      "address": "700 Washington Ave, Yuba City, CA 95991",
+      "phone": "530-674-3087",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Sat 9am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat",
+            "4th Sat"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Crossroads Community Church - Store House Ministry",
+      "org": "Crossroads Community Church - Store House Ministry",
+      "address": "445 B Street, Yuba City, CA 95991",
+      "phone": "530-751-9168",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue-Thu 12:30pm-1:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "12:30",
+          "close": "13:30"
+        }
+      ]
+    },
+    {
+      "name": "First Lutheran Church",
+      "org": "First Lutheran Church",
+      "address": "850 Cooper Ave, Yuba City, CA 95991",
+      "phone": "530-673-8894",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "hot meals",
+      "schedules": []
+    },
+    {
+      "name": "Salvation Army Food Pantry",
+      "org": "Salvation Army Food Pantry",
+      "address": "401 Del Norte Ave, Yuba City, CA 95991",
+      "phone": "530-216-4530",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Fri 9am until food runs out",
+      "schedules": []
+    },
+    {
+      "name": "St. Andrew Presbyterian - Mother Hubbard's Cupboard",
+      "org": "St. Andrew Presbyterian - Mother Hubbard's Cupboard",
+      "address": "1390 Franklin Rd, Yuba City, CA 95993",
+      "phone": "530-673-7353",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 1:15pm-3:15pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "13:15",
+          "close": "15:15"
+        }
+      ]
+    },
+    {
+      "name": "St. Vincent de Paul Food Locker",
+      "org": "St. Vincent de Paul Food Locker",
+      "address": "222 Clark Ave, Yuba City, CA 95991",
+      "phone": "530-671-5154",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue-Thu 9:15am-11:15am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "09:15",
+          "close": "11:15"
+        }
+      ]
+    }
+  ]
+}

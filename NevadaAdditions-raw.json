@@ -1,0 +1,218 @@
+{
+  "_meta": {
+    "topic": "Nevada County food distributions",
+    "generated": "2026-10-11",
+    "source": "Hand-collected list (Food Bank for Monterey County, Community Action of Napa Valley, Food Bank of Nevada County / 211). Schedules parsed via LA clause parser. lat/lng geocoded downstream.",
+    "note": "Drop-in raw for prepare-food-additions.mjs. \"Monthly <day>\"/\"twice a month\"/single start-times route to _deferred."
+  },
+  "sites": [
+    {
+      "name": "Gold Country Senior Services (lunch cafe)",
+      "org": "Gold Country Senior Services (lunch cafe)",
+      "address": "231 Colfax Ave, Grass Valley, CA 95945",
+      "phone": "(530) 273-4961",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Lunch Mon, Tue, Thu 12pm",
+      "schedules": []
+    },
+    {
+      "name": "Grass Valley Seventh-day Adventist Church (Food Bank of Nevada County distribution)",
+      "org": "Grass Valley Seventh-day Adventist Church (Food Bank of Nevada County distribution)",
+      "address": "12889 Osborne Hill Rd, Grass Valley, CA 95945",
+      "phone": "(530) 272-3796",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Thu 10am-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu",
+            "4th Thu"
+          ],
+          "open": "10:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Interfaith Food Ministry",
+      "org": "Interfaith Food Ministry",
+      "address": "440 Henderson St, Grass Valley, CA 95945",
+      "phone": "(530) 273-8132",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Wed, Fri, Sat 10am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed",
+            "Fri",
+            "Sat"
+          ],
+          "open": "10:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Sierra United Methodist Church Higgins Corner (Food Bank of Nevada County distribution)",
+      "org": "Sierra United Methodist Church Higgins Corner (Food Bank of Nevada County distribution)",
+      "address": "22559 W. Hacienda Dr, Grass Valley, CA 95949",
+      "phone": "(530) 272-3796",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Thu 3:30-5:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Thu"
+          ],
+          "open": "15:30",
+          "close": "17:30"
+        }
+      ]
+    },
+    {
+      "name": "The Salvation Army (emergency pantry)",
+      "org": "The Salvation Army (emergency pantry)",
+      "address": "10725 Alta St, Grass Valley, CA 95945",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Thu 10am-3pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "10:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Sierra Roots (First Community Church)",
+      "org": "Sierra Roots (First Community Church)",
+      "address": "300 Main St, Nevada City, CA 95959",
+      "phone": "(530) 751-3263",
+      "eligibility": "winter only",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Lunch Thu 11:30am (winter only)",
+      "schedules": []
+    },
+    {
+      "name": "Oak Tree School (Food Bank of Nevada County distribution)",
+      "org": "Oak Tree School (Food Bank of Nevada County distribution)",
+      "address": "18847 Oak Tree Rd, North San Juan, CA 95960",
+      "phone": "(530) 272-3796",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Tue 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "San Juan Ridge PARTNERS Family Resource Center (emergency pantry)",
+      "org": "San Juan Ridge PARTNERS Family Resource Center (emergency pantry)",
+      "address": "18847 Oak Tree Rd, North San Juan, CA 95960",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue & Thu 12-3pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "open": "12:00",
+          "close": "15:00"
+        }
+      ],
+      "allowColocated": true
+    },
+    {
+      "name": "Sierra Community House - Truckee",
+      "org": "Sierra Community House - Truckee",
+      "address": "12116 Chandelle Way Suite D2, Truckee, CA 96161",
+      "phone": "(530) 546-0952",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 1-5:30pm; Wed 3-4:30pm; Thu 2-3:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "13:00",
+          "close": "17:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "15:00",
+          "close": "16:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "14:00",
+          "close": "15:30"
+        }
+      ]
+    },
+    {
+      "name": "Washington Fire Department (Food Bank of Nevada County distribution)",
+      "org": "Washington Fire Department (Food Bank of Nevada County distribution)",
+      "address": "15406 Washington Rd, Washington, CA 95986",
+      "phone": "(530) 272-3796",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Wed 12pm",
+      "schedules": []
+    }
+  ]
+}

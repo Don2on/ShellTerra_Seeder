@@ -1,0 +1,159 @@
+{
+  "sites": [
+    {
+      "slug": "add-woodland-united-methodist-church-community-dinne",
+      "name": "Woodland United Methodist Church Community Dinner",
+      "operating": true,
+      "address": "212 2nd St, Woodland, CA 95695",
+      "phone": "530-662-6274",
+      "website": "https://www.umcwoodland.org/",
+      "schedules": [
+        { "freq": "monthly", "days": ["thu"], "open": "17:00", "close": "18:00", "note": "Last Thursday of the month (hot community dinner); Personal Care Pantry on 1st Thursday 17:00-18:00" }
+      ],
+      "verified": "high",
+      "source": "https://www.altaregional.org/sites/main/files/yolo_county_food_assistance.pdf",
+      "note": "Hot meal served last Thursday 5-6pm per Yolo County food assistance guide. Address/phone confirmed via church site and Yelp."
+    },
+    {
+      "slug": "add-countryside-community-church-food-closet",
+      "name": "Countryside Community Church Food Closet",
+      "operating": true,
+      "address": "26479 Grafton St, Esparto, CA 95627",
+      "phone": "530-787-4110",
+      "website": "https://countrysideucc.org/serving-together/community-cupboard/",
+      "schedules": [
+        { "freq": "weekly", "days": ["wed"], "open": "09:00", "close": "12:00", "note": "" },
+        { "freq": "weekly", "days": ["fri"], "open": "15:00", "close": "17:00", "note": "" }
+      ],
+      "verified": "high",
+      "source": "https://countrysideucc.org/serving-together/community-cupboard/",
+      "note": "Wed 9am-12pm and Fri 3-5pm confirmed; canned and dry goods."
+    },
+    {
+      "slug": "add-calvary-chapel-of-zamora-food-pantry",
+      "name": "Calvary Chapel of Zamora Food Pantry",
+      "operating": true,
+      "address": "9974 Main St, Zamora, CA 95698",
+      "phone": "530-402-7002",
+      "website": "https://www.zamoracalvarychapel.org/",
+      "schedules": [
+        { "freq": "monthly", "days": ["sun"], "open": "11:00", "close": "12:00", "note": "1st and 3rd Sundays" }
+      ],
+      "verified": "high",
+      "source": "https://www.altaregional.org/sites/main/files/yolo_county_food_assistance.pdf",
+      "note": "1st & 3rd Sundays 11am-12pm. Added website (zamoracalvarychapel.org) found during verification."
+    },
+    {
+      "slug": "add-winters-hhsa-service-center-distribution",
+      "name": "Winters HHSA Service Center Distribution",
+      "operating": true,
+      "address": "111 E Grant Ave, Winters, CA 95694",
+      "phone": "530-661-2750",
+      "website": "https://www.yolocounty.gov/health-human-services",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon"], "open": "16:00", "close": "18:00", "note": "" }
+      ],
+      "verified": "high",
+      "source": "https://www.altaregional.org/sites/main/files/yolo_county_food_assistance.pdf",
+      "note": "Every Monday 4-6pm (produce/groceries/canned). Input hours said 4-6pm; confirmed. Added county HHSA website."
+    },
+    {
+      "slug": "add-clarksburg-community-church-produce-distribution",
+      "name": "Clarksburg Community Church Produce Distribution",
+      "operating": true,
+      "address": "52910 Netherlands Ave, Clarksburg, CA 95612",
+      "phone": "530-668-0690",
+      "website": "",
+      "schedules": [
+        { "freq": "monthly", "days": ["tue"], "open": "11:30", "close": "13:00", "note": "1st and 3rd Tuesdays, from 11:30am while supplies last" }
+      ],
+      "verified": "high",
+      "source": "https://yolofoodbank.org/find-food/",
+      "note": "Yolo Food Bank produce distribution 1st & 3rd Tuesdays from 11:30am (end time approximate - while supplies last). Phone 530-668-0690 is Yolo Food Bank's number. Also hosts a 24/7 Little Free Pantry."
+    },
+    {
+      "slug": "add-health-education-council-friday-produce-distribu",
+      "name": "Health Education Council Friday Produce Distribution",
+      "operating": true,
+      "address": "820 Cummins Way, West Sacramento, CA 95605",
+      "phone": "916-556-3344",
+      "website": "https://healthedcouncil.org/",
+      "schedules": [
+        { "freq": "weekly", "days": ["fri"], "open": "08:15", "close": "09:15", "note": "8:15am community walk, produce distribution follows (~8:45am) at Elkhorn Park" }
+      ],
+      "verified": "high",
+      "source": "https://www.yolofoodsecurity.org/food-nutrition-resources/westsacramento",
+      "note": "CORRECTED address: Friday produce (HEC Walk with Friends) is at Elkhorn Park, 820 Cummins Way (not 750). Input's 750 Cummins Way is Elkhorn Village Elementary, which hosts a separate 3rd-Friday canned-goods distribution. Phone corrected to HEC 916-556-3344 (input 530-668-0690 was Yolo Food Bank)."
+    },
+    {
+      "slug": "add-west-sacramento-county-building-produce-distribu",
+      "name": "West Sacramento County Building Produce Distribution",
+      "operating": true,
+      "address": "500-A Jefferson Blvd, West Sacramento, CA 95605",
+      "phone": "530-668-0690",
+      "website": "",
+      "schedules": [
+        { "freq": "weekly", "days": ["wed"], "open": "09:00", "close": "10:00", "note": "Fruits and vegetables. Canned/dry goods also 3rd Tuesday 10:00-10:30." }
+      ],
+      "verified": "high",
+      "source": "https://healthedcouncil.org/file_download/inline/3f01cca4-df5e-4599-b211-062bde8f79bb",
+      "note": "CORRECTED address to 500-A Jefferson Blvd (Yolo County HHSA building, 95605). Wed 9-10am produce confirmed."
+    },
+    {
+      "slug": "add-holy-cross-st-vincent-de-paul-food-locker",
+      "name": "Holy Cross St. Vincent de Paul Food Locker",
+      "operating": true,
+      "address": "1321 Anna St, West Sacramento, CA 95605",
+      "phone": "916-373-3318",
+      "website": "https://www.scd.org/parish/holy-cross-parish-west-sacramento",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon", "wed", "fri"], "open": "16:00", "close": "17:00", "note": "" }
+      ],
+      "verified": "high",
+      "source": "https://www.yolofoodsecurity.org/food-nutrition-resources/westsacramento",
+      "note": "Mon/Wed/Fri 4-5pm confirmed via Yolo Food Security Coalition."
+    },
+    {
+      "slug": "add-west-sacramento-baptist-church-food-pantry",
+      "name": "West Sacramento Baptist Church Food Pantry",
+      "operating": true,
+      "address": "2124 Michigan Blvd, West Sacramento, CA 95691",
+      "phone": "916-217-0439",
+      "website": "https://westsacbapt.com/",
+      "schedules": [
+        { "freq": "monthly", "days": ["wed"], "open": "16:00", "close": "17:00", "note": "2nd and 4th Wednesdays" }
+      ],
+      "verified": "high",
+      "source": "https://www.yolofoodsecurity.org/food-nutrition-resources/westsacramento",
+      "note": "2nd & 4th Wednesdays 4-5pm confirmed. Added website westsacbapt.com. Bring proof of residency."
+    },
+    {
+      "slug": "add-trinity-presbyterian-church-food-pantry",
+      "name": "Trinity Presbyterian Church Food Pantry",
+      "operating": true,
+      "address": "1500 Park Blvd, West Sacramento, CA 95691",
+      "phone": "916-371-5875",
+      "website": "http://www.trinitywestsac.org",
+      "schedules": [
+        { "freq": "monthly", "days": ["thu"], "open": "18:30", "close": "19:30", "note": "3rd Thursday of the month (Out of the Box Food Pantry)" }
+      ],
+      "verified": "high",
+      "source": "https://www.yolofoodsecurity.org/food-nutrition-resources/westsacramento",
+      "note": "3rd Thursday 6:30-7:30pm confirmed. (A separate 1st & 3rd Thursday 9:30am produce distribution is also reported.)"
+    },
+    {
+      "slug": "add-recovery-cafe-west-sacramento",
+      "name": "Recovery Cafe West Sacramento",
+      "operating": true,
+      "address": "920 Drever St, West Sacramento, CA 95605",
+      "phone": "916-509-3566",
+      "website": "https://www.mosaicwestsac.org/recovery-cafe",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon", "tue", "wed", "thu", "fri", "sat"], "open": "12:00", "close": "13:30", "note": "Free lunch 12-1:30pm; cafe open weekdays 11:30am-3pm" }
+      ],
+      "verified": "high",
+      "source": "https://www.yolofoodsecurity.org/food-nutrition-resources/westsacramento",
+      "note": "Located at Community Lutheran Church. Yolo Food Security Coalition lists Mon-Sat 12-1:30pm free meal (matches input). Added website. ZIP corrected to 95605."
+    }
+  ]
+}

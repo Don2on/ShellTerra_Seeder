@@ -1,0 +1,69 @@
+{
+  "_meta": {
+    "topic": "Modoc County food distributions",
+    "generated": "2026-10-11",
+    "source": "Hand-collected list (Mendo Food Network, Merced County Food Bank, T.E.A.C.H. Inc., IMACA/FBNN). Schedules parsed via LA clause parser. lat/lng geocoded downstream.",
+    "note": "Drop-in raw for prepare-food-additions.mjs. \"Monthly (date varies)\" / \"daily\" / single start-times route to _deferred."
+  },
+  "sites": [
+    {
+      "name": "Modoc Senior Center (T.E.A.C.H., Inc.)",
+      "org": "Modoc Senior Center (T.E.A.C.H., Inc.)",
+      "address": "906 W. 4th St, Alturas, CA 96101",
+      "phone": "(530) 233-5556",
+      "eligibility": "",
+      "website": "https://www.teachinc.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue & Thu 9:15am-2:15pm; lunch at 12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "open": "09:15",
+          "close": "14:15"
+        }
+      ]
+    },
+    {
+      "name": "T.E.A.C.H., Inc. Emergency Food Bank",
+      "org": "T.E.A.C.H., Inc. Emergency Food Bank",
+      "address": "112 E. 2nd St, Alturas, CA 96101",
+      "phone": "(530) 233-3111",
+      "eligibility": "",
+      "website": "https://www.teachinc.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "office hours; food once a month per household",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "08:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "13:00",
+          "close": "17:00"
+        }
+      ]
+    }
+  ]
+}

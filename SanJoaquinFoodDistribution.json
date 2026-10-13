@@ -1,0 +1,629 @@
+{
+  "_meta": {
+    "topic": "Net-new SanJoaquin County food distributions",
+    "generated": "2026-10-05",
+    "source": "Research supplementing shell PENDING-SanJoaquin; raw ./SanJoaquinAdditions-raw.json."
+  },
+  "_deferred": {},
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "add-c-a-r-e-w3-0800",
+      "seriesSlug": "add-c-a-r-e",
+      "title": "C.A.R.E. — Free Food",
+      "description": "Free food at C.A.R.E.. Schedule: Wed 8 AM–11 AM. Call 209-417-2048 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "C.A.R.E.",
+      "address": "1601 Second St., Escalon, CA 95320",
+      "lat": 37.79504,
+      "lng": -120.991491,
+      "category": "food-assistance",
+      "sourceOrg": "C.A.R.E.",
+      "url": "https://www.emergencyfoodbank.org/",
+      "schedulePattern": "Wed 8 AM–11 AM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-prayer-valley-family-worship-m2444-0900",
+      "seriesSlug": "add-prayer-valley-family-worship",
+      "title": "Prayer Valley Family Worship — Free Food",
+      "description": "Free food at Prayer Valley Family Worship. Schedule: 2nd Thu & 4th Thu 9 AM–12 PM. Call 209-662-4019 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Prayer Valley Family Worship",
+      "address": "14172 Avon Ave, Lathrop, CA 95330",
+      "lat": 37.831839,
+      "lng": -121.282136,
+      "category": "food-assistance",
+      "sourceOrg": "Prayer Valley Family Worship",
+      "url": "https://www.emergencyfoodbank.org/",
+      "schedulePattern": "2nd Thu & 4th Thu 9 AM–12 PM",
+      "start": "2026-10-08T09:00",
+      "end": "2026-10-08T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "2:4,4:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-salvation-army-lodi-w24-0900",
+      "seriesSlug": "add-salvation-army-lodi",
+      "title": "Salvation Army - Lodi — Free Food",
+      "description": "Free food at Salvation Army - Lodi. Schedule: Tue, Thu 9 AM–10:45 AM. Call 209-369-5896 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salvation Army - Lodi",
+      "address": "525 W. Lockeford St., Lodi, CA 95240",
+      "lat": 38.138403,
+      "lng": -121.279645,
+      "category": "food-assistance",
+      "sourceOrg": "Salvation Army - Lodi",
+      "url": "https://www.emergencyfoodbank.org/",
+      "schedulePattern": "Tue, Thu 9 AM–10:45 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T10:45",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-calvary-community-church-w3-0900",
+      "seriesSlug": "add-calvary-community-church",
+      "title": "Calvary Community Church — Free Food",
+      "description": "Free food at Calvary Community Church. Schedule: Wed 9 AM–12 PM; Thu 4 PM–5 PM. Call 209-239-1345 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Calvary Community Church",
+      "address": "815 West Lathrop Rd., Manteca, CA 95336",
+      "lat": 37.827793,
+      "lng": -121.229114,
+      "category": "food-assistance",
+      "sourceOrg": "Calvary Community Church",
+      "url": "https://www.emergencyfoodbank.org/",
+      "schedulePattern": "Wed 9 AM–12 PM; Thu 4 PM–5 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-calvary-community-church-w4-1600",
+      "seriesSlug": "add-calvary-community-church",
+      "title": "Calvary Community Church — Free Food",
+      "description": "Free food at Calvary Community Church. Schedule: Wed 9 AM–12 PM; Thu 4 PM–5 PM. Call 209-239-1345 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Calvary Community Church",
+      "address": "815 West Lathrop Rd., Manteca, CA 95336",
+      "lat": 37.827793,
+      "lng": -121.229114,
+      "category": "food-assistance",
+      "sourceOrg": "Calvary Community Church",
+      "url": "https://www.emergencyfoodbank.org/",
+      "schedulePattern": "Wed 9 AM–12 PM; Thu 4 PM–5 PM",
+      "start": "2026-09-28T16:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-fellowship-baptist-church-of-manteca-m33-1400",
+      "seriesSlug": "add-fellowship-baptist-church-of-manteca",
+      "title": "Fellowship Baptist Church of Manteca — Free Food",
+      "description": "Free food at Fellowship Baptist Church of Manteca. Schedule: 3rd Wed 2 PM–3:30 PM. Call 209-239-0508 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Fellowship Baptist Church of Manteca",
+      "address": "1130 Pine Street, Manteca, CA 95336",
+      "lat": 37.79892,
+      "lng": -121.200164,
+      "category": "food-assistance",
+      "sourceOrg": "Fellowship Baptist Church of Manteca",
+      "url": "https://www.emergencyfoodbank.org/",
+      "schedulePattern": "3rd Wed 2 PM–3:30 PM",
+      "start": "2026-10-07T14:00",
+      "end": "2026-10-07T15:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-paul-s-united-methodist-m-16-1000",
+      "seriesSlug": "add-st-paul-s-united-methodist",
+      "title": "St. Paul's United Methodist — Free Food",
+      "description": "Free food at St. Paul's United Methodist. Schedule: last Sat 10 AM–12 PM. Call 209-823-7154 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Paul's United Methodist",
+      "address": "910 E North Street, Manteca, CA 95336",
+      "lat": 37.80049,
+      "lng": -121.204394,
+      "category": "food-assistance",
+      "sourceOrg": "St. Paul's United Methodist",
+      "url": "https://www.emergencyfoodbank.org/",
+      "schedulePattern": "last Sat 10 AM–12 PM",
+      "start": "2026-10-10T10:00",
+      "end": "2026-10-10T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": -1,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "-1:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-vincent-de-paul-manteca-w235-1400",
+      "seriesSlug": "add-st-vincent-de-paul-manteca",
+      "title": "St. Vincent De Paul - Manteca — Free Food",
+      "description": "Free food at St. Vincent De Paul - Manteca. Schedule: Tue–Wed, Fri 2 PM–3:30 PM. Call 209-823-8099 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Vincent De Paul - Manteca",
+      "address": "505 E. North St., Manteca, CA 95336",
+      "lat": 37.801192,
+      "lng": -121.210623,
+      "category": "food-assistance",
+      "sourceOrg": "St. Vincent De Paul - Manteca",
+      "url": "https://www.emergencyfoodbank.org/",
+      "schedulePattern": "Tue–Wed, Fri 2 PM–3:30 PM",
+      "start": "2026-09-28T14:00",
+      "end": "2026-09-28T15:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-transformed-through-hope-ministries-m36-1000",
+      "seriesSlug": "add-transformed-through-hope-ministries",
+      "title": "Transformed Through Hope Ministries — Free Food",
+      "description": "Free food at Transformed Through Hope Ministries. Schedule: 3rd Sat 10 AM–12 PM. Call 209-815-9815 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Transformed Through Hope Ministries",
+      "address": "314 Locust Ave, Manteca, CA 95337",
+      "lat": 37.794817,
+      "lng": -121.226513,
+      "category": "food-assistance",
+      "sourceOrg": "Transformed Through Hope Ministries",
+      "url": "https://transformedthministries.org",
+      "schedulePattern": "3rd Sat 10 AM–12 PM",
+      "start": "2026-10-10T10:00",
+      "end": "2026-10-10T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-eastside-church-of-god-in-christ-w2-1430",
+      "seriesSlug": "add-eastside-church-of-god-in-christ",
+      "title": "Eastside Church of God in Christ — Free Food",
+      "description": "Free food at Eastside Church of God in Christ. Schedule: Tue 2:30 PM–4:30 PM. Call 209-942-0220 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Eastside Church of God in Christ",
+      "address": "3206 E. Marsh St, Stockton, CA 95205",
+      "lat": 37.957251,
+      "lng": -121.245348,
+      "category": "food-assistance",
+      "sourceOrg": "Eastside Church of God in Christ",
+      "url": "https://www.emergencyfoodbank.org/",
+      "schedulePattern": "Tue 2:30 PM–4:30 PM",
+      "start": "2026-09-28T14:30",
+      "end": "2026-09-28T16:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-good-samaritan-training-center-w135-0900",
+      "seriesSlug": "add-good-samaritan-training-center",
+      "title": "Good Samaritan Training Center — Free Food",
+      "description": "Free food at Good Samaritan Training Center. Schedule: Mon, Wed, Fri 9 AM–12 PM. Call 209-981-5855 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Good Samaritan Training Center",
+      "address": "1331 E. Fremont St., Stockton, CA 95205",
+      "lat": 37.960645,
+      "lng": -121.274467,
+      "category": "food-assistance",
+      "sourceOrg": "Good Samaritan Training Center",
+      "url": "https://www.emergencyfoodbank.org/",
+      "schedulePattern": "Mon, Wed, Fri 9 AM–12 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-greater-faith-missionary-baptist-church-m46-1400",
+      "seriesSlug": "add-greater-faith-missionary-baptist-church",
+      "title": "Greater Faith Missionary Baptist Church — Free Food",
+      "description": "Free food at Greater Faith Missionary Baptist Church. Schedule: 4th Sat 2 PM–3 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Greater Faith Missionary Baptist Church",
+      "address": "345 W. Worth St., Stockton, CA 95206",
+      "lat": 37.94294,
+      "lng": -121.29373,
+      "category": "food-assistance",
+      "sourceOrg": "Greater Faith Missionary Baptist Church",
+      "url": "https://www.emergencyfoodbank.org/",
+      "schedulePattern": "4th Sat 2 PM–3 PM",
+      "start": "2026-10-10T14:00",
+      "end": "2026-10-10T15:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-light-house-community-church-w7-1100",
+      "seriesSlug": "add-light-house-community-church",
+      "title": "Light House Community Church — Free Food",
+      "description": "Free food at Light House Community Church. Schedule: Sun 11 AM–12 PM. Call 209-463-5208 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Light House Community Church",
+      "address": "2393 Vail St., Stockton, CA 95205",
+      "lat": 37.985118,
+      "lng": -121.267461,
+      "category": "food-assistance",
+      "sourceOrg": "Light House Community Church",
+      "url": "https://www.emergencyfoodbank.org/",
+      "schedulePattern": "Sun 11 AM–12 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-salvation-army-stockton-w13-0900",
+      "seriesSlug": "add-salvation-army-stockton",
+      "title": "Salvation Army - Stockton — Free Food",
+      "description": "Free food at Salvation Army - Stockton. Schedule: Mon, Wed 9 AM–3 PM; Tue, Thu 9 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salvation Army - Stockton",
+      "address": "1305 E Weber St, Stockton, CA 95205",
+      "lat": 37.956672,
+      "lng": -121.274378,
+      "category": "food-assistance",
+      "sourceOrg": "Salvation Army - Stockton",
+      "url": "https://www.emergencyfoodbank.org/",
+      "schedulePattern": "Mon, Wed 9 AM–3 PM; Tue, Thu 9 AM–12 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-salvation-army-stockton-w24-0900",
+      "seriesSlug": "add-salvation-army-stockton",
+      "title": "Salvation Army - Stockton — Free Food",
+      "description": "Free food at Salvation Army - Stockton. Schedule: Mon, Wed 9 AM–3 PM; Tue, Thu 9 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salvation Army - Stockton",
+      "address": "1305 E Weber St, Stockton, CA 95205",
+      "lat": 37.956672,
+      "lng": -121.274378,
+      "category": "food-assistance",
+      "sourceOrg": "Salvation Army - Stockton",
+      "url": "https://www.emergencyfoodbank.org/",
+      "schedulePattern": "Mon, Wed 9 AM–3 PM; Tue, Thu 9 AM–12 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sda-stockton-m33-1100",
+      "seriesSlug": "add-sda-stockton",
+      "title": "SDA Stockton — Free Food",
+      "description": "Free food at SDA Stockton. Schedule: 3rd Wed 11 AM–2 PM. Call 209-465-0217 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "SDA Stockton",
+      "address": "135 W. Vine St., Stockton, CA 95204",
+      "lat": 37.972113,
+      "lng": -121.299406,
+      "category": "food-assistance",
+      "sourceOrg": "SDA Stockton",
+      "url": "https://www.emergencyfoodbank.org/",
+      "schedulePattern": "3rd Wed 11 AM–2 PM",
+      "start": "2026-10-07T11:00",
+      "end": "2026-10-07T14:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sda-valley-community-w3-1000",
+      "seriesSlug": "add-sda-valley-community",
+      "title": "SDA Valley Community — Free Food",
+      "description": "Free food at SDA Valley Community. Schedule: Wed 10 AM–1 PM; 4th Mon 8:30 AM–10 AM. Call 209-915-1959 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "SDA Valley Community",
+      "address": "2929 S B Street, Stockton, CA 95205",
+      "lat": 37.926587,
+      "lng": -121.253016,
+      "category": "food-assistance",
+      "sourceOrg": "SDA Valley Community",
+      "url": "https://www.emergencyfoodbank.org/",
+      "schedulePattern": "Wed 10 AM–1 PM; 4th Mon 8:30 AM–10 AM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sda-valley-community-m41-0830",
+      "seriesSlug": "add-sda-valley-community",
+      "title": "SDA Valley Community — Free Food",
+      "description": "Free food at SDA Valley Community. Schedule: Wed 10 AM–1 PM; 4th Mon 8:30 AM–10 AM. Call 209-915-1959 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "SDA Valley Community",
+      "address": "2929 S B Street, Stockton, CA 95205",
+      "lat": 37.926587,
+      "lng": -121.253016,
+      "category": "food-assistance",
+      "sourceOrg": "SDA Valley Community",
+      "url": "https://www.emergencyfoodbank.org/",
+      "schedulePattern": "Wed 10 AM–1 PM; 4th Mon 8:30 AM–10 AM",
+      "start": "2026-10-05T08:30",
+      "end": "2026-10-05T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "4:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-vincent-de-paul-stockton-w5-1000",
+      "seriesSlug": "add-st-vincent-de-paul-stockton",
+      "title": "St. Vincent de Paul - Stockton — Free Food",
+      "description": "Free food at St. Vincent de Paul - Stockton. Schedule: Fri 10 AM–12 PM. Call 209-465-3081 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Vincent de Paul - Stockton",
+      "address": "2544 Plymouth Rd., Stockton, CA 95204",
+      "lat": 37.96554,
+      "lng": -121.33489,
+      "category": "food-assistance",
+      "sourceOrg": "St. Vincent de Paul - Stockton",
+      "url": "https://www.emergencyfoodbank.org/",
+      "schedulePattern": "Fri 10 AM–12 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-valley-ministries-w7-0900",
+      "seriesSlug": "add-valley-ministries",
+      "title": "Valley Ministries — Free Food",
+      "description": "Free food at Valley Ministries. Schedule: Sun 9 AM–10 AM; Sun 11 AM–11:30 AM; Wed 9 AM–1 PM. Call 209-810-9500 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Valley Ministries",
+      "address": "4118 Coronado Ave., Stockton, CA 95204",
+      "lat": 37.990127,
+      "lng": -121.288727,
+      "category": "food-assistance",
+      "sourceOrg": "Valley Ministries",
+      "url": "https://www.emergencyfoodbank.org/",
+      "schedulePattern": "Sun 9 AM–10 AM; Sun 11 AM–11:30 AM; Wed 9 AM–1 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T10:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-valley-ministries-w7-1100",
+      "seriesSlug": "add-valley-ministries",
+      "title": "Valley Ministries — Free Food",
+      "description": "Free food at Valley Ministries. Schedule: Sun 9 AM–10 AM; Sun 11 AM–11:30 AM; Wed 9 AM–1 PM. Call 209-810-9500 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Valley Ministries",
+      "address": "4118 Coronado Ave., Stockton, CA 95204",
+      "lat": 37.990127,
+      "lng": -121.288727,
+      "category": "food-assistance",
+      "sourceOrg": "Valley Ministries",
+      "url": "https://www.emergencyfoodbank.org/",
+      "schedulePattern": "Sun 9 AM–10 AM; Sun 11 AM–11:30 AM; Wed 9 AM–1 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-valley-ministries-w3-0900",
+      "seriesSlug": "add-valley-ministries",
+      "title": "Valley Ministries — Free Food",
+      "description": "Free food at Valley Ministries. Schedule: Sun 9 AM–10 AM; Sun 11 AM–11:30 AM; Wed 9 AM–1 PM. Call 209-810-9500 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Valley Ministries",
+      "address": "4118 Coronado Ave., Stockton, CA 95204",
+      "lat": 37.990127,
+      "lng": -121.288727,
+      "category": "food-assistance",
+      "sourceOrg": "Valley Ministries",
+      "url": "https://www.emergencyfoodbank.org/",
+      "schedulePattern": "Sun 9 AM–10 AM; Sun 11 AM–11:30 AM; Wed 9 AM–1 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-wings-of-healing-w2-0930",
+      "seriesSlug": "add-wings-of-healing",
+      "title": "Wings of Healing — Free Food",
+      "description": "Free food at Wings of Healing. Schedule: Tue 9:30 AM–12 PM. Call 209-948-5564 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Wings of Healing",
+      "address": "834 East Main St, Stockton, CA 95202",
+      "lat": 37.954061,
+      "lng": -121.279982,
+      "category": "food-assistance",
+      "sourceOrg": "Wings of Healing",
+      "url": "https://www.emergencyfoodbank.org/",
+      "schedulePattern": "Tue 9:30 AM–12 PM",
+      "start": "2026-09-28T09:30",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-community-partnership-for-families-of-san-joaqui-w2-1100",
+      "seriesSlug": "add-community-partnership-for-families-of-san-joaqui",
+      "title": "Community Partnership for Families of San Joaquin — Free Food",
+      "description": "Free food at Community Partnership for Families of San Joaquin. Schedule: Tue 11 AM–12 PM. Call 209-229-4922 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Community Partnership for Families of San Joaquin",
+      "address": "236 W. Beverly Pl., Tracy, CA 95376",
+      "lat": 37.744792,
+      "lng": -121.429198,
+      "category": "food-assistance",
+      "sourceOrg": "Community Partnership for Families of San Joaquin",
+      "url": "https://www.emergencyfoodbank.org/",
+      "schedulePattern": "Tue 11 AM–12 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-interfaith-ministries-tracy-w1234-1000",
+      "seriesSlug": "add-interfaith-ministries-tracy",
+      "title": "Interfaith Ministries - Tracy — Free Food",
+      "description": "Free food at Interfaith Ministries - Tracy. Schedule: Mon–Thu 10 AM–2 PM. Call 209-836-5424 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Interfaith Ministries - Tracy",
+      "address": "311 W. Grantline Rd., Tracy, CA 95376",
+      "lat": 37.755092,
+      "lng": -121.430023,
+      "category": "food-assistance",
+      "sourceOrg": "Interfaith Ministries - Tracy",
+      "url": "https://www.emergencyfoodbank.org/",
+      "schedulePattern": "Mon–Thu 10 AM–2 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-new-heart-church-of-the-nazarene-w1-1500",
+      "seriesSlug": "add-new-heart-church-of-the-nazarene",
+      "title": "New Heart Church of the Nazarene — Free Food",
+      "description": "Free food at New Heart Church of the Nazarene. Schedule: Mon 3 PM–4:30 PM. Call 209-914-7780 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "New Heart Church of the Nazarene",
+      "address": "1647 Bessie Ave., Tracy, CA 95376",
+      "lat": 37.74733,
+      "lng": -121.43351,
+      "category": "food-assistance",
+      "sourceOrg": "New Heart Church of the Nazarene",
+      "url": "https://www.emergencyfoodbank.org/",
+      "schedulePattern": "Mon 3 PM–4:30 PM",
+      "start": "2026-09-28T15:00",
+      "end": "2026-09-28T16:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-tracy-spanish-sda-m33-1030",
+      "seriesSlug": "add-tracy-spanish-sda",
+      "title": "Tracy Spanish SDA — Free Food",
+      "description": "Free food at Tracy Spanish SDA. Schedule: 3rd Wed 10:30 AM–12 PM. Call 209-597-3694 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Tracy Spanish SDA",
+      "address": "2141 Holly Dr., Tracy, CA 95376",
+      "lat": 37.751858,
+      "lng": -121.426223,
+      "category": "food-assistance",
+      "sourceOrg": "Tracy Spanish SDA",
+      "url": "https://www.emergencyfoodbank.org/",
+      "schedulePattern": "3rd Wed 10:30 AM–12 PM",
+      "start": "2026-10-07T10:30",
+      "end": "2026-10-07T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "3:3"
+    }
+  ]
+}

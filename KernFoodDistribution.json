@@ -1,0 +1,1325 @@
+{
+  "_meta": {
+    "topic": "Net-new Kern County food distributions",
+    "generated": "2026-10-05",
+    "source": "Research supplementing shell PENDING-Kern; raw ./KernAdditions-raw.json."
+  },
+  "_deferred": {
+    "add-stallion-springs-community-church-love-thy-neigh": {
+      "title": "Stallion Springs Community Church - Love Thy Neighbor",
+      "status": "2nd Sat  (Drive-thru food distribution (call for time)); last Tue  (Migrant food distribution at Stallion Springs Library, Aug-Nov (call for time)) Phone: 661-823-0799.",
+      "address": "18151 St Andrews Dr, Stallion Springs, CA 93561",
+      "lat": 35.083271,
+      "lng": -118.635215,
+      "phone": "661-823-0799",
+      "eligibility": "",
+      "sourceUrl": "https://www.stallionspringscsd.com/edible-food-recovery-programs"
+    },
+    "add-first-baptist-church-of-boron-pantry-ministry": {
+      "title": "First Baptist Church of Boron Pantry Ministry",
+      "status": "3rd Fri  (Call for distribution time) Phone: 760-762-5149.",
+      "address": "12255 Boron Ave, Boron, CA 93516",
+      "lat": 35.002697,
+      "lng": -117.650365,
+      "phone": "760-762-5149",
+      "eligibility": "Residents of Boron, CA",
+      "sourceUrl": "https://www.foodpantries.org/li/first_baptist_church_food_pantry_4103"
+    },
+    "add-new-hope-temple-food-pantry": {
+      "title": "New Hope Temple Food Pantry",
+      "status": "Last two Tue of the month 8:30am Phone: (661) 765-4572.",
+      "address": "308 Harrison St, Taft, CA 93268",
+      "lat": 35.155243,
+      "lng": -119.456189,
+      "phone": "(661) 765-4572",
+      "eligibility": "",
+      "sourceUrl": "https://newhopetaft.com/food-bank"
+    }
+  },
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "add-the-wonderful-community-food-center-capk-food-ba-w123456-0800",
+      "seriesSlug": "add-the-wonderful-community-food-center-capk-food-ba",
+      "title": "The Wonderful Community Food Center (CAPK Food Bank) — Free Food",
+      "description": "Free food at The Wonderful Community Food Center (CAPK Food Bank) (Community Action Partnership of Kern (CAPK)). Schedule: Mon–Sat 8 AM–11 AM (Emergency food distribution; 200+ access points countywide). Eligibility: Low-income Kern County residents. Call 661-336-5236 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Wonderful Community Food Center (CAPK Food Bank)",
+      "address": "520 S Washington St, Bakersfield, CA 93307",
+      "lat": 35.348813,
+      "lng": -118.980201,
+      "category": "food-assistance",
+      "sourceOrg": "Community Action Partnership of Kern (CAPK)",
+      "url": "https://www.capk.org/food-bank/",
+      "schedulePattern": "Mon–Sat 8 AM–11 AM (Emergency food distribution; 200+ access points countywide)",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5,6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-first-congregational-church-of-bakersfield-ucc-f-w3-0830",
+      "seriesSlug": "add-first-congregational-church-of-bakersfield-ucc-f",
+      "title": "First Congregational Church of Bakersfield (UCC) Food Pantry — Free Food",
+      "description": "Free food at First Congregational Church of Bakersfield (UCC) Food Pantry (First Congregational Church of Bakersfield (UCC)). Schedule: Wed 8:30 AM–11:30 AM (Walk-up; while supplies last; park in East lot on Real Rd). Eligibility: Open to all. Call 661-327-1609 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "First Congregational Church of Bakersfield (UCC) Food Pantry",
+      "address": "5 Real Rd, Bakersfield, CA 93309",
+      "lat": 35.354689,
+      "lng": -119.04401,
+      "category": "food-assistance",
+      "sourceOrg": "First Congregational Church of Bakersfield (UCC)",
+      "url": "https://fccbakersfield-ucc.org/food-pantry",
+      "schedulePattern": "Wed 8:30 AM–11:30 AM (Walk-up; while supplies last; park in East lot on Real Rd)",
+      "start": "2026-09-28T08:30",
+      "end": "2026-09-28T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-catholic-charities-bakersfield-family-resource-c-w12345-0830",
+      "seriesSlug": "add-catholic-charities-bakersfield-family-resource-c",
+      "title": "Catholic Charities Bakersfield Family Resource Center — Free Food",
+      "description": "Free food at Catholic Charities Bakersfield Family Resource Center (Catholic Charities - Diocese of Fresno). Schedule: Mon–Fri 8:30 AM–3:45 PM (Closed daily 12:00-1:00 PM for lunch); 4th Wed 8 AM–10 AM (Farmers-market produce distribution). Eligibility: Must meet Federal Poverty Level; ID, income and residency required; one visit every 30 days. Call 661-281-2130 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Catholic Charities Bakersfield Family Resource Center",
+      "address": "825 Chester Ave, Bakersfield, CA 93301",
+      "lat": 35.365148,
+      "lng": -119.019262,
+      "category": "food-assistance",
+      "sourceOrg": "Catholic Charities - Diocese of Fresno",
+      "url": "https://ccdof.org/",
+      "schedulePattern": "Mon–Fri 8:30 AM–3:45 PM (Closed daily 12:00-1:00 PM for lunch); 4th Wed 8 AM–10 AM (Farmers-market produce distribution)",
+      "start": "2026-09-28T08:30",
+      "end": "2026-09-28T15:45",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-catholic-charities-bakersfield-family-resource-c-m43-0800",
+      "seriesSlug": "add-catholic-charities-bakersfield-family-resource-c",
+      "title": "Catholic Charities Bakersfield Family Resource Center — Free Food",
+      "description": "Free food at Catholic Charities Bakersfield Family Resource Center (Catholic Charities - Diocese of Fresno). Schedule: Mon–Fri 8:30 AM–3:45 PM (Closed daily 12:00-1:00 PM for lunch); 4th Wed 8 AM–10 AM (Farmers-market produce distribution). Eligibility: Must meet Federal Poverty Level; ID, income and residency required; one visit every 30 days. Call 661-281-2130 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Catholic Charities Bakersfield Family Resource Center",
+      "address": "825 Chester Ave, Bakersfield, CA 93301",
+      "lat": 35.365148,
+      "lng": -119.019262,
+      "category": "food-assistance",
+      "sourceOrg": "Catholic Charities - Diocese of Fresno",
+      "url": "https://ccdof.org/",
+      "schedulePattern": "Mon–Fri 8:30 AM–3:45 PM (Closed daily 12:00-1:00 PM for lunch); 4th Wed 8 AM–10 AM (Farmers-market produce distribution)",
+      "start": "2026-10-07T08:00",
+      "end": "2026-10-07T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "4:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-hope-center-bakersfield-w3-0900",
+      "seriesSlug": "add-the-hope-center-bakersfield",
+      "title": "The Hope Center (Bakersfield) — Free Food",
+      "description": "Free food at The Hope Center (Bakersfield) (The Hope Center). Schedule: Wed 9 AM–12 PM (Drive-through only (NW-corner gate on Manor St); may cancel in rain/wind; clothing Tue/Thu/Fri 9-11 AM). Eligibility: Open to all; drive-through only for food. Call 661-399-2119 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Hope Center (Bakersfield)",
+      "address": "3311 Manor St, Bakersfield, CA 93308",
+      "lat": 35.437066,
+      "lng": -119.014848,
+      "category": "food-assistance",
+      "sourceOrg": "The Hope Center",
+      "url": "https://hopecenters.net/about/receive/",
+      "schedulePattern": "Wed 9 AM–12 PM (Drive-through only (NW-corner gate on Manor St); may cancel in rain/wind; clothing Tue/Thu/Fri 9-11 AM)",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-friendship-house-community-center-food-distribut-m43-0930",
+      "seriesSlug": "add-friendship-house-community-center-food-distribut",
+      "title": "Friendship House Community Center Food Distribution — Free Food",
+      "description": "Free food at Friendship House Community Center Food Distribution (Community Action Partnership of Kern (CAPK)). Schedule: 4th Wed from 9:30 AM. Call 661-398-4520 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Friendship House Community Center Food Distribution",
+      "address": "2424 Cottonwood Rd, Bakersfield, CA 93307",
+      "lat": 35.32806,
+      "lng": -118.98429,
+      "category": "food-assistance",
+      "sourceOrg": "Community Action Partnership of Kern (CAPK)",
+      "url": "https://www.capk.org/food-bank/",
+      "schedulePattern": "4th Wed from 9:30 AM",
+      "start": "2026-10-07T09:30",
+      "end": null,
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "4:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-golden-empire-gleaners-w12345-0800",
+      "seriesSlug": "add-golden-empire-gleaners",
+      "title": "Golden Empire Gleaners — Free Food",
+      "description": "Free food at Golden Empire Gleaners. Schedule: Mon–Fri 8 AM–2 PM (Closed daily 11:45 AM-12:30 PM; closed the 1st Friday of each month; by referral). Eligibility: Kern County residents; referral from an assisting agency required. Call 661-324-2767 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Golden Empire Gleaners",
+      "address": "1326 30th St, Bakersfield, CA 93301",
+      "lat": 35.38765,
+      "lng": -119.017759,
+      "category": "food-assistance",
+      "sourceOrg": "Golden Empire Gleaners",
+      "url": "https://www.goldenempiregleaners.com/",
+      "schedulePattern": "Mon–Fri 8 AM–2 PM (Closed daily 11:45 AM-12:30 PM; closed the 1st Friday of each month; by referral)",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-salvation-army-bakersfield-corps-food-pantry-w1234-1300",
+      "seriesSlug": "add-the-salvation-army-bakersfield-corps-food-pantry",
+      "title": "The Salvation Army Bakersfield Corps Food Pantry — Free Food",
+      "description": "Free food at The Salvation Army Bakersfield Corps Food Pantry (The Salvation Army of Bakersfield). Schedule: Mon–Thu 1 PM–4 PM (Food pantry); Fri 11 AM–1 PM (Commodity distribution). Eligibility: Bakersfield residents (all ZIP codes incl. Oildale); one box per household per month; ID and proof of address required. Call 661-325-8626 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Salvation Army Bakersfield Corps Food Pantry",
+      "address": "4417 Wilson Rd, Bakersfield, CA 93309",
+      "lat": 35.332142,
+      "lng": -119.054129,
+      "category": "food-assistance",
+      "sourceOrg": "The Salvation Army of Bakersfield",
+      "url": "https://bakersfield.salvationarmy.org/bakersfield_corps",
+      "schedulePattern": "Mon–Thu 1 PM–4 PM (Food pantry); Fri 11 AM–1 PM (Commodity distribution)",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-salvation-army-bakersfield-corps-food-pantry-w5-1100",
+      "seriesSlug": "add-the-salvation-army-bakersfield-corps-food-pantry",
+      "title": "The Salvation Army Bakersfield Corps Food Pantry — Free Food",
+      "description": "Free food at The Salvation Army Bakersfield Corps Food Pantry (The Salvation Army of Bakersfield). Schedule: Mon–Thu 1 PM–4 PM (Food pantry); Fri 11 AM–1 PM (Commodity distribution). Eligibility: Bakersfield residents (all ZIP codes incl. Oildale); one box per household per month; ID and proof of address required. Call 661-325-8626 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Salvation Army Bakersfield Corps Food Pantry",
+      "address": "4417 Wilson Rd, Bakersfield, CA 93309",
+      "lat": 35.332142,
+      "lng": -119.054129,
+      "category": "food-assistance",
+      "sourceOrg": "The Salvation Army of Bakersfield",
+      "url": "https://bakersfield.salvationarmy.org/bakersfield_corps",
+      "schedulePattern": "Mon–Thu 1 PM–4 PM (Food pantry); Fri 11 AM–1 PM (Commodity distribution)",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-valley-baptist-church-food-pantry-m2146-1000",
+      "seriesSlug": "add-valley-baptist-church-food-pantry",
+      "title": "Valley Baptist Church Food Pantry — Free Food",
+      "description": "Free food at Valley Baptist Church Food Pantry (Valley Baptist Church). Schedule: 2nd Mon & 4th Sat 10 AM–11:30 AM (Also one Tuesday per month (week varies); arrive before 9 AM; begins 9 AM when forecast is 100°F+). Eligibility: Open to all; first come, first served. Call 661-387-6306 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Valley Baptist Church Food Pantry",
+      "address": "5500 Olive Dr, Bakersfield, CA 93308",
+      "lat": 35.413101,
+      "lng": -119.064102,
+      "category": "food-assistance",
+      "sourceOrg": "Valley Baptist Church",
+      "url": "https://www.valleybaptist.org/care",
+      "schedulePattern": "2nd Mon & 4th Sat 10 AM–11:30 AM (Also one Tuesday per month (week varies); arrive before 9 AM; begins 9 AM when forecast is 100°F+)",
+      "start": "2026-10-05T10:00",
+      "end": "2026-10-05T11:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 1
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:1,4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-bakersfield-christian-church-food-pantry-m34-1300",
+      "seriesSlug": "add-bakersfield-christian-church-food-pantry",
+      "title": "Bakersfield Christian Church Food Pantry — Free Food",
+      "description": "Free food at Bakersfield Christian Church Food Pantry (Bakersfield Christian Church). Schedule: 3rd Thu from 1 PM (Parking-lot giveaway). Call 661-872-2783 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Bakersfield Christian Church Food Pantry",
+      "address": "3200 Bernard St, Bakersfield, CA 93306",
+      "lat": 35.392749,
+      "lng": -118.956526,
+      "category": "food-assistance",
+      "sourceOrg": "Bakersfield Christian Church",
+      "url": "https://www.bakersfieldchristianchurch.com/missions/pages/Food-Bank",
+      "schedulePattern": "3rd Thu from 1 PM (Parking-lot giveaway)",
+      "start": "2026-10-08T13:00",
+      "end": null,
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-children-first-food-distribution-david-nelson-po-m34-1600",
+      "seriesSlug": "add-children-first-food-distribution-david-nelson-po",
+      "title": "Children First Food Distribution (David Nelson Pocket Park) — Free Food",
+      "description": "Free food at Children First Food Distribution (David Nelson Pocket Park) (Children First / CAPK Food Bank). Schedule: 3rd Thu from 4 PM (Runs until food runs out; drive-thru and walk-up; pre-register for faster check-in). Eligibility: Open to anyone in need of food. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Children First Food Distribution (David Nelson Pocket Park)",
+      "address": "1511 Niles St, Bakersfield, CA 93305",
+      "lat": 35.37856,
+      "lng": -118.97819,
+      "category": "food-assistance",
+      "sourceOrg": "Children First / CAPK Food Bank",
+      "url": "https://childrenfirstbakersfield.org/events/food-distributions/",
+      "schedulePattern": "3rd Thu from 4 PM (Runs until food runs out; drive-thru and walk-up; pre-register for faster check-in)",
+      "start": "2026-10-08T16:00",
+      "end": null,
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-mission-at-kern-county-w1234567-0600",
+      "seriesSlug": "add-the-mission-at-kern-county",
+      "title": "The Mission at Kern County — Free Food",
+      "description": "Free food at The Mission at Kern County. Schedule: Mon–Sun 6 AM–7 AM (Breakfast); Mon–Sun 11 AM–12 PM (Lunch); Mon–Sun 4:30 PM–5:30 PM (Dinner). Eligibility: Open to all community members in need. Call 661-325-0863 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Mission at Kern County",
+      "address": "816 E 21st St, Bakersfield, CA 93305",
+      "lat": 35.37551,
+      "lng": -118.990878,
+      "category": "food-assistance",
+      "sourceOrg": "The Mission at Kern County",
+      "url": "https://www.missionatkerncounty.org/",
+      "schedulePattern": "Mon–Sun 6 AM–7 AM (Breakfast); Mon–Sun 11 AM–12 PM (Lunch); Mon–Sun 4:30 PM–5:30 PM (Dinner)",
+      "start": "2026-09-28T06:00",
+      "end": "2026-09-28T07:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5,6,7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-mission-at-kern-county-w1234567-1100",
+      "seriesSlug": "add-the-mission-at-kern-county",
+      "title": "The Mission at Kern County — Free Food",
+      "description": "Free food at The Mission at Kern County. Schedule: Mon–Sun 6 AM–7 AM (Breakfast); Mon–Sun 11 AM–12 PM (Lunch); Mon–Sun 4:30 PM–5:30 PM (Dinner). Eligibility: Open to all community members in need. Call 661-325-0863 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Mission at Kern County",
+      "address": "816 E 21st St, Bakersfield, CA 93305",
+      "lat": 35.37551,
+      "lng": -118.990878,
+      "category": "food-assistance",
+      "sourceOrg": "The Mission at Kern County",
+      "url": "https://www.missionatkerncounty.org/",
+      "schedulePattern": "Mon–Sun 6 AM–7 AM (Breakfast); Mon–Sun 11 AM–12 PM (Lunch); Mon–Sun 4:30 PM–5:30 PM (Dinner)",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5,6,7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-mission-at-kern-county-w1234567-1630",
+      "seriesSlug": "add-the-mission-at-kern-county",
+      "title": "The Mission at Kern County — Free Food",
+      "description": "Free food at The Mission at Kern County. Schedule: Mon–Sun 6 AM–7 AM (Breakfast); Mon–Sun 11 AM–12 PM (Lunch); Mon–Sun 4:30 PM–5:30 PM (Dinner). Eligibility: Open to all community members in need. Call 661-325-0863 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Mission at Kern County",
+      "address": "816 E 21st St, Bakersfield, CA 93305",
+      "lat": 35.37551,
+      "lng": -118.990878,
+      "category": "food-assistance",
+      "sourceOrg": "The Mission at Kern County",
+      "url": "https://www.missionatkerncounty.org/",
+      "schedulePattern": "Mon–Sun 6 AM–7 AM (Breakfast); Mon–Sun 11 AM–12 PM (Lunch); Mon–Sun 4:30 PM–5:30 PM (Dinner)",
+      "start": "2026-09-28T16:30",
+      "end": "2026-09-28T17:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5,6,7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-morning-star-fresh-food-ministry-m46-0900",
+      "seriesSlug": "add-morning-star-fresh-food-ministry",
+      "title": "Morning Star Fresh Food Ministry — Free Food",
+      "description": "Free food at Morning Star Fresh Food Ministry. Schedule: 4th Sat 9 AM–9:30 AM (Fresh food box pickup (produce and locally sourced meats)). Call 661-654-9005 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Morning Star Fresh Food Ministry",
+      "address": "3240 Fruitvale Ave, Bakersfield, CA 93308",
+      "lat": 35.389301,
+      "lng": -119.073618,
+      "category": "food-assistance",
+      "sourceOrg": "Morning Star Fresh Food Ministry",
+      "url": "https://www.morningstarfresh.org/",
+      "schedulePattern": "4th Sat 9 AM–9:30 AM (Fresh food box pickup (produce and locally sourced meats))",
+      "start": "2026-10-10T09:00",
+      "end": "2026-10-10T09:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-capk-free-farmer-s-market-new-life-church-m13-0800",
+      "seriesSlug": "add-capk-free-farmer-s-market-new-life-church",
+      "title": "CAPK Free Farmer's Market - New Life Church — Free Food",
+      "description": "Free food at CAPK Free Farmer's Market - New Life Church (CAPK Food Bank / New Life Church). Schedule: 1st Wed 8 AM–11 AM (Free produce distribution). Eligibility: Low-income Kern County residents. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "CAPK Free Farmer's Market - New Life Church",
+      "address": "4313 Shepard St, Bakersfield, CA 93313",
+      "lat": 35.31598,
+      "lng": -119.05935,
+      "category": "food-assistance",
+      "sourceOrg": "CAPK Food Bank / New Life Church",
+      "url": "https://www.capk.org/food-bank/",
+      "schedulePattern": "1st Wed 8 AM–11 AM (Free produce distribution)",
+      "start": "2026-10-07T08:00",
+      "end": "2026-10-07T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "1:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-wasco-free-will-baptist-church-w6-0900",
+      "seriesSlug": "add-wasco-free-will-baptist-church",
+      "title": "Wasco Free Will Baptist Church — Free Food",
+      "description": "Free food at Wasco Free Will Baptist Church (Wasco Free Will Baptist Church (CAPK partner)). Schedule: Sat 9 AM–12 PM (Doors open 8 AM; walk-in, first-come first-served; food and clothing). Eligibility: Open to all; no documents required. Call 661-758-5959 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Wasco Free Will Baptist Church",
+      "address": "938 7th St, Wasco, CA 93280",
+      "lat": 35.594606,
+      "lng": -119.336053,
+      "category": "food-assistance",
+      "sourceOrg": "Wasco Free Will Baptist Church (CAPK partner)",
+      "url": "https://www.capk.org/food-bank/",
+      "schedulePattern": "Sat 9 AM–12 PM (Doors open 8 AM; walk-in, first-come first-served; food and clothing)",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-wasco-recreation-parks-district-westside-park-m44-1000",
+      "seriesSlug": "add-wasco-recreation-parks-district-westside-park",
+      "title": "Wasco Recreation & Parks District (Westside Park) — Free Food",
+      "description": "Free food at Wasco Recreation & Parks District (Westside Park) (Community Action Partnership of Kern (CAPK)). Schedule: 4th Thu 10 AM–12 PM (Drive-thru distribution). Eligibility: Open to the public. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Wasco Recreation & Parks District (Westside Park)",
+      "address": "2502 Parkside Dr, Wasco, CA 93280",
+      "lat": 35.596095,
+      "lng": -119.35496,
+      "category": "food-assistance",
+      "sourceOrg": "Community Action Partnership of Kern (CAPK)",
+      "url": "https://www.capk.org/food-bank/",
+      "schedulePattern": "4th Thu 10 AM–12 PM (Drive-thru distribution)",
+      "start": "2026-10-08T10:00",
+      "end": "2026-10-08T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "4:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-capk-free-farmer-s-market-west-side-park-wasco-m34-0900",
+      "seriesSlug": "add-capk-free-farmer-s-market-west-side-park-wasco",
+      "title": "CAPK Free Farmer's Market - West Side Park (Wasco) — Free Food",
+      "description": "Free food at CAPK Free Farmer's Market - West Side Park (Wasco) (CAPK Food Bank). Schedule: 3rd Thu 9 AM–12 PM (Free produce; may be the same West Side Park site as the 4th-Thu CAPK drive-thru — verify before seeding). Eligibility: Low-income Kern County residents. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "CAPK Free Farmer's Market - West Side Park (Wasco)",
+      "address": "2433 Beckes St, Wasco, CA 93280",
+      "lat": 35.595986,
+      "lng": -119.355176,
+      "category": "food-assistance",
+      "sourceOrg": "CAPK Food Bank",
+      "url": "https://www.capk.org/food-bank/",
+      "schedulePattern": "3rd Thu 9 AM–12 PM (Free produce; may be the same West Side Park site as the 4th-Thu CAPK drive-thru — verify before seeding)",
+      "start": "2026-10-08T09:00",
+      "end": "2026-10-08T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-shafter-free-will-church-m45-1000",
+      "seriesSlug": "add-shafter-free-will-church",
+      "title": "Shafter Free Will Church — Free Food",
+      "description": "Free food at Shafter Free Will Church (Shafter Free Will Church (CAPK partner)). Schedule: 4th Fri 10 AM–12 PM (Walk-in; no fee). Eligibility: Open to the public. Call 661-322-4673 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Shafter Free Will Church",
+      "address": "155 Redwood Dr, Shafter, CA 93263",
+      "lat": 35.51014,
+      "lng": -119.2764,
+      "category": "food-assistance",
+      "sourceOrg": "Shafter Free Will Church (CAPK partner)",
+      "url": "https://www.capk.org/food-bank/",
+      "schedulePattern": "4th Fri 10 AM–12 PM (Walk-in; no fee)",
+      "start": "2026-10-09T10:00",
+      "end": "2026-10-09T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "4:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-jesus-saves-international-church-arms-extended-f-m4445-1500",
+      "seriesSlug": "add-jesus-saves-international-church-arms-extended-f",
+      "title": "Jesus Saves International Church - Arms Extended Food Ministry — Free Food",
+      "description": "Free food at Jesus Saves International Church - Arms Extended Food Ministry (Jesus Saves International Church (CAPK partner)). Schedule: 4th Thu & 4th Fri 3 PM–6 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Jesus Saves International Church - Arms Extended Food Ministry",
+      "address": "425 S Shafter Ave, Shafter, CA 93263",
+      "lat": 35.496651,
+      "lng": -119.278507,
+      "category": "food-assistance",
+      "sourceOrg": "Jesus Saves International Church (CAPK partner)",
+      "url": "https://jesussavesshafter.org/",
+      "schedulePattern": "4th Thu & 4th Fri 3 PM–6 PM",
+      "start": "2026-10-08T15:00",
+      "end": "2026-10-08T18:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "4:4,4:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-capk-free-farmer-s-market-jesus-saves-church-sha-m34-1400",
+      "seriesSlug": "add-capk-free-farmer-s-market-jesus-saves-church-sha",
+      "title": "CAPK Free Farmer's Market - Jesus Saves Church (Shafter) — Free Food",
+      "description": "Free food at CAPK Free Farmer's Market - Jesus Saves Church (Shafter) (CAPK Food Bank / Jesus Saves Church). Schedule: 3rd Thu 2 PM–5 PM (Free produce; may be the same Jesus Saves org as Arms Extended (address 1425 vs 425 S Shafter) — verify before seeding). Eligibility: Low-income Kern County residents. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "CAPK Free Farmer's Market - Jesus Saves Church (Shafter)",
+      "address": "1425 S Shafter Ave, Shafter, CA 93263",
+      "lat": 35.467513,
+      "lng": -119.278713,
+      "category": "food-assistance",
+      "sourceOrg": "CAPK Food Bank / Jesus Saves Church",
+      "url": "https://www.capk.org/food-bank/",
+      "schedulePattern": "3rd Thu 2 PM–5 PM (Free produce; may be the same Jesus Saves org as Arms Extended (address 1425 vs 425 S Shafter) — verify before seeding)",
+      "start": "2026-10-08T14:00",
+      "end": "2026-10-08T17:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-delano-life-house-m15-0900",
+      "seriesSlug": "add-delano-life-house",
+      "title": "Delano Life House — Free Food",
+      "description": "Free food at Delano Life House (Community Action Partnership of Kern (CAPK)). Schedule: 1st Fri 9 AM–11 AM (Drive-thru; Spanish and English). Eligibility: Open to all. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Delano Life House",
+      "address": "1725 11th Ave, Delano, CA 93215",
+      "lat": 35.772306,
+      "lng": -119.233313,
+      "category": "food-assistance",
+      "sourceOrg": "Community Action Partnership of Kern (CAPK)",
+      "url": "https://www.capk.org/food-bank/",
+      "schedulePattern": "1st Fri 9 AM–11 AM (Drive-thru; Spanish and English)",
+      "start": "2026-10-09T09:00",
+      "end": "2026-10-09T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "1:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-delano-memorial-park-commodity-distribution-m44-1000",
+      "seriesSlug": "add-delano-memorial-park-commodity-distribution",
+      "title": "Delano Memorial Park Commodity Distribution — Free Food",
+      "description": "Free food at Delano Memorial Park Commodity Distribution (Community Action Partnership of Kern (CAPK)). Schedule: 4th Thu 10 AM–2 PM (Commodity distribution; Spanish and English). Eligibility: Open to all. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Delano Memorial Park Commodity Distribution",
+      "address": "100 S Lexington St, Delano, CA 93215",
+      "lat": 35.757334,
+      "lng": -119.240794,
+      "category": "food-assistance",
+      "sourceOrg": "Community Action Partnership of Kern (CAPK)",
+      "url": "https://www.capk.org/food-bank/",
+      "schedulePattern": "4th Thu 10 AM–2 PM (Commodity distribution; Spanish and English)",
+      "start": "2026-10-08T10:00",
+      "end": "2026-10-08T14:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "4:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-pj-s-pantry-hd-church-valley-faith-fellowship-m32-1800",
+      "seriesSlug": "add-pj-s-pantry-hd-church-valley-faith-fellowship",
+      "title": "PJ's Pantry - HD Church (Valley Faith Fellowship) — Free Food",
+      "description": "Free food at PJ's Pantry - HD Church (Valley Faith Fellowship) (Valley Faith Fellowship / HD Church Delano). Schedule: 3rd Tue 6 PM–7 PM. Eligibility: Anyone can access; photo ID required; one box per household. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "PJ's Pantry - HD Church (Valley Faith Fellowship)",
+      "address": "15570 County Line Rd, Delano, CA 93215",
+      "lat": 35.79141,
+      "lng": -119.224178,
+      "category": "food-assistance",
+      "sourceOrg": "Valley Faith Fellowship / HD Church Delano",
+      "url": "https://www.findhelp.org/",
+      "schedulePattern": "3rd Tue 6 PM–7 PM",
+      "start": "2026-10-06T18:00",
+      "end": "2026-10-06T19:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "3:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-family-life-worship-center-m36-1200",
+      "seriesSlug": "add-family-life-worship-center",
+      "title": "Family Life Worship Center — Free Food",
+      "description": "Free food at Family Life Worship Center (Family Life Worship Center (CAPK partner)). Schedule: 3rd Sat 12 PM–3 PM (Walk-in, first-come first-served). Eligibility: Open to the public. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Family Life Worship Center",
+      "address": "501 W Perkins Ave, McFarland, CA 93250",
+      "lat": 35.681135,
+      "lng": -119.234646,
+      "category": "food-assistance",
+      "sourceOrg": "Family Life Worship Center (CAPK partner)",
+      "url": "https://www.capk.org/food-bank/",
+      "schedulePattern": "3rd Sat 12 PM–3 PM (Walk-in, first-come first-served)",
+      "start": "2026-10-10T12:00",
+      "end": "2026-10-10T15:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-lost-hills-community-center-m35-1100",
+      "seriesSlug": "add-lost-hills-community-center",
+      "title": "Lost Hills Community Center — Free Food",
+      "description": "Free food at Lost Hills Community Center (Community Action Partnership of Kern (CAPK)). Schedule: 3rd Fri 11 AM–12:30 PM. Eligibility: Open to the public; valid CA ID required. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Lost Hills Community Center",
+      "address": "21109 CA-46, Lost Hills, CA 93249",
+      "lat": 35.616037,
+      "lng": -119.697283,
+      "category": "food-assistance",
+      "sourceOrg": "Community Action Partnership of Kern (CAPK)",
+      "url": "https://www.capk.org/food-bank/",
+      "schedulePattern": "3rd Fri 11 AM–12:30 PM",
+      "start": "2026-10-09T11:00",
+      "end": "2026-10-09T12:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-buttonwillow-parks-and-recreation-district-m35-0930",
+      "seriesSlug": "add-buttonwillow-parks-and-recreation-district",
+      "title": "Buttonwillow Parks and Recreation District — Free Food",
+      "description": "Free food at Buttonwillow Parks and Recreation District (Buttonwillow Resource Center / CAPK). Schedule: 3rd Fri 9:30 AM–11:30 AM (Commodities distribution). Eligibility: Open to all. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Buttonwillow Parks and Recreation District",
+      "address": "556 Milo Ave, Buttonwillow, CA 93206",
+      "lat": 35.40179,
+      "lng": -119.45971,
+      "category": "food-assistance",
+      "sourceOrg": "Buttonwillow Resource Center / CAPK",
+      "url": "https://www.capk.org/food-bank/",
+      "schedulePattern": "3rd Fri 9:30 AM–11:30 AM (Commodities distribution)",
+      "start": "2026-10-09T09:30",
+      "end": "2026-10-09T11:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-capk-food-bank-lamont-pantry-w2-1700",
+      "seriesSlug": "add-capk-food-bank-lamont-pantry",
+      "title": "CAPK Food Bank - Lamont Pantry — Free Food",
+      "description": "Free food at CAPK Food Bank - Lamont Pantry (Community Action Partnership of Kern (CAPK)). Schedule: Tue 5 PM–6 PM (Bring proof of current address and low income). Eligibility: Low-income residents; self-certification accepted, citizenship not required. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "CAPK Food Bank - Lamont Pantry",
+      "address": "10601 Myrtle Ave, Lamont, CA 93241",
+      "lat": 35.258797,
+      "lng": -118.90916,
+      "category": "food-assistance",
+      "sourceOrg": "Community Action Partnership of Kern (CAPK)",
+      "url": "https://www.capk.org/food-bank/",
+      "schedulePattern": "Tue 5 PM–6 PM (Bring proof of current address and low income)",
+      "start": "2026-09-28T17:00",
+      "end": "2026-09-28T18:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-tehachapi-help-hope-food-pantry-w12345-0900",
+      "seriesSlug": "add-tehachapi-help-hope-food-pantry",
+      "title": "Tehachapi Help & Hope Food Pantry — Free Food",
+      "description": "Free food at Tehachapi Help & Hope Food Pantry (Tehachapi Help & Hope). Schedule: Mon–Fri 9 AM–2 PM. Eligibility: Tehachapi-area residents; application required. Call 661-822-7805 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Tehachapi Help & Hope Food Pantry",
+      "address": "20290 Valley Blvd, Tehachapi, CA 93561",
+      "lat": 35.123817,
+      "lng": -118.4911,
+      "category": "food-assistance",
+      "sourceOrg": "Tehachapi Help & Hope",
+      "url": "https://tehachapihelpandhope.org/",
+      "schedulePattern": "Mon–Fri 9 AM–2 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sharing-caring-of-tehachapi-w6-1000",
+      "seriesSlug": "add-sharing-caring-of-tehachapi",
+      "title": "Sharing & Caring of Tehachapi — Free Food",
+      "description": "Free food at Sharing & Caring of Tehachapi. Schedule: Sat 10 AM–2 PM (Walk-ins accepted; also offers free hot meals). Eligibility: Tehachapi residents; picture ID required. Call 661-822-3001 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Sharing & Caring of Tehachapi",
+      "address": "230 S Pauley St, Tehachapi, CA 93561",
+      "lat": 35.130372,
+      "lng": -118.45111,
+      "category": "food-assistance",
+      "sourceOrg": "Sharing & Caring of Tehachapi",
+      "url": "https://sharingandcaring.net/",
+      "schedulePattern": "Sat 10 AM–2 PM (Walk-ins accepted; also offers free hot meals)",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-salvation-army-tehachapi-community-center-w1245-0800",
+      "seriesSlug": "add-the-salvation-army-tehachapi-community-center",
+      "title": "The Salvation Army Tehachapi Community Center — Free Food",
+      "description": "Free food at The Salvation Army Tehachapi Community Center (The Salvation Army - Tehachapi). Schedule: Mon–Tue, Thu–Fri 8 AM–9 AM (Fresh Rescue (fresh fruit, vegetables, dairy, meat)); 3rd Tue  (USDA commodities (call for time)); 2nd Mon & 4th Mon  (Senior Sack program (call for time)). Eligibility: Kern County residents; Senior Sack for eligible seniors. Call 661-823-9508 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Salvation Army Tehachapi Community Center",
+      "address": "538 E Tehachapi Blvd, Tehachapi, CA 93561",
+      "lat": 35.13089,
+      "lng": -118.439025,
+      "category": "food-assistance",
+      "sourceOrg": "The Salvation Army - Tehachapi",
+      "url": "https://tehachapi.salvationarmy.org/",
+      "schedulePattern": "Mon–Tue, Thu–Fri 8 AM–9 AM (Fresh Rescue (fresh fruit, vegetables, dairy, meat)); 3rd Tue  (USDA commodities (call for time)); 2nd Mon & 4th Mon  (Senior Sack program (call for time))",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T09:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-salvation-army-frazier-park-commodities-dist-m13-1100",
+      "seriesSlug": "add-the-salvation-army-frazier-park-commodities-dist",
+      "title": "The Salvation Army Frazier Park Commodities Distribution — Free Food",
+      "description": "Free food at The Salvation Army Frazier Park Commodities Distribution (The Salvation Army). Schedule: 1st Wed 11 AM–12 PM (In front of Frazier Park Recreation Building; arrive ~8 AM for a number). Eligibility: Income-qualified residents of Gorman, Lebec, Pine Mountain Club, Lockwood Valley, Frazier Park or Neenach. Call 661-809-2995 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Salvation Army Frazier Park Commodities Distribution",
+      "address": "3801 Park Dr, Frazier Park, CA 93225",
+      "lat": 34.819855,
+      "lng": -118.948659,
+      "category": "food-assistance",
+      "sourceOrg": "The Salvation Army",
+      "url": "https://www.capk.org/food-bank/",
+      "schedulePattern": "1st Wed 11 AM–12 PM (In front of Frazier Park Recreation Building; arrive ~8 AM for a number)",
+      "start": "2026-10-07T11:00",
+      "end": "2026-10-07T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "1:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-mountain-communities-family-resource-center-mcfr-m1333-1030",
+      "seriesSlug": "add-mountain-communities-family-resource-center-mcfr",
+      "title": "Mountain Communities Family Resource Center (MCFRC) Food Pantry — Free Food",
+      "description": "Free food at Mountain Communities Family Resource Center (MCFRC) Food Pantry (Mountain Communities Family Resource Center). Schedule: 1st Wed & 3rd Wed 10:30 AM–12 PM. Eligibility: Kern residents on Social Security, seniors, families with children under 18, or disabled individuals; up to once per month. Call 661-245-4303 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Mountain Communities Family Resource Center (MCFRC) Food Pantry",
+      "address": "3015 Mount Pinos Way, Frazier Park, CA 93225",
+      "lat": 34.820533,
+      "lng": -118.937629,
+      "category": "food-assistance",
+      "sourceOrg": "Mountain Communities Family Resource Center",
+      "url": "https://mcfrc.org/",
+      "schedulePattern": "1st Wed & 3rd Wed 10:30 AM–12 PM",
+      "start": "2026-10-07T10:30",
+      "end": "2026-10-07T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "1:3,3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-grace-lutheran-church-food-pantry-ridgecrest-w35-0900",
+      "seriesSlug": "add-grace-lutheran-church-food-pantry-ridgecrest",
+      "title": "Grace Lutheran Church Food Pantry (Ridgecrest) — Free Food",
+      "description": "Free food at Grace Lutheran Church Food Pantry (Ridgecrest) (Grace Lutheran Church). Schedule: Wed, Fri 9 AM–11 AM (Food pantry); Mon–Tue, Thu–Fri 8 AM–9 AM (Fresh Rescue (fresh produce, dairy, meat)). Eligibility: Anyone in need, all ages. Call 760-375-9768 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Grace Lutheran Church Food Pantry (Ridgecrest)",
+      "address": "502 N Norma St, Ridgecrest, CA 93555",
+      "lat": 35.630373,
+      "lng": -117.678139,
+      "category": "food-assistance",
+      "sourceOrg": "Grace Lutheran Church",
+      "url": "https://www.gracelutheranridgecrest.org/",
+      "schedulePattern": "Wed, Fri 9 AM–11 AM (Food pantry); Mon–Tue, Thu–Fri 8 AM–9 AM (Fresh Rescue (fresh produce, dairy, meat))",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-grace-lutheran-church-food-pantry-ridgecrest-w1245-0800",
+      "seriesSlug": "add-grace-lutheran-church-food-pantry-ridgecrest",
+      "title": "Grace Lutheran Church Food Pantry (Ridgecrest) — Free Food",
+      "description": "Free food at Grace Lutheran Church Food Pantry (Ridgecrest) (Grace Lutheran Church). Schedule: Wed, Fri 9 AM–11 AM (Food pantry); Mon–Tue, Thu–Fri 8 AM–9 AM (Fresh Rescue (fresh produce, dairy, meat)). Eligibility: Anyone in need, all ages. Call 760-375-9768 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Grace Lutheran Church Food Pantry (Ridgecrest)",
+      "address": "502 N Norma St, Ridgecrest, CA 93555",
+      "lat": 35.630373,
+      "lng": -117.678139,
+      "category": "food-assistance",
+      "sourceOrg": "Grace Lutheran Church",
+      "url": "https://www.gracelutheranridgecrest.org/",
+      "schedulePattern": "Wed, Fri 9 AM–11 AM (Food pantry); Mon–Tue, Thu–Fri 8 AM–9 AM (Fresh Rescue (fresh produce, dairy, meat))",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T09:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-salvation-army-of-ridgecrest-food-pantry-w25-1230",
+      "seriesSlug": "add-the-salvation-army-of-ridgecrest-food-pantry",
+      "title": "The Salvation Army of Ridgecrest Food Pantry — Free Food",
+      "description": "Free food at The Salvation Army of Ridgecrest Food Pantry (The Salvation Army of Ridgecrest). Schedule: Tue, Fri 12:30 PM–1:30 PM. Eligibility: Anyone can access this program. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Salvation Army of Ridgecrest Food Pantry",
+      "address": "151 N Downs St, Ridgecrest, CA 93555",
+      "lat": 35.62402,
+      "lng": -117.688414,
+      "category": "food-assistance",
+      "sourceOrg": "The Salvation Army of Ridgecrest",
+      "url": "https://ridgecrest.salvationarmy.org/",
+      "schedulePattern": "Tue, Fri 12:30 PM–1:30 PM",
+      "start": "2026-09-28T12:30",
+      "end": "2026-09-28T13:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-all-souls-food-pantry-and-co-op-st-michael-s-epi-m42-0900",
+      "seriesSlug": "add-all-souls-food-pantry-and-co-op-st-michael-s-epi",
+      "title": "All Souls' Food Pantry and Co-Op (St. Michael's Episcopal Church) — Free Food",
+      "description": "Free food at All Souls' Food Pantry and Co-Op (St. Michael's Episcopal Church) (St. Michael's Episcopal Church). Schedule: 4th Tue 9 AM–11 AM. Eligibility: All in need are welcome. Call 760-446-5816 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "All Souls' Food Pantry and Co-Op (St. Michael's Episcopal Church)",
+      "address": "200 W Drummond Ave, Ridgecrest, CA 93555",
+      "lat": 35.63785,
+      "lng": -117.672485,
+      "category": "food-assistance",
+      "sourceOrg": "St. Michael's Episcopal Church",
+      "url": "https://www.stmichaelsridgecrest.org/pantry.html",
+      "schedulePattern": "4th Tue 9 AM–11 AM",
+      "start": "2026-10-06T09:00",
+      "end": "2026-10-06T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "4:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-our-lady-of-lourdes-catholic-church-food-bank-w4-0930",
+      "seriesSlug": "add-our-lady-of-lourdes-catholic-church-food-bank",
+      "title": "Our Lady of Lourdes Catholic Church Food Bank — Free Food",
+      "description": "Free food at Our Lady of Lourdes Catholic Church Food Bank (Our Lady of Lourdes Catholic Church). Schedule: Thu 9:30 AM–11:30 AM (OLL Hall, south-end door). Eligibility: Walk-ins accepted; all welcome. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Our Lady of Lourdes Catholic Church Food Bank",
+      "address": "9970 California City Blvd, California City, CA 93505",
+      "lat": 35.12576,
+      "lng": -117.950536,
+      "category": "food-assistance",
+      "sourceOrg": "Our Lady of Lourdes Catholic Church",
+      "url": "https://ollcalcity.org/",
+      "schedulePattern": "Thu 9:30 AM–11:30 AM (OLL Hall, south-end door)",
+      "start": "2026-09-28T09:30",
+      "end": "2026-09-28T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-canyon-hills-of-wofford-heights-capk-food-distri-m41-1000",
+      "seriesSlug": "add-canyon-hills-of-wofford-heights-capk-food-distri",
+      "title": "Canyon Hills of Wofford Heights (CAPK Food Distribution) — Free Food",
+      "description": "Free food at Canyon Hills of Wofford Heights (CAPK Food Distribution) (Community Action Partnership of Kern (CAPK)). Schedule: 4th Mon 10 AM–12 PM (Walk-in). Eligibility: Open to all; no documents required. Call 661-498-7825 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Canyon Hills of Wofford Heights (CAPK Food Distribution)",
+      "address": "25 Arden Ave, Wofford Heights, CA 93285",
+      "lat": 35.707681,
+      "lng": -118.451476,
+      "category": "food-assistance",
+      "sourceOrg": "Community Action Partnership of Kern (CAPK)",
+      "url": "https://www.capk.org/food-bank/",
+      "schedulePattern": "4th Mon 10 AM–12 PM (Walk-in)",
+      "start": "2026-10-05T10:00",
+      "end": "2026-10-05T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "4:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-capk-food-bank-main-pantry-w12345-0830",
+      "seriesSlug": "add-capk-food-bank-main-pantry",
+      "title": "CAPK Food Bank - main pantry — Free Food",
+      "description": "Free food at CAPK Food Bank - main pantry. Schedule: Mon–Fri 8:30 AM–3:30 PM. Call (661) 398-4520 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "CAPK Food Bank - main pantry",
+      "address": "1807 Feliz Dr, Bakersfield, CA 93307",
+      "lat": 35.350394,
+      "lng": -118.980763,
+      "category": "food-assistance",
+      "sourceOrg": "CAPK Food Bank - main pantry",
+      "url": "https://www.capk.org/food-bank/",
+      "schedulePattern": "Mon–Fri 8:30 AM–3:30 PM",
+      "start": "2026-09-28T08:30",
+      "end": "2026-09-28T15:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-paul-s-episcopal-church-pantry-w1-1000",
+      "seriesSlug": "add-st-paul-s-episcopal-church-pantry",
+      "title": "St. Paul's Episcopal Church Pantry — Free Food",
+      "description": "Free food at St. Paul's Episcopal Church Pantry. Schedule: Mon 10 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Paul's Episcopal Church Pantry",
+      "address": "2216 17th St, Bakersfield, CA 93301",
+      "lat": 35.374648,
+      "lng": -119.027605,
+      "category": "food-assistance",
+      "sourceOrg": "St. Paul's Episcopal Church Pantry",
+      "url": "https://www.capk.org/food-bank/",
+      "schedulePattern": "Mon 10 AM–12 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-stay-focused-ministries-w1-0900",
+      "seriesSlug": "add-stay-focused-ministries",
+      "title": "Stay Focused Ministries — Free Food",
+      "description": "Free food at Stay Focused Ministries. Schedule: Mon 9 AM–11 AM; Wed 1 PM–3 PM; Fri 9 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Stay Focused Ministries",
+      "address": "1225 California Ave, Bakersfield, CA 93304",
+      "lat": 35.368325,
+      "lng": -119.015866,
+      "category": "food-assistance",
+      "sourceOrg": "Stay Focused Ministries",
+      "url": "https://www.capk.org/food-bank/",
+      "schedulePattern": "Mon 9 AM–11 AM; Wed 1 PM–3 PM; Fri 9 AM–11 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-stay-focused-ministries-w3-1300",
+      "seriesSlug": "add-stay-focused-ministries",
+      "title": "Stay Focused Ministries — Free Food",
+      "description": "Free food at Stay Focused Ministries. Schedule: Mon 9 AM–11 AM; Wed 1 PM–3 PM; Fri 9 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Stay Focused Ministries",
+      "address": "1225 California Ave, Bakersfield, CA 93304",
+      "lat": 35.368325,
+      "lng": -119.015866,
+      "category": "food-assistance",
+      "sourceOrg": "Stay Focused Ministries",
+      "url": "https://www.capk.org/food-bank/",
+      "schedulePattern": "Mon 9 AM–11 AM; Wed 1 PM–3 PM; Fri 9 AM–11 AM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-stay-focused-ministries-w5-0900",
+      "seriesSlug": "add-stay-focused-ministries",
+      "title": "Stay Focused Ministries — Free Food",
+      "description": "Free food at Stay Focused Ministries. Schedule: Mon 9 AM–11 AM; Wed 1 PM–3 PM; Fri 9 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Stay Focused Ministries",
+      "address": "1225 California Ave, Bakersfield, CA 93304",
+      "lat": 35.368325,
+      "lng": -119.015866,
+      "category": "food-assistance",
+      "sourceOrg": "Stay Focused Ministries",
+      "url": "https://www.capk.org/food-bank/",
+      "schedulePattern": "Mon 9 AM–11 AM; Wed 1 PM–3 PM; Fri 9 AM–11 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-blessing-corner-outreach-w25-1500",
+      "seriesSlug": "add-the-blessing-corner-outreach",
+      "title": "The Blessing Corner Outreach — Free Food",
+      "description": "Free food at The Blessing Corner Outreach. Schedule: Tue, Fri 3 PM–5 PM. Call (661) 861-0349 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Blessing Corner Outreach",
+      "address": "101 Union Ave, Bakersfield, CA 93307",
+      "lat": 35.353569,
+      "lng": -119.003499,
+      "category": "food-assistance",
+      "sourceOrg": "The Blessing Corner Outreach",
+      "url": "https://www.capk.org/food-bank/",
+      "schedulePattern": "Tue, Fri 3 PM–5 PM",
+      "start": "2026-09-28T15:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-delano-community-connection-center-w1234-0800",
+      "seriesSlug": "add-delano-community-connection-center",
+      "title": "Delano Community Connection Center — Free Food",
+      "description": "Free food at Delano Community Connection Center. Schedule: Mon–Thu 8 AM–3:30 PM. Call (661) 721-7036 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Delano Community Connection Center",
+      "address": "1842 Norwalk St, Delano, CA 93215",
+      "lat": 35.780732,
+      "lng": -119.240808,
+      "category": "food-assistance",
+      "sourceOrg": "Delano Community Connection Center",
+      "url": "https://www.capk.org/food-bank/",
+      "schedulePattern": "Mon–Thu 8 AM–3:30 PM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T15:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-salvation-army-lake-isabella-w1-1000",
+      "seriesSlug": "add-salvation-army-lake-isabella",
+      "title": "Salvation Army - Lake Isabella — Free Food",
+      "description": "Free food at Salvation Army - Lake Isabella. Schedule: Mon 10 AM–4 PM; Tue, Thu–Fri 9 AM–4 PM. Call (760) 417-3056 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salvation Army - Lake Isabella",
+      "address": "6069 Lake Isabella Blvd, Lake Isabella, CA 93240",
+      "lat": 35.623977,
+      "lng": -118.475228,
+      "category": "food-assistance",
+      "sourceOrg": "Salvation Army - Lake Isabella",
+      "url": "https://www.capk.org/food-bank/",
+      "schedulePattern": "Mon 10 AM–4 PM; Tue, Thu–Fri 9 AM–4 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-salvation-army-lake-isabella-w245-0900",
+      "seriesSlug": "add-salvation-army-lake-isabella",
+      "title": "Salvation Army - Lake Isabella — Free Food",
+      "description": "Free food at Salvation Army - Lake Isabella. Schedule: Mon 10 AM–4 PM; Tue, Thu–Fri 9 AM–4 PM. Call (760) 417-3056 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salvation Army - Lake Isabella",
+      "address": "6069 Lake Isabella Blvd, Lake Isabella, CA 93240",
+      "lat": 35.623977,
+      "lng": -118.475228,
+      "category": "food-assistance",
+      "sourceOrg": "Salvation Army - Lake Isabella",
+      "url": "https://www.capk.org/food-bank/",
+      "schedulePattern": "Mon 10 AM–4 PM; Tue, Thu–Fri 9 AM–4 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-mcfarland-food-pantry-care-share-w1-1500",
+      "seriesSlug": "add-mcfarland-food-pantry-care-share",
+      "title": "McFarland Food Pantry (Care & Share) — Free Food",
+      "description": "Free food at McFarland Food Pantry (Care & Share). Schedule: Mon 3 PM–6 PM; 3rd Sat 9 AM–10:30 AM. Call (661) 792-1883 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "McFarland Food Pantry (Care & Share)",
+      "address": "410 E Perkins Ave, McFarland, CA 93250",
+      "lat": 35.682157,
+      "lng": -119.222647,
+      "category": "food-assistance",
+      "sourceOrg": "McFarland Food Pantry (Care & Share)",
+      "url": "https://mcfarlandfoodpantry.org",
+      "schedulePattern": "Mon 3 PM–6 PM; 3rd Sat 9 AM–10:30 AM",
+      "start": "2026-09-28T15:00",
+      "end": "2026-09-28T18:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-mcfarland-food-pantry-care-share-m36-0900",
+      "seriesSlug": "add-mcfarland-food-pantry-care-share",
+      "title": "McFarland Food Pantry (Care & Share) — Free Food",
+      "description": "Free food at McFarland Food Pantry (Care & Share). Schedule: Mon 3 PM–6 PM; 3rd Sat 9 AM–10:30 AM. Call (661) 792-1883 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "McFarland Food Pantry (Care & Share)",
+      "address": "410 E Perkins Ave, McFarland, CA 93250",
+      "lat": 35.682157,
+      "lng": -119.222647,
+      "category": "food-assistance",
+      "sourceOrg": "McFarland Food Pantry (Care & Share)",
+      "url": "https://mcfarlandfoodpantry.org",
+      "schedulePattern": "Mon 3 PM–6 PM; 3rd Sat 9 AM–10:30 AM",
+      "start": "2026-10-10T09:00",
+      "end": "2026-10-10T10:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-taft-needs-center-w15-0900",
+      "seriesSlug": "add-taft-needs-center",
+      "title": "Taft NEEDS Center — Free Food",
+      "description": "Free food at Taft NEEDS Center. Schedule: Mon, Fri 9 AM–12 PM. Call (661) 763-4888 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Taft NEEDS Center",
+      "address": "518 Main St, Taft, CA 93268",
+      "lat": 35.14064,
+      "lng": -119.46019,
+      "category": "food-assistance",
+      "sourceOrg": "Taft NEEDS Center",
+      "url": "https://www.capk.org/food-bank/",
+      "schedulePattern": "Mon, Fri 9 AM–12 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-malachy-church-st-vincent-de-paul-w35-0945",
+      "seriesSlug": "add-st-malachy-church-st-vincent-de-paul",
+      "title": "St. Malachy Church (St. Vincent de Paul) — Free Food",
+      "description": "Free food at St. Malachy Church (St. Vincent de Paul). Schedule: Wed, Fri 9:45 AM–11:45 AM. Call (661) 822-1920 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Malachy Church (St. Vincent de Paul)",
+      "address": "407 W E St, Tehachapi, CA 93561",
+      "lat": 35.131272,
+      "lng": -118.45353,
+      "category": "food-assistance",
+      "sourceOrg": "St. Malachy Church (St. Vincent de Paul)",
+      "url": "https://www.capk.org/food-bank/",
+      "schedulePattern": "Wed, Fri 9:45 AM–11:45 AM",
+      "start": "2026-09-28T09:45",
+      "end": "2026-09-28T11:45",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3,5"
+    }
+  ]
+}

@@ -1,0 +1,3340 @@
+{
+  "_meta": {
+    "topic": "Net-new Alameda County food distributions",
+    "generated": "2026-10-05",
+    "source": "Research supplementing shell PENDING-ALAMEDA; raw ./AlamedaAdditions-raw.json."
+  },
+  "_deferred": {
+    "add-south-berkeley-community-church": {
+      "title": "South Berkeley Community Church",
+      "status": "meal",
+      "address": "1802 Fairview St, Berkeley, CA 94703",
+      "lat": 37.85022,
+      "lng": -122.272553,
+      "phone": "",
+      "eligibility": "",
+      "sourceUrl": "https://www.accfb.org/get-food/"
+    },
+    "add-st-paul-ame-church": {
+      "title": "St. Paul AME Church",
+      "status": "meal",
+      "address": "2024 Ashby Avenue, Berkeley, CA 94703",
+      "lat": 37.854843,
+      "lng": -122.268007,
+      "phone": "",
+      "eligibility": "",
+      "sourceUrl": "https://www.accfb.org/get-food/"
+    },
+    "add-the-church-by-the-side-of-the-road": {
+      "title": "The Church By The Side Of The Road",
+      "status": "meal",
+      "address": "2108 Russell Street, Berkeley, CA 94705",
+      "lat": 37.85658,
+      "lng": -122.265962,
+      "phone": "",
+      "eligibility": "",
+      "sourceUrl": "https://www.accfb.org/get-food/"
+    },
+    "add-east-bay-food-not-bombs": {
+      "title": "East Bay Food Not Bombs",
+      "status": "Daily around 3pm, site varies",
+      "address": "Multiple sites (Telegraph & Haste; People's Park; 8th & Harrison), Berkeley/Oakland, CA",
+      "lat": 37.870313,
+      "lng": -122.268064,
+      "phone": "",
+      "eligibility": "",
+      "sourceUrl": "https://eastbayfoodnotbombs.org/"
+    },
+    "add-john-knox-presbyterian-church-children-s-emergen": {
+      "title": "John Knox Presbyterian Church / Children's Emergency Food Bank",
+      "status": "By appointment Phone: (925) 828-5363.",
+      "address": "7421 Amarillo Rd, Dublin, CA 94568",
+      "lat": 37.705057,
+      "lng": -121.942496,
+      "phone": "(925) 828-5363",
+      "eligibility": "",
+      "sourceUrl": "https://www.accfb.org/get-food/"
+    },
+    "add-age-well-center-at-lake-elizabeth": {
+      "title": "Age Well Center at Lake Elizabeth",
+      "status": "2nd & 4th Thu 10:15am (ages 55+) Phone: (510) 793-4583.",
+      "address": "40086 Paseo Padre Pkwy, Fremont, CA 94538",
+      "lat": 37.546353,
+      "lng": -121.96671,
+      "phone": "(510) 793-4583",
+      "eligibility": "ages 55+",
+      "sourceUrl": "https://www.accfb.org/get-food/"
+    },
+    "add-age-well-center-at-south-fremont": {
+      "title": "Age Well Center at South Fremont",
+      "status": "1st & 3rd Thu 10:15am (ages 55+)",
+      "address": "47111 Mission Falls Court, Fremont, CA 94539",
+      "lat": 37.484979,
+      "lng": -121.929485,
+      "phone": "",
+      "eligibility": "ages 55+",
+      "sourceUrl": "https://www.accfb.org/get-food/"
+    },
+    "add-face-fremont-adult-and-continuing-education-cent": {
+      "title": "FACE (Fremont Adult and Continuing Education Center)",
+      "status": "1st & 3rd Tue 11:30am",
+      "address": "4700 Calaveras Ave, Fremont, CA 94538",
+      "lat": 37.538242,
+      "lng": -121.990903,
+      "phone": "",
+      "eligibility": "",
+      "sourceUrl": "https://www.accfb.org/get-food/"
+    },
+    "add-new-life-christian-church": {
+      "title": "New Life Christian Church",
+      "status": "Thu 1pm Phone: (510) 889-1304.",
+      "address": "1265 B St, Hayward, CA 94541",
+      "lat": 37.675849,
+      "lng": -122.078017,
+      "phone": "(510) 889-1304",
+      "eligibility": "",
+      "sourceUrl": "https://www.accfb.org/get-food/"
+    },
+    "add-discovery-church-of-the-nazarene-community-break": {
+      "title": "Discovery Church of the Nazarene Community Breakfast",
+      "status": "Sun 9am Phone: (925) 449-5256.",
+      "address": "5862 Las Positas Road, Livermore, CA 94551",
+      "lat": 37.702162,
+      "lng": -121.723061,
+      "phone": "(925) 449-5256",
+      "eligibility": "",
+      "sourceUrl": "https://www.accfb.org/get-food/"
+    },
+    "add-schilling-elementary-school": {
+      "title": "Schilling Elementary School",
+      "status": "1st & 3rd Wed 11am",
+      "address": "36901 Spruce St, Newark, CA 94560",
+      "lat": 37.528194,
+      "lng": -122.047003,
+      "phone": "",
+      "eligibility": "",
+      "sourceUrl": "https://www.accfb.org/get-food/"
+    },
+    "add-tri-city-volunteers-mobile-pantry-silliman-activ": {
+      "title": "Tri-City Volunteers Mobile Pantry (Silliman Activity Center)",
+      "status": "2nd & 4th Fri 10:30am Phone: (510) 861-1829.",
+      "address": "6800 Mowry Ave, Newark, CA 94560",
+      "lat": 37.517796,
+      "lng": -122.010444,
+      "phone": "(510) 861-1829",
+      "eligibility": "",
+      "sourceUrl": "https://www.accfb.org/get-food/"
+    },
+    "add-13th-avenue-church-of-christ": {
+      "title": "13th Avenue Church of Christ",
+      "status": "call for times Phone: (510) 532-9434.",
+      "address": "1300 E. 24th Street, Oakland, CA 94606",
+      "lat": 37.796387,
+      "lng": -122.237663,
+      "phone": "(510) 532-9434",
+      "eligibility": "",
+      "sourceUrl": "https://www.accfb.org/get-food/"
+    },
+    "add-the-east-oakland-collective": {
+      "title": "The East Oakland Collective",
+      "status": "Mon, Wed, Fri hot meals 12pm; Tue, Thu groceries and hot meals 11am Phone: (510) 990-0775.",
+      "address": "7800 MacArthur Blvd, Oakland, CA 94605",
+      "lat": 37.766621,
+      "lng": -122.167727,
+      "phone": "(510) 990-0775",
+      "eligibility": "",
+      "sourceUrl": "https://www.eastoaklandcollective.org/food-and-supply-distribution.html"
+    },
+    "add-april-showers-first-united-methodist-church": {
+      "title": "April Showers - First United Methodist Church",
+      "status": "meals to go",
+      "address": "1600 Bancroft Ave, San Leandro, CA 94577",
+      "lat": 37.724285,
+      "lng": -122.146196,
+      "phone": "",
+      "eligibility": "",
+      "sourceUrl": "https://www.accfb.org/get-food/"
+    },
+    "add-ruggieri-senior-center": {
+      "title": "Ruggieri Senior Center",
+      "status": "Tri-City Volunteers mobile pantry Phone: (510) 793-4583.",
+      "address": "33997 Alvarado-Niles Rd, Union City, CA 94587",
+      "lat": 37.58854,
+      "lng": -122.028283,
+      "phone": "(510) 793-4583",
+      "eligibility": "",
+      "sourceUrl": "https://www.accfb.org/get-food/"
+    }
+  },
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "add-alameda-food-bank-w1-1000",
+      "seriesSlug": "add-alameda-food-bank",
+      "title": "Alameda Food Bank — Free Food",
+      "description": "Free food at Alameda Food Bank. Schedule: Mon 10 AM–4 PM; Wed 10 AM–7 PM; Fri 10 AM–4 PM. Eligibility: must live, work or study in Alameda. Call (510) 523-5850 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Alameda Food Bank",
+      "address": "677 West Ranger Ave, Alameda, CA 94501",
+      "lat": 37.784922,
+      "lng": -122.299058,
+      "category": "food-assistance",
+      "sourceOrg": "Alameda Food Bank",
+      "url": "https://www.alamedafoodbank.org/get-food/",
+      "schedulePattern": "Mon 10 AM–4 PM; Wed 10 AM–7 PM; Fri 10 AM–4 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-alameda-food-bank-w3-1000",
+      "seriesSlug": "add-alameda-food-bank",
+      "title": "Alameda Food Bank — Free Food",
+      "description": "Free food at Alameda Food Bank. Schedule: Mon 10 AM–4 PM; Wed 10 AM–7 PM; Fri 10 AM–4 PM. Eligibility: must live, work or study in Alameda. Call (510) 523-5850 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Alameda Food Bank",
+      "address": "677 West Ranger Ave, Alameda, CA 94501",
+      "lat": 37.784922,
+      "lng": -122.299058,
+      "category": "food-assistance",
+      "sourceOrg": "Alameda Food Bank",
+      "url": "https://www.alamedafoodbank.org/get-food/",
+      "schedulePattern": "Mon 10 AM–4 PM; Wed 10 AM–7 PM; Fri 10 AM–4 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T19:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-alameda-food-bank-w5-1000",
+      "seriesSlug": "add-alameda-food-bank",
+      "title": "Alameda Food Bank — Free Food",
+      "description": "Free food at Alameda Food Bank. Schedule: Mon 10 AM–4 PM; Wed 10 AM–7 PM; Fri 10 AM–4 PM. Eligibility: must live, work or study in Alameda. Call (510) 523-5850 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Alameda Food Bank",
+      "address": "677 West Ranger Ave, Alameda, CA 94501",
+      "lat": 37.784922,
+      "lng": -122.299058,
+      "category": "food-assistance",
+      "sourceOrg": "Alameda Food Bank",
+      "url": "https://www.alamedafoodbank.org/get-food/",
+      "schedulePattern": "Mon 10 AM–4 PM; Wed 10 AM–7 PM; Fri 10 AM–4 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-berkeley-food-network-w13-1000",
+      "seriesSlug": "add-berkeley-food-network",
+      "title": "Berkeley Food Network — Free Food",
+      "description": "Free food at Berkeley Food Network. Schedule: Mon, Wed 10 AM–2 PM; Mon, Wed 5 PM–7 PM; Tue, Thu 10 AM–2 PM; 1st Sat & 3rd Sat 10 AM–12 PM. Call (510) 616-5383 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Berkeley Food Network",
+      "address": "1925 9th Street, Berkeley, CA 94710",
+      "lat": 37.869182,
+      "lng": -122.294226,
+      "category": "food-assistance",
+      "sourceOrg": "Berkeley Food Network",
+      "url": "https://www.berkeleyfoodnetwork.org/",
+      "schedulePattern": "Mon, Wed 10 AM–2 PM; Mon, Wed 5 PM–7 PM; Tue, Thu 10 AM–2 PM; 1st Sat & 3rd Sat 10 AM–12 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-berkeley-food-network-w13-1700",
+      "seriesSlug": "add-berkeley-food-network",
+      "title": "Berkeley Food Network — Free Food",
+      "description": "Free food at Berkeley Food Network. Schedule: Mon, Wed 10 AM–2 PM; Mon, Wed 5 PM–7 PM; Tue, Thu 10 AM–2 PM; 1st Sat & 3rd Sat 10 AM–12 PM. Call (510) 616-5383 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Berkeley Food Network",
+      "address": "1925 9th Street, Berkeley, CA 94710",
+      "lat": 37.869182,
+      "lng": -122.294226,
+      "category": "food-assistance",
+      "sourceOrg": "Berkeley Food Network",
+      "url": "https://www.berkeleyfoodnetwork.org/",
+      "schedulePattern": "Mon, Wed 10 AM–2 PM; Mon, Wed 5 PM–7 PM; Tue, Thu 10 AM–2 PM; 1st Sat & 3rd Sat 10 AM–12 PM",
+      "start": "2026-09-28T17:00",
+      "end": "2026-09-28T19:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-berkeley-food-network-w24-1000",
+      "seriesSlug": "add-berkeley-food-network",
+      "title": "Berkeley Food Network — Free Food",
+      "description": "Free food at Berkeley Food Network. Schedule: Mon, Wed 10 AM–2 PM; Mon, Wed 5 PM–7 PM; Tue, Thu 10 AM–2 PM; 1st Sat & 3rd Sat 10 AM–12 PM. Call (510) 616-5383 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Berkeley Food Network",
+      "address": "1925 9th Street, Berkeley, CA 94710",
+      "lat": 37.869182,
+      "lng": -122.294226,
+      "category": "food-assistance",
+      "sourceOrg": "Berkeley Food Network",
+      "url": "https://www.berkeleyfoodnetwork.org/",
+      "schedulePattern": "Mon, Wed 10 AM–2 PM; Mon, Wed 5 PM–7 PM; Tue, Thu 10 AM–2 PM; 1st Sat & 3rd Sat 10 AM–12 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-berkeley-food-network-m1636-1000",
+      "seriesSlug": "add-berkeley-food-network",
+      "title": "Berkeley Food Network — Free Food",
+      "description": "Free food at Berkeley Food Network. Schedule: Mon, Wed 10 AM–2 PM; Mon, Wed 5 PM–7 PM; Tue, Thu 10 AM–2 PM; 1st Sat & 3rd Sat 10 AM–12 PM. Call (510) 616-5383 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Berkeley Food Network",
+      "address": "1925 9th Street, Berkeley, CA 94710",
+      "lat": 37.869182,
+      "lng": -122.294226,
+      "category": "food-assistance",
+      "sourceOrg": "Berkeley Food Network",
+      "url": "https://www.berkeleyfoodnetwork.org/",
+      "schedulePattern": "Mon, Wed 10 AM–2 PM; Mon, Wed 5 PM–7 PM; Tue, Thu 10 AM–2 PM; 1st Sat & 3rd Sat 10 AM–12 PM",
+      "start": "2026-10-10T10:00",
+      "end": "2026-10-10T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "1:6,3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-berkeley-food-pantry-w135-1400",
+      "seriesSlug": "add-berkeley-food-pantry",
+      "title": "Berkeley Food Pantry — Free Food",
+      "description": "Free food at Berkeley Food Pantry. Schedule: Mon, Wed, Fri 2 PM–4 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Berkeley Food Pantry",
+      "address": "1600 Sacramento St, Berkeley, CA 94702",
+      "lat": 37.876457,
+      "lng": -122.283084,
+      "category": "food-assistance",
+      "sourceOrg": "Berkeley Food Pantry",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Mon, Wed, Fri 2 PM–4 PM",
+      "start": "2026-09-28T14:00",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-berkeley-youth-alternatives-m2242-1100",
+      "seriesSlug": "add-berkeley-youth-alternatives",
+      "title": "Berkeley Youth Alternatives — Free Food",
+      "description": "Free food at Berkeley Youth Alternatives. Schedule: 2nd Tue & 4th Tue 11 AM–1 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Berkeley Youth Alternatives",
+      "address": "1255 Allston Way, Berkeley, CA 94702",
+      "lat": 37.867381,
+      "lng": -122.286648,
+      "category": "food-assistance",
+      "sourceOrg": "Berkeley Youth Alternatives",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "2nd Tue & 4th Tue 11 AM–1 PM",
+      "start": "2026-10-06T11:00",
+      "end": "2026-10-06T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 2
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "2:2,4:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-city-team-ministries-first-presbyterian-berkeley-m1636-1000",
+      "seriesSlug": "add-city-team-ministries-first-presbyterian-berkeley",
+      "title": "City Team Ministries - First Presbyterian Berkeley — Free Food",
+      "description": "Free food at City Team Ministries - First Presbyterian Berkeley. Schedule: 1st Sat & 3rd Sat 10 AM–11:15 AM. Eligibility: register at first visit. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "City Team Ministries - First Presbyterian Berkeley",
+      "address": "2407 Dana St, Berkeley, CA 94704",
+      "lat": 37.866055,
+      "lng": -122.260582,
+      "category": "food-assistance",
+      "sourceOrg": "City Team Ministries - First Presbyterian Berkeley",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "1st Sat & 3rd Sat 10 AM–11:15 AM",
+      "start": "2026-10-10T10:00",
+      "end": "2026-10-10T11:15",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "1:6,3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-dorothy-day-house-w123456-0700",
+      "seriesSlug": "add-dorothy-day-house",
+      "title": "Dorothy Day House — Free Food",
+      "description": "Free food at Dorothy Day House. Schedule: Mon–Sat 7 AM–8 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Dorothy Day House",
+      "address": "1931 Center St, Berkeley, CA 94704",
+      "lat": 37.870081,
+      "lng": -122.271839,
+      "category": "food-assistance",
+      "sourceOrg": "Dorothy Day House",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Mon–Sat 7 AM–8 AM",
+      "start": "2026-09-28T07:00",
+      "end": "2026-09-28T08:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5,6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-liberty-hill-baptist-church-w4-1200",
+      "seriesSlug": "add-liberty-hill-baptist-church",
+      "title": "Liberty Hill Baptist Church — Free Food",
+      "description": "Free food at Liberty Hill Baptist Church. Schedule: Thu 12 PM–2 PM. Call (510) 848-3855 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Liberty Hill Baptist Church",
+      "address": "997 University Ave, Berkeley, CA 94710",
+      "lat": 37.868931,
+      "lng": -122.294738,
+      "category": "food-assistance",
+      "sourceOrg": "Liberty Hill Baptist Church",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Thu 12 PM–2 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-m-a-center-mother-s-kitchen-m2242-1200",
+      "seriesSlug": "add-m-a-center-mother-s-kitchen",
+      "title": "M.A. Center Mother's Kitchen — Free Food",
+      "description": "Free food at M.A. Center Mother's Kitchen. Schedule: 2nd Tue & 4th Tue 12 PM–1 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "M.A. Center Mother's Kitchen",
+      "address": "1802 Fairview St, Berkeley, CA 94703",
+      "lat": 37.85022,
+      "lng": -122.272553,
+      "category": "food-assistance",
+      "sourceOrg": "M.A. Center Mother's Kitchen",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "2nd Tue & 4th Tue 12 PM–1 PM",
+      "start": "2026-10-06T12:00",
+      "end": "2026-10-06T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 2
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "2:2,4:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-mcgee-avenue-baptist-church-w135-1200",
+      "seriesSlug": "add-mcgee-avenue-baptist-church",
+      "title": "McGee Avenue Baptist Church — Free Food",
+      "description": "Free food at McGee Avenue Baptist Church. Schedule: Mon, Wed, Fri 12 PM–1 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "McGee Avenue Baptist Church",
+      "address": "1640 Stuart St, Berkeley, CA 94703",
+      "lat": 37.85718,
+      "lng": -122.275578,
+      "category": "food-assistance",
+      "sourceOrg": "McGee Avenue Baptist Church",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Mon, Wed, Fri 12 PM–1 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-multicultural-institute-inc-w3-0930",
+      "seriesSlug": "add-multicultural-institute-inc",
+      "title": "Multicultural Institute Inc — Free Food",
+      "description": "Free food at Multicultural Institute Inc. Schedule: Wed 9:30 AM–10:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Multicultural Institute Inc",
+      "address": "1920 7th Street, Berkeley, CA 94710",
+      "lat": 37.868793,
+      "lng": -122.297151,
+      "category": "food-assistance",
+      "sourceOrg": "Multicultural Institute Inc",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Wed 9:30 AM–10:30 AM",
+      "start": "2026-09-28T09:30",
+      "end": "2026-09-28T10:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-marks-episcopal-church-w1-1800",
+      "seriesSlug": "add-st-marks-episcopal-church",
+      "title": "St. Marks Episcopal Church — Free Food",
+      "description": "Free food at St. Marks Episcopal Church. Schedule: Mon 6 PM–9 PM. Eligibility: youth 13-25. Call (925) 818-3600 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Marks Episcopal Church",
+      "address": "2300 Bancroft Way, Berkeley, CA 94704",
+      "lat": 37.867977,
+      "lng": -122.263264,
+      "category": "food-assistance",
+      "sourceOrg": "St. Marks Episcopal Church",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Mon 6 PM–9 PM",
+      "start": "2026-09-28T18:00",
+      "end": "2026-09-28T21:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-faith-lutheran-church-of-castro-valley-food-pant-m1434-1830",
+      "seriesSlug": "add-faith-lutheran-church-of-castro-valley-food-pant",
+      "title": "Faith Lutheran Church of Castro Valley Food Pantry — Free Food",
+      "description": "Free food at Faith Lutheran Church of Castro Valley Food Pantry. Schedule: 1st Thu & 3rd Thu 6:30 PM–7:30 PM. Call (510) 581-0818 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Faith Lutheran Church of Castro Valley Food Pantry",
+      "address": "20080 Redwood Rd, Castro Valley, CA 94546",
+      "lat": 37.69946,
+      "lng": -122.07363,
+      "category": "food-assistance",
+      "sourceOrg": "Faith Lutheran Church of Castro Valley Food Pantry",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "1st Thu & 3rd Thu 6:30 PM–7:30 PM",
+      "start": "2026-10-08T18:30",
+      "end": "2026-10-08T19:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4,3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-redwood-chapel-community-church-m36-0900",
+      "seriesSlug": "add-redwood-chapel-community-church",
+      "title": "Redwood Chapel Community Church — Free Food",
+      "description": "Free food at Redwood Chapel Community Church. Schedule: 3rd Sat 9 AM–10:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Redwood Chapel Community Church",
+      "address": "19300 Redwood Rd, Castro Valley, CA 94546",
+      "lat": 37.705848,
+      "lng": -122.0734,
+      "category": "food-assistance",
+      "sourceOrg": "Redwood Chapel Community Church",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "3rd Sat 9 AM–10:30 AM",
+      "start": "2026-10-10T09:00",
+      "end": "2026-10-10T10:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-vincent-de-paul-st-raymond-catholic-church-m36-0800",
+      "seriesSlug": "add-st-vincent-de-paul-st-raymond-catholic-church",
+      "title": "St. Vincent de Paul (St. Raymond Catholic Church) — Free Food",
+      "description": "Free food at St. Vincent de Paul (St. Raymond Catholic Church). Schedule: 3rd Sat 8 AM–11 AM. Call (925) 574-7456 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Vincent de Paul (St. Raymond Catholic Church)",
+      "address": "11555 Shannon Ave, Dublin, CA 94568",
+      "lat": 37.712649,
+      "lng": -121.940602,
+      "category": "food-assistance",
+      "sourceOrg": "St. Vincent de Paul (St. Raymond Catholic Church)",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "3rd Sat 8 AM–11 AM",
+      "start": "2026-10-10T08:00",
+      "end": "2026-10-10T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-emeryville-citizens-assistance-program-ecap-w123456-1200",
+      "seriesSlug": "add-emeryville-citizens-assistance-program-ecap",
+      "title": "Emeryville Citizens Assistance Program (ECAP) — Free Food",
+      "description": "Free food at Emeryville Citizens Assistance Program (ECAP). Schedule: Mon–Sat 12 PM–4 PM. Call (510) 499-1263 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Emeryville Citizens Assistance Program (ECAP)",
+      "address": "3610 San Pablo Ave, Emeryville, CA 94608",
+      "lat": 37.827402,
+      "lng": -122.278416,
+      "category": "food-assistance",
+      "sourceOrg": "Emeryville Citizens Assistance Program (ECAP)",
+      "url": "https://www.ecapprogram.org/",
+      "schedulePattern": "Mon–Sat 12 PM–4 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5,6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-centerville-free-dining-room-w24-1600",
+      "seriesSlug": "add-centerville-free-dining-room",
+      "title": "Centerville Free Dining Room — Free Food",
+      "description": "Free food at Centerville Free Dining Room. Schedule: Tue, Thu 4 PM–5:45 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Centerville Free Dining Room",
+      "address": "4360 Central Ave, Fremont, CA 94536",
+      "lat": 37.551821,
+      "lng": -122.006087,
+      "category": "food-assistance",
+      "sourceOrg": "Centerville Free Dining Room",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Tue, Thu 4 PM–5:45 PM",
+      "start": "2026-09-28T16:00",
+      "end": "2026-09-28T17:45",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-fremont-family-resource-center-m1333-1030",
+      "seriesSlug": "add-fremont-family-resource-center",
+      "title": "Fremont Family Resource Center — Free Food",
+      "description": "Free food at Fremont Family Resource Center. Schedule: 1st Wed & 3rd Wed 10:30 AM–11:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Fremont Family Resource Center",
+      "address": "39155 Liberty St, Fremont, CA 94538",
+      "lat": 37.550788,
+      "lng": -121.983282,
+      "category": "food-assistance",
+      "sourceOrg": "Fremont Family Resource Center",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "1st Wed & 3rd Wed 10:30 AM–11:30 AM",
+      "start": "2026-10-07T10:30",
+      "end": "2026-10-07T11:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "1:3,3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-svdp-mission-san-jose-fremont-w24-1300",
+      "seriesSlug": "add-svdp-mission-san-jose-fremont",
+      "title": "SVDP - Mission San Jose Fremont — Free Food",
+      "description": "Free food at SVDP - Mission San Jose Fremont. Schedule: Tue, Thu 1 PM–2 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "SVDP - Mission San Jose Fremont",
+      "address": "43148 Mission Blvd, Fremont, CA 94539",
+      "lat": 37.53575,
+      "lng": -121.918791,
+      "category": "food-assistance",
+      "sourceOrg": "SVDP - Mission San Jose Fremont",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Tue, Thu 1 PM–2 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-tri-city-volunteers-food-bank-w1234-1000",
+      "seriesSlug": "add-tri-city-volunteers-food-bank",
+      "title": "Tri-City Volunteers Food Bank — Free Food",
+      "description": "Free food at Tri-City Volunteers Food Bank. Schedule: Mon–Thu 10 AM–2 PM; Fri 10 AM–11:30 AM. Eligibility: Fri drive-through, existing clients only. Call (510) 793-4583 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Tri-City Volunteers Food Bank",
+      "address": "37350 Joseph St, Fremont, CA 94536",
+      "lat": 37.555939,
+      "lng": -122.007668,
+      "category": "food-assistance",
+      "sourceOrg": "Tri-City Volunteers Food Bank",
+      "url": "https://tcvfoodbank.org/food/",
+      "schedulePattern": "Mon–Thu 10 AM–2 PM; Fri 10 AM–11:30 AM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-tri-city-volunteers-food-bank-w5-1000",
+      "seriesSlug": "add-tri-city-volunteers-food-bank",
+      "title": "Tri-City Volunteers Food Bank — Free Food",
+      "description": "Free food at Tri-City Volunteers Food Bank. Schedule: Mon–Thu 10 AM–2 PM; Fri 10 AM–11:30 AM. Eligibility: Fri drive-through, existing clients only. Call (510) 793-4583 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Tri-City Volunteers Food Bank",
+      "address": "37350 Joseph St, Fremont, CA 94536",
+      "lat": 37.555939,
+      "lng": -122.007668,
+      "category": "food-assistance",
+      "sourceOrg": "Tri-City Volunteers Food Bank",
+      "url": "https://tcvfoodbank.org/food/",
+      "schedulePattern": "Mon–Thu 10 AM–2 PM; Fri 10 AM–11:30 AM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-all-saints-catholic-church-w6-1000",
+      "seriesSlug": "add-all-saints-catholic-church",
+      "title": "All Saints Catholic Church — Free Food",
+      "description": "Free food at All Saints Catholic Church. Schedule: Sat 10 AM–11:30 AM. Call (510) 581-2570 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "All Saints Catholic Church",
+      "address": "22824 2nd St, Hayward, CA 94541",
+      "lat": 37.673104,
+      "lng": -122.076878,
+      "category": "food-assistance",
+      "sourceOrg": "All Saints Catholic Church",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Sat 10 AM–11:30 AM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-city-team-ministries-iglesia-hebreos-m1535-1700",
+      "seriesSlug": "add-city-team-ministries-iglesia-hebreos",
+      "title": "City Team Ministries - Iglesia Hebreos — Free Food",
+      "description": "Free food at City Team Ministries - Iglesia Hebreos. Schedule: 1st Fri & 3rd Fri 5 PM–6 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "City Team Ministries - Iglesia Hebreos",
+      "address": "1497 E Street, Hayward, CA 94541",
+      "lat": 37.673504,
+      "lng": -122.070963,
+      "category": "food-assistance",
+      "sourceOrg": "City Team Ministries - Iglesia Hebreos",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "1st Fri & 3rd Fri 5 PM–6 PM",
+      "start": "2026-10-09T17:00",
+      "end": "2026-10-09T18:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "1:5,3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-city-team-ministries-luz-de-vale-m43-1600",
+      "seriesSlug": "add-city-team-ministries-luz-de-vale",
+      "title": "City Team Ministries - Luz de Vale — Free Food",
+      "description": "Free food at City Team Ministries - Luz de Vale. Schedule: 4th Wed 4 PM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "City Team Ministries - Luz de Vale",
+      "address": "2751 Sleepy Hollow Ave, Hayward, CA 94545",
+      "lat": 37.631617,
+      "lng": -122.107818,
+      "category": "food-assistance",
+      "sourceOrg": "City Team Ministries - Luz de Vale",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "4th Wed 4 PM–5 PM",
+      "start": "2026-10-07T16:00",
+      "end": "2026-10-07T17:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "4:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-community-of-grace-pantry-w3-1100",
+      "seriesSlug": "add-community-of-grace-pantry",
+      "title": "Community of Grace Pantry — Free Food",
+      "description": "Free food at Community of Grace Pantry. Schedule: Wed 11 AM–12 PM. Call (510) 783-8062 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Community of Grace Pantry",
+      "address": "380 Elmhurst St, Hayward, CA 94544",
+      "lat": 37.655601,
+      "lng": -122.094234,
+      "category": "food-assistance",
+      "sourceOrg": "Community of Grace Pantry",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Wed 11 AM–12 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-eden-united-church-of-christ-m2343-1300",
+      "seriesSlug": "add-eden-united-church-of-christ",
+      "title": "Eden United Church of Christ — Free Food",
+      "description": "Free food at Eden United Church of Christ. Schedule: 2nd Wed & 4th Wed 1 PM–4 PM. Call (510) 582-9533 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Eden United Church of Christ",
+      "address": "21455 Birch St, Hayward, CA 94541",
+      "lat": 37.681281,
+      "lng": -122.093412,
+      "category": "food-assistance",
+      "sourceOrg": "Eden United Church of Christ",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "2nd Wed & 4th Wed 1 PM–4 PM",
+      "start": "2026-10-07T13:00",
+      "end": "2026-10-07T16:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "2:3,4:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-hayward-promise-neighborhood-hot-meals-w14-1400",
+      "seriesSlug": "add-hayward-promise-neighborhood-hot-meals",
+      "title": "Hayward Promise Neighborhood (hot meals) — Free Food",
+      "description": "Free food at Hayward Promise Neighborhood (hot meals). Schedule: Mon, Thu 2 PM–4 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Hayward Promise Neighborhood (hot meals)",
+      "address": "680 W. Tennyson Rd, Hayward, CA 94544",
+      "lat": 37.631349,
+      "lng": -122.068065,
+      "category": "food-assistance",
+      "sourceOrg": "Hayward Promise Neighborhood (hot meals)",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Mon, Thu 2 PM–4 PM",
+      "start": "2026-09-28T14:00",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-hayward-seventh-day-adventist-church-w7-0930",
+      "seriesSlug": "add-hayward-seventh-day-adventist-church",
+      "title": "Hayward Seventh Day Adventist Church — Free Food",
+      "description": "Free food at Hayward Seventh Day Adventist Church. Schedule: Sun 9:30 AM–10:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Hayward Seventh Day Adventist Church",
+      "address": "26400 Gading Rd, Hayward, CA 94544",
+      "lat": 37.643095,
+      "lng": -122.080756,
+      "category": "food-assistance",
+      "sourceOrg": "Hayward Seventh Day Adventist Church",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Sun 9:30 AM–10:30 AM",
+      "start": "2026-09-28T09:30",
+      "end": "2026-09-28T10:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-hayward-spanish-sda-church-w3-0800",
+      "seriesSlug": "add-hayward-spanish-sda-church",
+      "title": "Hayward Spanish SDA Church — Free Food",
+      "description": "Free food at Hayward Spanish SDA Church. Schedule: Wed 8 AM–1 PM. Eligibility: Hayward, San Lorenzo, San Leandro residents. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Hayward Spanish SDA Church",
+      "address": "22117 Meekland Ave, Hayward, CA 94541",
+      "lat": 37.670207,
+      "lng": -122.102967,
+      "category": "food-assistance",
+      "sourceOrg": "Hayward Spanish SDA Church",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Wed 8 AM–1 PM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-hillside-alliance-church-m46-1000",
+      "seriesSlug": "add-hillside-alliance-church",
+      "title": "Hillside Alliance Church — Free Food",
+      "description": "Free food at Hillside Alliance Church. Schedule: 4th Sat 10 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Hillside Alliance Church",
+      "address": "944 Central Blvd, Hayward, CA 94542",
+      "lat": 37.659253,
+      "lng": -122.070156,
+      "category": "food-assistance",
+      "sourceOrg": "Hillside Alliance Church",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "4th Sat 10 AM–12 PM",
+      "start": "2026-10-10T10:00",
+      "end": "2026-10-10T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-hope-4-the-heart-w2-1330",
+      "seriesSlug": "add-hope-4-the-heart",
+      "title": "Hope 4 the Heart — Free Food",
+      "description": "Free food at Hope 4 the Heart. Schedule: Tue 1:30 PM–2:30 PM; 3rd Sat 8 AM–11 AM. Eligibility: Hayward, San Lorenzo, San Leandro residents. Call (510) 581-4673 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Hope 4 the Heart",
+      "address": "22035 Meekland Ave, Hayward, CA 94541",
+      "lat": 37.670597,
+      "lng": -122.103609,
+      "category": "food-assistance",
+      "sourceOrg": "Hope 4 the Heart",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Tue 1:30 PM–2:30 PM; 3rd Sat 8 AM–11 AM",
+      "start": "2026-09-28T13:30",
+      "end": "2026-09-28T14:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-hope-4-the-heart-m36-0800",
+      "seriesSlug": "add-hope-4-the-heart",
+      "title": "Hope 4 the Heart — Free Food",
+      "description": "Free food at Hope 4 the Heart. Schedule: Tue 1:30 PM–2:30 PM; 3rd Sat 8 AM–11 AM. Eligibility: Hayward, San Lorenzo, San Leandro residents. Call (510) 581-4673 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Hope 4 the Heart",
+      "address": "22035 Meekland Ave, Hayward, CA 94541",
+      "lat": 37.670597,
+      "lng": -122.103609,
+      "category": "food-assistance",
+      "sourceOrg": "Hope 4 the Heart",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Tue 1:30 PM–2:30 PM; 3rd Sat 8 AM–11 AM",
+      "start": "2026-10-10T08:00",
+      "end": "2026-10-10T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-longwood-elementary-m33-1330",
+      "seriesSlug": "add-longwood-elementary",
+      "title": "Longwood Elementary — Free Food",
+      "description": "Free food at Longwood Elementary. Schedule: 3rd Wed 1:30 PM–2:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Longwood Elementary",
+      "address": "850 Longwood Ave, Hayward, CA 94541",
+      "lat": 37.658889,
+      "lng": -122.109305,
+      "category": "food-assistance",
+      "sourceOrg": "Longwood Elementary",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "3rd Wed 1:30 PM–2:30 PM",
+      "start": "2026-10-07T13:30",
+      "end": "2026-10-07T14:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-salvation-army-hayward-w1234-1000",
+      "seriesSlug": "add-salvation-army-hayward",
+      "title": "Salvation Army - Hayward — Free Food",
+      "description": "Free food at Salvation Army - Hayward. Schedule: Mon–Thu 10 AM–2 PM. Call (510) 581-6444 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salvation Army - Hayward",
+      "address": "430 A Street, Hayward, CA 94541",
+      "lat": 37.669798,
+      "lng": -122.093404,
+      "category": "food-assistance",
+      "sourceOrg": "Salvation Army - Hayward",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Mon–Thu 10 AM–2 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-san-lorenzo-family-help-center-hayward-site-w156-1030",
+      "seriesSlug": "add-san-lorenzo-family-help-center-hayward-site",
+      "title": "San Lorenzo Family Help Center (Hayward site) — Free Food",
+      "description": "Free food at San Lorenzo Family Help Center (Hayward site). Schedule: Mon, Fri–Sat 10:30 AM–3 PM; Wed 10:30 AM–2 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "San Lorenzo Family Help Center (Hayward site)",
+      "address": "20960 Corsair Blvd, Hayward, CA 94545",
+      "lat": 37.65698,
+      "lng": -122.124184,
+      "category": "food-assistance",
+      "sourceOrg": "San Lorenzo Family Help Center (Hayward site)",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Mon, Fri–Sat 10:30 AM–3 PM; Wed 10:30 AM–2 PM",
+      "start": "2026-09-28T10:30",
+      "end": "2026-09-28T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,5,6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-san-lorenzo-family-help-center-hayward-site-w3-1030",
+      "seriesSlug": "add-san-lorenzo-family-help-center-hayward-site",
+      "title": "San Lorenzo Family Help Center (Hayward site) — Free Food",
+      "description": "Free food at San Lorenzo Family Help Center (Hayward site). Schedule: Mon, Fri–Sat 10:30 AM–3 PM; Wed 10:30 AM–2 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "San Lorenzo Family Help Center (Hayward site)",
+      "address": "20960 Corsair Blvd, Hayward, CA 94545",
+      "lat": 37.65698,
+      "lng": -122.124184,
+      "category": "food-assistance",
+      "sourceOrg": "San Lorenzo Family Help Center (Hayward site)",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Mon, Fri–Sat 10:30 AM–3 PM; Wed 10:30 AM–2 PM",
+      "start": "2026-09-28T10:30",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-south-hayward-parish-food-pantry-w1-1400",
+      "seriesSlug": "add-south-hayward-parish-food-pantry",
+      "title": "South Hayward Parish Food Pantry — Free Food",
+      "description": "Free food at South Hayward Parish Food Pantry. Schedule: Mon 2 PM–5 PM; Tue, Thu–Fri 1 PM–4 PM. Call (510) 785-3663 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "South Hayward Parish Food Pantry",
+      "address": "27287 Patrick Ave, Hayward, CA 94544",
+      "lat": 37.633981,
+      "lng": -122.079688,
+      "category": "food-assistance",
+      "sourceOrg": "South Hayward Parish Food Pantry",
+      "url": "https://www.southhaywardparish.org/food-pantry",
+      "schedulePattern": "Mon 2 PM–5 PM; Tue, Thu–Fri 1 PM–4 PM",
+      "start": "2026-09-28T14:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-south-hayward-parish-food-pantry-w245-1300",
+      "seriesSlug": "add-south-hayward-parish-food-pantry",
+      "title": "South Hayward Parish Food Pantry — Free Food",
+      "description": "Free food at South Hayward Parish Food Pantry. Schedule: Mon 2 PM–5 PM; Tue, Thu–Fri 1 PM–4 PM. Call (510) 785-3663 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "South Hayward Parish Food Pantry",
+      "address": "27287 Patrick Ave, Hayward, CA 94544",
+      "lat": 37.633981,
+      "lng": -122.079688,
+      "category": "food-assistance",
+      "sourceOrg": "South Hayward Parish Food Pantry",
+      "url": "https://www.southhaywardparish.org/food-pantry",
+      "schedulePattern": "Mon 2 PM–5 PM; Tue, Thu–Fri 1 PM–4 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-peace-haven-w25-0900",
+      "seriesSlug": "add-the-peace-haven",
+      "title": "The Peace Haven — Free Food",
+      "description": "Free food at The Peace Haven. Schedule: Tue, Fri 9 AM–11 AM. Call (408) 680-6577 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Peace Haven",
+      "address": "1063 A St, Hayward, CA 94541",
+      "lat": 37.674467,
+      "lng": -122.082588,
+      "category": "food-assistance",
+      "sourceOrg": "The Peace Haven",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Tue, Fri 9 AM–11 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-united-smith-memorial-cme-church-m2646-1000",
+      "seriesSlug": "add-united-smith-memorial-cme-church",
+      "title": "United Smith Memorial CME Church — Free Food",
+      "description": "Free food at United Smith Memorial CME Church. Schedule: 2nd Sat & 4th Sat 10 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "United Smith Memorial CME Church",
+      "address": "28105 Mission Blvd, Hayward, CA 94544",
+      "lat": 37.638455,
+      "lng": -122.057106,
+      "category": "food-assistance",
+      "sourceOrg": "United Smith Memorial CME Church",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "2nd Sat & 4th Sat 10 AM–12 PM",
+      "start": "2026-10-10T10:00",
+      "end": "2026-10-10T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6,4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-city-team-ministries-granada-church-m2646-1400",
+      "seriesSlug": "add-city-team-ministries-granada-church",
+      "title": "City Team Ministries - Granada Church — Free Food",
+      "description": "Free food at City Team Ministries - Granada Church. Schedule: 2nd Sat & 4th Sat 2 PM–3 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "City Team Ministries - Granada Church",
+      "address": "945 Concannon Blvd, Livermore, CA 94550",
+      "lat": 37.660046,
+      "lng": -121.783611,
+      "category": "food-assistance",
+      "sourceOrg": "City Team Ministries - Granada Church",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "2nd Sat & 4th Sat 2 PM–3 PM",
+      "start": "2026-10-10T14:00",
+      "end": "2026-10-10T15:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6,4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-cornerstone-fellowship-w5-0900",
+      "seriesSlug": "add-cornerstone-fellowship",
+      "title": "Cornerstone Fellowship — Free Food",
+      "description": "Free food at Cornerstone Fellowship. Schedule: Fri 9 AM–11 AM. Call (925) 447-3465 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Cornerstone Fellowship",
+      "address": "348 N Canyons Pkwy, Livermore, CA 94551",
+      "lat": 37.703709,
+      "lng": -121.810714,
+      "category": "food-assistance",
+      "sourceOrg": "Cornerstone Fellowship",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Fri 9 AM–11 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-culinary-angels-w3-1515",
+      "seriesSlug": "add-culinary-angels",
+      "title": "Culinary Angels — Free Food",
+      "description": "Free food at Culinary Angels. Schedule: Wed 3:15 PM–4:30 PM. Call (925) 243-1211 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Culinary Angels",
+      "address": "164 N L Street, Livermore, CA 94550",
+      "lat": 37.68338,
+      "lng": -121.771971,
+      "category": "food-assistance",
+      "sourceOrg": "Culinary Angels",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Wed 3:15 PM–4:30 PM",
+      "start": "2026-09-28T15:15",
+      "end": "2026-09-28T16:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-interfaith-sharing-food-pantry-st-bartholomew-s--w46-0800",
+      "seriesSlug": "add-interfaith-sharing-food-pantry-st-bartholomew-s-",
+      "title": "Interfaith Sharing Food Pantry (St. Bartholomew's Church) — Free Food",
+      "description": "Free food at Interfaith Sharing Food Pantry (St. Bartholomew's Church). Schedule: Thu, Sat 8 AM–9 AM. Call (925) 447-3289 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Interfaith Sharing Food Pantry (St. Bartholomew's Church)",
+      "address": "678 Enos Way, Livermore, CA 94551",
+      "lat": 37.689833,
+      "lng": -121.76909,
+      "category": "food-assistance",
+      "sourceOrg": "Interfaith Sharing Food Pantry (St. Bartholomew's Church)",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Thu, Sat 8 AM–9 AM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T09:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4,6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-open-heart-kitchen-w12345-1200",
+      "seriesSlug": "add-open-heart-kitchen",
+      "title": "Open Heart Kitchen — Free Food",
+      "description": "Free food at Open Heart Kitchen. Schedule: Mon–Fri 12 PM–5 PM. Call (925) 580-1616 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Open Heart Kitchen",
+      "address": "450 N. Livermore Ave, Livermore, CA 94551",
+      "lat": 37.68678,
+      "lng": -121.770716,
+      "category": "food-assistance",
+      "sourceOrg": "Open Heart Kitchen",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Mon–Fri 12 PM–5 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-matthew-s-baptist-church-feeding-ministry-w6-1100",
+      "seriesSlug": "add-st-matthew-s-baptist-church-feeding-ministry",
+      "title": "St. Matthew's Baptist Church Feeding Ministry — Free Food",
+      "description": "Free food at St. Matthew's Baptist Church Feeding Ministry. Schedule: Sat 11 AM–1 PM. Call (925) 443-3686 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Matthew's Baptist Church Feeding Ministry",
+      "address": "1886 College Ave, Livermore, CA 94550",
+      "lat": 37.67477,
+      "lng": -121.770453,
+      "category": "food-assistance",
+      "sourceOrg": "St. Matthew's Baptist Church Feeding Ministry",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Sat 11 AM–1 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-vincent-de-paul-st-michael-catholic-church-w124-1900",
+      "seriesSlug": "add-st-vincent-de-paul-st-michael-catholic-church",
+      "title": "St. Vincent de Paul (St. Michael Catholic Church) — Free Food",
+      "description": "Free food at St. Vincent de Paul (St. Michael Catholic Church). Schedule: Mon–Tue, Thu 7 PM–8 PM; Wed 4 PM–5 PM. Call (925) 758-0126 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Vincent de Paul (St. Michael Catholic Church)",
+      "address": "458 Maple St, Livermore, CA 94550",
+      "lat": 37.681884,
+      "lng": -121.763159,
+      "category": "food-assistance",
+      "sourceOrg": "St. Vincent de Paul (St. Michael Catholic Church)",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Mon–Tue, Thu 7 PM–8 PM; Wed 4 PM–5 PM",
+      "start": "2026-09-28T19:00",
+      "end": "2026-09-28T20:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-vincent-de-paul-st-michael-catholic-church-w3-1600",
+      "seriesSlug": "add-st-vincent-de-paul-st-michael-catholic-church",
+      "title": "St. Vincent de Paul (St. Michael Catholic Church) — Free Food",
+      "description": "Free food at St. Vincent de Paul (St. Michael Catholic Church). Schedule: Mon–Tue, Thu 7 PM–8 PM; Wed 4 PM–5 PM. Call (925) 758-0126 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Vincent de Paul (St. Michael Catholic Church)",
+      "address": "458 Maple St, Livermore, CA 94550",
+      "lat": 37.681884,
+      "lng": -121.763159,
+      "category": "food-assistance",
+      "sourceOrg": "St. Vincent de Paul (St. Michael Catholic Church)",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Mon–Tue, Thu 7 PM–8 PM; Wed 4 PM–5 PM",
+      "start": "2026-09-28T16:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-market-at-las-positas-college-m42-1100",
+      "seriesSlug": "add-the-market-at-las-positas-college",
+      "title": "The Market at Las Positas College — Free Food",
+      "description": "Free food at The Market at Las Positas College. Schedule: 4th Tue 11 AM–3 PM. Call (925) 424-1000 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Market at Las Positas College",
+      "address": "3000 Campus Hill Dr (1600 Building Courtyard), Livermore, CA 94551",
+      "lat": 37.710264,
+      "lng": -121.801058,
+      "category": "food-assistance",
+      "sourceOrg": "The Market at Las Positas College",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "4th Tue 11 AM–3 PM",
+      "start": "2026-10-06T11:00",
+      "end": "2026-10-06T15:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "4:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-well-community-outreach-w5-1000",
+      "seriesSlug": "add-the-well-community-outreach",
+      "title": "The Well Community Outreach — Free Food",
+      "description": "Free food at The Well Community Outreach. Schedule: Fri 10 AM–11:30 AM; Fri 1 PM–2:30 PM. Call (925) 479-1414 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Well Community Outreach",
+      "address": "2333 Nissen Dr, Livermore, CA 94551",
+      "lat": 37.698257,
+      "lng": -121.814372,
+      "category": "food-assistance",
+      "sourceOrg": "The Well Community Outreach",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Fri 10 AM–11:30 AM; Fri 1 PM–2:30 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-well-community-outreach-w5-1300",
+      "seriesSlug": "add-the-well-community-outreach",
+      "title": "The Well Community Outreach — Free Food",
+      "description": "Free food at The Well Community Outreach. Schedule: Fri 10 AM–11:30 AM; Fri 1 PM–2:30 PM. Call (925) 479-1414 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Well Community Outreach",
+      "address": "2333 Nissen Dr, Livermore, CA 94551",
+      "lat": 37.698257,
+      "lng": -121.814372,
+      "category": "food-assistance",
+      "sourceOrg": "The Well Community Outreach",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Fri 10 AM–11:30 AM; Fri 1 PM–2:30 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T14:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-tri-valley-haven-food-pantry-w1234-1300",
+      "seriesSlug": "add-tri-valley-haven-food-pantry",
+      "title": "Tri-Valley Haven Food Pantry — Free Food",
+      "description": "Free food at Tri-Valley Haven Food Pantry. Schedule: Mon–Thu 1 PM–5 PM; Fri–Sat 12 PM–4 PM. Call (925) 449-1664 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Tri-Valley Haven Food Pantry",
+      "address": "150 N L Street, Livermore, CA 94550",
+      "lat": 37.683396,
+      "lng": -121.772081,
+      "category": "food-assistance",
+      "sourceOrg": "Tri-Valley Haven Food Pantry",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Mon–Thu 1 PM–5 PM; Fri–Sat 12 PM–4 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-tri-valley-haven-food-pantry-w56-1200",
+      "seriesSlug": "add-tri-valley-haven-food-pantry",
+      "title": "Tri-Valley Haven Food Pantry — Free Food",
+      "description": "Free food at Tri-Valley Haven Food Pantry. Schedule: Mon–Thu 1 PM–5 PM; Fri–Sat 12 PM–4 PM. Call (925) 449-1664 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Tri-Valley Haven Food Pantry",
+      "address": "150 N L Street, Livermore, CA 94550",
+      "lat": 37.683396,
+      "lng": -121.772081,
+      "category": "food-assistance",
+      "sourceOrg": "Tri-Valley Haven Food Pantry",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Mon–Thu 1 PM–5 PM; Fri–Sat 12 PM–4 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5,6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-tri-valley-seek-and-save-w6-0900",
+      "seriesSlug": "add-tri-valley-seek-and-save",
+      "title": "Tri-Valley Seek and Save — Free Food",
+      "description": "Free food at Tri-Valley Seek and Save. Schedule: Sat 9 AM–10:30 AM. Call (925) 895-1041 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Tri-Valley Seek and Save",
+      "address": "348 N Canyons Pkwy, Livermore, CA 94551",
+      "lat": 37.703709,
+      "lng": -121.810714,
+      "category": "food-assistance",
+      "sourceOrg": "Tri-Valley Seek and Save",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Sat 9 AM–10:30 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T10:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-league-of-volunteers-emergency-food-bank-m1434-1000",
+      "seriesSlug": "add-league-of-volunteers-emergency-food-bank",
+      "title": "League of Volunteers Emergency Food Bank — Free Food",
+      "description": "Free food at League of Volunteers Emergency Food Bank. Schedule: 1st Thu & 3rd Thu 10 AM–11 AM. Call (510) 793-5683 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "League of Volunteers Emergency Food Bank",
+      "address": "8440 Central Ave #2C, Newark, CA 94560",
+      "lat": 37.51644,
+      "lng": -122.045163,
+      "category": "food-assistance",
+      "sourceOrg": "League of Volunteers Emergency Food Bank",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "1st Thu & 3rd Thu 10 AM–11 AM",
+      "start": "2026-10-08T10:00",
+      "end": "2026-10-08T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4,3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-salvation-army-tri-cities-w35-0730",
+      "seriesSlug": "add-salvation-army-tri-cities",
+      "title": "Salvation Army - Tri Cities — Free Food",
+      "description": "Free food at Salvation Army - Tri Cities. Schedule: Wed, Fri 7:30 AM–9:30 AM. Eligibility: Fremont, Union City, Newark residents. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salvation Army - Tri Cities",
+      "address": "36700 Newark Blvd, Newark, CA 94560",
+      "lat": 37.538741,
+      "lng": -122.032538,
+      "category": "food-assistance",
+      "sourceOrg": "Salvation Army - Tri Cities",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Wed, Fri 7:30 AM–9:30 AM",
+      "start": "2026-09-28T07:30",
+      "end": "2026-09-28T09:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-solid-rock-cogic-m1333-1000",
+      "seriesSlug": "add-solid-rock-cogic",
+      "title": "Solid Rock COGIC — Free Food",
+      "description": "Free food at Solid Rock COGIC. Schedule: 1st Wed & 3rd Wed 10 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Solid Rock COGIC",
+      "address": "5970 Thornton Ave, Newark, CA 94560",
+      "lat": 37.537791,
+      "lng": -122.029475,
+      "category": "food-assistance",
+      "sourceOrg": "Solid Rock COGIC",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "1st Wed & 3rd Wed 10 AM–12 PM",
+      "start": "2026-10-07T10:00",
+      "end": "2026-10-07T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "1:3,3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-viola-blythe-community-service-center-w123-1030",
+      "seriesSlug": "add-viola-blythe-community-service-center",
+      "title": "Viola Blythe Community Service Center — Free Food",
+      "description": "Free food at Viola Blythe Community Service Center. Schedule: Mon–Wed 10:30 AM–2:30 PM. Eligibility: Fremont, Newark, Union City residents. Call (510) 794-3437 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Viola Blythe Community Service Center",
+      "address": "37365 Ash Street, Newark, CA 94560",
+      "lat": 37.524807,
+      "lng": -122.038937,
+      "category": "food-assistance",
+      "sourceOrg": "Viola Blythe Community Service Center",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Mon–Wed 10:30 AM–2:30 PM",
+      "start": "2026-09-28T10:30",
+      "end": "2026-09-28T14:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-allen-temple-baptist-church-m1232-1000",
+      "seriesSlug": "add-allen-temple-baptist-church",
+      "title": "Allen Temple Baptist Church — Free Food",
+      "description": "Free food at Allen Temple Baptist Church. Schedule: 1st Tue & 3rd Tue 10 AM–12 PM; 4th Mon 10 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Allen Temple Baptist Church",
+      "address": "1350 86th Ave, Oakland, CA 94621",
+      "lat": 37.752072,
+      "lng": -122.177004,
+      "category": "food-assistance",
+      "sourceOrg": "Allen Temple Baptist Church",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "1st Tue & 3rd Tue 10 AM–12 PM; 4th Mon 10 AM–12 PM",
+      "start": "2026-10-06T10:00",
+      "end": "2026-10-06T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 2
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "1:2,3:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-allen-temple-baptist-church-m41-1000",
+      "seriesSlug": "add-allen-temple-baptist-church",
+      "title": "Allen Temple Baptist Church — Free Food",
+      "description": "Free food at Allen Temple Baptist Church. Schedule: 1st Tue & 3rd Tue 10 AM–12 PM; 4th Mon 10 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Allen Temple Baptist Church",
+      "address": "1350 86th Ave, Oakland, CA 94621",
+      "lat": 37.752072,
+      "lng": -122.177004,
+      "category": "food-assistance",
+      "sourceOrg": "Allen Temple Baptist Church",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "1st Tue & 3rd Tue 10 AM–12 PM; 4th Mon 10 AM–12 PM",
+      "start": "2026-10-05T10:00",
+      "end": "2026-10-05T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "4:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-caa-agnes-memorial-m35-0800",
+      "seriesSlug": "add-caa-agnes-memorial",
+      "title": "CAA - Agnes Memorial — Free Food",
+      "description": "Free food at CAA - Agnes Memorial. Schedule: 3rd Fri 8 AM–10 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "CAA - Agnes Memorial",
+      "address": "2372 International Blvd, Oakland, CA 94601",
+      "lat": 37.782794,
+      "lng": -122.234526,
+      "category": "food-assistance",
+      "sourceOrg": "CAA - Agnes Memorial",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "3rd Fri 8 AM–10 AM",
+      "start": "2026-10-09T08:00",
+      "end": "2026-10-09T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-center-of-hope-w5-1100",
+      "seriesSlug": "add-center-of-hope",
+      "title": "Center of Hope — Free Food",
+      "description": "Free food at Center of Hope. Schedule: Fri 11 AM–1 PM. Call (510) 304-8480 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Center of Hope",
+      "address": "8425 MacArthur Blvd, Oakland, CA 94605",
+      "lat": 37.76087,
+      "lng": -122.16361,
+      "category": "food-assistance",
+      "sourceOrg": "Center of Hope",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Fri 11 AM–1 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-christian-tabernacle-church-w4-1730",
+      "seriesSlug": "add-christian-tabernacle-church",
+      "title": "Christian Tabernacle Church — Free Food",
+      "description": "Free food at Christian Tabernacle Church. Schedule: Thu 5:30 PM–6:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Christian Tabernacle Church",
+      "address": "9330 Walnut St, Oakland, CA 94603",
+      "lat": 37.74851,
+      "lng": -122.170515,
+      "category": "food-assistance",
+      "sourceOrg": "Christian Tabernacle Church",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Thu 5:30 PM–6:30 PM",
+      "start": "2026-09-28T17:30",
+      "end": "2026-09-28T18:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-city-team-ministries-50th-ave-m42-1200",
+      "seriesSlug": "add-city-team-ministries-50th-ave",
+      "title": "City Team Ministries - 50th Ave — Free Food",
+      "description": "Free food at City Team Ministries - 50th Ave. Schedule: 4th Tue 12 PM–2 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "City Team Ministries - 50th Ave",
+      "address": "1006 50th Ave, Oakland, CA 94601",
+      "lat": 37.766669,
+      "lng": -122.21142,
+      "category": "food-assistance",
+      "sourceOrg": "City Team Ministries - 50th Ave",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "4th Tue 12 PM–2 PM",
+      "start": "2026-10-06T12:00",
+      "end": "2026-10-06T14:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "4:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-city-team-ministries-all-nations-m1232-1300",
+      "seriesSlug": "add-city-team-ministries-all-nations",
+      "title": "City Team Ministries - All Nations — Free Food",
+      "description": "Free food at City Team Ministries - All Nations. Schedule: 1st Tue & 3rd Tue 1 PM–2 PM. Eligibility: bring bags and ID. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "City Team Ministries - All Nations",
+      "address": "5815 San Pablo Ave, Oakland, CA",
+      "lat": 37.84179,
+      "lng": -122.28348,
+      "category": "food-assistance",
+      "sourceOrg": "City Team Ministries - All Nations",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "1st Tue & 3rd Tue 1 PM–2 PM",
+      "start": "2026-10-06T13:00",
+      "end": "2026-10-06T14:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 2
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "1:2,3:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-city-team-ministries-fruitvale-m1434-1800",
+      "seriesSlug": "add-city-team-ministries-fruitvale",
+      "title": "City Team Ministries - Fruitvale — Free Food",
+      "description": "Free food at City Team Ministries - Fruitvale. Schedule: 1st Thu & 3rd Thu 6 PM–7 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "City Team Ministries - Fruitvale",
+      "address": "2744 East 11th St, Oakland, CA 94601",
+      "lat": 37.778549,
+      "lng": -122.233431,
+      "category": "food-assistance",
+      "sourceOrg": "City Team Ministries - Fruitvale",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "1st Thu & 3rd Thu 6 PM–7 PM",
+      "start": "2026-10-08T18:00",
+      "end": "2026-10-08T19:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4,3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-city-team-ministries-new-hope-baptist-m2444-1400",
+      "seriesSlug": "add-city-team-ministries-new-hope-baptist",
+      "title": "City Team Ministries - New Hope Baptist — Free Food",
+      "description": "Free food at City Team Ministries - New Hope Baptist. Schedule: 2nd Thu & 4th Thu 2 PM–3 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "City Team Ministries - New Hope Baptist",
+      "address": "3624 Market Street, Oakland, CA 94608",
+      "lat": 37.826892,
+      "lng": -122.274891,
+      "category": "food-assistance",
+      "sourceOrg": "City Team Ministries - New Hope Baptist",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "2nd Thu & 4th Thu 2 PM–3 PM",
+      "start": "2026-10-08T14:00",
+      "end": "2026-10-08T15:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "2:4,4:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-city-team-ministries-new-testament-m1434-1100",
+      "seriesSlug": "add-city-team-ministries-new-testament",
+      "title": "City Team Ministries - New Testament — Free Food",
+      "description": "Free food at City Team Ministries - New Testament. Schedule: 1st Thu & 3rd Thu 11 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "City Team Ministries - New Testament",
+      "address": "1901 62nd Ave, Oakland, CA",
+      "lat": 37.765941,
+      "lng": -122.194857,
+      "category": "food-assistance",
+      "sourceOrg": "City Team Ministries - New Testament",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "1st Thu & 3rd Thu 11 AM–12 PM",
+      "start": "2026-10-08T11:00",
+      "end": "2026-10-08T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4,3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-city-team-ministries-st-andrews-mbc-m2444-1200",
+      "seriesSlug": "add-city-team-ministries-st-andrews-mbc",
+      "title": "City Team Ministries - St. Andrews MBC — Free Food",
+      "description": "Free food at City Team Ministries - St. Andrews MBC. Schedule: 2nd Thu & 4th Thu 12 PM–1 PM. Eligibility: bring bags and ID. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "City Team Ministries - St. Andrews MBC",
+      "address": "2624 West St, Oakland, CA 94612",
+      "lat": 37.817248,
+      "lng": -122.27396,
+      "category": "food-assistance",
+      "sourceOrg": "City Team Ministries - St. Andrews MBC",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "2nd Thu & 4th Thu 12 PM–1 PM",
+      "start": "2026-10-08T12:00",
+      "end": "2026-10-08T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "2:4,4:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-community-kitchens-w12347-1100",
+      "seriesSlug": "add-community-kitchens",
+      "title": "Community Kitchens — Free Food",
+      "description": "Free food at Community Kitchens. Schedule: Mon–Thu, Sun 11 AM–2 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Community Kitchens",
+      "address": "2270 Telegraph Ave, Oakland, CA 94612",
+      "lat": 37.812282,
+      "lng": -122.268588,
+      "category": "food-assistance",
+      "sourceOrg": "Community Kitchens",
+      "url": "https://www.ckoakland.org/",
+      "schedulePattern": "Mon–Thu, Sun 11 AM–2 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-downs-memorial-united-methodist-church-w12-0930",
+      "seriesSlug": "add-downs-memorial-united-methodist-church",
+      "title": "Downs Memorial United Methodist Church — Free Food",
+      "description": "Free food at Downs Memorial United Methodist Church. Schedule: Mon–Tue 9:30 AM–10:30 AM; Wed 10:30 AM–11:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Downs Memorial United Methodist Church",
+      "address": "6026 Idaho St, Oakland, CA 94608",
+      "lat": 37.84414,
+      "lng": -122.28043,
+      "category": "food-assistance",
+      "sourceOrg": "Downs Memorial United Methodist Church",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Mon–Tue 9:30 AM–10:30 AM; Wed 10:30 AM–11:30 AM",
+      "start": "2026-09-28T09:30",
+      "end": "2026-09-28T10:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-downs-memorial-united-methodist-church-w3-1030",
+      "seriesSlug": "add-downs-memorial-united-methodist-church",
+      "title": "Downs Memorial United Methodist Church — Free Food",
+      "description": "Free food at Downs Memorial United Methodist Church. Schedule: Mon–Tue 9:30 AM–10:30 AM; Wed 10:30 AM–11:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Downs Memorial United Methodist Church",
+      "address": "6026 Idaho St, Oakland, CA 94608",
+      "lat": 37.84414,
+      "lng": -122.28043,
+      "category": "food-assistance",
+      "sourceOrg": "Downs Memorial United Methodist Church",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Mon–Tue 9:30 AM–10:30 AM; Wed 10:30 AM–11:30 AM",
+      "start": "2026-09-28T10:30",
+      "end": "2026-09-28T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-downtown-oakland-senior-center-mercy-brown-bag-s-m31-1030",
+      "seriesSlug": "add-downtown-oakland-senior-center-mercy-brown-bag-s",
+      "title": "Downtown Oakland Senior Center - Mercy Brown Bag / Spectrum Senior Meals — Free Food",
+      "description": "Free food at Downtown Oakland Senior Center - Mercy Brown Bag / Spectrum Senior Meals. Schedule: 3rd Mon 10:30 AM–11:30 AM; Mon–Thu 12 AM–12:30 PM. Eligibility: seniors 60+. Call (510) 269-9640 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Downtown Oakland Senior Center - Mercy Brown Bag / Spectrum Senior Meals",
+      "address": "200 Grand Ave, Oakland, CA 94610",
+      "lat": 37.811359,
+      "lng": -122.261272,
+      "category": "food-assistance",
+      "sourceOrg": "Downtown Oakland Senior Center - Mercy Brown Bag / Spectrum Senior Meals",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "3rd Mon 10:30 AM–11:30 AM; Mon–Thu 12 AM–12:30 PM",
+      "start": "2026-10-05T10:30",
+      "end": "2026-10-05T11:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "3:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-downtown-oakland-senior-center-mercy-brown-bag-s-w1234-0000",
+      "seriesSlug": "add-downtown-oakland-senior-center-mercy-brown-bag-s",
+      "title": "Downtown Oakland Senior Center - Mercy Brown Bag / Spectrum Senior Meals — Free Food",
+      "description": "Free food at Downtown Oakland Senior Center - Mercy Brown Bag / Spectrum Senior Meals. Schedule: 3rd Mon 10:30 AM–11:30 AM; Mon–Thu 12 AM–12:30 PM. Eligibility: seniors 60+. Call (510) 269-9640 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Downtown Oakland Senior Center - Mercy Brown Bag / Spectrum Senior Meals",
+      "address": "200 Grand Ave, Oakland, CA 94610",
+      "lat": 37.811359,
+      "lng": -122.261272,
+      "category": "food-assistance",
+      "sourceOrg": "Downtown Oakland Senior Center - Mercy Brown Bag / Spectrum Senior Meals",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "3rd Mon 10:30 AM–11:30 AM; Mon–Thu 12 AM–12:30 PM",
+      "start": "2026-09-28T00:00",
+      "end": "2026-09-28T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-east-oakland-multi-purpose-senior-center-w3-0800",
+      "seriesSlug": "add-east-oakland-multi-purpose-senior-center",
+      "title": "East Oakland Multi-Purpose Senior Center — Free Food",
+      "description": "Free food at East Oakland Multi-Purpose Senior Center. Schedule: Wed 8 AM–9 AM. Call (510) 615-5731 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "East Oakland Multi-Purpose Senior Center",
+      "address": "9255 Edes Ave, Oakland, CA 94603",
+      "lat": 37.736749,
+      "lng": -122.189979,
+      "category": "food-assistance",
+      "sourceOrg": "East Oakland Multi-Purpose Senior Center",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Wed 8 AM–9 AM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T09:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-east-oakland-switchboard-w12345-1000",
+      "seriesSlug": "add-east-oakland-switchboard",
+      "title": "East Oakland Switchboard — Free Food",
+      "description": "Free food at East Oakland Switchboard. Schedule: Mon–Fri 10 AM–4 PM. Call (510) 569-6369 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "East Oakland Switchboard",
+      "address": "1909 73rd Ave, Oakland, CA 94621",
+      "lat": 37.762364,
+      "lng": -122.182827,
+      "category": "food-assistance",
+      "sourceOrg": "East Oakland Switchboard",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Mon–Fri 10 AM–4 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-evergreen-missionary-baptist-church-m2343-1300",
+      "seriesSlug": "add-evergreen-missionary-baptist-church",
+      "title": "Evergreen Missionary Baptist Church — Free Food",
+      "description": "Free food at Evergreen Missionary Baptist Church. Schedule: 2nd Wed & 4th Wed 1 PM–4 PM; 3rd Sat 12 PM–3 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Evergreen Missionary Baptist Church",
+      "address": "408 W. MacArthur Blvd, Oakland, CA 94609",
+      "lat": 37.825556,
+      "lng": -122.261862,
+      "category": "food-assistance",
+      "sourceOrg": "Evergreen Missionary Baptist Church",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "2nd Wed & 4th Wed 1 PM–4 PM; 3rd Sat 12 PM–3 PM",
+      "start": "2026-10-07T13:00",
+      "end": "2026-10-07T16:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "2:3,4:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-evergreen-missionary-baptist-church-m36-1200",
+      "seriesSlug": "add-evergreen-missionary-baptist-church",
+      "title": "Evergreen Missionary Baptist Church — Free Food",
+      "description": "Free food at Evergreen Missionary Baptist Church. Schedule: 2nd Wed & 4th Wed 1 PM–4 PM; 3rd Sat 12 PM–3 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Evergreen Missionary Baptist Church",
+      "address": "408 W. MacArthur Blvd, Oakland, CA 94609",
+      "lat": 37.825556,
+      "lng": -122.261862,
+      "category": "food-assistance",
+      "sourceOrg": "Evergreen Missionary Baptist Church",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "2nd Wed & 4th Wed 1 PM–4 PM; 3rd Sat 12 PM–3 PM",
+      "start": "2026-10-10T12:00",
+      "end": "2026-10-10T15:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-feed-my-sheep-m36-1200",
+      "seriesSlug": "add-feed-my-sheep",
+      "title": "Feed My Sheep — Free Food",
+      "description": "Free food at Feed My Sheep. Schedule: 3rd Sat 12 PM–2 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Feed My Sheep",
+      "address": "8829 Plymouth Street, Oakland, CA 94621",
+      "lat": 37.752525,
+      "lng": -122.172054,
+      "category": "food-assistance",
+      "sourceOrg": "Feed My Sheep",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "3rd Sat 12 PM–2 PM",
+      "start": "2026-10-10T12:00",
+      "end": "2026-10-10T14:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-greater-grace-community-services-w35-1100",
+      "seriesSlug": "add-greater-grace-community-services",
+      "title": "Greater Grace Community Services — Free Food",
+      "description": "Free food at Greater Grace Community Services. Schedule: Wed, Fri 11 AM–4 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Greater Grace Community Services",
+      "address": "10701 International Blvd, Oakland, CA 94603",
+      "lat": 37.738634,
+      "lng": -122.16193,
+      "category": "food-assistance",
+      "sourceOrg": "Greater Grace Community Services",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Wed, Fri 11 AM–4 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-homies-empowerment-freedom-store-w2-1000",
+      "seriesSlug": "add-homies-empowerment-freedom-store",
+      "title": "Homies Empowerment FREEdom Store — Free Food",
+      "description": "Free food at Homies Empowerment FREEdom Store. Schedule: Tue 10 AM–4 PM. Call (510) 542-9993 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Homies Empowerment FREEdom Store",
+      "address": "7631 MacArthur Blvd, Oakland, CA 94605",
+      "lat": 37.767201,
+      "lng": -122.169688,
+      "category": "food-assistance",
+      "sourceOrg": "Homies Empowerment FREEdom Store",
+      "url": "https://www.homiesempowerment.com/freedom-store.html",
+      "schedulePattern": "Tue 10 AM–4 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-hope-collaborative-m1737-1430",
+      "seriesSlug": "add-hope-collaborative",
+      "title": "HOPE Collaborative — Free Food",
+      "description": "Free food at HOPE Collaborative. Schedule: 1st Sun & 3rd Sun 2:30 PM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "HOPE Collaborative",
+      "address": "3427 San Pablo Ave, Oakland, CA 94608",
+      "lat": 37.82555,
+      "lng": -122.27851,
+      "category": "food-assistance",
+      "sourceOrg": "HOPE Collaborative",
+      "url": "https://www.hopecollaborative.net/",
+      "schedulePattern": "1st Sun & 3rd Sun 2:30 PM–5 PM",
+      "start": "2026-10-11T14:30",
+      "end": "2026-10-11T17:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 7
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 7
+          }
+        ]
+      },
+      "recurDays": "1:7,3:7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-israelite-missionary-baptist-church-m36-1000",
+      "seriesSlug": "add-israelite-missionary-baptist-church",
+      "title": "Israelite Missionary Baptist Church — Free Food",
+      "description": "Free food at Israelite Missionary Baptist Church. Schedule: 3rd Sat 10 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Israelite Missionary Baptist Church",
+      "address": "2043 E 21st St, Oakland, CA 94606",
+      "lat": 37.790113,
+      "lng": -122.234586,
+      "category": "food-assistance",
+      "sourceOrg": "Israelite Missionary Baptist Church",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "3rd Sat 10 AM–12 PM",
+      "start": "2026-10-10T10:00",
+      "end": "2026-10-10T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-lake-merritt-united-methodist-church-m46-0800",
+      "seriesSlug": "add-lake-merritt-united-methodist-church",
+      "title": "Lake Merritt United Methodist Church — Free Food",
+      "description": "Free food at Lake Merritt United Methodist Church. Schedule: 4th Sat 8 AM–10 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Lake Merritt United Methodist Church",
+      "address": "1330 Lakeshore Ave, Oakland, CA 94606",
+      "lat": 37.798954,
+      "lng": -122.257805,
+      "category": "food-assistance",
+      "sourceOrg": "Lake Merritt United Methodist Church",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "4th Sat 8 AM–10 AM",
+      "start": "2026-10-10T08:00",
+      "end": "2026-10-10T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-love-thy-neighbor-ministries-w2-1100",
+      "seriesSlug": "add-love-thy-neighbor-ministries",
+      "title": "Love Thy Neighbor Ministries — Free Food",
+      "description": "Free food at Love Thy Neighbor Ministries. Schedule: Tue 11 AM–1 PM; 3rd Sat 12 PM–2 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Love Thy Neighbor Ministries",
+      "address": "5782 Foothill Blvd, Oakland, CA 94605",
+      "lat": 37.77209,
+      "lng": -122.19203,
+      "category": "food-assistance",
+      "sourceOrg": "Love Thy Neighbor Ministries",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Tue 11 AM–1 PM; 3rd Sat 12 PM–2 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-love-thy-neighbor-ministries-m36-1200",
+      "seriesSlug": "add-love-thy-neighbor-ministries",
+      "title": "Love Thy Neighbor Ministries — Free Food",
+      "description": "Free food at Love Thy Neighbor Ministries. Schedule: Tue 11 AM–1 PM; 3rd Sat 12 PM–2 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Love Thy Neighbor Ministries",
+      "address": "5782 Foothill Blvd, Oakland, CA 94605",
+      "lat": 37.77209,
+      "lng": -122.19203,
+      "category": "food-assistance",
+      "sourceOrg": "Love Thy Neighbor Ministries",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Tue 11 AM–1 PM; 3rd Sat 12 PM–2 PM",
+      "start": "2026-10-10T12:00",
+      "end": "2026-10-10T14:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-market-street-sda-church-m32-1300",
+      "seriesSlug": "add-market-street-sda-church",
+      "title": "Market Street SDA Church — Free Food",
+      "description": "Free food at Market Street SDA Church. Schedule: 3rd Tue 1 PM–3 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Market Street SDA Church",
+      "address": "3415 Market Street, Oakland, CA 94608",
+      "lat": 37.825043,
+      "lng": -122.275634,
+      "category": "food-assistance",
+      "sourceOrg": "Market Street SDA Church",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "3rd Tue 1 PM–3 PM",
+      "start": "2026-10-06T13:00",
+      "end": "2026-10-06T15:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "3:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-mercy-brown-bag-program-oakland-w12345-1000",
+      "seriesSlug": "add-mercy-brown-bag-program-oakland",
+      "title": "Mercy Brown Bag Program - Oakland — Free Food",
+      "description": "Free food at Mercy Brown Bag Program - Oakland. Schedule: Mon–Fri 10 AM–12:30 PM; Mon–Fri 1 PM–2 PM. Eligibility: seniors 60+. Call (510) 534-8540 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Mercy Brown Bag Program - Oakland",
+      "address": "3431 Foothill Blvd, Oakland, CA 94601",
+      "lat": 37.781918,
+      "lng": -122.220465,
+      "category": "food-assistance",
+      "sourceOrg": "Mercy Brown Bag Program - Oakland",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Mon–Fri 10 AM–12:30 PM; Mon–Fri 1 PM–2 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-mercy-brown-bag-program-oakland-w12345-1300",
+      "seriesSlug": "add-mercy-brown-bag-program-oakland",
+      "title": "Mercy Brown Bag Program - Oakland — Free Food",
+      "description": "Free food at Mercy Brown Bag Program - Oakland. Schedule: Mon–Fri 10 AM–12:30 PM; Mon–Fri 1 PM–2 PM. Eligibility: seniors 60+. Call (510) 534-8540 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Mercy Brown Bag Program - Oakland",
+      "address": "3431 Foothill Blvd, Oakland, CA 94601",
+      "lat": 37.781918,
+      "lng": -122.220465,
+      "category": "food-assistance",
+      "sourceOrg": "Mercy Brown Bag Program - Oakland",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Mon–Fri 10 AM–12:30 PM; Mon–Fri 1 PM–2 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-mingleton-temple-cogic-m1636-0900",
+      "seriesSlug": "add-mingleton-temple-cogic",
+      "title": "Mingleton Temple COGIC — Free Food",
+      "description": "Free food at Mingleton Temple COGIC. Schedule: 1st Sat & 3rd Sat 9 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Mingleton Temple COGIC",
+      "address": "1222 Market Street, Oakland, CA 94607",
+      "lat": 37.806993,
+      "lng": -122.281107,
+      "category": "food-assistance",
+      "sourceOrg": "Mingleton Temple COGIC",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "1st Sat & 3rd Sat 9 AM–11 AM",
+      "start": "2026-10-10T09:00",
+      "end": "2026-10-10T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "1:6,3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-mt-zion-missionary-baptist-church-w4-1200",
+      "seriesSlug": "add-mt-zion-missionary-baptist-church",
+      "title": "Mt. Zion Missionary Baptist Church — Free Food",
+      "description": "Free food at Mt. Zion Missionary Baptist Church. Schedule: Thu 12 PM–1 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Mt. Zion Missionary Baptist Church",
+      "address": "1203 Willow St, Oakland, CA 94607",
+      "lat": 37.811664,
+      "lng": -122.297765,
+      "category": "food-assistance",
+      "sourceOrg": "Mt. Zion Missionary Baptist Church",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Thu 12 PM–1 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-north-oakland-senior-center-mercy-brown-bag-m2444-0900",
+      "seriesSlug": "add-north-oakland-senior-center-mercy-brown-bag",
+      "title": "North Oakland Senior Center - Mercy Brown Bag — Free Food",
+      "description": "Free food at North Oakland Senior Center - Mercy Brown Bag. Schedule: 2nd Thu & 4th Thu 9 AM–10 AM. Eligibility: seniors 60+. Call (510) 269-9640 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "North Oakland Senior Center - Mercy Brown Bag",
+      "address": "5714 Martin Luther King Jr. Way, Oakland, CA 94609",
+      "lat": 37.842492,
+      "lng": -122.269244,
+      "category": "food-assistance",
+      "sourceOrg": "North Oakland Senior Center - Mercy Brown Bag",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "2nd Thu & 4th Thu 9 AM–10 AM",
+      "start": "2026-10-08T09:00",
+      "end": "2026-10-08T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "2:4,4:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-oakland-catholic-worker-w4-0700",
+      "seriesSlug": "add-oakland-catholic-worker",
+      "title": "Oakland Catholic Worker — Free Food",
+      "description": "Free food at Oakland Catholic Worker. Schedule: Thu 7 AM–11 AM. Call (510) 533-7375 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Oakland Catholic Worker",
+      "address": "4848 International Blvd, Oakland, CA 94601",
+      "lat": 37.769754,
+      "lng": -122.208972,
+      "category": "food-assistance",
+      "sourceOrg": "Oakland Catholic Worker",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Thu 7 AM–11 AM",
+      "start": "2026-09-28T07:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-paradise-baptist-church-w6-0900",
+      "seriesSlug": "add-paradise-baptist-church",
+      "title": "Paradise Baptist Church — Free Food",
+      "description": "Free food at Paradise Baptist Church. Schedule: Sat 9 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Paradise Baptist Church",
+      "address": "9670 Empire Rd, Oakland, CA 94603",
+      "lat": 37.732001,
+      "lng": -122.193378,
+      "category": "food-assistance",
+      "sourceOrg": "Paradise Baptist Church",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Sat 9 AM–11 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-park-boulevard-presbyterian-church-m23-1700",
+      "seriesSlug": "add-park-boulevard-presbyterian-church",
+      "title": "Park Boulevard Presbyterian Church — Free Food",
+      "description": "Free food at Park Boulevard Presbyterian Church. Schedule: 2nd Wed 5 PM–6 PM. Call (510) 530-5311 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Park Boulevard Presbyterian Church",
+      "address": "4101 Park Blvd, Oakland, CA 94602",
+      "lat": 37.806712,
+      "lng": -122.224655,
+      "category": "food-assistance",
+      "sourceOrg": "Park Boulevard Presbyterian Church",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "2nd Wed 5 PM–6 PM",
+      "start": "2026-10-07T17:00",
+      "end": "2026-10-07T18:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "2:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-parks-chapel-ame-church-m32-1000",
+      "seriesSlug": "add-parks-chapel-ame-church",
+      "title": "Parks Chapel AME Church — Free Food",
+      "description": "Free food at Parks Chapel AME Church. Schedule: 3rd Tue 10 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Parks Chapel AME Church",
+      "address": "476 34th Street, Oakland, CA 94609",
+      "lat": 37.822484,
+      "lng": -122.264827,
+      "category": "food-assistance",
+      "sourceOrg": "Parks Chapel AME Church",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "3rd Tue 10 AM–12 PM",
+      "start": "2026-10-06T10:00",
+      "end": "2026-10-06T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "3:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-restoration-church-of-god-w6-1000",
+      "seriesSlug": "add-restoration-church-of-god",
+      "title": "Restoration Church of God — Free Food",
+      "description": "Free food at Restoration Church of God. Schedule: Sat 10 AM–12:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Restoration Church of God",
+      "address": "2101 47th Ave, Oakland, CA 94601",
+      "lat": 37.775273,
+      "lng": -122.207428,
+      "category": "food-assistance",
+      "sourceOrg": "Restoration Church of God",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Sat 10 AM–12:30 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-roots-community-health-center-w3-1200",
+      "seriesSlug": "add-roots-community-health-center",
+      "title": "Roots Community Health Center — Free Food",
+      "description": "Free food at Roots Community Health Center. Schedule: Wed 12 PM–4 PM; 1st Fri & 3rd Fri 2 PM–4 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Roots Community Health Center",
+      "address": "9925 International Blvd, Ste 10, Oakland, CA 94603",
+      "lat": 37.74309,
+      "lng": -122.17003,
+      "category": "food-assistance",
+      "sourceOrg": "Roots Community Health Center",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Wed 12 PM–4 PM; 1st Fri & 3rd Fri 2 PM–4 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-roots-community-health-center-m1535-1400",
+      "seriesSlug": "add-roots-community-health-center",
+      "title": "Roots Community Health Center — Free Food",
+      "description": "Free food at Roots Community Health Center. Schedule: Wed 12 PM–4 PM; 1st Fri & 3rd Fri 2 PM–4 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Roots Community Health Center",
+      "address": "9925 International Blvd, Ste 10, Oakland, CA 94603",
+      "lat": 37.74309,
+      "lng": -122.17003,
+      "category": "food-assistance",
+      "sourceOrg": "Roots Community Health Center",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Wed 12 PM–4 PM; 1st Fri & 3rd Fri 2 PM–4 PM",
+      "start": "2026-10-09T14:00",
+      "end": "2026-10-09T16:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "1:5,3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-shiloh-church-w3-1000",
+      "seriesSlug": "add-shiloh-church",
+      "title": "Shiloh Church — Free Food",
+      "description": "Free food at Shiloh Church. Schedule: Wed 10 AM–11:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Shiloh Church",
+      "address": "3295 School St, Oakland, CA 94602",
+      "lat": 37.792269,
+      "lng": -122.208267,
+      "category": "food-assistance",
+      "sourceOrg": "Shiloh Church",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Wed 10 AM–11:30 AM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-shiloh-mercy-house-w1245-1000",
+      "seriesSlug": "add-shiloh-mercy-house",
+      "title": "Shiloh Mercy House — Free Food",
+      "description": "Free food at Shiloh Mercy House. Schedule: Mon–Tue, Thu–Fri 10 AM–1:45 PM; Wed 1 PM–2:45 PM. Eligibility: 2 pickups per month. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Shiloh Mercy House",
+      "address": "3300 School St, Oakland, CA 94602",
+      "lat": 37.792695,
+      "lng": -122.207491,
+      "category": "food-assistance",
+      "sourceOrg": "Shiloh Mercy House",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Mon–Tue, Thu–Fri 10 AM–1:45 PM; Wed 1 PM–2:45 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T13:45",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-shiloh-mercy-house-w3-1300",
+      "seriesSlug": "add-shiloh-mercy-house",
+      "title": "Shiloh Mercy House — Free Food",
+      "description": "Free food at Shiloh Mercy House. Schedule: Mon–Tue, Thu–Fri 10 AM–1:45 PM; Wed 1 PM–2:45 PM. Eligibility: 2 pickups per month. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Shiloh Mercy House",
+      "address": "3300 School St, Oakland, CA 94602",
+      "lat": 37.792695,
+      "lng": -122.207491,
+      "category": "food-assistance",
+      "sourceOrg": "Shiloh Mercy House",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Mon–Tue, Thu–Fri 10 AM–1:45 PM; Wed 1 PM–2:45 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T14:45",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-lawrence-o-toole-food-distribution-center-m46-1000",
+      "seriesSlug": "add-st-lawrence-o-toole-food-distribution-center",
+      "title": "St. Lawrence O'Toole - Food Distribution Center — Free Food",
+      "description": "Free food at St. Lawrence O'Toole - Food Distribution Center. Schedule: 4th Sat 10 AM–12 PM. Eligibility: neighborhood residents only. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Lawrence O'Toole - Food Distribution Center",
+      "address": "3725 High St, Oakland, CA 94619",
+      "lat": 37.78912,
+      "lng": -122.192577,
+      "category": "food-assistance",
+      "sourceOrg": "St. Lawrence O'Toole - Food Distribution Center",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "4th Sat 10 AM–12 PM",
+      "start": "2026-10-10T10:00",
+      "end": "2026-10-10T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-mary-s-center-w12345-1200",
+      "seriesSlug": "add-st-mary-s-center",
+      "title": "St. Mary's Center — Free Food",
+      "description": "Free food at St. Mary's Center. Schedule: Mon–Fri 12 PM–2 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Mary's Center",
+      "address": "925 Brockhurst St, Oakland, CA 94608",
+      "lat": 37.823163,
+      "lng": -122.276641,
+      "category": "food-assistance",
+      "sourceOrg": "St. Mary's Center",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Mon–Fri 12 PM–2 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-vincent-de-paul-dining-room-w23456-1045",
+      "seriesSlug": "add-st-vincent-de-paul-dining-room",
+      "title": "St. Vincent de Paul Dining Room — Free Food",
+      "description": "Free food at St. Vincent de Paul Dining Room. Schedule: Tue–Sat 10:45 AM–12:45 PM. Call (510) 638-7600 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Vincent de Paul Dining Room",
+      "address": "675 23rd Street, Oakland, CA 94612",
+      "lat": 37.813347,
+      "lng": -122.273216,
+      "category": "food-assistance",
+      "sourceOrg": "St. Vincent de Paul Dining Room",
+      "url": "https://www.svdp-alameda.org/get-help.html",
+      "schedulePattern": "Tue–Sat 10:45 AM–12:45 PM",
+      "start": "2026-09-28T10:45",
+      "end": "2026-09-28T12:45",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3,4,5,6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-tabernacle-missionary-baptist-church-m2252-1230",
+      "seriesSlug": "add-tabernacle-missionary-baptist-church",
+      "title": "Tabernacle Missionary Baptist Church — Free Food",
+      "description": "Free food at Tabernacle Missionary Baptist Church. Schedule: 2nd Tue & 5th Tue 12:30 PM–2 PM. Call (510) 569-4333 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Tabernacle Missionary Baptist Church",
+      "address": "10115 Edes Ave, Oakland, CA 94603",
+      "lat": 37.735212,
+      "lng": -122.180864,
+      "category": "food-assistance",
+      "sourceOrg": "Tabernacle Missionary Baptist Church",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "2nd Tue & 5th Tue 12:30 PM–2 PM",
+      "start": "2026-10-06T12:30",
+      "end": "2026-10-06T14:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 2
+          },
+          {
+            "n": 5,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "2:2,5:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-telegraph-ministry-center-w3-1000",
+      "seriesSlug": "add-telegraph-ministry-center",
+      "title": "Telegraph Ministry Center — Free Food",
+      "description": "Free food at Telegraph Ministry Center. Schedule: Wed 10 AM–1:30 PM; Wed 5 PM–7 PM; Fri 9:30 AM–11:30 AM. Call (510) 961-4385 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Telegraph Ministry Center",
+      "address": "5316 Telegraph Ave, Oakland, CA 94609",
+      "lat": 37.839148,
+      "lng": -122.261933,
+      "category": "food-assistance",
+      "sourceOrg": "Telegraph Ministry Center",
+      "url": "https://tmcoakland.org/",
+      "schedulePattern": "Wed 10 AM–1:30 PM; Wed 5 PM–7 PM; Fri 9:30 AM–11:30 AM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T13:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-telegraph-ministry-center-w3-1700",
+      "seriesSlug": "add-telegraph-ministry-center",
+      "title": "Telegraph Ministry Center — Free Food",
+      "description": "Free food at Telegraph Ministry Center. Schedule: Wed 10 AM–1:30 PM; Wed 5 PM–7 PM; Fri 9:30 AM–11:30 AM. Call (510) 961-4385 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Telegraph Ministry Center",
+      "address": "5316 Telegraph Ave, Oakland, CA 94609",
+      "lat": 37.839148,
+      "lng": -122.261933,
+      "category": "food-assistance",
+      "sourceOrg": "Telegraph Ministry Center",
+      "url": "https://tmcoakland.org/",
+      "schedulePattern": "Wed 10 AM–1:30 PM; Wed 5 PM–7 PM; Fri 9:30 AM–11:30 AM",
+      "start": "2026-09-28T17:00",
+      "end": "2026-09-28T19:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-telegraph-ministry-center-w5-0930",
+      "seriesSlug": "add-telegraph-ministry-center",
+      "title": "Telegraph Ministry Center — Free Food",
+      "description": "Free food at Telegraph Ministry Center. Schedule: Wed 10 AM–1:30 PM; Wed 5 PM–7 PM; Fri 9:30 AM–11:30 AM. Call (510) 961-4385 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Telegraph Ministry Center",
+      "address": "5316 Telegraph Ave, Oakland, CA 94609",
+      "lat": 37.839148,
+      "lng": -122.261933,
+      "category": "food-assistance",
+      "sourceOrg": "Telegraph Ministry Center",
+      "url": "https://tmcoakland.org/",
+      "schedulePattern": "Wed 10 AM–1:30 PM; Wed 5 PM–7 PM; Fri 9:30 AM–11:30 AM",
+      "start": "2026-09-28T09:30",
+      "end": "2026-09-28T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-town-care-cafe-w4-0800",
+      "seriesSlug": "add-town-care-cafe",
+      "title": "Town Care Cafe — Free Food",
+      "description": "Free food at Town Care Cafe. Schedule: Thu 8 AM–1 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Town Care Cafe",
+      "address": "Frank H. Ogawa Plaza kiosk, Oakland, CA 94612",
+      "lat": 37.805786,
+      "lng": -122.271697,
+      "category": "food-assistance",
+      "sourceOrg": "Town Care Cafe",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Thu 8 AM–1 PM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-cityserve-of-the-tri-valley-w2-1100",
+      "seriesSlug": "add-cityserve-of-the-tri-valley",
+      "title": "CityServe of the Tri-Valley — Free Food",
+      "description": "Free food at CityServe of the Tri-Valley. Schedule: Tue 11 AM–12 PM. Call (925) 222-2273 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "CityServe of the Tri-Valley",
+      "address": "5353 Sunol Blvd, Pleasanton, CA 94566",
+      "lat": 37.65265,
+      "lng": -121.880932,
+      "category": "food-assistance",
+      "sourceOrg": "CityServe of the Tri-Valley",
+      "url": "https://www.cityservetrivalley.org/",
+      "schedulePattern": "Tue 11 AM–12 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-all-saints-episcopal-church-m16-1000",
+      "seriesSlug": "add-all-saints-episcopal-church",
+      "title": "All Saints Episcopal Church — Free Food",
+      "description": "Free food at All Saints Episcopal Church. Schedule: 1st Sat 10 AM–12:30 PM. Call (510) 410-3743 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "All Saints Episcopal Church",
+      "address": "911 Dowling Blvd, San Leandro, CA 94577",
+      "lat": 37.736171,
+      "lng": -122.147652,
+      "category": "food-assistance",
+      "sourceOrg": "All Saints Episcopal Church",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "1st Sat 10 AM–12:30 PM",
+      "start": "2026-10-10T10:00",
+      "end": "2026-10-10T12:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "1:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-april-showers-m173757-1300",
+      "seriesSlug": "add-april-showers",
+      "title": "April Showers — Free Food",
+      "description": "Free food at April Showers. Schedule: 1st Sun & 3rd Sun & 5th Sun 1 PM–3:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "April Showers",
+      "address": "951 MacArthur Blvd, San Leandro, CA 94577",
+      "lat": 37.735172,
+      "lng": -122.140838,
+      "category": "food-assistance",
+      "sourceOrg": "April Showers",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "1st Sun & 3rd Sun & 5th Sun 1 PM–3:30 PM",
+      "start": "2026-10-11T13:00",
+      "end": "2026-10-11T15:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 7
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 7
+          },
+          {
+            "n": 5,
+            "dayOfWeek": 7
+          }
+        ]
+      },
+      "recurDays": "1:7,3:7,5:7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-brothers-and-sisters-in-christ-basic-san-leandro-m2646-1100",
+      "seriesSlug": "add-brothers-and-sisters-in-christ-basic-san-leandro",
+      "title": "Brothers and Sisters In Christ (BASIC) - San Leandro — Free Food",
+      "description": "Free food at Brothers and Sisters In Christ (BASIC) - San Leandro. Schedule: 2nd Sat & 4th Sat 11 AM–1 PM. Call (510) 325-2756 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Brothers and Sisters In Christ (BASIC) - San Leandro",
+      "address": "1221 Pacific Avenue, San Leandro, CA 94577",
+      "lat": 37.721062,
+      "lng": -122.167473,
+      "category": "food-assistance",
+      "sourceOrg": "Brothers and Sisters In Christ (BASIC) - San Leandro",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "2nd Sat & 4th Sat 11 AM–1 PM",
+      "start": "2026-10-10T11:00",
+      "end": "2026-10-10T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6,4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-davis-street-family-resource-center-w12345-1000",
+      "seriesSlug": "add-davis-street-family-resource-center",
+      "title": "Davis Street Family Resource Center — Free Food",
+      "description": "Free food at Davis Street Family Resource Center. Schedule: Mon–Fri 10 AM–5 PM. Eligibility: San Leandro, San Lorenzo, Castro Valley, Ashland, Cherryland residents. Call (510) 346-4620 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Davis Street Family Resource Center",
+      "address": "3081 Teagarden St, San Leandro, CA 94577",
+      "lat": 37.704936,
+      "lng": -122.153449,
+      "category": "food-assistance",
+      "sourceOrg": "Davis Street Family Resource Center",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Mon–Fri 10 AM–5 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-halcyon-baptist-church-m33-0800",
+      "seriesSlug": "add-halcyon-baptist-church",
+      "title": "Halcyon Baptist Church — Free Food",
+      "description": "Free food at Halcyon Baptist Church. Schedule: 3rd Wed 8 AM–12 PM; Tue 10 AM–12 PM. Eligibility: one visit per month. Call (510) 304-6441 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Halcyon Baptist Church",
+      "address": "2860 Halcyon Dr, San Leandro, CA 94578",
+      "lat": 37.702105,
+      "lng": -122.134884,
+      "category": "food-assistance",
+      "sourceOrg": "Halcyon Baptist Church",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "3rd Wed 8 AM–12 PM; Tue 10 AM–12 PM",
+      "start": "2026-10-07T08:00",
+      "end": "2026-10-07T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-halcyon-baptist-church-w2-1000",
+      "seriesSlug": "add-halcyon-baptist-church",
+      "title": "Halcyon Baptist Church — Free Food",
+      "description": "Free food at Halcyon Baptist Church. Schedule: 3rd Wed 8 AM–12 PM; Tue 10 AM–12 PM. Eligibility: one visit per month. Call (510) 304-6441 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Halcyon Baptist Church",
+      "address": "2860 Halcyon Dr, San Leandro, CA 94578",
+      "lat": 37.702105,
+      "lng": -122.134884,
+      "category": "food-assistance",
+      "sourceOrg": "Halcyon Baptist Church",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "3rd Wed 8 AM–12 PM; Tue 10 AM–12 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-san-leandro-community-food-pantry-w4-1800",
+      "seriesSlug": "add-san-leandro-community-food-pantry",
+      "title": "San Leandro Community Food Pantry — Free Food",
+      "description": "Free food at San Leandro Community Food Pantry. Schedule: Thu 6 PM–8 PM. Call (510) 357-4130 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "San Leandro Community Food Pantry",
+      "address": "14235 Bancroft Ave, San Leandro, CA 94578",
+      "lat": 37.71283,
+      "lng": -122.13703,
+      "category": "food-assistance",
+      "sourceOrg": "San Leandro Community Food Pantry",
+      "url": "https://slcfp.org",
+      "schedulePattern": "Thu 6 PM–8 PM",
+      "start": "2026-09-28T18:00",
+      "end": "2026-09-28T20:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-slusd-mobile-pantry-adult-school-m15-1300",
+      "seriesSlug": "add-slusd-mobile-pantry-adult-school",
+      "title": "SLUSD Mobile Pantry @ Adult School — Free Food",
+      "description": "Free food at SLUSD Mobile Pantry @ Adult School. Schedule: 1st Fri 1 PM–3 PM. Call (510) 667-3500 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "SLUSD Mobile Pantry @ Adult School",
+      "address": "1448 Williams St, San Leandro, CA 94577",
+      "lat": 37.713881,
+      "lng": -122.170158,
+      "category": "food-assistance",
+      "sourceOrg": "SLUSD Mobile Pantry @ Adult School",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "1st Fri 1 PM–3 PM",
+      "start": "2026-10-09T13:00",
+      "end": "2026-10-09T15:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "1:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-spectrum-community-services-m2141-1000",
+      "seriesSlug": "add-spectrum-community-services",
+      "title": "Spectrum Community Services — Free Food",
+      "description": "Free food at Spectrum Community Services. Schedule: 2nd Mon & 4th Mon 10 AM–12 PM. Call (510) 534-8540 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Spectrum Community Services",
+      "address": "13909 E 14th St, San Leandro, CA 94578",
+      "lat": 37.713683,
+      "lng": -122.141334,
+      "category": "food-assistance",
+      "sourceOrg": "Spectrum Community Services",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "2nd Mon & 4th Mon 10 AM–12 PM",
+      "start": "2026-10-05T10:00",
+      "end": "2026-10-05T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 1
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "2:1,4:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-centro-de-servicios-resource-center-w1345-0900",
+      "seriesSlug": "add-centro-de-servicios-resource-center",
+      "title": "Centro de Servicios Resource Center — Free Food",
+      "description": "Free food at Centro de Servicios Resource Center. Schedule: Mon, Wed–Fri 9 AM–4 PM; Tue 10 AM–12 PM; Tue 1 PM–4 PM. Call (510) 489-4100 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Centro de Servicios Resource Center",
+      "address": "525 H St, Union City, CA 94587",
+      "lat": 37.599759,
+      "lng": -122.018495,
+      "category": "food-assistance",
+      "sourceOrg": "Centro de Servicios Resource Center",
+      "url": "https://centrouc.org/services/food-distribution/",
+      "schedulePattern": "Mon, Wed–Fri 9 AM–4 PM; Tue 10 AM–12 PM; Tue 1 PM–4 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-centro-de-servicios-resource-center-w2-1000",
+      "seriesSlug": "add-centro-de-servicios-resource-center",
+      "title": "Centro de Servicios Resource Center — Free Food",
+      "description": "Free food at Centro de Servicios Resource Center. Schedule: Mon, Wed–Fri 9 AM–4 PM; Tue 10 AM–12 PM; Tue 1 PM–4 PM. Call (510) 489-4100 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Centro de Servicios Resource Center",
+      "address": "525 H St, Union City, CA 94587",
+      "lat": 37.599759,
+      "lng": -122.018495,
+      "category": "food-assistance",
+      "sourceOrg": "Centro de Servicios Resource Center",
+      "url": "https://centrouc.org/services/food-distribution/",
+      "schedulePattern": "Mon, Wed–Fri 9 AM–4 PM; Tue 10 AM–12 PM; Tue 1 PM–4 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-centro-de-servicios-resource-center-w2-1300",
+      "seriesSlug": "add-centro-de-servicios-resource-center",
+      "title": "Centro de Servicios Resource Center — Free Food",
+      "description": "Free food at Centro de Servicios Resource Center. Schedule: Mon, Wed–Fri 9 AM–4 PM; Tue 10 AM–12 PM; Tue 1 PM–4 PM. Call (510) 489-4100 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Centro de Servicios Resource Center",
+      "address": "525 H St, Union City, CA 94587",
+      "lat": 37.599759,
+      "lng": -122.018495,
+      "category": "food-assistance",
+      "sourceOrg": "Centro de Servicios Resource Center",
+      "url": "https://centrouc.org/services/food-distribution/",
+      "schedulePattern": "Mon, Wed–Fri 9 AM–4 PM; Tue 10 AM–12 PM; Tue 1 PM–4 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-los-robles-apartments-w24-1100",
+      "seriesSlug": "add-los-robles-apartments",
+      "title": "Los Robles Apartments — Free Food",
+      "description": "Free food at Los Robles Apartments. Schedule: Tue, Thu 11 AM–12 PM. Call (510) 429-0119 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Los Robles Apartments",
+      "address": "32300 Almaden Blvd, Union City, CA 94587",
+      "lat": 37.59419,
+      "lng": -122.05636,
+      "category": "food-assistance",
+      "sourceOrg": "Los Robles Apartments",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Tue, Thu 11 AM–12 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-our-lady-of-the-rosary-church-w5-1800",
+      "seriesSlug": "add-our-lady-of-the-rosary-church",
+      "title": "Our Lady of the Rosary Church — Free Food",
+      "description": "Free food at Our Lady of the Rosary Church. Schedule: Fri 6 PM–7 PM. Call (510) 471-2609 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Our Lady of the Rosary Church",
+      "address": "703 C St, Union City, CA 94587",
+      "lat": 37.60451,
+      "lng": -122.025174,
+      "category": "food-assistance",
+      "sourceOrg": "Our Lady of the Rosary Church",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "Fri 6 PM–7 PM",
+      "start": "2026-09-28T18:00",
+      "end": "2026-09-28T19:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-anne-church-m36-0900",
+      "seriesSlug": "add-st-anne-church",
+      "title": "St. Anne Church — Free Food",
+      "description": "Free food at St. Anne Church. Schedule: 3rd Sat 9 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Anne Church",
+      "address": "32223 Cabello Street, Union City, CA 94587",
+      "lat": 37.587726,
+      "lng": -122.072659,
+      "category": "food-assistance",
+      "sourceOrg": "St. Anne Church",
+      "url": "https://www.accfb.org/get-food/",
+      "schedulePattern": "3rd Sat 9 AM–11 AM",
+      "start": "2026-10-10T09:00",
+      "end": "2026-10-10T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-union-city-family-center-w12345-0800",
+      "seriesSlug": "add-union-city-family-center",
+      "title": "Union City Family Center — Free Food",
+      "description": "Free food at Union City Family Center. Schedule: Mon–Fri 8 AM–4:30 PM. Call (510) 476-2770 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Union City Family Center",
+      "address": "725 Whipple Rd, Union City, CA 94587",
+      "lat": 37.607174,
+      "lng": -122.025513,
+      "category": "food-assistance",
+      "sourceOrg": "Union City Family Center",
+      "url": "https://www.unioncityfamilycenter.org/",
+      "schedulePattern": "Mon–Fri 8 AM–4:30 PM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T16:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    }
+  ]
+}

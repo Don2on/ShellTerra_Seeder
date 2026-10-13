@@ -1,0 +1,133 @@
+{
+  "sites": [
+    {
+      "name": "Mision Vida Nueva Food Distribution",
+      "org": "Mision Vida Nueva",
+      "address": "980 N Ash St, Escondido, CA 92027",
+      "phone": "760-500-9327",
+      "website": "https://www.misionvidanueva.org",
+      "eligibility": "Open to anyone in need; no ID or income proof required. Priority/separate line for individuals with a disability.",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "sat"
+          ],
+          "open": "11:00",
+          "close": "12:00",
+          "note": "Every Saturday except 5th Saturday; until food runs out"
+        }
+      ],
+      "lat": 33.139923,
+      "lng": -117.073702
+    },
+    {
+      "name": "Ruth Anointed World Ministries (Escondido - Felicita)",
+      "org": "R.A.W. Ruth Anointed World Ministries",
+      "address": "777 W Felicita Ave, Escondido, CA 92025",
+      "phone": "760-580-0835",
+      "website": "",
+      "eligibility": "Anyone in need; sign in and wait until number is called.",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "fri"
+          ],
+          "open": "12:00",
+          "close": "13:00",
+          "note": ""
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "sat"
+          ],
+          "open": "10:00",
+          "close": "11:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Karen Organization of San Diego Food Distribution (Global Marketplace)",
+      "org": "Karen Organization of San Diego",
+      "address": "5591 University Ave, San Diego, CA 92105",
+      "phone": "619-582-0783",
+      "website": "https://karensandiego.org",
+      "eligibility": "Everyone welcome, no registration required; first come first served, bring your own bag. Serves refugee and wider City Heights community.",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [],
+      "note": "Active. Distributions at Global Marketplace (5591 University Ave) are held on announced specific dates (e.g. 10 a.m.-1 p.m.) rather than a fixed weekly recurrence; no registration required, bring your own bags. Check karensandiego.org/news-events for current dates. Main office is at 5354 University Ave. Contact Hsihsa Thaw, hsihsa@karensandiego.org."
+    },
+    {
+      "name": "EJE Academies Food Distribution",
+      "org": "EJE Academies Charter School",
+      "address": "851 S Johnson Ave, El Cajon, CA 92020",
+      "phone": "",
+      "website": "https://www.ejeacademies.org",
+      "eligibility": "Open to families/community; first come, first served.",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "days": [
+            "tue"
+          ],
+          "open": "11:00",
+          "close": "",
+          "note": "1st & 3rd Tuesday, 11:00 am until supplies last"
+        }
+      ]
+    },
+    {
+      "name": "Holy Trinity Parish Food Bank",
+      "org": "Holy Trinity Catholic Church",
+      "address": "405 Ballard St, El Cajon, CA 92019",
+      "phone": "619-444-9425",
+      "website": "https://www.holytrinityelcajon.org",
+      "eligibility": "Open to community neighbors; must show current photo ID with an El Cajon address. One bag of staples per family per week. Distributed from main entrance of Parish Hall.",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "wed"
+          ],
+          "open": "10:00",
+          "close": "12:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "La Mesa First United Methodist Church Food Pantry",
+      "org": "La Mesa First United Methodist Church",
+      "address": "4690 Palm Ave, La Mesa, CA 91941",
+      "phone": "619-466-4163",
+      "website": "https://www.lamesaumc.com",
+      "eligibility": "Open to community; monthly distribution.",
+      "category": "faith",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "days": [
+            "sat"
+          ],
+          "open": "07:00",
+          "close": "09:30",
+          "note": "last Sat"
+        }
+      ]
+    }
+  ]
+}

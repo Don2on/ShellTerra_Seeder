@@ -1,0 +1,163 @@
+{
+  "_meta": {
+    "topic": "Net-new San Diego food distributions",
+    "generated": "2026-09-28",
+    "source": "Research supplementing FoodDistributionSD; raw ./SDFoodAdditions2-raw.json."
+  },
+  "_deferred": {
+    "sd-add-southern-california-tribal-fdpir-food-distributi": {
+      "title": "Southern California Tribal FDPIR Food Distribution",
+      "status": "USDA FDPIR; monthly distribution rotates to each reservation (Pala, Rincon, Pauma, La Jolla, San Pasqual, Mesa Grande, Los Coyotes, Campo, Viejas, Barona, Santa Ysabel). Call for the current calendar. Phone: (760) 749-5608.",
+      "address": "36146 Pala Temecula Road, Pala, CA 92059",
+      "lat": 33.3695,
+      "lng": -117.077307,
+      "phone": "(760) 749-5608",
+      "eligibility": "Tribal/Native American low-income households near reservations; cannot also receive CalFresh; SSN required",
+      "sourceUrl": "https://sctca.net/food-distribution/"
+    }
+  },
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "sd-add-st-vincent-de-paul-pantry-at-our-lady-of-mount-c-w1-1400",
+      "seriesSlug": "sd-add-st-vincent-de-paul-pantry-at-our-lady-of-mount-c",
+      "title": "St. Vincent de Paul Pantry at Our Lady of Mount Carmel — Free Food",
+      "description": "Free food at St. Vincent de Paul Pantry at Our Lady of Mount Carmel (SVdP / Our Lady of Mount Carmel Parish). Schedule: Mon 2 PM–7 PM; Fri 2 PM–6 PM (diapers Fri 3-6pm). Eligibility: Local residents in need. Call (619) 428-1415 to confirm before you go — hours change and supplies can run out. Source: community research, Sep 2026.",
+      "locationName": "St. Vincent de Paul Pantry at Our Lady of Mount Carmel",
+      "address": "2020 Alaquinas Drive, San Ysidro, CA 92173",
+      "lat": 32.560045,
+      "lng": -117.044508,
+      "category": "food-assistance",
+      "sourceOrg": "SVdP / Our Lady of Mount Carmel Parish",
+      "url": "https://www.ourladyofmountcarmel-sy.org/",
+      "schedulePattern": "Mon 2 PM–7 PM; Fri 2 PM–6 PM (diapers Fri 3-6pm)",
+      "start": "2026-09-21T14:00",
+      "end": "2026-09-21T19:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "sd-add-st-vincent-de-paul-pantry-at-our-lady-of-mount-c-w5-1400",
+      "seriesSlug": "sd-add-st-vincent-de-paul-pantry-at-our-lady-of-mount-c",
+      "title": "St. Vincent de Paul Pantry at Our Lady of Mount Carmel — Free Food",
+      "description": "Free food at St. Vincent de Paul Pantry at Our Lady of Mount Carmel (SVdP / Our Lady of Mount Carmel Parish). Schedule: Mon 2 PM–7 PM; Fri 2 PM–6 PM (diapers Fri 3-6pm). Eligibility: Local residents in need. Call (619) 428-1415 to confirm before you go — hours change and supplies can run out. Source: community research, Sep 2026.",
+      "locationName": "St. Vincent de Paul Pantry at Our Lady of Mount Carmel",
+      "address": "2020 Alaquinas Drive, San Ysidro, CA 92173",
+      "lat": 32.560045,
+      "lng": -117.044508,
+      "category": "food-assistance",
+      "sourceOrg": "SVdP / Our Lady of Mount Carmel Parish",
+      "url": "https://www.ourladyofmountcarmel-sy.org/",
+      "schedulePattern": "Mon 2 PM–7 PM; Fri 2 PM–6 PM (diapers Fri 3-6pm)",
+      "start": "2026-09-21T14:00",
+      "end": "2026-09-21T18:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "sd-add-chula-vista-church-of-christ-food-pantry-m26-1100",
+      "seriesSlug": "sd-add-chula-vista-church-of-christ-food-pantry",
+      "title": "Chula Vista Church of Christ Food Pantry — Free Food",
+      "description": "Free food at Chula Vista Church of Christ Food Pantry (Chula Vista Church of Christ). Schedule: 2nd Sat 11 AM–1 PM (or until food runs out). Eligibility: One bag per household. Call (619) 422-7747 to confirm before you go — hours change and supplies can run out. Source: community research, Sep 2026.",
+      "locationName": "Chula Vista Church of Christ Food Pantry",
+      "address": "470 L Street, Chula Vista, CA 91911",
+      "lat": 32.618303,
+      "lng": -117.078454,
+      "category": "food-assistance",
+      "sourceOrg": "Chula Vista Church of Christ",
+      "url": "https://www.foodpantries.org/li/ca_91911_chula-vista-church-of-christ-pantry",
+      "schedulePattern": "2nd Sat 11 AM–1 PM (or until food runs out)",
+      "start": "2026-10-03T11:00",
+      "end": "2026-10-03T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "sd-add-first-christian-church-of-national-city-food-pan-w2-0830",
+      "seriesSlug": "sd-add-first-christian-church-of-national-city-food-pan",
+      "title": "First Christian Church of National City Food Pantry — Free Food",
+      "description": "Free food at First Christian Church of National City Food Pantry (First Christian Church of National City). Schedule: Tue 8:30 AM–9:30 AM (plus monthly Friday distributions). Eligibility: Open to community; walk-in. Call (619) 474-2254 to confirm before you go — hours change and supplies can run out. Source: community research, Sep 2026.",
+      "locationName": "First Christian Church of National City Food Pantry",
+      "address": "1800 E 17th Street, National City, CA 91950",
+      "lat": 32.672912,
+      "lng": -117.085821,
+      "category": "food-assistance",
+      "sourceOrg": "First Christian Church of National City",
+      "url": "https://feedam.org/resource/192713",
+      "schedulePattern": "Tue 8:30 AM–9:30 AM (plus monthly Friday distributions)",
+      "start": "2026-09-21T08:30",
+      "end": "2026-09-21T09:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "sd-add-paradise-valley-community-services-food-pantry-w2-0900",
+      "seriesSlug": "sd-add-paradise-valley-community-services-food-pantry",
+      "title": "Paradise Valley Community Services Food Pantry — Free Food",
+      "description": "Free food at Paradise Valley Community Services Food Pantry (Paradise Valley Seventh-day Adventist Church). Schedule: Tue 9 AM–12 PM. Eligibility: Walk-in; behind the church. Confirm hours before you go — supplies can run out. Source: community research, Sep 2026.",
+      "locationName": "Paradise Valley Community Services Food Pantry",
+      "address": "2715 Burden Drive, National City, CA 91950",
+      "lat": 32.684241,
+      "lng": -117.07907,
+      "category": "food-assistance",
+      "sourceOrg": "Paradise Valley Seventh-day Adventist Church",
+      "url": "https://www.nationalcityca.gov/government/library/nc-connects",
+      "schedulePattern": "Tue 9 AM–12 PM",
+      "start": "2026-09-21T09:00",
+      "end": "2026-09-21T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "sd-add-we-all-we-got-sd-mutual-aid-food-distribution-m2646-1200",
+      "seriesSlug": "sd-add-we-all-we-got-sd-mutual-aid-food-distribution",
+      "title": "We All We Got SD Mutual Aid Food Distribution — Free Food",
+      "description": "Free food at We All We Got SD Mutual Aid Food Distribution (We All We Got San Diego). Schedule: 2nd Sat & 4th Sat from 12 PM (until supplies last). Eligibility: No ID or proof of income; open to all. Call (619) 800-4473 to confirm before you go — hours change and supplies can run out. Source: community research, Sep 2026.",
+      "locationName": "We All We Got SD Mutual Aid Food Distribution",
+      "address": "4133 Poplar Street, San Diego, CA 92105",
+      "lat": 32.733845,
+      "lng": -117.106085,
+      "category": "food-assistance",
+      "sourceOrg": "We All We Got San Diego",
+      "url": "https://www.weallwegotsd.com/food-distribution",
+      "schedulePattern": "2nd Sat & 4th Sat from 12 PM (until supplies last)",
+      "start": "2026-10-03T12:00",
+      "end": null,
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6,4:6"
+    }
+  ]
+}

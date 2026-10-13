@@ -1,0 +1,244 @@
+{
+  "_meta": {
+    "topic": "Amador County food distributions",
+    "generated": "2026-10-11",
+    "source": "Hand-collected list (North State Food Bank, Resource Connection, NVC Food Bank, county resource lists, Google). Schedules parsed via LA clause parser. lat/lng geocoded downstream.",
+    "note": "Drop-in raw for prepare-food-additions.mjs. \"Monthly (date varies/call)\" and single start-times route to _deferred (vendor card, no event)."
+  },
+  "sites": [
+    {
+      "name": "Interfaith Food Bank of Amador County",
+      "org": "Interfaith Food Bank of Amador County",
+      "address": "12181 Airport Road, Jackson, CA 95642",
+      "phone": "(209) 267-9006",
+      "eligibility": "seniors 60+ first two weeks; EFAP recipients 3rd & 4th weeks",
+      "website": "https://feedamador.org/get-help/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 12-4pm; Tue & Wed 11am-3pm; Thu 2-6pm (seniors 60+ first two weeks; EFAP recipients 3rd & 4th weeks)",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "12:00",
+          "close": "16:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Wed"
+          ],
+          "open": "11:00",
+          "close": "15:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "14:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Patrick's Pantry (Dinner Program)",
+      "org": "St. Patrick's Pantry (Dinner Program)",
+      "address": "115 Court St, Jackson, CA 95642",
+      "phone": "(209) 267-9006",
+      "eligibility": "",
+      "website": "https://feedamador.org/get-help/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "dinner",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "16:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Breaking Bread (Breakfast Program)",
+      "org": "Breaking Bread (Breakfast Program)",
+      "address": "115 Court St, Jackson, CA 95642",
+      "phone": "(209) 267-9006",
+      "eligibility": "",
+      "website": "https://feedamador.org/get-help/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "breakfast",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ],
+      "allowColocated": true
+    },
+    {
+      "name": "Upcountry Community Center",
+      "org": "Upcountry Community Center",
+      "address": "19558 Highway 88, Pine Grove, CA 95665",
+      "phone": "(209) 267-9006",
+      "eligibility": "seniors-only 2nd Wed; EFAP 4th Wed",
+      "website": "https://feedamador.org/get-help/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 1-3pm (seniors-only 2nd Wed; EFAP 4th Wed)",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "13:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Evelyn Bishop Hall",
+      "org": "Evelyn Bishop Hall",
+      "address": "701 CA-124, Ione, CA 95640",
+      "phone": "(209) 267-9006",
+      "eligibility": "seniors-only 2nd Tue; EFAP 4th Tue",
+      "website": "https://feedamador.org/get-help/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 1-3pm (seniors-only 2nd Tue; EFAP 4th Tue)",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "13:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Plymouth City Hall",
+      "org": "Plymouth City Hall",
+      "address": "9426 Main St, Plymouth, CA 95669",
+      "phone": "(209) 267-9006",
+      "eligibility": "",
+      "website": "https://feedamador.org/get-help/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "EFAP distribution",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Mon"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "River Pines Town Hall",
+      "org": "River Pines Town Hall",
+      "address": "Canyon Ave, River Pines, CA 95675",
+      "phone": "(209) 245-6723",
+      "eligibility": "",
+      "website": "https://www.rppud.org/interfaith-food-bank",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "income-eligible, apply on-site",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Thu"
+          ],
+          "open": "11:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Faith Lutheran Church of Pioneer Food Pantry",
+      "org": "Faith Lutheran Church of Pioneer Food Pantry",
+      "address": "22601 State Highway 88, Pioneer, CA 95666",
+      "phone": "(209) 295-4545",
+      "eligibility": "",
+      "website": "https://faithlutheranpioneer.org/give-or-receive-help",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "food; clothing and blankets Thu",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "open": "09:30",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Seventh Day Adventist Church (Sutter Creek)",
+      "org": "Seventh Day Adventist Church (Sutter Creek)",
+      "address": "12900 Ridge Road, Sutter Creek, CA 95685",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.findhelp.org/food/food-pantry--sutter-creek-ca",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "dinner",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Mon",
+            "3rd Mon"
+          ],
+          "open": "16:00",
+          "close": "17:30"
+        }
+      ]
+    },
+    {
+      "name": "Amador County Senior Center",
+      "org": "Amador County Senior Center",
+      "address": "229 New York Ranch Rd, Jackson, CA 95642",
+      "phone": "(209) 223-0442",
+      "eligibility": "lunch; age 60+, suggested donation",
+      "website": "https://www.area12.org/programs/congregate-dining-jackson/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 11:30am-12:30pm (lunch; age 60+, suggested donation)",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "11:30",
+          "close": "12:30"
+        }
+      ]
+    }
+  ]
+}

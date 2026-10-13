@@ -1,0 +1,178 @@
+{
+  "_meta": {
+    "topic": "Net-new Tuolumne County food distributions",
+    "generated": "2026-10-05",
+    "source": "Research supplementing shell PENDING-Tuolumne; raw ./TuolumneAdditions-raw.json."
+  },
+  "_deferred": {},
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "add-nancy-s-hope-columbia-pantry-w123456-1000",
+      "seriesSlug": "add-nancy-s-hope-columbia-pantry",
+      "title": "Nancy's Hope Columbia Pantry — Free Food",
+      "description": "Free food at Nancy's Hope Columbia Pantry. Schedule: Mon–Sat 10 AM–2 PM. Call 209-984-3960 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Nancy's Hope Columbia Pantry",
+      "address": "11151 Jackson St, Columbia, CA 95310",
+      "lat": 38.035974,
+      "lng": -120.40208,
+      "category": "food-assistance",
+      "sourceOrg": "Nancy's Hope Columbia Pantry",
+      "url": "https://www.atcaa.org",
+      "schedulePattern": "Mon–Sat 10 AM–2 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5,6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-mary-laveroni-community-park-distribution-w5-0900",
+      "seriesSlug": "add-mary-laveroni-community-park-distribution",
+      "title": "Mary Laveroni Community Park (distribution) — Free Food",
+      "description": "Free food at Mary Laveroni Community Park (distribution). Schedule: Fri 9 AM–10:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Mary Laveroni Community Park (distribution)",
+      "address": "18950 CA-120, Groveland, CA 95321",
+      "lat": 37.840312,
+      "lng": -120.227093,
+      "category": "food-assistance",
+      "sourceOrg": "Mary Laveroni Community Park (distribution)",
+      "url": "https://www.atcaa.org",
+      "schedulePattern": "Fri 9 AM–10:30 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T10:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-atcaa-pantry-interfaith-community-social-service-w12345-1000",
+      "seriesSlug": "add-atcaa-pantry-interfaith-community-social-service",
+      "title": "ATCAA Pantry / Interfaith Community Social Services — Free Food",
+      "description": "Free food at ATCAA Pantry / Interfaith Community Social Services. Schedule: Mon–Fri 10 AM–1 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "ATCAA Pantry / Interfaith Community Social Services",
+      "address": "18500 Striker Ct, Sonora, CA 95370",
+      "lat": 37.959415,
+      "lng": -120.316323,
+      "category": "food-assistance",
+      "sourceOrg": "ATCAA Pantry / Interfaith Community Social Services",
+      "url": "https://www.atcaa.org",
+      "schedulePattern": "Mon–Fri 10 AM–1 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-nancy-s-hope-sonora-pantry-w123456-1000",
+      "seriesSlug": "add-nancy-s-hope-sonora-pantry",
+      "title": "Nancy's Hope Sonora Pantry — Free Food",
+      "description": "Free food at Nancy's Hope Sonora Pantry. Schedule: Mon–Sat 10 AM–2 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Nancy's Hope Sonora Pantry",
+      "address": "797 W. Stockton Street, Sonora, CA 95370",
+      "lat": 37.974617,
+      "lng": -120.393305,
+      "category": "food-assistance",
+      "sourceOrg": "Nancy's Hope Sonora Pantry",
+      "url": "https://www.atcaa.org",
+      "schedulePattern": "Mon–Sat 10 AM–2 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5,6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-mono-way-distribution-old-burger-king-lot-w4-1230",
+      "seriesSlug": "add-mono-way-distribution-old-burger-king-lot",
+      "title": "Mono Way distribution (old Burger King lot) — Free Food",
+      "description": "Free food at Mono Way distribution (old Burger King lot). Schedule: Thu 12:30 PM–2 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Mono Way distribution (old Burger King lot)",
+      "address": "13796 Mono Way, Sonora, CA 95370",
+      "lat": 37.977112,
+      "lng": -120.343787,
+      "category": "food-assistance",
+      "sourceOrg": "Mono Way distribution (old Burger King lot)",
+      "url": "https://www.atcaa.org",
+      "schedulePattern": "Thu 12:30 PM–2 PM",
+      "start": "2026-09-28T12:30",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-patrick-s-church-w24-0630",
+      "seriesSlug": "add-st-patrick-s-church",
+      "title": "St. Patrick's Church — Free Food",
+      "description": "Free food at St. Patrick's Church. Schedule: Tue, Thu 6:30 AM–8 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Patrick's Church",
+      "address": "116 Bradford St, Sonora, CA 95370",
+      "lat": 37.98441,
+      "lng": -120.38487,
+      "category": "food-assistance",
+      "sourceOrg": "St. Patrick's Church",
+      "url": "https://www.atcaa.org",
+      "schedulePattern": "Tue, Thu 6:30 AM–8 AM",
+      "start": "2026-09-28T06:30",
+      "end": "2026-09-28T08:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-atcaa-tuolumne-pantry-w5-0800",
+      "seriesSlug": "add-atcaa-tuolumne-pantry",
+      "title": "ATCAA Tuolumne Pantry — Free Food",
+      "description": "Free food at ATCAA Tuolumne Pantry. Schedule: Fri 8 AM–3 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "ATCAA Tuolumne Pantry",
+      "address": "18851 Cedar St, Tuolumne, CA 95379",
+      "lat": 37.964807,
+      "lng": -120.233728,
+      "category": "food-assistance",
+      "sourceOrg": "ATCAA Tuolumne Pantry",
+      "url": "https://www.atcaa.org",
+      "schedulePattern": "Fri 8 AM–3 PM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-eproson-park-distribution-w4-1000",
+      "seriesSlug": "add-eproson-park-distribution",
+      "title": "Eproson Park (distribution) — Free Food",
+      "description": "Free food at Eproson Park (distribution). Schedule: Thu 10 AM–11:30 AM. Call 209-984-3960 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Eproson Park (distribution)",
+      "address": "22901 Meadow Dr, Twain Harte, CA 95383",
+      "lat": 38.037075,
+      "lng": -120.232089,
+      "category": "food-assistance",
+      "sourceOrg": "Eproson Park (distribution)",
+      "url": "https://www.atcaa.org",
+      "schedulePattern": "Thu 10 AM–11:30 AM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    }
+  ]
+}

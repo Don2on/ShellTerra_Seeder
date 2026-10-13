@@ -1,0 +1,145 @@
+{
+  "_meta": {
+    "topic": "Mariposa County food distributions",
+    "generated": "2026-10-11",
+    "source": "Hand-collected list (FBNN/Susanville, Central California Food Bank, SF-Marin/Canal Alliance, Merced County Food Bank). Schedules parsed via LA clause parser. lat/lng geocoded downstream.",
+    "note": "Drop-in raw for prepare-food-additions.mjs. Single start-times / \"by appointment\" / \"daily\" route to _deferred."
+  },
+  "sites": [
+    {
+      "name": "Circle of Hope",
+      "org": "Circle of Hope",
+      "address": "3567 Hwy 140, Catheys Valley, CA 95306",
+      "phone": "(209) 383-1265",
+      "eligibility": "",
+      "website": "https://mmcfb.org/usda-site-list",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Tue 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Tue"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Old School House",
+      "org": "Old School House",
+      "address": "10331 Cemetery Rd, Coulterville, CA 95311",
+      "phone": "(209) 383-1265",
+      "eligibility": "",
+      "website": "https://mmcfb.org/usda-site-list",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Last Fri 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "last Fri"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Assembly of God",
+      "org": "Assembly of God",
+      "address": "5265 Hwy 49 North, Mariposa, CA 95338",
+      "phone": "(209) 966-2249",
+      "eligibility": "",
+      "website": "https://mmcfb.org/usda-site-list",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 7:30-9:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "07:30",
+          "close": "09:30"
+        }
+      ]
+    },
+    {
+      "name": "Heritage House",
+      "org": "Heritage House",
+      "address": "5200 Hwy 49 North, Mariposa, CA 95338",
+      "phone": "(209) 966-7770",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "call by Mon",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Manna House",
+      "org": "Manna House",
+      "address": "5127 Charles St, Mariposa, CA 95338",
+      "phone": "(209) 742-7985",
+      "eligibility": "",
+      "website": "https://mmcfb.org/usda-site-list",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 10am-2pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "New Beginnings Church",
+      "org": "New Beginnings Church",
+      "address": "4603 Hwy 49 South, Mariposa, CA 95338",
+      "phone": "(209) 966-8226",
+      "eligibility": "",
+      "website": "https://mmcfb.org/usda-site-list",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "call to confirm day",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "open": "13:00",
+          "close": "14:30"
+        }
+      ]
+    }
+  ]
+}

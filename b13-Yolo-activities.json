@@ -1,0 +1,94 @@
+{
+  "_meta": {
+    "topic": "Net-new Yolo County food distributions",
+    "generated": "2026-10-05",
+    "source": "Research supplementing shell 6aba044800361d504695; raw ./b13-Yolo-raw.json."
+  },
+  "_deferred": {},
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "add-asucd-the-pantry-memorial-union-students-w67-1200",
+      "seriesSlug": "add-asucd-the-pantry-memorial-union-students",
+      "title": "ASUCD The Pantry - Memorial Union (students) — Free Food",
+      "description": "Free food at ASUCD The Pantry - Memorial Union (students). Schedule: Sat–Sun 12 PM–2 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "ASUCD The Pantry - Memorial Union (students)",
+      "address": ", Davis, CA 95616",
+      "lat": 38.544728,
+      "lng": -121.740364,
+      "category": "food-assistance",
+      "sourceOrg": "ASUCD The Pantry - Memorial Union (students)",
+      "url": "https://yolofoodbank.org",
+      "schedulePattern": "Sat–Sun 12 PM–2 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6,7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-uc-davis-memorial-union-distribution-w3-1300",
+      "seriesSlug": "add-uc-davis-memorial-union-distribution",
+      "title": "UC Davis Memorial Union distribution — Free Food",
+      "description": "Free food at UC Davis Memorial Union distribution. Schedule: Wed 1 PM–3 PM. Call 530-752-2612 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "UC Davis Memorial Union distribution",
+      "address": "250 W Quad, Davis, CA 95616",
+      "lat": 38.542506,
+      "lng": -121.749598,
+      "category": "food-assistance",
+      "sourceOrg": "UC Davis Memorial Union distribution",
+      "url": "https://yolofoodbank.org",
+      "schedulePattern": "Wed 1 PM–3 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-river-city-food-bank-west-sacramento-w124-1000",
+      "seriesSlug": "add-river-city-food-bank-west-sacramento",
+      "title": "River City Food Bank - West Sacramento — Free Food",
+      "description": "Free food at River City Food Bank - West Sacramento. Schedule: Mon–Tue, Thu 10 AM–2 PM. Call 916-371-2760 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "River City Food Bank - West Sacramento",
+      "address": "720 Roble Court, West Sacramento, CA 95691",
+      "lat": 38.580075,
+      "lng": -121.522891,
+      "category": "food-assistance",
+      "sourceOrg": "River City Food Bank - West Sacramento",
+      "url": "https://yolofoodbank.org",
+      "schedulePattern": "Mon–Tue, Thu 10 AM–2 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-yolo-food-bank-court-st-site-w2-0900",
+      "seriesSlug": "add-yolo-food-bank-court-st-site",
+      "title": "Yolo Food Bank (Court St site) — Free Food",
+      "description": "Free food at Yolo Food Bank (Court St site). Schedule: Tue 9 AM–1 PM. Call 530-668-0690 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Yolo Food Bank (Court St site)",
+      "address": "202 W Court St, Woodland, CA 95695",
+      "lat": 38.678936,
+      "lng": -121.793324,
+      "category": "food-assistance",
+      "sourceOrg": "Yolo Food Bank (Court St site)",
+      "url": "https://yolofoodbank.org",
+      "schedulePattern": "Tue 9 AM–1 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    }
+  ]
+}

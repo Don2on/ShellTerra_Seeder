@@ -1,0 +1,62 @@
+{
+  "_meta": {
+    "topic": "Net-new San Diego food distributions",
+    "generated": "2026-09-28",
+    "source": "Research supplementing FoodDistributionSD; raw ./SDPointLoma-sites.json."
+  },
+  "_deferred": {},
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "sd-add-sacred-heart-church-of-ocean-beach-w12345-0830",
+      "seriesSlug": "sd-add-sacred-heart-church-of-ocean-beach",
+      "title": "Sacred Heart Church of Ocean Beach — Free Food",
+      "description": "Free food at Sacred Heart Church of Ocean Beach (Sacred Heart Catholic Church). Schedule: Mon–Fri 8:30 AM–4 PM (nonperishable pantry at parish office); 2nd Tue & 4th Tue from 6 PM (community dinner). Eligibility: Open to all. Call (619) 224-2746 to confirm before you go — hours change and supplies can run out. Source: community research, Sep 2026.",
+      "locationName": "Sacred Heart Church of Ocean Beach",
+      "address": "4776 Saratoga Ave, San Diego, CA 92107",
+      "lat": 32.74653,
+      "lng": -117.24582,
+      "category": "food-assistance",
+      "sourceOrg": "Sacred Heart Catholic Church",
+      "url": "https://sacredheartob.org/community-dinner/",
+      "schedulePattern": "Mon–Fri 8:30 AM–4 PM (nonperishable pantry at parish office); 2nd Tue & 4th Tue from 6 PM (community dinner)",
+      "start": "2026-09-21T08:30",
+      "end": "2026-09-21T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "sd-add-sacred-heart-church-of-ocean-beach-m2242-1800",
+      "seriesSlug": "sd-add-sacred-heart-church-of-ocean-beach",
+      "title": "Sacred Heart Church of Ocean Beach — Free Food",
+      "description": "Free food at Sacred Heart Church of Ocean Beach (Sacred Heart Catholic Church). Schedule: Mon–Fri 8:30 AM–4 PM (nonperishable pantry at parish office); 2nd Tue & 4th Tue from 6 PM (community dinner). Eligibility: Open to all. Call (619) 224-2746 to confirm before you go — hours change and supplies can run out. Source: community research, Sep 2026.",
+      "locationName": "Sacred Heart Church of Ocean Beach",
+      "address": "4776 Saratoga Ave, San Diego, CA 92107",
+      "lat": 32.74653,
+      "lng": -117.24582,
+      "category": "food-assistance",
+      "sourceOrg": "Sacred Heart Catholic Church",
+      "url": "https://sacredheartob.org/community-dinner/",
+      "schedulePattern": "Mon–Fri 8:30 AM–4 PM (nonperishable pantry at parish office); 2nd Tue & 4th Tue from 6 PM (community dinner)",
+      "start": "2026-09-29T18:00",
+      "end": null,
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 2
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "2:2,4:2"
+    }
+  ]
+}

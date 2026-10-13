@@ -1,0 +1,1036 @@
+{
+  "_meta": {
+    "topic": "SantaBarbara County food distributions",
+    "generated": "2026-10-11",
+    "source": "Hand-collected list (Foodbank of Santa Barbara County, Second Harvest of Silicon Valley, Second Harvest Food Bank Santa Cruz, Shasta County HHSA). Schedules parsed via LA clause parser.",
+    "note": "Drop-in raw for prepare-food-additions.mjs. Single-time meals / \"open daily\" route to _deferred."
+  },
+  "sites": [
+    {
+      "name": "Santa Ynez Valley Community Outreach (outdoor pantry)",
+      "org": "Santa Ynez Valley Community Outreach (outdoor pantry)",
+      "address": "164 W Hwy 246, Buellton, CA 93427",
+      "phone": "(805) 688-4571",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Open daily 24 hours",
+      "schedules": []
+    },
+    {
+      "name": "Veterans Pantry",
+      "org": "Veterans Pantry",
+      "address": "164 W Hwy 246, Buellton, CA 93427",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 8am-5pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "allowColocated": true
+    },
+    {
+      "name": "Carpinteria Children's Project",
+      "org": "Carpinteria Children's Project",
+      "address": "5201 8th St, Carpinteria, CA 93013",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Wed 3pm-5:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed"
+          ],
+          "open": "15:00",
+          "close": "17:30"
+        }
+      ]
+    },
+    {
+      "name": "El Camino School",
+      "org": "El Camino School",
+      "address": "5020 San Simeon Dr, Santa Barbara, CA 93111",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Thu 4pm-6pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Thu"
+          ],
+          "open": "16:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Good Shepherd Pantry",
+      "org": "Good Shepherd Pantry",
+      "address": "380 N. Fairview Ave, Goleta, CA 93117",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Sat 9am-10am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Sat"
+          ],
+          "open": "09:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Sandpiper Apartments",
+      "org": "Sandpiper Apartments",
+      "address": "375 Ellwood Beach Dr, Goleta, CA 93117",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Thu 9am",
+      "schedules": []
+    },
+    {
+      "name": "Goleta Valley Community Center",
+      "org": "Goleta Valley Community Center",
+      "address": "5679 Hollister Ave, Goleta, CA 93117",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Sat 8:30am-10:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat"
+          ],
+          "open": "08:30",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "Reality Church (at Girls Inc.)",
+      "org": "Reality Church (at Girls Inc.)",
+      "address": "5315 Foothill Rd, Carpinteria, CA 93013",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Last Thu of month 4pm-5:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "last Thu"
+          ],
+          "open": "16:00",
+          "close": "17:30"
+        }
+      ]
+    },
+    {
+      "name": "Guadalupe Senior Center",
+      "org": "Guadalupe Senior Center",
+      "address": "4545 10th St, Guadalupe, CA 93434",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Thu 11:30am-2pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu"
+          ],
+          "open": "11:30",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Family Service Center",
+      "org": "Family Service Center",
+      "address": "230 Cesar E. Chavez, Guadalupe, CA 93434",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Last Thu of month 12pm",
+      "schedules": []
+    },
+    {
+      "name": "Beatitude House",
+      "org": "Beatitude House",
+      "address": "267 Campodonico Ave, Guadalupe, CA 93434",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 10am-11:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "10:00",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "L.E.A.P. at Isla Vista Elementary School",
+      "org": "L.E.A.P. at Isla Vista Elementary School",
+      "address": "6875 El Colegio Rd, Isla Vista, CA 93117",
+      "phone": "805-869-3303",
+      "eligibility": "by appointment only",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Thu 11:30am-5:30pm (by appointment only)",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Thu"
+          ],
+          "open": "11:30",
+          "close": "17:30"
+        }
+      ]
+    },
+    {
+      "name": "Catholic Charities - Lompoc",
+      "org": "Catholic Charities - Lompoc",
+      "address": "329 N. 2nd St, Lompoc, CA 93436",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 10am-11:45am and 12:30pm-2pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "11:45"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "12:30",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Santa Rita Village",
+      "org": "Santa Rita Village",
+      "address": "926 W. Apricot Ave, Lompoc, CA 93436",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Wed 10am-11:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Wed"
+          ],
+          "open": "10:00",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Mission Hills Shopping Center",
+      "org": "Mission Hills Shopping Center",
+      "address": "1450 Burton Mesa Blvd, Lompoc, CA 93436",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Mon 3pm-5pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Mon"
+          ],
+          "open": "15:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Trinity Church of the Nazarene",
+      "org": "Trinity Church of the Nazarene",
+      "address": "500 E North Ave, Lompoc, CA 93436",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Mon 3pm-5pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Mon"
+          ],
+          "open": "15:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Lompoc High School",
+      "org": "Lompoc High School",
+      "address": "515 W. College Ave, Lompoc, CA 93436",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Last Sat of month 8am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "last Sat"
+          ],
+          "open": "08:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Micah Mission (prepared meals)",
+      "org": "Micah Mission (prepared meals)",
+      "address": "500 E North Ave, Lompoc, CA 93436",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 1pm-2:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "13:00",
+          "close": "14:30"
+        }
+      ],
+      "allowColocated": true
+    },
+    {
+      "name": "St. Timothy's Church (prepared meals)",
+      "org": "St. Timothy's Church (prepared meals)",
+      "address": "403 North J St, Lompoc, CA 93436",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 4pm-5:45pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "16:00",
+          "close": "17:45"
+        }
+      ]
+    },
+    {
+      "name": "La Purisima Catholic Church (prepared meals)",
+      "org": "La Purisima Catholic Church (prepared meals)",
+      "address": "333 South I St, Lompoc, CA 93436",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 4pm-4:45pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "16:00",
+          "close": "16:45"
+        }
+      ]
+    },
+    {
+      "name": "People Helping People - Los Alamos",
+      "org": "People Helping People - Los Alamos",
+      "address": "260 Gonzalez Dr, Los Alamos, CA 93440",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 10am-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Cuyama Family Resource Center",
+      "org": "Cuyama Family Resource Center",
+      "address": "4689 Highway 166, New Cuyama, CA 93254",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Fri 11am",
+      "schedules": []
+    },
+    {
+      "name": "Orcutt Presbyterian Church",
+      "org": "Orcutt Presbyterian Church",
+      "address": "993 Patterson Rd, Orcutt, CA 93455",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 2pm-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "14:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Oasis Orcutt Senior Center",
+      "org": "Oasis Orcutt Senior Center",
+      "address": "420 Soares Ave, Orcutt, CA 93455",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Thu 9am-10:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Thu"
+          ],
+          "open": "09:00",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "Franklin Community Center",
+      "org": "Franklin Community Center",
+      "address": "1136 E. Montecito St, Santa Barbara, CA 93103",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 1pm; 3rd Tue 1:30pm",
+      "schedules": []
+    },
+    {
+      "name": "Franklin Elementary School",
+      "org": "Franklin Elementary School",
+      "address": "1111 E Mason St, Santa Barbara, CA 93103",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Sat 8:30am-10:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "08:30",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "Grace Food Pantry",
+      "org": "Grace Food Pantry",
+      "address": "3869 State St, Santa Barbara, CA 93105",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st through 4th Sat 9am",
+      "schedules": []
+    },
+    {
+      "name": "Harding Elementary Auditorium",
+      "org": "Harding Elementary Auditorium",
+      "address": "1625 Robbins St, Santa Barbara, CA 93101",
+      "phone": "805-967-5741",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Tue 2:30pm-5pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Tue"
+          ],
+          "open": "14:30",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Iglesia Bautista",
+      "org": "Iglesia Bautista",
+      "address": "736 W. Islay St, Santa Barbara, CA 93101",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Thu 2pm",
+      "schedules": []
+    },
+    {
+      "name": "New Life Church",
+      "org": "New Life Church",
+      "address": "50 E. Alamar Ave, Santa Barbara, CA 93105",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Tue 1pm-2:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Tue"
+          ],
+          "open": "13:00",
+          "close": "14:30"
+        }
+      ]
+    },
+    {
+      "name": "McKinley Elementary School",
+      "org": "McKinley Elementary School",
+      "address": "350 Loma Alta Dr, Santa Barbara, CA 93109",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Tue 2:30pm-4:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue"
+          ],
+          "open": "14:30",
+          "close": "16:30"
+        }
+      ]
+    },
+    {
+      "name": "Positano Apartments",
+      "org": "Positano Apartments",
+      "address": "11 Camino De Vida, Santa Barbara, CA 93111",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Mon 3:30pm",
+      "schedules": []
+    },
+    {
+      "name": "Presidio Springs",
+      "org": "Presidio Springs",
+      "address": "721 Laguna St, Santa Barbara, CA 93101",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Wed 2pm-5pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Wed"
+          ],
+          "open": "14:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Salvation Army - Santa Barbara",
+      "org": "Salvation Army - Santa Barbara",
+      "address": "4849 Hollister Ave, Santa Barbara, CA 93111",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue and Thu 9am-12pm; Wed 1pm-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "13:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Unity Shoppe",
+      "org": "Unity Shoppe",
+      "address": "1401 Chapala St, Santa Barbara, CA 93101",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 10am-5pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Westside Community Center",
+      "org": "Westside Community Center",
+      "address": "423 W. Victoria St, Santa Barbara, CA 93101",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 1pm",
+      "schedules": []
+    },
+    {
+      "name": "Catholic Charities - Santa Barbara",
+      "org": "Catholic Charities - Santa Barbara",
+      "address": "609 E. Haley St, Santa Barbara, CA 93103",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 9am-4:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "16:30"
+        }
+      ]
+    },
+    {
+      "name": "Children's Park (Lower Westside)",
+      "org": "Children's Park (Lower Westside)",
+      "address": "520 Wentworth Ave, Santa Barbara, CA 93101",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st and 2nd Tue 1pm",
+      "schedules": []
+    },
+    {
+      "name": "La Cumbre Jr. High School",
+      "org": "La Cumbre Jr. High School",
+      "address": "2255 Modoc Rd, Santa Barbara, CA 93101",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Thu 2:30pm-4:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Thu"
+          ],
+          "open": "14:30",
+          "close": "16:30"
+        }
+      ]
+    },
+    {
+      "name": "Elks Lodge",
+      "org": "Elks Lodge",
+      "address": "1309 N. Bradley Rd, Santa Maria, CA 93454",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Last Thu of month 9am",
+      "schedules": []
+    },
+    {
+      "name": "Allan Hancock College",
+      "org": "Allan Hancock College",
+      "address": "800 S. College Dr, Santa Maria, CA 93454",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Sat 8am-10:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Sat",
+            "3rd Sat"
+          ],
+          "open": "08:00",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "Boys & Girls Club",
+      "org": "Boys & Girls Club",
+      "address": "901 N Railroad Ave, Santa Maria, CA 93458",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Sat 8:30am-10:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat"
+          ],
+          "open": "08:30",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "Coast Valley Worship Center",
+      "org": "Coast Valley Worship Center",
+      "address": "2548 S. Broadway, Santa Maria, CA 93455",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 10am-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Salvation Army - Santa Maria",
+      "org": "Salvation Army - Santa Maria",
+      "address": "200 W. Cook Ave, Santa Maria, CA 93458",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Wed, Fri 9am-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Peter's Episcopal Church",
+      "org": "St. Peter's Episcopal Church",
+      "address": "402 S. Lincoln St, Santa Maria, CA 93458",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 9:30am-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "09:30",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Residences of Depot St.",
+      "org": "Residences of Depot St.",
+      "address": "201 W Depot St, Santa Maria, CA 93458",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Wed 3pm",
+      "schedules": []
+    },
+    {
+      "name": "Santa Maria Fairpark",
+      "org": "Santa Maria Fairpark",
+      "address": "937 S Thornburg St, Santa Maria, CA 93458",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Wed 8am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Wed"
+          ],
+          "open": "08:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Veterans Clinic",
+      "org": "Veterans Clinic",
+      "address": "1550 E Main St, Santa Maria, CA 93454",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Wed 3pm-4:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Wed"
+          ],
+          "open": "15:00",
+          "close": "16:30"
+        }
+      ]
+    },
+    {
+      "name": "Red Oaks Baptist Church",
+      "org": "Red Oaks Baptist Church",
+      "address": "3600 Pinewood Dr, Santa Maria, CA 93455",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Mon 3pm-5pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Mon"
+          ],
+          "open": "15:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "American GI Forum",
+      "org": "American GI Forum",
+      "address": "117 W Bunny Ave, Santa Maria, CA 93458",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Tue 1pm-4pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue"
+          ],
+          "open": "13:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Bethania Lutheran Church",
+      "org": "Bethania Lutheran Church",
+      "address": "603 Atterdag Rd, Solvang, CA 93463",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 5:15pm-6:45pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "17:15",
+          "close": "18:45"
+        }
+      ]
+    },
+    {
+      "name": "People Helping People - Solvang",
+      "org": "People Helping People - Solvang",
+      "address": "1760 Mission Drive, Solvang, CA 93463",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 12pm-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "12:00",
+          "close": "16:00"
+        }
+      ]
+    }
+  ]
+}

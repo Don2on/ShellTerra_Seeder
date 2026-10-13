@@ -1,0 +1,3007 @@
+{
+  "_meta": {
+    "topic": "Ventura County food distributions",
+    "generated": "2026-10-11",
+    "source": "Hand-collected list (FOOD Share of Ventura County, Yolo Food Bank, Feed America). Schedules parsed via LA clause parser.",
+    "note": "Ventura/Yuba net-new; Yolo = additions to existing shell (prepare with --existing + real --shell-id)."
+  },
+  "sites": [
+    {
+      "name": "CSU Channel Islands Basic Needs (students)",
+      "org": "CSU Channel Islands Basic Needs (students)",
+      "address": "57 Ventura St, Camarillo, CA 93012",
+      "phone": "805-437-2067",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Wed 1pm-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed"
+          ],
+          "open": "13:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Camarillo Community Center - Pleasant Valley Rec & Park",
+      "org": "Camarillo Community Center - Pleasant Valley Rec & Park",
+      "address": "1605 E. Burnley St, Camarillo, CA 93010",
+      "phone": "(805) 482-1996",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "drive-through",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "11:00",
+          "close": "12:30"
+        }
+      ]
+    },
+    {
+      "name": "Camarillo Community Church",
+      "org": "Camarillo Community Church",
+      "address": "379 Mobil Ave, Camarillo, CA 93010",
+      "phone": "805-482-2657",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 1pm-5pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "13:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Crossroads Community Church",
+      "org": "Crossroads Community Church",
+      "address": "161 Plaza La Vista, Camarillo, CA 93010",
+      "phone": "805-484-8586",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 4:30pm until food runs out",
+      "schedules": []
+    },
+    {
+      "name": "Many Mansions - Rancho Sierra",
+      "org": "Many Mansions - Rancho Sierra",
+      "address": "1724 Lewis Road, Camarillo, CA 93012",
+      "phone": "805-386-3235",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 11am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Mira Vista Apartments",
+      "org": "Mira Vista Apartments",
+      "address": "2740 E. Ponderosa Dr, Camarillo, CA 93010",
+      "phone": "805-983-7100",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Thu 1:30pm-2:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Thu"
+          ],
+          "open": "13:30",
+          "close": "14:30"
+        }
+      ]
+    },
+    {
+      "name": "Pleasant Valley Senior Center",
+      "org": "Pleasant Valley Senior Center",
+      "address": "1605 Burnley St, Camarillo, CA 93010",
+      "phone": "805-983-7100",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Wed 9am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Wed"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ],
+      "allowColocated": true
+    },
+    {
+      "name": "Project Hope - St. Columba's Episcopal Church",
+      "org": "Project Hope - St. Columba's Episcopal Church",
+      "address": "1251 Las Posas Rd, Camarillo, CA 93010",
+      "phone": "805-482-8831",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st, 2nd & 4th Thu 5pm-6pm; 2nd & 4th Thu 9am-10am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu",
+            "2nd Thu",
+            "4th Thu"
+          ],
+          "open": "17:00",
+          "close": "18:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu",
+            "4th Thu"
+          ],
+          "open": "09:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Seventh Day Adventist Church - Camarillo",
+      "org": "Seventh Day Adventist Church - Camarillo",
+      "address": "3975 E. Las Posas Rd, Camarillo, CA 93010",
+      "phone": "805-428-4632",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 2pm-3:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "14:00",
+          "close": "15:30"
+        }
+      ]
+    },
+    {
+      "name": "St. Mary Magdalen Church",
+      "org": "St. Mary Magdalen Church",
+      "address": "2532 Ventura Blvd, Camarillo, CA 93010",
+      "phone": "805-484-0532",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 3:30pm-5pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "15:30",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Colonia Village Tenant Association",
+      "org": "Colonia Village Tenant Association",
+      "address": "1500 Camino Del Sol, Oxnard, CA 93030",
+      "phone": "805-385-7574",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Sat 9am-10am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat"
+          ],
+          "open": "09:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "First Baptist Church El Rio",
+      "org": "First Baptist Church El Rio",
+      "address": "2857 Cortez St, Oxnard, CA 93036",
+      "phone": "805-444-2427",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 1pm-2pm; Fri 5pm-6pm; Sun 12pm-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "13:00",
+          "close": "14:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "17:00",
+          "close": "18:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Sun"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Rio Schools (Kenney St)",
+      "org": "Rio Schools (Kenney St)",
+      "address": "1140 Kenney Street, Oxnard, CA 93036",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Tue 2:30pm-3:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue",
+            "4th Tue"
+          ],
+          "open": "14:30",
+          "close": "15:30"
+        }
+      ]
+    },
+    {
+      "name": "Bardsdale United Methodist Church",
+      "org": "Bardsdale United Methodist Church",
+      "address": "1498 Bardsdale Ave, Fillmore, CA 93015",
+      "phone": "805-524-2070",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Sat 12pm-2pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Sat",
+            "3rd Sat"
+          ],
+          "open": "12:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Fillmore Active Adult Center",
+      "org": "Fillmore Active Adult Center",
+      "address": "533 Santa Clara Ave, Fillmore, CA 93015",
+      "phone": "805-983-7100",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Tue 9am-11am; 3rd Wed 12pm-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Tue"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Wed"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Fillmore Church of Christ",
+      "org": "Fillmore Church of Christ",
+      "address": "219 Mountain View, Fillmore, CA 93015",
+      "phone": "805-218-6004",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 2:15pm until food runs out",
+      "schedules": []
+    },
+    {
+      "name": "Fillmore Police Storefront",
+      "org": "Fillmore Police Storefront",
+      "address": "642 Lemon Way, Fillmore, CA 93015",
+      "phone": "805-524-2982",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd, 3rd & 4th Wed 8am-10am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed",
+            "3rd Wed",
+            "4th Wed"
+          ],
+          "open": "08:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "One Step a la Vez",
+      "org": "One Step a la Vez",
+      "address": "421 Sespe Ave, Fillmore, CA 93015",
+      "phone": "805-625-7067",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Wed 3pm-5pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed",
+            "4th Wed"
+          ],
+          "open": "15:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Salvation Army at Rancho Sespe Apartments",
+      "org": "Salvation Army at Rancho Sespe Apartments",
+      "address": "2950 E Telegraph Road, Fillmore, CA 93015",
+      "phone": "805-521-1849",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Thu 12pm-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Thu"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Francis of Assisi Church / SVDP",
+      "org": "St. Francis of Assisi Church / SVDP",
+      "address": "1048 W Ventura St, Fillmore, CA 93015",
+      "phone": "805-524-1306",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st, 3rd & 5th Tue 11am-12pm; 1st Fri 11:30am-12:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Tue",
+            "3rd Tue",
+            "5th Tue"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri"
+          ],
+          "open": "11:30",
+          "close": "12:30"
+        }
+      ]
+    },
+    {
+      "name": "United Parents - Fillmore",
+      "org": "United Parents - Fillmore",
+      "address": "584 Ventura St, Fillmore, CA 93015",
+      "phone": "805-384-1555",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 1pm-7pm; 2nd Sat 10am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "13:00",
+          "close": "19:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Catholic Charities Moorpark",
+      "org": "Catholic Charities Moorpark",
+      "address": "612B Spring Rd Ste 101, Moorpark, CA 93021",
+      "phone": "805-529-0720",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "Wed 9:30am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "09:30",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Faith Lutheran Church",
+      "org": "Faith Lutheran Church",
+      "address": "123 Park Ln, Moorpark, CA 93021",
+      "phone": "805-983-7100",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 2pm-3pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "14:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Grace Harvest Church",
+      "org": "Grace Harvest Church",
+      "address": "4823 Mira Sol Dr, Moorpark, CA 93021",
+      "phone": "805-553-9501",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 10am-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Ruben Castro Charities at Moorpark College",
+      "org": "Ruben Castro Charities at Moorpark College",
+      "address": "7075 Campus Dr, Moorpark, CA 93021",
+      "phone": "805-248-7113",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 12:30pm-2:30pm; Sun 12pm-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "12:30",
+          "close": "14:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Sun"
+          ],
+          "open": "12:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Lighthouse Church",
+      "org": "Lighthouse Church",
+      "address": "3353 Old Conejo Rd, Newbury Park, CA 91320",
+      "phone": "805-480-9999",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 5:30pm-6:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "17:30",
+          "close": "18:30"
+        }
+      ]
+    },
+    {
+      "name": "Nucleus CA Inc - Manafest",
+      "org": "Nucleus CA Inc - Manafest",
+      "address": "999 Rancho Conejo Blvd, Newbury Park, CA 91320",
+      "phone": "805-262-5000",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 4:30pm-5:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "16:30",
+          "close": "17:30"
+        }
+      ]
+    },
+    {
+      "name": "Safe Passage Foundation Food Pantry",
+      "org": "Safe Passage Foundation Food Pantry",
+      "address": "1707 Calle Diamonte, Newbury Park, CA 91320",
+      "phone": "(805) 558-8987",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Sat 10am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "SVDP - St. Julie Billiart",
+      "org": "SVDP - St. Julie Billiart",
+      "address": "2475 Borchard Rd, Newbury Park, CA 91320",
+      "phone": "(805) 270-9597",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Wed 10am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Salvation Army at Oak View Park and Resource Center",
+      "org": "Salvation Army at Oak View Park and Resource Center",
+      "address": "555 Mahoney Ave, Oak View, CA 93022",
+      "phone": "805-986-6532",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 9am-10am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "09:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Help of Ojai",
+      "org": "Help of Ojai",
+      "address": "108 S. Montgomery St, Ojai, CA 93023",
+      "phone": "805-640-3320",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon and Wed 9:30am-11:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "open": "09:30",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Secure Beginnings",
+      "org": "Secure Beginnings",
+      "address": "200 N. Montgomery St, Ojai, CA 93023",
+      "phone": "(805) 646-7559",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Wed 10:30am-12:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Wed",
+            "3rd Wed"
+          ],
+          "open": "10:30",
+          "close": "12:30"
+        }
+      ]
+    },
+    {
+      "name": "St. Thomas Aquinas / SVDP",
+      "org": "St. Thomas Aquinas / SVDP",
+      "address": "185 St. Thomas Dr, Ojai, CA 93023",
+      "phone": "805-640-2750",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Thu 9am-10:30am; 3rd Sat 8:30am-10:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu"
+          ],
+          "open": "09:00",
+          "close": "10:30"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "08:30",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "AHA at Pacific Point Apartments",
+      "org": "AHA at Pacific Point Apartments",
+      "address": "1001 W Gonzales Rd, Oxnard, CA 93036",
+      "phone": "(805) 988-9100",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Tue 9am-10am; 4th Wed 4pm-5pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Tue",
+            "3rd Tue"
+          ],
+          "open": "09:00",
+          "close": "10:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Wed"
+          ],
+          "open": "16:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Bethel AME Church",
+      "org": "Bethel AME Church",
+      "address": "855 South F St, Oxnard, CA 93030",
+      "phone": "(805) 486-6477",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd and 4th Thu 11am-2pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Thu",
+            "4th Thu"
+          ],
+          "open": "11:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Bread of Life / Oxnard Community Food Pantry - All Saints Episcopal Church",
+      "org": "Bread of Life / Oxnard Community Food Pantry - All Saints Episcopal Church",
+      "address": "144 South C St, Oxnard, CA 93030",
+      "phone": "805-320-0997",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 12pm-2pm; Sun 4pm-5pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "12:00",
+          "close": "14:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Sun"
+          ],
+          "open": "16:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Camino Del Sol Apartments",
+      "org": "Camino Del Sol Apartments",
+      "address": "1910 Camino Del Sol, Oxnard, CA 93030",
+      "phone": "805-983-7100",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Tue 3pm-4pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue"
+          ],
+          "open": "15:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Celebration Nation",
+      "org": "Celebration Nation",
+      "address": "1900 W. 5th Street, Oxnard, CA 93030",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 1pm-2pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "13:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Church of The Nazarene",
+      "org": "Church of The Nazarene",
+      "address": "1630 Saviers Rd, Oxnard, CA 93033",
+      "phone": "805-483-7046",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Thu 3pm-4:30pm; 3rd Fri 2pm-3:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Thu"
+          ],
+          "open": "15:00",
+          "close": "16:30"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Fri"
+          ],
+          "open": "14:00",
+          "close": "15:30"
+        }
+      ]
+    },
+    {
+      "name": "Circle of Love at Southwinds Park",
+      "org": "Circle of Love at Southwinds Park",
+      "address": "300 West Clara St, Oxnard, CA 93033",
+      "phone": "707-718-7352",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st and 3rd Sat 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Sat",
+            "3rd Sat"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "LUCHA at Southwinds Park",
+      "org": "LUCHA at Southwinds Park",
+      "address": "300 West Clara St, Oxnard, CA 93033",
+      "phone": "805-983-7100",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Sat 9:30am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "09:30",
+          "close": "11:00"
+        }
+      ],
+      "allowColocated": true
+    },
+    {
+      "name": "Clinicas del Camino Real - Gonzales",
+      "org": "Clinicas del Camino Real - Gonzales",
+      "address": "1100 W Gonzales Road, Oxnard, CA 93036",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Tue 1:30pm-2:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Tue"
+          ],
+          "open": "13:30",
+          "close": "14:30"
+        }
+      ]
+    },
+    {
+      "name": "Community Action of Ventura County",
+      "org": "Community Action of Ventura County",
+      "address": "621 Richmond Ave, Oxnard, CA 93030",
+      "phone": "805-436-4000",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd and 4th Thu 8:30am-11:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu",
+            "4th Thu"
+          ],
+          "open": "08:30",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Food Share Warehouse",
+      "org": "Food Share Warehouse",
+      "address": "4156 Southbank Rd, Oxnard, CA 93036",
+      "phone": "805-983-7100",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Last Thu 3:30pm-4:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "last Thu"
+          ],
+          "open": "15:30",
+          "close": "16:30"
+        }
+      ]
+    },
+    {
+      "name": "Grace Bible Church",
+      "org": "Grace Bible Church",
+      "address": "936 W 5th St, Oxnard, CA 93030",
+      "phone": "(805) 483-2205",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd and 4th Sat 9am-11am; 1st Thu 1pm-2pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat",
+            "4th Sat"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu"
+          ],
+          "open": "13:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Harbor Missionary Church at Garden Acres Mutual Water Co.",
+      "org": "Harbor Missionary Church at Garden Acres Mutual Water Co.",
+      "address": "2838 Friedrich Road, Oxnard, CA 93036",
+      "phone": "(805) 247-0002",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 4:30pm-5:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "16:30",
+          "close": "17:30"
+        }
+      ]
+    },
+    {
+      "name": "Heritage Apartments",
+      "org": "Heritage Apartments",
+      "address": "820 South E St, Oxnard, CA 93030",
+      "phone": "805-983-7100",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Tue 10am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Tue"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Mary Star of the Sea",
+      "org": "Mary Star of the Sea",
+      "address": "463 W. Pleasant Valley Road, Oxnard, CA 93033",
+      "phone": "805-983-7100",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Mon 2pm-3:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Mon"
+          ],
+          "open": "14:00",
+          "close": "15:30"
+        }
+      ]
+    },
+    {
+      "name": "New Life Community Church",
+      "org": "New Life Community Church",
+      "address": "1251 N Rice Ave, Oxnard, CA 93030",
+      "phone": "805-983-1890",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Thu 9am-11:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Thu"
+          ],
+          "open": "09:00",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Nyeland Promise",
+      "org": "Nyeland Promise",
+      "address": "3334 Santa Clara Avenue, Oxnard, CA 93036",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Mon 10:30am-11:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Mon"
+          ],
+          "open": "10:30",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Nyeland Promise at Water Company",
+      "org": "Nyeland Promise at Water Company",
+      "address": "3802 Almond Drive, Oxnard, CA 93036",
+      "phone": "805-415-2787",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd and 4th Tue 9:30am-10:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue",
+            "4th Tue"
+          ],
+          "open": "09:30",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "Our Lady of Guadalupe - Oxnard",
+      "org": "Our Lady of Guadalupe - Oxnard",
+      "address": "500 N Juanita Ave, Oxnard, CA 93030",
+      "phone": "805-983-7100",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Wed 9am-10am; 3rd Thu 9am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Wed"
+          ],
+          "open": "09:00",
+          "close": "10:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Thu"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Oxnard College pop-up emergency food pantry",
+      "org": "Oxnard College pop-up emergency food pantry",
+      "address": "3250 South Rose Avenue, Oxnard, CA 93033",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 2pm-3:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "14:00",
+          "close": "15:30"
+        }
+      ]
+    },
+    {
+      "name": "Oxnard PAL",
+      "org": "Oxnard PAL",
+      "address": "350 South K St, Oxnard, CA 93030",
+      "phone": "805-983-7100",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Fri 9am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Fri"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Palm Vista Housing",
+      "org": "Palm Vista Housing",
+      "address": "801 South C Street, Oxnard, CA 93030",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Mon 1pm-2pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Mon"
+          ],
+          "open": "13:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Plaza Vista",
+      "org": "Plaza Vista",
+      "address": "401 South C Street, Oxnard, CA 93030",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Mon 9:30am-10:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Mon"
+          ],
+          "open": "09:30",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "Rio Schools (Cortez St)",
+      "org": "Rio Schools (Cortez St)",
+      "address": "3300 Cortez Street, Oxnard, CA 93036",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st, 3rd and 5th Tue 2:30pm-3:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Tue",
+            "3rd Tue",
+            "5th Tue"
+          ],
+          "open": "14:30",
+          "close": "15:30"
+        }
+      ]
+    },
+    {
+      "name": "Salvation Army Oxnard",
+      "org": "Salvation Army Oxnard",
+      "address": "622 W Wooley Rd, Oxnard, CA 93033",
+      "phone": "805-983-7100",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 9am-11am; 2nd Wed 1:30pm-2:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed"
+          ],
+          "open": "13:30",
+          "close": "14:30"
+        }
+      ]
+    },
+    {
+      "name": "Shelter Care Resources at Calvary Chapel",
+      "org": "Shelter Care Resources at Calvary Chapel",
+      "address": "1925 Eastman Ave, Oxnard, CA 93030",
+      "phone": "805-407-8842",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 5pm-6:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "17:00",
+          "close": "18:30"
+        }
+      ]
+    },
+    {
+      "name": "South Oxnard Center",
+      "org": "South Oxnard Center",
+      "address": "200 E Bard Rd, Oxnard, CA 93033",
+      "phone": "805-983-7100",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Mon and 3rd Fri 9am-10:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Mon",
+            "3rd Fri"
+          ],
+          "open": "09:00",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "St. John's Health Ministries at Christ The King",
+      "org": "St. John's Health Ministries at Christ The King",
+      "address": "535 Cooper Rd, Oxnard, CA 93030",
+      "phone": "805-988-2651",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 9am-12:30pm; Thu 11:30am-2:30pm; 1st & 2nd Thu 9am-10am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "09:00",
+          "close": "12:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "11:30",
+          "close": "14:30"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu",
+            "2nd Thu"
+          ],
+          "open": "09:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "SVDP / St. Anthony's Church",
+      "org": "SVDP / St. Anthony's Church",
+      "address": "2511 S C St, Oxnard, CA 93033",
+      "phone": "805-486-7302",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 9am-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Sycamore Senior Village",
+      "org": "Sycamore Senior Village",
+      "address": "333 North F St, Oxnard, CA 93030",
+      "phone": "805-983-7100",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Tue 1pm-2pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue"
+          ],
+          "open": "13:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "United Parents - Oxnard",
+      "org": "United Parents - Oxnard",
+      "address": "300 West 5th Street Ste A, Oxnard, CA 93030",
+      "phone": "805-384-1555",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 1:30pm-7:30pm; Sat 9am-5:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "13:30",
+          "close": "19:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "09:00",
+          "close": "17:30"
+        }
+      ]
+    },
+    {
+      "name": "VC Believe Center",
+      "org": "VC Believe Center",
+      "address": "850 Ivywood Drive, Oxnard, CA 93030",
+      "phone": "805-222-0422",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 6pm-7pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "18:00",
+          "close": "19:00"
+        }
+      ]
+    },
+    {
+      "name": "VC Believe Center at City View Church",
+      "org": "VC Believe Center at City View Church",
+      "address": "2311 Statham Blvd, Oxnard, CA 93033",
+      "phone": "805-222-0422",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 6pm-7pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "18:00",
+          "close": "19:00"
+        }
+      ]
+    },
+    {
+      "name": "VC Rescue Mission (meals)",
+      "org": "VC Rescue Mission (meals)",
+      "address": "234 E. Sixth St, Oxnard, CA 93030",
+      "phone": "805-436-4602",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 11am-11:30am and 5:30pm-6pm; Sat, Sun 12pm-12:30pm and 5:30pm-6pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "11:00",
+          "close": "11:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "17:30",
+          "close": "18:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat",
+            "Sun"
+          ],
+          "open": "12:00",
+          "close": "12:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat",
+            "Sun"
+          ],
+          "open": "17:30",
+          "close": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Westminster Free Clinic - Oxnard",
+      "org": "Westminster Free Clinic - Oxnard",
+      "address": "1800 South C Street, Oxnard, CA 93033",
+      "phone": "805-844-6641",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 2:30pm-5:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "14:30",
+          "close": "17:30"
+        }
+      ]
+    },
+    {
+      "name": "CEDC at Valle Naranjal",
+      "org": "CEDC at Valle Naranjal",
+      "address": "4268 Center St, Piru, CA 93040",
+      "phone": "805-659-3598",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Fri 11am-12pm; 2nd Mon 12pm-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Mon"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Piru Neighborhood Council at Corazon Cafe",
+      "org": "Piru Neighborhood Council at Corazon Cafe",
+      "address": "3945 Center Street, Piru, CA 93040",
+      "phone": "661-212-2776",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Fri 12pm-2pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Fri"
+          ],
+          "open": "12:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "San Salvador Mission",
+      "org": "San Salvador Mission",
+      "address": "4053 Center St, Piru, CA 93040",
+      "phone": "805-625-3273",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Wed 9:30am-11:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Wed"
+          ],
+          "open": "09:30",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Beach Side Fellowship",
+      "org": "Beach Side Fellowship",
+      "address": "250 Market Street, Port Hueneme, CA 93041",
+      "phone": "805-874-1318",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Wed 9am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Wed"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Casa Pacifica Apartments",
+      "org": "Casa Pacifica Apartments",
+      "address": "703 Ventura Rd, Port Hueneme, CA 93041",
+      "phone": "805-983-7100",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Tue 11am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Tue"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Evangelistic Baptist Church",
+      "org": "Evangelistic Baptist Church",
+      "address": "125 E Pearl St, Port Hueneme, CA 93041",
+      "phone": "805-983-7100",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Tue 9:30am-10:30am and 11am-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Tue"
+          ],
+          "open": "09:30",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "First Church of Port Hueneme",
+      "org": "First Church of Port Hueneme",
+      "address": "523 N. 5th Street, Port Hueneme, CA 93041",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Fri 2pm-4pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri"
+          ],
+          "open": "14:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Fleet Reserve",
+      "org": "Fleet Reserve",
+      "address": "1183 N Ventura Rd, Port Hueneme, CA 93041",
+      "phone": "732-814-1044",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Sat 9am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Living Hope Church",
+      "org": "Living Hope Church",
+      "address": "755 Bard Road, Port Hueneme, CA 93041",
+      "phone": "805-483-8610",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd and 4th Sat 9:30am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat",
+            "4th Sat"
+          ],
+          "open": "09:30",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Porchlight Foundation at PV Mobile Home Park",
+      "org": "Porchlight Foundation at PV Mobile Home Park",
+      "address": "250 E. Pleasant Valley Road, Port Hueneme, CA 93041",
+      "phone": "619-820-3500",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 3pm-5pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "15:00",
+          "close": "17:00"
+        }
+      ],
+      "allowColocated": true
+    },
+    {
+      "name": "Salvation Army at Mar Vista Apartments",
+      "org": "Salvation Army at Mar Vista Apartments",
+      "address": "157 E. Scott St, Port Hueneme, CA 93041",
+      "phone": "805-986-6532",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Thu 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Thu"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "CEDC - The Santa Paulan Apartments",
+      "org": "CEDC - The Santa Paulan Apartments",
+      "address": "115 N 4th St, Santa Paula, CA 93060",
+      "phone": "805-525-5804",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Tue 2:15pm-3:15pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Tue"
+          ],
+          "open": "14:15",
+          "close": "15:15"
+        }
+      ]
+    },
+    {
+      "name": "CEDC Rodney Fernandez Garden Apartments",
+      "org": "CEDC Rodney Fernandez Garden Apartments",
+      "address": "212 W Santa Barbara St, Santa Paula, CA 93060",
+      "phone": "805-933-7400",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Fri 11am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Fri"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Centro Cristiano Emanuel",
+      "org": "Centro Cristiano Emanuel",
+      "address": "505 W Harvard Blvd, Santa Paula, CA 93060",
+      "phone": "805-983-7100",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Fri 1:30pm-2:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri"
+          ],
+          "open": "13:30",
+          "close": "14:30"
+        }
+      ]
+    },
+    {
+      "name": "Limoneira Ranch Visitor's Center (senior kits)",
+      "org": "Limoneira Ranch Visitor's Center (senior kits)",
+      "address": "1141 Cummings Road, Santa Paula, CA 93060",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Thu 4pm-5pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu"
+          ],
+          "open": "16:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "LUCHA - Poder Popular",
+      "org": "LUCHA - Poder Popular",
+      "address": "113 N. Mill Road, Santa Paula, CA 93060",
+      "phone": "805-625-1212",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 2pm-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "14:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Our Lady of Guadalupe - Santa Paula",
+      "org": "Our Lady of Guadalupe - Santa Paula",
+      "address": "427 N. Oaks Street, Santa Paula, CA 93060",
+      "phone": "805-525-3716",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 4pm-5pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "16:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Santa Paula Four Square Church",
+      "org": "Santa Paula Four Square Church",
+      "address": "611 E. Main Street, Santa Paula, CA 93060",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 5pm-6pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "17:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Spirit of Santa Paula",
+      "org": "Spirit of Santa Paula",
+      "address": "1498 Harvard Street, Santa Paula, CA 93060",
+      "phone": "805-229-7750",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 2:30pm-3:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "14:30",
+          "close": "15:30"
+        }
+      ]
+    },
+    {
+      "name": "Spirit of Santa Paula at 1st Presbyterian Church",
+      "org": "Spirit of Santa Paula at 1st Presbyterian Church",
+      "address": "121 N. Davis St, Santa Paula, CA 93060",
+      "phone": "805-340-5025",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 4:30pm-5:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "16:30",
+          "close": "17:30"
+        }
+      ]
+    },
+    {
+      "name": "Boys & Girls Club - Simi Valley",
+      "org": "Boys & Girls Club - Simi Valley",
+      "address": "2850 Lemon Dr, Simi Valley, CA 93063",
+      "phone": "805-983-7100",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Thu 9:30am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu"
+          ],
+          "open": "09:30",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Centro Familiar Nueva Esperanza",
+      "org": "Centro Familiar Nueva Esperanza",
+      "address": "4680 Alamo Street, Simi Valley, CA 93063",
+      "phone": "(805) 813-8751",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 11am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Church of the Living Christ",
+      "org": "Church of the Living Christ",
+      "address": "171 Royal Avenue, Simi Valley, CA 93065",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Wed 11:30am-12:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Wed"
+          ],
+          "open": "11:30",
+          "close": "12:30"
+        }
+      ]
+    },
+    {
+      "name": "New Beginnings Christian Fellowship",
+      "org": "New Beginnings Christian Fellowship",
+      "address": "2816 N. Sycamore Dr, Simi Valley, CA 93065",
+      "phone": "805-522-3555",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Mon 4:30pm-6pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Mon",
+            "4th Mon"
+          ],
+          "open": "16:30",
+          "close": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "New Heart Foursquare Church",
+      "org": "New Heart Foursquare Church",
+      "address": "4200 Township Ave, Simi Valley, CA 93063",
+      "phone": "805-583-3433",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sun 11:30am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sun"
+          ],
+          "open": "11:30",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Revelation Church",
+      "org": "Revelation Church",
+      "address": "580 E. Easy Street, Simi Valley, CA 93065",
+      "phone": "805-366-4825",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Sat 12pm-2pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "12:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Salvation Army Simi Valley Care and Share",
+      "org": "Salvation Army Simi Valley Care and Share",
+      "address": "1407 Los Angeles Ave Unit T, Simi Valley, CA 93065",
+      "phone": "805-527-1070",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 10am-12pm; Thu 10am-12pm and 1pm-2pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "13:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Samaritan Center Simi Valley",
+      "org": "Samaritan Center Simi Valley",
+      "address": "280 Royal Ave, Simi Valley, CA 93065",
+      "phone": "805-579-9166",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue and Thu 11am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "SEWA International (Free Clinic Simi Valley)",
+      "org": "SEWA International (Free Clinic Simi Valley)",
+      "address": "2003 Royal Avenue, Simi Valley, CA 93065",
+      "phone": "805-328-4561",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 2pm-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "14:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Shepherd of the Valley",
+      "org": "Shepherd of the Valley",
+      "address": "4191 Cochran Ave, Simi Valley, CA 93063",
+      "phone": "805-526-7577",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 2pm-6pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "14:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Spirit Life Church",
+      "org": "Spirit Life Church",
+      "address": "1482 Sinaloa Road, Simi Valley, CA 93065",
+      "phone": "949-299-6601",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Last Thu 1pm-2pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "last Thu"
+          ],
+          "open": "13:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Peter Claver",
+      "org": "St. Peter Claver",
+      "address": "2380 Stow St, Simi Valley, CA 93063",
+      "phone": "805-526-6499",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd and 4th Sat 10am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat",
+            "4th Sat"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Somis Pantry at Faith Baptist Church",
+      "org": "Somis Pantry at Faith Baptist Church",
+      "address": "3300 West St, Somis, CA 93066",
+      "phone": "805-377-2270",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Tue 1pm-4pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue"
+          ],
+          "open": "13:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Adelante Comunidad Conejo at Conejo Elementary School",
+      "org": "Adelante Comunidad Conejo at Conejo Elementary School",
+      "address": "280 N. Conejo School Drive, Thousand Oaks, CA 91362",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Select Sat 9:30am-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "09:30",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Adelante Comunidad Conejo at Shadow Apartments",
+      "org": "Adelante Comunidad Conejo at Shadow Apartments",
+      "address": "1949 Los Feliz Drive, Thousand Oaks, CA 91362",
+      "phone": "805-338-7066",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Fri 5pm-7pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Fri"
+          ],
+          "open": "17:00",
+          "close": "19:00"
+        }
+      ]
+    },
+    {
+      "name": "Christian Church of Thousand Oaks",
+      "org": "Christian Church of Thousand Oaks",
+      "address": "301 Avenida de las Flores, Thousand Oaks, CA 91360",
+      "phone": "805-492-2474",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st and 3rd Mon 4pm-6pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Mon",
+            "3rd Mon"
+          ],
+          "open": "16:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Many Mansions at Shadow Hills",
+      "org": "Many Mansions at Shadow Hills",
+      "address": "227 E. Wilbur Road, Thousand Oaks, CA 91360",
+      "phone": "805-496-4948",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd and 4th Wed 11:15am-12:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed",
+            "4th Wed"
+          ],
+          "open": "11:15",
+          "close": "12:30"
+        }
+      ]
+    },
+    {
+      "name": "Newbury Park First Christian Church",
+      "org": "Newbury Park First Christian Church",
+      "address": "801 Knollwood Dr, Thousand Oaks, CA 91320",
+      "phone": "805-498-2129",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri and Sat 9:15am-10am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri",
+            "Sat"
+          ],
+          "open": "09:15",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Seventh Day Adventist Church Thousand Oaks",
+      "org": "Seventh Day Adventist Church Thousand Oaks",
+      "address": "480 W Gainsborough Rd, Thousand Oaks, CA 91360",
+      "phone": "805-551-7345",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 1pm-2pm; 4th Tue 12:30pm-2pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "13:00",
+          "close": "14:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Tue"
+          ],
+          "open": "12:30",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "SVDP - St. Paschal Baylon",
+      "org": "SVDP - St. Paschal Baylon",
+      "address": "155 E. Janss Rd, Thousand Oaks, CA 91360",
+      "phone": "805-496-0222",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 9am-10:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "09:00",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "United Methodist Church of Thousand Oaks",
+      "org": "United Methodist Church of Thousand Oaks",
+      "address": "1000 E. Janss Road, Thousand Oaks, CA 91360",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st, 3rd & 5th Fri 11:15am-12:15pm; Wed 3pm-6pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri",
+            "3rd Fri",
+            "5th Fri"
+          ],
+          "open": "11:15",
+          "close": "12:15"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "15:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Buenaventura Mobile Home Estates",
+      "org": "Buenaventura Mobile Home Estates",
+      "address": "11405 Darling Rd, Ventura, CA 93004",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Mon 1:30pm-2:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Mon"
+          ],
+          "open": "13:30",
+          "close": "14:30"
+        }
+      ]
+    },
+    {
+      "name": "Catholic Charities Ventura",
+      "org": "Catholic Charities Ventura",
+      "address": "303 N. Ventura Ave, Ventura, CA 93001",
+      "phone": "805-643-4694",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 9:30am-11:30am; Thu 1pm-2pm; Fri 9am-11:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "09:30",
+          "close": "11:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "13:00",
+          "close": "14:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Family to Family (at Catholic Charities)",
+      "org": "Family to Family (at Catholic Charities)",
+      "address": "303 N. Ventura Ave, Ventura, CA 93001",
+      "phone": "(818) 216-0813",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Wed, Fri 11:30am-12:30pm; Sat, Sun 8am-9am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed",
+            "Fri"
+          ],
+          "open": "11:30",
+          "close": "12:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat",
+            "Sun"
+          ],
+          "open": "08:00",
+          "close": "09:00"
+        }
+      ],
+      "allowColocated": true
+    },
+    {
+      "name": "CEDC - Azahar Place Apartments",
+      "org": "CEDC - Azahar Place Apartments",
+      "address": "11370 Mimosa St, Ventura, CA 93004",
+      "phone": "805-647-2700",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Wed 4pm-5pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed"
+          ],
+          "open": "16:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Church of Scientology of Ventura",
+      "org": "Church of Scientology of Ventura",
+      "address": "2151 Alessandro Avenue, Ventura, CA 93001",
+      "phone": "(805) 585-4400",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st and 3rd Sat 10am-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Sat",
+            "3rd Sat"
+          ],
+          "open": "10:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "City Church California",
+      "org": "City Church California",
+      "address": "6360 Telephone Road, Ventura, CA 93004",
+      "phone": "805-676-1040",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st and 3rd Sat 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Sat",
+            "3rd Sat"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Community Bible Church",
+      "org": "Community Bible Church",
+      "address": "5040 Telegraph Rd, Ventura, CA 93003",
+      "phone": "805-339-0019",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd and 4th Sat 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat",
+            "4th Sat"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Community Presbyterian Church",
+      "org": "Community Presbyterian Church",
+      "address": "1555 Poli St, Ventura, CA 93001",
+      "phone": "805-985-3917",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "5th Thu 9am-10am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "5th Thu"
+          ],
+          "open": "09:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Mission F.I.S.H. at Fellowship Hall",
+      "org": "Mission F.I.S.H. at Fellowship Hall",
+      "address": "660 N Ventura Ave, Ventura, CA 93001",
+      "phone": "805-646-1125",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 1:30pm-3pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "13:30",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Westpark Community Center (PAL)",
+      "org": "Westpark Community Center (PAL)",
+      "address": "450 W Harrison Ave, Ventura, CA 93001",
+      "phone": "805-648-1895",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Wed 3:30pm-4:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Wed"
+          ],
+          "open": "15:30",
+          "close": "16:30"
+        }
+      ]
+    },
+    {
+      "name": "Sacred Heart Food Pantry at Cabrillo Village",
+      "org": "Sacred Heart Food Pantry at Cabrillo Village",
+      "address": "1515 S Saticoy Ave, Ventura, CA 93004",
+      "phone": "805-794-0046",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd and 4th Wed 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed",
+            "4th Wed"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Salvation Army Ventura (East End)",
+      "org": "Salvation Army Ventura (East End)",
+      "address": "650 S Petit Ave, Ventura, CA 93004",
+      "phone": "805-659-3598",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 11am-1pm; 2nd and 4th Fri 11am-1pm; 1st Mon 9:30am-10:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "11:00",
+          "close": "13:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Fri",
+            "4th Fri"
+          ],
+          "open": "11:00",
+          "close": "13:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Mon"
+          ],
+          "open": "09:30",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "Salvation Army Ventura at Valentine Rd",
+      "org": "Salvation Army Ventura at Valentine Rd",
+      "address": "5818 Valentine Road, Ventura, CA 93003",
+      "phone": "805-302-2249",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Wed 9am-10am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Wed"
+          ],
+          "open": "09:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Salvation Army Ventura at Westview Boys & Girls Club",
+      "org": "Salvation Army Ventura at Westview Boys & Girls Club",
+      "address": "1187 Riverside St, Ventura, CA 93001",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Sat 10am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Seaward Church",
+      "org": "Seaward Church",
+      "address": "365 S. Seaward Avenue, Ventura, CA 93003",
+      "phone": "(805) 643-2273",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd and 4th Sun 2pm-3pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sun",
+            "4th Sun"
+          ],
+          "open": "14:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Temple Beth Torah",
+      "org": "Temple Beth Torah",
+      "address": "7620 Foothill Rd, Ventura, CA 93004",
+      "phone": "805-647-4181",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 9:30am-10:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "09:30",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "The River Community",
+      "org": "The River Community",
+      "address": "859 E Santa Clara St, Ventura, CA 93001",
+      "phone": "805-648-7955",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 11am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "11:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Two Trees Church of Christ",
+      "org": "Two Trees Church of Christ",
+      "address": "767 N Ventura Ave, Ventura, CA 93001",
+      "phone": "805-667-8695",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Fri 11:30am-12:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Fri"
+          ],
+          "open": "11:30",
+          "close": "12:30"
+        }
+      ]
+    },
+    {
+      "name": "Willett Ranch Senior Apartments",
+      "org": "Willett Ranch Senior Apartments",
+      "address": "55 Willett Street, Ventura, CA 93001",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Thu 1:30pm-2:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu"
+          ],
+          "open": "13:30",
+          "close": "14:30"
+        }
+      ]
+    },
+    {
+      "name": "Calvary Community Church",
+      "org": "Calvary Community Church",
+      "address": "5495 Via Rocas, Westlake Village, CA 91362",
+      "phone": "818-575-2271",
+      "eligibility": "",
+      "website": "https://foodshare.com/findhelp",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 9:30am-10:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "09:30",
+          "close": "10:30"
+        }
+      ]
+    }
+  ]
+}

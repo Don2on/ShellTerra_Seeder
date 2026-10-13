@@ -1,0 +1,11 @@
+{
+  "_comment": "Confirmed near-duplicates found by name-check after round-2 geocode (coarse street#+ZIP key missed them due to adjacent house numbers / a ZIP typo). Fed into --dedupe so they're skipped. Descanso=existing Descanso Branch Library same 9545 River Dr; Chollas View 906 vs existing 904 47th St (same church); Santa Ysabel 110 vs existing 100 School House Canyon; Jacumba 44600 vs existing 44605 Old Hwy 80; Boulevard already has 2 entries; North Coast Pauma ambiguous vs existing 3 Pauma Valley sites.",
+  "vendors": [
+    {"address": "9545 River Drive, Descanso, CA 92016"},
+    {"address": "110 School House Canyon Road, Santa Ysabel, CA 92070"},
+    {"address": "39710 Old Highway 80, Boulevard, CA 91905"},
+    {"address": "44600 Old Highway 80, Jacumba, CA 91934"},
+    {"address": "16418 Nate Harrison Grade, Pauma Valley, CA 92061"},
+    {"address": "906 47th Street, San Diego, CA 92102"}
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "_meta": {
+    "topic": "Net-new Lake County food distributions",
+    "generated": "2026-10-05",
+    "source": "Research supplementing shell PENDING-Lake; raw ./b14-Lake-raw.json."
+  },
+  "_deferred": {
+    "add-clearlake-oaks-community-united-methodist-church": {
+      "title": "Clearlake Oaks Community United Methodist Church",
+      "status": "soup kitchen meal Phone: (707) 998-9435.",
+      "address": "12487 The Plaza, Clearlake Oaks, CA 95423",
+      "lat": 39.023265,
+      "lng": -122.67727,
+      "phone": "(707) 998-9435",
+      "eligibility": "",
+      "sourceUrl": "https://clearlakegleaners.org"
+    },
+    "add-lake-county-helping-hand-clearlake-oaks": {
+      "title": "Lake County Helping Hand - Clearlake Oaks",
+      "status": "2nd & 4th Mon 11:30am Phone: (707) 413-8973.",
+      "address": "13300 CA-20 Suite O, Clearlake Oaks, CA 95423",
+      "lat": 39.026177,
+      "lng": -122.660851,
+      "phone": "(707) 413-8973",
+      "eligibility": "",
+      "sourceUrl": "https://clearlakegleaners.org"
+    },
+    "add-little-red-schoolhouse-clear-lake-gleaners": {
+      "title": "Little Red Schoolhouse (Clear Lake Gleaners)",
+      "status": "date varies Phone: (707) 263-8082.",
+      "address": "15780 Bottle Rock Rd, Cobb, CA 95426",
+      "lat": 38.832158,
+      "lng": -122.733832,
+      "phone": "(707) 263-8082",
+      "eligibility": "",
+      "sourceUrl": "https://clearlakegleaners.org"
+    },
+    "add-kelseyville-presbyterian-church": {
+      "title": "Kelseyville Presbyterian Church",
+      "status": "Twice a month Tue 3:30-5:30pm Phone: (707) 279-1104.",
+      "address": "5340 3rd St, Kelseyville, CA 95451",
+      "lat": 38.97678,
+      "lng": -122.837898,
+      "phone": "(707) 279-1104",
+      "eligibility": "",
+      "sourceUrl": "https://clearlakegleaners.org"
+    }
+  },
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "add-calvary-chapel-of-clearlake-w24-1130",
+      "seriesSlug": "add-calvary-chapel-of-clearlake",
+      "title": "Calvary Chapel of Clearlake — Free Food",
+      "description": "Free food at Calvary Chapel of Clearlake. Schedule: Tue, Thu 11:30 AM–12 PM; Wed 4 PM–6 PM. Call (707) 994-5683 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Calvary Chapel of Clearlake",
+      "address": "14330 Memory Ln, Clearlake, CA 95422",
+      "lat": 38.961635,
+      "lng": -122.644121,
+      "category": "food-assistance",
+      "sourceOrg": "Calvary Chapel of Clearlake",
+      "url": "https://clearlakegleaners.org",
+      "schedulePattern": "Tue, Thu 11:30 AM–12 PM; Wed 4 PM–6 PM",
+      "start": "2026-09-28T11:30",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-calvary-chapel-of-clearlake-w3-1600",
+      "seriesSlug": "add-calvary-chapel-of-clearlake",
+      "title": "Calvary Chapel of Clearlake — Free Food",
+      "description": "Free food at Calvary Chapel of Clearlake. Schedule: Tue, Thu 11:30 AM–12 PM; Wed 4 PM–6 PM. Call (707) 994-5683 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Calvary Chapel of Clearlake",
+      "address": "14330 Memory Ln, Clearlake, CA 95422",
+      "lat": 38.961635,
+      "lng": -122.644121,
+      "category": "food-assistance",
+      "sourceOrg": "Calvary Chapel of Clearlake",
+      "url": "https://clearlakegleaners.org",
+      "schedulePattern": "Tue, Thu 11:30 AM–12 PM; Wed 4 PM–6 PM",
+      "start": "2026-09-28T16:00",
+      "end": "2026-09-28T18:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-first-baptist-church-of-clearlake-w1345-0900",
+      "seriesSlug": "add-first-baptist-church-of-clearlake",
+      "title": "First Baptist Church of Clearlake — Free Food",
+      "description": "Free food at First Baptist Church of Clearlake. Schedule: Mon, Wed–Fri 9 AM–11 AM. Call (707) 994-5148 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "First Baptist Church of Clearlake",
+      "address": "14545 Robinson Ave, Clearlake, CA 95422",
+      "lat": 38.954143,
+      "lng": -122.640837,
+      "category": "food-assistance",
+      "sourceOrg": "First Baptist Church of Clearlake",
+      "url": "https://clearlakegleaners.org",
+      "schedulePattern": "Mon, Wed–Fri 9 AM–11 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-clear-lake-gleaners-finley-distribution-center-w135-0800",
+      "seriesSlug": "add-clear-lake-gleaners-finley-distribution-center",
+      "title": "Clear Lake Gleaners - Finley Distribution Center — Free Food",
+      "description": "Free food at Clear Lake Gleaners - Finley Distribution Center. Schedule: Mon, Wed, Fri 8 AM–11:30 AM; 3rd Thu 8 AM–10 AM. Call (707) 263-8082 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Clear Lake Gleaners - Finley Distribution Center",
+      "address": "1896 Big Valley Rd, Finley, CA 95435",
+      "lat": 39.004124,
+      "lng": -122.875907,
+      "category": "food-assistance",
+      "sourceOrg": "Clear Lake Gleaners - Finley Distribution Center",
+      "url": "https://clearlakegleaners.org",
+      "schedulePattern": "Mon, Wed, Fri 8 AM–11:30 AM; 3rd Thu 8 AM–10 AM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-clear-lake-gleaners-finley-distribution-center-m34-0800",
+      "seriesSlug": "add-clear-lake-gleaners-finley-distribution-center",
+      "title": "Clear Lake Gleaners - Finley Distribution Center — Free Food",
+      "description": "Free food at Clear Lake Gleaners - Finley Distribution Center. Schedule: Mon, Wed, Fri 8 AM–11:30 AM; 3rd Thu 8 AM–10 AM. Call (707) 263-8082 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Clear Lake Gleaners - Finley Distribution Center",
+      "address": "1896 Big Valley Rd, Finley, CA 95435",
+      "lat": 39.004124,
+      "lng": -122.875907,
+      "category": "food-assistance",
+      "sourceOrg": "Clear Lake Gleaners - Finley Distribution Center",
+      "url": "https://clearlakegleaners.org",
+      "schedulePattern": "Mon, Wed, Fri 8 AM–11:30 AM; 3rd Thu 8 AM–10 AM",
+      "start": "2026-10-08T08:00",
+      "end": "2026-10-08T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-clear-lake-gleaners-at-american-legion-hall-m13-0800",
+      "seriesSlug": "add-clear-lake-gleaners-at-american-legion-hall",
+      "title": "Clear Lake Gleaners at American Legion Hall — Free Food",
+      "description": "Free food at Clear Lake Gleaners at American Legion Hall. Schedule: 1st Wed 8 AM–10 AM. Call (707) 263-8082 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Clear Lake Gleaners at American Legion Hall",
+      "address": "5005 2nd St, Kelseyville, CA 95451",
+      "lat": 38.98189,
+      "lng": -122.83831,
+      "category": "food-assistance",
+      "sourceOrg": "Clear Lake Gleaners at American Legion Hall",
+      "url": "https://clearlakegleaners.org",
+      "schedulePattern": "1st Wed 8 AM–10 AM",
+      "start": "2026-10-07T08:00",
+      "end": "2026-10-07T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "1:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-lakeport-community-seventh-day-adventist-church-w3-0930",
+      "seriesSlug": "add-lakeport-community-seventh-day-adventist-church",
+      "title": "Lakeport Community Seventh-day Adventist Church — Free Food",
+      "description": "Free food at Lakeport Community Seventh-day Adventist Church. Schedule: Wed 9:30 AM–11 AM. Call (707) 263-6002 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Lakeport Community Seventh-day Adventist Church",
+      "address": "1111 Park Way, Lakeport, CA 95453",
+      "lat": 39.082327,
+      "lng": -122.925146,
+      "category": "food-assistance",
+      "sourceOrg": "Lakeport Community Seventh-day Adventist Church",
+      "url": "https://clearlakegleaners.org",
+      "schedulePattern": "Wed 9:30 AM–11 AM",
+      "start": "2026-09-28T09:30",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-united-christian-parish-w234-1000",
+      "seriesSlug": "add-united-christian-parish",
+      "title": "United Christian Parish — Free Food",
+      "description": "Free food at United Christian Parish. Schedule: Tue–Thu 10 AM–11 AM. Call (707) 263-4788 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "United Christian Parish",
+      "address": "745 N Brush St, Lakeport, CA 95453",
+      "lat": 39.046772,
+      "lng": -122.918385,
+      "category": "food-assistance",
+      "sourceOrg": "United Christian Parish",
+      "url": "https://clearlakegleaners.org",
+      "schedulePattern": "Tue–Thu 10 AM–11 AM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-lucerne-alpine-senior-center-w5-1000",
+      "seriesSlug": "add-lucerne-alpine-senior-center",
+      "title": "Lucerne Alpine Senior Center — Free Food",
+      "description": "Free food at Lucerne Alpine Senior Center. Schedule: Fri 10 AM–12 PM; 1st Wed & 3rd Thu 8 AM–10 AM. Call (707) 274-8779 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Lucerne Alpine Senior Center",
+      "address": "3985 Country Club Dr, Lucerne, CA 95458",
+      "lat": 39.091142,
+      "lng": -122.792721,
+      "category": "food-assistance",
+      "sourceOrg": "Lucerne Alpine Senior Center",
+      "url": "https://clearlakegleaners.org",
+      "schedulePattern": "Fri 10 AM–12 PM; 1st Wed & 3rd Thu 8 AM–10 AM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-lucerne-alpine-senior-center-m1334-0800",
+      "seriesSlug": "add-lucerne-alpine-senior-center",
+      "title": "Lucerne Alpine Senior Center — Free Food",
+      "description": "Free food at Lucerne Alpine Senior Center. Schedule: Fri 10 AM–12 PM; 1st Wed & 3rd Thu 8 AM–10 AM. Call (707) 274-8779 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Lucerne Alpine Senior Center",
+      "address": "3985 Country Club Dr, Lucerne, CA 95458",
+      "lat": 39.091142,
+      "lng": -122.792721,
+      "category": "food-assistance",
+      "sourceOrg": "Lucerne Alpine Senior Center",
+      "url": "https://clearlakegleaners.org",
+      "schedulePattern": "Fri 10 AM–12 PM; 1st Wed & 3rd Thu 8 AM–10 AM",
+      "start": "2026-10-07T08:00",
+      "end": "2026-10-07T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:3,3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-middletown-community-united-methodist-church-m33-1600",
+      "seriesSlug": "add-middletown-community-united-methodist-church",
+      "title": "Middletown Community United Methodist Church — Free Food",
+      "description": "Free food at Middletown Community United Methodist Church. Schedule: 3rd Wed 4 PM–6 PM. Call (707) 987-3379 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Middletown Community United Methodist Church",
+      "address": "15833 Armstrong St, Middletown, CA 95461",
+      "lat": 38.751244,
+      "lng": -122.614621,
+      "category": "food-assistance",
+      "sourceOrg": "Middletown Community United Methodist Church",
+      "url": "https://clearlakegleaners.org",
+      "schedulePattern": "3rd Wed 4 PM–6 PM",
+      "start": "2026-10-07T16:00",
+      "end": "2026-10-07T18:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-middletown-lions-club-clear-lake-gleaners-m13-0830",
+      "seriesSlug": "add-middletown-lions-club-clear-lake-gleaners",
+      "title": "Middletown Lions Club (Clear Lake Gleaners) — Free Food",
+      "description": "Free food at Middletown Lions Club (Clear Lake Gleaners). Schedule: 1st Wed 8:30 AM–11 AM. Call (707) 987-2862 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Middletown Lions Club (Clear Lake Gleaners)",
+      "address": "15399 Central Park Rd, Middletown, CA 95461",
+      "lat": 38.74528,
+      "lng": -122.62404,
+      "category": "food-assistance",
+      "sourceOrg": "Middletown Lions Club (Clear Lake Gleaners)",
+      "url": "https://clearlakegleaners.org",
+      "schedulePattern": "1st Wed 8:30 AM–11 AM",
+      "start": "2026-10-07T08:30",
+      "end": "2026-10-07T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "1:3"
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "_meta": {
+    "topic": "Net-new Sutter County food distributions",
+    "generated": "2026-10-05",
+    "source": "Research supplementing shell PENDING-Sutter; raw ./SutterAdditions-raw.json."
+  },
+  "_deferred": {
+    "add-calvary-christian-center": {
+      "title": "Calvary Christian Center",
+      "status": "2nd & 4th Sat 12pm until food runs out Phone: 530-673-6035.",
+      "address": "2620 Colusa Highway, Yuba City, CA 95993",
+      "lat": 39.14086,
+      "lng": -121.66466,
+      "phone": "530-673-6035",
+      "eligibility": "",
+      "sourceUrl": "https://www.suttercounty.org"
+    },
+    "add-first-lutheran-church": {
+      "title": "First Lutheran Church",
+      "status": "hot meals Phone: 530-673-8894.",
+      "address": "850 Cooper Ave, Yuba City, CA 95991",
+      "lat": 39.138454,
+      "lng": -121.624318,
+      "phone": "530-673-8894",
+      "eligibility": "",
+      "sourceUrl": "https://www.suttercounty.org"
+    },
+    "add-salvation-army-food-pantry": {
+      "title": "Salvation Army Food Pantry",
+      "status": "3rd Fri 9am until food runs out Phone: 530-216-4530.",
+      "address": "401 Del Norte Ave, Yuba City, CA 95991",
+      "lat": 39.144478,
+      "lng": -121.617914,
+      "phone": "530-216-4530",
+      "eligibility": "",
+      "sourceUrl": "https://www.suttercounty.org"
+    }
+  },
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "add-first-baptist-of-live-oak-m-17-1315",
+      "seriesSlug": "add-first-baptist-of-live-oak",
+      "title": "First Baptist of Live Oak — Free Food",
+      "description": "Free food at First Baptist of Live Oak. Schedule: last Sun 1:15 PM–2:30 PM. Call 530-695-2894 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "First Baptist of Live Oak",
+      "address": "2480 Pennington Rd, Live Oak, CA 95953",
+      "lat": 39.275597,
+      "lng": -121.659606,
+      "category": "food-assistance",
+      "sourceOrg": "First Baptist of Live Oak",
+      "url": "https://www.suttercounty.org",
+      "schedulePattern": "last Sun 1:15 PM–2:30 PM",
+      "start": "2026-10-11T13:15",
+      "end": "2026-10-11T14:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": -1,
+            "dayOfWeek": 7
+          }
+        ]
+      },
+      "recurDays": "-1:7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-meridian-community-church-food-closet-m33-1100",
+      "seriesSlug": "add-meridian-community-church-food-closet",
+      "title": "Meridian Community Church Food Closet — Free Food",
+      "description": "Free food at Meridian Community Church Food Closet. Schedule: 3rd Wed 11 AM–12:30 PM. Call 530-693-1026 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Meridian Community Church Food Closet",
+      "address": "1121 2nd St, Meridian, CA 95957",
+      "lat": 39.14448,
+      "lng": -121.91568,
+      "category": "food-assistance",
+      "sourceOrg": "Meridian Community Church Food Closet",
+      "url": "https://www.suttercounty.org",
+      "schedulePattern": "3rd Wed 11 AM–12:30 PM",
+      "start": "2026-10-07T11:00",
+      "end": "2026-10-07T12:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-be-xtra-community-center-w12345-0900",
+      "seriesSlug": "add-be-xtra-community-center",
+      "title": "Be Xtra Community Center — Free Food",
+      "description": "Free food at Be Xtra Community Center. Schedule: Mon–Fri 9 AM–4 PM. Call 530-301-3867 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Be Xtra Community Center",
+      "address": "1251 E Onstott Rd, Yuba City, CA 95991",
+      "lat": 39.146676,
+      "lng": -121.634228,
+      "category": "food-assistance",
+      "sourceOrg": "Be Xtra Community Center",
+      "url": "https://www.suttercounty.org",
+      "schedulePattern": "Mon–Fri 9 AM–4 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-bride-church-w3-0900",
+      "seriesSlug": "add-the-bride-church",
+      "title": "The Bride Church — Free Food",
+      "description": "Free food at The Bride Church. Schedule: Wed 9 AM–11:30 AM. Call 530-751-0505 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Bride Church",
+      "address": "1321 Peachtree Ln, Yuba City, CA 95993",
+      "lat": 39.151944,
+      "lng": -121.636475,
+      "category": "food-assistance",
+      "sourceOrg": "The Bride Church",
+      "url": "https://www.suttercounty.org",
+      "schedulePattern": "Wed 9 AM–11:30 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-christian-assistance-network-food-pantry-w123-1300",
+      "seriesSlug": "add-christian-assistance-network-food-pantry",
+      "title": "Christian Assistance Network Food Pantry — Free Food",
+      "description": "Free food at Christian Assistance Network Food Pantry. Schedule: Mon–Wed 1 PM–3 PM. Call 530-671-7344 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Christian Assistance Network Food Pantry",
+      "address": "232 Teegarden Ave, Yuba City, CA 95991",
+      "lat": 39.140205,
+      "lng": -121.610168,
+      "category": "food-assistance",
+      "sourceOrg": "Christian Assistance Network Food Pantry",
+      "url": "https://www.suttercounty.org",
+      "schedulePattern": "Mon–Wed 1 PM–3 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-church-of-glad-tidings-w35-0900",
+      "seriesSlug": "add-church-of-glad-tidings",
+      "title": "Church of Glad Tidings — Free Food",
+      "description": "Free food at Church of Glad Tidings. Schedule: Wed, Fri 9 AM–1 PM. Call 530-671-3160 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Church of Glad Tidings",
+      "address": "4444 Live Oak Blvd, Yuba City, CA 95991",
+      "lat": 39.09153,
+      "lng": -121.618737,
+      "category": "food-assistance",
+      "sourceOrg": "Church of Glad Tidings",
+      "url": "https://www.suttercounty.org",
+      "schedulePattern": "Wed, Fri 9 AM–1 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-cornerstone-of-hope-food-pantry-m2646-0900",
+      "seriesSlug": "add-cornerstone-of-hope-food-pantry",
+      "title": "Cornerstone of Hope Food Pantry — Free Food",
+      "description": "Free food at Cornerstone of Hope Food Pantry. Schedule: 2nd Sat & 4th Sat 9 AM–11 AM. Call 530-674-3087 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Cornerstone of Hope Food Pantry",
+      "address": "700 Washington Ave, Yuba City, CA 95991",
+      "lat": 39.14885,
+      "lng": -121.62633,
+      "category": "food-assistance",
+      "sourceOrg": "Cornerstone of Hope Food Pantry",
+      "url": "https://www.suttercounty.org",
+      "schedulePattern": "2nd Sat & 4th Sat 9 AM–11 AM",
+      "start": "2026-10-10T09:00",
+      "end": "2026-10-10T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6,4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-crossroads-community-church-store-house-ministry-w234-1230",
+      "seriesSlug": "add-crossroads-community-church-store-house-ministry",
+      "title": "Crossroads Community Church - Store House Ministry — Free Food",
+      "description": "Free food at Crossroads Community Church - Store House Ministry. Schedule: Tue–Thu 12:30 PM–1:30 PM. Call 530-751-9168 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Crossroads Community Church - Store House Ministry",
+      "address": "445 B Street, Yuba City, CA 95991",
+      "lat": 39.133955,
+      "lng": -121.61372,
+      "category": "food-assistance",
+      "sourceOrg": "Crossroads Community Church - Store House Ministry",
+      "url": "https://www.suttercounty.org",
+      "schedulePattern": "Tue–Thu 12:30 PM–1:30 PM",
+      "start": "2026-09-28T12:30",
+      "end": "2026-09-28T13:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-andrew-presbyterian-mother-hubbard-s-cupboard-w12345-1315",
+      "seriesSlug": "add-st-andrew-presbyterian-mother-hubbard-s-cupboard",
+      "title": "St. Andrew Presbyterian - Mother Hubbard's Cupboard — Free Food",
+      "description": "Free food at St. Andrew Presbyterian - Mother Hubbard's Cupboard. Schedule: Mon–Fri 1:15 PM–3:15 PM. Call 530-673-7353 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Andrew Presbyterian - Mother Hubbard's Cupboard",
+      "address": "1390 Franklin Rd, Yuba City, CA 95993",
+      "lat": 39.126848,
+      "lng": -121.638421,
+      "category": "food-assistance",
+      "sourceOrg": "St. Andrew Presbyterian - Mother Hubbard's Cupboard",
+      "url": "https://www.suttercounty.org",
+      "schedulePattern": "Mon–Fri 1:15 PM–3:15 PM",
+      "start": "2026-09-28T13:15",
+      "end": "2026-09-28T15:15",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-vincent-de-paul-food-locker-w234-0915",
+      "seriesSlug": "add-st-vincent-de-paul-food-locker",
+      "title": "St. Vincent de Paul Food Locker — Free Food",
+      "description": "Free food at St. Vincent de Paul Food Locker. Schedule: Tue–Thu 9:15 AM–11:15 AM. Call 530-671-5154 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Vincent de Paul Food Locker",
+      "address": "222 Clark Ave, Yuba City, CA 95991",
+      "lat": 39.122605,
+      "lng": -121.625488,
+      "category": "food-assistance",
+      "sourceOrg": "St. Vincent de Paul Food Locker",
+      "url": "https://www.suttercounty.org",
+      "schedulePattern": "Tue–Thu 9:15 AM–11:15 AM",
+      "start": "2026-09-28T09:15",
+      "end": "2026-09-28T11:15",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3,4"
+    }
+  ]
+}

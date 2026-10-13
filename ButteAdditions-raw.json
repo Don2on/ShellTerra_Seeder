@@ -1,0 +1,929 @@
+{
+  "_meta": {
+    "topic": "Butte County food distributions",
+    "generated": "2026-10-11",
+    "source": "Hand-collected list (North State Food Bank, Resource Connection, NVC Food Bank, county resource lists, Google). Schedules parsed via LA clause parser. lat/lng geocoded downstream.",
+    "note": "Drop-in raw for prepare-food-additions.mjs. \"Monthly (date varies/call)\" and single start-times route to _deferred (vendor card, no event)."
+  },
+  "sites": [
+    {
+      "name": "Bangor Community Church",
+      "org": "Bangor Community Church",
+      "address": "7419 Oro Bangor Hwy, Bangor, CA 95914",
+      "phone": "(530) 712-2600",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "date varies, call",
+      "schedules": []
+    },
+    {
+      "name": "Hope on the Hill Ministries",
+      "org": "Hope on the Hill Ministries",
+      "address": "1461 Bald Rock Rd, Berry Creek, CA 95916",
+      "phone": "(530) 632-2191",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "date varies",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "15:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Biggs United Methodist Church",
+      "org": "Biggs United Methodist Church",
+      "address": "441 C St, Biggs, CA 95917",
+      "phone": "(530) 868-5381",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "date varies, call",
+      "schedules": []
+    },
+    {
+      "name": "6th Street Center for Youth",
+      "org": "6th Street Center for Youth",
+      "address": "130 W 6th St, Chico, CA 95928",
+      "phone": "(530) 894-8008",
+      "eligibility": "youth 14-24",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Tue, Thu, Fri 10:30am-5:30pm; Wed 12-5:30pm (youth 14-24)",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Thu",
+            "Fri"
+          ],
+          "open": "10:30",
+          "close": "17:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "12:00",
+          "close": "17:30"
+        }
+      ]
+    },
+    {
+      "name": "Catholic Ladies Relief Society",
+      "org": "Catholic Ladies Relief Society",
+      "address": "1386 Longfellow Ave, Chico, CA 95926",
+      "phone": "(530) 895-8331",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "once a month per family",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Chico Gleaners (Fiveco Gleaners Food Bank)",
+      "org": "Chico Gleaners (Fiveco Gleaners Food Bank)",
+      "address": "1436 Nord Ave, Unit D, Chico, CA 95926",
+      "phone": "(530) 895-3006",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 9-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Chico Rescue Mission",
+      "org": "Chico Rescue Mission",
+      "address": "2612 Esplanade, Chico, CA 95973",
+      "phone": "(530) 343-1935",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "food boxes",
+      "schedules": []
+    },
+    {
+      "name": "Christian Life Center",
+      "org": "Christian Life Center",
+      "address": "1492 East Ave, Chico, CA 95926",
+      "phone": "(530) 712-2600",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "date varies, call",
+      "schedules": []
+    },
+    {
+      "name": "Church of Jesus Christ LDS (NSFB drive-thru distribution)",
+      "org": "Church of Jesus Christ LDS (NSFB drive-thru distribution)",
+      "address": "735 W East Ave, Chico, CA 95926",
+      "phone": "(530) 712-2600",
+      "eligibility": "",
+      "website": "https://www.buttecaa.com/north-state-food-bank/distribution-calendar/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Oct 16, 2026; date varies",
+      "schedules": []
+    },
+    {
+      "name": "Faith Lutheran Church",
+      "org": "Faith Lutheran Church",
+      "address": "667 E 1st Ave, Chico, CA 95926",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "verify",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri",
+            "3rd Fri"
+          ],
+          "open": "15:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Free produce stand",
+      "org": "Free produce stand",
+      "address": "129 W 16th St, Chico, CA 95928",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "self-serve produce sharing stand",
+      "schedules": []
+    },
+    {
+      "name": "Hope Commons Food Pantry",
+      "org": "Hope Commons Food Pantry",
+      "address": "1184 East Ave, Chico, CA 95926",
+      "phone": "(530) 342-1806",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 4:30-5:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "16:30",
+          "close": "17:30"
+        }
+      ]
+    },
+    {
+      "name": "Iversen Wellness & Recovery Center",
+      "org": "Iversen Wellness & Recovery Center",
+      "address": "492 Rio Lindo Ave, Chico, CA 95926",
+      "phone": "(530) 879-3311",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Tue 11am-2pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue",
+            "4th Tue"
+          ],
+          "open": "11:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Jesus Center",
+      "org": "Jesus Center",
+      "address": "1297 Park Ave, Chico, CA 95928",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "may now be at 2255 Fair St; verify",
+      "schedules": []
+    },
+    {
+      "name": "Northern Valley Harm Reduction Coalition",
+      "org": "Northern Valley Harm Reduction Coalition",
+      "address": "171 E 18th St, Chico, CA 95928",
+      "phone": "(530) 332-8065",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 12-2pm; Fri 10am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "12:00",
+          "close": "14:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Safe Space",
+      "org": "Safe Space",
+      "address": "1909 Esplanade, Chico, CA 95926",
+      "phone": "(530) 399-3187",
+      "eligibility": "referral and appointment required",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 12-4pm (referral and appointment required)",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "12:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "South Chico Community Assistance Center",
+      "org": "South Chico Community Assistance Center",
+      "address": "1805 Park Ave, Chico, CA 95928",
+      "phone": "(530) 513-6884",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Sat 2-4pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat",
+            "4th Sat"
+          ],
+          "open": "14:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Wildcat Food Pantry (CSU Chico)",
+      "org": "Wildcat Food Pantry (CSU Chico)",
+      "address": "W 2nd St & Hazel St, Chico, CA 95929",
+      "phone": "(530) 898-4098",
+      "eligibility": "student ID required",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "Mon-Fri 10:30am-4:30pm (student ID required)",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "10:30",
+          "close": "16:30"
+        }
+      ]
+    },
+    {
+      "name": "Zion Community Christian Center",
+      "org": "Zion Community Christian Center",
+      "address": "895 Virginia St, Chico, CA 95928",
+      "phone": "(530) 712-2600",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "date varies, call",
+      "schedules": []
+    },
+    {
+      "name": "Grizzly Creek Christian Fellowship",
+      "org": "Grizzly Creek Christian Fellowship",
+      "address": "12140 La Porte Rd, Clipper Mills, CA 95930",
+      "phone": "(530) 712-2600",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "date varies, call",
+      "schedules": []
+    },
+    {
+      "name": "Cohasset Community Hall",
+      "org": "Cohasset Community Hall",
+      "address": "11 Maple Creek Ranch Rd, Cohasset, CA 95973",
+      "phone": "(530) 332-9550",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Wed 11am-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed"
+          ],
+          "open": "11:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Concow Pines Hardware",
+      "org": "Concow Pines Hardware",
+      "address": "11300 Miller Flat Rd, Concow, CA 95965",
+      "phone": "(530) 712-2600",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "date varies, call",
+      "schedules": []
+    },
+    {
+      "name": "I Am's Garden",
+      "org": "I Am's Garden",
+      "address": "13420 Cirby Creek Rd, Concow, CA 95965",
+      "phone": "(530) 828-7131",
+      "eligibility": "Wed is perishables and produce only",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed & Fri 10am-2pm (Wed is perishables and produce only)",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed",
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Feather Falls Quonset Hut",
+      "org": "Feather Falls Quonset Hut",
+      "address": "1834 Lumpkin Rd, Feather Falls, CA 95940",
+      "phone": "(530) 712-2600",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "date varies, call",
+      "schedules": []
+    },
+    {
+      "name": "Forbestown Community Hall",
+      "org": "Forbestown Community Hall",
+      "address": "19100 New York Flat Rd, Forbestown, CA 95941",
+      "phone": "(530) 712-2600",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "date varies, call",
+      "schedules": []
+    },
+    {
+      "name": "Forest Ranch Baptist Church",
+      "org": "Forest Ranch Baptist Church",
+      "address": "4967 Schott Rd, Forest Ranch, CA 95942",
+      "phone": "(530) 712-2600",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "date varies, call",
+      "schedules": []
+    },
+    {
+      "name": "Christian Life Assembly of God",
+      "org": "Christian Life Assembly of God",
+      "address": "1526 Humble Ave, Gridley, CA 95948",
+      "phone": "(530) 846-2358",
+      "eligibility": "one bag per month",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 10am-12pm (one bag per month)",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Gridley United Methodist Church",
+      "org": "Gridley United Methodist Church",
+      "address": "285 Magnolia St, Gridley, CA 95948",
+      "phone": "(530) 846-2520",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "walk up; box given if food is available",
+      "schedules": []
+    },
+    {
+      "name": "NVCSS - Esperanza House",
+      "org": "NVCSS - Esperanza House",
+      "address": "630 Washington St, Gridley, CA 95948",
+      "phone": "(530) 720-2255",
+      "eligibility": "pregnant or caring for a child 0-17",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 1-5pm; Wed 3-5pm; Thu 1-5pm (pregnant or caring for a child 0-17)",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "13:00",
+          "close": "17:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "15:00",
+          "close": "17:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "13:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Timothy's Episcopal Church",
+      "org": "St. Timothy's Episcopal Church",
+      "address": "410 Jackson St, Gridley, CA 95948",
+      "phone": "(530) 712-2600",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "date varies, call",
+      "schedules": []
+    },
+    {
+      "name": "Magalia Community Church",
+      "org": "Magalia Community Church",
+      "address": "13700 Skyway, Magalia, CA 95954",
+      "phone": "(530) 877-7963",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "date varies",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "11:00",
+          "close": "13:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "10:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Butte College Food Pantry (Roadrunner Hub)",
+      "org": "Butte College Food Pantry (Roadrunner Hub)",
+      "address": "3536 Butte Campus Dr, Oroville, CA 95965",
+      "phone": "(530) 895-2978",
+      "eligibility": "student ID required",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Thu 8am-4:30pm; Fri 8-11:30am (student ID required)",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "08:00",
+          "close": "16:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "08:00",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Father's House - Mount of Olives",
+      "org": "Father's House - Mount of Olives",
+      "address": "2833 Fort Wayne St, Oroville, CA 95965",
+      "phone": "(530) 990-6271",
+      "eligibility": "bring photo ID",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 1-2pm (bring photo ID)",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "13:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Feather River Senior Citizens Association Center",
+      "org": "Feather River Senior Citizens Association Center",
+      "address": "1335 Myers St, Oroville, CA 95965",
+      "phone": "(530) 533-8370",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "small donation",
+      "schedules": []
+    },
+    {
+      "name": "New Life Church",
+      "org": "New Life Church",
+      "address": "965 Grand Ave, Oroville, CA 95965",
+      "phone": "(530) 712-2600",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "date varies, call",
+      "schedules": []
+    },
+    {
+      "name": "Oroville Hope Center",
+      "org": "Oroville Hope Center",
+      "address": "2620 S 5th Ave, Oroville, CA 95965",
+      "phone": "(530) 538-8398",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "date varies",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "08:30",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "Oroville Rescue Mission",
+      "org": "Oroville Rescue Mission",
+      "address": "4250 Lincoln Blvd, Oroville, CA 95966",
+      "phone": "(530) 533-9120",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Breakfast daily 6:45-7:30am; lunch 12-1pm",
+      "schedules": []
+    },
+    {
+      "name": "Oroville Salvation Army",
+      "org": "Oroville Salvation Army",
+      "address": "1640 Washington Ave, Oroville, CA 95966",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Thu 10am-12pm and 1-3pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "13:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Oroville Seventh-Day Adventist Church",
+      "org": "Oroville Seventh-Day Adventist Church",
+      "address": "1180 Robinson St, Oroville, CA 95966",
+      "phone": "(530) 533-4461",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "last 3 Tuesdays of the month",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Southside Oroville Community Center (NSFB drive-thru distribution)",
+      "org": "Southside Oroville Community Center (NSFB drive-thru distribution)",
+      "address": "2959 Lower Wyandotte Rd, Oroville, CA 95966",
+      "phone": "(530) 712-2600",
+      "eligibility": "",
+      "website": "https://www.buttecaa.com/north-state-food-bank/distribution-calendar/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Oct 9, 2026; date varies",
+      "schedules": []
+    },
+    {
+      "name": "Palermo Baptist Church",
+      "org": "Palermo Baptist Church",
+      "address": "2290 Kenilworth Ave, Palermo, CA 95968",
+      "phone": "(530) 533-8197",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Thu 11am-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu",
+            "4th Thu"
+          ],
+          "open": "11:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Palermo Community Council",
+      "org": "Palermo Community Council",
+      "address": "2094 Palermo Rd, Palermo, CA 95968",
+      "phone": "(530) 712-2600",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "date varies, call",
+      "schedules": []
+    },
+    {
+      "name": "Blessing Basket Food Pantry",
+      "org": "Blessing Basket Food Pantry",
+      "address": "5872 Oliver Rd, Paradise, CA 95969",
+      "phone": "(530) 877-7006",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue & Fri 12-4pm; commodities 3rd Tue 10-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Fri"
+          ],
+          "open": "12:00",
+          "close": "16:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Tue"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "First Baptist Church of Paradise",
+      "org": "First Baptist Church of Paradise",
+      "address": "6500 Clark Rd, Paradise, CA 95969",
+      "phone": "(530) 877-3532",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "date varies",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "12:00",
+          "close": "16:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "First Christian Church",
+      "org": "First Christian Church",
+      "address": "5738 Pentz Rd, Paradise, CA 95969",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "date varies",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "11:00",
+          "close": "14:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "11:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Paradise Alliance Church",
+      "org": "Paradise Alliance Church",
+      "address": "6491 Clark Rd, Paradise, CA 95969",
+      "phone": "(530) 877-7069",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Community dinner Thu 5:30-6:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "17:30",
+          "close": "18:30"
+        }
+      ]
+    },
+    {
+      "name": "Stirling City Sheep Barn",
+      "org": "Stirling City Sheep Barn",
+      "address": "17131 Manzanita St, Stirling City, CA 95978",
+      "phone": "(530) 712-2600",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "date varies, call",
+      "schedules": []
+    }
+  ]
+}

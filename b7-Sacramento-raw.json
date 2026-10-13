@@ -1,0 +1,1496 @@
+{
+  "_meta": {
+    "topic": "Sacramento County food distributions (batch 7)",
+    "generated": "2026-10-11",
+    "source": "Hand-collected list (Sacramento Food Bank Food Finder, Community Food Bank of San Benito County, Feeding America Riverside-San Bernardino + FIND). Schedules parsed via LA clause parser.",
+    "note": "Sacramento and San Bernardino are ADDITIONS to existing shells (prepare with --existing dedupe + real --shell-id). San Benito is net-new."
+  },
+  "sites": [
+    {
+      "name": "Carmichael Presbyterian Church Food Closet",
+      "org": "Carmichael Presbyterian Church Food Closet",
+      "address": "5645 Marconi Ave, Carmichael, CA 95608",
+      "phone": "916-483-9232",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "congregate meal",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Thu"
+          ],
+          "open": "13:30",
+          "close": "14:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "18:00",
+          "close": "19:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "16:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "San Juan Central - Food Closet",
+      "org": "San Juan Central - Food Closet",
+      "address": "3700 Garfield Avenue Room 14, Carmichael, CA 95608",
+      "phone": "916-979-8878",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "closed holidays",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Sunrise Christian Food Ministry",
+      "org": "Sunrise Christian Food Ministry",
+      "address": "5901 San Juan Avenue, Citrus Heights, CA 95610",
+      "phone": "916-287-1358",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Tue, Thu, Fri 10:30am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Thu",
+            "Fri"
+          ],
+          "open": "10:30",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Elk Grove Food Bank - Window",
+      "org": "Elk Grove Food Bank - Window",
+      "address": "9888 Kent Street, Elk Grove, CA 95624",
+      "phone": "916-685-8453",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 9am-2pm; 4th Wed 9am-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "14:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Wed"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Sunshine Food Pantry",
+      "org": "Sunshine Food Pantry",
+      "address": "571 C Street, Galt, CA 95632",
+      "phone": "209-200-2628",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Thu 7:30am-10am; 4th Fri 7:30am-10am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu"
+          ],
+          "open": "07:30",
+          "close": "10:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Fri"
+          ],
+          "open": "07:30",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "The Salvation Army - Rancho Cordova",
+      "org": "The Salvation Army - Rancho Cordova",
+      "address": "10370 Old Placerville Road Suite 107, Mather, CA 95827",
+      "phone": "916-369-9940",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Wed 10am-2pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Wed"
+          ],
+          "open": "10:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Feeding God's Children",
+      "org": "Feeding God's Children",
+      "address": "5808 Watt Avenue, North Highlands, CA 95660",
+      "phone": "916-803-5233",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "call ahead to reserve a bag",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "08:00",
+          "close": "09:00"
+        }
+      ]
+    },
+    {
+      "name": "Murph-Emmanuel AME Church",
+      "org": "Murph-Emmanuel AME Church",
+      "address": "4151 Don Julio Blvd, North Highlands, CA 95660",
+      "phone": "916-332-7749",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Sat 11am-2pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "11:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "The Salvation Army - Family Service Office",
+      "org": "The Salvation Army - Family Service Office",
+      "address": "3213 Orange Grove Avenue, North Highlands, CA 95660",
+      "phone": "916-678-4010",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue, Wed, Thu 9am-1pm; 4th Mon 9am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "09:00",
+          "close": "13:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Mon"
+          ],
+          "open": "09:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Orangevale SDA",
+      "org": "Orangevale SDA",
+      "address": "5810 Pecan Avenue, Orangevale, CA 95662",
+      "phone": "916-967-2838",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 9am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Orangevale-Fair Oaks Food Bank",
+      "org": "Orangevale-Fair Oaks Food Bank",
+      "address": "6483 Main Avenue, Orangevale, CA 95662",
+      "phone": "916-238-8868",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 11am-1pm; Wed 4:30pm-6:30pm; Thu, Fri 10am-12:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "11:00",
+          "close": "13:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "16:30",
+          "close": "18:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu",
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "12:30"
+        }
+      ]
+    },
+    {
+      "name": "Rancho Cordova Community Food Hub",
+      "org": "Rancho Cordova Community Food Hub",
+      "address": "2771 Don Juan Drive, Rancho Cordova, CA 95670",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ranchocordovafoodlocker.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 11am-3pm; Tue, Wed 9am-1pm; Thu 4pm-7pm; 3rd Sat 9am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "11:00",
+          "close": "15:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Wed"
+          ],
+          "open": "09:00",
+          "close": "13:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "16:00",
+          "close": "19:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "09:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Shelby's Way",
+      "org": "Shelby's Way",
+      "address": "3017 Gold Canal Dr. Suite 500, Rancho Cordova, CA 95670",
+      "phone": "916-800-8934",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 11am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "11:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "The People's Pantry",
+      "org": "The People's Pantry",
+      "address": "2101 Zinfandel Drive, Rancho Cordova, CA 95670",
+      "phone": "916-635-4242",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "drive-thru",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Tue"
+          ],
+          "open": "10:00",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Al-Misbaah",
+      "org": "Al-Misbaah",
+      "address": "2020 Hurley Way Suite 110, Sacramento, CA 95825",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://al-misbaah.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "nonperishables",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Antioch Progressive Church",
+      "org": "Antioch Progressive Church",
+      "address": "7650 Amherst Street, Sacramento, CA 95832",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 8:30am-10:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "08:30",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "Arcade Church",
+      "org": "Arcade Church",
+      "address": "3867 Marconi Ave, Sacramento, CA 95821",
+      "phone": "916-456-1980",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Tue 9am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue",
+            "4th Tue"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "BOSS Church",
+      "org": "BOSS Church",
+      "address": "6965 Luther Drive, Sacramento, CA 95823",
+      "phone": "916-441-6228",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Fri 5pm-7pm; 3rd Sat 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Fri"
+          ],
+          "open": "17:00",
+          "close": "19:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Bridge Network",
+      "org": "Bridge Network",
+      "address": "7851 35th Avenue, Sacramento, CA 95824",
+      "phone": "916-244-1406",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Fri 11am-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Fri",
+            "4th Fri"
+          ],
+          "open": "11:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Calvary Christian Church",
+      "org": "Calvary Christian Church",
+      "address": "2667 Del Paso Blvd, Sacramento, CA 95815",
+      "phone": "916-929-5725",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 11am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Carmichael Seventh-day Adventist Church",
+      "org": "Carmichael Seventh-day Adventist Church",
+      "address": "4694 Pasadena Ave, Sacramento, CA 95841",
+      "phone": "916-487-8684",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 9am-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Christ Chapel Ministries",
+      "org": "Christ Chapel Ministries",
+      "address": "4340 Stockton Blvd, Sacramento, CA 95820",
+      "phone": "279-203-5816",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "call for dates",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Christian Fellowship Ministry",
+      "org": "Christian Fellowship Ministry",
+      "address": "3410 Rio Linda Blvd, Sacramento, CA 95838",
+      "phone": "916-567-1264",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 3pm-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "15:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Common Ground Covenant Church",
+      "org": "Common Ground Covenant Church",
+      "address": "8355 Arroyo Vista Drive, Sacramento, CA 95823",
+      "phone": "916-689-3010",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 8am-11:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "08:00",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Daughters of Zion Enterpryz",
+      "org": "Daughters of Zion Enterpryz",
+      "address": "6524 44th Street Ste 208, Sacramento, CA 95823",
+      "phone": "916-422-3875",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 4:30pm-6:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "16:30",
+          "close": "18:30"
+        }
+      ]
+    },
+    {
+      "name": "G-7 Thy Prescence's School of Faith Ministries",
+      "org": "G-7 Thy Prescence's School of Faith Ministries",
+      "address": "3101 Redding Ave, Sacramento, CA 95820",
+      "phone": "916-642-8181",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "drive-up",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sun"
+          ],
+          "open": "14:00",
+          "close": "15:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Fri"
+          ],
+          "open": "18:30",
+          "close": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "Hart Senior Center",
+      "org": "Hart Senior Center",
+      "address": "915 27th Street, Sacramento, CA 95816",
+      "phone": "916-456-1980",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Wed 9am-10:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Wed"
+          ],
+          "open": "09:00",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "Hope Cooperative (TLCS) - Clubhouse",
+      "org": "Hope Cooperative (TLCS) - Clubhouse",
+      "address": "3737 Marconi Ave, Sacramento, CA 95821",
+      "phone": "916-480-1801",
+      "eligibility": "",
+      "website": "https://hopecoop.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "congregate meals",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "08:30",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "ICNA Relief at the Salam Islamic Center",
+      "org": "ICNA Relief at the Salam Islamic Center",
+      "address": "4545 College Oak Dr, Sacramento, CA 95841",
+      "phone": "866-354-0102",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Sat 9am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "ICNA Relief Resource Center Sacramento",
+      "org": "ICNA Relief Resource Center Sacramento",
+      "address": "5045 College Oak Dr Suite L, Sacramento, CA 95841",
+      "phone": "866-354-0102",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 9am-3pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Joey's Food Locker",
+      "org": "Joey's Food Locker",
+      "address": "3301 Fong Ranch Road, Sacramento, CA 95834",
+      "phone": "916-870-1659",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 4pm-5:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "16:00",
+          "close": "17:30"
+        }
+      ]
+    },
+    {
+      "name": "Mack Road Valley Hi Community Center",
+      "org": "Mack Road Valley Hi Community Center",
+      "address": "7833 Center Parkway, Sacramento, CA 95823",
+      "phone": "916-556-3344",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Wed 3:30pm-5:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Wed",
+            "3rd Wed"
+          ],
+          "open": "15:30",
+          "close": "17:30"
+        }
+      ]
+    },
+    {
+      "name": "Manna Food Bank",
+      "org": "Manna Food Bank",
+      "address": "4840 Marysville Blvd, Sacramento, CA 95838",
+      "phone": "916-922-6442",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "no early entry",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "17:00",
+          "close": "19:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Neighbor Program",
+      "org": "Neighbor Program",
+      "address": "3230 Broadway, Sacramento, CA 95817",
+      "phone": "916-642-9833",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Fri 11am until supplies last",
+      "schedules": []
+    },
+    {
+      "name": "New Hope Community Church",
+      "org": "New Hope Community Church",
+      "address": "1821 Meadowview Road, Sacramento, CA 95832",
+      "phone": "916-422-3370",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "online sign-up from 7am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "12:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "New St. Bethel Baptist Church",
+      "org": "New St. Bethel Baptist Church",
+      "address": "4201 8th Avenue, Sacramento, CA 95817",
+      "phone": "916-838-5329",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Tue 10am-11am; 4th Sat 11am-12:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue",
+            "4th Tue"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Sat"
+          ],
+          "open": "11:00",
+          "close": "12:30"
+        }
+      ]
+    },
+    {
+      "name": "Potters House",
+      "org": "Potters House",
+      "address": "2994 Del Paso Blvd, Sacramento, CA 95815",
+      "phone": "916-905-6268",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "registration 9:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "10:30",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Presentation of the Blessed Virgin Mary",
+      "org": "Presentation of the Blessed Virgin Mary",
+      "address": "4123 Robertson Avenue, Sacramento, CA 95821",
+      "phone": "916-485-3482",
+      "eligibility": "",
+      "website": "https://presentationparish.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue, Thu 9:30am-11:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "open": "09:30",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Progressive COGIC",
+      "org": "Progressive COGIC",
+      "address": "2251 Meadowview Rd, Sacramento, CA 95832",
+      "phone": "916-391-8297",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 11am-12:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "11:00",
+          "close": "12:30"
+        }
+      ]
+    },
+    {
+      "name": "Promise Land Ministries",
+      "org": "Promise Land Ministries",
+      "address": "5540 Martin Luther King Jr Blvd, Sacramento, CA 95820",
+      "phone": "916-670-4520",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Thu 3pm-5pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu",
+            "4th Thu"
+          ],
+          "open": "15:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Purpose & Legacy",
+      "org": "Purpose & Legacy",
+      "address": "5314 Walnut Avenue, Sacramento, CA 95841",
+      "phone": "916-200-3989",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Wed, Fri 11am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed",
+            "Fri"
+          ],
+          "open": "11:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Redeemed Christian Church of God - Redemption Parish",
+      "org": "Redeemed Christian Church of God - Redemption Parish",
+      "address": "548 Display Way, Sacramento, CA 95838",
+      "phone": "916-912-7139",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd week of month 1pm-2pm",
+      "schedules": []
+    },
+    {
+      "name": "River City Food Bank - Midtown",
+      "org": "River City Food Bank - Midtown",
+      "address": "1800 28th Street, Sacramento, CA 95816",
+      "phone": "916-446-2627",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue, Thu 10:30am-1:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "open": "10:30",
+          "close": "13:30"
+        }
+      ]
+    },
+    {
+      "name": "River City Food Bank - St. Matthew's",
+      "org": "River City Food Bank - St. Matthew's",
+      "address": "2300 Edison Avenue, Sacramento, CA 95821",
+      "phone": "916-446-2627",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed, Fri 10:30am-1:30pm; 2nd Mon 10:30am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed",
+            "Fri"
+          ],
+          "open": "10:30",
+          "close": "13:30"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Mon"
+          ],
+          "open": "10:30",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Rose Family Creative Empowerment Center - Providence Place Apts.",
+      "org": "Rose Family Creative Empowerment Center - Providence Place Apts.",
+      "address": "5700 Mack Road, Sacramento, CA 95823",
+      "phone": "916-301-6729",
+      "eligibility": "",
+      "website": "https://rfcecenter.com",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Wed 1pm-3pm; Fri 10am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "open": "13:00",
+          "close": "15:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Sacramento Central SDA Church",
+      "org": "Sacramento Central SDA Church",
+      "address": "6045 Camellia Avenue, Sacramento, CA 95819",
+      "phone": "916-457-6511",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Wed 9am-10:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed",
+            "4th Wed"
+          ],
+          "open": "09:00",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "Sacramento Samoa New Covenant Church",
+      "org": "Sacramento Samoa New Covenant Church",
+      "address": "8115 Elder Creek Road, Sacramento, CA 95824",
+      "phone": "916-241-5769",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 8am-9am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "08:00",
+          "close": "09:00"
+        }
+      ]
+    },
+    {
+      "name": "Shiloh Baptist Church",
+      "org": "Shiloh Baptist Church",
+      "address": "3565 9th Avenue, Sacramento, CA 95817",
+      "phone": "916-664-3850",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 9:30am-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "09:30",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Sierra Arden Neighborhood Food Closet",
+      "org": "Sierra Arden Neighborhood Food Closet",
+      "address": "890 Morse Avenue, Sacramento, CA 95864",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "first 30 families",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "09:30",
+          "close": "11:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "15:30",
+          "close": "17:30"
+        }
+      ]
+    },
+    {
+      "name": "South Natomas Community Center",
+      "org": "South Natomas Community Center",
+      "address": "2921 Truxel Road, Sacramento, CA 95833",
+      "phone": "916-456-1980",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Tue 9am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Tue",
+            "3rd Tue"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Southpointe Christian Center",
+      "org": "Southpointe Christian Center",
+      "address": "7520 Stockton Blvd, Sacramento, CA 95823",
+      "phone": "916-504-3370",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 7:30am-9am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "07:30",
+          "close": "09:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Anne Catholic Church",
+      "org": "St. Anne Catholic Church",
+      "address": "7720 24th Street, Sacramento, CA 95832",
+      "phone": "916-690-5713",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Thu 9am-10am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu"
+          ],
+          "open": "09:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Paul COGIC",
+      "org": "St. Paul COGIC",
+      "address": "2771 Grove Avenue, Sacramento, CA 95815",
+      "phone": "916-869-1899",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 9am-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Philomene",
+      "org": "St. Philomene",
+      "address": "2428 Bell Street, Sacramento, CA 95825",
+      "phone": "916-481-7113",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 6:30pm-7:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "18:30",
+          "close": "19:30"
+        }
+      ]
+    },
+    {
+      "name": "SVDP Presentation",
+      "org": "SVDP Presentation",
+      "address": "4123 Robertson Avenue, Sacramento, CA 95821",
+      "phone": "916-481-7441",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue, Thu 9am-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ],
+      "allowColocated": true
+    },
+    {
+      "name": "Union Gospel Mission",
+      "org": "Union Gospel Mission",
+      "address": "400 Bannon Street, Sacramento, CA 95811",
+      "phone": "916-447-3268",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Thu 9am-9:30am; Tue, Thu 1pm-2pm; Sun 11am-12:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "09:00",
+          "close": "09:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "open": "13:00",
+          "close": "14:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Sun"
+          ],
+          "open": "11:00",
+          "close": "12:30"
+        }
+      ]
+    },
+    {
+      "name": "Wellspring Women's Center",
+      "org": "Wellspring Women's Center",
+      "address": "3414 4th Ave, Sacramento, CA 95817",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 8:30am-11:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "08:30",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Woodside SDA Church",
+      "org": "Woodside SDA Church",
+      "address": "3300 Eastern Ave, Sacramento, CA 95821",
+      "phone": "916-482-6444",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Sat 2pm-4pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat",
+            "4th Sat"
+          ],
+          "open": "14:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Zion Church in Jesus Christ",
+      "org": "Zion Church in Jesus Christ",
+      "address": "3723 Altos Ave, Sacramento, CA 95838",
+      "phone": "916-927-4006",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 2pm-3pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "14:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "South County Services - Main Office",
+      "org": "South County Services - Main Office",
+      "address": "14177 Market Street, Walnut Grove, CA 95690",
+      "phone": "209-745-9174",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Tue, Wed, Fri 8:30am-12pm and 1pm-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Fri"
+          ],
+          "open": "08:30",
+          "close": "12:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Fri"
+          ],
+          "open": "13:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "South County Services - Walnut Grove Library",
+      "org": "South County Services - Walnut Grove Library",
+      "address": "14177 Market Street, Walnut Grove, CA 95690",
+      "phone": "209-745-9174",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 9am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ],
+      "allowColocated": true
+    }
+  ]
+}

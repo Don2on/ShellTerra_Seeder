@@ -1,0 +1,4638 @@
+{
+  "_meta": {
+    "topic": "Net-new Riverside County food distributions",
+    "generated": "2026-10-05",
+    "source": "Research supplementing shell PENDING-Riverside; raw ./RiversideAdditions-raw.json."
+  },
+  "_deferred": {
+    "add-set-free-church-desert-center": {
+      "title": "Set Free Church Desert Center",
+      "status": "Daily 9am-6pm Phone: (760) 718-7571.",
+      "address": "25980 Kaiser Rd, Desert Center, CA 92239",
+      "lat": 33.743893,
+      "lng": -115.396935,
+      "phone": "(760) 718-7571",
+      "eligibility": "",
+      "sourceUrl": "https://findfoodbank.org/map"
+    },
+    "add-iglesia-fraternidad-cristiana": {
+      "title": "Iglesia Fraternidad Cristiana",
+      "status": "Mar-Oct; Nov-Feb Phone: (760) 342-0692.",
+      "address": "83151 Requa Ave, Indio, CA 92201",
+      "lat": 33.717234,
+      "lng": -116.213533,
+      "phone": "(760) 342-0692",
+      "eligibility": "",
+      "sourceUrl": "https://findfoodbank.org/map"
+    },
+    "add-well-in-the-desert": {
+      "title": "Well in the Desert",
+      "status": "Sat 6am until gone; hot lunch Mon-Fri Phone: (760) 656-8905.",
+      "address": "181 N. Indian Canyon, Palm Springs, CA 92262",
+      "lat": 33.824546,
+      "lng": -116.545819,
+      "phone": "(760) 656-8905",
+      "eligibility": "",
+      "sourceUrl": "https://findfoodbank.org/map"
+    },
+    "add-iglesia-un-manantial-en-el-desierto": {
+      "title": "Iglesia Un Manantial en el Desierto",
+      "status": "Every other Thu 8pm Phone: (760) 238-2186.",
+      "address": "99241 Access Rd, North Shore, CA 92254",
+      "lat": 33.51897,
+      "lng": -115.93414,
+      "phone": "(760) 238-2186",
+      "eligibility": "",
+      "sourceUrl": "https://findfoodbank.org/map"
+    },
+    "add-galilee-center": {
+      "title": "Galilee Center",
+      "status": "Thu 3pm until gone Phone: (760) 396-9100.",
+      "address": "66-101 Hammond Rd, Mecca, CA 92254",
+      "lat": 33.56886,
+      "lng": -116.07612,
+      "phone": "(760) 396-9100",
+      "eligibility": "",
+      "sourceUrl": "https://findfoodbank.org/map"
+    },
+    "add-boys-girls-club-indio": {
+      "title": "Boys & Girls Club Indio",
+      "status": "3rd Thu 4pm until food runs out Phone: (760) 836-1160.",
+      "address": "83100 Date Ave, Indio, CA 92201",
+      "lat": 33.71157,
+      "lng": -116.212859,
+      "phone": "(760) 836-1160",
+      "eligibility": "",
+      "sourceUrl": "https://findfoodbank.org/map"
+    },
+    "add-casa-de-oracion-perris": {
+      "title": "Casa de Oracion Perris",
+      "status": "Daily 5pm-7pm (on call only) Phone: (949) 309-7022.",
+      "address": "1895 Weston Rd, Perris, CA 92570",
+      "lat": 33.78949,
+      "lng": -117.25884,
+      "phone": "(949) 309-7022",
+      "eligibility": "on call only",
+      "sourceUrl": "https://feedingamericaie.org/find-a-pantry"
+    }
+  },
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "add-wellspring-church-m26-0700",
+      "seriesSlug": "add-wellspring-church",
+      "title": "Wellspring Church — Free Food",
+      "description": "Free food at Wellspring Church. Schedule: 2nd Sat 7 AM–9 AM. Call (760) 200-2000 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Wellspring Church",
+      "address": "44-175 Washington St, Indian Wells, CA 92210",
+      "lat": 33.727685,
+      "lng": -116.306778,
+      "category": "food-assistance",
+      "sourceOrg": "Wellspring Church",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "2nd Sat 7 AM–9 AM",
+      "start": "2026-10-10T07:00",
+      "end": "2026-10-10T09:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-find-mobile-market-rancho-las-flores-park-m35-0700",
+      "seriesSlug": "add-find-mobile-market-rancho-las-flores-park",
+      "title": "FIND Mobile Market - Rancho Las Flores Park — Free Food",
+      "description": "Free food at FIND Mobile Market - Rancho Las Flores Park. Schedule: 3rd Fri 7 AM–9 AM. Call (760) 775-3663 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "FIND Mobile Market - Rancho Las Flores Park",
+      "address": "48400 Van Buren St, Coachella, CA 92236",
+      "lat": 33.69686,
+      "lng": -116.199007,
+      "category": "food-assistance",
+      "sourceOrg": "FIND Mobile Market - Rancho Las Flores Park",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "3rd Fri 7 AM–9 AM",
+      "start": "2026-10-09T07:00",
+      "end": "2026-10-09T09:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-find-mobile-market-oasis-elementary-school-m2545-1600",
+      "seriesSlug": "add-find-mobile-market-oasis-elementary-school",
+      "title": "FIND Mobile Market - Oasis Elementary School — Free Food",
+      "description": "Free food at FIND Mobile Market - Oasis Elementary School. Schedule: 2nd Fri & 4th Fri 4 PM–6 PM. Call (760) 775-3663 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "FIND Mobile Market - Oasis Elementary School",
+      "address": "88175 74th Ave, Thermal, CA 92274",
+      "lat": 33.50987,
+      "lng": -116.127771,
+      "category": "food-assistance",
+      "sourceOrg": "FIND Mobile Market - Oasis Elementary School",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "2nd Fri & 4th Fri 4 PM–6 PM",
+      "start": "2026-10-09T16:00",
+      "end": "2026-10-09T18:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "2:5,4:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-find-mobile-market-north-shore-community-park-m42-1600",
+      "seriesSlug": "add-find-mobile-market-north-shore-community-park",
+      "title": "FIND Mobile Market - North Shore Community Park — Free Food",
+      "description": "Free food at FIND Mobile Market - North Shore Community Park. Schedule: 4th Tue 4 PM–6 PM. Call (760) 775-3663 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "FIND Mobile Market - North Shore Community Park",
+      "address": "99480 70th Ave, Mecca, CA 92254",
+      "lat": 33.540859,
+      "lng": -115.932162,
+      "category": "food-assistance",
+      "sourceOrg": "FIND Mobile Market - North Shore Community Park",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "4th Tue 4 PM–6 PM",
+      "start": "2026-10-06T16:00",
+      "end": "2026-10-06T18:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "4:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-find-mobile-market-la-quinta-library-m46-0700",
+      "seriesSlug": "add-find-mobile-market-la-quinta-library",
+      "title": "FIND Mobile Market - La Quinta Library — Free Food",
+      "description": "Free food at FIND Mobile Market - La Quinta Library. Schedule: 4th Sat 7 AM–9 AM. Eligibility: walk-up, seniors only. Call (760) 775-3663 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "FIND Mobile Market - La Quinta Library",
+      "address": "78275 Calle Tampico, La Quinta, CA 92253",
+      "lat": 33.677655,
+      "lng": -116.298906,
+      "category": "food-assistance",
+      "sourceOrg": "FIND Mobile Market - La Quinta Library",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "4th Sat 7 AM–9 AM",
+      "start": "2026-10-10T07:00",
+      "end": "2026-10-10T09:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-set-free-church-blythe-w12345-0900",
+      "seriesSlug": "add-set-free-church-blythe",
+      "title": "Set Free Church Blythe — Free Food",
+      "description": "Free food at Set Free Church Blythe. Schedule: Mon–Fri 9 AM–3 PM; Sat 9 AM–3 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Set Free Church Blythe",
+      "address": "350 N. Palm Dr, Blythe, CA 92225",
+      "lat": 33.615067,
+      "lng": -114.603178,
+      "category": "food-assistance",
+      "sourceOrg": "Set Free Church Blythe",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "Mon–Fri 9 AM–3 PM; Sat 9 AM–3 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-set-free-church-blythe-w6-0900",
+      "seriesSlug": "add-set-free-church-blythe",
+      "title": "Set Free Church Blythe — Free Food",
+      "description": "Free food at Set Free Church Blythe. Schedule: Mon–Fri 9 AM–3 PM; Sat 9 AM–3 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Set Free Church Blythe",
+      "address": "350 N. Palm Dr, Blythe, CA 92225",
+      "lat": 33.615067,
+      "lng": -114.603178,
+      "category": "food-assistance",
+      "sourceOrg": "Set Free Church Blythe",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "Mon–Fri 9 AM–3 PM; Sat 9 AM–3 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-idyllwild-forest-health-project-m2444-1200",
+      "seriesSlug": "add-idyllwild-forest-health-project",
+      "title": "Idyllwild Forest Health Project — Free Food",
+      "description": "Free food at Idyllwild Forest Health Project. Schedule: 2nd Thu & 4th Thu 12 PM–2 PM. Call (951) 468-0110 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Idyllwild Forest Health Project",
+      "address": "54162 Maranatha Dr, Idyllwild-Pine Cove, CA 92549",
+      "lat": 33.7498,
+      "lng": -116.71783,
+      "category": "food-assistance",
+      "sourceOrg": "Idyllwild Forest Health Project",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "2nd Thu & 4th Thu 12 PM–2 PM",
+      "start": "2026-10-08T12:00",
+      "end": "2026-10-08T14:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "2:4,4:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-first-baptist-church-indio-w1-0830",
+      "seriesSlug": "add-first-baptist-church-indio",
+      "title": "First Baptist Church Indio — Free Food",
+      "description": "Free food at First Baptist Church Indio. Schedule: Mon 8:30 AM–9:30 AM. Call (760) 342-6299 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "First Baptist Church Indio",
+      "address": "82490 Doctor Carreon Blvd, Indio, CA 92201",
+      "lat": 33.70782,
+      "lng": -116.22597,
+      "category": "food-assistance",
+      "sourceOrg": "First Baptist Church Indio",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "Mon 8:30 AM–9:30 AM",
+      "start": "2026-09-28T08:30",
+      "end": "2026-09-28T09:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-desert-hot-springs-senior-center-m33-0900",
+      "seriesSlug": "add-desert-hot-springs-senior-center",
+      "title": "Desert Hot Springs Senior Center — Free Food",
+      "description": "Free food at Desert Hot Springs Senior Center. Schedule: 3rd Wed 9 AM–11 AM. Eligibility: age 55+ only. Call (760) 329-0222 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Desert Hot Springs Senior Center",
+      "address": "11777 West Dr, Desert Hot Springs, CA 92240",
+      "lat": 33.962824,
+      "lng": -116.510838,
+      "category": "food-assistance",
+      "sourceOrg": "Desert Hot Springs Senior Center",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "3rd Wed 9 AM–11 AM",
+      "start": "2026-10-07T09:00",
+      "end": "2026-10-07T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-ripley-center-m33-0800",
+      "seriesSlug": "add-ripley-center",
+      "title": "Ripley Center — Free Food",
+      "description": "Free food at Ripley Center. Schedule: 3rd Wed 8 AM–10 AM. Call (760) 922-9873 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Ripley Center",
+      "address": "24501 School Rd, Ripley, CA 92225",
+      "lat": 33.526849,
+      "lng": -114.661151,
+      "category": "food-assistance",
+      "sourceOrg": "Ripley Center",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "3rd Wed 8 AM–10 AM",
+      "start": "2026-10-07T08:00",
+      "end": "2026-10-07T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-la-mision-de-san-juan-diego-m12-1700",
+      "seriesSlug": "add-la-mision-de-san-juan-diego",
+      "title": "La Mision de San Juan Diego — Free Food",
+      "description": "Free food at La Mision de San Juan Diego. Schedule: 1st Tue 5 PM–6 PM. Call (760) 899-2012 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "La Mision de San Juan Diego",
+      "address": "100110 Compass Dr, North Shore, CA 92254",
+      "lat": 33.524898,
+      "lng": -115.920846,
+      "category": "food-assistance",
+      "sourceOrg": "La Mision de San Juan Diego",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "1st Tue 5 PM–6 PM",
+      "start": "2026-10-06T17:00",
+      "end": "2026-10-06T18:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "1:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-louis-rey-church-m15-0900",
+      "seriesSlug": "add-st-louis-rey-church",
+      "title": "St. Louis Rey Church — Free Food",
+      "description": "Free food at St. Louis Rey Church. Schedule: 1st Fri 9 AM–10 AM. Call (760) 844-6629 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Louis Rey Church",
+      "address": "68633 C St, Cathedral City, CA 92234",
+      "lat": 33.777381,
+      "lng": -116.46431,
+      "category": "food-assistance",
+      "sourceOrg": "St. Louis Rey Church",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "1st Fri 9 AM–10 AM",
+      "start": "2026-10-09T09:00",
+      "end": "2026-10-09T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "1:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-grace-church-dhs-m12-1700",
+      "seriesSlug": "add-grace-church-dhs",
+      "title": "Grace Church DHS — Free Food",
+      "description": "Free food at Grace Church DHS. Schedule: 1st Tue 5 PM–6 PM. Call (760) 251-2416 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Grace Church DHS",
+      "address": "17400 Bubbling Wells Rd, Desert Hot Springs, CA 92241",
+      "lat": 33.921588,
+      "lng": -116.484038,
+      "category": "food-assistance",
+      "sourceOrg": "Grace Church DHS",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "1st Tue 5 PM–6 PM",
+      "start": "2026-10-06T17:00",
+      "end": "2026-10-06T18:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "1:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-find-mobile-market-sky-valley-community-center-m32-1600",
+      "seriesSlug": "add-find-mobile-market-sky-valley-community-center",
+      "title": "FIND Mobile Market - Sky Valley Community Center — Free Food",
+      "description": "Free food at FIND Mobile Market - Sky Valley Community Center. Schedule: 3rd Tue 4 PM–5 PM. Call (760) 775-3663 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "FIND Mobile Market - Sky Valley Community Center",
+      "address": "20905 Hot Springs Rd, Desert Hot Springs, CA 92241",
+      "lat": 33.89685,
+      "lng": -116.35392,
+      "category": "food-assistance",
+      "sourceOrg": "FIND Mobile Market - Sky Valley Community Center",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "3rd Tue 4 PM–5 PM",
+      "start": "2026-10-06T16:00",
+      "end": "2026-10-06T17:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "3:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-find-mobile-market-desert-mirage-high-school-m33-1600",
+      "seriesSlug": "add-find-mobile-market-desert-mirage-high-school",
+      "title": "FIND Mobile Market - Desert Mirage High School — Free Food",
+      "description": "Free food at FIND Mobile Market - Desert Mirage High School. Schedule: 3rd Wed 4 PM–6 PM. Call (760) 775-3663 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "FIND Mobile Market - Desert Mirage High School",
+      "address": "86150 Ave 66, Thermal, CA 92274",
+      "lat": 33.571038,
+      "lng": -116.162992,
+      "category": "food-assistance",
+      "sourceOrg": "FIND Mobile Market - Desert Mirage High School",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "3rd Wed 4 PM–6 PM",
+      "start": "2026-10-07T16:00",
+      "end": "2026-10-07T18:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-find-mobile-market-cabot-yerxa-elementary-school-m41-0900",
+      "seriesSlug": "add-find-mobile-market-cabot-yerxa-elementary-school",
+      "title": "FIND Mobile Market - Cabot Yerxa Elementary School — Free Food",
+      "description": "Free food at FIND Mobile Market - Cabot Yerxa Elementary School. Schedule: 4th Mon 9 AM–11 AM. Call (760) 775-3663 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "FIND Mobile Market - Cabot Yerxa Elementary School",
+      "address": "67067 Desert View Ave, Desert Hot Springs, CA 92240",
+      "lat": 33.957252,
+      "lng": -116.491382,
+      "category": "food-assistance",
+      "sourceOrg": "FIND Mobile Market - Cabot Yerxa Elementary School",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "4th Mon 9 AM–11 AM",
+      "start": "2026-10-05T09:00",
+      "end": "2026-10-05T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "4:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-find-mobile-market-coachella-valley-high-school-m11-1100",
+      "seriesSlug": "add-find-mobile-market-coachella-valley-high-school",
+      "title": "FIND Mobile Market - Coachella Valley High School — Free Food",
+      "description": "Free food at FIND Mobile Market - Coachella Valley High School. Schedule: 1st Mon 11 AM–12 PM. Call (760) 775-3663 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "FIND Mobile Market - Coachella Valley High School",
+      "address": "83800 Airport Blvd, Thermal, CA 92274",
+      "lat": 33.643125,
+      "lng": -116.200343,
+      "category": "food-assistance",
+      "sourceOrg": "FIND Mobile Market - Coachella Valley High School",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "1st Mon 11 AM–12 PM",
+      "start": "2026-10-05T11:00",
+      "end": "2026-10-05T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "1:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-desert-chapel-m2646-0700",
+      "seriesSlug": "add-desert-chapel",
+      "title": "Desert Chapel — Free Food",
+      "description": "Free food at Desert Chapel. Schedule: 2nd Sat & 4th Sat 7 AM–8 AM. Call (760) 327-2772 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Desert Chapel",
+      "address": "630 S. Sunrise Way, Palm Springs, CA 92264",
+      "lat": 33.812655,
+      "lng": -116.527781,
+      "category": "food-assistance",
+      "sourceOrg": "Desert Chapel",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "2nd Sat & 4th Sat 7 AM–8 AM",
+      "start": "2026-10-10T07:00",
+      "end": "2026-10-10T08:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6,4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-theresa-s-catholic-church-w1-0730",
+      "seriesSlug": "add-st-theresa-s-catholic-church",
+      "title": "St. Theresa's Catholic Church — Free Food",
+      "description": "Free food at St. Theresa's Catholic Church. Schedule: Mon 7:30 AM–11:30 AM. Call (760) 323-2669 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Theresa's Catholic Church",
+      "address": "2800 E. Ramon Rd, Palm Springs, CA 92264",
+      "lat": 33.816235,
+      "lng": -116.516964,
+      "category": "food-assistance",
+      "sourceOrg": "St. Theresa's Catholic Church",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "Mon 7:30 AM–11:30 AM",
+      "start": "2026-09-28T07:30",
+      "end": "2026-09-28T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-center-the-community-food-bank-w4-1700",
+      "seriesSlug": "add-the-center-the-community-food-bank",
+      "title": "The Center - The Community Food Bank — Free Food",
+      "description": "Free food at The Center - The Community Food Bank. Schedule: Thu 5 PM–7 PM. Call (760) 416-7790 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Center - The Community Food Bank",
+      "address": "2901 E. Alejo Rd, Palm Springs, CA 92262",
+      "lat": 33.829344,
+      "lng": -116.512902,
+      "category": "food-assistance",
+      "sourceOrg": "The Center - The Community Food Bank",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "Thu 5 PM–7 PM",
+      "start": "2026-09-28T17:00",
+      "end": "2026-09-28T19:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-find-mobile-market-james-o-jessie-desert-highlan-m2444-1600",
+      "seriesSlug": "add-find-mobile-market-james-o-jessie-desert-highlan",
+      "title": "FIND Mobile Market - James O. Jessie Desert Highlands Unity Center — Free Food",
+      "description": "Free food at FIND Mobile Market - James O. Jessie Desert Highlands Unity Center. Schedule: 2nd Thu & 4th Thu 4 PM–6 PM. Call (760) 775-3663 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "FIND Mobile Market - James O. Jessie Desert Highlands Unity Center",
+      "address": "480 W Tramview Rd, Palm Springs, CA 92262",
+      "lat": 33.867833,
+      "lng": -116.552381,
+      "category": "food-assistance",
+      "sourceOrg": "FIND Mobile Market - James O. Jessie Desert Highlands Unity Center",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "2nd Thu & 4th Thu 4 PM–6 PM",
+      "start": "2026-10-08T16:00",
+      "end": "2026-10-08T18:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "2:4,4:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-find-mobile-market-palm-springs-convention-cente-m14-1600",
+      "seriesSlug": "add-find-mobile-market-palm-springs-convention-cente",
+      "title": "FIND Mobile Market - Palm Springs Convention Center — Free Food",
+      "description": "Free food at FIND Mobile Market - Palm Springs Convention Center. Schedule: 1st Thu 4 PM–5:30 PM. Call (760) 775-3663 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "FIND Mobile Market - Palm Springs Convention Center",
+      "address": "277 N. Avenida Caballeros, Palm Springs, CA 92262",
+      "lat": 33.825858,
+      "lng": -116.538176,
+      "category": "food-assistance",
+      "sourceOrg": "FIND Mobile Market - Palm Springs Convention Center",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "1st Thu 4 PM–5:30 PM",
+      "start": "2026-10-08T16:00",
+      "end": "2026-10-08T17:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-palm-desert-oasis-church-w6-0730",
+      "seriesSlug": "add-palm-desert-oasis-church",
+      "title": "Palm Desert Oasis Church — Free Food",
+      "description": "Free food at Palm Desert Oasis Church. Schedule: Sat 7:30 AM–8:30 AM. Call (760) 568-0809 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Palm Desert Oasis Church",
+      "address": "74-200 Country Club Dr, Palm Desert, CA 92260",
+      "lat": 33.758789,
+      "lng": -116.371082,
+      "category": "food-assistance",
+      "sourceOrg": "Palm Desert Oasis Church",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "Sat 7:30 AM–8:30 AM",
+      "start": "2026-09-28T07:30",
+      "end": "2026-09-28T08:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-joslyn-center-w5-0800",
+      "seriesSlug": "add-the-joslyn-center",
+      "title": "The Joslyn Center — Free Food",
+      "description": "Free food at The Joslyn Center. Schedule: Fri 8 AM–10 AM. Call (760) 895-4652 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Joslyn Center",
+      "address": "73-750 Catalina Way, Palm Desert, CA 92260",
+      "lat": 33.726518,
+      "lng": -116.378769,
+      "category": "food-assistance",
+      "sourceOrg": "The Joslyn Center",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "Fri 8 AM–10 AM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T10:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-john-s-lutheran-church-m36-0700",
+      "seriesSlug": "add-st-john-s-lutheran-church",
+      "title": "St. John's Lutheran Church — Free Food",
+      "description": "Free food at St. John's Lutheran Church. Schedule: 3rd Sat 7 AM–8 AM. Call (760) 345-2122 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. John's Lutheran Church",
+      "address": "42-695 Washington St, Palm Desert, CA 92211",
+      "lat": 33.73836,
+      "lng": -116.3043,
+      "category": "food-assistance",
+      "sourceOrg": "St. John's Lutheran Church",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "3rd Sat 7 AM–8 AM",
+      "start": "2026-10-10T07:00",
+      "end": "2026-10-10T08:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-margaret-s-church-neighbors-4-neighbors-w2-1000",
+      "seriesSlug": "add-st-margaret-s-church-neighbors-4-neighbors",
+      "title": "St. Margaret's Church Neighbors 4 Neighbors — Free Food",
+      "description": "Free food at St. Margaret's Church Neighbors 4 Neighbors. Schedule: Tue 10 AM–5 PM. Call (760) 346-2697 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Margaret's Church Neighbors 4 Neighbors",
+      "address": "47-535 Hwy 74, Palm Desert, CA 92260",
+      "lat": 33.70344,
+      "lng": -116.39781,
+      "category": "food-assistance",
+      "sourceOrg": "St. Margaret's Church Neighbors 4 Neighbors",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "Tue 10 AM–5 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-find-mobile-market-palm-desert-high-school-m43-1630",
+      "seriesSlug": "add-find-mobile-market-palm-desert-high-school",
+      "title": "FIND Mobile Market - Palm Desert High School — Free Food",
+      "description": "Free food at FIND Mobile Market - Palm Desert High School. Schedule: 4th Wed 4:30 PM–6 PM. Call (760) 775-3663 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "FIND Mobile Market - Palm Desert High School",
+      "address": "74910 Aztec Rd, Palm Desert, CA 92260",
+      "lat": 33.733003,
+      "lng": -116.358698,
+      "category": "food-assistance",
+      "sourceOrg": "FIND Mobile Market - Palm Desert High School",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "4th Wed 4:30 PM–6 PM",
+      "start": "2026-10-07T16:30",
+      "end": "2026-10-07T18:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "4:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-catholic-charities-site-2-w3-0800",
+      "seriesSlug": "add-catholic-charities-site-2",
+      "title": "Catholic Charities Site #2 — Free Food",
+      "description": "Free food at Catholic Charities Site #2. Schedule: Wed 8 AM–9:15 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Catholic Charities Site #2",
+      "address": "99-155 Sea View Dr, Mecca, CA 92254",
+      "lat": 33.51946,
+      "lng": -115.937652,
+      "category": "food-assistance",
+      "sourceOrg": "Catholic Charities Site #2",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "Wed 8 AM–9:15 AM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T09:15",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-catholic-charities-site-1-w3-0800",
+      "seriesSlug": "add-catholic-charities-site-1",
+      "title": "Catholic Charities Site #1 — Free Food",
+      "description": "Free food at Catholic Charities Site #1. Schedule: Wed 8 AM–9:15 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Catholic Charities Site #1",
+      "address": "65-050 Cahuilla St, Mecca, CA 92254",
+      "lat": 33.575475,
+      "lng": -116.07548,
+      "category": "food-assistance",
+      "sourceOrg": "Catholic Charities Site #1",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "Wed 8 AM–9:15 AM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T09:15",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-community-food-pantry-w135-0930",
+      "seriesSlug": "add-community-food-pantry",
+      "title": "Community Food Pantry — Free Food",
+      "description": "Free food at Community Food Pantry. Schedule: Mon, Wed, Fri 9:30 AM–11:30 AM; 2nd Wed & 4th Wed 5 PM–6:30 PM; 1st Sat 9:30 AM–11:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Community Food Pantry",
+      "address": "81050 Harrison St, Thermal, CA 92274",
+      "lat": 33.462017,
+      "lng": -116.096,
+      "category": "food-assistance",
+      "sourceOrg": "Community Food Pantry",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "Mon, Wed, Fri 9:30 AM–11:30 AM; 2nd Wed & 4th Wed 5 PM–6:30 PM; 1st Sat 9:30 AM–11:30 AM",
+      "start": "2026-09-28T09:30",
+      "end": "2026-09-28T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-community-food-pantry-m2343-1700",
+      "seriesSlug": "add-community-food-pantry",
+      "title": "Community Food Pantry — Free Food",
+      "description": "Free food at Community Food Pantry. Schedule: Mon, Wed, Fri 9:30 AM–11:30 AM; 2nd Wed & 4th Wed 5 PM–6:30 PM; 1st Sat 9:30 AM–11:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Community Food Pantry",
+      "address": "81050 Harrison St, Thermal, CA 92274",
+      "lat": 33.462017,
+      "lng": -116.096,
+      "category": "food-assistance",
+      "sourceOrg": "Community Food Pantry",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "Mon, Wed, Fri 9:30 AM–11:30 AM; 2nd Wed & 4th Wed 5 PM–6:30 PM; 1st Sat 9:30 AM–11:30 AM",
+      "start": "2026-10-07T17:00",
+      "end": "2026-10-07T18:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "2:3,4:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-community-food-pantry-m16-0930",
+      "seriesSlug": "add-community-food-pantry",
+      "title": "Community Food Pantry — Free Food",
+      "description": "Free food at Community Food Pantry. Schedule: Mon, Wed, Fri 9:30 AM–11:30 AM; 2nd Wed & 4th Wed 5 PM–6:30 PM; 1st Sat 9:30 AM–11:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Community Food Pantry",
+      "address": "81050 Harrison St, Thermal, CA 92274",
+      "lat": 33.462017,
+      "lng": -116.096,
+      "category": "food-assistance",
+      "sourceOrg": "Community Food Pantry",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "Mon, Wed, Fri 9:30 AM–11:30 AM; 2nd Wed & 4th Wed 5 PM–6:30 PM; 1st Sat 9:30 AM–11:30 AM",
+      "start": "2026-10-10T09:30",
+      "end": "2026-10-10T11:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "1:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-coachella-valley-rescue-mission-w3-0800",
+      "seriesSlug": "add-coachella-valley-rescue-mission",
+      "title": "Coachella Valley Rescue Mission — Free Food",
+      "description": "Free food at Coachella Valley Rescue Mission. Schedule: Wed 8 AM–10 AM. Call (760) 347-3512 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Coachella Valley Rescue Mission",
+      "address": "47-470 Van Buren St, Indio, CA 92201",
+      "lat": 33.704304,
+      "lng": -116.198276,
+      "category": "food-assistance",
+      "sourceOrg": "Coachella Valley Rescue Mission",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "Wed 8 AM–10 AM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T10:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-destiny-church-w6-0800",
+      "seriesSlug": "add-destiny-church",
+      "title": "Destiny Church — Free Food",
+      "description": "Free food at Destiny Church. Schedule: Sat 8 AM–9 AM. Call (760) 863-0700 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Destiny Church",
+      "address": "82625 Showcase Parkway, Indio, CA 92203",
+      "lat": 33.741661,
+      "lng": -116.222901,
+      "category": "food-assistance",
+      "sourceOrg": "Destiny Church",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "Sat 8 AM–9 AM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T09:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-iglesia-bethel-m15-1830",
+      "seriesSlug": "add-iglesia-bethel",
+      "title": "Iglesia Bethel — Free Food",
+      "description": "Free food at Iglesia Bethel. Schedule: 1st Fri 6:30 PM–8 PM. Call (760) 574-8065 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Iglesia Bethel",
+      "address": "43-907 Jackson St, Indio, CA 92201",
+      "lat": 33.73013,
+      "lng": -116.21655,
+      "category": "food-assistance",
+      "sourceOrg": "Iglesia Bethel",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "1st Fri 6:30 PM–8 PM",
+      "start": "2026-10-09T18:30",
+      "end": "2026-10-09T20:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "1:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-martha-s-village-kitchen-m33-0800",
+      "seriesSlug": "add-martha-s-village-kitchen",
+      "title": "Martha's Village & Kitchen — Free Food",
+      "description": "Free food at Martha's Village & Kitchen. Schedule: 3rd Wed 8 AM–10 AM; Mon–Fri 8 AM–10 AM; Mon–Fri 1 PM–3 PM. Call (760) 347-4741 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Martha's Village & Kitchen",
+      "address": "83791 Date Ave, Indio, CA 92201",
+      "lat": 33.710782,
+      "lng": -116.204987,
+      "category": "food-assistance",
+      "sourceOrg": "Martha's Village & Kitchen",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "3rd Wed 8 AM–10 AM; Mon–Fri 8 AM–10 AM; Mon–Fri 1 PM–3 PM",
+      "start": "2026-10-07T08:00",
+      "end": "2026-10-07T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-martha-s-village-kitchen-w12345-0800",
+      "seriesSlug": "add-martha-s-village-kitchen",
+      "title": "Martha's Village & Kitchen — Free Food",
+      "description": "Free food at Martha's Village & Kitchen. Schedule: 3rd Wed 8 AM–10 AM; Mon–Fri 8 AM–10 AM; Mon–Fri 1 PM–3 PM. Call (760) 347-4741 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Martha's Village & Kitchen",
+      "address": "83791 Date Ave, Indio, CA 92201",
+      "lat": 33.710782,
+      "lng": -116.204987,
+      "category": "food-assistance",
+      "sourceOrg": "Martha's Village & Kitchen",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "3rd Wed 8 AM–10 AM; Mon–Fri 8 AM–10 AM; Mon–Fri 1 PM–3 PM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T10:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-martha-s-village-kitchen-w12345-1300",
+      "seriesSlug": "add-martha-s-village-kitchen",
+      "title": "Martha's Village & Kitchen — Free Food",
+      "description": "Free food at Martha's Village & Kitchen. Schedule: 3rd Wed 8 AM–10 AM; Mon–Fri 8 AM–10 AM; Mon–Fri 1 PM–3 PM. Call (760) 347-4741 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Martha's Village & Kitchen",
+      "address": "83791 Date Ave, Indio, CA 92201",
+      "lat": 33.710782,
+      "lng": -116.204987,
+      "category": "food-assistance",
+      "sourceOrg": "Martha's Village & Kitchen",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "3rd Wed 8 AM–10 AM; Mon–Fri 8 AM–10 AM; Mon–Fri 1 PM–3 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-john-s-episcopal-church-m44-1430",
+      "seriesSlug": "add-st-john-s-episcopal-church",
+      "title": "St. John's Episcopal Church — Free Food",
+      "description": "Free food at St. John's Episcopal Church. Schedule: 4th Thu 2:30 PM–5:30 PM. Call (760) 347-3265 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. John's Episcopal Church",
+      "address": "45319 Deglet Noor St, Indio, CA 92201",
+      "lat": 33.718946,
+      "lng": -116.223702,
+      "category": "food-assistance",
+      "sourceOrg": "St. John's Episcopal Church",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "4th Thu 2:30 PM–5:30 PM",
+      "start": "2026-10-08T14:30",
+      "end": "2026-10-08T17:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "4:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-love-of-christ-m25-1830",
+      "seriesSlug": "add-love-of-christ",
+      "title": "Love of Christ — Free Food",
+      "description": "Free food at Love of Christ. Schedule: 2nd Fri 6:30 PM–7:30 PM. Call (760) 777-2825 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Love of Christ",
+      "address": "43640 Burr St, Indio, CA 92201",
+      "lat": 33.73271,
+      "lng": -116.25984,
+      "category": "food-assistance",
+      "sourceOrg": "Love of Christ",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "2nd Fri 6:30 PM–7:30 PM",
+      "start": "2026-10-09T18:30",
+      "end": "2026-10-09T19:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "2:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-find-mobile-market-shadow-hills-high-school-m16-0800",
+      "seriesSlug": "add-find-mobile-market-shadow-hills-high-school",
+      "title": "FIND Mobile Market - Shadow Hills High School — Free Food",
+      "description": "Free food at FIND Mobile Market - Shadow Hills High School. Schedule: 1st Sat 8 AM–10 AM. Call (760) 775-3663 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "FIND Mobile Market - Shadow Hills High School",
+      "address": "39225 Jefferson St, Indio, CA 92201",
+      "lat": 33.76503,
+      "lng": -116.27019,
+      "category": "food-assistance",
+      "sourceOrg": "FIND Mobile Market - Shadow Hills High School",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "1st Sat 8 AM–10 AM",
+      "start": "2026-10-10T08:00",
+      "end": "2026-10-10T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "1:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-find-mobile-market-mathis-brothers-m36-0630",
+      "seriesSlug": "add-find-mobile-market-mathis-brothers",
+      "title": "FIND Mobile Market - Mathis Brothers — Free Food",
+      "description": "Free food at FIND Mobile Market - Mathis Brothers. Schedule: 3rd Sat 6:30 AM–8:30 AM. Call (760) 775-3663 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "FIND Mobile Market - Mathis Brothers",
+      "address": "81410 CA-111, Indio, CA 92201",
+      "lat": 33.707369,
+      "lng": -116.245998,
+      "category": "food-assistance",
+      "sourceOrg": "FIND Mobile Market - Mathis Brothers",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "3rd Sat 6:30 AM–8:30 AM",
+      "start": "2026-10-10T06:30",
+      "end": "2026-10-10T08:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-abundant-life-church-w6-0800",
+      "seriesSlug": "add-abundant-life-church",
+      "title": "Abundant Life Church — Free Food",
+      "description": "Free food at Abundant Life Church. Schedule: Sat 8 AM–9:30 AM. Call (760) 775-5959 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Abundant Life Church",
+      "address": "82025 Bliss St, Indio, CA 92201",
+      "lat": 33.719031,
+      "lng": -116.233493,
+      "category": "food-assistance",
+      "sourceOrg": "Abundant Life Church",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "Sat 8 AM–9:30 AM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T09:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-narrow-door-m26-0900",
+      "seriesSlug": "add-the-narrow-door",
+      "title": "The Narrow Door — Free Food",
+      "description": "Free food at The Narrow Door. Schedule: 2nd Sat 9 AM–11 AM. Call (760) 775-6200 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Narrow Door",
+      "address": "43052 Madison St Ste 101, Indio, CA 92201",
+      "lat": 33.736328,
+      "lng": -116.250989,
+      "category": "food-assistance",
+      "sourceOrg": "The Narrow Door",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "2nd Sat 9 AM–11 AM",
+      "start": "2026-10-10T09:00",
+      "end": "2026-10-10T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-find-regional-food-bank-mobile-market-w5-0700",
+      "seriesSlug": "add-find-regional-food-bank-mobile-market",
+      "title": "FIND Regional Food Bank Mobile Market — Free Food",
+      "description": "Free food at FIND Regional Food Bank Mobile Market. Schedule: Fri 7 AM–8:30 AM. Call (760) 775-3663 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "FIND Regional Food Bank Mobile Market",
+      "address": "83775 Citrus Ave, Indio, CA 92201",
+      "lat": 33.717976,
+      "lng": -116.204994,
+      "category": "food-assistance",
+      "sourceOrg": "FIND Regional Food Bank Mobile Market",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "Fri 7 AM–8:30 AM",
+      "start": "2026-09-28T07:00",
+      "end": "2026-09-28T08:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-food-now-w34-0730",
+      "seriesSlug": "add-food-now",
+      "title": "Food Now — Free Food",
+      "description": "Free food at Food Now. Schedule: Wed–Thu 7:30 AM–10:30 AM. Call (760) 288-7878 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Food Now",
+      "address": "14080 Palm Dr Ste E, Desert Hot Springs, CA 92240",
+      "lat": 33.94581,
+      "lng": -116.49852,
+      "category": "food-assistance",
+      "sourceOrg": "Food Now",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "Wed–Thu 7:30 AM–10:30 AM",
+      "start": "2026-09-28T07:30",
+      "end": "2026-09-28T10:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-elizabeth-s-pantry-w2-0830",
+      "seriesSlug": "add-st-elizabeth-s-pantry",
+      "title": "St. Elizabeth's Pantry — Free Food",
+      "description": "Free food at St. Elizabeth's Pantry. Schedule: Tue 8:30 AM–10:30 AM. Call (760) 329-8794 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Elizabeth's Pantry",
+      "address": "66700 Pierson Blvd, Desert Hot Springs, CA 92240",
+      "lat": 33.961636,
+      "lng": -116.497844,
+      "category": "food-assistance",
+      "sourceOrg": "St. Elizabeth's Pantry",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "Tue 8:30 AM–10:30 AM",
+      "start": "2026-09-28T08:30",
+      "end": "2026-09-28T10:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-family-worship-center-w4-1800",
+      "seriesSlug": "add-family-worship-center",
+      "title": "Family Worship Center — Free Food",
+      "description": "Free food at Family Worship Center. Schedule: Thu 6 PM–7 PM. Call (760) 574-0583 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Family Worship Center",
+      "address": "85901 Vista Del Norte, Coachella, CA 92236",
+      "lat": 33.714731,
+      "lng": -116.164505,
+      "category": "food-assistance",
+      "sourceOrg": "Family Worship Center",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "Thu 6 PM–7 PM",
+      "start": "2026-09-28T18:00",
+      "end": "2026-09-28T19:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-f-i-s-h-w235-0800",
+      "seriesSlug": "add-f-i-s-h",
+      "title": "F.I.S.H. — Free Food",
+      "description": "Free food at F.I.S.H.. Schedule: Tue–Wed, Fri 8 AM–9 AM. Eligibility: photo ID first visit. Call (760) 398-9000 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "F.I.S.H.",
+      "address": "1612 1st St, Coachella, CA 92236",
+      "lat": 33.683169,
+      "lng": -116.178266,
+      "category": "food-assistance",
+      "sourceOrg": "F.I.S.H.",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "Tue–Wed, Fri 8 AM–9 AM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T09:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-centro-libre-m-12-1700",
+      "seriesSlug": "add-centro-libre",
+      "title": "Centro Libre — Free Food",
+      "description": "Free food at Centro Libre. Schedule: last Tue 5 PM–7 PM. Call (760) 698-3191 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Centro Libre",
+      "address": "83246 Ave 50, Coachella, CA 92236",
+      "lat": 33.686102,
+      "lng": -116.21245,
+      "category": "food-assistance",
+      "sourceOrg": "Centro Libre",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "last Tue 5 PM–7 PM",
+      "start": "2026-10-06T17:00",
+      "end": "2026-10-06T19:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": -1,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "-1:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-calvary-christian-center-m24-0800",
+      "seriesSlug": "add-calvary-christian-center",
+      "title": "Calvary Christian Center — Free Food",
+      "description": "Free food at Calvary Christian Center. Schedule: 2nd Thu 8 AM–10 AM. Call (760) 656-3525 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Calvary Christian Center",
+      "address": "68550 Dinah Shore Dr, Cathedral City, CA 92234",
+      "lat": 33.801652,
+      "lng": -116.46633,
+      "category": "food-assistance",
+      "sourceOrg": "Calvary Christian Center",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "2nd Thu 8 AM–10 AM",
+      "start": "2026-10-08T08:00",
+      "end": "2026-10-08T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "2:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-salvation-army-cathedral-city-w15-0900",
+      "seriesSlug": "add-salvation-army-cathedral-city",
+      "title": "Salvation Army - Cathedral City — Free Food",
+      "description": "Free food at Salvation Army - Cathedral City. Schedule: Mon, Fri 9 AM–10 AM; 3rd Tue 1 PM–4 PM. Call (760) 324-2275 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salvation Army - Cathedral City",
+      "address": "30400 Landau Blvd, Cathedral City, CA 92234",
+      "lat": 33.82715,
+      "lng": -116.47514,
+      "category": "food-assistance",
+      "sourceOrg": "Salvation Army - Cathedral City",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "Mon, Fri 9 AM–10 AM; 3rd Tue 1 PM–4 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T10:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-salvation-army-cathedral-city-m32-1300",
+      "seriesSlug": "add-salvation-army-cathedral-city",
+      "title": "Salvation Army - Cathedral City — Free Food",
+      "description": "Free food at Salvation Army - Cathedral City. Schedule: Mon, Fri 9 AM–10 AM; 3rd Tue 1 PM–4 PM. Call (760) 324-2275 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salvation Army - Cathedral City",
+      "address": "30400 Landau Blvd, Cathedral City, CA 92234",
+      "lat": 33.82715,
+      "lng": -116.47514,
+      "category": "food-assistance",
+      "sourceOrg": "Salvation Army - Cathedral City",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "Mon, Fri 9 AM–10 AM; 3rd Tue 1 PM–4 PM",
+      "start": "2026-10-06T13:00",
+      "end": "2026-10-06T16:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "3:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-cathedral-city-senior-center-w1-0830",
+      "seriesSlug": "add-cathedral-city-senior-center",
+      "title": "Cathedral City Senior Center — Free Food",
+      "description": "Free food at Cathedral City Senior Center. Schedule: Mon 8:30 AM–11 AM. Call (760) 321-1548 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Cathedral City Senior Center",
+      "address": "37171 W. Buddy Rogers Ave, Cathedral City, CA 92234",
+      "lat": 33.778431,
+      "lng": -116.464755,
+      "category": "food-assistance",
+      "sourceOrg": "Cathedral City Senior Center",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "Mon 8:30 AM–11 AM",
+      "start": "2026-09-28T08:30",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-vision-eterna-m16-0800",
+      "seriesSlug": "add-vision-eterna",
+      "title": "Vision Eterna — Free Food",
+      "description": "Free food at Vision Eterna. Schedule: 1st Sat 8 AM–10 AM. Call (760) 883-9216 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Vision Eterna",
+      "address": "35688 Cathedral Canyon Dr Ste 101, Cathedral City, CA 92234",
+      "lat": 33.78807,
+      "lng": -116.466184,
+      "category": "food-assistance",
+      "sourceOrg": "Vision Eterna",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "1st Sat 8 AM–10 AM",
+      "start": "2026-10-10T08:00",
+      "end": "2026-10-10T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "1:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-find-mobile-market-agua-caliente-elementary-scho-m16-0900",
+      "seriesSlug": "add-find-mobile-market-agua-caliente-elementary-scho",
+      "title": "FIND Mobile Market - Agua Caliente Elementary School — Free Food",
+      "description": "Free food at FIND Mobile Market - Agua Caliente Elementary School. Schedule: 1st Sat 9 AM–10 AM. Call (760) 775-3663 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "FIND Mobile Market - Agua Caliente Elementary School",
+      "address": "30800 San Luis Rey Dr, Cathedral City, CA 92234",
+      "lat": 33.825159,
+      "lng": -116.490039,
+      "category": "food-assistance",
+      "sourceOrg": "FIND Mobile Market - Agua Caliente Elementary School",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "1st Sat 9 AM–10 AM",
+      "start": "2026-10-10T09:00",
+      "end": "2026-10-10T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "1:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-find-mobile-market-cabazon-community-center-m43-1000",
+      "seriesSlug": "add-find-mobile-market-cabazon-community-center",
+      "title": "FIND Mobile Market - Cabazon Community Center — Free Food",
+      "description": "Free food at FIND Mobile Market - Cabazon Community Center. Schedule: 4th Wed 10 AM–11 AM. Call (760) 775-3663 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "FIND Mobile Market - Cabazon Community Center",
+      "address": "50390 Carmen Ave, Cabazon, CA 92230",
+      "lat": 33.910423,
+      "lng": -116.782265,
+      "category": "food-assistance",
+      "sourceOrg": "FIND Mobile Market - Cabazon Community Center",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "4th Wed 10 AM–11 AM",
+      "start": "2026-10-07T10:00",
+      "end": "2026-10-07T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "4:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-blythe-emergency-food-pantry-w135-1000",
+      "seriesSlug": "add-blythe-emergency-food-pantry",
+      "title": "Blythe Emergency Food Pantry — Free Food",
+      "description": "Free food at Blythe Emergency Food Pantry. Schedule: Mon, Wed, Fri 10 AM–11:45 AM. Call (760) 922-8836 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Blythe Emergency Food Pantry",
+      "address": "181 South Main St, Blythe, CA 92225",
+      "lat": 33.608693,
+      "lng": -114.599608,
+      "category": "food-assistance",
+      "sourceOrg": "Blythe Emergency Food Pantry",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "Mon, Wed, Fri 10 AM–11:45 AM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T11:45",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-find-mobile-market-anza-electric-co-op-m26-0900",
+      "seriesSlug": "add-find-mobile-market-anza-electric-co-op",
+      "title": "FIND Mobile Market - Anza Electric Co-op — Free Food",
+      "description": "Free food at FIND Mobile Market - Anza Electric Co-op. Schedule: 2nd Sat 9 AM–11 AM. Call (760) 775-3663 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "FIND Mobile Market - Anza Electric Co-op",
+      "address": "54870 CA-371, Anza, CA 92539",
+      "lat": 33.553032,
+      "lng": -116.701639,
+      "category": "food-assistance",
+      "sourceOrg": "FIND Mobile Market - Anza Electric Co-op",
+      "url": "https://findfoodbank.org/map",
+      "schedulePattern": "2nd Sat 9 AM–11 AM",
+      "start": "2026-10-10T09:00",
+      "end": "2026-10-10T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-idyllwild-community-center-m12-1000",
+      "seriesSlug": "add-idyllwild-community-center",
+      "title": "Idyllwild Community Center — Free Food",
+      "description": "Free food at Idyllwild Community Center. Schedule: 1st Tue 10 AM–12:30 PM. Call (951) 659-2638 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Idyllwild Community Center",
+      "address": "25925 Cedar St, Idyllwild-Pine Cove, CA 92549",
+      "lat": 33.74477,
+      "lng": -116.71056,
+      "category": "food-assistance",
+      "sourceOrg": "Idyllwild Community Center",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "1st Tue 10 AM–12:30 PM",
+      "start": "2026-10-06T10:00",
+      "end": "2026-10-06T12:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "1:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-food-for-the-faithful-m-15-0700",
+      "seriesSlug": "add-food-for-the-faithful",
+      "title": "Food for the Faithful — Free Food",
+      "description": "Free food at Food for the Faithful. Schedule: last Fri 7 AM–2 PM; Wed–Thu 7 AM–2 PM. Call (951) 763-5636 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Food for the Faithful",
+      "address": "56250 CA-371, Anza, CA 92539",
+      "lat": 33.555394,
+      "lng": -116.679962,
+      "category": "food-assistance",
+      "sourceOrg": "Food for the Faithful",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "last Fri 7 AM–2 PM; Wed–Thu 7 AM–2 PM",
+      "start": "2026-10-09T07:00",
+      "end": "2026-10-09T14:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": -1,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "-1:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-food-for-the-faithful-w34-0700",
+      "seriesSlug": "add-food-for-the-faithful",
+      "title": "Food for the Faithful — Free Food",
+      "description": "Free food at Food for the Faithful. Schedule: last Fri 7 AM–2 PM; Wed–Thu 7 AM–2 PM. Call (951) 763-5636 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Food for the Faithful",
+      "address": "56250 CA-371, Anza, CA 92539",
+      "lat": 33.555394,
+      "lng": -116.679962,
+      "category": "food-assistance",
+      "sourceOrg": "Food for the Faithful",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "last Fri 7 AM–2 PM; Wed–Thu 7 AM–2 PM",
+      "start": "2026-09-28T07:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-fsa-james-a-venable-community-center-m32-0930",
+      "seriesSlug": "add-fsa-james-a-venable-community-center",
+      "title": "FSA - James A Venable Community Center — Free Food",
+      "description": "Free food at FSA - James A Venable Community Center. Schedule: 3rd Tue 9:30 AM–11:30 AM. Call (951) 922-1097 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "FSA - James A Venable Community Center",
+      "address": "50390 Carmen Ave, Cabazon, CA 92230",
+      "lat": 33.910423,
+      "lng": -116.782265,
+      "category": "food-assistance",
+      "sourceOrg": "FSA - James A Venable Community Center",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "3rd Tue 9:30 AM–11:30 AM",
+      "start": "2026-10-06T09:30",
+      "end": "2026-10-06T11:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "3:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-bread-of-life-church-w7-1000",
+      "seriesSlug": "add-bread-of-life-church",
+      "title": "Bread of Life Church — Free Food",
+      "description": "Free food at Bread of Life Church. Schedule: Sun 10 AM–1:30 PM. Call (951) 927-8217 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Bread of Life Church",
+      "address": "45252 CA-74, Hemet, CA 92544",
+      "lat": 33.74827,
+      "lng": -116.87058,
+      "category": "food-assistance",
+      "sourceOrg": "Bread of Life Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Sun 10 AM–1:30 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T13:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-first-missionary-baptist-church-of-banning-m2343-1000",
+      "seriesSlug": "add-first-missionary-baptist-church-of-banning",
+      "title": "First Missionary Baptist Church of Banning — Free Food",
+      "description": "Free food at First Missionary Baptist Church of Banning. Schedule: 2nd Wed & 4th Wed 10 AM–2 PM. Call (951) 849-8113 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "First Missionary Baptist Church of Banning",
+      "address": "332 N Allen St, Banning, CA 92220",
+      "lat": 33.928388,
+      "lng": -116.861816,
+      "category": "food-assistance",
+      "sourceOrg": "First Missionary Baptist Church of Banning",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "2nd Wed & 4th Wed 10 AM–2 PM",
+      "start": "2026-10-07T10:00",
+      "end": "2026-10-07T14:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "2:3,4:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-h-e-l-p-inc-w12345-0900",
+      "seriesSlug": "add-h-e-l-p-inc",
+      "title": "H.E.L.P. Inc. — Free Food",
+      "description": "Free food at H.E.L.P. Inc.. Schedule: Mon–Fri 9 AM–1 PM. Call (951) 922-2305 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "H.E.L.P. Inc.",
+      "address": "53 S 6th St, Banning, CA 92220",
+      "lat": 33.924852,
+      "lng": -116.883522,
+      "category": "food-assistance",
+      "sourceOrg": "H.E.L.P. Inc.",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon–Fri 9 AM–1 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-hub-city-church-w7-1000",
+      "seriesSlug": "add-hub-city-church",
+      "title": "Hub City Church — Free Food",
+      "description": "Free food at Hub City Church. Schedule: Sun 10 AM–12 PM; Tue, Fri 5 PM–7 PM; Thu 10 AM–1 PM. Call (760) 985-5657 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Hub City Church",
+      "address": "109 N 2nd St, Banning, CA 92220",
+      "lat": 33.9264,
+      "lng": -116.879165,
+      "category": "food-assistance",
+      "sourceOrg": "Hub City Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Sun 10 AM–12 PM; Tue, Fri 5 PM–7 PM; Thu 10 AM–1 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-hub-city-church-w25-1700",
+      "seriesSlug": "add-hub-city-church",
+      "title": "Hub City Church — Free Food",
+      "description": "Free food at Hub City Church. Schedule: Sun 10 AM–12 PM; Tue, Fri 5 PM–7 PM; Thu 10 AM–1 PM. Call (760) 985-5657 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Hub City Church",
+      "address": "109 N 2nd St, Banning, CA 92220",
+      "lat": 33.9264,
+      "lng": -116.879165,
+      "category": "food-assistance",
+      "sourceOrg": "Hub City Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Sun 10 AM–12 PM; Tue, Fri 5 PM–7 PM; Thu 10 AM–1 PM",
+      "start": "2026-09-28T17:00",
+      "end": "2026-09-28T19:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-hub-city-church-w4-1000",
+      "seriesSlug": "add-hub-city-church",
+      "title": "Hub City Church — Free Food",
+      "description": "Free food at Hub City Church. Schedule: Sun 10 AM–12 PM; Tue, Fri 5 PM–7 PM; Thu 10 AM–1 PM. Call (760) 985-5657 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Hub City Church",
+      "address": "109 N 2nd St, Banning, CA 92220",
+      "lat": 33.9264,
+      "lng": -116.879165,
+      "category": "food-assistance",
+      "sourceOrg": "Hub City Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Sun 10 AM–12 PM; Tue, Fri 5 PM–7 PM; Thu 10 AM–1 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-kateri-catholic-church-m1333-0830",
+      "seriesSlug": "add-st-kateri-catholic-church",
+      "title": "St. Kateri Catholic Church — Free Food",
+      "description": "Free food at St. Kateri Catholic Church. Schedule: 1st Wed & 3rd Wed 8:30 AM–10:30 AM. Call (951) 845-2849 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Kateri Catholic Church",
+      "address": "157 W Nicolet St, Banning, CA 92220",
+      "lat": 33.929042,
+      "lng": -116.878525,
+      "category": "food-assistance",
+      "sourceOrg": "St. Kateri Catholic Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "1st Wed & 3rd Wed 8:30 AM–10:30 AM",
+      "start": "2026-10-07T08:30",
+      "end": "2026-10-07T10:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "1:3,3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-kids-cures-foundation-m2646-1000",
+      "seriesSlug": "add-kids-cures-foundation",
+      "title": "Kids Cures Foundation — Free Food",
+      "description": "Free food at Kids Cures Foundation. Schedule: 2nd Sat & 4th Sat 10 AM–1 PM. Call (951) 378-6124 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Kids Cures Foundation",
+      "address": "2041 W Nicolet St, Beaumont, CA 92223",
+      "lat": 33.929324,
+      "lng": -116.898957,
+      "category": "food-assistance",
+      "sourceOrg": "Kids Cures Foundation",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "2nd Sat & 4th Sat 10 AM–1 PM",
+      "start": "2026-10-10T10:00",
+      "end": "2026-10-10T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6,4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sda-hemet-church-w23-0900",
+      "seriesSlug": "add-sda-hemet-church",
+      "title": "SDA Hemet Church — Free Food",
+      "description": "Free food at SDA Hemet Church. Schedule: Tue–Wed 9 AM–11 AM. Call (951) 929-2632 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "SDA Hemet Church",
+      "address": "27025 Girard St, Hemet, CA 92544",
+      "lat": 33.728552,
+      "lng": -116.954948,
+      "category": "food-assistance",
+      "sourceOrg": "SDA Hemet Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Tue–Wed 9 AM–11 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-san-jacinto-united-methodist-church-w4-1300",
+      "seriesSlug": "add-san-jacinto-united-methodist-church",
+      "title": "San Jacinto United Methodist Church — Free Food",
+      "description": "Free food at San Jacinto United Methodist Church. Schedule: Thu 1 PM–2 PM; 2nd Sun 8 AM–9 AM. Call (951) 654-2307 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "San Jacinto United Methodist Church",
+      "address": "210 S San Jacinto Ave, San Jacinto, CA 92583",
+      "lat": 33.785436,
+      "lng": -116.958982,
+      "category": "food-assistance",
+      "sourceOrg": "San Jacinto United Methodist Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Thu 1 PM–2 PM; 2nd Sun 8 AM–9 AM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-san-jacinto-united-methodist-church-m27-0800",
+      "seriesSlug": "add-san-jacinto-united-methodist-church",
+      "title": "San Jacinto United Methodist Church — Free Food",
+      "description": "Free food at San Jacinto United Methodist Church. Schedule: Thu 1 PM–2 PM; 2nd Sun 8 AM–9 AM. Call (951) 654-2307 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "San Jacinto United Methodist Church",
+      "address": "210 S San Jacinto Ave, San Jacinto, CA 92583",
+      "lat": 33.785436,
+      "lng": -116.958982,
+      "category": "food-assistance",
+      "sourceOrg": "San Jacinto United Methodist Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Thu 1 PM–2 PM; 2nd Sun 8 AM–9 AM",
+      "start": "2026-10-11T08:00",
+      "end": "2026-10-11T09:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 7
+          }
+        ]
+      },
+      "recurDays": "2:7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sunrise-church-banning-w2345-0900",
+      "seriesSlug": "add-sunrise-church-banning",
+      "title": "Sunrise Church - Banning — Free Food",
+      "description": "Free food at Sunrise Church - Banning. Schedule: Tue–Fri 9 AM–12 PM. Call (909) 875-5566 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Sunrise Church - Banning",
+      "address": "4024 W Wilson St, Banning, CA 92220",
+      "lat": 33.932068,
+      "lng": -116.921401,
+      "category": "food-assistance",
+      "sourceOrg": "Sunrise Church - Banning",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Tue–Fri 9 AM–12 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-evangequip-missions-w3-1900",
+      "seriesSlug": "add-evangequip-missions",
+      "title": "Evangequip Missions — Free Food",
+      "description": "Free food at Evangequip Missions. Schedule: Wed 7 PM–8 PM; Fri–Sat 5 PM–7 PM. Eligibility: by appointment only. Call (909) 838-8062 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Evangequip Missions",
+      "address": "530 S Buena Vista St, Hemet, CA 92543",
+      "lat": 33.739509,
+      "lng": -116.966863,
+      "category": "food-assistance",
+      "sourceOrg": "Evangequip Missions",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Wed 7 PM–8 PM; Fri–Sat 5 PM–7 PM",
+      "start": "2026-09-28T19:00",
+      "end": "2026-09-28T20:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-evangequip-missions-w56-1700",
+      "seriesSlug": "add-evangequip-missions",
+      "title": "Evangequip Missions — Free Food",
+      "description": "Free food at Evangequip Missions. Schedule: Wed 7 PM–8 PM; Fri–Sat 5 PM–7 PM. Eligibility: by appointment only. Call (909) 838-8062 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Evangequip Missions",
+      "address": "530 S Buena Vista St, Hemet, CA 92543",
+      "lat": 33.739509,
+      "lng": -116.966863,
+      "category": "food-assistance",
+      "sourceOrg": "Evangequip Missions",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Wed 7 PM–8 PM; Fri–Sat 5 PM–7 PM",
+      "start": "2026-09-28T17:00",
+      "end": "2026-09-28T19:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5,6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-community-pantry-and-valley-community-pantry-w123-0930",
+      "seriesSlug": "add-community-pantry-and-valley-community-pantry",
+      "title": "Community Pantry and Valley Community Pantry — Free Food",
+      "description": "Free food at Community Pantry and Valley Community Pantry. Schedule: Mon–Wed 9:30 AM–12 PM. Call (951) 929-1101 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Community Pantry and Valley Community Pantry",
+      "address": "305 E Devonshire, Hemet, CA 92543",
+      "lat": 33.750813,
+      "lng": -116.969158,
+      "category": "food-assistance",
+      "sourceOrg": "Community Pantry and Valley Community Pantry",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon–Wed 9:30 AM–12 PM",
+      "start": "2026-09-28T09:30",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-our-lady-of-the-valley-catholic-church-m42-0830",
+      "seriesSlug": "add-our-lady-of-the-valley-catholic-church",
+      "title": "Our Lady of the Valley Catholic Church — Free Food",
+      "description": "Free food at Our Lady of the Valley Catholic Church. Schedule: 4th Tue 8:30 AM–9 AM. Call (951) 765-9691 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Our Lady of the Valley Catholic Church",
+      "address": "780 S State St, Hemet, CA 92543",
+      "lat": 33.735714,
+      "lng": -116.970787,
+      "category": "food-assistance",
+      "sourceOrg": "Our Lady of the Valley Catholic Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "4th Tue 8:30 AM–9 AM",
+      "start": "2026-10-06T08:30",
+      "end": "2026-10-06T09:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "4:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-mt-san-jacinto-college-san-jacinto-campus-w4-1000",
+      "seriesSlug": "add-mt-san-jacinto-college-san-jacinto-campus",
+      "title": "Mt. San Jacinto College - San Jacinto Campus — Free Food",
+      "description": "Free food at Mt. San Jacinto College - San Jacinto Campus. Schedule: Thu 10 AM–12 PM. Eligibility: students only. Call (951) 487-6752 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Mt. San Jacinto College - San Jacinto Campus",
+      "address": "1499 N State St, San Jacinto, CA 92583",
+      "lat": 33.804662,
+      "lng": -116.972032,
+      "category": "food-assistance",
+      "sourceOrg": "Mt. San Jacinto College - San Jacinto Campus",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Thu 10 AM–12 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-my-city-youth-w2-0900",
+      "seriesSlug": "add-my-city-youth",
+      "title": "My City Youth — Free Food",
+      "description": "Free food at My City Youth. Schedule: Tue 9 AM–5 PM; Wed 10 AM–12 PM. Call (951) 652-0647 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "My City Youth",
+      "address": "145 N Tahquitz Ave, Hemet, CA 92543",
+      "lat": 33.7487,
+      "lng": -116.97871,
+      "category": "food-assistance",
+      "sourceOrg": "My City Youth",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Tue 9 AM–5 PM; Wed 10 AM–12 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-my-city-youth-w3-1000",
+      "seriesSlug": "add-my-city-youth",
+      "title": "My City Youth — Free Food",
+      "description": "Free food at My City Youth. Schedule: Tue 9 AM–5 PM; Wed 10 AM–12 PM. Call (951) 652-0647 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "My City Youth",
+      "address": "145 N Tahquitz Ave, Hemet, CA 92543",
+      "lat": 33.7487,
+      "lng": -116.97871,
+      "category": "food-assistance",
+      "sourceOrg": "My City Youth",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Tue 9 AM–5 PM; Wed 10 AM–12 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-salvation-army-hemet-corps-w135-1130",
+      "seriesSlug": "add-the-salvation-army-hemet-corps",
+      "title": "The Salvation Army Hemet Corps — Free Food",
+      "description": "Free food at The Salvation Army Hemet Corps. Schedule: Mon, Wed, Fri 11:30 AM–1:30 PM; 3rd Thu 10 AM–12 PM. Call (951) 791-9497 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Salvation Army Hemet Corps",
+      "address": "340 S Palm Ave, Hemet, CA 92543",
+      "lat": 33.743273,
+      "lng": -116.979825,
+      "category": "food-assistance",
+      "sourceOrg": "The Salvation Army Hemet Corps",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon, Wed, Fri 11:30 AM–1:30 PM; 3rd Thu 10 AM–12 PM",
+      "start": "2026-09-28T11:30",
+      "end": "2026-09-28T13:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-salvation-army-hemet-corps-m34-1000",
+      "seriesSlug": "add-the-salvation-army-hemet-corps",
+      "title": "The Salvation Army Hemet Corps — Free Food",
+      "description": "Free food at The Salvation Army Hemet Corps. Schedule: Mon, Wed, Fri 11:30 AM–1:30 PM; 3rd Thu 10 AM–12 PM. Call (951) 791-9497 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Salvation Army Hemet Corps",
+      "address": "340 S Palm Ave, Hemet, CA 92543",
+      "lat": 33.743273,
+      "lng": -116.979825,
+      "category": "food-assistance",
+      "sourceOrg": "The Salvation Army Hemet Corps",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon, Wed, Fri 11:30 AM–1:30 PM; 3rd Thu 10 AM–12 PM",
+      "start": "2026-10-08T10:00",
+      "end": "2026-10-08T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-carol-s-kitchen-inc-w1245-1130",
+      "seriesSlug": "add-carol-s-kitchen-inc",
+      "title": "Carol's Kitchen Inc. — Free Food",
+      "description": "Free food at Carol's Kitchen Inc.. Schedule: Mon–Tue, Thu–Fri 11:30 AM–1 PM. Call (909) 284-4104 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Carol's Kitchen Inc.",
+      "address": "244 Maple Ave Suite W, Beaumont, CA 92223",
+      "lat": 33.923796,
+      "lng": -116.972171,
+      "category": "food-assistance",
+      "sourceOrg": "Carol's Kitchen Inc.",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon–Tue, Thu–Fri 11:30 AM–1 PM",
+      "start": "2026-09-28T11:30",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-beaumont-seventh-day-adventist-m1323-1000",
+      "seriesSlug": "add-beaumont-seventh-day-adventist",
+      "title": "Beaumont Seventh Day Adventist — Free Food",
+      "description": "Free food at Beaumont Seventh Day Adventist. Schedule: 1st Wed & 2nd Wed 10 AM–12 PM. Call (909) 229-2472 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Beaumont Seventh Day Adventist",
+      "address": "1343 Palm Ave, Beaumont, CA 92223",
+      "lat": 33.945056,
+      "lng": -116.972008,
+      "category": "food-assistance",
+      "sourceOrg": "Beaumont Seventh Day Adventist",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "1st Wed & 2nd Wed 10 AM–12 PM",
+      "start": "2026-10-07T10:00",
+      "end": "2026-10-07T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 2,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "1:3,2:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-first-church-of-god-w6-0900",
+      "seriesSlug": "add-first-church-of-god",
+      "title": "First Church of God — Free Food",
+      "description": "Free food at First Church of God. Schedule: Sat 9 AM–11 AM; 2nd Mon 9 AM–11 AM. Call (951) 926-1345 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "First Church of God",
+      "address": "31371 CA-74, Homeland, CA 92548",
+      "lat": 33.742777,
+      "lng": -117.113002,
+      "category": "food-assistance",
+      "sourceOrg": "First Church of God",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Sat 9 AM–11 AM; 2nd Mon 9 AM–11 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-first-church-of-god-m21-0900",
+      "seriesSlug": "add-first-church-of-god",
+      "title": "First Church of God — Free Food",
+      "description": "Free food at First Church of God. Schedule: Sat 9 AM–11 AM; 2nd Mon 9 AM–11 AM. Call (951) 926-1345 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "First Church of God",
+      "address": "31371 CA-74, Homeland, CA 92548",
+      "lat": 33.742777,
+      "lng": -117.113002,
+      "category": "food-assistance",
+      "sourceOrg": "First Church of God",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Sat 9 AM–11 AM; 2nd Mon 9 AM–11 AM",
+      "start": "2026-10-05T09:00",
+      "end": "2026-10-05T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "2:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-mt-san-jacinto-college-menifee-campus-w123-0830",
+      "seriesSlug": "add-mt-san-jacinto-college-menifee-campus",
+      "title": "Mt. San Jacinto College - Menifee Campus — Free Food",
+      "description": "Free food at Mt. San Jacinto College - Menifee Campus. Schedule: Mon–Wed 8:30 AM–2 PM. Eligibility: students only. Call (951) 487-6752 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Mt. San Jacinto College - Menifee Campus",
+      "address": "28237 La Piedra Rd, Menifee, CA 92584",
+      "lat": 33.67471,
+      "lng": -117.166963,
+      "category": "food-assistance",
+      "sourceOrg": "Mt. San Jacinto College - Menifee Campus",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon–Wed 8:30 AM–2 PM",
+      "start": "2026-09-28T08:30",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-mission-ministry-trinity-baptist-church-w2-0930",
+      "seriesSlug": "add-mission-ministry-trinity-baptist-church",
+      "title": "Mission Ministry Trinity Baptist Church — Free Food",
+      "description": "Free food at Mission Ministry Trinity Baptist Church. Schedule: Tue 9:30 AM–12:30 PM; 3rd Wed 10 AM–12 PM; Thu 9:30 AM–12:30 PM. Call (951) 601-0253 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Mission Ministry Trinity Baptist Church",
+      "address": "29175 Ironwood Ave, Moreno Valley, CA 92555",
+      "lat": 33.945825,
+      "lng": -117.153911,
+      "category": "food-assistance",
+      "sourceOrg": "Mission Ministry Trinity Baptist Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Tue 9:30 AM–12:30 PM; 3rd Wed 10 AM–12 PM; Thu 9:30 AM–12:30 PM",
+      "start": "2026-09-28T09:30",
+      "end": "2026-09-28T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-mission-ministry-trinity-baptist-church-m33-1000",
+      "seriesSlug": "add-mission-ministry-trinity-baptist-church",
+      "title": "Mission Ministry Trinity Baptist Church — Free Food",
+      "description": "Free food at Mission Ministry Trinity Baptist Church. Schedule: Tue 9:30 AM–12:30 PM; 3rd Wed 10 AM–12 PM; Thu 9:30 AM–12:30 PM. Call (951) 601-0253 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Mission Ministry Trinity Baptist Church",
+      "address": "29175 Ironwood Ave, Moreno Valley, CA 92555",
+      "lat": 33.945825,
+      "lng": -117.153911,
+      "category": "food-assistance",
+      "sourceOrg": "Mission Ministry Trinity Baptist Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Tue 9:30 AM–12:30 PM; 3rd Wed 10 AM–12 PM; Thu 9:30 AM–12:30 PM",
+      "start": "2026-10-07T10:00",
+      "end": "2026-10-07T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-mission-ministry-trinity-baptist-church-w4-0930",
+      "seriesSlug": "add-mission-ministry-trinity-baptist-church",
+      "title": "Mission Ministry Trinity Baptist Church — Free Food",
+      "description": "Free food at Mission Ministry Trinity Baptist Church. Schedule: Tue 9:30 AM–12:30 PM; 3rd Wed 10 AM–12 PM; Thu 9:30 AM–12:30 PM. Call (951) 601-0253 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Mission Ministry Trinity Baptist Church",
+      "address": "29175 Ironwood Ave, Moreno Valley, CA 92555",
+      "lat": 33.945825,
+      "lng": -117.153911,
+      "category": "food-assistance",
+      "sourceOrg": "Mission Ministry Trinity Baptist Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Tue 9:30 AM–12:30 PM; 3rd Wed 10 AM–12 PM; Thu 9:30 AM–12:30 PM",
+      "start": "2026-09-28T09:30",
+      "end": "2026-09-28T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-perris-church-of-christ-m46-1000",
+      "seriesSlug": "add-perris-church-of-christ",
+      "title": "Perris Church of Christ — Free Food",
+      "description": "Free food at Perris Church of Christ. Schedule: 4th Sat 10 AM–11:30 AM. Call (951) 928-2055 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Perris Church of Christ",
+      "address": "27157 Sunset Ave, Perris, CA 92571",
+      "lat": 33.80459,
+      "lng": -117.18883,
+      "category": "food-assistance",
+      "sourceOrg": "Perris Church of Christ",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "4th Sat 10 AM–11:30 AM",
+      "start": "2026-10-10T10:00",
+      "end": "2026-10-10T11:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-canyon-hills-calvary-chapel-food-pantry-w4-1130",
+      "seriesSlug": "add-canyon-hills-calvary-chapel-food-pantry",
+      "title": "Canyon Hills Calvary Chapel Food Pantry — Free Food",
+      "description": "Free food at Canyon Hills Calvary Chapel Food Pantry. Schedule: Thu 11:30 AM–1 PM. Call (951) 265-8421 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Canyon Hills Calvary Chapel Food Pantry",
+      "address": "28125 Bradley Rd Ste 130, Menifee, CA 92586",
+      "lat": 33.712945,
+      "lng": -117.19009,
+      "category": "food-assistance",
+      "sourceOrg": "Canyon Hills Calvary Chapel Food Pantry",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Thu 11:30 AM–1 PM",
+      "start": "2026-09-28T11:30",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-menifee-valley-community-cupboard-w1-1000",
+      "seriesSlug": "add-menifee-valley-community-cupboard",
+      "title": "Menifee Valley Community Cupboard — Free Food",
+      "description": "Free food at Menifee Valley Community Cupboard. Schedule: Mon 10 AM–1 PM; 3rd Wed 10 AM–1 PM. Call (951) 301-4414 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Menifee Valley Community Cupboard",
+      "address": "26808 Cherry Hills Blvd, Sun City, CA 92586",
+      "lat": 33.711809,
+      "lng": -117.190382,
+      "category": "food-assistance",
+      "sourceOrg": "Menifee Valley Community Cupboard",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon 10 AM–1 PM; 3rd Wed 10 AM–1 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-menifee-valley-community-cupboard-m33-1000",
+      "seriesSlug": "add-menifee-valley-community-cupboard",
+      "title": "Menifee Valley Community Cupboard — Free Food",
+      "description": "Free food at Menifee Valley Community Cupboard. Schedule: Mon 10 AM–1 PM; 3rd Wed 10 AM–1 PM. Call (951) 301-4414 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Menifee Valley Community Cupboard",
+      "address": "26808 Cherry Hills Blvd, Sun City, CA 92586",
+      "lat": 33.711809,
+      "lng": -117.190382,
+      "category": "food-assistance",
+      "sourceOrg": "Menifee Valley Community Cupboard",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon 10 AM–1 PM; 3rd Wed 10 AM–1 PM",
+      "start": "2026-10-07T10:00",
+      "end": "2026-10-07T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-society-of-st-vincent-de-paul-st-catherine-of-al-w5-0900",
+      "seriesSlug": "add-society-of-st-vincent-de-paul-st-catherine-of-al",
+      "title": "Society of St Vincent de Paul - St Catherine of Alexandria — Free Food",
+      "description": "Free food at Society of St Vincent de Paul - St Catherine of Alexandria. Schedule: Fri 9 AM–11 AM. Call (562) 537-4692 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Society of St Vincent de Paul - St Catherine of Alexandria",
+      "address": "41875 C St, Temecula, CA 92592",
+      "lat": 33.490833,
+      "lng": -117.142884,
+      "category": "food-assistance",
+      "sourceOrg": "Society of St Vincent de Paul - St Catherine of Alexandria",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Fri 9 AM–11 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-community-food-pantry-murrieta-w34-0600",
+      "seriesSlug": "add-community-food-pantry-murrieta",
+      "title": "Community Food Pantry Murrieta — Free Food",
+      "description": "Free food at Community Food Pantry Murrieta. Schedule: Wed–Thu 6 AM–10 AM. Call (951) 677-6347 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Community Food Pantry Murrieta",
+      "address": "39493 Los Alamos Rd Suite A, Murrieta, CA 92563",
+      "lat": 33.575997,
+      "lng": -117.178455,
+      "category": "food-assistance",
+      "sourceOrg": "Community Food Pantry Murrieta",
+      "url": "https://communityoutreachofmurrieta.com",
+      "schedulePattern": "Wed–Thu 6 AM–10 AM",
+      "start": "2026-09-28T06:00",
+      "end": "2026-09-28T10:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-vnw-circle-of-care-inc-w1234-0830",
+      "seriesSlug": "add-vnw-circle-of-care-inc",
+      "title": "VNW - Circle of Care Inc. — Free Food",
+      "description": "Free food at VNW - Circle of Care Inc.. Schedule: Mon–Thu 8:30 AM–1 PM. Call (951) 973-3582 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "VNW - Circle of Care Inc.",
+      "address": "26090 Ynez Rd, Temecula, CA 92591",
+      "lat": 33.529782,
+      "lng": -117.162083,
+      "category": "food-assistance",
+      "sourceOrg": "VNW - Circle of Care Inc.",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon–Thu 8:30 AM–1 PM",
+      "start": "2026-09-28T08:30",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-mission-hope-w234-0930",
+      "seriesSlug": "add-mission-hope",
+      "title": "Mission Hope — Free Food",
+      "description": "Free food at Mission Hope. Schedule: Tue–Thu 9:30 AM–12 PM; 2nd Mon 9:30 AM–12:30 PM. Call (951) 751-5828 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Mission Hope",
+      "address": "41760 Rider Way, Temecula, CA 92590",
+      "lat": 33.51611,
+      "lng": -117.166061,
+      "category": "food-assistance",
+      "sourceOrg": "Mission Hope",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Tue–Thu 9:30 AM–12 PM; 2nd Mon 9:30 AM–12:30 PM",
+      "start": "2026-09-28T09:30",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-mission-hope-m21-0930",
+      "seriesSlug": "add-mission-hope",
+      "title": "Mission Hope — Free Food",
+      "description": "Free food at Mission Hope. Schedule: Tue–Thu 9:30 AM–12 PM; 2nd Mon 9:30 AM–12:30 PM. Call (951) 751-5828 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Mission Hope",
+      "address": "41760 Rider Way, Temecula, CA 92590",
+      "lat": 33.51611,
+      "lng": -117.166061,
+      "category": "food-assistance",
+      "sourceOrg": "Mission Hope",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Tue–Thu 9:30 AM–12 PM; 2nd Mon 9:30 AM–12:30 PM",
+      "start": "2026-10-05T09:30",
+      "end": "2026-10-05T12:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "2:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-salvation-army-murrieta-corps-w12345-0830",
+      "seriesSlug": "add-the-salvation-army-murrieta-corps",
+      "title": "The Salvation Army - Murrieta Corps — Free Food",
+      "description": "Free food at The Salvation Army - Murrieta Corps. Schedule: Mon–Fri 8:30 AM–11:30 AM. Call (951) 677-1324 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Salvation Army - Murrieta Corps",
+      "address": "40270 Los Alamos Rd, Murrieta, CA 92562",
+      "lat": 33.56791,
+      "lng": -117.18929,
+      "category": "food-assistance",
+      "sourceOrg": "The Salvation Army - Murrieta Corps",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon–Fri 8:30 AM–11:30 AM",
+      "start": "2026-09-28T08:30",
+      "end": "2026-09-28T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-rccd-foundation-moreno-valley-college-w123-1300",
+      "seriesSlug": "add-rccd-foundation-moreno-valley-college",
+      "title": "RCCD Foundation - Moreno Valley College — Free Food",
+      "description": "Free food at RCCD Foundation - Moreno Valley College. Schedule: Mon–Wed 1 PM–5 PM; Thu 9 AM–5 PM. Eligibility: students only. Call (951) 571-6263 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "RCCD Foundation - Moreno Valley College",
+      "address": "16130 Lasselle St, Moreno Valley, CA 92551",
+      "lat": 33.887309,
+      "lng": -117.202707,
+      "category": "food-assistance",
+      "sourceOrg": "RCCD Foundation - Moreno Valley College",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon–Wed 1 PM–5 PM; Thu 9 AM–5 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-rccd-foundation-moreno-valley-college-w4-0900",
+      "seriesSlug": "add-rccd-foundation-moreno-valley-college",
+      "title": "RCCD Foundation - Moreno Valley College — Free Food",
+      "description": "Free food at RCCD Foundation - Moreno Valley College. Schedule: Mon–Wed 1 PM–5 PM; Thu 9 AM–5 PM. Eligibility: students only. Call (951) 571-6263 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "RCCD Foundation - Moreno Valley College",
+      "address": "16130 Lasselle St, Moreno Valley, CA 92551",
+      "lat": 33.887309,
+      "lng": -117.202707,
+      "category": "food-assistance",
+      "sourceOrg": "RCCD Foundation - Moreno Valley College",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon–Wed 1 PM–5 PM; Thu 9 AM–5 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-greater-works-church-m133353-1230",
+      "seriesSlug": "add-greater-works-church",
+      "title": "Greater Works Church — Free Food",
+      "description": "Free food at Greater Works Church. Schedule: 1st Wed & 3rd Wed & 5th Wed 12:30 PM–2 PM; Sat 12 PM–1:30 PM. Call (951) 805-8309 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Greater Works Church",
+      "address": "25823 Jefferson Ave, Murrieta, CA 92562",
+      "lat": 33.54087,
+      "lng": -117.188928,
+      "category": "food-assistance",
+      "sourceOrg": "Greater Works Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "1st Wed & 3rd Wed & 5th Wed 12:30 PM–2 PM; Sat 12 PM–1:30 PM",
+      "start": "2026-10-07T12:30",
+      "end": "2026-10-07T14:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 5,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "1:3,3:3,5:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-greater-works-church-w6-1200",
+      "seriesSlug": "add-greater-works-church",
+      "title": "Greater Works Church — Free Food",
+      "description": "Free food at Greater Works Church. Schedule: 1st Wed & 3rd Wed & 5th Wed 12:30 PM–2 PM; Sat 12 PM–1:30 PM. Call (951) 805-8309 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Greater Works Church",
+      "address": "25823 Jefferson Ave, Murrieta, CA 92562",
+      "lat": 33.54087,
+      "lng": -117.188928,
+      "category": "food-assistance",
+      "sourceOrg": "Greater Works Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "1st Wed & 3rd Wed & 5th Wed 12:30 PM–2 PM; Sat 12 PM–1:30 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T13:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-saint-james-community-food-pantry-w13-1030",
+      "seriesSlug": "add-saint-james-community-food-pantry",
+      "title": "Saint James Community Food Pantry — Free Food",
+      "description": "Free food at Saint James Community Food Pantry. Schedule: Mon, Wed 10:30 AM–1:30 PM. Call (951) 657-2380 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Saint James Community Food Pantry",
+      "address": "269 W 3rd St, Perris, CA 92570",
+      "lat": 33.783153,
+      "lng": -117.231813,
+      "category": "food-assistance",
+      "sourceOrg": "Saint James Community Food Pantry",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon, Wed 10:30 AM–1:30 PM",
+      "start": "2026-09-28T10:30",
+      "end": "2026-09-28T13:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sda-lake-perris-church-w5-1000",
+      "seriesSlug": "add-sda-lake-perris-church",
+      "title": "SDA Lake Perris Church — Free Food",
+      "description": "Free food at SDA Lake Perris Church. Schedule: Fri 10 AM–11 AM. Call (951) 453-2033 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "SDA Lake Perris Church",
+      "address": "377 W 3rd St, Perris, CA 92570",
+      "lat": 33.783104,
+      "lng": -117.234284,
+      "category": "food-assistance",
+      "sourceOrg": "SDA Lake Perris Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Fri 10 AM–11 AM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-murrieta-senior-center-m42-0900",
+      "seriesSlug": "add-murrieta-senior-center",
+      "title": "Murrieta Senior Center — Free Food",
+      "description": "Free food at Murrieta Senior Center. Schedule: 4th Tue 9 AM–11 AM. Call (951) 304-7275 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Murrieta Senior Center",
+      "address": "5 Town Square, Murrieta, CA 92562",
+      "lat": 33.557254,
+      "lng": -117.211026,
+      "category": "food-assistance",
+      "sourceOrg": "Murrieta Senior Center",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "4th Tue 9 AM–11 AM",
+      "start": "2026-10-06T09:00",
+      "end": "2026-10-06T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "4:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-murrieta-united-methodist-church-w5-0800",
+      "seriesSlug": "add-murrieta-united-methodist-church",
+      "title": "Murrieta United Methodist Church — Free Food",
+      "description": "Free food at Murrieta United Methodist Church. Schedule: Fri 8 AM–9 AM. Call (951) 813-9701 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Murrieta United Methodist Church",
+      "address": "24652 Adams Ave, Murrieta, CA 92562",
+      "lat": 33.557907,
+      "lng": -117.21345,
+      "category": "food-assistance",
+      "sourceOrg": "Murrieta United Methodist Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Fri 8 AM–9 AM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T09:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-movementchurch-choice-market-w4-0900",
+      "seriesSlug": "add-movementchurch-choice-market",
+      "title": "MovementChurch Choice Market — Free Food",
+      "description": "Free food at MovementChurch Choice Market. Schedule: Thu 9 AM–10:30 AM. Call (951) 491-9240 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "MovementChurch Choice Market",
+      "address": "25550 Ironwood Ave, Moreno Valley, CA 92557",
+      "lat": 33.94708,
+      "lng": -117.21632,
+      "category": "food-assistance",
+      "sourceOrg": "MovementChurch Choice Market",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Thu 9 AM–10:30 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T10:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-salvation-army-moreno-valley-w135-1200",
+      "seriesSlug": "add-the-salvation-army-moreno-valley",
+      "title": "The Salvation Army Moreno Valley — Free Food",
+      "description": "Free food at The Salvation Army Moreno Valley. Schedule: Mon, Wed, Fri 12 PM–3 PM; 1st Mon 11 AM–2 PM. Call (951) 784-4490 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Salvation Army Moreno Valley",
+      "address": "24741 Alessandro Blvd, Moreno Valley, CA 92553",
+      "lat": 33.916437,
+      "lng": -117.231096,
+      "category": "food-assistance",
+      "sourceOrg": "The Salvation Army Moreno Valley",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon, Wed, Fri 12 PM–3 PM; 1st Mon 11 AM–2 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-salvation-army-moreno-valley-m11-1100",
+      "seriesSlug": "add-the-salvation-army-moreno-valley",
+      "title": "The Salvation Army Moreno Valley — Free Food",
+      "description": "Free food at The Salvation Army Moreno Valley. Schedule: Mon, Wed, Fri 12 PM–3 PM; 1st Mon 11 AM–2 PM. Call (951) 784-4490 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Salvation Army Moreno Valley",
+      "address": "24741 Alessandro Blvd, Moreno Valley, CA 92553",
+      "lat": 33.916437,
+      "lng": -117.231096,
+      "category": "food-assistance",
+      "sourceOrg": "The Salvation Army Moreno Valley",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon, Wed, Fri 12 PM–3 PM; 1st Mon 11 AM–2 PM",
+      "start": "2026-10-05T11:00",
+      "end": "2026-10-05T14:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "1:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-survival-ministries-w13-0900",
+      "seriesSlug": "add-survival-ministries",
+      "title": "Survival Ministries — Free Food",
+      "description": "Free food at Survival Ministries. Schedule: Mon, Wed 9 AM–12 PM; Fri 9 AM–11:30 AM. Call (951) 657-8810 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Survival Ministries",
+      "address": "23100 Betty Rd, Perris, CA 92570",
+      "lat": 33.76169,
+      "lng": -117.25672,
+      "category": "food-assistance",
+      "sourceOrg": "Survival Ministries",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon, Wed 9 AM–12 PM; Fri 9 AM–11:30 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-survival-ministries-w5-0900",
+      "seriesSlug": "add-survival-ministries",
+      "title": "Survival Ministries — Free Food",
+      "description": "Free food at Survival Ministries. Schedule: Mon, Wed 9 AM–12 PM; Fri 9 AM–11:30 AM. Call (951) 657-8810 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Survival Ministries",
+      "address": "23100 Betty Rd, Perris, CA 92570",
+      "lat": 33.76169,
+      "lng": -117.25672,
+      "category": "food-assistance",
+      "sourceOrg": "Survival Ministries",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon, Wed 9 AM–12 PM; Fri 9 AM–11:30 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-bethel-ame-church-m46-1100",
+      "seriesSlug": "add-bethel-ame-church",
+      "title": "Bethel AME Church — Free Food",
+      "description": "Free food at Bethel AME Church. Schedule: 4th Sat 11 AM–1 PM. Call (951) 657-5705 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Bethel AME Church",
+      "address": "24480 Sophie St, Perris, CA 92570",
+      "lat": 33.765294,
+      "lng": -117.258129,
+      "category": "food-assistance",
+      "sourceOrg": "Bethel AME Church",
+      "url": "https://bameperris.org",
+      "schedulePattern": "4th Sat 11 AM–1 PM",
+      "start": "2026-10-10T11:00",
+      "end": "2026-10-10T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sda-moreno-valley-w1-0900",
+      "seriesSlug": "add-sda-moreno-valley",
+      "title": "SDA Moreno Valley — Free Food",
+      "description": "Free food at SDA Moreno Valley. Schedule: Mon 9 AM–3 PM. Call (951) 662-4857 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "SDA Moreno Valley",
+      "address": "12649 Indian St, Moreno Valley, CA 92553",
+      "lat": 33.93703,
+      "lng": -117.23552,
+      "category": "food-assistance",
+      "sourceOrg": "SDA Moreno Valley",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon 9 AM–3 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-ministerio-juda-w7-1000",
+      "seriesSlug": "add-ministerio-juda",
+      "title": "Ministerio Juda — Free Food",
+      "description": "Free food at Ministerio Juda. Schedule: Sun 10 AM–1 PM; Fri 10 AM–12 PM. Call (951) 238-4116 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Ministerio Juda",
+      "address": "22109 Rocky Hills Rd, Perris, CA 92570",
+      "lat": 33.79962,
+      "lng": -117.272331,
+      "category": "food-assistance",
+      "sourceOrg": "Ministerio Juda",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Sun 10 AM–1 PM; Fri 10 AM–12 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-ministerio-juda-w5-1000",
+      "seriesSlug": "add-ministerio-juda",
+      "title": "Ministerio Juda — Free Food",
+      "description": "Free food at Ministerio Juda. Schedule: Sun 10 AM–1 PM; Fri 10 AM–12 PM. Call (951) 238-4116 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Ministerio Juda",
+      "address": "22109 Rocky Hills Rd, Perris, CA 92570",
+      "lat": 33.79962,
+      "lng": -117.272331,
+      "category": "food-assistance",
+      "sourceOrg": "Ministerio Juda",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Sun 10 AM–1 PM; Fri 10 AM–12 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-moreno-valley-conference-recreation-center-m24-0900",
+      "seriesSlug": "add-moreno-valley-conference-recreation-center",
+      "title": "Moreno Valley Conference & Recreation Center — Free Food",
+      "description": "Free food at Moreno Valley Conference & Recreation Center. Schedule: 2nd Thu 9 AM–11 AM. Call (951) 413-3430 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Moreno Valley Conference & Recreation Center",
+      "address": "14075 Frederick St, Moreno Valley, CA 92553",
+      "lat": 33.91643,
+      "lng": -117.26293,
+      "category": "food-assistance",
+      "sourceOrg": "Moreno Valley Conference & Recreation Center",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "2nd Thu 9 AM–11 AM",
+      "start": "2026-10-08T09:00",
+      "end": "2026-10-08T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "2:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-bread-of-life-fellowship-apostolic-assembly-w234-1000",
+      "seriesSlug": "add-bread-of-life-fellowship-apostolic-assembly",
+      "title": "Bread Of Life Fellowship Apostolic Assembly — Free Food",
+      "description": "Free food at Bread Of Life Fellowship Apostolic Assembly. Schedule: Tue–Thu 10 AM–12 PM. Call (951) 245-0124 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Bread Of Life Fellowship Apostolic Assembly",
+      "address": "21020 Malaga Rd, Lake Elsinore, CA 92532",
+      "lat": 33.654938,
+      "lng": -117.29035,
+      "category": "food-assistance",
+      "sourceOrg": "Bread Of Life Fellowship Apostolic Assembly",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Tue–Thu 10 AM–12 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-charles-meigs-community-center-m-13-0900",
+      "seriesSlug": "add-charles-meigs-community-center",
+      "title": "Charles Meigs Community Center — Free Food",
+      "description": "Free food at Charles Meigs Community Center. Schedule: last Wed 9 AM–12 PM. Call (951) 210-1580 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Charles Meigs Community Center",
+      "address": "21091 Rider St, Perris, CA 92570",
+      "lat": 33.829298,
+      "lng": -117.294013,
+      "category": "food-assistance",
+      "sourceOrg": "Charles Meigs Community Center",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "last Wed 9 AM–12 PM",
+      "start": "2026-10-07T09:00",
+      "end": "2026-10-07T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": -1,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "-1:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-helping-hands-group-m2636-1200",
+      "seriesSlug": "add-helping-hands-group",
+      "title": "Helping Hands Group — Free Food",
+      "description": "Free food at Helping Hands Group. Schedule: 2nd Sat & 3rd Sat 12 PM–2 PM. Eligibility: delivery only, by appointment. Call (951) 445-2354 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Helping Hands Group",
+      "address": "31877 Corydon Rd Suite 110, Lake Elsinore, CA 92530",
+      "lat": 33.632159,
+      "lng": -117.293606,
+      "category": "food-assistance",
+      "sourceOrg": "Helping Hands Group",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "2nd Sat & 3rd Sat 12 PM–2 PM",
+      "start": "2026-10-10T12:00",
+      "end": "2026-10-10T14:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6,3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-generations-church-w12345-1000",
+      "seriesSlug": "add-generations-church",
+      "title": "Generations Church — Free Food",
+      "description": "Free food at Generations Church. Schedule: Mon–Fri 10 AM–5 PM. Call (951) 686-6000 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Generations Church",
+      "address": "12125 Day St A203, Moreno Valley, CA 92557",
+      "lat": 33.944975,
+      "lng": -117.281269,
+      "category": "food-assistance",
+      "sourceOrg": "Generations Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon–Fri 10 AM–5 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-al-rahma-food-bank-w5-1400",
+      "seriesSlug": "add-al-rahma-food-bank",
+      "title": "Al Rahma Food Bank — Free Food",
+      "description": "Free food at Al Rahma Food Bank. Schedule: Fri 2 PM–5 PM. Call (951) 378-3033 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Al Rahma Food Bank",
+      "address": "12125 Day St T102, Moreno Valley, CA 92557",
+      "lat": 33.944975,
+      "lng": -117.281269,
+      "category": "food-assistance",
+      "sourceOrg": "Al Rahma Food Bank",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Fri 2 PM–5 PM",
+      "start": "2026-09-28T14:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-cross-word-christian-church-m2646-1000",
+      "seriesSlug": "add-cross-word-christian-church",
+      "title": "Cross Word Christian Church — Free Food",
+      "description": "Free food at Cross Word Christian Church. Schedule: 2nd Sat & 4th Sat 10 AM–11:30 AM. Call (951) 275-5360 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Cross Word Christian Church",
+      "address": "21401 Box Springs Rd, Moreno Valley, CA 92557",
+      "lat": 33.946245,
+      "lng": -117.290704,
+      "category": "food-assistance",
+      "sourceOrg": "Cross Word Christian Church",
+      "url": "https://crosswordchurch.org",
+      "schedulePattern": "2nd Sat & 4th Sat 10 AM–11:30 AM",
+      "start": "2026-10-10T10:00",
+      "end": "2026-10-10T11:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6,4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-hope-food-pantry-w234-0900",
+      "seriesSlug": "add-hope-food-pantry",
+      "title": "HOPE Food Pantry — Free Food",
+      "description": "Free food at HOPE Food Pantry. Schedule: Tue–Thu 9 AM–12 PM. Call (951) 376-3703 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "HOPE Food Pantry",
+      "address": "506 W Minthorn St, Lake Elsinore, CA 92530",
+      "lat": 33.6802,
+      "lng": -117.329767,
+      "category": "food-assistance",
+      "sourceOrg": "HOPE Food Pantry",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Tue–Thu 9 AM–12 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-grove-community-church-corner-pantry-w1-0930",
+      "seriesSlug": "add-the-grove-community-church-corner-pantry",
+      "title": "The Grove Community Church Corner Pantry — Free Food",
+      "description": "Free food at The Grove Community Church Corner Pantry. Schedule: Mon 9:30 AM–10:30 AM. Call (951) 571-9090 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Grove Community Church Corner Pantry",
+      "address": "19321 Grove Community Dr, Riverside, CA 92508",
+      "lat": 33.9008,
+      "lng": -117.325099,
+      "category": "food-assistance",
+      "sourceOrg": "The Grove Community Church Corner Pantry",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon 9:30 AM–10:30 AM",
+      "start": "2026-09-28T09:30",
+      "end": "2026-09-28T10:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-3-phases-of-becoming-a-woman-w23456-0900",
+      "seriesSlug": "add-3-phases-of-becoming-a-woman",
+      "title": "3 Phases of Becoming a Woman — Free Food",
+      "description": "Free food at 3 Phases of Becoming a Woman. Schedule: Tue–Sat 9 AM–5 PM. Call (951) 378-1051 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "3 Phases of Becoming a Woman",
+      "address": "17498 Grand Ave, Lake Elsinore, CA 92530",
+      "lat": 33.641678,
+      "lng": -117.348609,
+      "category": "food-assistance",
+      "sourceOrg": "3 Phases of Becoming a Woman",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Tue–Sat 9 AM–5 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3,4,5,6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-vineyard-christian-fellowship-w246-0830",
+      "seriesSlug": "add-vineyard-christian-fellowship",
+      "title": "Vineyard Christian Fellowship — Free Food",
+      "description": "Free food at Vineyard Christian Fellowship. Schedule: Tue, Thu, Sat 8:30 AM–9 AM. Call (951) 678-9419 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Vineyard Christian Fellowship",
+      "address": "17470 Grand Ave, Lake Elsinore, CA 92530",
+      "lat": 33.642083,
+      "lng": -117.349222,
+      "category": "food-assistance",
+      "sourceOrg": "Vineyard Christian Fellowship",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Tue, Thu, Sat 8:30 AM–9 AM",
+      "start": "2026-09-28T08:30",
+      "end": "2026-09-28T09:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,4,6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-r-pantry-uc-riverside-w1235-1000",
+      "seriesSlug": "add-r-pantry-uc-riverside",
+      "title": "R'Pantry - UC Riverside — Free Food",
+      "description": "Free food at R'Pantry - UC Riverside. Schedule: Mon–Wed, Fri 10 AM–4:30 PM. Eligibility: college students only. Call (951) 827-3663 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "R'Pantry - UC Riverside",
+      "address": "900 University Ave HUB 346, Riverside, CA 92521",
+      "lat": 33.975432,
+      "lng": -117.331701,
+      "category": "food-assistance",
+      "sourceOrg": "R'Pantry - UC Riverside",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon–Wed, Fri 10 AM–4:30 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T16:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-fsa-highgrove-community-center-m45-0800",
+      "seriesSlug": "add-fsa-highgrove-community-center",
+      "title": "FSA - Highgrove Community Center — Free Food",
+      "description": "Free food at FSA - Highgrove Community Center. Schedule: 4th Fri 8 AM–10:30 AM. Call (951) 686-1096 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "FSA - Highgrove Community Center",
+      "address": "459 Center St, Riverside, CA 92507",
+      "lat": 34.016012,
+      "lng": -117.320877,
+      "category": "food-assistance",
+      "sourceOrg": "FSA - Highgrove Community Center",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "4th Fri 8 AM–10:30 AM",
+      "start": "2026-10-09T08:00",
+      "end": "2026-10-09T10:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "4:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-jamboree-housing-m41-1630",
+      "seriesSlug": "add-jamboree-housing",
+      "title": "Jamboree Housing — Free Food",
+      "description": "Free food at Jamboree Housing. Schedule: 4th Mon 4:30 PM–5:30 PM. Call (949) 263-8676 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Jamboree Housing",
+      "address": "550 Center St, Riverside, CA 92507",
+      "lat": 34.014328,
+      "lng": -117.323765,
+      "category": "food-assistance",
+      "sourceOrg": "Jamboree Housing",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "4th Mon 4:30 PM–5:30 PM",
+      "start": "2026-10-05T16:30",
+      "end": "2026-10-05T17:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "4:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sda-riverside-spanish-church-m35-0900",
+      "seriesSlug": "add-sda-riverside-spanish-church",
+      "title": "SDA Riverside Spanish Church — Free Food",
+      "description": "Free food at SDA Riverside Spanish Church. Schedule: 3rd Fri 9 AM–11 AM. Call (951) 902-5616 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "SDA Riverside Spanish Church",
+      "address": "3625 Ottawa Ave, Riverside, CA 92507",
+      "lat": 33.977233,
+      "lng": -117.353102,
+      "category": "food-assistance",
+      "sourceOrg": "SDA Riverside Spanish Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "3rd Fri 9 AM–11 AM",
+      "start": "2026-10-09T09:00",
+      "end": "2026-10-09T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-university-women-s-shelter-w12345-0900",
+      "seriesSlug": "add-university-women-s-shelter",
+      "title": "University Women's Shelter — Free Food",
+      "description": "Free food at University Women's Shelter. Schedule: Mon–Fri 9 AM–1 PM. Call (951) 224-9438 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "University Women's Shelter",
+      "address": "4366 Bermuda Ave, Riverside, CA 92507",
+      "lat": 33.970816,
+      "lng": -117.362651,
+      "category": "food-assistance",
+      "sourceOrg": "University Women's Shelter",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon–Fri 9 AM–1 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-community-settlement-association-w13-1100",
+      "seriesSlug": "add-community-settlement-association",
+      "title": "Community Settlement Association — Free Food",
+      "description": "Free food at Community Settlement Association. Schedule: Mon, Wed 11 AM–12 PM. Call (951) 686-6266 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Community Settlement Association",
+      "address": "4366 Bermuda Ave, Riverside, CA 92507",
+      "lat": 33.970816,
+      "lng": -117.362651,
+      "category": "food-assistance",
+      "sourceOrg": "Community Settlement Association",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon, Wed 11 AM–12 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sda-mount-rubidoux-church-m22-1000",
+      "seriesSlug": "add-sda-mount-rubidoux-church",
+      "title": "SDA Mount Rubidoux Church — Free Food",
+      "description": "Free food at SDA Mount Rubidoux Church. Schedule: 2nd Tue 10 AM–12 PM. Call (951) 276-8374 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "SDA Mount Rubidoux Church",
+      "address": "5320 Victoria Ave, Riverside, CA 92506",
+      "lat": 33.955114,
+      "lng": -117.369661,
+      "category": "food-assistance",
+      "sourceOrg": "SDA Mount Rubidoux Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "2nd Tue 10 AM–12 PM",
+      "start": "2026-10-06T10:00",
+      "end": "2026-10-06T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "2:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-salvation-army-riverside-w135-0900",
+      "seriesSlug": "add-the-salvation-army-riverside",
+      "title": "The Salvation Army - Riverside — Free Food",
+      "description": "Free food at The Salvation Army - Riverside. Schedule: Mon, Wed, Fri 9 AM–12 PM. Call (951) 784-4490 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Salvation Army - Riverside",
+      "address": "3695 1st St, Riverside, CA 92501",
+      "lat": 33.988833,
+      "lng": -117.369001,
+      "category": "food-assistance",
+      "sourceOrg": "The Salvation Army - Riverside",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon, Wed, Fri 9 AM–12 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-life-spring-church-m11-0900",
+      "seriesSlug": "add-life-spring-church",
+      "title": "Life Spring Church — Free Food",
+      "description": "Free food at Life Spring Church. Schedule: 1st Mon 9 AM–11 AM; 3rd Mon 9 AM–11:30 AM. Call (951) 683-6081 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Life Spring Church",
+      "address": "1224 Main St, Riverside, CA 92501",
+      "lat": 34.005824,
+      "lng": -117.363209,
+      "category": "food-assistance",
+      "sourceOrg": "Life Spring Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "1st Mon 9 AM–11 AM; 3rd Mon 9 AM–11:30 AM",
+      "start": "2026-10-05T09:00",
+      "end": "2026-10-05T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "1:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-life-spring-church-m31-0900",
+      "seriesSlug": "add-life-spring-church",
+      "title": "Life Spring Church — Free Food",
+      "description": "Free food at Life Spring Church. Schedule: 1st Mon 9 AM–11 AM; 3rd Mon 9 AM–11:30 AM. Call (951) 683-6081 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Life Spring Church",
+      "address": "1224 Main St, Riverside, CA 92501",
+      "lat": 34.005824,
+      "lng": -117.363209,
+      "category": "food-assistance",
+      "sourceOrg": "Life Spring Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "1st Mon 9 AM–11 AM; 3rd Mon 9 AM–11:30 AM",
+      "start": "2026-10-05T09:00",
+      "end": "2026-10-05T11:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "3:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-first-congregational-of-riverside-project-food-w3-1730",
+      "seriesSlug": "add-first-congregational-of-riverside-project-food",
+      "title": "First Congregational of Riverside (Project Food) — Free Food",
+      "description": "Free food at First Congregational of Riverside (Project Food). Schedule: Wed 5:30 PM–6:30 PM. Call (951) 684-2494 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "First Congregational of Riverside (Project Food)",
+      "address": "3504 Mission Inn Avenue, Riverside, CA 92501",
+      "lat": 33.981774,
+      "lng": -117.371977,
+      "category": "food-assistance",
+      "sourceOrg": "First Congregational of Riverside (Project Food)",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Wed 5:30 PM–6:30 PM",
+      "start": "2026-09-28T17:30",
+      "end": "2026-09-28T18:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-rccd-foundation-riverside-city-college-w12345-0800",
+      "seriesSlug": "add-rccd-foundation-riverside-city-college",
+      "title": "RCCD Foundation - Riverside City College — Free Food",
+      "description": "Free food at RCCD Foundation - Riverside City College. Schedule: Mon–Fri 8 AM–5 PM. Eligibility: RCC students only. Call (951) 222-8572 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "RCCD Foundation - Riverside City College",
+      "address": "4800 Magnolia Ave, Riverside, CA 92506",
+      "lat": 33.970841,
+      "lng": -117.3844,
+      "category": "food-assistance",
+      "sourceOrg": "RCCD Foundation - Riverside City College",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon–Fri 8 AM–5 PM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-veterans-not-forgotten-w6-1000",
+      "seriesSlug": "add-veterans-not-forgotten",
+      "title": "Veterans not Forgotten — Free Food",
+      "description": "Free food at Veterans not Forgotten. Schedule: Sat 10 AM–12 PM. Eligibility: deliveries only. Call (951) 640-3673 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Veterans not Forgotten",
+      "address": "6476 Riverside Ave, Riverside, CA 92506",
+      "lat": 33.94844,
+      "lng": -117.38769,
+      "category": "food-assistance",
+      "sourceOrg": "Veterans not Forgotten",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Sat 10 AM–12 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-starting-over-inc-w12345-0800",
+      "seriesSlug": "add-starting-over-inc",
+      "title": "Starting Over Inc — Free Food",
+      "description": "Free food at Starting Over Inc. Schedule: Mon–Fri 8 AM–5:30 PM. Call (562) 676-3784 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Starting Over Inc",
+      "address": "6355 Riverside Ave Ste 100, Riverside, CA 92506",
+      "lat": 33.952008,
+      "lng": -117.388459,
+      "category": "food-assistance",
+      "sourceOrg": "Starting Over Inc",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon–Fri 8 AM–5:30 PM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T17:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-walden-family-services-w12345-1000",
+      "seriesSlug": "add-walden-family-services",
+      "title": "Walden Family Services — Free Food",
+      "description": "Free food at Walden Family Services. Schedule: Mon–Fri 10 AM–4 PM. Call (951) 788-5905 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Walden Family Services",
+      "address": "3576 Arlington Ave Suite 106, Riverside, CA 92506",
+      "lat": 33.94569,
+      "lng": -117.391356,
+      "category": "food-assistance",
+      "sourceOrg": "Walden Family Services",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon–Fri 10 AM–4 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-fruit-of-our-hands-ministries-w234-0930",
+      "seriesSlug": "add-the-fruit-of-our-hands-ministries",
+      "title": "The Fruit of Our Hands Ministries — Free Food",
+      "description": "Free food at The Fruit of Our Hands Ministries. Schedule: Tue–Thu 9:30 AM–11:30 AM; Thu–Fri 9:30 AM–1:30 PM. Call (951) 289-9808 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Fruit of Our Hands Ministries",
+      "address": "7000 Indiana Ave Suite 114, Riverside, CA 92506",
+      "lat": 33.940252,
+      "lng": -117.394849,
+      "category": "food-assistance",
+      "sourceOrg": "The Fruit of Our Hands Ministries",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Tue–Thu 9:30 AM–11:30 AM; Thu–Fri 9:30 AM–1:30 PM",
+      "start": "2026-09-28T09:30",
+      "end": "2026-09-28T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-fruit-of-our-hands-ministries-w45-0930",
+      "seriesSlug": "add-the-fruit-of-our-hands-ministries",
+      "title": "The Fruit of Our Hands Ministries — Free Food",
+      "description": "Free food at The Fruit of Our Hands Ministries. Schedule: Tue–Thu 9:30 AM–11:30 AM; Thu–Fri 9:30 AM–1:30 PM. Call (951) 289-9808 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Fruit of Our Hands Ministries",
+      "address": "7000 Indiana Ave Suite 114, Riverside, CA 92506",
+      "lat": 33.940252,
+      "lng": -117.394849,
+      "category": "food-assistance",
+      "sourceOrg": "The Fruit of Our Hands Ministries",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Tue–Thu 9:30 AM–11:30 AM; Thu–Fri 9:30 AM–1:30 PM",
+      "start": "2026-09-28T09:30",
+      "end": "2026-09-28T13:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-saint-vincent-de-paul-w12345-0900",
+      "seriesSlug": "add-saint-vincent-de-paul",
+      "title": "Saint Vincent De Paul — Free Food",
+      "description": "Free food at Saint Vincent De Paul. Schedule: Mon–Fri 9 AM–5 PM. Eligibility: delivery only. Call (951) 684-7386 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Saint Vincent De Paul",
+      "address": "6956 Nixon Dr, Riverside, CA 92506",
+      "lat": 33.94399,
+      "lng": -117.3967,
+      "category": "food-assistance",
+      "sourceOrg": "Saint Vincent De Paul",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon–Fri 9 AM–5 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-catholic-charities-riverside-m34-0900",
+      "seriesSlug": "add-catholic-charities-riverside",
+      "title": "Catholic Charities - Riverside — Free Food",
+      "description": "Free food at Catholic Charities - Riverside. Schedule: 3rd Thu 9 AM–12 PM. Call (909) 388-1239 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Catholic Charities - Riverside",
+      "address": "3020 Madison St, Riverside, CA 92504",
+      "lat": 33.93076,
+      "lng": -117.40103,
+      "category": "food-assistance",
+      "sourceOrg": "Catholic Charities - Riverside",
+      "url": "https://ccsbriv.com",
+      "schedulePattern": "3rd Thu 9 AM–12 PM",
+      "start": "2026-10-08T09:00",
+      "end": "2026-10-08T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-trinity-evangelical-lutheran-church-w3-0800",
+      "seriesSlug": "add-trinity-evangelical-lutheran-church",
+      "title": "Trinity Evangelical Lutheran Church — Free Food",
+      "description": "Free food at Trinity Evangelical Lutheran Church. Schedule: Wed 8 AM–10 AM. Call (951) 500-6510 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Trinity Evangelical Lutheran Church",
+      "address": "5969 Brockton Ave, Riverside, CA 92506",
+      "lat": 33.961265,
+      "lng": -117.396864,
+      "category": "food-assistance",
+      "sourceOrg": "Trinity Evangelical Lutheran Church",
+      "url": "https://trinityriverside.org",
+      "schedulePattern": "Wed 8 AM–10 AM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T10:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-casa-blanca-home-of-neighborly-services-w3-1000",
+      "seriesSlug": "add-casa-blanca-home-of-neighborly-services",
+      "title": "Casa Blanca Home of Neighborly Services — Free Food",
+      "description": "Free food at Casa Blanca Home of Neighborly Services. Schedule: Wed 10 AM–11 AM. Eligibility: by appointment only. Call (951) 688-3043 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Casa Blanca Home of Neighborly Services",
+      "address": "7680 Casa Blanca St, Riverside, CA 92504",
+      "lat": 33.931992,
+      "lng": -117.406788,
+      "category": "food-assistance",
+      "sourceOrg": "Casa Blanca Home of Neighborly Services",
+      "url": "https://casablancahns.org",
+      "schedulePattern": "Wed 10 AM–11 AM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-mt-calvary-missionary-baptist-church-m26-1000",
+      "seriesSlug": "add-mt-calvary-missionary-baptist-church",
+      "title": "Mt. Calvary Missionary Baptist Church — Free Food",
+      "description": "Free food at Mt. Calvary Missionary Baptist Church. Schedule: 2nd Sat 10 AM–1 PM. Call (951) 684-6480 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Mt. Calvary Missionary Baptist Church",
+      "address": "5476 34th St, Riverside, CA 92509",
+      "lat": 33.998721,
+      "lng": -117.400637,
+      "category": "food-assistance",
+      "sourceOrg": "Mt. Calvary Missionary Baptist Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "2nd Sat 10 AM–1 PM",
+      "start": "2026-10-10T10:00",
+      "end": "2026-10-10T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-bethel-christian-center-w7-1130",
+      "seriesSlug": "add-bethel-christian-center",
+      "title": "Bethel Christian Center — Free Food",
+      "description": "Free food at Bethel Christian Center. Schedule: Sun 11:30 AM–12:30 PM; Mon–Fri 8 AM–12 PM. Call (951) 359-1123 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Bethel Christian Center",
+      "address": "2425 Van Buren Boulevard, Riverside, CA 92503",
+      "lat": 33.901428,
+      "lng": -117.429188,
+      "category": "food-assistance",
+      "sourceOrg": "Bethel Christian Center",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Sun 11:30 AM–12:30 PM; Mon–Fri 8 AM–12 PM",
+      "start": "2026-09-28T11:30",
+      "end": "2026-09-28T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-bethel-christian-center-w12345-0800",
+      "seriesSlug": "add-bethel-christian-center",
+      "title": "Bethel Christian Center — Free Food",
+      "description": "Free food at Bethel Christian Center. Schedule: Sun 11:30 AM–12:30 PM; Mon–Fri 8 AM–12 PM. Call (951) 359-1123 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Bethel Christian Center",
+      "address": "2425 Van Buren Boulevard, Riverside, CA 92503",
+      "lat": 33.901428,
+      "lng": -117.429188,
+      "category": "food-assistance",
+      "sourceOrg": "Bethel Christian Center",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Sun 11:30 AM–12:30 PM; Mon–Fri 8 AM–12 PM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-our-lady-of-perpetual-help-w245-1000",
+      "seriesSlug": "add-our-lady-of-perpetual-help",
+      "title": "Our Lady Of Perpetual Help — Free Food",
+      "description": "Free food at Our Lady Of Perpetual Help. Schedule: Tue, Thu–Fri 10 AM–12 PM. Call (951) 689-8921 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Our Lady Of Perpetual Help",
+      "address": "5250 Central Ave, Riverside, CA 92504",
+      "lat": 33.95297,
+      "lng": -117.41822,
+      "category": "food-assistance",
+      "sourceOrg": "Our Lady Of Perpetual Help",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Tue, Thu–Fri 10 AM–12 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-magnolia-church-m46-0900",
+      "seriesSlug": "add-magnolia-church",
+      "title": "Magnolia Church — Free Food",
+      "description": "Free food at Magnolia Church. Schedule: 4th Sat 9 AM–10:30 AM. Call (951) 689-5700 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Magnolia Church",
+      "address": "8351 Magnolia Ave, Riverside, CA 92504",
+      "lat": 33.933702,
+      "lng": -117.425799,
+      "category": "food-assistance",
+      "sourceOrg": "Magnolia Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "4th Sat 9 AM–10:30 AM",
+      "start": "2026-10-10T09:00",
+      "end": "2026-10-10T10:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-central-community-christian-fellowship-w3-0800",
+      "seriesSlug": "add-central-community-christian-fellowship",
+      "title": "Central Community Christian Fellowship — Free Food",
+      "description": "Free food at Central Community Christian Fellowship. Schedule: Wed 8 AM–10 AM; Tue–Thu, Sat 9 AM–5 PM. Call (951) 689-5806 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Central Community Christian Fellowship",
+      "address": "5623 Arlington Ave, Riverside, CA 92504",
+      "lat": 33.9463,
+      "lng": -117.425735,
+      "category": "food-assistance",
+      "sourceOrg": "Central Community Christian Fellowship",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Wed 8 AM–10 AM; Tue–Thu, Sat 9 AM–5 PM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T10:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-central-community-christian-fellowship-w2346-0900",
+      "seriesSlug": "add-central-community-christian-fellowship",
+      "title": "Central Community Christian Fellowship — Free Food",
+      "description": "Free food at Central Community Christian Fellowship. Schedule: Wed 8 AM–10 AM; Tue–Thu, Sat 9 AM–5 PM. Call (951) 689-5806 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Central Community Christian Fellowship",
+      "address": "5623 Arlington Ave, Riverside, CA 92504",
+      "lat": 33.9463,
+      "lng": -117.425735,
+      "category": "food-assistance",
+      "sourceOrg": "Central Community Christian Fellowship",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Wed 8 AM–10 AM; Tue–Thu, Sat 9 AM–5 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3,4,6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-avenue-w7-0900",
+      "seriesSlug": "add-the-avenue",
+      "title": "The Avenue — Free Food",
+      "description": "Free food at The Avenue. Schedule: Sun 9 AM–12 PM; Wed–Fri 9 AM–3 PM. Call (618) 560-7416 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Avenue",
+      "address": "8223 California Ave, Riverside, CA 92504",
+      "lat": 33.940388,
+      "lng": -117.428271,
+      "category": "food-assistance",
+      "sourceOrg": "The Avenue",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Sun 9 AM–12 PM; Wed–Fri 9 AM–3 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-avenue-w345-0900",
+      "seriesSlug": "add-the-avenue",
+      "title": "The Avenue — Free Food",
+      "description": "Free food at The Avenue. Schedule: Sun 9 AM–12 PM; Wed–Fri 9 AM–3 PM. Call (618) 560-7416 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Avenue",
+      "address": "8223 California Ave, Riverside, CA 92504",
+      "lat": 33.940388,
+      "lng": -117.428271,
+      "category": "food-assistance",
+      "sourceOrg": "The Avenue",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Sun 9 AM–12 PM; Wed–Fri 9 AM–3 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-arlington-sda-church-w2-0900",
+      "seriesSlug": "add-arlington-sda-church",
+      "title": "Arlington SDA Church — Free Food",
+      "description": "Free food at Arlington SDA Church. Schedule: Tue 9 AM–11:30 AM. Call (951) 688-6630 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Arlington SDA Church",
+      "address": "8778 Magnolia Ave, Riverside, CA 92503",
+      "lat": 33.92755,
+      "lng": -117.43252,
+      "category": "food-assistance",
+      "sourceOrg": "Arlington SDA Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Tue 9 AM–11:30 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-wesley-united-methodist-church-w5-0900",
+      "seriesSlug": "add-wesley-united-methodist-church",
+      "title": "Wesley United Methodist Church — Free Food",
+      "description": "Free food at Wesley United Methodist Church. Schedule: Fri 9 AM–10 AM. Call (951) 689-2649 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Wesley United Methodist Church",
+      "address": "5770 Arlington Ave, Riverside, CA 92504",
+      "lat": 33.945704,
+      "lng": -117.428651,
+      "category": "food-assistance",
+      "sourceOrg": "Wesley United Methodist Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Fri 9 AM–10 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T10:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-mfi-recovery-center-m32-0900",
+      "seriesSlug": "add-mfi-recovery-center",
+      "title": "MFI Recovery Center — Free Food",
+      "description": "Free food at MFI Recovery Center. Schedule: 3rd Tue 9 AM–11 AM. Call (951) 683-6596 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "MFI Recovery Center",
+      "address": "5860 Arlington Ave, Riverside, CA 92504",
+      "lat": 33.945597,
+      "lng": -117.430933,
+      "category": "food-assistance",
+      "sourceOrg": "MFI Recovery Center",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "3rd Tue 9 AM–11 AM",
+      "start": "2026-10-06T09:00",
+      "end": "2026-10-06T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "3:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-eddie-dee-center-w3-0900",
+      "seriesSlug": "add-eddie-dee-center",
+      "title": "Eddie Dee Center — Free Food",
+      "description": "Free food at Eddie Dee Center. Schedule: Wed 9 AM–12 PM; 1st Thu 9 AM–12 PM. Call (951) 275-9975 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Eddie Dee Center",
+      "address": "5888 Mission Blvd, Rubidoux, CA 92509",
+      "lat": 34.000668,
+      "lng": -117.415252,
+      "category": "food-assistance",
+      "sourceOrg": "Eddie Dee Center",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Wed 9 AM–12 PM; 1st Thu 9 AM–12 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-eddie-dee-center-m14-0900",
+      "seriesSlug": "add-eddie-dee-center",
+      "title": "Eddie Dee Center — Free Food",
+      "description": "Free food at Eddie Dee Center. Schedule: Wed 9 AM–12 PM; 1st Thu 9 AM–12 PM. Call (951) 275-9975 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Eddie Dee Center",
+      "address": "5888 Mission Blvd, Rubidoux, CA 92509",
+      "lat": 34.000668,
+      "lng": -117.415252,
+      "category": "food-assistance",
+      "sourceOrg": "Eddie Dee Center",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Wed 9 AM–12 PM; 1st Thu 9 AM–12 PM",
+      "start": "2026-10-08T09:00",
+      "end": "2026-10-08T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-saint-michael-s-episcopal-church-w1234-0900",
+      "seriesSlug": "add-saint-michael-s-episcopal-church",
+      "title": "Saint Michael's Episcopal Church — Free Food",
+      "description": "Free food at Saint Michael's Episcopal Church. Schedule: Mon–Thu 9 AM–1 PM. Call (951) 689-0642 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Saint Michael's Episcopal Church",
+      "address": "4070 Jackson St, Riverside, CA 92503",
+      "lat": 33.928476,
+      "lng": -117.443061,
+      "category": "food-assistance",
+      "sourceOrg": "Saint Michael's Episcopal Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon–Thu 9 AM–1 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-feeding-the-neighborhood-m36-0830",
+      "seriesSlug": "add-feeding-the-neighborhood",
+      "title": "Feeding the Neighborhood — Free Food",
+      "description": "Free food at Feeding the Neighborhood. Schedule: 3rd Sat 8:30 AM–1 PM. Call (951) 809-4379 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Feeding the Neighborhood",
+      "address": "9800 Indiana Ave Suite 2, Riverside, CA 92503",
+      "lat": 33.910249,
+      "lng": -117.44728,
+      "category": "food-assistance",
+      "sourceOrg": "Feeding the Neighborhood",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "3rd Sat 8:30 AM–1 PM",
+      "start": "2026-10-10T08:30",
+      "end": "2026-10-10T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-lighthouse-of-hope-foundation-w135-1100",
+      "seriesSlug": "add-lighthouse-of-hope-foundation",
+      "title": "Lighthouse of Hope Foundation — Free Food",
+      "description": "Free food at Lighthouse of Hope Foundation. Schedule: Mon, Wed, Fri 11 AM–2 PM; 3rd Sat 10 AM–12 PM. Call (951) 213-5590 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Lighthouse of Hope Foundation",
+      "address": "9085 California Ave, Riverside, CA 92503",
+      "lat": 33.931405,
+      "lng": -117.443926,
+      "category": "food-assistance",
+      "sourceOrg": "Lighthouse of Hope Foundation",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon, Wed, Fri 11 AM–2 PM; 3rd Sat 10 AM–12 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-lighthouse-of-hope-foundation-m36-1000",
+      "seriesSlug": "add-lighthouse-of-hope-foundation",
+      "title": "Lighthouse of Hope Foundation — Free Food",
+      "description": "Free food at Lighthouse of Hope Foundation. Schedule: Mon, Wed, Fri 11 AM–2 PM; 3rd Sat 10 AM–12 PM. Call (951) 213-5590 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Lighthouse of Hope Foundation",
+      "address": "9085 California Ave, Riverside, CA 92503",
+      "lat": 33.931405,
+      "lng": -117.443926,
+      "category": "food-assistance",
+      "sourceOrg": "Lighthouse of Hope Foundation",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon, Wed, Fri 11 AM–2 PM; 3rd Sat 10 AM–12 PM",
+      "start": "2026-10-10T10:00",
+      "end": "2026-10-10T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-john-the-evangelist-catholic-church-w3-0930",
+      "seriesSlug": "add-st-john-the-evangelist-catholic-church",
+      "title": "St. John The Evangelist Catholic Church — Free Food",
+      "description": "Free food at St. John The Evangelist Catholic Church. Schedule: Wed 9:30 AM–11:30 AM. Call (951) 684-6864 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. John The Evangelist Catholic Church",
+      "address": "3980 Opal St, Riverside, CA 92509",
+      "lat": 34.003561,
+      "lng": -117.425379,
+      "category": "food-assistance",
+      "sourceOrg": "St. John The Evangelist Catholic Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Wed 9:30 AM–11:30 AM",
+      "start": "2026-09-28T09:30",
+      "end": "2026-09-28T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-reformed-baptist-church-m36-0900",
+      "seriesSlug": "add-reformed-baptist-church",
+      "title": "Reformed Baptist Church — Free Food",
+      "description": "Free food at Reformed Baptist Church. Schedule: 3rd Sat 9 AM–10:30 AM. Call (951) 776-7680 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Reformed Baptist Church",
+      "address": "7250 Mission Blvd, Jurupa Valley, CA 92509",
+      "lat": 34.011749,
+      "lng": -117.441488,
+      "category": "food-assistance",
+      "sourceOrg": "Reformed Baptist Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "3rd Sat 9 AM–10:30 AM",
+      "start": "2026-10-10T09:00",
+      "end": "2026-10-10T10:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-lake-hills-christian-center-w135-0900",
+      "seriesSlug": "add-lake-hills-christian-center",
+      "title": "Lake Hills Christian Center — Free Food",
+      "description": "Free food at Lake Hills Christian Center. Schedule: Mon, Wed, Fri 9 AM–11 AM. Call (951) 737-6680 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Lake Hills Christian Center",
+      "address": "12500 Indiana Ave, Riverside, CA 92503",
+      "lat": 33.88327,
+      "lng": -117.496265,
+      "category": "food-assistance",
+      "sourceOrg": "Lake Hills Christian Center",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon, Wed, Fri 9 AM–11 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-arlington-temporary-assistance-w1234-1000",
+      "seriesSlug": "add-arlington-temporary-assistance",
+      "title": "Arlington Temporary Assistance — Free Food",
+      "description": "Free food at Arlington Temporary Assistance. Schedule: Mon–Thu 10 AM–1 PM. Call (951) 689-5620 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Arlington Temporary Assistance",
+      "address": "10495 Arlington Ave #112, Riverside, CA 92505",
+      "lat": 33.946721,
+      "lng": -117.483035,
+      "category": "food-assistance",
+      "sourceOrg": "Arlington Temporary Assistance",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon–Thu 10 AM–1 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-la-sierra-senior-center-m25-0900",
+      "seriesSlug": "add-la-sierra-senior-center",
+      "title": "La Sierra Senior Center — Free Food",
+      "description": "Free food at La Sierra Senior Center. Schedule: 2nd Fri 9 AM–1 PM. Call (951) 351-6437 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "La Sierra Senior Center",
+      "address": "5215 La Sierra Ave B, Riverside, CA 92505",
+      "lat": 33.926058,
+      "lng": -117.492258,
+      "category": "food-assistance",
+      "sourceOrg": "La Sierra Senior Center",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "2nd Fri 9 AM–1 PM",
+      "start": "2026-10-09T09:00",
+      "end": "2026-10-09T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "2:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-la-sierra-spanish-sda-w3-0800",
+      "seriesSlug": "add-la-sierra-spanish-sda",
+      "title": "La Sierra Spanish SDA — Free Food",
+      "description": "Free food at La Sierra Spanish SDA. Schedule: Wed 8 AM–10 AM. Call (951) 533-7680 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "La Sierra Spanish SDA",
+      "address": "5885 La Sierra Ave, Riverside, CA 92505",
+      "lat": 33.936969,
+      "lng": -117.496057,
+      "category": "food-assistance",
+      "sourceOrg": "La Sierra Spanish SDA",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Wed 8 AM–10 AM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T10:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-inland-vineyard-christian-fellowship-w6-0900",
+      "seriesSlug": "add-inland-vineyard-christian-fellowship",
+      "title": "Inland Vineyard Christian Fellowship — Free Food",
+      "description": "Free food at Inland Vineyard Christian Fellowship. Schedule: Sat 9 AM–10 AM. Call (951) 549-1192 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Inland Vineyard Christian Fellowship",
+      "address": "935 N McKinley St, Corona, CA 92879",
+      "lat": 33.898696,
+      "lng": -117.528931,
+      "category": "food-assistance",
+      "sourceOrg": "Inland Vineyard Christian Fellowship",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Sat 9 AM–10 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T10:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-manna-ministries-vision-plus-church-w2-0800",
+      "seriesSlug": "add-manna-ministries-vision-plus-church",
+      "title": "Manna Ministries - Vision Plus Church — Free Food",
+      "description": "Free food at Manna Ministries - Vision Plus Church. Schedule: Tue 8 AM–2 PM; Thu 8 AM–3 PM. Call (951) 236-9477 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Manna Ministries - Vision Plus Church",
+      "address": "9875 Bellegrave Ave, Jurupa Valley, CA 92509",
+      "lat": 34.00718,
+      "lng": -117.50092,
+      "category": "food-assistance",
+      "sourceOrg": "Manna Ministries - Vision Plus Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Tue 8 AM–2 PM; Thu 8 AM–3 PM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-manna-ministries-vision-plus-church-w4-0800",
+      "seriesSlug": "add-manna-ministries-vision-plus-church",
+      "title": "Manna Ministries - Vision Plus Church — Free Food",
+      "description": "Free food at Manna Ministries - Vision Plus Church. Schedule: Tue 8 AM–2 PM; Thu 8 AM–3 PM. Call (951) 236-9477 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Manna Ministries - Vision Plus Church",
+      "address": "9875 Bellegrave Ave, Jurupa Valley, CA 92509",
+      "lat": 34.00718,
+      "lng": -117.50092,
+      "category": "food-assistance",
+      "sourceOrg": "Manna Ministries - Vision Plus Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Tue 8 AM–2 PM; Thu 8 AM–3 PM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-truth-church-m36-0800",
+      "seriesSlug": "add-the-truth-church",
+      "title": "The Truth Church — Free Food",
+      "description": "Free food at The Truth Church. Schedule: 3rd Sat 8 AM–12 PM. Call (909) 625-7975 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Truth Church",
+      "address": "10281 54th St, Mira Loma, CA 91752",
+      "lat": 33.990173,
+      "lng": -117.50824,
+      "category": "food-assistance",
+      "sourceOrg": "The Truth Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "3rd Sat 8 AM–12 PM",
+      "start": "2026-10-10T08:00",
+      "end": "2026-10-10T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sacred-heart-catholic-church-m12-0800",
+      "seriesSlug": "add-sacred-heart-catholic-church",
+      "title": "Sacred Heart Catholic Church — Free Food",
+      "description": "Free food at Sacred Heart Catholic Church. Schedule: 1st Tue 8 AM–11 AM. Call (951) 515-1806 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Sacred Heart Catholic Church",
+      "address": "9935 Mission Blvd, Riverside, CA 92509",
+      "lat": 34.014403,
+      "lng": -117.501845,
+      "category": "food-assistance",
+      "sourceOrg": "Sacred Heart Catholic Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "1st Tue 8 AM–11 AM",
+      "start": "2026-10-06T08:00",
+      "end": "2026-10-06T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "1:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-calvary-chapel-inland-w7-0900",
+      "seriesSlug": "add-calvary-chapel-inland",
+      "title": "Calvary Chapel Inland — Free Food",
+      "description": "Free food at Calvary Chapel Inland. Schedule: Sun 9 AM–1 PM. Call (951) 318-7724 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Calvary Chapel Inland",
+      "address": "5383 Martin St, Mira Loma, CA 91752",
+      "lat": 33.99035,
+      "lng": -117.5203,
+      "category": "food-assistance",
+      "sourceOrg": "Calvary Chapel Inland",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Sun 9 AM–1 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-crossroads-christian-church-w4-1000",
+      "seriesSlug": "add-crossroads-christian-church",
+      "title": "Crossroads Christian Church — Free Food",
+      "description": "Free food at Crossroads Christian Church. Schedule: Thu 10 AM–11 AM. Call (951) 314-7036 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Crossroads Christian Church",
+      "address": "2331 Kellogg Ave, Corona, CA 92881",
+      "lat": 33.851977,
+      "lng": -117.556688,
+      "category": "food-assistance",
+      "sourceOrg": "Crossroads Christian Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Thu 10 AM–11 AM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-beacon-hill-assembly-of-god-m1636-0900",
+      "seriesSlug": "add-beacon-hill-assembly-of-god",
+      "title": "Beacon Hill Assembly of God — Free Food",
+      "description": "Free food at Beacon Hill Assembly of God. Schedule: 1st Sat & 3rd Sat 9 AM–11 AM. Call (951) 736-0555 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Beacon Hill Assembly of God",
+      "address": "3659 Corona Ave, Norco, CA 92860",
+      "lat": 33.935599,
+      "lng": -117.544998,
+      "category": "food-assistance",
+      "sourceOrg": "Beacon Hill Assembly of God",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "1st Sat & 3rd Sat 9 AM–11 AM",
+      "start": "2026-10-10T09:00",
+      "end": "2026-10-10T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "1:6,3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sda-corona-main-spanish-m1333-2000",
+      "seriesSlug": "add-sda-corona-main-spanish",
+      "title": "SDA Corona Main Spanish — Free Food",
+      "description": "Free food at SDA Corona Main Spanish. Schedule: 1st Wed & 3rd Wed 8 PM–9 PM. Call (951) 690-6438 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "SDA Corona Main Spanish",
+      "address": "114 E 10th St, Corona, CA 92879",
+      "lat": 33.871058,
+      "lng": -117.566345,
+      "category": "food-assistance",
+      "sourceOrg": "SDA Corona Main Spanish",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "1st Wed & 3rd Wed 8 PM–9 PM",
+      "start": "2026-10-07T20:00",
+      "end": "2026-10-07T21:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "1:3,3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-corona-senior-center-m23-0900",
+      "seriesSlug": "add-corona-senior-center",
+      "title": "Corona Senior Center — Free Food",
+      "description": "Free food at Corona Senior Center. Schedule: 2nd Wed 9 AM–11 AM. Call (951) 817-5755 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Corona Senior Center",
+      "address": "365 N Main St, Corona, CA 92878",
+      "lat": 33.884642,
+      "lng": -117.564475,
+      "category": "food-assistance",
+      "sourceOrg": "Corona Senior Center",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "2nd Wed 9 AM–11 AM",
+      "start": "2026-10-07T09:00",
+      "end": "2026-10-07T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "2:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-river-run-senior-apartments-m32-0900",
+      "seriesSlug": "add-river-run-senior-apartments",
+      "title": "River Run Senior Apartments — Free Food",
+      "description": "Free food at River Run Senior Apartments. Schedule: 3rd Tue 9 AM–11 AM. Call (951) 808-8300 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "River Run Senior Apartments",
+      "address": "863 River Rd, Corona, CA 92878",
+      "lat": 33.897119,
+      "lng": -117.571582,
+      "category": "food-assistance",
+      "sourceOrg": "River Run Senior Apartments",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "3rd Tue 9 AM–11 AM",
+      "start": "2026-10-06T09:00",
+      "end": "2026-10-06T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "3:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-vantagepoint-church-m42-1000",
+      "seriesSlug": "add-vantagepoint-church",
+      "title": "Vantagepoint Church — Free Food",
+      "description": "Free food at Vantagepoint Church. Schedule: 4th Tue 10 AM–11 AM. Call (951) 727-3524 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Vantagepoint Church",
+      "address": "12750 Citrus St, Eastvale, CA 92880",
+      "lat": 33.951697,
+      "lng": -117.560251,
+      "category": "food-assistance",
+      "sourceOrg": "Vantagepoint Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "4th Tue 10 AM–11 AM",
+      "start": "2026-10-06T10:00",
+      "end": "2026-10-06T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "4:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-new-beginnings-community-church-norco-w7-0900",
+      "seriesSlug": "add-new-beginnings-community-church-norco",
+      "title": "New Beginnings Community Church Norco — Free Food",
+      "description": "Free food at New Beginnings Community Church Norco. Schedule: Sun 9 AM–12:30 PM. Call (951) 734-9574 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "New Beginnings Community Church Norco",
+      "address": "1769 Western Ave, Norco, CA 92860",
+      "lat": 33.906757,
+      "lng": -117.574581,
+      "category": "food-assistance",
+      "sourceOrg": "New Beginnings Community Church Norco",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Sun 9 AM–12:30 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-new-hope-family-worship-center-w6-1000",
+      "seriesSlug": "add-new-hope-family-worship-center",
+      "title": "New Hope Family Worship Center — Free Food",
+      "description": "Free food at New Hope Family Worship Center. Schedule: Sat 10 AM–12 PM. Call (951) 737-4673 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "New Hope Family Worship Center",
+      "address": "804 S Lincoln Ave, Corona, CA 92882",
+      "lat": 33.874983,
+      "lng": -117.584475,
+      "category": "food-assistance",
+      "sourceOrg": "New Hope Family Worship Center",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Sat 10 AM–12 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-riverside-central-iglesia-adventista-del-septimo-w3-1000",
+      "seriesSlug": "add-riverside-central-iglesia-adventista-del-septimo",
+      "title": "Riverside Central - Iglesia Adventista Del Septimo Dia — Free Food",
+      "description": "Free food at Riverside Central - Iglesia Adventista Del Septimo Dia. Schedule: Wed 10 AM–10:30 AM. Call (951) 393-9975 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Riverside Central - Iglesia Adventista Del Septimo Dia",
+      "address": "5363 Tyler Ave, Riverside, CA 92503",
+      "lat": 33.933825,
+      "lng": -117.477296,
+      "category": "food-assistance",
+      "sourceOrg": "Riverside Central - Iglesia Adventista Del Septimo Dia",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Wed 10 AM–10:30 AM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T10:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    }
+  ]
+}

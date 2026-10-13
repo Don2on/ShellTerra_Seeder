@@ -1,0 +1,483 @@
+{
+  "_meta": {
+    "topic": "Napa County food distributions",
+    "generated": "2026-10-11",
+    "source": "Hand-collected list (Food Bank for Monterey County, Community Action of Napa Valley, Food Bank of Nevada County / 211). Schedules parsed via LA clause parser. lat/lng geocoded downstream.",
+    "note": "Drop-in raw for prepare-food-additions.mjs. \"Monthly <day>\"/\"twice a month\"/single start-times route to _deferred."
+  },
+  "sites": [
+    {
+      "name": "Harvest Freewill Baptist Church (pantry)",
+      "org": "Harvest Freewill Baptist Church (pantry)",
+      "address": "240 Rio Del Mar, American Canyon, CA 94503",
+      "phone": "(707) 253-6128",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Tue 3:30-5:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue",
+            "4th Tue"
+          ],
+          "open": "15:30",
+          "close": "17:30"
+        }
+      ]
+    },
+    {
+      "name": "Las Casitas Mobile Home Park (free market)",
+      "org": "Las Casitas Mobile Home Park (free market)",
+      "address": "3000 Broadway St, American Canyon, CA 94503",
+      "phone": "(707) 253-6128",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Fri 2-4pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri"
+          ],
+          "open": "14:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Old Napa Junction Elementary Room 4 (Kiwanis pantry and USDA)",
+      "org": "Old Napa Junction Elementary Room 4 (Kiwanis pantry and USDA)",
+      "address": "300 Napa Junction Rd, American Canyon, CA 94503",
+      "phone": "(707) 253-6128",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Thu 3:30-5pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Thu"
+          ],
+          "open": "15:30",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Angwin Pop-Up Pantry (parking lot)",
+      "org": "Angwin Pop-Up Pantry (parking lot)",
+      "address": "1 Angwin Ave, Angwin, CA 94508",
+      "phone": "(707) 253-6128",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Tue 6-7:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Tue",
+            "3rd Tue"
+          ],
+          "open": "18:00",
+          "close": "19:30"
+        }
+      ]
+    },
+    {
+      "name": "Calistoga Cares Pantry (Fairgrounds Tubbs Building)",
+      "org": "Calistoga Cares Pantry (Fairgrounds Tubbs Building)",
+      "address": "1435 N. Oak St, Calistoga, CA 94515",
+      "phone": "(707) 253-6128",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Thu 2-5pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu",
+            "4th Thu"
+          ],
+          "open": "14:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Calistoga Elementary School (free market)",
+      "org": "Calistoga Elementary School (free market)",
+      "address": "1327 Berry St, Calistoga, CA 94515",
+      "phone": "(707) 253-6128",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Fri 3-4pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri"
+          ],
+          "open": "15:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "OLE Health Calistoga (free market)",
+      "org": "OLE Health Calistoga (free market)",
+      "address": "911 Washington St, Calistoga, CA 94515",
+      "phone": "(707) 253-6128",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Fri 2:30-4:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Fri"
+          ],
+          "open": "14:30",
+          "close": "16:30"
+        }
+      ]
+    },
+    {
+      "name": "Lake Berryessa Pantry (Moskowite Corners)",
+      "org": "Lake Berryessa Pantry (Moskowite Corners)",
+      "address": "6004 Monticello Rd, Lake Berryessa, CA 94558",
+      "phone": "(707) 253-6128",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Wed 11am-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Wed"
+          ],
+          "open": "11:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Spanish Flat Campground (free market)",
+      "org": "Spanish Flat Campground (free market)",
+      "address": "4290 Knoxville Rd, Lake Berryessa, CA 94558",
+      "phone": "(707) 253-6128",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Thu 2-4pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu"
+          ],
+          "open": "14:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "CANV Food Bank pantry",
+      "org": "CANV Food Bank pantry",
+      "address": "938 Kaiser Rd, Napa, CA 94558",
+      "phone": "(707) 253-6128",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "once a month",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "09:00",
+          "close": "13:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "13:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "CalFresh Office Self Sufficiency Services (free market)",
+      "org": "CalFresh Office Self Sufficiency Services (free market)",
+      "address": "2751 Napa Valley Corporate Dr, Napa, CA 94558",
+      "phone": "(707) 253-6128",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Fri 2-4pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Fri"
+          ],
+          "open": "14:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Covenant Presbyterian Church (free market)",
+      "org": "Covenant Presbyterian Church (free market)",
+      "address": "1226 Salvador Ave, Napa, CA 94558",
+      "phone": "(707) 253-6128",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "5th Fri 2-4pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "5th Fri"
+          ],
+          "open": "14:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Napa Senior Center (USDA distribution)",
+      "org": "Napa Senior Center (USDA distribution)",
+      "address": "1500 Jefferson St, Napa, CA 94559",
+      "phone": "(707) 253-6128",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Mon 10-11:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Mon"
+          ],
+          "open": "10:00",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "OLE Health Napa (free market)",
+      "org": "OLE Health Napa (free market)",
+      "address": "1141 Pear Tree Ln, Napa, CA 94558",
+      "phone": "(707) 253-6128",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Fri 2-4pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Fri"
+          ],
+          "open": "14:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Saint Thomas Aquinas Catholic Church (free market)",
+      "org": "Saint Thomas Aquinas Catholic Church (free market)",
+      "address": "2725 Elm St, Napa, CA 94558",
+      "phone": "(707) 253-6128",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Fri 3-4pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Fri"
+          ],
+          "open": "15:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Spanish Seventh-day Adventist Church (free market and USDA)",
+      "org": "Spanish Seventh-day Adventist Church (free market and USDA)",
+      "address": "1011 Pueblo Ave, Napa, CA 94558",
+      "phone": "(707) 253-6128",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Fri 2-4pm; USDA 3rd Thu 4-6pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Fri"
+          ],
+          "open": "14:00",
+          "close": "16:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Thu"
+          ],
+          "open": "16:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "The Father's House (free market)",
+      "org": "The Father's House (free market)",
+      "address": "860 Latour Ct, Napa, CA 94558",
+      "phone": "(707) 253-6128",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 9:30-11:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "09:30",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Pope Valley Farm Center (pantry and free market)",
+      "org": "Pope Valley Farm Center (pantry and free market)",
+      "address": "5800 Pope Valley Rd, Pope Valley, CA 94567",
+      "phone": "(707) 253-6128",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Pantry 1st Wed 12-2pm; free market 3rd Wed 12-2pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Wed"
+          ],
+          "open": "12:00",
+          "close": "14:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Wed"
+          ],
+          "open": "12:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Saint Helena High School (free market)",
+      "org": "Saint Helena High School (free market)",
+      "address": "1401 Grayson Ave, St. Helena, CA 94574",
+      "phone": "(707) 253-6128",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Fri 3-4pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Fri"
+          ],
+          "open": "15:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Helena Pantry (behind Seventh-day Adventist Church Hall)",
+      "org": "St. Helena Pantry (behind Seventh-day Adventist Church Hall)",
+      "address": "1777 Main St, St. Helena, CA 94574",
+      "phone": "(707) 253-6128",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue & Fri 2:30-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Fri"
+          ],
+          "open": "14:30",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Yountville Community Church (USDA distribution)",
+      "org": "Yountville Community Church (USDA distribution)",
+      "address": "6621 Yount St, Yountville, CA 94599",
+      "phone": "(707) 253-6128",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Thu 12-2pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Thu"
+          ],
+          "open": "12:00",
+          "close": "14:00"
+        }
+      ]
+    }
+  ]
+}

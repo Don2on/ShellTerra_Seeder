@@ -1,0 +1,157 @@
+{
+  "_meta": {
+    "topic": "Net-new Sierra County food distributions",
+    "generated": "2026-10-05",
+    "source": "Research supplementing shell PENDING-Sierra; raw ./SierraAdditions-raw.json."
+  },
+  "_deferred": {
+    "add-golden-rays-senior-center-commodities": {
+      "title": "Golden Rays Senior Center (commodities)",
+      "status": "Usually 1st Thu 8am Phone: 530-862-5030.",
+      "address": "305A Main St, Downieville, CA 95936",
+      "lat": 39.560515,
+      "lng": -120.82803,
+      "phone": "530-862-5030",
+      "eligibility": "",
+      "sourceUrl": "https://www.sierracounty.ca.gov"
+    }
+  },
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "add-western-sierra-food-bank-immaculate-conception-c-m14-1200",
+      "seriesSlug": "add-western-sierra-food-bank-immaculate-conception-c",
+      "title": "Western Sierra Food Bank (Immaculate Conception Catholic Church) — Free Food",
+      "description": "Free food at Western Sierra Food Bank (Immaculate Conception Catholic Church). Schedule: 1st Thu 12 PM–2 PM. Call 530-277-8954 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Western Sierra Food Bank (Immaculate Conception Catholic Church)",
+      "address": "Sunnyside Drive, Downieville, CA 95936",
+      "lat": 39.56133,
+      "lng": -120.828292,
+      "category": "food-assistance",
+      "sourceOrg": "Western Sierra Food Bank (Immaculate Conception Catholic Church)",
+      "url": "https://www.sierracounty.ca.gov",
+      "schedulePattern": "1st Thu 12 PM–2 PM",
+      "start": "2026-10-08T12:00",
+      "end": "2026-10-08T14:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-loyalton-senior-center-commodities-m14-1000",
+      "seriesSlug": "add-loyalton-senior-center-commodities",
+      "title": "Loyalton Senior Center (commodities) — Free Food",
+      "description": "Free food at Loyalton Senior Center (commodities). Schedule: 1st Thu 10 AM–12 PM. Call 530-993-4770 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Loyalton Senior Center (commodities)",
+      "address": "302 First Street, Loyalton, CA 96118",
+      "lat": 39.674988,
+      "lng": -120.241681,
+      "category": "food-assistance",
+      "sourceOrg": "Loyalton Senior Center (commodities)",
+      "url": "https://www.sierracounty.ca.gov",
+      "schedulePattern": "1st Thu 10 AM–12 PM",
+      "start": "2026-10-08T10:00",
+      "end": "2026-10-08T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-loyalton-food-bank-high-sierras-family-services-m1535123213331434-1000",
+      "seriesSlug": "add-loyalton-food-bank-high-sierras-family-services",
+      "title": "Loyalton Food Bank - High Sierras Family Services — Free Food",
+      "description": "Free food at Loyalton Food Bank - High Sierras Family Services. Schedule: 1st Fri & 3rd Fri & 1st Tue & 3rd Tue & 1st Wed & 3rd Wed & 1st Thu & 3rd Thu 10 AM–4 PM. Call 530-993-1110 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Loyalton Food Bank - High Sierras Family Services",
+      "address": "315 Main St, Loyalton, CA 96118",
+      "lat": 39.676092,
+      "lng": -120.24552,
+      "category": "food-assistance",
+      "sourceOrg": "Loyalton Food Bank - High Sierras Family Services",
+      "url": "https://www.sierracounty.ca.gov",
+      "schedulePattern": "1st Fri & 3rd Fri & 1st Tue & 3rd Tue & 1st Wed & 3rd Wed & 1st Thu & 3rd Thu 10 AM–4 PM",
+      "start": "2026-10-09T10:00",
+      "end": "2026-10-09T16:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 1,
+            "dayOfWeek": 2
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 2
+          },
+          {
+            "n": 1,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:5,3:5,1:2,3:2,1:3,3:3,1:4,3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sierra-city-community-hall-commodities-m-14-1300",
+      "seriesSlug": "add-sierra-city-community-hall-commodities",
+      "title": "Sierra City Community Hall (commodities) — Free Food",
+      "description": "Free food at Sierra City Community Hall (commodities). Schedule: last Thu 1 PM–3 PM. Call 530-862-1307 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Sierra City Community Hall (commodities)",
+      "address": "425 Main Street, Sierra City, CA 96125",
+      "lat": 39.567627,
+      "lng": -120.629539,
+      "category": "food-assistance",
+      "sourceOrg": "Sierra City Community Hall (commodities)",
+      "url": "https://www.sierracounty.ca.gov",
+      "schedulePattern": "last Thu 1 PM–3 PM",
+      "start": "2026-10-08T13:00",
+      "end": "2026-10-08T15:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": -1,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "-1:4"
+    }
+  ]
+}

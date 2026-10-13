@@ -1,0 +1,2747 @@
+{
+  "_meta": {
+    "topic": "Alameda County food distributions",
+    "generated": "2026-10-11",
+    "source": "Hand-collected list (ACCFB FoodNow, City of Oakland, AlCo/Senate districts, SLUSD, PLTS). Schedules parsed via LA clause parser. lat/lng omitted (geocoded downstream).",
+    "note": "Drop-in raw for prepare-food-additions.mjs (reads .sites[]). Sites without a parseable time range route to _deferred."
+  },
+  "sites": [
+    {
+      "name": "Alameda Food Bank",
+      "org": "Alameda Food Bank",
+      "address": "677 West Ranger Ave, Alameda, CA 94501",
+      "phone": "(510) 523-5850",
+      "eligibility": "must live, work or study in Alameda",
+      "website": "https://www.alamedafoodbank.org/get-food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 10am-4pm; Wed 10am-7pm; Fri 10am-4pm (must live, work or study in Alameda)",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "10:00",
+          "close": "16:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "10:00",
+          "close": "19:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Berkeley Food Network",
+      "org": "Berkeley Food Network",
+      "address": "1925 9th Street, Berkeley, CA 94710",
+      "phone": "(510) 616-5383",
+      "eligibility": "",
+      "website": "https://www.berkeleyfoodnetwork.org/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon & Wed 10am-2pm, 5-7pm; Tue & Thu 10am-2pm; 1st & 3rd Sat 10am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "open": "10:00",
+          "close": "14:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "open": "17:00",
+          "close": "19:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "open": "10:00",
+          "close": "14:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Sat",
+            "3rd Sat"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Berkeley Food Pantry",
+      "org": "Berkeley Food Pantry",
+      "address": "1600 Sacramento St, Berkeley, CA 94702",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Wed, Fri 2-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed",
+            "Fri"
+          ],
+          "open": "14:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Berkeley Youth Alternatives",
+      "org": "Berkeley Youth Alternatives",
+      "address": "1255 Allston Way, Berkeley, CA 94702",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Tue 11am-1pm and 4-6pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue",
+            "4th Tue"
+          ],
+          "open": "11:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "City Team Ministries - First Presbyterian Berkeley",
+      "org": "City Team Ministries - First Presbyterian Berkeley",
+      "address": "2407 Dana St, Berkeley, CA 94704",
+      "phone": "",
+      "eligibility": "register at first visit",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Sat 10-11:15am (register at first visit)",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Sat",
+            "3rd Sat"
+          ],
+          "open": "10:00",
+          "close": "11:15"
+        }
+      ]
+    },
+    {
+      "name": "Dorothy Day House",
+      "org": "Dorothy Day House",
+      "address": "1931 Center St, Berkeley, CA 94704",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Sat breakfast 7-8am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat"
+          ],
+          "open": "07:00",
+          "close": "08:00"
+        }
+      ]
+    },
+    {
+      "name": "Liberty Hill Baptist Church",
+      "org": "Liberty Hill Baptist Church",
+      "address": "997 University Ave, Berkeley, CA 94710",
+      "phone": "(510) 848-3855",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 12-2pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "12:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "M.A. Center Mother's Kitchen",
+      "org": "M.A. Center Mother's Kitchen",
+      "address": "1802 Fairview St, Berkeley, CA 94703",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Tue 12-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue",
+            "4th Tue"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "McGee Avenue Baptist Church",
+      "org": "McGee Avenue Baptist Church",
+      "address": "1640 Stuart St, Berkeley, CA 94703",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "meals",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed",
+            "Fri"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Multicultural Institute Inc",
+      "org": "Multicultural Institute Inc",
+      "address": "1920 7th Street, Berkeley, CA 94710",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 9:30-10:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "09:30",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "South Berkeley Community Church",
+      "org": "South Berkeley Community Church",
+      "address": "1802 Fairview St, Berkeley, CA 94703",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "meal",
+      "schedules": [],
+      "allowColocated": true
+    },
+    {
+      "name": "St. Marks Episcopal Church",
+      "org": "St. Marks Episcopal Church",
+      "address": "2300 Bancroft Way, Berkeley, CA 94704",
+      "phone": "(925) 818-3600",
+      "eligibility": "youth 13-25",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 6-9pm dinner (youth 13-25); 3rd Sat 5pm meal",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "18:00",
+          "close": "21:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Paul AME Church",
+      "org": "St. Paul AME Church",
+      "address": "2024 Ashby Avenue, Berkeley, CA 94703",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "meal",
+      "schedules": []
+    },
+    {
+      "name": "The Church By The Side Of The Road",
+      "org": "The Church By The Side Of The Road",
+      "address": "2108 Russell Street, Berkeley, CA 94705",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "meal",
+      "schedules": []
+    },
+    {
+      "name": "East Bay Food Not Bombs",
+      "org": "East Bay Food Not Bombs",
+      "address": "Multiple sites (Telegraph & Haste; People's Park; 8th & Harrison), Berkeley/Oakland, CA",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://eastbayfoodnotbombs.org/",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "Daily around 3pm, site varies",
+      "schedules": []
+    },
+    {
+      "name": "Faith Lutheran Church of Castro Valley Food Pantry",
+      "org": "Faith Lutheran Church of Castro Valley Food Pantry",
+      "address": "20080 Redwood Rd, Castro Valley, CA 94546",
+      "phone": "(510) 581-0818",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Thu 6:30-7:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu",
+            "3rd Thu"
+          ],
+          "open": "18:30",
+          "close": "19:30"
+        }
+      ]
+    },
+    {
+      "name": "Redwood Chapel Community Church",
+      "org": "Redwood Chapel Community Church",
+      "address": "19300 Redwood Rd, Castro Valley, CA 94546",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Sat 9-10:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "09:00",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "John Knox Presbyterian Church / Children's Emergency Food Bank",
+      "org": "John Knox Presbyterian Church / Children's Emergency Food Bank",
+      "address": "7421 Amarillo Rd, Dublin, CA 94568",
+      "phone": "(925) 828-5363",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "By appointment",
+      "schedules": []
+    },
+    {
+      "name": "St. Vincent de Paul (St. Raymond Catholic Church)",
+      "org": "St. Vincent de Paul (St. Raymond Catholic Church)",
+      "address": "11555 Shannon Ave, Dublin, CA 94568",
+      "phone": "(925) 574-7456",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Sat 8-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "08:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Emeryville Citizens Assistance Program (ECAP)",
+      "org": "Emeryville Citizens Assistance Program (ECAP)",
+      "address": "3610 San Pablo Ave, Emeryville, CA 94608",
+      "phone": "(510) 499-1263",
+      "eligibility": "",
+      "website": "https://www.ecapprogram.org/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Sat 12-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat"
+          ],
+          "open": "12:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Age Well Center at Lake Elizabeth",
+      "org": "Age Well Center at Lake Elizabeth",
+      "address": "40086 Paseo Padre Pkwy, Fremont, CA 94538",
+      "phone": "(510) 793-4583",
+      "eligibility": "ages 55+",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Thu 10:15am (ages 55+)",
+      "schedules": []
+    },
+    {
+      "name": "Age Well Center at South Fremont",
+      "org": "Age Well Center at South Fremont",
+      "address": "47111 Mission Falls Court, Fremont, CA 94539",
+      "phone": "",
+      "eligibility": "ages 55+",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Thu 10:15am (ages 55+)",
+      "schedules": []
+    },
+    {
+      "name": "Centerville Free Dining Room",
+      "org": "Centerville Free Dining Room",
+      "address": "4360 Central Ave, Fremont, CA 94536",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue & Thu 4-5:45pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "open": "16:00",
+          "close": "17:45"
+        }
+      ]
+    },
+    {
+      "name": "FACE (Fremont Adult and Continuing Education Center)",
+      "org": "FACE (Fremont Adult and Continuing Education Center)",
+      "address": "4700 Calaveras Ave, Fremont, CA 94538",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Tue 11:30am",
+      "schedules": []
+    },
+    {
+      "name": "Fremont Family Resource Center",
+      "org": "Fremont Family Resource Center",
+      "address": "39155 Liberty St, Fremont, CA 94538",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tri-City Volunteers mobile pantry",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Wed",
+            "3rd Wed"
+          ],
+          "open": "10:30",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "SVDP - Mission San Jose Fremont",
+      "org": "SVDP - Mission San Jose Fremont",
+      "address": "43148 Mission Blvd, Fremont, CA 94539",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue & Thu 1-2pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "open": "13:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Tri-City Volunteers Food Bank",
+      "org": "Tri-City Volunteers Food Bank",
+      "address": "37350 Joseph St, Fremont, CA 94536",
+      "phone": "(510) 793-4583",
+      "eligibility": "Fri drive-through, existing clients only",
+      "website": "https://tcvfoodbank.org/food/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Thu 10am-2pm; Fri 10-11:30am (Fri drive-through, existing clients only)",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "10:00",
+          "close": "14:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "All Saints Catholic Church",
+      "org": "All Saints Catholic Church",
+      "address": "22824 2nd St, Hayward, CA 94541",
+      "phone": "(510) 581-2570",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 10-11:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "10:00",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "City Team Ministries - Iglesia Hebreos",
+      "org": "City Team Ministries - Iglesia Hebreos",
+      "address": "1497 E Street, Hayward, CA 94541",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Fri 5-6pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri",
+            "3rd Fri"
+          ],
+          "open": "17:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "City Team Ministries - Luz de Vale",
+      "org": "City Team Ministries - Luz de Vale",
+      "address": "2751 Sleepy Hollow Ave, Hayward, CA 94545",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Wed 4-5pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Wed"
+          ],
+          "open": "16:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Community of Grace Pantry",
+      "org": "Community of Grace Pantry",
+      "address": "380 Elmhurst St, Hayward, CA 94544",
+      "phone": "(510) 783-8062",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "except 5th Wed",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Eden United Church of Christ",
+      "org": "Eden United Church of Christ",
+      "address": "21455 Birch St, Hayward, CA 94541",
+      "phone": "(510) 582-9533",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Wed 1-4pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed",
+            "4th Wed"
+          ],
+          "open": "13:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Hayward Promise Neighborhood (hot meals)",
+      "org": "Hayward Promise Neighborhood (hot meals)",
+      "address": "680 W. Tennyson Rd, Hayward, CA 94544",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon & Thu 2-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Thu"
+          ],
+          "open": "14:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Hayward Seventh Day Adventist Church",
+      "org": "Hayward Seventh Day Adventist Church",
+      "address": "26400 Gading Rd, Hayward, CA 94544",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sun 9:30-10:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sun"
+          ],
+          "open": "09:30",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "Hayward Spanish SDA Church",
+      "org": "Hayward Spanish SDA Church",
+      "address": "22117 Meekland Ave, Hayward, CA 94541",
+      "phone": "",
+      "eligibility": "Hayward, San Lorenzo, San Leandro residents",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 8am-1pm (Hayward, San Lorenzo, San Leandro residents)",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "08:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Hillside Alliance Church",
+      "org": "Hillside Alliance Church",
+      "address": "944 Central Blvd, Hayward, CA 94542",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Sat 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Sat"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Hope 4 the Heart",
+      "org": "Hope 4 the Heart",
+      "address": "22035 Meekland Ave, Hayward, CA 94541",
+      "phone": "(510) 581-4673",
+      "eligibility": "Hayward, San Lorenzo, San Leandro residents",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 1:30-2:30pm; 3rd Sat 8-11am (Hayward, San Lorenzo, San Leandro residents)",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "13:30",
+          "close": "14:30"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "08:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Longwood Elementary",
+      "org": "Longwood Elementary",
+      "address": "850 Longwood Ave, Hayward, CA 94541",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Wed 1:30-2:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Wed"
+          ],
+          "open": "13:30",
+          "close": "14:30"
+        }
+      ]
+    },
+    {
+      "name": "New Life Christian Church",
+      "org": "New Life Christian Church",
+      "address": "1265 B St, Hayward, CA 94541",
+      "phone": "(510) 889-1304",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 1pm",
+      "schedules": []
+    },
+    {
+      "name": "Salvation Army - Hayward",
+      "org": "Salvation Army - Hayward",
+      "address": "430 A Street, Hayward, CA 94541",
+      "phone": "(510) 581-6444",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "sack lunch and pantry",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "10:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "San Lorenzo Family Help Center (Hayward site)",
+      "org": "San Lorenzo Family Help Center (Hayward site)",
+      "address": "20960 Corsair Blvd, Hayward, CA 94545",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Fri, Sat 10:30am-3pm; some Wed 10:30am-2pm; by appointment only",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Fri",
+            "Sat"
+          ],
+          "open": "10:30",
+          "close": "15:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "10:30",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "South Hayward Parish Food Pantry",
+      "org": "South Hayward Parish Food Pantry",
+      "address": "27287 Patrick Ave, Hayward, CA 94544",
+      "phone": "(510) 785-3663",
+      "eligibility": "",
+      "website": "https://www.southhaywardparish.org/food-pantry",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 2-5pm; Tue/Thu/Fri 1-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "14:00",
+          "close": "17:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Thu",
+            "Fri"
+          ],
+          "open": "13:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "The Peace Haven",
+      "org": "The Peace Haven",
+      "address": "1063 A St, Hayward, CA 94541",
+      "phone": "(408) 680-6577",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue & Fri 9-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "United Smith Memorial CME Church",
+      "org": "United Smith Memorial CME Church",
+      "address": "28105 Mission Blvd, Hayward, CA 94544",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Sat 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat",
+            "4th Sat"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "City Team Ministries - Granada Church",
+      "org": "City Team Ministries - Granada Church",
+      "address": "945 Concannon Blvd, Livermore, CA 94550",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Sat 2-3pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat",
+            "4th Sat"
+          ],
+          "open": "14:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Cornerstone Fellowship",
+      "org": "Cornerstone Fellowship",
+      "address": "348 N Canyons Pkwy, Livermore, CA 94551",
+      "phone": "(925) 447-3465",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 9-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Culinary Angels",
+      "org": "Culinary Angels",
+      "address": "164 N L Street, Livermore, CA 94550",
+      "phone": "(925) 243-1211",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "delivery on request",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "15:15",
+          "close": "16:30"
+        }
+      ]
+    },
+    {
+      "name": "Discovery Church of the Nazarene Community Breakfast",
+      "org": "Discovery Church of the Nazarene Community Breakfast",
+      "address": "5862 Las Positas Road, Livermore, CA 94551",
+      "phone": "(925) 449-5256",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sun 9am",
+      "schedules": []
+    },
+    {
+      "name": "Interfaith Sharing Food Pantry (St. Bartholomew's Church)",
+      "org": "Interfaith Sharing Food Pantry (St. Bartholomew's Church)",
+      "address": "678 Enos Way, Livermore, CA 94551",
+      "phone": "(925) 447-3289",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu & Sat 8-9am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu",
+            "Sat"
+          ],
+          "open": "08:00",
+          "close": "09:00"
+        }
+      ]
+    },
+    {
+      "name": "Open Heart Kitchen",
+      "org": "Open Heart Kitchen",
+      "address": "450 N. Livermore Ave, Livermore, CA 94551",
+      "phone": "(925) 580-1616",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 12-5pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "12:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Matthew's Baptist Church Feeding Ministry",
+      "org": "St. Matthew's Baptist Church Feeding Ministry",
+      "address": "1886 College Ave, Livermore, CA 94550",
+      "phone": "(925) 443-3686",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 11am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "11:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Vincent de Paul (St. Michael Catholic Church)",
+      "org": "St. Vincent de Paul (St. Michael Catholic Church)",
+      "address": "458 Maple St, Livermore, CA 94550",
+      "phone": "(925) 758-0126",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Tue, Thu 7-8pm; Wed 4-5pm; Sat mornings",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Thu"
+          ],
+          "open": "19:00",
+          "close": "20:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "16:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "The Market at Las Positas College",
+      "org": "The Market at Las Positas College",
+      "address": "3000 Campus Hill Dr (1600 Building Courtyard), Livermore, CA 94551",
+      "phone": "(925) 424-1000",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Tue 11am-3pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Tue"
+          ],
+          "open": "11:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "The Well Community Outreach",
+      "org": "The Well Community Outreach",
+      "address": "2333 Nissen Dr, Livermore, CA 94551",
+      "phone": "(925) 479-1414",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 10-11:30am and 1-2:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "11:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "13:00",
+          "close": "14:30"
+        }
+      ]
+    },
+    {
+      "name": "Tri-Valley Haven Food Pantry",
+      "org": "Tri-Valley Haven Food Pantry",
+      "address": "150 N L Street, Livermore, CA 94550",
+      "phone": "(925) 449-1664",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Thu 1-5pm; Fri-Sat 12-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "13:00",
+          "close": "17:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri",
+            "Sat"
+          ],
+          "open": "12:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Tri-Valley Seek and Save",
+      "org": "Tri-Valley Seek and Save",
+      "address": "348 N Canyons Pkwy, Livermore, CA 94551",
+      "phone": "(925) 895-1041",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 9-10:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "09:00",
+          "close": "10:30"
+        }
+      ],
+      "allowColocated": true
+    },
+    {
+      "name": "League of Volunteers Emergency Food Bank",
+      "org": "League of Volunteers Emergency Food Bank",
+      "address": "8440 Central Ave #2C, Newark, CA 94560",
+      "phone": "(510) 793-5683",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "source lists 38325 Cedar Blvd",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu",
+            "3rd Thu"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Salvation Army - Tri Cities",
+      "org": "Salvation Army - Tri Cities",
+      "address": "36700 Newark Blvd, Newark, CA 94560",
+      "phone": "",
+      "eligibility": "Fremont, Union City, Newark residents",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed & Fri 7:30-9:30am (Fremont, Union City, Newark residents)",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed",
+            "Fri"
+          ],
+          "open": "07:30",
+          "close": "09:30"
+        }
+      ]
+    },
+    {
+      "name": "Schilling Elementary School",
+      "org": "Schilling Elementary School",
+      "address": "36901 Spruce St, Newark, CA 94560",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Wed 11am",
+      "schedules": []
+    },
+    {
+      "name": "Solid Rock COGIC",
+      "org": "Solid Rock COGIC",
+      "address": "5970 Thornton Ave, Newark, CA 94560",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Wed 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Wed",
+            "3rd Wed"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Tri-City Volunteers Mobile Pantry (Silliman Activity Center)",
+      "org": "Tri-City Volunteers Mobile Pantry (Silliman Activity Center)",
+      "address": "6800 Mowry Ave, Newark, CA 94560",
+      "phone": "(510) 861-1829",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Fri 10:30am",
+      "schedules": []
+    },
+    {
+      "name": "Viola Blythe Community Service Center",
+      "org": "Viola Blythe Community Service Center",
+      "address": "37365 Ash Street, Newark, CA 94560",
+      "phone": "(510) 794-3437",
+      "eligibility": "Fremont, Newark, Union City residents",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Wed 10:30am-2:30pm (Fremont, Newark, Union City residents)",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed"
+          ],
+          "open": "10:30",
+          "close": "14:30"
+        }
+      ]
+    },
+    {
+      "name": "13th Avenue Church of Christ",
+      "org": "13th Avenue Church of Christ",
+      "address": "1300 E. 24th Street, Oakland, CA 94606",
+      "phone": "(510) 532-9434",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "call for times",
+      "schedules": []
+    },
+    {
+      "name": "Allen Temple Baptist Church",
+      "org": "Allen Temple Baptist Church",
+      "address": "1350 86th Ave, Oakland, CA 94621",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Tue 10am-12pm at 86th Ave gate; 4th Mon 10am-12pm at 8501 International Blvd",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Tue",
+            "3rd Tue"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Mon"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "CAA - Agnes Memorial",
+      "org": "CAA - Agnes Memorial",
+      "address": "2372 International Blvd, Oakland, CA 94601",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Fri 8-10am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Fri"
+          ],
+          "open": "08:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Center of Hope",
+      "org": "Center of Hope",
+      "address": "8425 MacArthur Blvd, Oakland, CA 94605",
+      "phone": "(510) 304-8480",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 11am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "11:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Christian Tabernacle Church",
+      "org": "Christian Tabernacle Church",
+      "address": "9330 Walnut St, Oakland, CA 94603",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 5:30-6:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "17:30",
+          "close": "18:30"
+        }
+      ]
+    },
+    {
+      "name": "City Team Ministries - 50th Ave",
+      "org": "City Team Ministries - 50th Ave",
+      "address": "1006 50th Ave, Oakland, CA 94601",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Tue 12-2pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Tue"
+          ],
+          "open": "12:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "City Team Ministries - All Nations",
+      "org": "City Team Ministries - All Nations",
+      "address": "5815 San Pablo Ave, Oakland, CA",
+      "phone": "",
+      "eligibility": "bring bags and ID",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Tue 1-2pm (bring bags and ID)",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Tue",
+            "3rd Tue"
+          ],
+          "open": "13:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "City Team Ministries - Fruitvale",
+      "org": "City Team Ministries - Fruitvale",
+      "address": "2744 East 11th St, Oakland, CA 94601",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Thu 6-7pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu",
+            "3rd Thu"
+          ],
+          "open": "18:00",
+          "close": "19:00"
+        }
+      ]
+    },
+    {
+      "name": "City Team Ministries - New Hope Baptist",
+      "org": "City Team Ministries - New Hope Baptist",
+      "address": "3624 Market Street, Oakland, CA 94608",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Thu 2-3pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu",
+            "4th Thu"
+          ],
+          "open": "14:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "City Team Ministries - New Testament",
+      "org": "City Team Ministries - New Testament",
+      "address": "1901 62nd Ave, Oakland, CA",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Thu 11am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu",
+            "3rd Thu"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "City Team Ministries - St. Andrews MBC",
+      "org": "City Team Ministries - St. Andrews MBC",
+      "address": "2624 West St, Oakland, CA 94612",
+      "phone": "",
+      "eligibility": "bring bags and ID",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Thu 12-1pm (bring bags and ID)",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu",
+            "4th Thu"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Community Kitchens",
+      "org": "Community Kitchens",
+      "address": "2270 Telegraph Ave, Oakland, CA 94612",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.ckoakland.org/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sun-Thu 11am-2pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Sun"
+          ],
+          "open": "11:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Downs Memorial United Methodist Church",
+      "org": "Downs Memorial United Methodist Church",
+      "address": "6026 Idaho St, Oakland, CA 94608",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon & Tue 9:30-10:30am; Wed 10:30-11:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue"
+          ],
+          "open": "09:30",
+          "close": "10:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "10:30",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Downtown Oakland Senior Center - Mercy Brown Bag / Spectrum Senior Meals",
+      "org": "Downtown Oakland Senior Center - Mercy Brown Bag / Spectrum Senior Meals",
+      "address": "200 Grand Ave, Oakland, CA 94610",
+      "phone": "(510) 269-9640",
+      "eligibility": "seniors 60+",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Mon 10:30-11:30am; meals Mon-Thu 12-12:30pm (seniors 60+)",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Mon"
+          ],
+          "open": "10:30",
+          "close": "11:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "00:00",
+          "close": "12:30"
+        }
+      ]
+    },
+    {
+      "name": "East Oakland Multi-Purpose Senior Center",
+      "org": "East Oakland Multi-Purpose Senior Center",
+      "address": "9255 Edes Ave, Oakland, CA 94603",
+      "phone": "(510) 615-5731",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 8-9am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "08:00",
+          "close": "09:00"
+        }
+      ]
+    },
+    {
+      "name": "East Oakland Switchboard",
+      "org": "East Oakland Switchboard",
+      "address": "1909 73rd Ave, Oakland, CA 94621",
+      "phone": "(510) 569-6369",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 10am-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Evergreen Missionary Baptist Church",
+      "org": "Evergreen Missionary Baptist Church",
+      "address": "408 W. MacArthur Blvd, Oakland, CA 94609",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Wed 1-4pm; 3rd Sat 12-3pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed",
+            "4th Wed"
+          ],
+          "open": "13:00",
+          "close": "16:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "12:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Feed My Sheep",
+      "org": "Feed My Sheep",
+      "address": "8829 Plymouth Street, Oakland, CA 94621",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "box lunches",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "12:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Greater Grace Community Services",
+      "org": "Greater Grace Community Services",
+      "address": "10701 International Blvd, Oakland, CA 94603",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed & Fri 11am-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed",
+            "Fri"
+          ],
+          "open": "11:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Homies Empowerment FREEdom Store",
+      "org": "Homies Empowerment FREEdom Store",
+      "address": "7631 MacArthur Blvd, Oakland, CA 94605",
+      "phone": "(510) 542-9993",
+      "eligibility": "",
+      "website": "https://www.homiesempowerment.com/freedom-store.html",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 10am-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "HOPE Collaborative",
+      "org": "HOPE Collaborative",
+      "address": "3427 San Pablo Ave, Oakland, CA 94608",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.hopecollaborative.net/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Sun 2:30-5pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Sun",
+            "3rd Sun"
+          ],
+          "open": "14:30",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Israelite Missionary Baptist Church",
+      "org": "Israelite Missionary Baptist Church",
+      "address": "2043 E 21st St, Oakland, CA 94606",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Sat 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Lake Merritt United Methodist Church",
+      "org": "Lake Merritt United Methodist Church",
+      "address": "1330 Lakeshore Ave, Oakland, CA 94606",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Sat 8-10am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Sat"
+          ],
+          "open": "08:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Love Thy Neighbor Ministries",
+      "org": "Love Thy Neighbor Ministries",
+      "address": "5782 Foothill Blvd, Oakland, CA 94605",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 11am-1pm; 3rd Sat 12-2pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "11:00",
+          "close": "13:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "12:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Market Street SDA Church",
+      "org": "Market Street SDA Church",
+      "address": "3415 Market Street, Oakland, CA 94608",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "ACCFB lists address as 900 34th St",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Tue"
+          ],
+          "open": "13:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Mercy Brown Bag Program - Oakland",
+      "org": "Mercy Brown Bag Program - Oakland",
+      "address": "3431 Foothill Blvd, Oakland, CA 94601",
+      "phone": "(510) 534-8540",
+      "eligibility": "seniors 60+",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 10am-12:30pm and 1-2pm (seniors 60+)",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "12:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "13:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Mingleton Temple COGIC",
+      "org": "Mingleton Temple COGIC",
+      "address": "1222 Market Street, Oakland, CA 94607",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Sat 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Sat",
+            "3rd Sat"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Mt. Zion Missionary Baptist Church",
+      "org": "Mt. Zion Missionary Baptist Church",
+      "address": "1203 Willow St, Oakland, CA 94607",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 12-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "North Oakland Senior Center - Mercy Brown Bag",
+      "org": "North Oakland Senior Center - Mercy Brown Bag",
+      "address": "5714 Martin Luther King Jr. Way, Oakland, CA 94609",
+      "phone": "(510) 269-9640",
+      "eligibility": "seniors 60+",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Thu 9-10am (seniors 60+)",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu",
+            "4th Thu"
+          ],
+          "open": "09:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Oakland Catholic Worker",
+      "org": "Oakland Catholic Worker",
+      "address": "4848 International Blvd, Oakland, CA 94601",
+      "phone": "(510) 533-7375",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 7-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "07:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Paradise Baptist Church",
+      "org": "Paradise Baptist Church",
+      "address": "9670 Empire Rd, Oakland, CA 94603",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 9-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Park Boulevard Presbyterian Church",
+      "org": "Park Boulevard Presbyterian Church",
+      "address": "4101 Park Blvd, Oakland, CA 94602",
+      "phone": "(510) 530-5311",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "City Team distribution",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed"
+          ],
+          "open": "17:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Parks Chapel AME Church",
+      "org": "Parks Chapel AME Church",
+      "address": "476 34th Street, Oakland, CA 94609",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Tue 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Tue"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Restoration Church of God",
+      "org": "Restoration Church of God",
+      "address": "2101 47th Ave, Oakland, CA 94601",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Some Sat 10am-12:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "10:00",
+          "close": "12:30"
+        }
+      ]
+    },
+    {
+      "name": "Roots Community Health Center",
+      "org": "Roots Community Health Center",
+      "address": "9925 International Blvd, Ste 10, Oakland, CA 94603",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 12-4pm; 1st & 3rd Fri 2-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "12:00",
+          "close": "16:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri",
+            "3rd Fri"
+          ],
+          "open": "14:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Shiloh Church",
+      "org": "Shiloh Church",
+      "address": "3295 School St, Oakland, CA 94602",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "walk-up produce",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "10:00",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Shiloh Mercy House",
+      "org": "Shiloh Mercy House",
+      "address": "3300 School St, Oakland, CA 94602",
+      "phone": "",
+      "eligibility": "2 pickups per month",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Tue, Thu, Fri 10am-1:45pm; Wed 1-2:45pm (2 pickups per month)",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Thu",
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "13:45"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "13:00",
+          "close": "14:45"
+        }
+      ]
+    },
+    {
+      "name": "St. Lawrence O'Toole - Food Distribution Center",
+      "org": "St. Lawrence O'Toole - Food Distribution Center",
+      "address": "3725 High St, Oakland, CA 94619",
+      "phone": "",
+      "eligibility": "neighborhood residents only",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Sat 10am-12pm (neighborhood residents only)",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Sat"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Mary's Center",
+      "org": "St. Mary's Center",
+      "address": "925 Brockhurst St, Oakland, CA 94608",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 12-2pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "12:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Vincent de Paul Dining Room",
+      "org": "St. Vincent de Paul Dining Room",
+      "address": "675 23rd Street, Oakland, CA 94612",
+      "phone": "(510) 638-7600",
+      "eligibility": "",
+      "website": "https://www.svdp-alameda.org/get-help.html",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue-Sat 10:45am-12:45pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat"
+          ],
+          "open": "10:45",
+          "close": "12:45"
+        }
+      ]
+    },
+    {
+      "name": "Tabernacle Missionary Baptist Church",
+      "org": "Tabernacle Missionary Baptist Church",
+      "address": "10115 Edes Ave, Oakland, CA 94603",
+      "phone": "(510) 569-4333",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "hot meals and groceries",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue",
+            "5th Tue"
+          ],
+          "open": "12:30",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Telegraph Ministry Center",
+      "org": "Telegraph Ministry Center",
+      "address": "5316 Telegraph Ave, Oakland, CA 94609",
+      "phone": "(510) 961-4385",
+      "eligibility": "",
+      "website": "https://tmcoakland.org/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "once a week",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "10:00",
+          "close": "13:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "17:00",
+          "close": "19:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "09:30",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "The East Oakland Collective",
+      "org": "The East Oakland Collective",
+      "address": "7800 MacArthur Blvd, Oakland, CA 94605",
+      "phone": "(510) 990-0775",
+      "eligibility": "",
+      "website": "https://www.eastoaklandcollective.org/food-and-supply-distribution.html",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Wed, Fri hot meals 12pm; Tue, Thu groceries and hot meals 11am",
+      "schedules": []
+    },
+    {
+      "name": "Town Care Cafe",
+      "org": "Town Care Cafe",
+      "address": "Frank H. Ogawa Plaza kiosk, Oakland, CA 94612",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "Thu 8am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "08:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "CityServe of the Tri-Valley",
+      "org": "CityServe of the Tri-Valley",
+      "address": "5353 Sunol Blvd, Pleasanton, CA 94566",
+      "phone": "(925) 222-2273",
+      "eligibility": "",
+      "website": "https://www.cityservetrivalley.org/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Free community lunch Tue 11am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "All Saints Episcopal Church",
+      "org": "All Saints Episcopal Church",
+      "address": "911 Dowling Blvd, San Leandro, CA 94577",
+      "phone": "(510) 410-3743",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Sat 10am-12:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Sat"
+          ],
+          "open": "10:00",
+          "close": "12:30"
+        }
+      ]
+    },
+    {
+      "name": "April Showers",
+      "org": "April Showers",
+      "address": "951 MacArthur Blvd, San Leandro, CA 94577",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "ACCFB note says now at 2200 San Leandro Blvd",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Sun",
+            "3rd Sun",
+            "5th Sun"
+          ],
+          "open": "13:00",
+          "close": "15:30"
+        }
+      ]
+    },
+    {
+      "name": "April Showers - First United Methodist Church",
+      "org": "April Showers - First United Methodist Church",
+      "address": "1600 Bancroft Ave, San Leandro, CA 94577",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "meals to go",
+      "schedules": []
+    },
+    {
+      "name": "Brothers and Sisters In Christ (BASIC) - San Leandro",
+      "org": "Brothers and Sisters In Christ (BASIC) - San Leandro",
+      "address": "1221 Pacific Avenue, San Leandro, CA 94577",
+      "phone": "(510) 325-2756",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "ACCFB lists this address as Delight in the Word Bible Fellowship",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat",
+            "4th Sat"
+          ],
+          "open": "11:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Davis Street Family Resource Center",
+      "org": "Davis Street Family Resource Center",
+      "address": "3081 Teagarden St, San Leandro, CA 94577",
+      "phone": "(510) 346-4620",
+      "eligibility": "San Leandro, San Lorenzo, Castro Valley, Ashland, Cherryland residents",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 10am-5pm (San Leandro, San Lorenzo, Castro Valley, Ashland, Cherryland residents)",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Halcyon Baptist Church",
+      "org": "Halcyon Baptist Church",
+      "address": "2860 Halcyon Dr, San Leandro, CA 94578",
+      "phone": "(510) 304-6441",
+      "eligibility": "one visit per month",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Wed 8am-12pm; some Tue 10am-12pm (one visit per month)",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Wed"
+          ],
+          "open": "08:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "San Leandro Community Food Pantry",
+      "org": "San Leandro Community Food Pantry",
+      "address": "14235 Bancroft Ave, San Leandro, CA 94578",
+      "phone": "(510) 357-4130",
+      "eligibility": "",
+      "website": "https://slcfp.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 6-8pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "18:00",
+          "close": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "SLUSD Mobile Pantry @ Adult School",
+      "org": "SLUSD Mobile Pantry @ Adult School",
+      "address": "1448 Williams St, San Leandro, CA 94577",
+      "phone": "(510) 667-3500",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Fri 1-3pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri"
+          ],
+          "open": "13:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Spectrum Community Services",
+      "org": "Spectrum Community Services",
+      "address": "13909 E 14th St, San Leandro, CA 94578",
+      "phone": "(510) 534-8540",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "call ahead",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Mon",
+            "4th Mon"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Centro de Servicios Resource Center",
+      "org": "Centro de Servicios Resource Center",
+      "address": "525 H St, Union City, CA 94587",
+      "phone": "(510) 489-4100",
+      "eligibility": "",
+      "website": "https://centrouc.org/services/food-distribution/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "ACCFB lists 33750 6th St",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "16:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "13:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Los Robles Apartments",
+      "org": "Los Robles Apartments",
+      "address": "32300 Almaden Blvd, Union City, CA 94587",
+      "phone": "(510) 429-0119",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue & Thu 11am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Our Lady of the Rosary Church",
+      "org": "Our Lady of the Rosary Church",
+      "address": "703 C St, Union City, CA 94587",
+      "phone": "(510) 471-2609",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 6-7pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "18:00",
+          "close": "19:00"
+        }
+      ]
+    },
+    {
+      "name": "Ruggieri Senior Center",
+      "org": "Ruggieri Senior Center",
+      "address": "33997 Alvarado-Niles Rd, Union City, CA 94587",
+      "phone": "(510) 793-4583",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tri-City Volunteers mobile pantry",
+      "schedules": []
+    },
+    {
+      "name": "St. Anne Church",
+      "org": "St. Anne Church",
+      "address": "32223 Cabello Street, Union City, CA 94587",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Sat 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Union City Family Center",
+      "org": "Union City Family Center",
+      "address": "725 Whipple Rd, Union City, CA 94587",
+      "phone": "(510) 476-2770",
+      "eligibility": "",
+      "website": "https://www.unioncityfamilycenter.org/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 8am-4:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "08:00",
+          "close": "16:30"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,368 @@
+{
+  "_meta": {
+    "topic": "Trinity County food distributions",
+    "generated": "2026-10-11",
+    "source": "Hand-collected list (Trinity County Food Bank, Central California Food Bank, ATCAA/Feed America). Schedules parsed via LA clause parser.",
+    "note": "Drop-in raw for prepare-food-additions.mjs."
+  },
+  "sites": [
+    {
+      "name": "Down River Fire Department (food bank delivery)",
+      "org": "Down River Fire Department (food bank delivery)",
+      "address": "70 Firehouse Road, Big Bar, CA 96010",
+      "phone": "530-739-0983",
+      "eligibility": "",
+      "website": "https://trinitycountyfoodbank.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Fri 11am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Coffee Creek Community Church (food bank delivery)",
+      "org": "Coffee Creek Community Church (food bank delivery)",
+      "address": "420 Coffee Creek Road, Coffee Creek, CA 96091",
+      "phone": "530-739-0983",
+      "eligibility": "",
+      "website": "https://trinitycountyfoodbank.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Thu 10am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Douglas City Fire Hall (food bank delivery)",
+      "org": "Douglas City Fire Hall (food bank delivery)",
+      "address": "101 Steiner Flat Road, Douglas City, CA 96024",
+      "phone": "530-739-0983",
+      "eligibility": "",
+      "website": "https://trinitycountyfoodbank.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Tue 11am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Hawkins Bar Fire Hall (food bank delivery)",
+      "org": "Hawkins Bar Fire Hall (food bank delivery)",
+      "address": "71 Trinity Court, Hawkins Bar, CA 95527",
+      "phone": "530-739-0983",
+      "eligibility": "",
+      "website": "https://trinitycountyfoodbank.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Fri 1pm-2pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri"
+          ],
+          "open": "13:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Eskaton Senior Apartments (residents only)",
+      "org": "Eskaton Senior Apartments (residents only)",
+      "address": "125 Hyampom Road, Hayfork, CA 96041",
+      "phone": "530-739-0983",
+      "eligibility": "",
+      "website": "https://trinitycountyfoodbank.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Tue 10am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Tue"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Hayfork Fairgrounds (food bank delivery)",
+      "org": "Hayfork Fairgrounds (food bank delivery)",
+      "address": "6000 State Highway 3, Hayfork, CA 96041",
+      "phone": "530-739-0983",
+      "eligibility": "",
+      "website": "https://trinitycountyfoodbank.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Wed 11am-12:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed"
+          ],
+          "open": "11:00",
+          "close": "12:30"
+        }
+      ]
+    },
+    {
+      "name": "Hoaglin/Zenia site (food bank delivery)",
+      "org": "Hoaglin/Zenia site (food bank delivery)",
+      "address": "4001 Peek Road, Zenia, CA 95595",
+      "phone": "530-739-0983",
+      "eligibility": "",
+      "website": "https://trinitycountyfoodbank.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Tue 1pm-2pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Tue"
+          ],
+          "open": "13:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Hyampom Community Center (food bank delivery)",
+      "org": "Hyampom Community Center (food bank delivery)",
+      "address": "71 Corral Bottom Road, Hyampom, CA 96046",
+      "phone": "530-739-0983",
+      "eligibility": "",
+      "website": "https://trinitycountyfoodbank.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Tue 12pm-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Tue"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Junction City Community Center (food bank delivery)",
+      "org": "Junction City Community Center (food bank delivery)",
+      "address": "71-A Dutch Creek Road, Junction City, CA 96048",
+      "phone": "530-739-0983",
+      "eligibility": "",
+      "website": "https://trinitycountyfoodbank.org",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "1st Mon 10:30am-11:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Mon"
+          ],
+          "open": "10:30",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Lewiston Community Center (food bank delivery)",
+      "org": "Lewiston Community Center (food bank delivery)",
+      "address": "103 Texas Avenue, Lewiston, CA 96052",
+      "phone": "530-739-0983",
+      "eligibility": "",
+      "website": "https://trinitycountyfoodbank.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Mon 9am-10am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Mon"
+          ],
+          "open": "09:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Lewiston Elementary",
+      "org": "Lewiston Elementary",
+      "address": "685 Old Lewiston Rd, Lewiston, CA 96052",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon and Thu 10am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Thu"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Mad River site / Southern Trinity Health Services (food bank delivery)",
+      "org": "Mad River site / Southern Trinity Health Services (food bank delivery)",
+      "address": "321 Van Duzen Road, Mad River, CA 95552",
+      "phone": "530-739-0983",
+      "eligibility": "",
+      "website": "https://trinitycountyfoodbank.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Tue 10:30am-11:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Tue"
+          ],
+          "open": "10:30",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Ruth Fire Hall (food bank delivery)",
+      "org": "Ruth Fire Hall (food bank delivery)",
+      "address": "17350 Mad River Road, Ruth, CA 95526",
+      "phone": "530-739-0983",
+      "eligibility": "",
+      "website": "https://trinitycountyfoodbank.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue after the 1st Mon 1:30pm-3:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Mon"
+          ],
+          "open": "13:30",
+          "close": "15:30"
+        }
+      ]
+    },
+    {
+      "name": "Post Mountain at 4 Corners (food bank delivery)",
+      "org": "Post Mountain at 4 Corners (food bank delivery)",
+      "address": ", Trinity Pines, CA 96076",
+      "phone": "530-739-0983",
+      "eligibility": "",
+      "website": "https://trinitycountyfoodbank.org",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "3rd Wed 12pm-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Wed"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Trinity County Food Bank (drive-through)",
+      "org": "Trinity County Food Bank (drive-through)",
+      "address": "51-B Memorial Drive, Weaverville, CA 96093",
+      "phone": "530-739-0983",
+      "eligibility": "",
+      "website": "https://trinitycountyfoodbank.org",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "2nd Sat 11am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Weaverville Senior Apartments (residents only)",
+      "org": "Weaverville Senior Apartments (residents only)",
+      "address": "80 Browns Ranch Road, Weaverville, CA 96093",
+      "phone": "530-739-0983",
+      "eligibility": "",
+      "website": "https://trinitycountyfoodbank.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Thu 12pm-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Wildwood (at the old store)",
+      "org": "Wildwood (at the old store)",
+      "address": ", Wildwood, CA 96076",
+      "phone": "530-739-0983",
+      "eligibility": "",
+      "website": "https://trinitycountyfoodbank.org",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "1st Wed 11am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Wed"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ]
+    }
+  ]
+}

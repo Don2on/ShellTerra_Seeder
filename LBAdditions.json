@@ -1,0 +1,345 @@
+{
+  "_meta": {
+    "topic": "Net-new Long Beach food distributions",
+    "generated": "2026-09-28",
+    "source": "Research supplementing shell 6ab8a3910019b374bbb7; raw ./additions-longbeach-raw.json."
+  },
+  "_deferred": {
+    "add-fountain-of-life-covenant-church-food-pantry": {
+      "title": "Fountain of Life Covenant Church Food Pantry",
+      "status": "1st & 3rd Thursdays Phone: (562) 245-9825.",
+      "address": "2060 Santa Fe Ave., Long Beach, CA 90810",
+      "lat": 33.794662,
+      "lng": -118.215199,
+      "phone": "(562) 245-9825",
+      "eligibility": "Open to West Long Beach residents and anyone in need",
+      "sourceUrl": "http://www.folcov.org/family-center/"
+    },
+    "add-st-francis-center-food-distribution-long-beach": {
+      "title": "St. Francis Center Food Distribution (Long Beach)",
+      "status": "2nd Sat; held at St. Matthew Church, 627 Temple Ave & 7th St Phone: (562) 599-6474.",
+      "address": "627 Temple Ave, Long Beach, CA 90814",
+      "lat": 33.7741,
+      "lng": -118.15938,
+      "phone": "(562) 599-6474",
+      "eligibility": "Open to the community, no restrictions stated",
+      "sourceUrl": ""
+    },
+    "add-i-own-it-today-food-distribution": {
+      "title": "I Own It Today Food Distribution",
+      "status": "3rd Sat; hot meal, food and clothing distribution Phone: (949) 309-6803.",
+      "address": "4835 E Anaheim St, Site 306, Long Beach, CA 90804",
+      "lat": 33.782814,
+      "lng": -118.13608,
+      "phone": "(949) 309-6803",
+      "eligibility": "Open to the community, no restrictions stated",
+      "sourceUrl": ""
+    },
+    "add-food-finders-community-marketplace-at-admiral-ki": {
+      "title": "Food Finders Community Marketplace at Admiral Kidd Park",
+      "status": "4th Saturday community marketplace (held outdoors at Admiral Kidd Park) Phone: (562) 283-1400.",
+      "address": "2125 Santa Fe Ave., Long Beach, CA 90810",
+      "lat": 33.795428,
+      "lng": -118.215518,
+      "phone": "(562) 283-1400",
+      "eligibility": "Open to all residents, no restrictions stated; monthly community marketplace at the park",
+      "sourceUrl": "https://foodfinders.org/events/"
+    }
+  },
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "add-aids-food-store-afs-w2-0900",
+      "seriesSlug": "add-aids-food-store-afs",
+      "title": "AIDS Food Store (AFS) — Free Food",
+      "description": "Free food at AIDS Food Store (AFS) (AIDS Food Store). Schedule: Tue 9 AM–2 PM (AFS grocery pick-up program members); 2nd & 4th Sat; AFS program members. Eligibility: Must be enrolled in the AFS grocery pick-up program; Saturday distribution open 2nd & 4th Saturday. Call (562) 676-4554 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "AIDS Food Store (AFS)",
+      "address": "590 E Willow St., Long Beach, CA 90806",
+      "lat": 33.804165,
+      "lng": -118.185301,
+      "category": "food-assistance",
+      "sourceOrg": "AIDS Food Store",
+      "url": "",
+      "schedulePattern": "Tue 9 AM–2 PM (AFS grocery pick-up program members); 2nd & 4th Sat; AFS program members",
+      "start": "2026-09-21T09:00",
+      "end": "2026-09-21T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-grant-a-m-e-church-food-pantry-w3-0900",
+      "seriesSlug": "add-grant-a-m-e-church-food-pantry",
+      "title": "Grant A.M.E. Church Food Pantry — Free Food",
+      "description": "Free food at Grant A.M.E. Church Food Pantry (Grant A.M.E. Church (via LBCEI / Food Finders network)). Schedule: Wed 9 AM–12 PM. Eligibility: Open to the community, no restrictions stated. Call (562) 437-1567 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Grant A.M.E. Church Food Pantry",
+      "address": "1129 Alamitos Ave., Long Beach, CA 90813",
+      "lat": 33.78147,
+      "lng": -118.178649,
+      "category": "food-assistance",
+      "sourceOrg": "Grant A.M.E. Church (via LBCEI / Food Finders network)",
+      "url": "",
+      "schedulePattern": "Wed 9 AM–12 PM",
+      "start": "2026-09-21T09:00",
+      "end": "2026-09-21T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-volunteer-center-food-pantry-w35-1000",
+      "seriesSlug": "add-the-volunteer-center-food-pantry",
+      "title": "The Volunteer Center Food Pantry — Free Food",
+      "description": "Free food at The Volunteer Center Food Pantry (The Volunteer Center). Schedule: Wed, Fri 10 AM–12 PM. Eligibility: Open to the community, no restrictions stated. Call (562) 590-8844 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Volunteer Center Food Pantry",
+      "address": "1407 E. 4th St., Long Beach, CA 90802",
+      "lat": 33.771998,
+      "lng": -118.174056,
+      "category": "food-assistance",
+      "sourceOrg": "The Volunteer Center",
+      "url": "",
+      "schedulePattern": "Wed, Fri 10 AM–12 PM",
+      "start": "2026-09-21T10:00",
+      "end": "2026-09-21T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-long-beach-rescue-mission-public-meals-w12345-1200",
+      "seriesSlug": "add-long-beach-rescue-mission-public-meals",
+      "title": "Long Beach Rescue Mission Public Meals — Free Food",
+      "description": "Free food at Long Beach Rescue Mission Public Meals (Long Beach Rescue Mission). Schedule: Mon–Fri 12 PM–12:30 PM (Lunch served at noon, Mon-Fri); Mon–Sun 5:30 PM–6 PM (Dinner served 5:30pm, 7 days/week); Sun 10:30 AM–11 AM (Sunday lunch after chapel, ~10:30am). Eligibility: Hot meals open to the public, no restrictions. Call (562) 591-1292 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Long Beach Rescue Mission Public Meals",
+      "address": "1335 Pacific Ave., Long Beach, CA 90813",
+      "lat": 33.783423,
+      "lng": -118.194116,
+      "category": "food-assistance",
+      "sourceOrg": "Long Beach Rescue Mission",
+      "url": "https://lbrm.org/what-we-do/provide-meals/",
+      "schedulePattern": "Mon–Fri 12 PM–12:30 PM (Lunch served at noon, Mon-Fri); Mon–Sun 5:30 PM–6 PM (Dinner served 5:30pm, 7 days/week); Sun 10:30 AM–11 AM (Sunday lunch after chapel, ~10:30am)",
+      "start": "2026-09-21T12:00",
+      "end": "2026-09-21T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-long-beach-rescue-mission-public-meals-w1234567-1730",
+      "seriesSlug": "add-long-beach-rescue-mission-public-meals",
+      "title": "Long Beach Rescue Mission Public Meals — Free Food",
+      "description": "Free food at Long Beach Rescue Mission Public Meals (Long Beach Rescue Mission). Schedule: Mon–Fri 12 PM–12:30 PM (Lunch served at noon, Mon-Fri); Mon–Sun 5:30 PM–6 PM (Dinner served 5:30pm, 7 days/week); Sun 10:30 AM–11 AM (Sunday lunch after chapel, ~10:30am). Eligibility: Hot meals open to the public, no restrictions. Call (562) 591-1292 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Long Beach Rescue Mission Public Meals",
+      "address": "1335 Pacific Ave., Long Beach, CA 90813",
+      "lat": 33.783423,
+      "lng": -118.194116,
+      "category": "food-assistance",
+      "sourceOrg": "Long Beach Rescue Mission",
+      "url": "https://lbrm.org/what-we-do/provide-meals/",
+      "schedulePattern": "Mon–Fri 12 PM–12:30 PM (Lunch served at noon, Mon-Fri); Mon–Sun 5:30 PM–6 PM (Dinner served 5:30pm, 7 days/week); Sun 10:30 AM–11 AM (Sunday lunch after chapel, ~10:30am)",
+      "start": "2026-09-21T17:30",
+      "end": "2026-09-21T18:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5,6,7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-long-beach-rescue-mission-public-meals-w7-1030",
+      "seriesSlug": "add-long-beach-rescue-mission-public-meals",
+      "title": "Long Beach Rescue Mission Public Meals — Free Food",
+      "description": "Free food at Long Beach Rescue Mission Public Meals (Long Beach Rescue Mission). Schedule: Mon–Fri 12 PM–12:30 PM (Lunch served at noon, Mon-Fri); Mon–Sun 5:30 PM–6 PM (Dinner served 5:30pm, 7 days/week); Sun 10:30 AM–11 AM (Sunday lunch after chapel, ~10:30am). Eligibility: Hot meals open to the public, no restrictions. Call (562) 591-1292 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Long Beach Rescue Mission Public Meals",
+      "address": "1335 Pacific Ave., Long Beach, CA 90813",
+      "lat": 33.783423,
+      "lng": -118.194116,
+      "category": "food-assistance",
+      "sourceOrg": "Long Beach Rescue Mission",
+      "url": "https://lbrm.org/what-we-do/provide-meals/",
+      "schedulePattern": "Mon–Fri 12 PM–12:30 PM (Lunch served at noon, Mon-Fri); Mon–Sun 5:30 PM–6 PM (Dinner served 5:30pm, 7 days/week); Sun 10:30 AM–11 AM (Sunday lunch after chapel, ~10:30am)",
+      "start": "2026-09-21T10:30",
+      "end": "2026-09-21T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-long-beach-center-for-economic-inclusion-lbcei-m-w1-1000",
+      "seriesSlug": "add-long-beach-center-for-economic-inclusion-lbcei-m",
+      "title": "Long Beach Center for Economic Inclusion (LBCEI) Main Pantry — Free Food",
+      "description": "Free food at Long Beach Center for Economic Inclusion (LBCEI) Main Pantry (Long Beach Center for Economic Inclusion). Schedule: Mon 10 AM–12 PM (Non-perishable groceries); Produce, 1st & 3rd Wed. Eligibility: Open to the community; non-perishables Mondays, produce 1st & 3rd Wednesdays. Call (562) 336-1833 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Long Beach Center for Economic Inclusion (LBCEI) Main Pantry",
+      "address": "6509 Gundry Ave., Long Beach, CA 90805",
+      "lat": 33.87297,
+      "lng": -118.17543,
+      "category": "food-assistance",
+      "sourceOrg": "Long Beach Center for Economic Inclusion",
+      "url": "https://lbcei.org/",
+      "schedulePattern": "Mon 10 AM–12 PM (Non-perishable groceries); Produce, 1st & 3rd Wed",
+      "start": "2026-09-21T10:00",
+      "end": "2026-09-21T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-north-long-beach-community-prayer-center-food-pa-w5-0700",
+      "seriesSlug": "add-north-long-beach-community-prayer-center-food-pa",
+      "title": "North Long Beach Community Prayer Center Food Pantry — Free Food",
+      "description": "Free food at North Long Beach Community Prayer Center Food Pantry (North Long Beach Prayer Center (via Food Finders network)). Schedule: Fri 7 AM–1:30 PM (Register 7:00-9:00am; food distributed through ~1:30pm, while supplies last). Eligibility: RSVP requested; registration 7:00-9:00am, distribution follows. Call (562) 373-5189 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "North Long Beach Community Prayer Center Food Pantry",
+      "address": "5239 Atlantic Ave, Long Beach, CA 90805",
+      "lat": 33.85143,
+      "lng": -118.185223,
+      "category": "food-assistance",
+      "sourceOrg": "North Long Beach Prayer Center (via Food Finders network)",
+      "url": "",
+      "schedulePattern": "Fri 7 AM–1:30 PM (Register 7:00-9:00am; food distributed through ~1:30pm, while supplies last)",
+      "start": "2026-09-21T07:00",
+      "end": "2026-09-21T13:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-urban-community-outreach-drop-in-center-w7-1300",
+      "seriesSlug": "add-urban-community-outreach-drop-in-center",
+      "title": "Urban Community Outreach Drop-In Center — Free Food",
+      "description": "Free food at Urban Community Outreach Drop-In Center (Urban Community Outreach (First Congregational Church)). Schedule: Sun 1 PM–3 PM (Hot meal served 1:30-3:00pm; to-go available. Closed July.). Eligibility: People experiencing or at risk of homelessness; hot meal in Patterson Hall. Closed all of July and first weekend of December.. Call (562) 582-1000 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Urban Community Outreach Drop-In Center",
+      "address": "241 Cedar Ave., Long Beach, CA 90802",
+      "lat": 33.770273,
+      "lng": -118.195294,
+      "category": "food-assistance",
+      "sourceOrg": "Urban Community Outreach (First Congregational Church)",
+      "url": "https://www.ucodic.org/",
+      "schedulePattern": "Sun 1 PM–3 PM (Hot meal served 1:30-3:00pm; to-go available. Closed July.)",
+      "start": "2026-09-21T13:00",
+      "end": "2026-09-21T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-city-heart-food-distribution-w4-1200",
+      "seriesSlug": "add-city-heart-food-distribution",
+      "title": "City Heart Food Distribution — Free Food",
+      "description": "Free food at City Heart Food Distribution (City Heart). Schedule: Thu 12 PM–2 PM. Eligibility: Open to the community, no restrictions stated. Call (562) 704-9585 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "City Heart Food Distribution",
+      "address": "245 The Promenade N, Site 100, Long Beach, CA 90802",
+      "lat": 33.770216,
+      "lng": -118.191263,
+      "category": "food-assistance",
+      "sourceOrg": "City Heart",
+      "url": "",
+      "schedulePattern": "Thu 12 PM–2 PM",
+      "start": "2026-09-21T12:00",
+      "end": "2026-09-21T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-long-beach-food-not-bombs-w7-1300",
+      "seriesSlug": "add-long-beach-food-not-bombs",
+      "title": "Long Beach Food Not Bombs — Free Food",
+      "description": "Free food at Long Beach Food Not Bombs (LB Food Not Bombs (mutual aid)). Schedule: Sun 1 PM–3 PM (Weekly meal/food/clothing/hygiene share). Eligibility: Free hot meal share, open to all, no restrictions. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Long Beach Food Not Bombs",
+      "address": "881 De Forest Ave, Long Beach, CA 90813",
+      "lat": 33.779938,
+      "lng": -118.204112,
+      "category": "food-assistance",
+      "sourceOrg": "LB Food Not Bombs (mutual aid)",
+      "url": "https://www.instagram.com/lbfoodnotbombs",
+      "schedulePattern": "Sun 1 PM–3 PM (Weekly meal/food/clothing/hygiene share)",
+      "start": "2026-09-21T13:00",
+      "end": "2026-09-21T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-care-culture-collaborative-food-share-w6-1230",
+      "seriesSlug": "add-care-culture-collaborative-food-share",
+      "title": "Care Culture Collaborative Food Share — Free Food",
+      "description": "Free food at Care Culture Collaborative Food Share (Care Culture Collaborative (mutual aid)). Schedule: Sat 12:30 PM–1:30 PM (Saturday downtown share, starts ~12:30pm; end time approximate). Eligibility: Free food share, open to all. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Care Culture Collaborative Food Share",
+      "address": "200 W Broadway, Long Beach, CA 90802",
+      "lat": 33.769019,
+      "lng": -118.194436,
+      "category": "food-assistance",
+      "sourceOrg": "Care Culture Collaborative (mutual aid)",
+      "url": "https://www.instagram.com/careculturecollab_lb",
+      "schedulePattern": "Sat 12:30 PM–1:30 PM (Saturday downtown share, starts ~12:30pm; end time approximate)",
+      "start": "2026-09-21T12:30",
+      "end": "2026-09-21T13:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-awaken-ministries-new-generations-food-pantry-w6-0900",
+      "seriesSlug": "add-awaken-ministries-new-generations-food-pantry",
+      "title": "Awaken Ministries / New Generations Food Pantry — Free Food",
+      "description": "Free food at Awaken Ministries / New Generations Food Pantry (Awaken Ministries (via LBCEI network)). Schedule: Sat 9 AM–10 AM (Sat walk-up 9-10am. Wed 10:30am is by appointment only.). Eligibility: Saturday walk-up; Wednesday is by appointment. Call (562) 336-1833 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Awaken Ministries / New Generations Food Pantry",
+      "address": "2426 Santa Fe Ave, Long Beach, CA 90810",
+      "lat": 33.801396,
+      "lng": -118.21512,
+      "category": "food-assistance",
+      "sourceOrg": "Awaken Ministries (via LBCEI network)",
+      "url": "https://www.awakenlb.com/",
+      "schedulePattern": "Sat 9 AM–10 AM (Sat walk-up 9-10am. Wed 10:30am is by appointment only.)",
+      "start": "2026-09-21T09:00",
+      "end": "2026-09-21T10:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-hsa-cal-rec-center-senior-dining-site-w12345-1130",
+      "seriesSlug": "add-hsa-cal-rec-center-senior-dining-site",
+      "title": "HSA Cal Rec Center Senior Dining Site — Free Food",
+      "description": "Free food at HSA Cal Rec Center Senior Dining Site (Human Services Association (HSA)). Schedule: Mon–Fri 11:30 AM–12:30 PM (Congregate lunch for seniors 60+ (Cambodian meals); reserve 24hrs ahead, call (562) 599-7185. Voluntary $3 donation; no one turned away.). Eligibility: Seniors 60+, suggested voluntary donation $3 (no one turned away); Cambodian meals served; reservation 24hrs in advance. Call (562) 599-7185 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "HSA Cal Rec Center Senior Dining Site",
+      "address": "1550 Martin Luther King Jr Ave, Long Beach, CA 90813",
+      "lat": 33.786701,
+      "lng": -118.180359,
+      "category": "food-assistance",
+      "sourceOrg": "Human Services Association (HSA)",
+      "url": "https://www.hsala.org/",
+      "schedulePattern": "Mon–Fri 11:30 AM–12:30 PM (Congregate lunch for seniors 60+ (Cambodian meals); reserve 24hrs ahead, call (562) 599-7185. Voluntary $3 donation; no one turned away.)",
+      "start": "2026-09-21T11:30",
+      "end": "2026-09-21T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    }
+  ]
+}

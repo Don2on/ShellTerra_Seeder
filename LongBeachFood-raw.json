@@ -1,0 +1,220 @@
+{
+  "_comment": "23 Long Beach food-distribution sites transcribed by hand from the City of Long Beach Department of Health & Human Services 'Long Beach Food Distributions' PDF (all-languages), last updated 12/16/2024. Grid maps each site to day(s)/time(s)/frequency; address block gives street address + phone. Weekday numbering is Dart Mon=1..Sun=7. freq 'weekly' -> days[]; freq 'monthly' -> patterns[{n,dow}] (n is 1st/2nd/3rd/4th, dow Dart). close:null means the flyer gave an open time only. overlapsExisting=true marks the 3 sites already seeded from the LA Regional Food Bank locator (COA, Crossroads, Salvation Army) so the LA-sourced copies get dropped inside this shell to avoid double-listing.",
+  "_source": "https://www.longbeach.gov/globalassets/health/media-library/documents/healthy-living/individual/nutrition-and-physical-activity/long-beach-food-distributions---all-languages",
+  "_sourceOrg": "City of Long Beach Dept. of Health & Human Services — Nutrition Security Initiatives",
+  "sites": [
+    {
+      "name": "Salvation Army — Long Beach Red Shield Services",
+      "address": "3092 Long Beach Blvd., Long Beach, CA 90807",
+      "phone": "(562) 247-3528",
+      "notes": "Bring photo ID, proof of residency, and proof of low-income status. Individuals can attend once every 2 weeks.",
+      "overlapsExisting": true,
+      "schedules": [
+        { "freq": "weekly", "days": [1, 2, 3, 5], "open": "09:15", "close": "11:45", "note": "" }
+      ]
+    },
+    {
+      "name": "Christian Outreach in Action (COA)",
+      "address": "515 E. 3rd St., Long Beach, CA 90802",
+      "phone": "(562) 432-1440",
+      "notes": "Wednesday distribution is reserved for seniors 55+; ID required.",
+      "overlapsExisting": true,
+      "schedules": [
+        { "freq": "weekly", "days": [1, 2, 3, 4, 5], "open": "10:00", "close": "12:30", "note": "" }
+      ]
+    },
+    {
+      "name": "Food Finders Inc. — Long Beach Senior Center",
+      "address": "1150 E. 4th St., Long Beach, CA 90802",
+      "phone": "(562) 570-3500",
+      "notes": "",
+      "schedules": [
+        { "freq": "weekly", "days": [1, 5], "open": "10:30", "close": null, "note": "" }
+      ]
+    },
+    {
+      "name": "LBCEI — Church One Ministries",
+      "address": "700 70th St., Long Beach, CA 90805",
+      "phone": "(562) 633-2515",
+      "notes": "",
+      "schedules": [
+        { "freq": "weekly", "days": [1, 2, 3, 4], "open": "11:00", "close": "13:00", "note": "" }
+      ]
+    },
+    {
+      "name": "Long Beach Community Table",
+      "address": "3311 E. 59th St., Long Beach, CA 90805",
+      "phone": "(562) 548-0774",
+      "notes": "",
+      "schedules": [
+        { "freq": "weekly", "days": [2, 3], "open": "17:30", "close": "19:00", "note": "" },
+        { "freq": "weekly", "days": [5], "open": "12:00", "close": "16:00", "note": "" },
+        { "freq": "weekly", "days": [6], "open": "12:00", "close": "14:00", "note": "" }
+      ]
+    },
+    {
+      "name": "St. Gregory's Episcopal Church",
+      "address": "6201 E. Willow St., Long Beach, CA 90815",
+      "phone": "(562) 420-1311",
+      "notes": "",
+      "schedules": [
+        { "freq": "monthly", "patterns": [{ "n": 3, "dow": 3 }], "open": "09:00", "close": "11:00", "note": "" }
+      ]
+    },
+    {
+      "name": "Light & Life Christian Fellowship",
+      "address": "5951 Downey Ave., Long Beach, CA 90805",
+      "phone": "(562) 630-6074",
+      "notes": "",
+      "schedules": [
+        { "freq": "weekly", "days": [3], "open": "10:00", "close": "12:00", "note": "" },
+        { "freq": "monthly", "patterns": [{ "n": 2, "dow": 6 }], "open": "10:00", "close": "12:00", "note": "Farmer's Market Produce" }
+      ]
+    },
+    {
+      "name": "Help Me Help You (HMHY) — Cesar Chavez Elementary",
+      "address": "730 W. 3rd St., Long Beach, CA 90802",
+      "phone": "(562) 612-5001",
+      "notes": "",
+      "schedules": [
+        { "freq": "monthly", "patterns": [{ "n": 1, "dow": 3 }], "open": "14:00", "close": "15:00", "note": "Walk-up only" }
+      ]
+    },
+    {
+      "name": "Help Me Help You (HMHY) — Lincoln Elementary",
+      "address": "1175 E. 11th St., Long Beach, CA 90813",
+      "phone": "(562) 612-5001",
+      "notes": "",
+      "schedules": [
+        { "freq": "monthly", "patterns": [{ "n": 2, "dow": 3 }, { "n": 4, "dow": 3 }], "open": "11:15", "close": "12:15", "note": "Walk-up only" }
+      ]
+    },
+    {
+      "name": "Help Me Help You (HMHY) — Whittier Elementary",
+      "address": "1716 Walnut Ave., Long Beach, CA 90813",
+      "phone": "(562) 612-5001",
+      "notes": "",
+      "schedules": [
+        { "freq": "monthly", "patterns": [{ "n": 3, "dow": 3 }], "open": "11:30", "close": "12:30", "note": "Walk-up only" }
+      ]
+    },
+    {
+      "name": "Help Me Help You (HMHY) — MOLAA (Museum of Latin American Art)",
+      "address": "628 Alamitos Ave., Long Beach, CA 90802",
+      "phone": "(562) 612-5001",
+      "notes": "",
+      "schedules": [
+        { "freq": "monthly", "patterns": [{ "n": 1, "dow": 3 }, { "n": 3, "dow": 3 }], "open": "16:00", "close": "17:00", "note": "Walk-up and drive-thru" }
+      ]
+    },
+    {
+      "name": "Help Me Help You (HMHY) — Philadelphian SDA Church",
+      "address": "2640 Santa Fe Ave., Long Beach, CA 90810",
+      "phone": "(562) 612-5001",
+      "notes": "",
+      "schedules": [
+        { "freq": "monthly", "patterns": [{ "n": 2, "dow": 3 }, { "n": 4, "dow": 3 }], "open": "13:00", "close": "14:00", "note": "Walk-up and drive-thru" }
+      ]
+    },
+    {
+      "name": "Food Finders Inc. — St. Lucy Catholic Church",
+      "address": "2344 Cota Ave., Long Beach, CA 90810",
+      "phone": "(562) 424-9051",
+      "notes": "",
+      "schedules": [
+        { "freq": "weekly", "days": [4], "open": "10:00", "close": "12:00", "note": "" }
+      ]
+    },
+    {
+      "name": "Help Me Help You (HMHY) — Stevenson Elementary",
+      "address": "515 Lime Ave., Long Beach, CA 90802",
+      "phone": "(562) 612-5001",
+      "notes": "",
+      "schedules": [
+        { "freq": "monthly", "patterns": [{ "n": 1, "dow": 5 }, { "n": 3, "dow": 5 }], "open": "11:30", "close": "12:30", "note": "Walk-up only" }
+      ]
+    },
+    {
+      "name": "Help Me Help You (HMHY) — Oropeza Elementary",
+      "address": "700 Locust Ave., Long Beach, CA 90813",
+      "phone": "(562) 612-5001",
+      "notes": "",
+      "schedules": [
+        { "freq": "monthly", "patterns": [{ "n": 2, "dow": 5 }, { "n": 4, "dow": 5 }], "open": "11:30", "close": "12:30", "note": "Walk-up and drive-thru" }
+      ]
+    },
+    {
+      "name": "Help Me Help You (HMHY) — McKinley Elementary",
+      "address": "6822 Paramount Blvd., Long Beach, CA 90805",
+      "phone": "(562) 612-5001",
+      "notes": "",
+      "schedules": [
+        { "freq": "monthly", "patterns": [{ "n": 2, "dow": 5 }, { "n": 4, "dow": 5 }], "open": "14:00", "close": "15:00", "note": "Walk-up only" }
+      ]
+    },
+    {
+      "name": "Help Me Help You (HMHY) — Revive Church",
+      "address": "669 Obispo Ave., Long Beach, CA 90814",
+      "phone": "(562) 612-5001",
+      "notes": "",
+      "schedules": [
+        { "freq": "monthly", "patterns": [{ "n": 1, "dow": 5 }, { "n": 3, "dow": 5 }], "open": "13:00", "close": "14:00", "note": "Walk-up and drive-thru" }
+      ]
+    },
+    {
+      "name": "Crossroads Long Beach",
+      "address": "1900 E. South St., Long Beach, CA 90805",
+      "phone": "(562) 428-4611",
+      "notes": "",
+      "overlapsExisting": true,
+      "schedules": [
+        { "freq": "monthly", "patterns": [{ "n": 3, "dow": 6 }], "open": "09:00", "close": "12:00", "note": "" }
+      ]
+    },
+    {
+      "name": "Tranquility Counseling Services at New Hope Church",
+      "address": "1119 E. Rhea St., Long Beach, CA 90806",
+      "phone": "(562) 787-5173",
+      "notes": "",
+      "schedules": [
+        { "freq": "monthly", "patterns": [{ "n": 1, "dow": 6 }, { "n": 3, "dow": 6 }], "open": "10:00", "close": "11:00", "note": "" }
+      ]
+    },
+    {
+      "name": "Pools of Hope",
+      "address": "6801 Long Beach Blvd., Long Beach, CA 90805",
+      "phone": "(310) 537-2224",
+      "notes": "",
+      "schedules": [
+        { "freq": "weekly", "days": [6], "open": "11:00", "close": "13:00", "note": "Walk-up and drive-thru" }
+      ]
+    },
+    {
+      "name": "Women in Action Reaching Out (Greater Open Door World Wide Ministries Church)",
+      "address": "135 W. Victoria St., Long Beach, CA 90805",
+      "phone": "(562) 253-8078",
+      "notes": "",
+      "schedules": [
+        { "freq": "monthly", "patterns": [{ "n": 1, "dow": 6 }, { "n": 3, "dow": 6 }], "open": "09:00", "close": "10:00", "note": "" }
+      ]
+    },
+    {
+      "name": "Help Me Help You (HMHY) — Lindsey Academy",
+      "address": "5075 Daisy Ave., Long Beach, CA 90805",
+      "phone": "(562) 612-5001",
+      "notes": "",
+      "schedules": [
+        { "freq": "monthly", "patterns": [{ "n": 3, "dow": 6 }], "open": "12:00", "close": null, "note": "Walk-up and drive-thru" }
+      ]
+    },
+    {
+      "name": "Cherry-Carson Assembly of God Church",
+      "address": "4103 Cherry Ave., Long Beach, CA 90807",
+      "phone": "(562) 424-8412",
+      "notes": "Service attendees receive tickets first.",
+      "schedules": [
+        { "freq": "weekly", "days": [7], "open": "12:30", "close": null, "note": "" }
+      ]
+    }
+  ]
+}

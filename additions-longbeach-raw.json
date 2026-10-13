@@ -1,0 +1,391 @@
+{
+  "sites": [
+    {
+      "name": "AIDS Food Store (AFS)",
+      "org": "AIDS Food Store",
+      "address": "590 E Willow St., Long Beach, CA 90806",
+      "phone": "(562) 676-4554",
+      "website": "",
+      "eligibility": "Must be enrolled in the AFS grocery pick-up program; Saturday distribution open 2nd & 4th Saturday",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "tue"
+          ],
+          "open": "09:00",
+          "close": "14:00",
+          "note": "AFS grocery pick-up program members"
+        },
+        {
+          "freq": "monthly",
+          "days": [
+            "sat"
+          ],
+          "open": "10:00",
+          "close": "12:00",
+          "note": "2nd & 4th Sat; AFS program members"
+        }
+      ]
+    },
+    {
+      "name": "Grant A.M.E. Church Food Pantry",
+      "org": "Grant A.M.E. Church (via LBCEI / Food Finders network)",
+      "address": "1129 Alamitos Ave., Long Beach, CA 90813",
+      "phone": "(562) 437-1567",
+      "website": "",
+      "eligibility": "Open to the community, no restrictions stated",
+      "category": "faith",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "wed"
+          ],
+          "open": "09:00",
+          "close": "12:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "The Volunteer Center Food Pantry",
+      "org": "The Volunteer Center",
+      "address": "1407 E. 4th St., Long Beach, CA 90802",
+      "phone": "(562) 590-8844",
+      "website": "",
+      "eligibility": "Open to the community, no restrictions stated",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "wed",
+            "fri"
+          ],
+          "open": "10:00",
+          "close": "12:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Long Beach Rescue Mission Public Meals",
+      "org": "Long Beach Rescue Mission",
+      "address": "1335 Pacific Ave., Long Beach, CA 90813",
+      "phone": "(562) 591-1292",
+      "website": "https://lbrm.org/what-we-do/provide-meals/",
+      "eligibility": "Hot meals open to the public, no restrictions",
+      "category": "meal",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open": "12:00",
+          "close": "12:30",
+          "note": "Lunch served at noon, Mon-Fri"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+          ],
+          "open": "17:30",
+          "close": "18:00",
+          "note": "Dinner served 5:30pm, 7 days/week"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "sun"
+          ],
+          "open": "10:30",
+          "close": "11:00",
+          "note": "Sunday lunch after chapel, ~10:30am"
+        }
+      ]
+    },
+    {
+      "name": "Long Beach Center for Economic Inclusion (LBCEI) Main Pantry",
+      "org": "Long Beach Center for Economic Inclusion",
+      "address": "6509 Gundry Ave., Long Beach, CA 90805",
+      "phone": "(562) 336-1833",
+      "website": "https://lbcei.org/",
+      "eligibility": "Open to the community; non-perishables Mondays, produce 1st & 3rd Wednesdays",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon"
+          ],
+          "open": "10:00",
+          "close": "12:00",
+          "note": "Non-perishable groceries"
+        },
+        {
+          "freq": "monthly",
+          "days": [
+            "wed"
+          ],
+          "open": "10:00",
+          "close": "12:00",
+          "note": "Produce, 1st & 3rd Wed"
+        }
+      ]
+    },
+    {
+      "name": "Fountain of Life Covenant Church Food Pantry",
+      "org": "Fountain of Life Covenant Church (via LBCEI network)",
+      "address": "2060 Santa Fe Ave., Long Beach, CA 90810",
+      "phone": "(562) 245-9825",
+      "website": "http://www.folcov.org/family-center/",
+      "eligibility": "Open to West Long Beach residents and anyone in need",
+      "category": "faith",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "days": [
+            "thu"
+          ],
+          "open": "09:00",
+          "close": "13:00",
+          "note": "1st & 3rd Thursdays"
+        }
+      ]
+    },
+    {
+      "name": "North Long Beach Community Prayer Center Food Pantry",
+      "org": "North Long Beach Prayer Center (via Food Finders network)",
+      "address": "5239 Atlantic Ave, Long Beach, CA 90805",
+      "phone": "(562) 373-5189",
+      "website": "",
+      "eligibility": "RSVP requested; registration 7:00-9:00am, distribution follows",
+      "category": "faith",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "fri"
+          ],
+          "open": "07:00",
+          "close": "13:30",
+          "note": "Register 7:00-9:00am; food distributed through ~1:30pm, while supplies last"
+        }
+      ]
+    },
+    {
+      "name": "Urban Community Outreach Drop-In Center",
+      "org": "Urban Community Outreach (First Congregational Church)",
+      "address": "241 Cedar Ave., Long Beach, CA 90802",
+      "phone": "(562) 582-1000",
+      "website": "https://www.ucodic.org/",
+      "eligibility": "People experiencing or at risk of homelessness; hot meal in Patterson Hall. Closed all of July and first weekend of December.",
+      "category": "meal",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "sun"
+          ],
+          "open": "13:00",
+          "close": "15:00",
+          "note": "Hot meal served 1:30-3:00pm; to-go available. Closed July."
+        }
+      ]
+    },
+    {
+      "name": "St. Francis Center Food Distribution (Long Beach)",
+      "org": "St. Francis Center",
+      "address": "627 Temple Ave, Long Beach, CA 90814",
+      "phone": "(562) 599-6474",
+      "website": "",
+      "eligibility": "Open to the community, no restrictions stated",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "days": [
+            "sat"
+          ],
+          "open": "09:00",
+          "close": "12:00",
+          "note": "2nd Sat; held at St. Matthew Church, 627 Temple Ave & 7th St"
+        }
+      ]
+    },
+    {
+      "name": "City Heart Food Distribution",
+      "org": "City Heart",
+      "address": "245 The Promenade N, Site 100, Long Beach, CA 90802",
+      "phone": "(562) 704-9585",
+      "website": "",
+      "eligibility": "Open to the community, no restrictions stated",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "thu"
+          ],
+          "open": "12:00",
+          "close": "14:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Long Beach Food Not Bombs",
+      "org": "LB Food Not Bombs (mutual aid)",
+      "address": "881 De Forest Ave, Long Beach, CA 90813",
+      "phone": "",
+      "website": "https://www.instagram.com/lbfoodnotbombs",
+      "eligibility": "Free hot meal share, open to all, no restrictions",
+      "category": "meal",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "sun"
+          ],
+          "open": "13:00",
+          "close": "15:00",
+          "note": "Weekly meal/food/clothing/hygiene share"
+        }
+      ]
+    },
+    {
+      "name": "Care Culture Collaborative Food Share",
+      "org": "Care Culture Collaborative (mutual aid)",
+      "address": "200 W Broadway, Long Beach, CA 90802",
+      "phone": "",
+      "website": "https://www.instagram.com/careculturecollab_lb",
+      "eligibility": "Free food share, open to all",
+      "category": "mobile",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "sat"
+          ],
+          "open": "12:30",
+          "close": "13:30",
+          "note": "Saturday downtown share, starts ~12:30pm; end time approximate"
+        }
+      ]
+    },
+    {
+      "name": "I Own It Today Food Distribution",
+      "org": "I Own It Today",
+      "address": "4835 E Anaheim St, Site 306, Long Beach, CA 90804",
+      "phone": "(949) 309-6803",
+      "website": "",
+      "eligibility": "Open to the community, no restrictions stated",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "days": [
+            "sat"
+          ],
+          "open": "09:00",
+          "close": "11:00",
+          "note": "3rd Sat; hot meal, food and clothing distribution"
+        }
+      ]
+    },
+    {
+      "name": "Awaken Ministries / New Generations Food Pantry",
+      "org": "Awaken Ministries (via LBCEI network)",
+      "address": "2426 Santa Fe Ave, Long Beach, CA 90810",
+      "phone": "(562) 336-1833",
+      "website": "https://www.awakenlb.com/",
+      "eligibility": "Saturday walk-up; Wednesday is by appointment",
+      "category": "faith",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "sat"
+          ],
+          "open": "09:00",
+          "close": "10:00",
+          "note": "Sat walk-up 9-10am. Wed 10:30am is by appointment only."
+        }
+      ]
+    },
+    {
+      "name": "HSA Cal Rec Center Senior Dining Site",
+      "org": "Human Services Association (HSA)",
+      "address": "1550 Martin Luther King Jr Ave, Long Beach, CA 90813",
+      "phone": "(562) 599-7185",
+      "website": "https://www.hsala.org/",
+      "eligibility": "Seniors 60+, suggested voluntary donation $3 (no one turned away); Cambodian meals served; reservation 24hrs in advance",
+      "category": "senior",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open": "11:30",
+          "close": "12:30",
+          "note": "Congregate lunch for seniors 60+ (Cambodian meals); reserve 24hrs ahead, call (562) 599-7185. Voluntary $3 donation; no one turned away."
+        }
+      ]
+    },
+    {
+      "name": "Food Finders Community Marketplace at Admiral Kidd Park",
+      "org": "Food Finders Inc.",
+      "address": "2125 Santa Fe Ave., Long Beach, CA 90810",
+      "phone": "(562) 283-1400",
+      "website": "https://foodfinders.org/events/",
+      "eligibility": "Open to all residents, no restrictions stated; monthly community marketplace at the park",
+      "category": "mobile",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "days": [
+            "sat"
+          ],
+          "open": "09:00",
+          "close": "12:00",
+          "note": "4th Saturday community marketplace (held outdoors at Admiral Kidd Park)"
+        }
+      ]
+    }
+  ]
+}

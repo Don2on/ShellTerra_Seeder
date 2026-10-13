@@ -1,0 +1,36 @@
+{
+  "sites": [
+    {
+      "slug": "add-karen-organization-of-san-diego-food-distributio",
+      "name": "Karen Organization of San Diego Food Distribution (Global Marketplace)",
+      "operating": true,
+      "address": "5591 University Ave, San Diego, CA 92105",
+      "phone": "619-582-0783",
+      "website": "https://karensandiego.org",
+      "schedules": [],
+      "verified": "high",
+      "source": "https://karensandiego.org/news-events/",
+      "note": "Active. Distributions at Global Marketplace (5591 University Ave) are held on announced specific dates (e.g. 10 a.m.-1 p.m.) rather than a fixed weekly recurrence; no registration required, bring your own bags. Check karensandiego.org/news-events for current dates. Main office is at 5354 University Ave. Contact Hsihsa Thaw, hsihsa@karensandiego.org."
+    },
+    {
+      "slug": "add-la-mesa-first-united-methodist-church-food-pantr",
+      "name": "La Mesa First United Methodist Church Food Pantry",
+      "operating": true,
+      "address": "4690 Palm Ave, La Mesa, CA 91941",
+      "phone": "619-466-4163",
+      "website": "https://www.lamesaumc.com",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "days": ["sat"],
+          "open": "07:00",
+          "close": "09:30",
+          "note": "last Sat"
+        }
+      ],
+      "verified": "high",
+      "source": "https://www.lamesaumc.com",
+      "note": "Food ministry is branded 'Fresh Start' (not called a 'food pantry' by the church). Held the final Saturday of each month, 7:00-9:30 a.m. Offers hot breakfast, to-go lunches, personal care items, clothing. Confirmed on church site and East County Assist resource guide."
+    }
+  ]
+}

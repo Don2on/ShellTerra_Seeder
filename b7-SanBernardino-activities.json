@@ -1,0 +1,2432 @@
+{
+  "_meta": {
+    "topic": "Net-new San Bernardino County food distributions",
+    "generated": "2026-10-05",
+    "source": "Research supplementing shell 6abaa385b4b328f7ae43; raw ./b7-SanBernardino-raw.json."
+  },
+  "_deferred": {
+    "add-university-of-redlands": {
+      "title": "University of Redlands",
+      "status": "Daily 8am-8pm (students only) Phone: 909-748-8288.",
+      "address": "1200 E Colton Ave, Redlands, CA 92374",
+      "lat": 34.062332,
+      "lng": -117.164218,
+      "phone": "909-748-8288",
+      "eligibility": "students only",
+      "sourceUrl": "https://feedingamericaie.org/find-a-pantry"
+    },
+    "add-yucaipa-seventh-day-adventist-church": {
+      "title": "Yucaipa Seventh Day Adventist Church",
+      "status": "Wed 12pm Phone: 415-297-8588.",
+      "address": "35225 Avenue E, Yucaipa, CA 92399",
+      "lat": 34.026259,
+      "lng": -117.035845,
+      "phone": "415-297-8588",
+      "eligibility": "",
+      "sourceUrl": "https://feedingamericaie.org/find-a-pantry"
+    }
+  },
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "add-christ-the-good-shepard-m2333-0830",
+      "seriesSlug": "add-christ-the-good-shepard",
+      "title": "Christ the Good Shepard — Free Food",
+      "description": "Free food at Christ the Good Shepard. Schedule: 2nd Wed & 3rd Wed 8:30 AM–11 AM. Call 760-628-9270 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Christ the Good Shepard",
+      "address": "17900 Jonathan St, Adelanto, CA 92301",
+      "lat": 34.57583,
+      "lng": -117.41018,
+      "category": "food-assistance",
+      "sourceOrg": "Christ the Good Shepard",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "2nd Wed & 3rd Wed 8:30 AM–11 AM",
+      "start": "2026-10-07T08:30",
+      "end": "2026-10-07T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "2:3,3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-curbside-community-center-w5-1300",
+      "seriesSlug": "add-curbside-community-center",
+      "title": "Curbside Community Center — Free Food",
+      "description": "Free food at Curbside Community Center. Schedule: Fri 1 PM–3:30 PM; Sat 9 AM–12 PM. Call 760-953-7944 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Curbside Community Center",
+      "address": "11565 Cortez Ave, Adelanto, CA 92301",
+      "lat": 34.573332,
+      "lng": -117.412348,
+      "category": "food-assistance",
+      "sourceOrg": "Curbside Community Center",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Fri 1 PM–3:30 PM; Sat 9 AM–12 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T15:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-curbside-community-center-w6-0900",
+      "seriesSlug": "add-curbside-community-center",
+      "title": "Curbside Community Center — Free Food",
+      "description": "Free food at Curbside Community Center. Schedule: Fri 1 PM–3:30 PM; Sat 9 AM–12 PM. Call 760-953-7944 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Curbside Community Center",
+      "address": "11565 Cortez Ave, Adelanto, CA 92301",
+      "lat": 34.573332,
+      "lng": -117.412348,
+      "category": "food-assistance",
+      "sourceOrg": "Curbside Community Center",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Fri 1 PM–3:30 PM; Sat 9 AM–12 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-360-community-thrift-w2345-1000",
+      "seriesSlug": "add-360-community-thrift",
+      "title": "360 Community Thrift — Free Food",
+      "description": "Free food at 360 Community Thrift. Schedule: Tue–Fri 10 AM–6 PM; Sat 10 AM–5 PM. Call 760-503-4948 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "360 Community Thrift",
+      "address": "20646 N CA-18, Apple Valley, CA 92307",
+      "lat": 34.539251,
+      "lng": -117.259924,
+      "category": "food-assistance",
+      "sourceOrg": "360 Community Thrift",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Tue–Fri 10 AM–6 PM; Sat 10 AM–5 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T18:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-360-community-thrift-w6-1000",
+      "seriesSlug": "add-360-community-thrift",
+      "title": "360 Community Thrift — Free Food",
+      "description": "Free food at 360 Community Thrift. Schedule: Tue–Fri 10 AM–6 PM; Sat 10 AM–5 PM. Call 760-503-4948 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "360 Community Thrift",
+      "address": "20646 N CA-18, Apple Valley, CA 92307",
+      "lat": 34.539251,
+      "lng": -117.259924,
+      "category": "food-assistance",
+      "sourceOrg": "360 Community Thrift",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Tue–Fri 10 AM–6 PM; Sat 10 AM–5 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-apple-valley-schools-foundation-w5-1300",
+      "seriesSlug": "add-apple-valley-schools-foundation",
+      "title": "Apple Valley Schools Foundation — Free Food",
+      "description": "Free food at Apple Valley Schools Foundation. Schedule: Fri 1 PM–3 PM. Call 760-247-8001 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Apple Valley Schools Foundation",
+      "address": "12555 Navajo Rd, Apple Valley, CA 92308",
+      "lat": 34.480504,
+      "lng": -117.189434,
+      "category": "food-assistance",
+      "sourceOrg": "Apple Valley Schools Foundation",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Fri 1 PM–3 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-church-for-whosoever-w13-1000",
+      "seriesSlug": "add-church-for-whosoever",
+      "title": "Church for Whosoever — Free Food",
+      "description": "Free food at Church for Whosoever. Schedule: Mon, Wed 10 AM–2 PM; Tue 11 AM–2 PM. Call 760-242-3191 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Church for Whosoever",
+      "address": "18628 Seneca Rd, Apple Valley, CA 92307",
+      "lat": 34.5156,
+      "lng": -117.257568,
+      "category": "food-assistance",
+      "sourceOrg": "Church for Whosoever",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon, Wed 10 AM–2 PM; Tue 11 AM–2 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-church-for-whosoever-w2-1100",
+      "seriesSlug": "add-church-for-whosoever",
+      "title": "Church for Whosoever — Free Food",
+      "description": "Free food at Church for Whosoever. Schedule: Mon, Wed 10 AM–2 PM; Tue 11 AM–2 PM. Call 760-242-3191 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Church for Whosoever",
+      "address": "18628 Seneca Rd, Apple Valley, CA 92307",
+      "lat": 34.5156,
+      "lng": -117.257568,
+      "category": "food-assistance",
+      "sourceOrg": "Church for Whosoever",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon, Wed 10 AM–2 PM; Tue 11 AM–2 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-way-of-the-cross-church-of-god-in-christ-swd-w5-1000",
+      "seriesSlug": "add-the-way-of-the-cross-church-of-god-in-christ-swd",
+      "title": "The Way of the Cross Church of God in Christ SWD — Free Food",
+      "description": "Free food at The Way of the Cross Church of God in Christ SWD. Schedule: Fri 10 AM–11 AM. Call 760-713-1867 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Way of the Cross Church of God in Christ SWD",
+      "address": "20601 US Highway 18 Bldg 165, Apple Valley, CA 92307",
+      "lat": 34.539909,
+      "lng": -117.265812,
+      "category": "food-assistance",
+      "sourceOrg": "The Way of the Cross Church of God in Christ SWD",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Fri 10 AM–11 AM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-desert-manna-w5-0900",
+      "seriesSlug": "add-desert-manna",
+      "title": "Desert Manna — Free Food",
+      "description": "Free food at Desert Manna. Schedule: Fri 9 AM–11 AM; Sat 9 AM–12:30 PM; 3rd Thu 8:30 AM–11 AM. Call 760-256-7797 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Desert Manna",
+      "address": "2410 Armory Rd, Barstow, CA 92311",
+      "lat": 34.880008,
+      "lng": -116.981182,
+      "category": "food-assistance",
+      "sourceOrg": "Desert Manna",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Fri 9 AM–11 AM; Sat 9 AM–12:30 PM; 3rd Thu 8:30 AM–11 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-desert-manna-w6-0900",
+      "seriesSlug": "add-desert-manna",
+      "title": "Desert Manna — Free Food",
+      "description": "Free food at Desert Manna. Schedule: Fri 9 AM–11 AM; Sat 9 AM–12:30 PM; 3rd Thu 8:30 AM–11 AM. Call 760-256-7797 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Desert Manna",
+      "address": "2410 Armory Rd, Barstow, CA 92311",
+      "lat": 34.880008,
+      "lng": -116.981182,
+      "category": "food-assistance",
+      "sourceOrg": "Desert Manna",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Fri 9 AM–11 AM; Sat 9 AM–12:30 PM; 3rd Thu 8:30 AM–11 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-desert-manna-m34-0830",
+      "seriesSlug": "add-desert-manna",
+      "title": "Desert Manna — Free Food",
+      "description": "Free food at Desert Manna. Schedule: Fri 9 AM–11 AM; Sat 9 AM–12:30 PM; 3rd Thu 8:30 AM–11 AM. Call 760-256-7797 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Desert Manna",
+      "address": "2410 Armory Rd, Barstow, CA 92311",
+      "lat": 34.880008,
+      "lng": -116.981182,
+      "category": "food-assistance",
+      "sourceOrg": "Desert Manna",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Fri 9 AM–11 AM; Sat 9 AM–12:30 PM; 3rd Thu 8:30 AM–11 AM",
+      "start": "2026-10-08T08:30",
+      "end": "2026-10-08T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-big-bear-city-foursquare-church-w3-1030",
+      "seriesSlug": "add-big-bear-city-foursquare-church",
+      "title": "Big Bear City Foursquare Church — Free Food",
+      "description": "Free food at Big Bear City Foursquare Church. Schedule: Wed 10:30 AM–1 PM. Call 951-741-5649 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Big Bear City Foursquare Church",
+      "address": "800 S. Greenspot Blvd, Big Bear, CA 92314",
+      "lat": 34.254689,
+      "lng": -116.817986,
+      "category": "food-assistance",
+      "sourceOrg": "Big Bear City Foursquare Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Wed 10:30 AM–1 PM",
+      "start": "2026-09-28T10:30",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-joseph-catholic-church-w2-0900",
+      "seriesSlug": "add-st-joseph-catholic-church",
+      "title": "St. Joseph Catholic Church — Free Food",
+      "description": "Free food at St. Joseph Catholic Church. Schedule: Tue 9 AM–11 AM. Call 909-866-3030 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Joseph Catholic Church",
+      "address": "42242 N Shore Dr, Big Bear, CA 92314",
+      "lat": 34.264428,
+      "lng": -116.880702,
+      "category": "food-assistance",
+      "sourceOrg": "St. Joseph Catholic Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Tue 9 AM–11 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-big-bear-advantage-w15-1400",
+      "seriesSlug": "add-big-bear-advantage",
+      "title": "Big Bear Advantage — Free Food",
+      "description": "Free food at Big Bear Advantage. Schedule: Mon, Fri 2 PM–4 PM. Call 909-916-1746 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Big Bear Advantage",
+      "address": "39853 Crocus Dr, Big Bear Lake, CA 92315",
+      "lat": 34.236898,
+      "lng": -116.932752,
+      "category": "food-assistance",
+      "sourceOrg": "Big Bear Advantage",
+      "url": "https://bigbearfoodbank.com",
+      "schedulePattern": "Mon, Fri 2 PM–4 PM",
+      "start": "2026-09-28T14:00",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-big-bear-believers-church-w7-1200",
+      "seriesSlug": "add-big-bear-believers-church",
+      "title": "Big Bear Believers Church — Free Food",
+      "description": "Free food at Big Bear Believers Church. Schedule: Sun 12 PM–1 PM; Thu 9 AM–3 PM. Call 909-866-2552 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Big Bear Believers Church",
+      "address": "42180 Moonridge Rd, Big Bear Lake, CA 92315",
+      "lat": 34.244149,
+      "lng": -116.881653,
+      "category": "food-assistance",
+      "sourceOrg": "Big Bear Believers Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Sun 12 PM–1 PM; Thu 9 AM–3 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-big-bear-believers-church-w4-0900",
+      "seriesSlug": "add-big-bear-believers-church",
+      "title": "Big Bear Believers Church — Free Food",
+      "description": "Free food at Big Bear Believers Church. Schedule: Sun 12 PM–1 PM; Thu 9 AM–3 PM. Call 909-866-2552 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Big Bear Believers Church",
+      "address": "42180 Moonridge Rd, Big Bear Lake, CA 92315",
+      "lat": 34.244149,
+      "lng": -116.881653,
+      "category": "food-assistance",
+      "sourceOrg": "Big Bear Believers Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Sun 12 PM–1 PM; Thu 9 AM–3 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-doves-of-big-bear-valley-w12345-1000",
+      "seriesSlug": "add-doves-of-big-bear-valley",
+      "title": "Doves of Big Bear Valley — Free Food",
+      "description": "Free food at Doves of Big Bear Valley. Schedule: Mon–Fri 10 AM–4 PM. Call 909-866-1546 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Doves of Big Bear Valley",
+      "address": "41943 Big Bear Blvd, Big Bear Lake, CA 92315",
+      "lat": 34.243361,
+      "lng": -116.886983,
+      "category": "food-assistance",
+      "sourceOrg": "Doves of Big Bear Valley",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon–Fri 10 AM–4 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-nazarene-church-of-bloomington-m36-0700",
+      "seriesSlug": "add-nazarene-church-of-bloomington",
+      "title": "Nazarene Church of Bloomington — Free Food",
+      "description": "Free food at Nazarene Church of Bloomington. Schedule: 3rd Sat 7 AM–9 AM. Call 909-877-0769 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Nazarene Church of Bloomington",
+      "address": "9904 Bloomington Ave, Bloomington, CA 92316",
+      "lat": 34.073791,
+      "lng": -117.393001,
+      "category": "food-assistance",
+      "sourceOrg": "Nazarene Church of Bloomington",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "3rd Sat 7 AM–9 AM",
+      "start": "2026-10-10T07:00",
+      "end": "2026-10-10T09:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-food-for-life-ministries-w24-1600",
+      "seriesSlug": "add-food-for-life-ministries",
+      "title": "Food For Life Ministries — Free Food",
+      "description": "Free food at Food For Life Ministries. Schedule: Tue, Thu 4 PM–6 PM; Sat 9 AM–12 PM. Call 909-627-3663 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Food For Life Ministries",
+      "address": "4712 Cheyenne Way, Chino, CA 91710",
+      "lat": 34.00343,
+      "lng": -117.701854,
+      "category": "food-assistance",
+      "sourceOrg": "Food For Life Ministries",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Tue, Thu 4 PM–6 PM; Sat 9 AM–12 PM",
+      "start": "2026-09-28T16:00",
+      "end": "2026-09-28T18:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-food-for-life-ministries-w6-0900",
+      "seriesSlug": "add-food-for-life-ministries",
+      "title": "Food For Life Ministries — Free Food",
+      "description": "Free food at Food For Life Ministries. Schedule: Tue, Thu 4 PM–6 PM; Sat 9 AM–12 PM. Call 909-627-3663 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Food For Life Ministries",
+      "address": "4712 Cheyenne Way, Chino, CA 91710",
+      "lat": 34.00343,
+      "lng": -117.701854,
+      "category": "food-assistance",
+      "sourceOrg": "Food For Life Ministries",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Tue, Thu 4 PM–6 PM; Sat 9 AM–12 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sunrise-church-chino-w2345-0900",
+      "seriesSlug": "add-sunrise-church-chino",
+      "title": "Sunrise Church - Chino — Free Food",
+      "description": "Free food at Sunrise Church - Chino. Schedule: Tue–Fri 9 AM–12 PM. Call 909-281-7797 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Sunrise Church - Chino",
+      "address": "5559 Park Pl, Chino, CA 91710",
+      "lat": 34.020556,
+      "lng": -117.683339,
+      "category": "food-assistance",
+      "sourceOrg": "Sunrise Church - Chino",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Tue–Fri 9 AM–12 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-soldiers-of-the-cross-of-christ-m47-1100",
+      "seriesSlug": "add-soldiers-of-the-cross-of-christ",
+      "title": "Soldiers of the Cross of Christ — Free Food",
+      "description": "Free food at Soldiers of the Cross of Christ. Schedule: 4th Sun 11 AM–1 PM. Call 682-438-0333 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Soldiers of the Cross of Christ",
+      "address": "501 E C St, Colton, CA 92324",
+      "lat": 34.07277,
+      "lng": -117.31637,
+      "category": "food-assistance",
+      "sourceOrg": "Soldiers of the Cross of Christ",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "4th Sun 11 AM–1 PM",
+      "start": "2026-10-11T11:00",
+      "end": "2026-10-11T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 7
+          }
+        ]
+      },
+      "recurDays": "4:7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-vineyard-christian-fellowship-m-17-1300",
+      "seriesSlug": "add-vineyard-christian-fellowship",
+      "title": "Vineyard Christian Fellowship — Free Food",
+      "description": "Free food at Vineyard Christian Fellowship. Schedule: last Sun 1 PM–2:30 PM. Call 909-824-5753 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Vineyard Christian Fellowship",
+      "address": "785 Colton Ave, Colton, CA 92324",
+      "lat": 34.073021,
+      "lng": -117.315581,
+      "category": "food-assistance",
+      "sourceOrg": "Vineyard Christian Fellowship",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "last Sun 1 PM–2:30 PM",
+      "start": "2026-10-11T13:00",
+      "end": "2026-10-11T14:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": -1,
+            "dayOfWeek": 7
+          }
+        ]
+      },
+      "recurDays": "-1:7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-women-of-worship-and-warfare-m34-0900",
+      "seriesSlug": "add-women-of-worship-and-warfare",
+      "title": "Women of Worship and Warfare — Free Food",
+      "description": "Free food at Women of Worship and Warfare. Schedule: 3rd Thu 9 AM–12 PM. Call 909-659-1674 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Women of Worship and Warfare",
+      "address": "1380 N La Cadena Dr, Colton, CA 92324",
+      "lat": 34.082126,
+      "lng": -117.31674,
+      "category": "food-assistance",
+      "sourceOrg": "Women of Worship and Warfare",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "3rd Thu 9 AM–12 PM",
+      "start": "2026-10-08T09:00",
+      "end": "2026-10-08T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-boys-girls-club-mountain-communities-w12345-0700",
+      "seriesSlug": "add-boys-girls-club-mountain-communities",
+      "title": "Boys & Girls Club Mountain Communities — Free Food",
+      "description": "Free food at Boys & Girls Club Mountain Communities. Schedule: Mon–Fri 7 AM–6 PM. Call 909-338-9390 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Boys & Girls Club Mountain Communities",
+      "address": "607 Forest Shade Rd, Crestline, CA 92325",
+      "lat": 34.24234,
+      "lng": -117.277795,
+      "category": "food-assistance",
+      "sourceOrg": "Boys & Girls Club Mountain Communities",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon–Fri 7 AM–6 PM",
+      "start": "2026-09-28T07:00",
+      "end": "2026-09-28T18:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-fontana-community-senior-center-m15-0900",
+      "seriesSlug": "add-fontana-community-senior-center",
+      "title": "Fontana Community Senior Center — Free Food",
+      "description": "Free food at Fontana Community Senior Center. Schedule: 1st Fri 9 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Fontana Community Senior Center",
+      "address": "16710 Ceres Ave, Fontana, CA 92335",
+      "lat": 34.094647,
+      "lng": -117.438654,
+      "category": "food-assistance",
+      "sourceOrg": "Fontana Community Senior Center",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "1st Fri 9 AM–11 AM",
+      "start": "2026-10-09T09:00",
+      "end": "2026-10-09T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "1:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-fontana-first-assembly-of-god-w3-1030",
+      "seriesSlug": "add-fontana-first-assembly-of-god",
+      "title": "Fontana First Assembly Of God — Free Food",
+      "description": "Free food at Fontana First Assembly Of God. Schedule: Wed 10:30 AM–2:30 PM. Call 909-829-1911 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Fontana First Assembly Of God",
+      "address": "16580 San Bernardino Ave, Fontana, CA 92335",
+      "lat": 34.077951,
+      "lng": -117.442689,
+      "category": "food-assistance",
+      "sourceOrg": "Fontana First Assembly Of God",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Wed 10:30 AM–2:30 PM",
+      "start": "2026-09-28T10:30",
+      "end": "2026-09-28T14:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-water-of-life-community-church-w4-0800",
+      "seriesSlug": "add-water-of-life-community-church",
+      "title": "Water Of Life Community Church — Free Food",
+      "description": "Free food at Water Of Life Community Church. Schedule: Thu 8 AM–10:30 AM. Call 909-803-1059 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Water Of Life Community Church",
+      "address": "16815 Spring St #2227, Fontana, CA 92335",
+      "lat": 34.100286,
+      "lng": -117.437693,
+      "category": "food-assistance",
+      "sourceOrg": "Water Of Life Community Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Thu 8 AM–10:30 AM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T10:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-church-of-fire-in-christ-m36-1000",
+      "seriesSlug": "add-church-of-fire-in-christ",
+      "title": "Church of Fire in Christ — Free Food",
+      "description": "Free food at Church of Fire in Christ. Schedule: 3rd Sat 10 AM–12 PM. Call 909-580-7637 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Church of Fire in Christ",
+      "address": "12354 Mt Vernon Ave, Grand Terrace, CA 92313",
+      "lat": 34.029249,
+      "lng": -117.313976,
+      "category": "food-assistance",
+      "sourceOrg": "Church of Fire in Christ",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "3rd Sat 10 AM–12 PM",
+      "start": "2026-10-10T10:00",
+      "end": "2026-10-10T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-agape-life-line-ministries-inc-w5-1200",
+      "seriesSlug": "add-agape-life-line-ministries-inc",
+      "title": "Agape Life Line Ministries Inc. — Free Food",
+      "description": "Free food at Agape Life Line Ministries Inc.. Schedule: Fri 12 PM–4 PM. Call 310-753-4697 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Agape Life Line Ministries Inc.",
+      "address": "10178 I Ave Unit C, Hesperia, CA 92345",
+      "lat": 34.436372,
+      "lng": -117.28,
+      "category": "food-assistance",
+      "sourceOrg": "Agape Life Line Ministries Inc.",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Fri 12 PM–4 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-jericas-empowerment-center-w5-1400",
+      "seriesSlug": "add-jericas-empowerment-center",
+      "title": "Jericas Empowerment Center — Free Food",
+      "description": "Free food at Jericas Empowerment Center. Schedule: Fri 2 PM–4:30 PM. Call 760-553-5242 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Jericas Empowerment Center",
+      "address": "10968 I Ave, Hesperia, CA 92345",
+      "lat": 34.450418,
+      "lng": -117.277899,
+      "category": "food-assistance",
+      "sourceOrg": "Jericas Empowerment Center",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Fri 2 PM–4:30 PM",
+      "start": "2026-09-28T14:00",
+      "end": "2026-09-28T16:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-restore-unity-inc-hub-w13-1100",
+      "seriesSlug": "add-restore-unity-inc-hub",
+      "title": "Restore Unity Inc. (HUB) — Free Food",
+      "description": "Free food at Restore Unity Inc. (HUB). Schedule: Mon, Wed 11 AM–2 PM; Fri 2 PM–5 PM. Call 760-488-7971 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Restore Unity Inc. (HUB)",
+      "address": "9608 I Ave, Hesperia, CA 92345",
+      "lat": 34.427024,
+      "lng": -117.281803,
+      "category": "food-assistance",
+      "sourceOrg": "Restore Unity Inc. (HUB)",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon, Wed 11 AM–2 PM; Fri 2 PM–5 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-restore-unity-inc-hub-w5-1400",
+      "seriesSlug": "add-restore-unity-inc-hub",
+      "title": "Restore Unity Inc. (HUB) — Free Food",
+      "description": "Free food at Restore Unity Inc. (HUB). Schedule: Mon, Wed 11 AM–2 PM; Fri 2 PM–5 PM. Call 760-488-7971 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Restore Unity Inc. (HUB)",
+      "address": "9608 I Ave, Hesperia, CA 92345",
+      "lat": 34.427024,
+      "lng": -117.281803,
+      "category": "food-assistance",
+      "sourceOrg": "Restore Unity Inc. (HUB)",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon, Wed 11 AM–2 PM; Fri 2 PM–5 PM",
+      "start": "2026-09-28T14:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-rock-n-our-disabilities-w13-1000",
+      "seriesSlug": "add-rock-n-our-disabilities",
+      "title": "Rock'n Our Disabilities — Free Food",
+      "description": "Free food at Rock'n Our Disabilities. Schedule: Mon, Wed 10 AM–1 PM; Fri 8 AM–10 AM. Call 760-998-2241 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Rock'n Our Disabilities",
+      "address": "13558 Palm St, Hesperia, CA 92344",
+      "lat": 34.408848,
+      "lng": -117.367967,
+      "category": "food-assistance",
+      "sourceOrg": "Rock'n Our Disabilities",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon, Wed 10 AM–1 PM; Fri 8 AM–10 AM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-rock-n-our-disabilities-w5-0800",
+      "seriesSlug": "add-rock-n-our-disabilities",
+      "title": "Rock'n Our Disabilities — Free Food",
+      "description": "Free food at Rock'n Our Disabilities. Schedule: Mon, Wed 10 AM–1 PM; Fri 8 AM–10 AM. Call 760-998-2241 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Rock'n Our Disabilities",
+      "address": "13558 Palm St, Hesperia, CA 92344",
+      "lat": 34.408848,
+      "lng": -117.367967,
+      "category": "food-assistance",
+      "sourceOrg": "Rock'n Our Disabilities",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon, Wed 10 AM–1 PM; Fri 8 AM–10 AM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T10:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-spirit-filled-family-church-w6-0900",
+      "seriesSlug": "add-spirit-filled-family-church",
+      "title": "Spirit Filled Family Church — Free Food",
+      "description": "Free food at Spirit Filled Family Church. Schedule: Sat 9 AM–11 AM. Call 760-956-2501 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Spirit Filled Family Church",
+      "address": "9980 Hesperia Rd, Hesperia, CA 92345",
+      "lat": 34.43263,
+      "lng": -117.3006,
+      "category": "food-assistance",
+      "sourceOrg": "Spirit Filled Family Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Sat 9 AM–11 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-city-mission-ministries-w12345-0800",
+      "seriesSlug": "add-city-mission-ministries",
+      "title": "City Mission Ministries — Free Food",
+      "description": "Free food at City Mission Ministries. Schedule: Mon–Fri 8 AM–5 PM. Call 909-649-0011 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "City Mission Ministries",
+      "address": "26200 Date St E, Highland, CA 92346",
+      "lat": 34.14172,
+      "lng": -117.232696,
+      "category": "food-assistance",
+      "sourceOrg": "City Mission Ministries",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon–Fri 8 AM–5 PM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-highland-senior-center-w15-1000",
+      "seriesSlug": "add-highland-senior-center",
+      "title": "Highland Senior Center — Free Food",
+      "description": "Free food at Highland Senior Center. Schedule: Mon, Fri 10 AM–11 AM. Call 909-862-8104 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Highland Senior Center",
+      "address": "3102 E Highland Ave, Highland, CA 92346",
+      "lat": 34.137851,
+      "lng": -117.215072,
+      "category": "food-assistance",
+      "sourceOrg": "Highland Senior Center",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon, Fri 10 AM–11 AM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-montclair-united-methodist-church-w6-1200",
+      "seriesSlug": "add-montclair-united-methodist-church",
+      "title": "Montclair United Methodist Church — Free Food",
+      "description": "Free food at Montclair United Methodist Church. Schedule: Sat 12 PM–2 PM. Call 909-621-5033 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Montclair United Methodist Church",
+      "address": "9950 Fremont Ave, Montclair, CA 91763",
+      "lat": 34.0729,
+      "lng": -117.69439,
+      "category": "food-assistance",
+      "sourceOrg": "Montclair United Methodist Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Sat 12 PM–2 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-fire-house-ministries-w4-0900",
+      "seriesSlug": "add-fire-house-ministries",
+      "title": "Fire House Ministries — Free Food",
+      "description": "Free food at Fire House Ministries. Schedule: Thu 9 AM–1 PM. Call 760-443-4342 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Fire House Ministries",
+      "address": "809 Bush St, Needles, CA 92363",
+      "lat": 34.850736,
+      "lng": -114.619362,
+      "category": "food-assistance",
+      "sourceOrg": "Fire House Ministries",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Thu 9 AM–1 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-fire-house-ministries-mobile-pantry-m36-0800",
+      "seriesSlug": "add-fire-house-ministries-mobile-pantry",
+      "title": "Fire House Ministries Mobile Pantry — Free Food",
+      "description": "Free food at Fire House Ministries Mobile Pantry. Schedule: 3rd Sat 8 AM–10 AM. Call 760-443-4342 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Fire House Ministries Mobile Pantry",
+      "address": "725 W Broadway, Needles, CA 92363",
+      "lat": 34.838312,
+      "lng": -114.604845,
+      "category": "food-assistance",
+      "sourceOrg": "Fire House Ministries Mobile Pantry",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "3rd Sat 8 AM–10 AM",
+      "start": "2026-10-10T08:00",
+      "end": "2026-10-10T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-tri-state-community-healthcare-w5-1000",
+      "seriesSlug": "add-tri-state-community-healthcare",
+      "title": "Tri State Community Healthcare — Free Food",
+      "description": "Free food at Tri State Community Healthcare. Schedule: Fri 10 AM–1 PM. Call 909-991-0800 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Tri State Community Healthcare",
+      "address": "1406 Bailey Ave Unit 8, Needles, CA 92363",
+      "lat": 34.832643,
+      "lng": -114.619399,
+      "category": "food-assistance",
+      "sourceOrg": "Tri State Community Healthcare",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Fri 10 AM–1 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-victorville-thanksgiving-church-m2444-0900",
+      "seriesSlug": "add-victorville-thanksgiving-church",
+      "title": "Victorville Thanksgiving Church — Free Food",
+      "description": "Free food at Victorville Thanksgiving Church. Schedule: 2nd Thu & 4th Thu 9 AM–10 AM. Call 760-587-9048 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Victorville Thanksgiving Church",
+      "address": "10570 Phelan Rd, Oak Hills, CA 92344",
+      "lat": 34.42703,
+      "lng": -117.43271,
+      "category": "food-assistance",
+      "sourceOrg": "Victorville Thanksgiving Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "2nd Thu & 4th Thu 9 AM–10 AM",
+      "start": "2026-10-08T09:00",
+      "end": "2026-10-08T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "2:4,4:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-touch-ones-united-creating-hope-w135-0830",
+      "seriesSlug": "add-touch-ones-united-creating-hope",
+      "title": "Touch Ones United Creating Hope — Free Food",
+      "description": "Free food at Touch Ones United Creating Hope. Schedule: Mon, Wed, Fri 8:30 AM–9:30 AM. Call 909-682-5474 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Touch Ones United Creating Hope",
+      "address": "219 W Belmont St, Ontario, CA 91762",
+      "lat": 34.0511,
+      "lng": -117.65317,
+      "category": "food-assistance",
+      "sourceOrg": "Touch Ones United Creating Hope",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon, Wed, Fri 8:30 AM–9:30 AM",
+      "start": "2026-09-28T08:30",
+      "end": "2026-09-28T09:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-first-baptist-church-of-rancho-cucamonga-m1636-0700",
+      "seriesSlug": "add-first-baptist-church-of-rancho-cucamonga",
+      "title": "First Baptist Church of Rancho Cucamonga — Free Food",
+      "description": "Free food at First Baptist Church of Rancho Cucamonga. Schedule: 1st Sat & 3rd Sat 7 AM–9 AM. Call 909-987-3676 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "First Baptist Church of Rancho Cucamonga",
+      "address": "7450 Archibald Ave, Rancho Cucamonga, CA 91730",
+      "lat": 34.11905,
+      "lng": -117.59417,
+      "category": "food-assistance",
+      "sourceOrg": "First Baptist Church of Rancho Cucamonga",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "1st Sat & 3rd Sat 7 AM–9 AM",
+      "start": "2026-10-10T07:00",
+      "end": "2026-10-10T09:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "1:6,3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-eagle-ministry-reaching-the-unreachables-w2-1645",
+      "seriesSlug": "add-the-eagle-ministry-reaching-the-unreachables",
+      "title": "The Eagle Ministry - Reaching the Unreachables — Free Food",
+      "description": "Free food at The Eagle Ministry - Reaching the Unreachables. Schedule: Tue 4:45 PM–6:30 PM; Wed 4:30 PM–6:30 PM; Sat 11 AM–1:30 PM. Call 951-313-6816 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Eagle Ministry - Reaching the Unreachables",
+      "address": "10722 Arrow Route Bldg 100 Unit 114, Rancho Cucamonga, CA 91730",
+      "lat": 34.099567,
+      "lng": -117.570592,
+      "category": "food-assistance",
+      "sourceOrg": "The Eagle Ministry - Reaching the Unreachables",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Tue 4:45 PM–6:30 PM; Wed 4:30 PM–6:30 PM; Sat 11 AM–1:30 PM",
+      "start": "2026-09-28T16:45",
+      "end": "2026-09-28T18:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-eagle-ministry-reaching-the-unreachables-w3-1630",
+      "seriesSlug": "add-the-eagle-ministry-reaching-the-unreachables",
+      "title": "The Eagle Ministry - Reaching the Unreachables — Free Food",
+      "description": "Free food at The Eagle Ministry - Reaching the Unreachables. Schedule: Tue 4:45 PM–6:30 PM; Wed 4:30 PM–6:30 PM; Sat 11 AM–1:30 PM. Call 951-313-6816 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Eagle Ministry - Reaching the Unreachables",
+      "address": "10722 Arrow Route Bldg 100 Unit 114, Rancho Cucamonga, CA 91730",
+      "lat": 34.099567,
+      "lng": -117.570592,
+      "category": "food-assistance",
+      "sourceOrg": "The Eagle Ministry - Reaching the Unreachables",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Tue 4:45 PM–6:30 PM; Wed 4:30 PM–6:30 PM; Sat 11 AM–1:30 PM",
+      "start": "2026-09-28T16:30",
+      "end": "2026-09-28T18:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-eagle-ministry-reaching-the-unreachables-w6-1100",
+      "seriesSlug": "add-the-eagle-ministry-reaching-the-unreachables",
+      "title": "The Eagle Ministry - Reaching the Unreachables — Free Food",
+      "description": "Free food at The Eagle Ministry - Reaching the Unreachables. Schedule: Tue 4:45 PM–6:30 PM; Wed 4:30 PM–6:30 PM; Sat 11 AM–1:30 PM. Call 951-313-6816 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Eagle Ministry - Reaching the Unreachables",
+      "address": "10722 Arrow Route Bldg 100 Unit 114, Rancho Cucamonga, CA 91730",
+      "lat": 34.099567,
+      "lng": -117.570592,
+      "category": "food-assistance",
+      "sourceOrg": "The Eagle Ministry - Reaching the Unreachables",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Tue 4:45 PM–6:30 PM; Wed 4:30 PM–6:30 PM; Sat 11 AM–1:30 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T13:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-boys-and-girls-club-redlands-w4-1400",
+      "seriesSlug": "add-boys-and-girls-club-redlands",
+      "title": "Boys and Girls Club - Redlands — Free Food",
+      "description": "Free food at Boys and Girls Club - Redlands. Schedule: Thu 2 PM–6 PM; Fri 10 AM–12 PM. Call 909-798-4599 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Boys and Girls Club - Redlands",
+      "address": "1251 Clay St, Redlands, CA 92374",
+      "lat": 34.069745,
+      "lng": -117.184967,
+      "category": "food-assistance",
+      "sourceOrg": "Boys and Girls Club - Redlands",
+      "url": "https://begreatie.org",
+      "schedulePattern": "Thu 2 PM–6 PM; Fri 10 AM–12 PM",
+      "start": "2026-09-28T14:00",
+      "end": "2026-09-28T18:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-boys-and-girls-club-redlands-w5-1000",
+      "seriesSlug": "add-boys-and-girls-club-redlands",
+      "title": "Boys and Girls Club - Redlands — Free Food",
+      "description": "Free food at Boys and Girls Club - Redlands. Schedule: Thu 2 PM–6 PM; Fri 10 AM–12 PM. Call 909-798-4599 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Boys and Girls Club - Redlands",
+      "address": "1251 Clay St, Redlands, CA 92374",
+      "lat": 34.069745,
+      "lng": -117.184967,
+      "category": "food-assistance",
+      "sourceOrg": "Boys and Girls Club - Redlands",
+      "url": "https://begreatie.org",
+      "schedulePattern": "Thu 2 PM–6 PM; Fri 10 AM–12 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-childhood-cancer-foundation-m23-1400",
+      "seriesSlug": "add-childhood-cancer-foundation",
+      "title": "Childhood Cancer Foundation — Free Food",
+      "description": "Free food at Childhood Cancer Foundation. Schedule: 2nd Wed 2 PM–4 PM. Call 201-614-4653 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Childhood Cancer Foundation",
+      "address": "330 Alabama Street Suite K, Redlands, CA 92373",
+      "lat": 34.056676,
+      "lng": -117.207513,
+      "category": "food-assistance",
+      "sourceOrg": "Childhood Cancer Foundation",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "2nd Wed 2 PM–4 PM",
+      "start": "2026-10-07T14:00",
+      "end": "2026-10-07T16:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "2:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-grace-vargas-senior-center-m33-0900",
+      "seriesSlug": "add-grace-vargas-senior-center",
+      "title": "Grace Vargas Senior Center — Free Food",
+      "description": "Free food at Grace Vargas Senior Center. Schedule: 3rd Wed 9 AM–11 AM. Call 909-877-9706 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Grace Vargas Senior Center",
+      "address": "1411 S Riverside Ave, Rialto, CA 92376",
+      "lat": 34.075463,
+      "lng": -117.369764,
+      "category": "food-assistance",
+      "sourceOrg": "Grace Vargas Senior Center",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "3rd Wed 9 AM–11 AM",
+      "start": "2026-10-07T09:00",
+      "end": "2026-10-07T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-rialto-united-methodist-church-w12-0900",
+      "seriesSlug": "add-rialto-united-methodist-church",
+      "title": "Rialto United Methodist Church — Free Food",
+      "description": "Free food at Rialto United Methodist Church. Schedule: Mon–Tue 9 AM–2 PM; Wed–Thu 9 AM–12 PM. Call 909-875-3444 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Rialto United Methodist Church",
+      "address": "1230 N Lilac Ave, Rialto, CA 92376",
+      "lat": 34.12181,
+      "lng": -117.37963,
+      "category": "food-assistance",
+      "sourceOrg": "Rialto United Methodist Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon–Tue 9 AM–2 PM; Wed–Thu 9 AM–12 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-rialto-united-methodist-church-w34-0900",
+      "seriesSlug": "add-rialto-united-methodist-church",
+      "title": "Rialto United Methodist Church — Free Food",
+      "description": "Free food at Rialto United Methodist Church. Schedule: Mon–Tue 9 AM–2 PM; Wed–Thu 9 AM–12 PM. Call 909-875-3444 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Rialto United Methodist Church",
+      "address": "1230 N Lilac Ave, Rialto, CA 92376",
+      "lat": 34.12181,
+      "lng": -117.37963,
+      "category": "food-assistance",
+      "sourceOrg": "Rialto United Methodist Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon–Tue 9 AM–2 PM; Wed–Thu 9 AM–12 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-running-springs-assembly-of-god-w6-1000",
+      "seriesSlug": "add-running-springs-assembly-of-god",
+      "title": "Running Springs Assembly of God — Free Food",
+      "description": "Free food at Running Springs Assembly of God. Schedule: Sat 10 AM–11:30 AM. Call 909-867-5195 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Running Springs Assembly of God",
+      "address": "2679 Secret Dr, Running Springs, CA 92382",
+      "lat": 34.205365,
+      "lng": -117.104705,
+      "category": "food-assistance",
+      "sourceOrg": "Running Springs Assembly of God",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Sat 10 AM–11:30 AM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-16th-street-sda-church-w5-0900",
+      "seriesSlug": "add-16th-street-sda-church",
+      "title": "16th Street SDA Church — Free Food",
+      "description": "Free food at 16th Street SDA Church. Schedule: Fri 9 AM–12 PM. Call 909-888-0084 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "16th Street SDA Church",
+      "address": "1601 W 16th St, San Bernardino, CA 92411",
+      "lat": 34.1283,
+      "lng": -117.32302,
+      "category": "food-assistance",
+      "sourceOrg": "16th Street SDA Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Fri 9 AM–12 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-asa-charter-school-w12345-0745",
+      "seriesSlug": "add-asa-charter-school",
+      "title": "ASA Charter School — Free Food",
+      "description": "Free food at ASA Charter School. Schedule: Mon–Fri 7:45 AM–8:30 AM; Mon–Fri 10:30 AM–1:30 PM. Call 909-475-3322 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "ASA Charter School",
+      "address": "3512 N E St, San Bernardino, CA 92405",
+      "lat": 34.15514,
+      "lng": -117.29465,
+      "category": "food-assistance",
+      "sourceOrg": "ASA Charter School",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon–Fri 7:45 AM–8:30 AM; Mon–Fri 10:30 AM–1:30 PM",
+      "start": "2026-09-28T07:45",
+      "end": "2026-09-28T08:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-asa-charter-school-w12345-1030",
+      "seriesSlug": "add-asa-charter-school",
+      "title": "ASA Charter School — Free Food",
+      "description": "Free food at ASA Charter School. Schedule: Mon–Fri 7:45 AM–8:30 AM; Mon–Fri 10:30 AM–1:30 PM. Call 909-475-3322 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "ASA Charter School",
+      "address": "3512 N E St, San Bernardino, CA 92405",
+      "lat": 34.15514,
+      "lng": -117.29465,
+      "category": "food-assistance",
+      "sourceOrg": "ASA Charter School",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon–Fri 7:45 AM–8:30 AM; Mon–Fri 10:30 AM–1:30 PM",
+      "start": "2026-09-28T10:30",
+      "end": "2026-09-28T13:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-bible-holiness-church-m24-2000",
+      "seriesSlug": "add-bible-holiness-church",
+      "title": "Bible Holiness Church — Free Food",
+      "description": "Free food at Bible Holiness Church. Schedule: 2nd Thu 8 PM–8:30 PM. Call 909-683-6111 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Bible Holiness Church",
+      "address": "3350 Del Rosa Ave N, San Bernardino, CA 92404",
+      "lat": 34.151773,
+      "lng": -117.253047,
+      "category": "food-assistance",
+      "sourceOrg": "Bible Holiness Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "2nd Thu 8 PM–8:30 PM",
+      "start": "2026-10-08T20:00",
+      "end": "2026-10-08T20:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "2:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-cathedral-of-praise-international-ministries-m1636-0800",
+      "seriesSlug": "add-cathedral-of-praise-international-ministries",
+      "title": "Cathedral Of Praise International Ministries — Free Food",
+      "description": "Free food at Cathedral Of Praise International Ministries. Schedule: 1st Sat & 3rd Sat 8 AM–11 AM. Call 909-474-1005 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Cathedral Of Praise International Ministries",
+      "address": "3030 Del Rosa Ave N, San Bernardino, CA 92404",
+      "lat": 34.146062,
+      "lng": -117.253289,
+      "category": "food-assistance",
+      "sourceOrg": "Cathedral Of Praise International Ministries",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "1st Sat & 3rd Sat 8 AM–11 AM",
+      "start": "2026-10-10T08:00",
+      "end": "2026-10-10T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "1:6,3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-fifth-street-senior-center-m34-0900",
+      "seriesSlug": "add-fifth-street-senior-center",
+      "title": "Fifth Street Senior Center — Free Food",
+      "description": "Free food at Fifth Street Senior Center. Schedule: 3rd Thu 9 AM–11 AM. Call 909-384-5430 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Fifth Street Senior Center",
+      "address": "600 W 5th St, San Bernardino, CA 92410",
+      "lat": 34.10848,
+      "lng": -117.296798,
+      "category": "food-assistance",
+      "sourceOrg": "Fifth Street Senior Center",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "3rd Thu 9 AM–11 AM",
+      "start": "2026-10-08T09:00",
+      "end": "2026-10-08T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-grace-baptist-church-m2636-0930",
+      "seriesSlug": "add-grace-baptist-church",
+      "title": "Grace Baptist Church — Free Food",
+      "description": "Free food at Grace Baptist Church. Schedule: 2nd Sat & 3rd Sat 9:30 AM–11 AM. Call 909-886-8904 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Grace Baptist Church",
+      "address": "1333 E 39th St, San Bernardino, CA 92404",
+      "lat": 34.16096,
+      "lng": -117.25799,
+      "category": "food-assistance",
+      "sourceOrg": "Grace Baptist Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "2nd Sat & 3rd Sat 9:30 AM–11 AM",
+      "start": "2026-10-10T09:30",
+      "end": "2026-10-10T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6,3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-greater-new-jerusalem-church-m36-0900",
+      "seriesSlug": "add-greater-new-jerusalem-church",
+      "title": "Greater New Jerusalem Church — Free Food",
+      "description": "Free food at Greater New Jerusalem Church. Schedule: 3rd Sat 9 AM–12 PM. Call 909-887-1710 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Greater New Jerusalem Church",
+      "address": "1424 W 21st St, San Bernardino, CA 92411",
+      "lat": 34.13493,
+      "lng": -117.3165,
+      "category": "food-assistance",
+      "sourceOrg": "Greater New Jerusalem Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "3rd Sat 9 AM–12 PM",
+      "start": "2026-10-10T09:00",
+      "end": "2026-10-10T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-hope-4-everyone-foundation-w6-1200",
+      "seriesSlug": "add-hope-4-everyone-foundation",
+      "title": "Hope 4 Everyone Foundation — Free Food",
+      "description": "Free food at Hope 4 Everyone Foundation. Schedule: Sat 12 PM–2 PM. Call 310-935-8664 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Hope 4 Everyone Foundation",
+      "address": "290 W Orange Show Rd Bldg 290 Suite 104, San Bernardino, CA 92408",
+      "lat": 34.080132,
+      "lng": -117.288759,
+      "category": "food-assistance",
+      "sourceOrg": "Hope 4 Everyone Foundation",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Sat 12 PM–2 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-inland-valley-recovery-services-w123456-0900",
+      "seriesSlug": "add-inland-valley-recovery-services",
+      "title": "Inland Valley Recovery Services — Free Food",
+      "description": "Free food at Inland Valley Recovery Services. Schedule: Mon–Sat 9 AM–6:30 PM. Call 909-889-6519 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Inland Valley Recovery Services",
+      "address": "939 N D St, San Bernardino, CA 92410",
+      "lat": 34.116536,
+      "lng": -117.29157,
+      "category": "food-assistance",
+      "sourceOrg": "Inland Valley Recovery Services",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon–Sat 9 AM–6:30 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T18:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5,6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-invisible-hands-of-god-w6-1100",
+      "seriesSlug": "add-invisible-hands-of-god",
+      "title": "Invisible Hands of God — Free Food",
+      "description": "Free food at Invisible Hands of God. Schedule: Sat 11 AM–1 PM. Call 909-524-7978 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Invisible Hands of God",
+      "address": "468 W 5th St, San Bernardino, CA 92401",
+      "lat": 34.108593,
+      "lng": -117.293419,
+      "category": "food-assistance",
+      "sourceOrg": "Invisible Hands of God",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Sat 11 AM–1 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-isaiah-s-rock-white-house-w24567-0800",
+      "seriesSlug": "add-isaiah-s-rock-white-house",
+      "title": "Isaiah's Rock - White House — Free Food",
+      "description": "Free food at Isaiah's Rock - White House. Schedule: Tue, Thu–Sun 8 AM–8 PM; Mon 8 AM–5 PM; Wed 9 AM–5 PM. Call 909-381-3811 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Isaiah's Rock - White House",
+      "address": "3350 Del Rosa Ave N, San Bernardino, CA 92404",
+      "lat": 34.151773,
+      "lng": -117.253047,
+      "category": "food-assistance",
+      "sourceOrg": "Isaiah's Rock - White House",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Tue, Thu–Sun 8 AM–8 PM; Mon 8 AM–5 PM; Wed 9 AM–5 PM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T20:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,4,5,6,7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-isaiah-s-rock-white-house-w1-0800",
+      "seriesSlug": "add-isaiah-s-rock-white-house",
+      "title": "Isaiah's Rock - White House — Free Food",
+      "description": "Free food at Isaiah's Rock - White House. Schedule: Tue, Thu–Sun 8 AM–8 PM; Mon 8 AM–5 PM; Wed 9 AM–5 PM. Call 909-381-3811 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Isaiah's Rock - White House",
+      "address": "3350 Del Rosa Ave N, San Bernardino, CA 92404",
+      "lat": 34.151773,
+      "lng": -117.253047,
+      "category": "food-assistance",
+      "sourceOrg": "Isaiah's Rock - White House",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Tue, Thu–Sun 8 AM–8 PM; Mon 8 AM–5 PM; Wed 9 AM–5 PM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-isaiah-s-rock-white-house-w3-0900",
+      "seriesSlug": "add-isaiah-s-rock-white-house",
+      "title": "Isaiah's Rock - White House — Free Food",
+      "description": "Free food at Isaiah's Rock - White House. Schedule: Tue, Thu–Sun 8 AM–8 PM; Mon 8 AM–5 PM; Wed 9 AM–5 PM. Call 909-381-3811 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Isaiah's Rock - White House",
+      "address": "3350 Del Rosa Ave N, San Bernardino, CA 92404",
+      "lat": 34.151773,
+      "lng": -117.253047,
+      "category": "food-assistance",
+      "sourceOrg": "Isaiah's Rock - White House",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Tue, Thu–Sun 8 AM–8 PM; Mon 8 AM–5 PM; Wed 9 AM–5 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-loren-l-marner-compassionate-ministry-w7-1100",
+      "seriesSlug": "add-loren-l-marner-compassionate-ministry",
+      "title": "Loren L. Marner Compassionate Ministry — Free Food",
+      "description": "Free food at Loren L. Marner Compassionate Ministry. Schedule: Sun 11 AM–1:30 PM; Sat 8 AM–11 AM. Call 909-886-8104 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Loren L. Marner Compassionate Ministry",
+      "address": "1605 N Sierra Way, San Bernardino, CA 92405",
+      "lat": 34.129025,
+      "lng": -117.284962,
+      "category": "food-assistance",
+      "sourceOrg": "Loren L. Marner Compassionate Ministry",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Sun 11 AM–1:30 PM; Sat 8 AM–11 AM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T13:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-loren-l-marner-compassionate-ministry-w6-0800",
+      "seriesSlug": "add-loren-l-marner-compassionate-ministry",
+      "title": "Loren L. Marner Compassionate Ministry — Free Food",
+      "description": "Free food at Loren L. Marner Compassionate Ministry. Schedule: Sun 11 AM–1:30 PM; Sat 8 AM–11 AM. Call 909-886-8104 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Loren L. Marner Compassionate Ministry",
+      "address": "1605 N Sierra Way, San Bernardino, CA 92405",
+      "lat": 34.129025,
+      "lng": -117.284962,
+      "category": "food-assistance",
+      "sourceOrg": "Loren L. Marner Compassionate Ministry",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Sun 11 AM–1:30 PM; Sat 8 AM–11 AM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-loren-l-marner-compassionate-ministry-center-3rd-w7-1100",
+      "seriesSlug": "add-loren-l-marner-compassionate-ministry-center-3rd",
+      "title": "Loren L. Marner Compassionate Ministry Center - 3rd St. — Free Food",
+      "description": "Free food at Loren L. Marner Compassionate Ministry Center - 3rd St.. Schedule: Sun 11 AM–11:30 AM; Mon 10 AM–11 AM; Wed 7 PM–8 PM. Call 909-886-8104 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Loren L. Marner Compassionate Ministry Center - 3rd St.",
+      "address": "903 E 3rd St, San Bernardino, CA 92410",
+      "lat": 34.103842,
+      "lng": -117.265548,
+      "category": "food-assistance",
+      "sourceOrg": "Loren L. Marner Compassionate Ministry Center - 3rd St.",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Sun 11 AM–11:30 AM; Mon 10 AM–11 AM; Wed 7 PM–8 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-loren-l-marner-compassionate-ministry-center-3rd-w1-1000",
+      "seriesSlug": "add-loren-l-marner-compassionate-ministry-center-3rd",
+      "title": "Loren L. Marner Compassionate Ministry Center - 3rd St. — Free Food",
+      "description": "Free food at Loren L. Marner Compassionate Ministry Center - 3rd St.. Schedule: Sun 11 AM–11:30 AM; Mon 10 AM–11 AM; Wed 7 PM–8 PM. Call 909-886-8104 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Loren L. Marner Compassionate Ministry Center - 3rd St.",
+      "address": "903 E 3rd St, San Bernardino, CA 92410",
+      "lat": 34.103842,
+      "lng": -117.265548,
+      "category": "food-assistance",
+      "sourceOrg": "Loren L. Marner Compassionate Ministry Center - 3rd St.",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Sun 11 AM–11:30 AM; Mon 10 AM–11 AM; Wed 7 PM–8 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-loren-l-marner-compassionate-ministry-center-3rd-w3-1900",
+      "seriesSlug": "add-loren-l-marner-compassionate-ministry-center-3rd",
+      "title": "Loren L. Marner Compassionate Ministry Center - 3rd St. — Free Food",
+      "description": "Free food at Loren L. Marner Compassionate Ministry Center - 3rd St.. Schedule: Sun 11 AM–11:30 AM; Mon 10 AM–11 AM; Wed 7 PM–8 PM. Call 909-886-8104 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Loren L. Marner Compassionate Ministry Center - 3rd St.",
+      "address": "903 E 3rd St, San Bernardino, CA 92410",
+      "lat": 34.103842,
+      "lng": -117.265548,
+      "category": "food-assistance",
+      "sourceOrg": "Loren L. Marner Compassionate Ministry Center - 3rd St.",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Sun 11 AM–11:30 AM; Mon 10 AM–11 AM; Wed 7 PM–8 PM",
+      "start": "2026-09-28T19:00",
+      "end": "2026-09-28T20:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-lutheran-social-services-of-southern-california-m2535-0830",
+      "seriesSlug": "add-lutheran-social-services-of-southern-california",
+      "title": "Lutheran Social Services of Southern California — Free Food",
+      "description": "Free food at Lutheran Social Services of Southern California. Schedule: 2nd Fri & 3rd Fri 8:30 AM–11 AM. Call 909-381-6921 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Lutheran Social Services of Southern California",
+      "address": "1354 N G St, San Bernardino, CA 92405",
+      "lat": 34.124543,
+      "lng": -117.299149,
+      "category": "food-assistance",
+      "sourceOrg": "Lutheran Social Services of Southern California",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "2nd Fri & 3rd Fri 8:30 AM–11 AM",
+      "start": "2026-10-09T08:30",
+      "end": "2026-10-09T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "2:5,3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-redeemed-christian-church-of-god-w7-1230",
+      "seriesSlug": "add-redeemed-christian-church-of-god",
+      "title": "Redeemed Christian Church of God — Free Food",
+      "description": "Free food at Redeemed Christian Church of God. Schedule: Sun 12:30 PM–1:30 PM. Call 909-888-4700 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Redeemed Christian Church of God",
+      "address": "190 S Arrowhead Ave, San Bernardino, CA 92402",
+      "lat": 34.098086,
+      "lng": -117.290171,
+      "category": "food-assistance",
+      "sourceOrg": "Redeemed Christian Church of God",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Sun 12:30 PM–1:30 PM",
+      "start": "2026-09-28T12:30",
+      "end": "2026-09-28T13:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-rise-of-a-fallen-angel-inc-w1234-1000",
+      "seriesSlug": "add-rise-of-a-fallen-angel-inc",
+      "title": "Rise of A Fallen Angel Inc. — Free Food",
+      "description": "Free food at Rise of A Fallen Angel Inc.. Schedule: Mon–Thu 10 AM–3 PM; 3rd Fri 10 AM–3 PM. Call 909-763-2471 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Rise of A Fallen Angel Inc.",
+      "address": "434 W Highland Ave, San Bernardino, CA 92405",
+      "lat": 34.136201,
+      "lng": -117.292653,
+      "category": "food-assistance",
+      "sourceOrg": "Rise of A Fallen Angel Inc.",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon–Thu 10 AM–3 PM; 3rd Fri 10 AM–3 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-rise-of-a-fallen-angel-inc-m35-1000",
+      "seriesSlug": "add-rise-of-a-fallen-angel-inc",
+      "title": "Rise of A Fallen Angel Inc. — Free Food",
+      "description": "Free food at Rise of A Fallen Angel Inc.. Schedule: Mon–Thu 10 AM–3 PM; 3rd Fri 10 AM–3 PM. Call 909-763-2471 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Rise of A Fallen Angel Inc.",
+      "address": "434 W Highland Ave, San Bernardino, CA 92405",
+      "lat": 34.136201,
+      "lng": -117.292653,
+      "category": "food-assistance",
+      "sourceOrg": "Rise of A Fallen Angel Inc.",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon–Thu 10 AM–3 PM; 3rd Fri 10 AM–3 PM",
+      "start": "2026-10-09T10:00",
+      "end": "2026-10-09T15:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-rolling-start-inc-w1245-0800",
+      "seriesSlug": "add-rolling-start-inc",
+      "title": "Rolling Start Inc. — Free Food",
+      "description": "Free food at Rolling Start Inc.. Schedule: Mon–Tue, Thu–Fri 8 AM–4:30 PM; 3rd Wed 11 AM–3 PM. Call 909-890-9516 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Rolling Start Inc.",
+      "address": "1955 S Hunts Ln #101, San Bernardino, CA 92408",
+      "lat": 34.064503,
+      "lng": -117.287008,
+      "category": "food-assistance",
+      "sourceOrg": "Rolling Start Inc.",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon–Tue, Thu–Fri 8 AM–4:30 PM; 3rd Wed 11 AM–3 PM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T16:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-rolling-start-inc-m33-1100",
+      "seriesSlug": "add-rolling-start-inc",
+      "title": "Rolling Start Inc. — Free Food",
+      "description": "Free food at Rolling Start Inc.. Schedule: Mon–Tue, Thu–Fri 8 AM–4:30 PM; 3rd Wed 11 AM–3 PM. Call 909-890-9516 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Rolling Start Inc.",
+      "address": "1955 S Hunts Ln #101, San Bernardino, CA 92408",
+      "lat": 34.064503,
+      "lng": -117.287008,
+      "category": "food-assistance",
+      "sourceOrg": "Rolling Start Inc.",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon–Tue, Thu–Fri 8 AM–4:30 PM; 3rd Wed 11 AM–3 PM",
+      "start": "2026-10-07T11:00",
+      "end": "2026-10-07T15:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sac-health-system-w1234-0800",
+      "seriesSlug": "add-sac-health-system",
+      "title": "SAC Health System — Free Food",
+      "description": "Free food at SAC Health System. Schedule: Mon–Thu 8 AM–5 PM; Fri 8 AM–12 PM. Call 909-771-2891 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "SAC Health System",
+      "address": "250 S G St, San Bernardino, CA 92410",
+      "lat": 34.09701,
+      "lng": -117.29938,
+      "category": "food-assistance",
+      "sourceOrg": "SAC Health System",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon–Thu 8 AM–5 PM; Fri 8 AM–12 PM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sac-health-system-w5-0800",
+      "seriesSlug": "add-sac-health-system",
+      "title": "SAC Health System — Free Food",
+      "description": "Free food at SAC Health System. Schedule: Mon–Thu 8 AM–5 PM; Fri 8 AM–12 PM. Call 909-771-2891 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "SAC Health System",
+      "address": "250 S G St, San Bernardino, CA 92410",
+      "lat": 34.09701,
+      "lng": -117.29938,
+      "category": "food-assistance",
+      "sourceOrg": "SAC Health System",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon–Thu 8 AM–5 PM; Fri 8 AM–12 PM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sahaba-initiative-w6-1100",
+      "seriesSlug": "add-sahaba-initiative",
+      "title": "Sahaba Initiative — Free Food",
+      "description": "Free food at Sahaba Initiative. Schedule: Sat 11 AM–1 PM. Call 909-381-3002 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Sahaba Initiative",
+      "address": "1694 N D St, San Bernardino, CA 92405",
+      "lat": 34.129609,
+      "lng": -117.292145,
+      "category": "food-assistance",
+      "sourceOrg": "Sahaba Initiative",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Sat 11 AM–1 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-great-presbyterian-church-w6-0800",
+      "seriesSlug": "add-the-great-presbyterian-church",
+      "title": "The Great Presbyterian Church — Free Food",
+      "description": "Free food at The Great Presbyterian Church. Schedule: Sat 8 AM–11 AM. Call 909-677-6554 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Great Presbyterian Church",
+      "address": "3630 N E St, San Bernardino, CA 92405",
+      "lat": 34.15757,
+      "lng": -117.29409,
+      "category": "food-assistance",
+      "sourceOrg": "The Great Presbyterian Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Sat 8 AM–11 AM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-rock-church-and-world-outreach-center-w6-0700",
+      "seriesSlug": "add-the-rock-church-and-world-outreach-center",
+      "title": "The Rock Church and World Outreach Center — Free Food",
+      "description": "Free food at The Rock Church and World Outreach Center. Schedule: Sat 7 AM–8:30 AM; Thu 8 AM–10 AM. Call 909-825-8887 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Rock Church and World Outreach Center",
+      "address": "2345 S Waterman Ave, San Bernardino, CA 92408",
+      "lat": 34.059412,
+      "lng": -117.276933,
+      "category": "food-assistance",
+      "sourceOrg": "The Rock Church and World Outreach Center",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Sat 7 AM–8:30 AM; Thu 8 AM–10 AM",
+      "start": "2026-09-28T07:00",
+      "end": "2026-09-28T08:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-rock-church-and-world-outreach-center-w4-0800",
+      "seriesSlug": "add-the-rock-church-and-world-outreach-center",
+      "title": "The Rock Church and World Outreach Center — Free Food",
+      "description": "Free food at The Rock Church and World Outreach Center. Schedule: Sat 7 AM–8:30 AM; Thu 8 AM–10 AM. Call 909-825-8887 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Rock Church and World Outreach Center",
+      "address": "2345 S Waterman Ave, San Bernardino, CA 92408",
+      "lat": 34.059412,
+      "lng": -117.276933,
+      "category": "food-assistance",
+      "sourceOrg": "The Rock Church and World Outreach Center",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Sat 7 AM–8:30 AM; Thu 8 AM–10 AM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T10:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-way-world-outreach-w35-1130",
+      "seriesSlug": "add-the-way-world-outreach",
+      "title": "The Way World Outreach — Free Food",
+      "description": "Free food at The Way World Outreach. Schedule: Wed, Fri 11:30 AM–12:30 PM. Call 909-677-7943 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Way World Outreach",
+      "address": "1001 N Arrowhead Ave, San Bernardino, CA 92410",
+      "lat": 34.118008,
+      "lng": -117.289354,
+      "category": "food-assistance",
+      "sourceOrg": "The Way World Outreach",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Wed, Fri 11:30 AM–12:30 PM",
+      "start": "2026-09-28T11:30",
+      "end": "2026-09-28T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-touch-of-the-master-ministries-w1-0900",
+      "seriesSlug": "add-touch-of-the-master-ministries",
+      "title": "Touch of the Master Ministries — Free Food",
+      "description": "Free food at Touch of the Master Ministries. Schedule: Mon 9 AM–2 PM; Wed 10 AM–11:30 AM. Call 909-886-5631 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Touch of the Master Ministries",
+      "address": "1244 E Pacific St, San Bernardino, CA 92404",
+      "lat": 34.102675,
+      "lng": -117.294237,
+      "category": "food-assistance",
+      "sourceOrg": "Touch of the Master Ministries",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon 9 AM–2 PM; Wed 10 AM–11:30 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-touch-of-the-master-ministries-w3-1000",
+      "seriesSlug": "add-touch-of-the-master-ministries",
+      "title": "Touch of the Master Ministries — Free Food",
+      "description": "Free food at Touch of the Master Ministries. Schedule: Mon 9 AM–2 PM; Wed 10 AM–11:30 AM. Call 909-886-5631 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Touch of the Master Ministries",
+      "address": "1244 E Pacific St, San Bernardino, CA 92404",
+      "lat": 34.102675,
+      "lng": -117.294237,
+      "category": "food-assistance",
+      "sourceOrg": "Touch of the Master Ministries",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon 9 AM–2 PM; Wed 10 AM–11:30 AM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-trinity-christian-fellowship-church-w3-1600",
+      "seriesSlug": "add-trinity-christian-fellowship-church",
+      "title": "Trinity Christian Fellowship Church — Free Food",
+      "description": "Free food at Trinity Christian Fellowship Church. Schedule: Wed 4 PM–5:30 PM. Call 951-347-8997 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Trinity Christian Fellowship Church",
+      "address": "8158 Tippecanoe Ave, San Bernardino, CA 92410",
+      "lat": 34.10536,
+      "lng": -117.26079,
+      "category": "food-assistance",
+      "sourceOrg": "Trinity Christian Fellowship Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Wed 4 PM–5:30 PM",
+      "start": "2026-09-28T16:00",
+      "end": "2026-09-28T17:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-volunteers-of-america-ballington-academy-w12345-0800",
+      "seriesSlug": "add-volunteers-of-america-ballington-academy",
+      "title": "Volunteers of America / Ballington Academy — Free Food",
+      "description": "Free food at Volunteers of America / Ballington Academy. Schedule: Mon–Fri 8 AM–6 PM. Call 909-332-6699 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Volunteers of America / Ballington Academy",
+      "address": "799 E Rialto Ave, San Bernardino, CA 92408",
+      "lat": 34.100983,
+      "lng": -117.268825,
+      "category": "food-assistance",
+      "sourceOrg": "Volunteers of America / Ballington Academy",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon–Fri 8 AM–6 PM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T18:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-express-workforce-foundation-w3-0900",
+      "seriesSlug": "add-express-workforce-foundation",
+      "title": "Express Workforce Foundation — Free Food",
+      "description": "Free food at Express Workforce Foundation. Schedule: Wed 9 AM–1 PM. Call 909-946-1246 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Express Workforce Foundation",
+      "address": "903 N Central Ave Suite B, Upland, CA 91786",
+      "lat": 34.104701,
+      "lng": -117.690278,
+      "category": "food-assistance",
+      "sourceOrg": "Express Workforce Foundation",
+      "url": "https://communityheartfeedtheneed.org",
+      "schedulePattern": "Wed 9 AM–1 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-kid-care-international-w6-0930",
+      "seriesSlug": "add-kid-care-international",
+      "title": "Kid Care International — Free Food",
+      "description": "Free food at Kid Care International. Schedule: Sat 9:30 AM–10:45 AM. Call 909-227-5037 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Kid Care International",
+      "address": "1200 N Campus Ave, Upland, CA 91786",
+      "lat": 34.10953,
+      "lng": -117.641326,
+      "category": "food-assistance",
+      "sourceOrg": "Kid Care International",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Sat 9:30 AM–10:45 AM",
+      "start": "2026-09-28T09:30",
+      "end": "2026-09-28T10:45",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-upland-community-seventh-day-adventist-church-m47-1200",
+      "seriesSlug": "add-upland-community-seventh-day-adventist-church",
+      "title": "Upland Community Seventh Day Adventist Church — Free Food",
+      "description": "Free food at Upland Community Seventh Day Adventist Church. Schedule: 4th Sun 12 PM–2 PM. Call 909-982-5632 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Upland Community Seventh Day Adventist Church",
+      "address": "205 S Campus Ave, Upland, CA 91786",
+      "lat": 34.09215,
+      "lng": -117.64175,
+      "category": "food-assistance",
+      "sourceOrg": "Upland Community Seventh Day Adventist Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "4th Sun 12 PM–2 PM",
+      "start": "2026-10-11T12:00",
+      "end": "2026-10-11T14:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 7
+          }
+        ]
+      },
+      "recurDays": "4:7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-women-of-noble-character-w234-1000",
+      "seriesSlug": "add-women-of-noble-character",
+      "title": "Women of Noble Character — Free Food",
+      "description": "Free food at Women of Noble Character. Schedule: Tue–Thu 10 AM–12:30 PM. Call 442-242-1497 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Women of Noble Character",
+      "address": "14890 Loves Ln, Victorville, CA 92395",
+      "lat": 34.523017,
+      "lng": -117.308898,
+      "category": "food-assistance",
+      "sourceOrg": "Women of Noble Character",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Tue–Thu 10 AM–12:30 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-calvary-hill-church-retreat-center-w135-0900",
+      "seriesSlug": "add-calvary-hill-church-retreat-center",
+      "title": "Calvary Hill Church & Retreat Center — Free Food",
+      "description": "Free food at Calvary Hill Church & Retreat Center. Schedule: Mon, Wed, Fri 9 AM–10 AM. Call 310-930-7554 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Calvary Hill Church & Retreat Center",
+      "address": "37400 Falling Springs Rd, Yucaipa, CA 92399",
+      "lat": 34.01133,
+      "lng": -116.984099,
+      "category": "food-assistance",
+      "sourceOrg": "Calvary Hill Church & Retreat Center",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon, Wed, Fri 9 AM–10 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T10:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-faith-lutheran-church-m2646-0800",
+      "seriesSlug": "add-faith-lutheran-church",
+      "title": "Faith Lutheran Church — Free Food",
+      "description": "Free food at Faith Lutheran Church. Schedule: 2nd Sat & 4th Sat 8 AM–10:30 AM. Call 909-790-1816 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Faith Lutheran Church",
+      "address": "12449 California St, Yucaipa, CA 92399",
+      "lat": 34.027505,
+      "lng": -117.038365,
+      "category": "food-assistance",
+      "sourceOrg": "Faith Lutheran Church",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "2nd Sat & 4th Sat 8 AM–10:30 AM",
+      "start": "2026-10-10T08:00",
+      "end": "2026-10-10T10:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6,4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-five-two-foundation-m33-1600",
+      "seriesSlug": "add-five-two-foundation",
+      "title": "Five Two Foundation — Free Food",
+      "description": "Free food at Five Two Foundation. Schedule: 3rd Wed 4 PM–6 PM. Call (760) 401-1370 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Five Two Foundation",
+      "address": "57373 Joshua Ln, Yucca Valley, CA 92284",
+      "lat": 34.096463,
+      "lng": -116.411817,
+      "category": "food-assistance",
+      "sourceOrg": "Five Two Foundation",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "3rd Wed 4 PM–6 PM",
+      "start": "2026-10-07T16:00",
+      "end": "2026-10-07T18:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-set-free-church-29-palms-w123456-0800",
+      "seriesSlug": "add-set-free-church-29-palms",
+      "title": "Set Free Church 29 Palms — Free Food",
+      "description": "Free food at Set Free Church 29 Palms. Schedule: Mon–Sat 8 AM–5 PM. Call (760) 361-1339 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Set Free Church 29 Palms",
+      "address": "82572 Amboy Rd, Twentynine Palms, CA 92277",
+      "lat": 34.165466,
+      "lng": -115.859056,
+      "category": "food-assistance",
+      "sourceOrg": "Set Free Church 29 Palms",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Mon–Sat 8 AM–5 PM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5,6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-calvary-road-fellowship-m35-1200",
+      "seriesSlug": "add-calvary-road-fellowship",
+      "title": "Calvary Road Fellowship — Free Food",
+      "description": "Free food at Calvary Road Fellowship. Schedule: 3rd Fri 12 PM–2 PM. Call (760) 363-0246 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Calvary Road Fellowship",
+      "address": "1518 Elbow Rd, Morongo Valley, CA 92256",
+      "lat": 34.042596,
+      "lng": -116.586847,
+      "category": "food-assistance",
+      "sourceOrg": "Calvary Road Fellowship",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "3rd Fri 12 PM–2 PM",
+      "start": "2026-10-09T12:00",
+      "end": "2026-10-09T14:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-calvary-christian-fellowship-paying-it-forward-m35-1200",
+      "seriesSlug": "add-calvary-christian-fellowship-paying-it-forward",
+      "title": "Calvary Christian Fellowship - Paying it Forward — Free Food",
+      "description": "Free food at Calvary Christian Fellowship - Paying it Forward. Schedule: 3rd Fri 12 PM–2 PM. Call (760) 364-1990 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Calvary Christian Fellowship - Paying it Forward",
+      "address": "288 Old Woman Springs Rd, Yucca Valley, CA 92286",
+      "lat": 34.25473,
+      "lng": -116.43928,
+      "category": "food-assistance",
+      "sourceOrg": "Calvary Christian Fellowship - Paying it Forward",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "3rd Fri 12 PM–2 PM",
+      "start": "2026-10-09T12:00",
+      "end": "2026-10-09T14:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-find-mobile-market-copper-mountain-college-m12-0900",
+      "seriesSlug": "add-find-mobile-market-copper-mountain-college",
+      "title": "FIND Mobile Market - Copper Mountain College — Free Food",
+      "description": "Free food at FIND Mobile Market - Copper Mountain College. Schedule: 1st Tue 9 AM–10 AM. Call (760) 775-3663 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "FIND Mobile Market - Copper Mountain College",
+      "address": "6162 Rotary Way, Joshua Tree, CA 92252",
+      "lat": 34.139978,
+      "lng": -116.213393,
+      "category": "food-assistance",
+      "sourceOrg": "FIND Mobile Market - Copper Mountain College",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "1st Tue 9 AM–10 AM",
+      "start": "2026-10-06T09:00",
+      "end": "2026-10-06T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "1:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-yucca-valley-church-of-the-nazarene-m24-1130",
+      "seriesSlug": "add-yucca-valley-church-of-the-nazarene",
+      "title": "Yucca Valley Church of the Nazarene — Free Food",
+      "description": "Free food at Yucca Valley Church of the Nazarene. Schedule: 2nd Thu 11:30 AM–12:30 PM. Call (760) 362-3581 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Yucca Valley Church of the Nazarene",
+      "address": "56-248 Buena Vista Dr, Yucca Valley, CA 92284",
+      "lat": 34.127065,
+      "lng": -116.434564,
+      "category": "food-assistance",
+      "sourceOrg": "Yucca Valley Church of the Nazarene",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "2nd Thu 11:30 AM–12:30 PM",
+      "start": "2026-10-08T11:30",
+      "end": "2026-10-08T12:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "2:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-way-station-w2345-0900",
+      "seriesSlug": "add-the-way-station",
+      "title": "The Way Station — Free Food",
+      "description": "Free food at The Way Station. Schedule: Tue–Fri 9 AM–10:30 AM. Call (760) 366-8088 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Way Station",
+      "address": "61-722 Commercial St, Joshua Tree, CA 92252",
+      "lat": 34.13593,
+      "lng": -116.31671,
+      "category": "food-assistance",
+      "sourceOrg": "The Way Station",
+      "url": "https://feedingamericaie.org/find-a-pantry",
+      "schedulePattern": "Tue–Fri 9 AM–10:30 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T10:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3,4,5"
+    }
+  ]
+}

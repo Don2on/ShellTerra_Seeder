@@ -1,0 +1,528 @@
+{
+  "_meta": {
+    "topic": "Stanislaus County food distributions",
+    "generated": "2026-10-11",
+    "source": "Hand-collected list (Second Harvest of the Greater Valley / Vivery finder, Sutter County resource list, Tehama Together). Schedules parsed via LA clause parser.",
+    "note": "Drop-in raw for prepare-food-additions.mjs. Single-time entries route to _deferred."
+  },
+  "sites": [
+    {
+      "name": "SDA Ceres Community Services Center",
+      "org": "SDA Ceres Community Services Center",
+      "address": "1633 N Central Ave, Ceres, CA 95307",
+      "phone": "209-277-7125",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Thu 9am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu",
+            "3rd Thu"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Vincent De Paul - Ceres",
+      "org": "St. Vincent De Paul - Ceres",
+      "address": "3824 Mitchell Rd, Ceres, CA 95307",
+      "phone": "209-872-3200",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 3:30pm-4:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "15:30",
+          "close": "16:30"
+        }
+      ]
+    },
+    {
+      "name": "Valley Christian Center",
+      "org": "Valley Christian Center",
+      "address": "2745 2nd St, Ceres, CA 95307",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Tue 9am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Tue",
+            "3rd Tue"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Hickman Community Church",
+      "org": "Hickman Community Church",
+      "address": "854 I St, Hickman, CA 95323",
+      "phone": "209-874-1180",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Fri 10:30am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Fri",
+            "4th Fri"
+          ],
+          "open": "10:30",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Keyes Haven of Hope",
+      "org": "Keyes Haven of Hope",
+      "address": "5450 7th St, Keyes, CA 95328",
+      "phone": "209-668-7721",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "while supplies last",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Big Valley Grace",
+      "org": "Big Valley Grace",
+      "address": "4040 Tully Rd, Modesto, CA 95356",
+      "phone": "209-577-1604",
+      "eligibility": "by appointment only",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Thu 8:30am-3:30pm (by appointment only)",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "08:30",
+          "close": "15:30"
+        }
+      ]
+    },
+    {
+      "name": "Christ Unity Baptist Church",
+      "org": "Christ Unity Baptist Church",
+      "address": "1320 L Street, Modesto, CA 95351",
+      "phone": "209-577-8112",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Thu 10am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Thu"
+          ],
+          "open": "10:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Davis Park Church of Christ",
+      "org": "Davis Park Church of Christ",
+      "address": "901 W Rumble Road, Modesto, CA 95350",
+      "phone": "209-522-7226",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Wed, Fri 10:30am-11am and 1:30pm-2pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed",
+            "Fri"
+          ],
+          "open": "10:30",
+          "close": "11:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed",
+            "Fri"
+          ],
+          "open": "13:30",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "GAP Food Ministry of The Well Community Fellowship",
+      "org": "GAP Food Ministry of The Well Community Fellowship",
+      "address": "2500 Claus Rd, Modesto, CA 95355",
+      "phone": "209-551-4463",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Sun 8:30am-9:30am; 3rd Fri 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sun"
+          ],
+          "open": "08:30",
+          "close": "09:30"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Fri"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Nineveh Outreach",
+      "org": "Nineveh Outreach",
+      "address": "1601 Coffee Rd, Modesto, CA 95355",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 7:30am-9am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "07:30",
+          "close": "09:00"
+        }
+      ]
+    },
+    {
+      "name": "SDA Modesto Central",
+      "org": "SDA Modesto Central",
+      "address": "1614 H Street, Modesto, CA 95354",
+      "phone": "209-521-6460",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 10am-11:50am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "10:00",
+          "close": "11:50"
+        }
+      ]
+    },
+    {
+      "name": "STJMOD Pantry",
+      "org": "STJMOD Pantry",
+      "address": "1813 Oakdale Road, Modesto, CA 95355",
+      "phone": "209-477-2633",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue, Thu 9am-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Support Life Foundation",
+      "org": "Support Life Foundation",
+      "address": "1445 N. Carpenter Rd, Modesto, CA 95351",
+      "phone": "209-650-8759",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 11am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "11:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Victory In Praise - Modesto (James Marshall Park)",
+      "org": "Victory In Praise - Modesto (James Marshall Park)",
+      "address": "440 Sutter Ave, Modesto, CA 95351",
+      "phone": "209-522-1888",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Sat 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Sat"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Oakdale Community Sharing Christian Center",
+      "org": "Oakdale Community Sharing Christian Center",
+      "address": "565 Center St, Oakdale, CA 95361",
+      "phone": "209-847-3401",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 8am-11:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "08:00",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "SDA Patterson",
+      "org": "SDA Patterson",
+      "address": "66 N. El Circulo, Patterson, CA 95363",
+      "phone": "209-912-9530",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Mon 9:30am-12:15pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Mon",
+            "4th Mon"
+          ],
+          "open": "09:30",
+          "close": "12:15"
+        }
+      ]
+    },
+    {
+      "name": "St. Vincent De Paul - Riverbank",
+      "org": "St. Vincent De Paul - Riverbank",
+      "address": "2827 Topeka St, Riverbank, CA 95367",
+      "phone": "209-869-2996",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Thu 10am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Thu"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Neighborhood Church",
+      "org": "Neighborhood Church",
+      "address": "4942 Washington St, Salida, CA 95368",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st, 2nd & 3rd Tue 11am-12:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Tue",
+            "2nd Tue",
+            "3rd Tue"
+          ],
+          "open": "11:00",
+          "close": "12:30"
+        }
+      ]
+    },
+    {
+      "name": "Enclave Community Church",
+      "org": "Enclave Community Church",
+      "address": "581 E Canal Dr, Turlock, CA 95380",
+      "phone": "209-667-5996",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 1:30pm-2:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "13:30",
+          "close": "14:30"
+        }
+      ]
+    },
+    {
+      "name": "Pursuit of Truth",
+      "org": "Pursuit of Truth",
+      "address": "900 Pioneer Ave, Turlock, CA 95380",
+      "phone": "209-416-1852",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Sat 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Salvation Army - Turlock",
+      "org": "Salvation Army - Turlock",
+      "address": "893 Lander Ave, Turlock, CA 95380",
+      "phone": "209-669-5366",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 10am-12pm; Tue-Fri 9am-12pm; Mon-Fri 1pm-3:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "13:00",
+          "close": "15:30"
+        }
+      ]
+    },
+    {
+      "name": "United Samaritans",
+      "org": "United Samaritans",
+      "address": "220 S Broadway, Turlock, CA 95380",
+      "phone": "209-668-4853",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Last Tue and last Fri of month 9am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "last Tue",
+            "last Fri"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    }
+  ]
+}

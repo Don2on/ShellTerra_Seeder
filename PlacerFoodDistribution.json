@@ -1,0 +1,810 @@
+{
+  "_meta": {
+    "topic": "Net-new Placer County food distributions",
+    "generated": "2026-10-05",
+    "source": "Research supplementing shell PENDING-Placer; raw ./PlacerAdditions-raw.json."
+  },
+  "_deferred": {
+    "add-celebration-church": {
+      "title": "Celebration Church",
+      "status": "Sundays after church services Phone: (530) 878-1365.",
+      "address": "990 Meadow Gate Road, Meadow Vista, CA 95722",
+      "lat": 38.999587,
+      "lng": -121.02177,
+      "phone": "(530) 878-1365",
+      "eligibility": "",
+      "sourceUrl": "https://ccfellowship.org"
+    }
+  },
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "add-alta-sierra-first-baptist-church-w4-1000",
+      "seriesSlug": "add-alta-sierra-first-baptist-church",
+      "title": "Alta Sierra First Baptist Church — Free Food",
+      "description": "Free food at Alta Sierra First Baptist Church. Schedule: Thu 10 AM–12 PM. Call (530) 389-2168 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Alta Sierra First Baptist Church",
+      "address": "33990 Alta Bonny Nook Road, Alta, CA 95701",
+      "lat": 39.207094,
+      "lng": -120.809923,
+      "category": "food-assistance",
+      "sourceOrg": "Alta Sierra First Baptist Church",
+      "url": "https://sfbcalta.org",
+      "schedulePattern": "Thu 10 AM–12 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sierra-reach-ministries-w4-0900",
+      "seriesSlug": "add-sierra-reach-ministries",
+      "title": "Sierra Reach Ministries — Free Food",
+      "description": "Free food at Sierra Reach Ministries. Schedule: Thu 9 AM–11:30 AM. Call (530) 878-2705 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Sierra Reach Ministries",
+      "address": "18015 Applegate Road, Applegate, CA 95703",
+      "lat": 39.001687,
+      "lng": -120.990668,
+      "category": "food-assistance",
+      "sourceOrg": "Sierra Reach Ministries",
+      "url": "https://sierrareachministries.org",
+      "schedulePattern": "Thu 9 AM–11:30 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-auburn-interfaith-food-closet-w12345-1000",
+      "seriesSlug": "add-auburn-interfaith-food-closet",
+      "title": "Auburn Interfaith Food Closet — Free Food",
+      "description": "Free food at Auburn Interfaith Food Closet. Schedule: Mon–Fri 10 AM–2 PM; Wed 4 PM–7 PM. Call (530) 885-1921 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Auburn Interfaith Food Closet",
+      "address": "1788 Auburn Ravine Road, Auburn, CA 95603",
+      "lat": 38.922202,
+      "lng": -121.058893,
+      "category": "food-assistance",
+      "sourceOrg": "Auburn Interfaith Food Closet",
+      "url": "https://auburnfoodcloset.org",
+      "schedulePattern": "Mon–Fri 10 AM–2 PM; Wed 4 PM–7 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-auburn-interfaith-food-closet-w3-1600",
+      "seriesSlug": "add-auburn-interfaith-food-closet",
+      "title": "Auburn Interfaith Food Closet — Free Food",
+      "description": "Free food at Auburn Interfaith Food Closet. Schedule: Mon–Fri 10 AM–2 PM; Wed 4 PM–7 PM. Call (530) 885-1921 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Auburn Interfaith Food Closet",
+      "address": "1788 Auburn Ravine Road, Auburn, CA 95603",
+      "lat": 38.922202,
+      "lng": -121.058893,
+      "category": "food-assistance",
+      "sourceOrg": "Auburn Interfaith Food Closet",
+      "url": "https://auburnfoodcloset.org",
+      "schedulePattern": "Mon–Fri 10 AM–2 PM; Wed 4 PM–7 PM",
+      "start": "2026-09-28T16:00",
+      "end": "2026-09-28T19:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-auburn-seventh-day-adventist-church-adventist-co-w1-0900",
+      "seriesSlug": "add-auburn-seventh-day-adventist-church-adventist-co",
+      "title": "Auburn Seventh-day Adventist Church (Adventist Community Services) — Free Food",
+      "description": "Free food at Auburn Seventh-day Adventist Church (Adventist Community Services). Schedule: Mon 9 AM–12 PM; Tue 9 AM–12 PM. Call (530) 823-0345 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Auburn Seventh-day Adventist Church (Adventist Community Services)",
+      "address": "12225 Rock Creek Road, Auburn, CA 95602",
+      "lat": 38.945999,
+      "lng": -121.094292,
+      "category": "food-assistance",
+      "sourceOrg": "Auburn Seventh-day Adventist Church (Adventist Community Services)",
+      "url": "https://aubsda.org",
+      "schedulePattern": "Mon 9 AM–12 PM; Tue 9 AM–12 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-auburn-seventh-day-adventist-church-adventist-co-w2-0900",
+      "seriesSlug": "add-auburn-seventh-day-adventist-church-adventist-co",
+      "title": "Auburn Seventh-day Adventist Church (Adventist Community Services) — Free Food",
+      "description": "Free food at Auburn Seventh-day Adventist Church (Adventist Community Services). Schedule: Mon 9 AM–12 PM; Tue 9 AM–12 PM. Call (530) 823-0345 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Auburn Seventh-day Adventist Church (Adventist Community Services)",
+      "address": "12225 Rock Creek Road, Auburn, CA 95602",
+      "lat": 38.945999,
+      "lng": -121.094292,
+      "category": "food-assistance",
+      "sourceOrg": "Auburn Seventh-day Adventist Church (Adventist Community Services)",
+      "url": "https://aubsda.org",
+      "schedulePattern": "Mon 9 AM–12 PM; Tue 9 AM–12 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-salvation-army-auburn-w135-1000",
+      "seriesSlug": "add-the-salvation-army-auburn",
+      "title": "The Salvation Army - Auburn — Free Food",
+      "description": "Free food at The Salvation Army - Auburn. Schedule: Mon, Wed, Fri 10 AM–2 PM. Call (530) 889-3990 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Salvation Army - Auburn",
+      "address": "286 Sutter Street, Auburn, CA 95603",
+      "lat": 38.902771,
+      "lng": -121.077221,
+      "category": "food-assistance",
+      "sourceOrg": "The Salvation Army - Auburn",
+      "url": "https://auburn.salvationarmy.org",
+      "schedulePattern": "Mon, Wed, Fri 10 AM–2 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-placer-county-social-services-emergency-food-box-w12345-0800",
+      "seriesSlug": "add-placer-county-social-services-emergency-food-box",
+      "title": "Placer County Social Services (emergency food boxes) — Free Food",
+      "description": "Free food at Placer County Social Services (emergency food boxes). Schedule: Mon–Fri 8 AM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Placer County Social Services (emergency food boxes)",
+      "address": "5225 North Lake Blvd, Carnelian Bay, CA 96140",
+      "lat": 39.227073,
+      "lng": -120.078305,
+      "category": "food-assistance",
+      "sourceOrg": "Placer County Social Services (emergency food boxes)",
+      "url": "https://sierracommunityhouse.org",
+      "schedulePattern": "Mon–Fri 8 AM–5 PM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-pantrytogo-sierra-vista-community-center-m22-1000",
+      "seriesSlug": "add-pantrytogo-sierra-vista-community-center",
+      "title": "PantryToGo - Sierra Vista Community Center — Free Food",
+      "description": "Free food at PantryToGo - Sierra Vista Community Center. Schedule: 2nd Tue 10 AM–12 PM. Call (916) 783-0481 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "PantryToGo - Sierra Vista Community Center",
+      "address": "55 School Street, Colfax, CA 95713",
+      "lat": 39.102881,
+      "lng": -120.953552,
+      "category": "food-assistance",
+      "sourceOrg": "PantryToGo - Sierra Vista Community Center",
+      "url": "https://feedingthefoothills.org/pantrytogo",
+      "schedulePattern": "2nd Tue 10 AM–12 PM",
+      "start": "2026-10-06T10:00",
+      "end": "2026-10-06T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "2:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-lord-sabaoth-ministries-w3-1500",
+      "seriesSlug": "add-lord-sabaoth-ministries",
+      "title": "Lord Sabaoth Ministries — Free Food",
+      "description": "Free food at Lord Sabaoth Ministries. Schedule: Wed 3 PM–4:30 PM. Call (916) 835-1199 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Lord Sabaoth Ministries",
+      "address": "24500 Main Street, Foresthill, CA 95631",
+      "lat": 39.019803,
+      "lng": -120.817877,
+      "category": "food-assistance",
+      "sourceOrg": "Lord Sabaoth Ministries",
+      "url": "https://foresthillcenter.com",
+      "schedulePattern": "Wed 3 PM–4:30 PM",
+      "start": "2026-09-28T15:00",
+      "end": "2026-09-28T16:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-mountain-folk-food-bank-m153555-1400",
+      "seriesSlug": "add-mountain-folk-food-bank",
+      "title": "Mountain Folk Food Bank — Free Food",
+      "description": "Free food at Mountain Folk Food Bank. Schedule: 1st Fri & 3rd Fri & 5th Fri 2 PM–5 PM. Call (530) 320-3969 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Mountain Folk Food Bank",
+      "address": "3071 Iowa Hill Road, Iowa Hill, CA 95713",
+      "lat": 39.107188,
+      "lng": -120.860252,
+      "category": "food-assistance",
+      "sourceOrg": "Mountain Folk Food Bank",
+      "url": "https://feedingthefoothills.org",
+      "schedulePattern": "1st Fri & 3rd Fri & 5th Fri 2 PM–5 PM",
+      "start": "2026-10-09T14:00",
+      "end": "2026-10-09T17:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 5,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "1:5,3:5,5:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sierra-community-house-kings-beach-office-walk-u-w3-1430",
+      "seriesSlug": "add-sierra-community-house-kings-beach-office-walk-u",
+      "title": "Sierra Community House - Kings Beach Office (walk-up) — Free Food",
+      "description": "Free food at Sierra Community House - Kings Beach Office (walk-up). Schedule: Wed 2:30 PM–4 PM. Call (530) 546-0952 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Sierra Community House - Kings Beach Office (walk-up)",
+      "address": "265 Bear St, Kings Beach, CA 96143",
+      "lat": 39.238066,
+      "lng": -120.024717,
+      "category": "food-assistance",
+      "sourceOrg": "Sierra Community House - Kings Beach Office (walk-up)",
+      "url": "https://sierracommunityhouse.org",
+      "schedulePattern": "Wed 2:30 PM–4 PM",
+      "start": "2026-09-28T14:30",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-amazing-grace-seventh-day-adventist-church-w1-1200",
+      "seriesSlug": "add-amazing-grace-seventh-day-adventist-church",
+      "title": "Amazing Grace Seventh-day Adventist Church — Free Food",
+      "description": "Free food at Amazing Grace Seventh-day Adventist Church. Schedule: Mon 12 PM–2 PM. Call (916) 408-4408 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Amazing Grace Seventh-day Adventist Church",
+      "address": "600 McBean Park Drive, Lincoln, CA 95648",
+      "lat": 38.890696,
+      "lng": -121.291851,
+      "category": "food-assistance",
+      "sourceOrg": "Amazing Grace Seventh-day Adventist Church",
+      "url": "https://lincolnamazinggraceca.adventistchurch.org",
+      "schedulePattern": "Mon 12 PM–2 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-salt-mine-w2345-0900",
+      "seriesSlug": "add-the-salt-mine",
+      "title": "The Salt Mine — Free Food",
+      "description": "Free food at The Salt Mine. Schedule: Tue–Fri 9 AM–12 PM; Sat 12 PM–1 PM. Eligibility: Lincoln and Sheridan residents only. Call (916) 645-3778 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Salt Mine",
+      "address": "590 Lincoln Blvd, Lincoln, CA 95648",
+      "lat": 38.892956,
+      "lng": -121.293139,
+      "category": "food-assistance",
+      "sourceOrg": "The Salt Mine",
+      "url": "https://thesaltminelincoln.org",
+      "schedulePattern": "Tue–Fri 9 AM–12 PM; Sat 12 PM–1 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-salt-mine-w6-1200",
+      "seriesSlug": "add-the-salt-mine",
+      "title": "The Salt Mine — Free Food",
+      "description": "Free food at The Salt Mine. Schedule: Tue–Fri 9 AM–12 PM; Sat 12 PM–1 PM. Eligibility: Lincoln and Sheridan residents only. Call (916) 645-3778 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Salt Mine",
+      "address": "590 Lincoln Blvd, Lincoln, CA 95648",
+      "lat": 38.892956,
+      "lng": -121.293139,
+      "category": "food-assistance",
+      "sourceOrg": "The Salt Mine",
+      "url": "https://thesaltminelincoln.org",
+      "schedulePattern": "Tue–Fri 9 AM–12 PM; Sat 12 PM–1 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-first-united-methodist-church-of-loomis-w12345-1000",
+      "seriesSlug": "add-first-united-methodist-church-of-loomis",
+      "title": "First United Methodist Church of Loomis — Free Food",
+      "description": "Free food at First United Methodist Church of Loomis. Schedule: Mon–Fri 10 AM–1 PM. Call (916) 652-0469 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "First United Methodist Church of Loomis",
+      "address": "6414 Brace Road, Loomis, CA 95650",
+      "lat": 38.80954,
+      "lng": -121.183435,
+      "category": "food-assistance",
+      "sourceOrg": "First United Methodist Church of Loomis",
+      "url": "https://loomismethodist.org",
+      "schedulePattern": "Mon–Fri 10 AM–1 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-lilies-and-sparrows-calvary-christian-center-loo-w4-1000",
+      "seriesSlug": "add-lilies-and-sparrows-calvary-christian-center-loo",
+      "title": "Lilies and Sparrows (Calvary Christian Center Loomis) — Free Food",
+      "description": "Free food at Lilies and Sparrows (Calvary Christian Center Loomis). Schedule: Thu 10 AM–2 PM. Call (404) 969-2274 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Lilies and Sparrows (Calvary Christian Center Loomis)",
+      "address": "4655 King Road, Loomis, CA 95650",
+      "lat": 38.82563,
+      "lng": -121.21688,
+      "category": "food-assistance",
+      "sourceOrg": "Lilies and Sparrows (Calvary Christian Center Loomis)",
+      "url": "https://leoa.org",
+      "schedulePattern": "Thu 10 AM–2 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-bridgeway-christian-church-w4-1000",
+      "seriesSlug": "add-bridgeway-christian-church",
+      "title": "Bridgeway Christian Church — Free Food",
+      "description": "Free food at Bridgeway Christian Church. Schedule: Thu 10 AM–12 PM. Eligibility: drive-thru only. Call (916) 238-5321 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Bridgeway Christian Church",
+      "address": "8150 Industrial Avenue Bldg. A, Roseville, CA 95678",
+      "lat": 38.781634,
+      "lng": -121.304649,
+      "category": "food-assistance",
+      "sourceOrg": "Bridgeway Christian Church",
+      "url": "https://bridgeway.church",
+      "schedulePattern": "Thu 10 AM–12 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-first-united-methodist-church-roseville-soup-kit-w1-1200",
+      "seriesSlug": "add-first-united-methodist-church-roseville-soup-kit",
+      "title": "First United Methodist Church Roseville (soup kitchen) — Free Food",
+      "description": "Free food at First United Methodist Church Roseville (soup kitchen). Schedule: Mon 12 PM–12:45 PM. Call (916) 783-3464 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "First United Methodist Church Roseville (soup kitchen)",
+      "address": "109 Washington Blvd, Roseville, CA 95678",
+      "lat": 38.750927,
+      "lng": -121.286922,
+      "category": "food-assistance",
+      "sourceOrg": "First United Methodist Church Roseville (soup kitchen)",
+      "url": "https://firstumcroseville.org",
+      "schedulePattern": "Mon 12 PM–12:45 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T12:45",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-harvest-community-church-m-12-1630",
+      "seriesSlug": "add-harvest-community-church",
+      "title": "Harvest Community Church — Free Food",
+      "description": "Free food at Harvest Community Church. Schedule: last Tue 4:30 PM–5:30 PM. Call (916) 771-4781 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Harvest Community Church",
+      "address": "1376 Blue Oaks Blvd, Roseville, CA 95678",
+      "lat": 38.796813,
+      "lng": -121.312057,
+      "category": "food-assistance",
+      "sourceOrg": "Harvest Community Church",
+      "url": "https://harvestfamily.net",
+      "schedulePattern": "last Tue 4:30 PM–5:30 PM",
+      "start": "2026-10-06T16:30",
+      "end": "2026-10-06T17:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": -1,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "-1:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-life-community-church-m1525-1500",
+      "seriesSlug": "add-life-community-church",
+      "title": "Life Community Church — Free Food",
+      "description": "Free food at Life Community Church. Schedule: 1st Fri & 2nd Fri 3 PM–4 PM. Call (916) 788-2697 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Life Community Church",
+      "address": "10020 Foothills Blvd, Roseville, CA 95747",
+      "lat": 38.79876,
+      "lng": -121.314974,
+      "category": "food-assistance",
+      "sourceOrg": "Life Community Church",
+      "url": "https://lifecconline.com",
+      "schedulePattern": "1st Fri & 2nd Fri 3 PM–4 PM",
+      "start": "2026-10-09T15:00",
+      "end": "2026-10-09T16:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 2,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "1:5,2:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-pantrytogo-denio-s-farmers-market-m15-0800",
+      "seriesSlug": "add-pantrytogo-denio-s-farmers-market",
+      "title": "PantryToGo - Denio's Farmers Market — Free Food",
+      "description": "Free food at PantryToGo - Denio's Farmers Market. Schedule: 1st Fri 8 AM–10 AM. Call (916) 783-0481 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "PantryToGo - Denio's Farmers Market",
+      "address": "1401 Church Street, Roseville, CA 95678",
+      "lat": 38.743526,
+      "lng": -121.298363,
+      "category": "food-assistance",
+      "sourceOrg": "PantryToGo - Denio's Farmers Market",
+      "url": "https://feedingthefoothills.org/pantrytogo",
+      "schedulePattern": "1st Fri 8 AM–10 AM",
+      "start": "2026-10-09T08:00",
+      "end": "2026-10-09T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "1:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-rhema-christian-center-m36-1000",
+      "seriesSlug": "add-rhema-christian-center",
+      "title": "Rhema Christian Center — Free Food",
+      "description": "Free food at Rhema Christian Center. Schedule: 3rd Sat 10 AM–12 PM. Call (916) 780-2121 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Rhema Christian Center",
+      "address": "658 Commerce Drive Suite E, Roseville, CA 95678",
+      "lat": 38.727679,
+      "lng": -121.303652,
+      "category": "food-assistance",
+      "sourceOrg": "Rhema Christian Center",
+      "url": "https://rhemaccroseville.com",
+      "schedulePattern": "3rd Sat 10 AM–12 PM",
+      "start": "2026-10-10T10:00",
+      "end": "2026-10-10T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-roseville-alano-club-w5-0900",
+      "seriesSlug": "add-roseville-alano-club",
+      "title": "Roseville Alano Club — Free Food",
+      "description": "Free food at Roseville Alano Club. Schedule: Fri 9 AM–9:30 AM. Call (916) 781-2763 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Roseville Alano Club",
+      "address": "111 5th Street, Roseville, CA 95678",
+      "lat": 38.737891,
+      "lng": -121.291557,
+      "category": "food-assistance",
+      "sourceOrg": "Roseville Alano Club",
+      "url": "https://rosevillealanoclub.com",
+      "schedulePattern": "Fri 9 AM–9:30 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T09:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-vincent-de-paul-dining-room-soup-kitchen-w234-1200",
+      "seriesSlug": "add-st-vincent-de-paul-dining-room-soup-kitchen",
+      "title": "St. Vincent de Paul Dining Room (soup kitchen) — Free Food",
+      "description": "Free food at St. Vincent de Paul Dining Room (soup kitchen). Schedule: Tue–Thu 12 PM–1:30 PM; Sat–Sun 2:30 PM–4 PM. Call (916) 781-3303 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Vincent de Paul Dining Room (soup kitchen)",
+      "address": "105 Bonita Street, Roseville, CA 95678",
+      "lat": 38.74222,
+      "lng": -121.29024,
+      "category": "food-assistance",
+      "sourceOrg": "St. Vincent de Paul Dining Room (soup kitchen)",
+      "url": "https://placersvdp.com",
+      "schedulePattern": "Tue–Thu 12 PM–1:30 PM; Sat–Sun 2:30 PM–4 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T13:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-vincent-de-paul-dining-room-soup-kitchen-w67-1430",
+      "seriesSlug": "add-st-vincent-de-paul-dining-room-soup-kitchen",
+      "title": "St. Vincent de Paul Dining Room (soup kitchen) — Free Food",
+      "description": "Free food at St. Vincent de Paul Dining Room (soup kitchen). Schedule: Tue–Thu 12 PM–1:30 PM; Sat–Sun 2:30 PM–4 PM. Call (916) 781-3303 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Vincent de Paul Dining Room (soup kitchen)",
+      "address": "105 Bonita Street, Roseville, CA 95678",
+      "lat": 38.74222,
+      "lng": -121.29024,
+      "category": "food-assistance",
+      "sourceOrg": "St. Vincent de Paul Dining Room (soup kitchen)",
+      "url": "https://placersvdp.com",
+      "schedulePattern": "Tue–Thu 12 PM–1:30 PM; Sat–Sun 2:30 PM–4 PM",
+      "start": "2026-09-28T14:30",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6,7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-vincent-de-paul-food-locker-w135-0900",
+      "seriesSlug": "add-st-vincent-de-paul-food-locker",
+      "title": "St. Vincent de Paul Food Locker — Free Food",
+      "description": "Free food at St. Vincent de Paul Food Locker. Schedule: Mon, Wed, Fri 9 AM–11 AM. Call (916) 781-3303 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Vincent de Paul Food Locker",
+      "address": "503 Giuseppe Court Suite 8, Roseville, CA 95678",
+      "lat": 38.730326,
+      "lng": -121.301375,
+      "category": "food-assistance",
+      "sourceOrg": "St. Vincent de Paul Food Locker",
+      "url": "https://placersvdp.com",
+      "schedulePattern": "Mon, Wed, Fri 9 AM–11 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-rock-of-roseville-w4-0915",
+      "seriesSlug": "add-the-rock-of-roseville",
+      "title": "The Rock of Roseville — Free Food",
+      "description": "Free food at The Rock of Roseville. Schedule: Thu 9:15 AM–10:15 AM. Call (916) 789-7625 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Rock of Roseville",
+      "address": "202 Bonita Street, Roseville, CA 95678",
+      "lat": 38.741907,
+      "lng": -121.28894,
+      "category": "food-assistance",
+      "sourceOrg": "The Rock of Roseville",
+      "url": "https://rockofroseville.com",
+      "schedulePattern": "Thu 9:15 AM–10:15 AM",
+      "start": "2026-09-28T09:15",
+      "end": "2026-09-28T10:15",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-salvation-army-roseville-w1234-0900",
+      "seriesSlug": "add-the-salvation-army-roseville",
+      "title": "The Salvation Army - Roseville — Free Food",
+      "description": "Free food at The Salvation Army - Roseville. Schedule: Mon–Thu 9 AM–12 PM; Mon–Thu 12:30 PM–2:30 PM; Fri 9 AM–11 AM; Fri 12:30 PM–2:30 PM; Sat 8 AM–9 AM; Fri 11 AM–12 PM. Call (916) 784-3382 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Salvation Army - Roseville",
+      "address": "100 Lincoln Street, Roseville, CA 95678",
+      "lat": 38.749545,
+      "lng": -121.282068,
+      "category": "food-assistance",
+      "sourceOrg": "The Salvation Army - Roseville",
+      "url": "https://roseville.salvationarmy.org",
+      "schedulePattern": "Mon–Thu 9 AM–12 PM; Mon–Thu 12:30 PM–2:30 PM; Fri 9 AM–11 AM; Fri 12:30 PM–2:30 PM; Sat 8 AM–9 AM; Fri 11 AM–12 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-salvation-army-roseville-w1234-1230",
+      "seriesSlug": "add-the-salvation-army-roseville",
+      "title": "The Salvation Army - Roseville — Free Food",
+      "description": "Free food at The Salvation Army - Roseville. Schedule: Mon–Thu 9 AM–12 PM; Mon–Thu 12:30 PM–2:30 PM; Fri 9 AM–11 AM; Fri 12:30 PM–2:30 PM; Sat 8 AM–9 AM; Fri 11 AM–12 PM. Call (916) 784-3382 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Salvation Army - Roseville",
+      "address": "100 Lincoln Street, Roseville, CA 95678",
+      "lat": 38.749545,
+      "lng": -121.282068,
+      "category": "food-assistance",
+      "sourceOrg": "The Salvation Army - Roseville",
+      "url": "https://roseville.salvationarmy.org",
+      "schedulePattern": "Mon–Thu 9 AM–12 PM; Mon–Thu 12:30 PM–2:30 PM; Fri 9 AM–11 AM; Fri 12:30 PM–2:30 PM; Sat 8 AM–9 AM; Fri 11 AM–12 PM",
+      "start": "2026-09-28T12:30",
+      "end": "2026-09-28T14:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-salvation-army-roseville-w5-0900",
+      "seriesSlug": "add-the-salvation-army-roseville",
+      "title": "The Salvation Army - Roseville — Free Food",
+      "description": "Free food at The Salvation Army - Roseville. Schedule: Mon–Thu 9 AM–12 PM; Mon–Thu 12:30 PM–2:30 PM; Fri 9 AM–11 AM; Fri 12:30 PM–2:30 PM; Sat 8 AM–9 AM; Fri 11 AM–12 PM. Call (916) 784-3382 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Salvation Army - Roseville",
+      "address": "100 Lincoln Street, Roseville, CA 95678",
+      "lat": 38.749545,
+      "lng": -121.282068,
+      "category": "food-assistance",
+      "sourceOrg": "The Salvation Army - Roseville",
+      "url": "https://roseville.salvationarmy.org",
+      "schedulePattern": "Mon–Thu 9 AM–12 PM; Mon–Thu 12:30 PM–2:30 PM; Fri 9 AM–11 AM; Fri 12:30 PM–2:30 PM; Sat 8 AM–9 AM; Fri 11 AM–12 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-salvation-army-roseville-w5-1230",
+      "seriesSlug": "add-the-salvation-army-roseville",
+      "title": "The Salvation Army - Roseville — Free Food",
+      "description": "Free food at The Salvation Army - Roseville. Schedule: Mon–Thu 9 AM–12 PM; Mon–Thu 12:30 PM–2:30 PM; Fri 9 AM–11 AM; Fri 12:30 PM–2:30 PM; Sat 8 AM–9 AM; Fri 11 AM–12 PM. Call (916) 784-3382 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Salvation Army - Roseville",
+      "address": "100 Lincoln Street, Roseville, CA 95678",
+      "lat": 38.749545,
+      "lng": -121.282068,
+      "category": "food-assistance",
+      "sourceOrg": "The Salvation Army - Roseville",
+      "url": "https://roseville.salvationarmy.org",
+      "schedulePattern": "Mon–Thu 9 AM–12 PM; Mon–Thu 12:30 PM–2:30 PM; Fri 9 AM–11 AM; Fri 12:30 PM–2:30 PM; Sat 8 AM–9 AM; Fri 11 AM–12 PM",
+      "start": "2026-09-28T12:30",
+      "end": "2026-09-28T14:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-salvation-army-roseville-w6-0800",
+      "seriesSlug": "add-the-salvation-army-roseville",
+      "title": "The Salvation Army - Roseville — Free Food",
+      "description": "Free food at The Salvation Army - Roseville. Schedule: Mon–Thu 9 AM–12 PM; Mon–Thu 12:30 PM–2:30 PM; Fri 9 AM–11 AM; Fri 12:30 PM–2:30 PM; Sat 8 AM–9 AM; Fri 11 AM–12 PM. Call (916) 784-3382 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Salvation Army - Roseville",
+      "address": "100 Lincoln Street, Roseville, CA 95678",
+      "lat": 38.749545,
+      "lng": -121.282068,
+      "category": "food-assistance",
+      "sourceOrg": "The Salvation Army - Roseville",
+      "url": "https://roseville.salvationarmy.org",
+      "schedulePattern": "Mon–Thu 9 AM–12 PM; Mon–Thu 12:30 PM–2:30 PM; Fri 9 AM–11 AM; Fri 12:30 PM–2:30 PM; Sat 8 AM–9 AM; Fri 11 AM–12 PM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T09:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-salvation-army-roseville-w5-1100",
+      "seriesSlug": "add-the-salvation-army-roseville",
+      "title": "The Salvation Army - Roseville — Free Food",
+      "description": "Free food at The Salvation Army - Roseville. Schedule: Mon–Thu 9 AM–12 PM; Mon–Thu 12:30 PM–2:30 PM; Fri 9 AM–11 AM; Fri 12:30 PM–2:30 PM; Sat 8 AM–9 AM; Fri 11 AM–12 PM. Call (916) 784-3382 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Salvation Army - Roseville",
+      "address": "100 Lincoln Street, Roseville, CA 95678",
+      "lat": 38.749545,
+      "lng": -121.282068,
+      "category": "food-assistance",
+      "sourceOrg": "The Salvation Army - Roseville",
+      "url": "https://roseville.salvationarmy.org",
+      "schedulePattern": "Mon–Thu 9 AM–12 PM; Mon–Thu 12:30 PM–2:30 PM; Fri 9 AM–11 AM; Fri 12:30 PM–2:30 PM; Sat 8 AM–9 AM; Fri 11 AM–12 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-celebration-family-worship-center-m43-1800",
+      "seriesSlug": "add-celebration-family-worship-center",
+      "title": "Celebration Family Worship Center — Free Food",
+      "description": "Free food at Celebration Family Worship Center. Schedule: 4th Wed 6 PM–8 PM. Call (530) 923-1849 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Celebration Family Worship Center",
+      "address": "5721 Tenth Street, Sheridan, CA 95681",
+      "lat": 38.982029,
+      "lng": -121.372097,
+      "category": "food-assistance",
+      "sourceOrg": "Celebration Family Worship Center",
+      "url": "https://celebrationfamilyworshipcenter.com",
+      "schedulePattern": "4th Wed 6 PM–8 PM",
+      "start": "2026-10-07T18:00",
+      "end": "2026-10-07T20:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "4:3"
+    }
+  ]
+}

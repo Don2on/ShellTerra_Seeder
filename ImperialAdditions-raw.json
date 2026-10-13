@@ -1,0 +1,827 @@
+{
+  "_meta": {
+    "topic": "Imperial County food distributions",
+    "generated": "2026-10-11",
+    "source": "Hand-collected list (Central California Food Bank, North State / NVC Food Bank, Food for People, Imperial Valley Food Bank locators). Schedules parsed via LA clause parser. lat/lng geocoded downstream.",
+    "note": "Drop-in raw for prepare-food-additions.mjs. Same-address program variants kept as separate pins (allowColocated). \"Monthly (date varies)\" and single start-times route to _deferred."
+  },
+  "sites": [
+    {
+      "name": "Bombay Beach (mobile pantry and senior boxes)",
+      "org": "Bombay Beach (mobile pantry and senior boxes)",
+      "address": ", Bombay Beach, CA 92257",
+      "phone": "(760) 370-0966",
+      "eligibility": "",
+      "website": "https://www.ivfoodbank.com/programs/community-food-distributions",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "2nd Wed 8-9am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed"
+          ],
+          "open": "08:00",
+          "close": "09:00"
+        }
+      ]
+    },
+    {
+      "name": "Brawley Airport",
+      "org": "Brawley Airport",
+      "address": ", Brawley, CA 92227",
+      "phone": "(760) 370-0966",
+      "eligibility": "",
+      "website": "https://www.ivfoodbank.com/programs/community-food-distributions",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "4th Thu 7-8:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Thu"
+          ],
+          "open": "07:00",
+          "close": "08:30"
+        }
+      ]
+    },
+    {
+      "name": "Brawley Airport Senior (at Cattle Call Park during construction)",
+      "org": "Brawley Airport Senior (at Cattle Call Park during construction)",
+      "address": ", Brawley, CA 92227",
+      "phone": "(760) 370-0966",
+      "eligibility": "",
+      "website": "https://www.ivfoodbank.com/programs/community-food-distributions",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "2nd Fri 7-8am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Fri"
+          ],
+          "open": "07:00",
+          "close": "08:00"
+        }
+      ]
+    },
+    {
+      "name": "Brawley Senior Apartments",
+      "org": "Brawley Senior Apartments",
+      "address": ", Brawley, CA 92227",
+      "phone": "(760) 370-0966",
+      "eligibility": "",
+      "website": "https://www.ivfoodbank.com/programs/community-food-distributions",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "4th Tue 8-9am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Tue"
+          ],
+          "open": "08:00",
+          "close": "09:00"
+        }
+      ]
+    },
+    {
+      "name": "First Presbyterian Church (Brawley)",
+      "org": "First Presbyterian Church (Brawley)",
+      "address": ", Brawley, CA 92227",
+      "phone": "(760) 370-0966",
+      "eligibility": "",
+      "website": "https://www.ivfoodbank.com/programs/community-food-distributions",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "4th Sat 8-10am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Sat"
+          ],
+          "open": "08:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Villa Fortuna",
+      "org": "Villa Fortuna",
+      "address": ", Brawley, CA 92227",
+      "phone": "(760) 370-0966",
+      "eligibility": "",
+      "website": "https://www.ivfoodbank.com/programs/community-food-distributions",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "4th Tue 10:30-11:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Tue"
+          ],
+          "open": "10:30",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Calexico Movies",
+      "org": "Calexico Movies",
+      "address": ", Calexico, CA 92231",
+      "phone": "(760) 370-0966",
+      "eligibility": "",
+      "website": "https://www.ivfoodbank.com/programs/community-food-distributions",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "1st Fri 7-8:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri"
+          ],
+          "open": "07:00",
+          "close": "08:30"
+        }
+      ]
+    },
+    {
+      "name": "Calexico Outlets",
+      "org": "Calexico Outlets",
+      "address": ", Calexico, CA 92231",
+      "phone": "(760) 370-0966",
+      "eligibility": "",
+      "website": "https://www.ivfoodbank.com/programs/community-food-distributions",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "3rd Tue 7-8:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Tue"
+          ],
+          "open": "07:00",
+          "close": "08:30"
+        }
+      ]
+    },
+    {
+      "name": "John Kennedy Park",
+      "org": "John Kennedy Park",
+      "address": ", Calexico, CA 92231",
+      "phone": "(760) 370-0966",
+      "eligibility": "",
+      "website": "https://www.ivfoodbank.com/programs/community-food-distributions",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "4th Mon 7:30-8:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Mon"
+          ],
+          "open": "07:30",
+          "close": "08:30"
+        }
+      ]
+    },
+    {
+      "name": "Las Praderas Apartments",
+      "org": "Las Praderas Apartments",
+      "address": ", Calexico, CA 92231",
+      "phone": "(760) 370-0966",
+      "eligibility": "",
+      "website": "https://www.ivfoodbank.com/programs/community-food-distributions",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "2nd Wed 9:30-10:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed"
+          ],
+          "open": "09:30",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "Latter Day Saints Church (Calexico)",
+      "org": "Latter Day Saints Church (Calexico)",
+      "address": ", Calexico, CA 92231",
+      "phone": "(760) 370-0966",
+      "eligibility": "",
+      "website": "https://www.ivfoodbank.com/programs/community-food-distributions",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "2nd Thu 7-8:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu"
+          ],
+          "open": "07:00",
+          "close": "08:30"
+        }
+      ]
+    },
+    {
+      "name": "Quintero/De Anza Apartments",
+      "org": "Quintero/De Anza Apartments",
+      "address": ", Calexico, CA 92231",
+      "phone": "(760) 370-0966",
+      "eligibility": "",
+      "website": "https://www.ivfoodbank.com/programs/community-food-distributions",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "2nd Wed 8-9am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed"
+          ],
+          "open": "08:00",
+          "close": "09:00"
+        }
+      ]
+    },
+    {
+      "name": "Villa Las Flores Apartments",
+      "org": "Villa Las Flores Apartments",
+      "address": ", Calexico, CA 92231",
+      "phone": "(760) 370-0966",
+      "eligibility": "",
+      "website": "https://www.ivfoodbank.com/programs/community-food-distributions",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "2nd Wed 8-9am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed"
+          ],
+          "open": "08:00",
+          "close": "09:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Patrick's Catholic Church (mobile pantry and senior boxes)",
+      "org": "St. Patrick's Catholic Church (mobile pantry and senior boxes)",
+      "address": "133 E Church St, Calipatria, CA 92233",
+      "phone": "(760) 502-6348",
+      "eligibility": "",
+      "website": "https://www.ivfoodbank.com/programs/community-food-distributions",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Wed 8-9am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Wed"
+          ],
+          "open": "08:00",
+          "close": "09:00"
+        }
+      ]
+    },
+    {
+      "name": "Catholic Charities Food Resource Center",
+      "org": "Catholic Charities Food Resource Center",
+      "address": "250 W Orange Ave, El Centro, CA 92243",
+      "phone": "(760) 353-6822",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 9am-12pm & 1-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "13:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Christ Community Church - Kitchen with a Mission",
+      "org": "Christ Community Church - Kitchen with a Mission",
+      "address": "590 W Orange Ave, El Centro, CA 92243",
+      "phone": "(760) 337-9400",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "hot meals",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "17:00",
+          "close": "19:00"
+        }
+      ]
+    },
+    {
+      "name": "Countryside Family Apartments",
+      "org": "Countryside Family Apartments",
+      "address": ", El Centro, CA 92243",
+      "phone": "(760) 370-0966",
+      "eligibility": "",
+      "website": "https://www.ivfoodbank.com/programs/community-food-distributions",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "2nd Tue 11am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "First Christian Church (El Centro)",
+      "org": "First Christian Church (El Centro)",
+      "address": "450 S Waterman Ave, El Centro, CA 92243",
+      "phone": "(760) 352-8300",
+      "eligibility": "",
+      "website": "https://www.ivfoodbank.com/programs/community-food-distributions",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Fri 8-10am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Fri"
+          ],
+          "open": "08:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Salvation Army Imperial Valley Corps",
+      "org": "Salvation Army Imperial Valley Corps",
+      "address": "397 Ross Ave, El Centro, CA 92243",
+      "phone": "(760) 352-4528",
+      "eligibility": "",
+      "website": "https://www.ivfoodbank.com/programs/community-food-distributions",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Pantry Mon-Fri 9am-12pm; food bank distribution 2nd Thu 9-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Strikezone Bowling Alley",
+      "org": "Strikezone Bowling Alley",
+      "address": ", El Centro, CA 92243",
+      "phone": "(760) 370-0966",
+      "eligibility": "",
+      "website": "https://www.ivfoodbank.com/programs/community-food-distributions",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "2nd Fri 7-8:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Fri"
+          ],
+          "open": "07:00",
+          "close": "08:30"
+        }
+      ]
+    },
+    {
+      "name": "UDW training center",
+      "org": "UDW training center",
+      "address": ", El Centro, CA 92243",
+      "phone": "(760) 370-0966",
+      "eligibility": "",
+      "website": "https://www.ivfoodbank.com/programs/community-food-distributions",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "4th Fri 8-9am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Fri"
+          ],
+          "open": "08:00",
+          "close": "09:00"
+        }
+      ]
+    },
+    {
+      "name": "Heber distribution",
+      "org": "Heber distribution",
+      "address": ", Heber, CA 92249",
+      "phone": "(760) 370-0966",
+      "eligibility": "",
+      "website": "https://www.ivfoodbank.com/programs/community-food-distributions",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "1st Thu 7-8:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu"
+          ],
+          "open": "07:00",
+          "close": "08:30"
+        }
+      ]
+    },
+    {
+      "name": "Holtville Garden Apartments (senior boxes)",
+      "org": "Holtville Garden Apartments (senior boxes)",
+      "address": ", Holtville, CA 92250",
+      "phone": "(760) 370-0966",
+      "eligibility": "",
+      "website": "https://www.ivfoodbank.com/programs/community-food-distributions",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "2nd Tue 8-9am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue"
+          ],
+          "open": "08:00",
+          "close": "09:00"
+        }
+      ]
+    },
+    {
+      "name": "Turning Point",
+      "org": "Turning Point",
+      "address": ", Holtville, CA 92250",
+      "phone": "(760) 370-0966",
+      "eligibility": "",
+      "website": "https://www.ivfoodbank.com/programs/community-food-distributions",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "3rd Sat 7-8am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "07:00",
+          "close": "08:00"
+        }
+      ]
+    },
+    {
+      "name": "Imperial Garden Apartments",
+      "org": "Imperial Garden Apartments",
+      "address": ", Imperial, CA 92251",
+      "phone": "(760) 370-0966",
+      "eligibility": "",
+      "website": "https://www.ivfoodbank.com/programs/community-food-distributions",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "2nd Tue 8:30-9:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue"
+          ],
+          "open": "08:30",
+          "close": "09:30"
+        }
+      ]
+    },
+    {
+      "name": "Imperial Senior distribution",
+      "org": "Imperial Senior distribution",
+      "address": ", Imperial, CA 92251",
+      "phone": "(760) 370-0966",
+      "eligibility": "",
+      "website": "https://www.ivfoodbank.com/programs/community-food-distributions",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "3rd Mon 6:30-7:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Mon"
+          ],
+          "open": "06:30",
+          "close": "07:30"
+        }
+      ]
+    },
+    {
+      "name": "Imperial Valley College (students, Parking Lot K)",
+      "org": "Imperial Valley College (students, Parking Lot K)",
+      "address": "380 E Aten Rd, Imperial, CA 92251",
+      "phone": "(760) 370-0966",
+      "eligibility": "IVC ID required",
+      "website": "https://www.ivfoodbank.com/programs/community-food-distributions",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Fri 10-11am (IVC ID required)",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Fri"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Imperial Valley Food Bank (registration for Food Bank ID card)",
+      "org": "Imperial Valley Food Bank (registration for Food Bank ID card)",
+      "address": "486 W Aten Rd, Imperial, CA 92251",
+      "phone": "(760) 370-0966",
+      "eligibility": "",
+      "website": "https://www.ivfoodbank.com",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 8am-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "08:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Anthony's Church",
+      "org": "St. Anthony's Church",
+      "address": "210 W 7th St, Imperial, CA 92251",
+      "phone": "(760) 355-1347",
+      "eligibility": "",
+      "website": "https://www.ivfoodbank.com/programs/community-food-distributions",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Sat 7-8:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Sat"
+          ],
+          "open": "07:00",
+          "close": "08:30"
+        }
+      ]
+    },
+    {
+      "name": "Niland (mobile pantry, Chamber of Commerce)",
+      "org": "Niland (mobile pantry, Chamber of Commerce)",
+      "address": ", Niland, CA 92257",
+      "phone": "(760) 370-0966",
+      "eligibility": "",
+      "website": "https://www.ivfoodbank.com/programs/community-food-distributions",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "3rd Wed 7:30-8:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Wed"
+          ],
+          "open": "07:30",
+          "close": "08:30"
+        }
+      ]
+    },
+    {
+      "name": "Slab City",
+      "org": "Slab City",
+      "address": ", Niland, CA 92257",
+      "phone": "(760) 370-0966",
+      "eligibility": "",
+      "website": "https://www.ivfoodbank.com/programs/community-food-distributions",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "1st Tue 8-9am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Tue"
+          ],
+          "open": "08:00",
+          "close": "09:00"
+        }
+      ]
+    },
+    {
+      "name": "Ocotillo Bible Church (mobile pantry and senior boxes)",
+      "org": "Ocotillo Bible Church (mobile pantry and senior boxes)",
+      "address": ", Ocotillo, CA 92259",
+      "phone": "(760) 370-0966",
+      "eligibility": "",
+      "website": "https://www.ivfoodbank.com/programs/community-food-distributions",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "3rd Thu 8-9am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Thu"
+          ],
+          "open": "08:00",
+          "close": "09:00"
+        }
+      ]
+    },
+    {
+      "name": "Palo Verde Community Center",
+      "org": "Palo Verde Community Center",
+      "address": ", Palo Verde, CA 92266",
+      "phone": "(760) 370-0966",
+      "eligibility": "",
+      "website": "https://www.ivfoodbank.com/programs/community-food-distributions",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "1st Mon 8-9am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Mon"
+          ],
+          "open": "08:00",
+          "close": "09:00"
+        }
+      ]
+    },
+    {
+      "name": "Salton City / Salton Sea (mobile pantry)",
+      "org": "Salton City / Salton Sea (mobile pantry)",
+      "address": ", Salton City, CA 92275",
+      "phone": "(760) 370-0966",
+      "eligibility": "",
+      "website": "https://www.ivfoodbank.com/programs/community-food-distributions",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "3rd Fri 8-9am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Fri"
+          ],
+          "open": "08:00",
+          "close": "09:00"
+        }
+      ]
+    },
+    {
+      "name": "Apostolic Assembly (Seeley mobile pantry)",
+      "org": "Apostolic Assembly (Seeley mobile pantry)",
+      "address": ", Seeley, CA 92273",
+      "phone": "(760) 370-0966",
+      "eligibility": "",
+      "website": "https://www.ivfoodbank.com/programs/community-food-distributions",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "3rd Thu 7:30-8:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Thu"
+          ],
+          "open": "07:30",
+          "close": "08:30"
+        }
+      ]
+    },
+    {
+      "name": "Westmorland Community Food Pantry",
+      "org": "Westmorland Community Food Pantry",
+      "address": "285 E 3rd St, Westmorland, CA 92281",
+      "phone": "(760) 370-0966",
+      "eligibility": "",
+      "website": "https://www.ivfoodbank.com/programs/community-food-distributions",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 6-7pm; food bank distribution 3rd Mon 7-8am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "18:00",
+          "close": "19:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Mon"
+          ],
+          "open": "07:00",
+          "close": "08:00"
+        }
+      ]
+    },
+    {
+      "name": "San Pasqual Family Resource Center",
+      "org": "San Pasqual Family Resource Center",
+      "address": ", Winterhaven, CA 92283",
+      "phone": "(760) 370-0966",
+      "eligibility": "",
+      "website": "https://www.ivfoodbank.com/programs/community-food-distributions",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "1st Wed 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Wed"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    }
+  ]
+}

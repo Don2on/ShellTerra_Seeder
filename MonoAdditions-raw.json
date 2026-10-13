@@ -1,0 +1,140 @@
+{
+  "_meta": {
+    "topic": "Mono County food distributions",
+    "generated": "2026-10-11",
+    "source": "Hand-collected list (Mendo Food Network, Merced County Food Bank, T.E.A.C.H. Inc., IMACA/FBNN). Schedules parsed via LA clause parser. lat/lng geocoded downstream.",
+    "note": "Drop-in raw for prepare-food-additions.mjs. \"Monthly (date varies)\" / \"daily\" / single start-times route to _deferred."
+  },
+  "sites": [
+    {
+      "name": "Benton Community Center (IMACA distribution)",
+      "org": "Benton Community Center (IMACA distribution)",
+      "address": "58869 Hwy 120, Benton, CA 93512",
+      "phone": "(760) 873-8557",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "date varies; intake form required",
+      "schedules": []
+    },
+    {
+      "name": "Bridgeport Community Center (mobile food drop)",
+      "org": "Bridgeport Community Center (mobile food drop)",
+      "address": "129 Emigrant St, Bridgeport, CA 93517",
+      "phone": "(775) 331-3663",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "date varies",
+      "schedules": []
+    },
+    {
+      "name": "Chalfant Fire Department (IMACA distribution)",
+      "org": "Chalfant Fire Department (IMACA distribution)",
+      "address": "215 Valley Rd, Chalfant Valley, CA 93514",
+      "phone": "(760) 873-8557",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "date varies",
+      "schedules": []
+    },
+    {
+      "name": "June Lake Community Center (IMACA distribution)",
+      "org": "June Lake Community Center (IMACA distribution)",
+      "address": "90 W Granite Ave, June Lake, CA 93529",
+      "phone": "(760) 873-8557",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "date varies",
+      "schedules": []
+    },
+    {
+      "name": "Lee Vining Community Center (IMACA distribution)",
+      "org": "Lee Vining Community Center (IMACA distribution)",
+      "address": "296 Mattly Ave, Lee Vining, CA 93541",
+      "phone": "(760) 873-8557",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "date varies",
+      "schedules": []
+    },
+    {
+      "name": "Mammoth Creek Park Community Recreation Center (mobile food drop)",
+      "org": "Mammoth Creek Park Community Recreation Center (mobile food drop)",
+      "address": "Mammoth Creek Park, Mammoth Lakes, CA 93546",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "date varies",
+      "schedules": []
+    },
+    {
+      "name": "Salvation Army - Mammoth Lakes",
+      "org": "Salvation Army - Mammoth Lakes",
+      "address": "220 Sierra Manor Rd, Mammoth Lakes, CA 93546",
+      "phone": "(760) 914-0245",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "intake form required",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Fri"
+          ],
+          "open": "16:00",
+          "close": "17:30"
+        }
+      ]
+    },
+    {
+      "name": "Second Chance Thrift Store (non-perishable food)",
+      "org": "Second Chance Thrift Store (non-perishable food)",
+      "address": "501 Old Mammoth Rd, Mammoth Lakes, CA 93546",
+      "phone": "(760) 924-2474",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Daily 10am-5pm",
+      "schedules": []
+    },
+    {
+      "name": "St. Joseph's Church (IMACA distribution)",
+      "org": "St. Joseph's Church (IMACA distribution)",
+      "address": "58 Ranch Rd, Mammoth Lakes, CA 93546",
+      "phone": "(760) 873-8557",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "date varies",
+      "schedules": []
+    },
+    {
+      "name": "Walker Senior Center (mobile food drop)",
+      "org": "Walker Senior Center (mobile food drop)",
+      "address": "399 Mule Deer Rd, Walker, CA 96107",
+      "phone": "(775) 331-3663",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "date varies",
+      "schedules": []
+    }
+  ]
+}

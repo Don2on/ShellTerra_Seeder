@@ -1,0 +1,193 @@
+{
+  "_meta": {
+    "topic": "Tuolumne County food distributions",
+    "generated": "2026-10-11",
+    "source": "Hand-collected list (Trinity County Food Bank, Central California Food Bank, ATCAA/Feed America). Schedules parsed via LA clause parser.",
+    "note": "Drop-in raw for prepare-food-additions.mjs."
+  },
+  "sites": [
+    {
+      "name": "Nancy's Hope Columbia Pantry",
+      "org": "Nancy's Hope Columbia Pantry",
+      "address": "11151 Jackson St, Columbia, CA 95310",
+      "phone": "209-984-3960",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Sat 10am-2pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat"
+          ],
+          "open": "10:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Mary Laveroni Community Park (distribution)",
+      "org": "Mary Laveroni Community Park (distribution)",
+      "address": "18950 CA-120, Groveland, CA 95321",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 9am-10:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "ATCAA Pantry / Interfaith Community Social Services",
+      "org": "ATCAA Pantry / Interfaith Community Social Services",
+      "address": "18500 Striker Ct, Sonora, CA 95370",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 10am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Nancy's Hope Sonora Pantry",
+      "org": "Nancy's Hope Sonora Pantry",
+      "address": "797 W. Stockton Street, Sonora, CA 95370",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Sat 10am-2pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat"
+          ],
+          "open": "10:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Mono Way distribution (old Burger King lot)",
+      "org": "Mono Way distribution (old Burger King lot)",
+      "address": "13796 Mono Way, Sonora, CA 95370",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 12:30pm-2pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "12:30",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Patrick's Church",
+      "org": "St. Patrick's Church",
+      "address": "116 Bradford St, Sonora, CA 95370",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue and Thu 6:30am-8am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "open": "06:30",
+          "close": "08:00"
+        }
+      ]
+    },
+    {
+      "name": "ATCAA Tuolumne Pantry",
+      "org": "ATCAA Tuolumne Pantry",
+      "address": "18851 Cedar St, Tuolumne, CA 95379",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 8am-3pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "08:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Eproson Park (distribution)",
+      "org": "Eproson Park (distribution)",
+      "address": "22901 Meadow Dr, Twain Harte, CA 95383",
+      "phone": "209-984-3960",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 10am-11:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "10:00",
+          "close": "11:30"
+        }
+      ]
+    }
+  ]
+}

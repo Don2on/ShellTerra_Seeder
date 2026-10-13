@@ -1,0 +1,3614 @@
+{
+  "_meta": {
+    "topic": "Net-new Sonoma County food distributions",
+    "generated": "2026-10-05",
+    "source": "Research supplementing shell PENDING-Sonoma; raw ./SonomaAdditions-raw.json."
+  },
+  "_deferred": {
+    "add-cots-mary-isaak-center-meals": {
+      "title": "COTS Mary Isaak Center (meals)",
+      "status": "Daily 11:30am-12:30pm and 5pm-6pm",
+      "address": "900 Hopper St, Petaluma, CA 94952",
+      "lat": 38.23365,
+      "lng": -122.62323,
+      "phone": "",
+      "eligibility": "",
+      "sourceUrl": "https://getfood.refb.org"
+    }
+  },
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "add-bodega-bay-church-m234353-1500",
+      "seriesSlug": "add-bodega-bay-church",
+      "title": "Bodega Bay Church — Free Food",
+      "description": "Free food at Bodega Bay Church. Schedule: 2nd Wed & 4th Wed & 5th Wed 3 PM–4 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Bodega Bay Church",
+      "address": "1320 Bay View St, Bodega Bay, CA 94923",
+      "lat": 38.3351,
+      "lng": -123.046319,
+      "category": "food-assistance",
+      "sourceOrg": "Bodega Bay Church",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "2nd Wed & 4th Wed & 5th Wed 3 PM–4 PM",
+      "start": "2026-10-07T15:00",
+      "end": "2026-10-07T16:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 5,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "2:3,4:3,5:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-waves-of-compassion-bodega-bay-m1333-1530",
+      "seriesSlug": "add-waves-of-compassion-bodega-bay",
+      "title": "Waves of Compassion Bodega Bay — Free Food",
+      "description": "Free food at Waves of Compassion Bodega Bay. Schedule: 1st Wed & 3rd Wed 3:30 PM–5 PM. Call 707-595-0294 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Waves of Compassion Bodega Bay",
+      "address": "1370 Bodega Ave, Bodega Bay, CA 94923",
+      "lat": 38.335049,
+      "lng": -123.047912,
+      "category": "food-assistance",
+      "sourceOrg": "Waves of Compassion Bodega Bay",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "1st Wed & 3rd Wed 3:30 PM–5 PM",
+      "start": "2026-10-07T15:30",
+      "end": "2026-10-07T17:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "1:3,3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-cloverdale-citrus-fairgrounds-w1-1530",
+      "seriesSlug": "add-cloverdale-citrus-fairgrounds",
+      "title": "Cloverdale Citrus Fairgrounds — Free Food",
+      "description": "Free food at Cloverdale Citrus Fairgrounds. Schedule: Mon 3:30 PM–4:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Cloverdale Citrus Fairgrounds",
+      "address": "1 Citrus Fair Dr, Cloverdale, CA 95425",
+      "lat": 38.802421,
+      "lng": -123.017652,
+      "category": "food-assistance",
+      "sourceOrg": "Cloverdale Citrus Fairgrounds",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Mon 3:30 PM–4:30 PM",
+      "start": "2026-09-28T15:30",
+      "end": "2026-09-28T16:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-cloverdale-food-pantry-w5-1100",
+      "seriesSlug": "add-cloverdale-food-pantry",
+      "title": "Cloverdale Food Pantry — Free Food",
+      "description": "Free food at Cloverdale Food Pantry. Schedule: Fri 11 AM–1 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Cloverdale Food Pantry",
+      "address": "202 Commercial St, Cloverdale, CA 95425",
+      "lat": 38.80613,
+      "lng": -123.0188,
+      "category": "food-assistance",
+      "sourceOrg": "Cloverdale Food Pantry",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Fri 11 AM–1 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-cloverdale-lds-church-w4-1000",
+      "seriesSlug": "add-cloverdale-lds-church",
+      "title": "Cloverdale LDS Church — Free Food",
+      "description": "Free food at Cloverdale LDS Church. Schedule: Thu 10 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Cloverdale LDS Church",
+      "address": "1101 S Cloverdale Blvd, Cloverdale, CA 95425",
+      "lat": 38.785841,
+      "lng": -123.014659,
+      "category": "food-assistance",
+      "sourceOrg": "Cloverdale LDS Church",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Thu 10 AM–11 AM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-la-familia-sana-m2242-1500",
+      "seriesSlug": "add-la-familia-sana",
+      "title": "La Familia Sana — Free Food",
+      "description": "Free food at La Familia Sana. Schedule: 2nd Tue & 4th Tue 3 PM–4:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "La Familia Sana",
+      "address": "439 N. Cloverdale Blvd, Cloverdale, CA 95425",
+      "lat": 38.810055,
+      "lng": -123.021037,
+      "category": "food-assistance",
+      "sourceOrg": "La Familia Sana",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "2nd Tue & 4th Tue 3 PM–4:30 PM",
+      "start": "2026-10-06T15:00",
+      "end": "2026-10-06T16:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 2
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "2:2,4:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-new-hope-market-w4-1600",
+      "seriesSlug": "add-new-hope-market",
+      "title": "New Hope Market — Free Food",
+      "description": "Free food at New Hope Market. Schedule: Thu 4 PM–6 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "New Hope Market",
+      "address": "183 E Cotati Ave, Cotati, CA 94931",
+      "lat": 38.32724,
+      "lng": -122.70336,
+      "category": "food-assistance",
+      "sourceOrg": "New Hope Market",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Thu 4 PM–6 PM",
+      "start": "2026-09-28T16:00",
+      "end": "2026-09-28T18:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-joseph-church-w2-0930",
+      "seriesSlug": "add-st-joseph-church",
+      "title": "St. Joseph Church — Free Food",
+      "description": "Free food at St. Joseph Church. Schedule: Tue 9:30 AM–10:30 AM; Fri 9:30 AM–10:30 AM. Call 707-584-1579 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Joseph Church",
+      "address": "150 St Joseph Way, Cotati, CA 94931",
+      "lat": 38.327481,
+      "lng": -122.711879,
+      "category": "food-assistance",
+      "sourceOrg": "St. Joseph Church",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Tue 9:30 AM–10:30 AM; Fri 9:30 AM–10:30 AM",
+      "start": "2026-09-28T09:30",
+      "end": "2026-09-28T10:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-joseph-church-w5-0930",
+      "seriesSlug": "add-st-joseph-church",
+      "title": "St. Joseph Church — Free Food",
+      "description": "Free food at St. Joseph Church. Schedule: Tue 9:30 AM–10:30 AM; Fri 9:30 AM–10:30 AM. Call 707-584-1579 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Joseph Church",
+      "address": "150 St Joseph Way, Cotati, CA 94931",
+      "lat": 38.327481,
+      "lng": -122.711879,
+      "category": "food-assistance",
+      "sourceOrg": "St. Joseph Church",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Tue 9:30 AM–10:30 AM; Fri 9:30 AM–10:30 AM",
+      "start": "2026-09-28T09:30",
+      "end": "2026-09-28T10:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-thomas-page-academy-m1535-1300",
+      "seriesSlug": "add-thomas-page-academy",
+      "title": "Thomas Page Academy — Free Food",
+      "description": "Free food at Thomas Page Academy. Schedule: 1st Fri & 3rd Fri 1 PM–2 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Thomas Page Academy",
+      "address": "1075 Madrone Ave, Cotati, CA 94931",
+      "lat": 38.33036,
+      "lng": -122.72564,
+      "category": "food-assistance",
+      "sourceOrg": "Thomas Page Academy",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "1st Fri & 3rd Fri 1 PM–2 PM",
+      "start": "2026-10-09T13:00",
+      "end": "2026-10-09T14:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "1:5,3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-windwood-apartments-m22-1500",
+      "seriesSlug": "add-windwood-apartments",
+      "title": "Windwood Apartments — Free Food",
+      "description": "Free food at Windwood Apartments. Schedule: 2nd Tue 3 PM–4 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Windwood Apartments",
+      "address": "298 E Cotati Ave, Cotati, CA 94931",
+      "lat": 38.327146,
+      "lng": -122.701801,
+      "category": "food-assistance",
+      "sourceOrg": "Windwood Apartments",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "2nd Tue 3 PM–4 PM",
+      "start": "2026-10-06T15:00",
+      "end": "2026-10-06T16:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "2:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-food-for-thought-w234-1000",
+      "seriesSlug": "add-food-for-thought",
+      "title": "Food For Thought — Free Food",
+      "description": "Free food at Food For Thought. Schedule: Tue–Thu 10 AM–4:30 PM; Fri 10 AM–4 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Food For Thought",
+      "address": "6550 Railroad Ave, Forestville, CA 95436",
+      "lat": 38.472613,
+      "lng": -122.89088,
+      "category": "food-assistance",
+      "sourceOrg": "Food For Thought",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Tue–Thu 10 AM–4:30 PM; Fri 10 AM–4 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T16:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-food-for-thought-w5-1000",
+      "seriesSlug": "add-food-for-thought",
+      "title": "Food For Thought — Free Food",
+      "description": "Free food at Food For Thought. Schedule: Tue–Thu 10 AM–4:30 PM; Fri 10 AM–4 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Food For Thought",
+      "address": "6550 Railroad Ave, Forestville, CA 95436",
+      "lat": 38.472613,
+      "lng": -122.89088,
+      "category": "food-assistance",
+      "sourceOrg": "Food For Thought",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Tue–Thu 10 AM–4:30 PM; Fri 10 AM–4 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-forestville-united-methodist-church-m2343-1100",
+      "seriesSlug": "add-forestville-united-methodist-church",
+      "title": "Forestville United Methodist Church — Free Food",
+      "description": "Free food at Forestville United Methodist Church. Schedule: 2nd Wed & 4th Wed 11 AM–12 PM. Call 707-887-2020 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Forestville United Methodist Church",
+      "address": "6550 Covey Rd, Forestville, CA 95436",
+      "lat": 38.47435,
+      "lng": -122.89043,
+      "category": "food-assistance",
+      "sourceOrg": "Forestville United Methodist Church",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "2nd Wed & 4th Wed 11 AM–12 PM",
+      "start": "2026-10-07T11:00",
+      "end": "2026-10-07T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "2:3,4:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-spring-hills-church-w1-1100",
+      "seriesSlug": "add-spring-hills-church",
+      "title": "Spring Hills Church — Free Food",
+      "description": "Free food at Spring Hills Church. Schedule: Mon 11 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Spring Hills Church",
+      "address": "3700 Fulton Rd, Fulton, CA 95439",
+      "lat": 38.498843,
+      "lng": -122.768408,
+      "category": "food-assistance",
+      "sourceOrg": "Spring Hills Church",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Mon 11 AM–12 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-geyserville-new-tech-academy-w1-1630",
+      "seriesSlug": "add-geyserville-new-tech-academy",
+      "title": "Geyserville New Tech Academy — Free Food",
+      "description": "Free food at Geyserville New Tech Academy. Schedule: Mon 4:30 PM–5:15 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Geyserville New Tech Academy",
+      "address": "1300 Moody Ln, Geyserville, CA 95441",
+      "lat": 38.72048,
+      "lng": -122.89102,
+      "category": "food-assistance",
+      "sourceOrg": "Geyserville New Tech Academy",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Mon 4:30 PM–5:15 PM",
+      "start": "2026-09-28T16:30",
+      "end": "2026-09-28T17:15",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-graton-day-labor-center-m2545-0930",
+      "seriesSlug": "add-graton-day-labor-center",
+      "title": "Graton Day Labor Center — Free Food",
+      "description": "Free food at Graton Day Labor Center. Schedule: 2nd Fri & 4th Fri 9:30 AM–10:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Graton Day Labor Center",
+      "address": "2981 Bowen St, Graton, CA 95444",
+      "lat": 38.434687,
+      "lng": -122.869264,
+      "category": "food-assistance",
+      "sourceOrg": "Graton Day Labor Center",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "2nd Fri & 4th Fri 9:30 AM–10:30 AM",
+      "start": "2026-10-09T09:30",
+      "end": "2026-10-09T10:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "2:5,4:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-guerneville-school-w2-1330",
+      "seriesSlug": "add-guerneville-school",
+      "title": "Guerneville School — Free Food",
+      "description": "Free food at Guerneville School. Schedule: Tue 1:30 PM–2:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Guerneville School",
+      "address": "14630 Armstrong Woods Rd, Guerneville, CA 95446",
+      "lat": 38.510392,
+      "lng": -122.996337,
+      "category": "food-assistance",
+      "sourceOrg": "Guerneville School",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Tue 1:30 PM–2:30 PM",
+      "start": "2026-09-28T13:30",
+      "end": "2026-09-28T14:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-river-to-coast-children-s-services-w4-1400",
+      "seriesSlug": "add-river-to-coast-children-s-services",
+      "title": "River to Coast Children's Services — Free Food",
+      "description": "Free food at River to Coast Children's Services. Schedule: Thu 2 PM–4:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "River to Coast Children's Services",
+      "address": "16300 First St, Guerneville, CA 95446",
+      "lat": 38.501473,
+      "lng": -122.998949,
+      "category": "food-assistance",
+      "sourceOrg": "River to Coast Children's Services",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Thu 2 PM–4:30 PM",
+      "start": "2026-09-28T14:00",
+      "end": "2026-09-28T16:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-russian-river-food-pantry-salvation-army-and-svd-m2646-0900",
+      "seriesSlug": "add-russian-river-food-pantry-salvation-army-and-svd",
+      "title": "Russian River Food Pantry (Salvation Army and SVdP) — Free Food",
+      "description": "Free food at Russian River Food Pantry (Salvation Army and SVdP). Schedule: 2nd Sat & 4th Sat 9 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Russian River Food Pantry (Salvation Army and SVdP)",
+      "address": "16290 5th St, Guerneville, CA 95446",
+      "lat": 38.50341,
+      "lng": -122.99819,
+      "category": "food-assistance",
+      "sourceOrg": "Russian River Food Pantry (Salvation Army and SVdP)",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "2nd Sat & 4th Sat 9 AM–12 PM",
+      "start": "2026-10-10T09:00",
+      "end": "2026-10-10T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6,4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-hubert-s-hall-w3-1130",
+      "seriesSlug": "add-st-hubert-s-hall",
+      "title": "St. Hubert's Hall — Free Food",
+      "description": "Free food at St. Hubert's Hall. Schedule: Wed 11:30 AM–12:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Hubert's Hall",
+      "address": "16290 5th St, Guerneville, CA 95446",
+      "lat": 38.50341,
+      "lng": -122.99819,
+      "category": "food-assistance",
+      "sourceOrg": "St. Hubert's Hall",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Wed 11:30 AM–12:30 PM",
+      "start": "2026-09-28T11:30",
+      "end": "2026-09-28T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-alliance-medical-center-healdsburg-w2-0900",
+      "seriesSlug": "add-alliance-medical-center-healdsburg",
+      "title": "Alliance Medical Center - Healdsburg — Free Food",
+      "description": "Free food at Alliance Medical Center - Healdsburg. Schedule: Tue 9 AM–9:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Alliance Medical Center - Healdsburg",
+      "address": "1381 University Ave, Healdsburg, CA 95448",
+      "lat": 38.62736,
+      "lng": -122.86549,
+      "category": "food-assistance",
+      "sourceOrg": "Alliance Medical Center - Healdsburg",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Tue 9 AM–9:30 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T09:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-corazon-healdsburg-w2-0930",
+      "seriesSlug": "add-corazon-healdsburg",
+      "title": "Corazon Healdsburg — Free Food",
+      "description": "Free food at Corazon Healdsburg. Schedule: Tue 9:30 AM–10:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Corazon Healdsburg",
+      "address": "1557 Healdsburg Ave, Healdsburg, CA 95448",
+      "lat": 38.63283,
+      "lng": -122.87397,
+      "category": "food-assistance",
+      "sourceOrg": "Corazon Healdsburg",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Tue 9:30 AM–10:30 AM",
+      "start": "2026-09-28T09:30",
+      "end": "2026-09-28T10:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-healdsburg-recreation-park-w3-1400",
+      "seriesSlug": "add-healdsburg-recreation-park",
+      "title": "Healdsburg Recreation Park — Free Food",
+      "description": "Free food at Healdsburg Recreation Park. Schedule: Wed 2 PM–3 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Healdsburg Recreation Park",
+      "address": "515 Piper St, Healdsburg, CA 95448",
+      "lat": 38.61432,
+      "lng": -122.86249,
+      "category": "food-assistance",
+      "sourceOrg": "Healdsburg Recreation Park",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Wed 2 PM–3 PM",
+      "start": "2026-09-28T14:00",
+      "end": "2026-09-28T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-healdsburg-shared-ministries-w2-1500",
+      "seriesSlug": "add-healdsburg-shared-ministries",
+      "title": "Healdsburg Shared Ministries — Free Food",
+      "description": "Free food at Healdsburg Shared Ministries. Schedule: Tue 3 PM–4:30 PM; Wed, Fri 2:30 PM–5 PM; Thu 12 PM–1 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Healdsburg Shared Ministries",
+      "address": "1505 Healdsburg Ave, Healdsburg, CA 95448",
+      "lat": 38.62933,
+      "lng": -122.87282,
+      "category": "food-assistance",
+      "sourceOrg": "Healdsburg Shared Ministries",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Tue 3 PM–4:30 PM; Wed, Fri 2:30 PM–5 PM; Thu 12 PM–1 PM",
+      "start": "2026-09-28T15:00",
+      "end": "2026-09-28T16:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-healdsburg-shared-ministries-w35-1430",
+      "seriesSlug": "add-healdsburg-shared-ministries",
+      "title": "Healdsburg Shared Ministries — Free Food",
+      "description": "Free food at Healdsburg Shared Ministries. Schedule: Tue 3 PM–4:30 PM; Wed, Fri 2:30 PM–5 PM; Thu 12 PM–1 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Healdsburg Shared Ministries",
+      "address": "1505 Healdsburg Ave, Healdsburg, CA 95448",
+      "lat": 38.62933,
+      "lng": -122.87282,
+      "category": "food-assistance",
+      "sourceOrg": "Healdsburg Shared Ministries",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Tue 3 PM–4:30 PM; Wed, Fri 2:30 PM–5 PM; Thu 12 PM–1 PM",
+      "start": "2026-09-28T14:30",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-healdsburg-shared-ministries-w4-1200",
+      "seriesSlug": "add-healdsburg-shared-ministries",
+      "title": "Healdsburg Shared Ministries — Free Food",
+      "description": "Free food at Healdsburg Shared Ministries. Schedule: Tue 3 PM–4:30 PM; Wed, Fri 2:30 PM–5 PM; Thu 12 PM–1 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Healdsburg Shared Ministries",
+      "address": "1505 Healdsburg Ave, Healdsburg, CA 95448",
+      "lat": 38.62933,
+      "lng": -122.87282,
+      "category": "food-assistance",
+      "sourceOrg": "Healdsburg Shared Ministries",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Tue 3 PM–4:30 PM; Wed, Fri 2:30 PM–5 PM; Thu 12 PM–1 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-trinity-baptist-church-w6-0800",
+      "seriesSlug": "add-trinity-baptist-church",
+      "title": "Trinity Baptist Church — Free Food",
+      "description": "Free food at Trinity Baptist Church. Schedule: Sat 8 AM–9:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Trinity Baptist Church",
+      "address": "515 Powell Ave, Healdsburg, CA 95448",
+      "lat": 38.62117,
+      "lng": -122.86267,
+      "category": "food-assistance",
+      "sourceOrg": "Trinity Baptist Church",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Sat 8 AM–9:30 AM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T09:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-jenner-community-center-m23-1100",
+      "seriesSlug": "add-jenner-community-center",
+      "title": "Jenner Community Center — Free Food",
+      "description": "Free food at Jenner Community Center. Schedule: 2nd Wed 11 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Jenner Community Center",
+      "address": "10398 CA-1, Jenner, CA 95450",
+      "lat": 38.447889,
+      "lng": -123.113838,
+      "category": "food-assistance",
+      "sourceOrg": "Jenner Community Center",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "2nd Wed 11 AM–12 PM",
+      "start": "2026-10-07T11:00",
+      "end": "2026-10-07T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "2:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-monte-rio-community-center-w3-1500",
+      "seriesSlug": "add-monte-rio-community-center",
+      "title": "Monte Rio Community Center — Free Food",
+      "description": "Free food at Monte Rio Community Center. Schedule: Wed 3 PM–4 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Monte Rio Community Center",
+      "address": "20488 CA-116, Monte Rio, CA 95462",
+      "lat": 38.468115,
+      "lng": -123.011883,
+      "category": "food-assistance",
+      "sourceOrg": "Monte Rio Community Center",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Wed 3 PM–4 PM",
+      "start": "2026-09-28T15:00",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-philip-church-m22-0800",
+      "seriesSlug": "add-st-philip-church",
+      "title": "St. Philip Church — Free Food",
+      "description": "Free food at St. Philip Church. Schedule: 2nd Tue 8 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Philip Church",
+      "address": "3730 Bohemian Hwy, Occidental, CA 95465",
+      "lat": 38.408465,
+      "lng": -122.94871,
+      "category": "food-assistance",
+      "sourceOrg": "St. Philip Church",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "2nd Tue 8 AM–11 AM",
+      "start": "2026-10-06T08:00",
+      "end": "2026-10-06T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "2:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-elim-lutheran-church-westside-pantry-w4-1700",
+      "seriesSlug": "add-elim-lutheran-church-westside-pantry",
+      "title": "Elim Lutheran Church (Westside Pantry) — Free Food",
+      "description": "Free food at Elim Lutheran Church (Westside Pantry). Schedule: Thu 5 PM–5:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Elim Lutheran Church (Westside Pantry)",
+      "address": "220 Stanley St, Petaluma, CA 94952",
+      "lat": 38.232029,
+      "lng": -122.648231,
+      "category": "food-assistance",
+      "sourceOrg": "Elim Lutheran Church (Westside Pantry)",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Thu 5 PM–5:30 PM",
+      "start": "2026-09-28T17:00",
+      "end": "2026-09-28T17:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-mcdowell-elementary-w5-1000",
+      "seriesSlug": "add-mcdowell-elementary",
+      "title": "McDowell Elementary — Free Food",
+      "description": "Free food at McDowell Elementary. Schedule: Fri 10 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "McDowell Elementary",
+      "address": "421 S McDowell Blvd, Petaluma, CA 94954",
+      "lat": 38.246748,
+      "lng": -122.620733,
+      "category": "food-assistance",
+      "sourceOrg": "McDowell Elementary",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Fri 10 AM–11 AM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-miwok-valley-elementary-w2-1600",
+      "seriesSlug": "add-miwok-valley-elementary",
+      "title": "Miwok Valley Elementary — Free Food",
+      "description": "Free food at Miwok Valley Elementary. Schedule: Tue 4 PM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Miwok Valley Elementary",
+      "address": "1010 St Francis Dr, Petaluma, CA 94954",
+      "lat": 38.23595,
+      "lng": -122.61026,
+      "category": "food-assistance",
+      "sourceOrg": "Miwok Valley Elementary",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Tue 4 PM–5 PM",
+      "start": "2026-09-28T16:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-new-life-christian-fellowship-w2-1000",
+      "seriesSlug": "add-new-life-christian-fellowship",
+      "title": "New Life Christian Fellowship — Free Food",
+      "description": "Free food at New Life Christian Fellowship. Schedule: Tue 10 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "New Life Christian Fellowship",
+      "address": "1310 Clegg St, Petaluma, CA 94954",
+      "lat": 38.267486,
+      "lng": -122.661772,
+      "category": "food-assistance",
+      "sourceOrg": "New Life Christian Fellowship",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Tue 10 AM–11 AM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-park-lane-apartments-m25-0930",
+      "seriesSlug": "add-park-lane-apartments",
+      "title": "Park Lane Apartments — Free Food",
+      "description": "Free food at Park Lane Apartments. Schedule: 2nd Fri 9:30 AM–10:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Park Lane Apartments",
+      "address": "109 Magnolia Ave, Petaluma, CA 94952",
+      "lat": 38.244105,
+      "lng": -122.646391,
+      "category": "food-assistance",
+      "sourceOrg": "Park Lane Apartments",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "2nd Fri 9:30 AM–10:30 AM",
+      "start": "2026-10-09T09:30",
+      "end": "2026-10-09T10:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "2:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-petaluma-community-center-w4-1130",
+      "seriesSlug": "add-petaluma-community-center",
+      "title": "Petaluma Community Center — Free Food",
+      "description": "Free food at Petaluma Community Center. Schedule: Thu 11:30 AM–12:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Petaluma Community Center",
+      "address": "320 N McDowell Blvd, Petaluma, CA 94954",
+      "lat": 38.25279,
+      "lng": -122.63035,
+      "category": "food-assistance",
+      "sourceOrg": "Petaluma Community Center",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Thu 11:30 AM–12:30 PM",
+      "start": "2026-09-28T11:30",
+      "end": "2026-09-28T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-petaluma-fairgrounds-w5-0900",
+      "seriesSlug": "add-petaluma-fairgrounds",
+      "title": "Petaluma Fairgrounds — Free Food",
+      "description": "Free food at Petaluma Fairgrounds. Schedule: Fri 9 AM–10 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Petaluma Fairgrounds",
+      "address": "175 Fairgrounds Dr, Petaluma, CA 94952",
+      "lat": 38.24094,
+      "lng": -122.629001,
+      "category": "food-assistance",
+      "sourceOrg": "Petaluma Fairgrounds",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Fri 9 AM–10 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T10:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-petaluma-senior-center-m1535-0800",
+      "seriesSlug": "add-petaluma-senior-center",
+      "title": "Petaluma Senior Center — Free Food",
+      "description": "Free food at Petaluma Senior Center. Schedule: 1st Fri & 3rd Fri 8 AM–9 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Petaluma Senior Center",
+      "address": "320 N McDowell Blvd, Petaluma, CA 94954",
+      "lat": 38.25279,
+      "lng": -122.63035,
+      "category": "food-assistance",
+      "sourceOrg": "Petaluma Senior Center",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "1st Fri & 3rd Fri 8 AM–9 AM",
+      "start": "2026-10-09T08:00",
+      "end": "2026-10-09T09:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "1:5,3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-salvation-army-petaluma-w234-0900",
+      "seriesSlug": "add-salvation-army-petaluma",
+      "title": "Salvation Army Petaluma — Free Food",
+      "description": "Free food at Salvation Army Petaluma. Schedule: Tue–Thu 9 AM–12 PM; Tue 1 PM–3:15 PM; Wed, Fri 9 AM–10:45 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salvation Army Petaluma",
+      "address": "721 S McDowell Blvd, Petaluma, CA 94954",
+      "lat": 38.24401,
+      "lng": -122.61557,
+      "category": "food-assistance",
+      "sourceOrg": "Salvation Army Petaluma",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Tue–Thu 9 AM–12 PM; Tue 1 PM–3:15 PM; Wed, Fri 9 AM–10:45 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-salvation-army-petaluma-w2-1300",
+      "seriesSlug": "add-salvation-army-petaluma",
+      "title": "Salvation Army Petaluma — Free Food",
+      "description": "Free food at Salvation Army Petaluma. Schedule: Tue–Thu 9 AM–12 PM; Tue 1 PM–3:15 PM; Wed, Fri 9 AM–10:45 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salvation Army Petaluma",
+      "address": "721 S McDowell Blvd, Petaluma, CA 94954",
+      "lat": 38.24401,
+      "lng": -122.61557,
+      "category": "food-assistance",
+      "sourceOrg": "Salvation Army Petaluma",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Tue–Thu 9 AM–12 PM; Tue 1 PM–3:15 PM; Wed, Fri 9 AM–10:45 AM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T15:15",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-salvation-army-petaluma-w35-0900",
+      "seriesSlug": "add-salvation-army-petaluma",
+      "title": "Salvation Army Petaluma — Free Food",
+      "description": "Free food at Salvation Army Petaluma. Schedule: Tue–Thu 9 AM–12 PM; Tue 1 PM–3:15 PM; Wed, Fri 9 AM–10:45 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salvation Army Petaluma",
+      "address": "721 S McDowell Blvd, Petaluma, CA 94954",
+      "lat": 38.24401,
+      "lng": -122.61557,
+      "category": "food-assistance",
+      "sourceOrg": "Salvation Army Petaluma",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Tue–Thu 9 AM–12 PM; Tue 1 PM–3:15 PM; Wed, Fri 9 AM–10:45 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T10:45",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-santa-rosa-junior-college-petaluma-m12-1200",
+      "seriesSlug": "add-santa-rosa-junior-college-petaluma",
+      "title": "Santa Rosa Junior College Petaluma — Free Food",
+      "description": "Free food at Santa Rosa Junior College Petaluma. Schedule: 1st Tue 12 PM–2 PM. Call 707-778-4124 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Santa Rosa Junior College Petaluma",
+      "address": "680 Sonoma Mountain Parkway, Petaluma, CA 94954",
+      "lat": 38.268631,
+      "lng": -122.634706,
+      "category": "food-assistance",
+      "sourceOrg": "Santa Rosa Junior College Petaluma",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "1st Tue 12 PM–2 PM",
+      "start": "2026-10-06T12:00",
+      "end": "2026-10-06T14:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "1:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-two-rock-elementary-m2545-0900",
+      "seriesSlug": "add-two-rock-elementary",
+      "title": "Two Rock Elementary — Free Food",
+      "description": "Free food at Two Rock Elementary. Schedule: 2nd Fri & 4th Fri 9 AM–10 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Two Rock Elementary",
+      "address": "5001 Spring Hill Rd, Petaluma, CA 94952",
+      "lat": 38.255156,
+      "lng": -122.778866,
+      "category": "food-assistance",
+      "sourceOrg": "Two Rock Elementary",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "2nd Fri & 4th Fri 9 AM–10 AM",
+      "start": "2026-10-09T09:00",
+      "end": "2026-10-09T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "2:5,4:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-una-vida-w3-1600",
+      "seriesSlug": "add-una-vida",
+      "title": "Una Vida — Free Food",
+      "description": "Free food at Una Vida. Schedule: Wed 4 PM–5:30 PM; Thu, Sat 2 PM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Una Vida",
+      "address": "1315 Rand Street, Petaluma, CA 94954",
+      "lat": 38.267409,
+      "lng": -122.661863,
+      "category": "food-assistance",
+      "sourceOrg": "Una Vida",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Wed 4 PM–5:30 PM; Thu, Sat 2 PM–5 PM",
+      "start": "2026-09-28T16:00",
+      "end": "2026-09-28T17:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-una-vida-w46-1400",
+      "seriesSlug": "add-una-vida",
+      "title": "Una Vida — Free Food",
+      "description": "Free food at Una Vida. Schedule: Wed 4 PM–5:30 PM; Thu, Sat 2 PM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Una Vida",
+      "address": "1315 Rand Street, Petaluma, CA 94954",
+      "lat": 38.267409,
+      "lng": -122.661863,
+      "category": "food-assistance",
+      "sourceOrg": "Una Vida",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Wed 4 PM–5:30 PM; Thu, Sat 2 PM–5 PM",
+      "start": "2026-09-28T14:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4,6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-alicia-park-w4-1000",
+      "seriesSlug": "add-alicia-park",
+      "title": "Alicia Park — Free Food",
+      "description": "Free food at Alicia Park. Schedule: Thu 10 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Alicia Park",
+      "address": "299 Santa Alicia Dr, Rohnert Park, CA 94928",
+      "lat": 38.341686,
+      "lng": -122.708681,
+      "category": "food-assistance",
+      "sourceOrg": "Alicia Park",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Thu 10 AM–11 AM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-cpi-family-resource-center-at-john-reed-elementa-w12345-0900",
+      "seriesSlug": "add-cpi-family-resource-center-at-john-reed-elementa",
+      "title": "CPI Family Resource Center at John Reed Elementary — Free Food",
+      "description": "Free food at CPI Family Resource Center at John Reed Elementary. Schedule: Mon–Fri 9 AM–5 PM. Call 707-792-4732 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "CPI Family Resource Center at John Reed Elementary",
+      "address": "390 Arlen Dr, Rohnert Park, CA 94928",
+      "lat": 38.340278,
+      "lng": -122.705892,
+      "category": "food-assistance",
+      "sourceOrg": "CPI Family Resource Center at John Reed Elementary",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Mon–Fri 9 AM–5 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-iglesia-cristiana-se-m2747-1300",
+      "seriesSlug": "add-iglesia-cristiana-se",
+      "title": "Iglesia Cristiana SE — Free Food",
+      "description": "Free food at Iglesia Cristiana SE. Schedule: 2nd Sun & 4th Sun 1 PM–1:30 PM. Call 707-484-5918 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Iglesia Cristiana SE",
+      "address": "6640 Redwood Dr, Rohnert Park, CA 94928",
+      "lat": 38.34467,
+      "lng": -122.713783,
+      "category": "food-assistance",
+      "sourceOrg": "Iglesia Cristiana SE",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "2nd Sun & 4th Sun 1 PM–1:30 PM",
+      "start": "2026-10-11T13:00",
+      "end": "2026-10-11T13:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 7
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 7
+          }
+        ]
+      },
+      "recurDays": "2:7,4:7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-iglesia-josue-at-rohnert-park-community-center-m2646-0900",
+      "seriesSlug": "add-iglesia-josue-at-rohnert-park-community-center",
+      "title": "Iglesia Josue at Rohnert Park Community Center — Free Food",
+      "description": "Free food at Iglesia Josue at Rohnert Park Community Center. Schedule: 2nd Sat & 4th Sat 9 AM–10 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Iglesia Josue at Rohnert Park Community Center",
+      "address": "5401 Snyder Ln, Rohnert Park, CA 94928",
+      "lat": 38.344588,
+      "lng": -122.686553,
+      "category": "food-assistance",
+      "sourceOrg": "Iglesia Josue at Rohnert Park Community Center",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "2nd Sat & 4th Sat 9 AM–10 AM",
+      "start": "2026-10-10T09:00",
+      "end": "2026-10-10T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6,4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-john-reed-elementary-m2545-1300",
+      "seriesSlug": "add-john-reed-elementary",
+      "title": "John Reed Elementary — Free Food",
+      "description": "Free food at John Reed Elementary. Schedule: 2nd Fri & 4th Fri 1 PM–2:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "John Reed Elementary",
+      "address": "390 Arlen Dr, Rohnert Park, CA 94928",
+      "lat": 38.340278,
+      "lng": -122.705892,
+      "category": "food-assistance",
+      "sourceOrg": "John Reed Elementary",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "2nd Fri & 4th Fri 1 PM–2:30 PM",
+      "start": "2026-10-09T13:00",
+      "end": "2026-10-09T14:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "2:5,4:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-neighbors-organized-against-hunger-noah-w3-1600",
+      "seriesSlug": "add-neighbors-organized-against-hunger-noah",
+      "title": "Neighbors Organized Against Hunger (NOAH) — Free Food",
+      "description": "Free food at Neighbors Organized Against Hunger (NOAH). Schedule: Wed 4 PM–6 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Neighbors Organized Against Hunger (NOAH)",
+      "address": "5443 Snyder Ln, Rohnert Park, CA 94928",
+      "lat": 38.34079,
+      "lng": -122.686234,
+      "category": "food-assistance",
+      "sourceOrg": "Neighbors Organized Against Hunger (NOAH)",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Wed 4 PM–6 PM",
+      "start": "2026-09-28T16:00",
+      "end": "2026-09-28T18:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-petaluma-health-center-rohnert-park-w1-0845",
+      "seriesSlug": "add-petaluma-health-center-rohnert-park",
+      "title": "Petaluma Health Center - Rohnert Park — Free Food",
+      "description": "Free food at Petaluma Health Center - Rohnert Park. Schedule: Mon 8:45 AM–9:45 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Petaluma Health Center - Rohnert Park",
+      "address": "5900 State Farm Dr, Rohnert Park, CA 94928",
+      "lat": 38.353883,
+      "lng": -122.706624,
+      "category": "food-assistance",
+      "sourceOrg": "Petaluma Health Center - Rohnert Park",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Mon 8:45 AM–9:45 AM",
+      "start": "2026-09-28T08:45",
+      "end": "2026-09-28T09:45",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-primera-iglesia-bautista-w7-1700",
+      "seriesSlug": "add-primera-iglesia-bautista",
+      "title": "Primera Iglesia Bautista — Free Food",
+      "description": "Free food at Primera Iglesia Bautista. Schedule: Sun 5 PM–5:15 PM; Thu 8 PM–8:15 PM. Call 510-533-5045 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Primera Iglesia Bautista",
+      "address": "5475 Snyder Lane, Rohnert Park, CA 94928",
+      "lat": 38.33998,
+      "lng": -122.686266,
+      "category": "food-assistance",
+      "sourceOrg": "Primera Iglesia Bautista",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Sun 5 PM–5:15 PM; Thu 8 PM–8:15 PM",
+      "start": "2026-09-28T17:00",
+      "end": "2026-09-28T17:15",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-primera-iglesia-bautista-w4-2000",
+      "seriesSlug": "add-primera-iglesia-bautista",
+      "title": "Primera Iglesia Bautista — Free Food",
+      "description": "Free food at Primera Iglesia Bautista. Schedule: Sun 5 PM–5:15 PM; Thu 8 PM–8:15 PM. Call 510-533-5045 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Primera Iglesia Bautista",
+      "address": "5475 Snyder Lane, Rohnert Park, CA 94928",
+      "lat": 38.33998,
+      "lng": -122.686266,
+      "category": "food-assistance",
+      "sourceOrg": "Primera Iglesia Bautista",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Sun 5 PM–5:15 PM; Thu 8 PM–8:15 PM",
+      "start": "2026-09-28T20:00",
+      "end": "2026-09-28T20:15",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-rancho-grande-mobile-home-park-m25-1000",
+      "seriesSlug": "add-rancho-grande-mobile-home-park",
+      "title": "Rancho Grande Mobile Home Park — Free Food",
+      "description": "Free food at Rancho Grande Mobile Home Park. Schedule: 2nd Fri 10 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Rancho Grande Mobile Home Park",
+      "address": "5099 Snyder Ln, Rohnert Park, CA 94928",
+      "lat": 38.35292,
+      "lng": -122.688007,
+      "category": "food-assistance",
+      "sourceOrg": "Rancho Grande Mobile Home Park",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "2nd Fri 10 AM–11 AM",
+      "start": "2026-10-09T10:00",
+      "end": "2026-10-09T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "2:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-rancho-verde-mobile-home-park-m2242-1030",
+      "seriesSlug": "add-rancho-verde-mobile-home-park",
+      "title": "Rancho Verde Mobile Home Park — Free Food",
+      "description": "Free food at Rancho Verde Mobile Home Park. Schedule: 2nd Tue & 4th Tue 10:30 AM–11:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Rancho Verde Mobile Home Park",
+      "address": "750 Rohnert Park Expy, Rohnert Park, CA 94928",
+      "lat": 38.35007,
+      "lng": -122.72842,
+      "category": "food-assistance",
+      "sourceOrg": "Rancho Verde Mobile Home Park",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "2nd Tue & 4th Tue 10:30 AM–11:30 AM",
+      "start": "2026-10-06T10:30",
+      "end": "2026-10-06T11:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 2
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "2:2,4:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-rohnert-park-senior-center-m45-1000",
+      "seriesSlug": "add-rohnert-park-senior-center",
+      "title": "Rohnert Park Senior Center — Free Food",
+      "description": "Free food at Rohnert Park Senior Center. Schedule: 4th Fri 10 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Rohnert Park Senior Center",
+      "address": "6800 Hunter Dr, Rohnert Park, CA 94928",
+      "lat": 38.34503,
+      "lng": -122.707756,
+      "category": "food-assistance",
+      "sourceOrg": "Rohnert Park Senior Center",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "4th Fri 10 AM–11 AM",
+      "start": "2026-10-09T10:00",
+      "end": "2026-10-09T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "4:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-elizabeth-seton-church-w3-1530",
+      "seriesSlug": "add-st-elizabeth-seton-church",
+      "title": "St. Elizabeth Seton Church — Free Food",
+      "description": "Free food at St. Elizabeth Seton Church. Schedule: Wed 3:30 PM–4:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Elizabeth Seton Church",
+      "address": "4595 Snyder Lane, Rohnert Park, CA 94928",
+      "lat": 38.36542,
+      "lng": -122.68636,
+      "category": "food-assistance",
+      "sourceOrg": "St. Elizabeth Seton Church",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Wed 3:30 PM–4:30 PM",
+      "start": "2026-09-28T15:30",
+      "end": "2026-09-28T16:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-tower-apartments-m1434-1230",
+      "seriesSlug": "add-tower-apartments",
+      "title": "Tower Apartments — Free Food",
+      "description": "Free food at Tower Apartments. Schedule: 1st Thu & 3rd Thu 12:30 PM–1 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Tower Apartments",
+      "address": "781 E Cotati Ave, Rohnert Park, CA 94928",
+      "lat": 38.331025,
+      "lng": -122.695746,
+      "category": "food-assistance",
+      "sourceOrg": "Tower Apartments",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "1st Thu & 3rd Thu 12:30 PM–1 PM",
+      "start": "2026-10-08T12:30",
+      "end": "2026-10-08T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4,3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-6th-street-playhouse-w4-1030",
+      "seriesSlug": "add-6th-street-playhouse",
+      "title": "6th Street Playhouse — Free Food",
+      "description": "Free food at 6th Street Playhouse. Schedule: Thu 10:30 AM–11:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "6th Street Playhouse",
+      "address": "52 W 6th St, Santa Rosa, CA 95401",
+      "lat": 38.437735,
+      "lng": -122.723499,
+      "category": "food-assistance",
+      "sourceOrg": "6th Street Playhouse",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Thu 10:30 AM–11:30 AM",
+      "start": "2026-09-28T10:30",
+      "end": "2026-09-28T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-acacia-lane-apartments-m2545-1030",
+      "seriesSlug": "add-acacia-lane-apartments",
+      "title": "Acacia Lane Apartments — Free Food",
+      "description": "Free food at Acacia Lane Apartments. Schedule: 2nd Fri & 4th Fri 10:30 AM–11:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Acacia Lane Apartments",
+      "address": "657 Acacia Ln, Santa Rosa, CA 95409",
+      "lat": 38.463362,
+      "lng": -122.670873,
+      "category": "food-assistance",
+      "sourceOrg": "Acacia Lane Apartments",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "2nd Fri & 4th Fri 10:30 AM–11:30 AM",
+      "start": "2026-10-09T10:30",
+      "end": "2026-10-09T11:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "2:5,4:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-bayer-park-w3-1430",
+      "seriesSlug": "add-bayer-park",
+      "title": "Bayer Park — Free Food",
+      "description": "Free food at Bayer Park. Schedule: Wed 2:30 PM–3 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Bayer Park",
+      "address": "1550 West Ave, Santa Rosa, CA 95407",
+      "lat": 38.4217,
+      "lng": -122.727327,
+      "category": "food-assistance",
+      "sourceOrg": "Bayer Park",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Wed 2:30 PM–3 PM",
+      "start": "2026-09-28T14:30",
+      "end": "2026-09-28T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-bayside-santa-rosa-w1-0800",
+      "seriesSlug": "add-bayside-santa-rosa",
+      "title": "Bayside Santa Rosa — Free Food",
+      "description": "Free food at Bayside Santa Rosa. Schedule: Mon 8 AM–9 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Bayside Santa Rosa",
+      "address": "3175 Sebastopol Rd, Santa Rosa, CA 95407",
+      "lat": 38.42735,
+      "lng": -122.75398,
+      "category": "food-assistance",
+      "sourceOrg": "Bayside Santa Rosa",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Mon 8 AM–9 AM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T09:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-bellevue-elementary-w2-1400",
+      "seriesSlug": "add-bellevue-elementary",
+      "title": "Bellevue Elementary — Free Food",
+      "description": "Free food at Bellevue Elementary. Schedule: Tue 2 PM–3 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Bellevue Elementary",
+      "address": "3223 Primrose Ave, Santa Rosa, CA 95407",
+      "lat": 38.397178,
+      "lng": -122.735242,
+      "category": "food-assistance",
+      "sourceOrg": "Bellevue Elementary",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Tue 2 PM–3 PM",
+      "start": "2026-09-28T14:00",
+      "end": "2026-09-28T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-buckelew-programs-sonoma-w1245-1000",
+      "seriesSlug": "add-buckelew-programs-sonoma",
+      "title": "Buckelew Programs Sonoma — Free Food",
+      "description": "Free food at Buckelew Programs Sonoma. Schedule: Mon–Tue, Thu–Fri 10 AM–3 PM; Wed 1 PM–4 PM. Call 707-909-0897 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Buckelew Programs Sonoma",
+      "address": "2235 Mercury Way Ste 107, Santa Rosa, CA 95407",
+      "lat": 38.422305,
+      "lng": -122.751195,
+      "category": "food-assistance",
+      "sourceOrg": "Buckelew Programs Sonoma",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Mon–Tue, Thu–Fri 10 AM–3 PM; Wed 1 PM–4 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-buckelew-programs-sonoma-w3-1300",
+      "seriesSlug": "add-buckelew-programs-sonoma",
+      "title": "Buckelew Programs Sonoma — Free Food",
+      "description": "Free food at Buckelew Programs Sonoma. Schedule: Mon–Tue, Thu–Fri 10 AM–3 PM; Wed 1 PM–4 PM. Call 707-909-0897 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Buckelew Programs Sonoma",
+      "address": "2235 Mercury Way Ste 107, Santa Rosa, CA 95407",
+      "lat": 38.422305,
+      "lng": -122.751195,
+      "category": "food-assistance",
+      "sourceOrg": "Buckelew Programs Sonoma",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Mon–Tue, Thu–Fri 10 AM–3 PM; Wed 1 PM–4 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-casa-roseland-w1-1200",
+      "seriesSlug": "add-casa-roseland",
+      "title": "Casa Roseland — Free Food",
+      "description": "Free food at Casa Roseland. Schedule: Mon 12 PM–1 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Casa Roseland",
+      "address": "583 West Ave, Santa Rosa, CA 95407",
+      "lat": 38.430755,
+      "lng": -122.729338,
+      "category": "food-assistance",
+      "sourceOrg": "Casa Roseland",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Mon 12 PM–1 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-catholic-charities-community-emergency-food-pant-w12345-0900",
+      "seriesSlug": "add-catholic-charities-community-emergency-food-pant",
+      "title": "Catholic Charities Community Emergency Food Pantry — Free Food",
+      "description": "Free food at Catholic Charities Community Emergency Food Pantry. Schedule: Mon–Fri 9 AM–5 PM. Call 707-528-8712 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Catholic Charities Community Emergency Food Pantry",
+      "address": "987 Airway Court Suite 101, Santa Rosa, CA 95403",
+      "lat": 38.475006,
+      "lng": -122.736928,
+      "category": "food-assistance",
+      "sourceOrg": "Catholic Charities Community Emergency Food Pantry",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Mon–Fri 9 AM–5 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-cesar-chavez-language-academy-w4-1030",
+      "seriesSlug": "add-cesar-chavez-language-academy",
+      "title": "Cesar Chavez Language Academy — Free Food",
+      "description": "Free food at Cesar Chavez Language Academy. Schedule: Thu 10:30 AM–11:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Cesar Chavez Language Academy",
+      "address": "2480 Sebastopol Rd, Santa Rosa, CA 95407",
+      "lat": 38.425929,
+      "lng": -122.745837,
+      "category": "food-assistance",
+      "sourceOrg": "Cesar Chavez Language Academy",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Thu 10:30 AM–11:30 AM",
+      "start": "2026-09-28T10:30",
+      "end": "2026-09-28T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-christian-family-fellowship-w7-0930",
+      "seriesSlug": "add-christian-family-fellowship",
+      "title": "Christian Family Fellowship — Free Food",
+      "description": "Free food at Christian Family Fellowship. Schedule: Sun 9:30 AM–9:45 AM. Call 707-571-0245 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Christian Family Fellowship",
+      "address": "1160 A Hopper Ave, Santa Rosa, CA 95403",
+      "lat": 38.478927,
+      "lng": -122.740814,
+      "category": "food-assistance",
+      "sourceOrg": "Christian Family Fellowship",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Sun 9:30 AM–9:45 AM",
+      "start": "2026-09-28T09:30",
+      "end": "2026-09-28T09:45",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-church-of-the-incarnation-sunday-open-table-w7-0630",
+      "seriesSlug": "add-church-of-the-incarnation-sunday-open-table",
+      "title": "Church of the Incarnation - Sunday Open Table — Free Food",
+      "description": "Free food at Church of the Incarnation - Sunday Open Table. Schedule: Sun 6:30 AM–8 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Church of the Incarnation - Sunday Open Table",
+      "address": "550 Mendocino Ave, Santa Rosa, CA 95404",
+      "lat": 38.44407,
+      "lng": -122.71628,
+      "category": "food-assistance",
+      "sourceOrg": "Church of the Incarnation - Sunday Open Table",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Sun 6:30 AM–8 AM",
+      "start": "2026-09-28T06:30",
+      "end": "2026-09-28T08:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-community-baptist-church-4-seasons-of-giving-w2-1200",
+      "seriesSlug": "add-community-baptist-church-4-seasons-of-giving",
+      "title": "Community Baptist Church - 4 Seasons of Giving — Free Food",
+      "description": "Free food at Community Baptist Church - 4 Seasons of Giving. Schedule: Tue 12 PM–2 PM; 2nd Sat & 4th Sat 10 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Community Baptist Church - 4 Seasons of Giving",
+      "address": "1620 Sonoma Ave, Santa Rosa, CA 95405",
+      "lat": 38.442485,
+      "lng": -122.6939,
+      "category": "food-assistance",
+      "sourceOrg": "Community Baptist Church - 4 Seasons of Giving",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Tue 12 PM–2 PM; 2nd Sat & 4th Sat 10 AM–12 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-community-baptist-church-4-seasons-of-giving-m2646-1000",
+      "seriesSlug": "add-community-baptist-church-4-seasons-of-giving",
+      "title": "Community Baptist Church - 4 Seasons of Giving — Free Food",
+      "description": "Free food at Community Baptist Church - 4 Seasons of Giving. Schedule: Tue 12 PM–2 PM; 2nd Sat & 4th Sat 10 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Community Baptist Church - 4 Seasons of Giving",
+      "address": "1620 Sonoma Ave, Santa Rosa, CA 95405",
+      "lat": 38.442485,
+      "lng": -122.6939,
+      "category": "food-assistance",
+      "sourceOrg": "Community Baptist Church - 4 Seasons of Giving",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Tue 12 PM–2 PM; 2nd Sat & 4th Sat 10 AM–12 PM",
+      "start": "2026-10-10T10:00",
+      "end": "2026-10-10T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6,4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-cpi-family-resource-center-w123456-0900",
+      "seriesSlug": "add-cpi-family-resource-center",
+      "title": "CPI Family Resource Center — Free Food",
+      "description": "Free food at CPI Family Resource Center. Schedule: Mon–Sat 9 AM–7 PM; 2nd Sat & 4th Sat 10 AM–1 PM. Call 707-585-6108 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "CPI Family Resource Center",
+      "address": "3642 Standish Ave, Santa Rosa, CA 95407",
+      "lat": 38.38944,
+      "lng": -122.72289,
+      "category": "food-assistance",
+      "sourceOrg": "CPI Family Resource Center",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Mon–Sat 9 AM–7 PM; 2nd Sat & 4th Sat 10 AM–1 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T19:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5,6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-cpi-family-resource-center-m2646-1000",
+      "seriesSlug": "add-cpi-family-resource-center",
+      "title": "CPI Family Resource Center — Free Food",
+      "description": "Free food at CPI Family Resource Center. Schedule: Mon–Sat 9 AM–7 PM; 2nd Sat & 4th Sat 10 AM–1 PM. Call 707-585-6108 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "CPI Family Resource Center",
+      "address": "3642 Standish Ave, Santa Rosa, CA 95407",
+      "lat": 38.38944,
+      "lng": -122.72289,
+      "category": "food-assistance",
+      "sourceOrg": "CPI Family Resource Center",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Mon–Sat 9 AM–7 PM; 2nd Sat & 4th Sat 10 AM–1 PM",
+      "start": "2026-10-10T10:00",
+      "end": "2026-10-10T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6,4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-economic-assistance-center-w2-1400",
+      "seriesSlug": "add-economic-assistance-center",
+      "title": "Economic Assistance Center — Free Food",
+      "description": "Free food at Economic Assistance Center. Schedule: Tue 2 PM–3 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Economic Assistance Center",
+      "address": "2550 Paulin Dr, Santa Rosa, CA 95403",
+      "lat": 38.464793,
+      "lng": -122.72135,
+      "category": "food-assistance",
+      "sourceOrg": "Economic Assistance Center",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Tue 2 PM–3 PM",
+      "start": "2026-09-28T14:00",
+      "end": "2026-09-28T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-elisha-s-pantry-w4-1515",
+      "seriesSlug": "add-elisha-s-pantry",
+      "title": "Elisha's Pantry — Free Food",
+      "description": "Free food at Elisha's Pantry. Schedule: Thu 3:15 PM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Elisha's Pantry",
+      "address": "1717 Yulupa Ave, Santa Rosa, CA 95405",
+      "lat": 38.438654,
+      "lng": -122.671408,
+      "category": "food-assistance",
+      "sourceOrg": "Elisha's Pantry",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Thu 3:15 PM–5 PM",
+      "start": "2026-09-28T15:15",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-elsie-allen-high-w1-1100",
+      "seriesSlug": "add-elsie-allen-high",
+      "title": "Elsie Allen High — Free Food",
+      "description": "Free food at Elsie Allen High. Schedule: Mon 11 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Elsie Allen High",
+      "address": "599 Bellevue Ave, Santa Rosa, CA 95407",
+      "lat": 38.40495,
+      "lng": -122.73417,
+      "category": "food-assistance",
+      "sourceOrg": "Elsie Allen High",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Mon 11 AM–12 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-epicenter-parking-lot-w2-1000",
+      "seriesSlug": "add-epicenter-parking-lot",
+      "title": "Epicenter Parking Lot — Free Food",
+      "description": "Free food at Epicenter Parking Lot. Schedule: Tue 10 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Epicenter Parking Lot",
+      "address": "3215 Coffey Lane, Santa Rosa, CA 95403",
+      "lat": 38.467307,
+      "lng": -122.746238,
+      "category": "food-assistance",
+      "sourceOrg": "Epicenter Parking Lot",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Tue 10 AM–11 AM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-fish-of-santa-rosa-w12345-1200",
+      "seriesSlug": "add-fish-of-santa-rosa",
+      "title": "FISH of Santa Rosa — Free Food",
+      "description": "Free food at FISH of Santa Rosa. Schedule: Mon–Fri 12 PM–2 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "FISH of Santa Rosa",
+      "address": "1710 Sebastopol Rd, Santa Rosa, CA 95407",
+      "lat": 38.427181,
+      "lng": -122.738484,
+      "category": "food-assistance",
+      "sourceOrg": "FISH of Santa Rosa",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Mon–Fri 12 PM–2 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-helen-lehman-elementary-w4-1100",
+      "seriesSlug": "add-helen-lehman-elementary",
+      "title": "Helen Lehman Elementary — Free Food",
+      "description": "Free food at Helen Lehman Elementary. Schedule: Thu 11 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Helen Lehman Elementary",
+      "address": "1700 Jennings Ave, Santa Rosa, CA 95401",
+      "lat": 38.449182,
+      "lng": -122.74386,
+      "category": "food-assistance",
+      "sourceOrg": "Helen Lehman Elementary",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Thu 11 AM–12 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-hilliard-comstock-middle-school-m1434-1400",
+      "seriesSlug": "add-hilliard-comstock-middle-school",
+      "title": "Hilliard Comstock Middle School — Free Food",
+      "description": "Free food at Hilliard Comstock Middle School. Schedule: 1st Thu & 3rd Thu 2 PM–3 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Hilliard Comstock Middle School",
+      "address": "2750 W Steele Lane, Santa Rosa, CA 95403",
+      "lat": 38.45705,
+      "lng": -122.746572,
+      "category": "food-assistance",
+      "sourceOrg": "Hilliard Comstock Middle School",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "1st Thu & 3rd Thu 2 PM–3 PM",
+      "start": "2026-10-08T14:00",
+      "end": "2026-10-08T15:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4,3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-individual-and-family-support-network-w12-0930",
+      "seriesSlug": "add-individual-and-family-support-network",
+      "title": "Individual and Family Support Network — Free Food",
+      "description": "Free food at Individual and Family Support Network. Schedule: Mon–Tue 9:30 AM–12:30 PM; Mon–Tue 1:30 PM–4 PM. Call 707-546-7907 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Individual and Family Support Network",
+      "address": "2455 Bennett Valley Rd Suite C200, Santa Rosa, CA 95404",
+      "lat": 38.43429,
+      "lng": -122.691753,
+      "category": "food-assistance",
+      "sourceOrg": "Individual and Family Support Network",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Mon–Tue 9:30 AM–12:30 PM; Mon–Tue 1:30 PM–4 PM",
+      "start": "2026-09-28T09:30",
+      "end": "2026-09-28T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-individual-and-family-support-network-w12-1330",
+      "seriesSlug": "add-individual-and-family-support-network",
+      "title": "Individual and Family Support Network — Free Food",
+      "description": "Free food at Individual and Family Support Network. Schedule: Mon–Tue 9:30 AM–12:30 PM; Mon–Tue 1:30 PM–4 PM. Call 707-546-7907 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Individual and Family Support Network",
+      "address": "2455 Bennett Valley Rd Suite C200, Santa Rosa, CA 95404",
+      "lat": 38.43429,
+      "lng": -122.691753,
+      "category": "food-assistance",
+      "sourceOrg": "Individual and Family Support Network",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Mon–Tue 9:30 AM–12:30 PM; Mon–Tue 1:30 PM–4 PM",
+      "start": "2026-09-28T13:30",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-jewish-community-free-clinic-w1-1300",
+      "seriesSlug": "add-jewish-community-free-clinic",
+      "title": "Jewish Community Free Clinic — Free Food",
+      "description": "Free food at Jewish Community Free Clinic. Schedule: Mon 1 PM–5 PM; Tue, Thu 10 AM–1 PM; Wed 11 AM–3 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Jewish Community Free Clinic",
+      "address": "50 Montgomery Dr, Santa Rosa, CA 95404",
+      "lat": 38.443075,
+      "lng": -122.703681,
+      "category": "food-assistance",
+      "sourceOrg": "Jewish Community Free Clinic",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Mon 1 PM–5 PM; Tue, Thu 10 AM–1 PM; Wed 11 AM–3 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-jewish-community-free-clinic-w24-1000",
+      "seriesSlug": "add-jewish-community-free-clinic",
+      "title": "Jewish Community Free Clinic — Free Food",
+      "description": "Free food at Jewish Community Free Clinic. Schedule: Mon 1 PM–5 PM; Tue, Thu 10 AM–1 PM; Wed 11 AM–3 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Jewish Community Free Clinic",
+      "address": "50 Montgomery Dr, Santa Rosa, CA 95404",
+      "lat": 38.443075,
+      "lng": -122.703681,
+      "category": "food-assistance",
+      "sourceOrg": "Jewish Community Free Clinic",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Mon 1 PM–5 PM; Tue, Thu 10 AM–1 PM; Wed 11 AM–3 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-jewish-community-free-clinic-w3-1100",
+      "seriesSlug": "add-jewish-community-free-clinic",
+      "title": "Jewish Community Free Clinic — Free Food",
+      "description": "Free food at Jewish Community Free Clinic. Schedule: Mon 1 PM–5 PM; Tue, Thu 10 AM–1 PM; Wed 11 AM–3 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Jewish Community Free Clinic",
+      "address": "50 Montgomery Dr, Santa Rosa, CA 95404",
+      "lat": 38.443075,
+      "lng": -122.703681,
+      "category": "food-assistance",
+      "sourceOrg": "Jewish Community Free Clinic",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Mon 1 PM–5 PM; Tue, Thu 10 AM–1 PM; Wed 11 AM–3 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-kaiser-mob-5-m1636-0800",
+      "seriesSlug": "add-kaiser-mob-5",
+      "title": "Kaiser MOB 5 — Free Food",
+      "description": "Free food at Kaiser MOB 5. Schedule: 1st Sat & 3rd Sat 8 AM–9 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Kaiser MOB 5",
+      "address": "3975 Old Redwood Hwy, Santa Rosa, CA 95403",
+      "lat": 38.484081,
+      "lng": -122.737602,
+      "category": "food-assistance",
+      "sourceOrg": "Kaiser MOB 5",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "1st Sat & 3rd Sat 8 AM–9 AM",
+      "start": "2026-10-10T08:00",
+      "end": "2026-10-10T09:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "1:6,3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-kawana-springs-elementary-school-w4-1000",
+      "seriesSlug": "add-kawana-springs-elementary-school",
+      "title": "Kawana Springs Elementary School — Free Food",
+      "description": "Free food at Kawana Springs Elementary School. Schedule: Thu 10 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Kawana Springs Elementary School",
+      "address": "2121 Moraga Drive, Santa Rosa, CA 95404",
+      "lat": 38.420999,
+      "lng": -122.70091,
+      "category": "food-assistance",
+      "sourceOrg": "Kawana Springs Elementary School",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Thu 10 AM–11 AM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-lamplighter-mobile-home-park-m22-1100",
+      "seriesSlug": "add-lamplighter-mobile-home-park",
+      "title": "Lamplighter Mobile Home Park — Free Food",
+      "description": "Free food at Lamplighter Mobile Home Park. Schedule: 2nd Tue 11 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Lamplighter Mobile Home Park",
+      "address": "2800 Santa Rosa Ave, Santa Rosa, CA 95407",
+      "lat": 38.408779,
+      "lng": -122.711887,
+      "category": "food-assistance",
+      "sourceOrg": "Lamplighter Mobile Home Park",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "2nd Tue 11 AM–12 PM",
+      "start": "2026-10-06T11:00",
+      "end": "2026-10-06T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "2:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-laurel-at-perennial-park-m1434-1200",
+      "seriesSlug": "add-laurel-at-perennial-park",
+      "title": "Laurel at Perennial Park — Free Food",
+      "description": "Free food at Laurel at Perennial Park. Schedule: 1st Thu & 3rd Thu 12 PM–1 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Laurel at Perennial Park",
+      "address": "510 Renaissance Way, Santa Rosa, CA 95403",
+      "lat": 38.47303,
+      "lng": -122.72821,
+      "category": "food-assistance",
+      "sourceOrg": "Laurel at Perennial Park",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "1st Thu & 3rd Thu 12 PM–1 PM",
+      "start": "2026-10-08T12:00",
+      "end": "2026-10-08T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4,3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-leisure-mobile-home-park-w1234-0800",
+      "seriesSlug": "add-leisure-mobile-home-park",
+      "title": "Leisure Mobile Home Park — Free Food",
+      "description": "Free food at Leisure Mobile Home Park. Schedule: Mon–Thu 8 AM–5 PM; Fri 8 AM–4 PM. Call 707-546-3865 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Leisure Mobile Home Park",
+      "address": "2185 Occidental Rd, Santa Rosa, CA 95401",
+      "lat": 38.43077,
+      "lng": -122.750322,
+      "category": "food-assistance",
+      "sourceOrg": "Leisure Mobile Home Park",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Mon–Thu 8 AM–5 PM; Fri 8 AM–4 PM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-leisure-mobile-home-park-w5-0800",
+      "seriesSlug": "add-leisure-mobile-home-park",
+      "title": "Leisure Mobile Home Park — Free Food",
+      "description": "Free food at Leisure Mobile Home Park. Schedule: Mon–Thu 8 AM–5 PM; Fri 8 AM–4 PM. Call 707-546-3865 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Leisure Mobile Home Park",
+      "address": "2185 Occidental Rd, Santa Rosa, CA 95401",
+      "lat": 38.43077,
+      "lng": -122.750322,
+      "category": "food-assistance",
+      "sourceOrg": "Leisure Mobile Home Park",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Mon–Thu 8 AM–5 PM; Fri 8 AM–4 PM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-martin-luther-king-jr-park-w1-1330",
+      "seriesSlug": "add-martin-luther-king-jr-park",
+      "title": "Martin Luther King Jr. Park — Free Food",
+      "description": "Free food at Martin Luther King Jr. Park. Schedule: Mon 1:30 PM–2:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Martin Luther King Jr. Park",
+      "address": "1208 Hendley St, Santa Rosa, CA 95404",
+      "lat": 38.428703,
+      "lng": -122.703701,
+      "category": "food-assistance",
+      "sourceOrg": "Martin Luther King Jr. Park",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Mon 1:30 PM–2:30 PM",
+      "start": "2026-09-28T13:30",
+      "end": "2026-09-28T14:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-northpoint-santa-rosa-lds-church-w3-0930",
+      "seriesSlug": "add-northpoint-santa-rosa-lds-church",
+      "title": "Northpoint Santa Rosa LDS Church — Free Food",
+      "description": "Free food at Northpoint Santa Rosa LDS Church. Schedule: Wed 9:30 AM–10:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Northpoint Santa Rosa LDS Church",
+      "address": "1550 Northpoint Parkway, Santa Rosa, CA 95407",
+      "lat": 38.415548,
+      "lng": -122.740839,
+      "category": "food-assistance",
+      "sourceOrg": "Northpoint Santa Rosa LDS Church",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Wed 9:30 AM–10:30 AM",
+      "start": "2026-09-28T09:30",
+      "end": "2026-09-28T10:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-rancho-cabeza-mobile-home-park-m42-1000",
+      "seriesSlug": "add-rancho-cabeza-mobile-home-park",
+      "title": "Rancho Cabeza Mobile Home Park — Free Food",
+      "description": "Free food at Rancho Cabeza Mobile Home Park. Schedule: 4th Tue 10 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Rancho Cabeza Mobile Home Park",
+      "address": "677 Calistoga Rd, Santa Rosa, CA 95409",
+      "lat": 38.476596,
+      "lng": -122.656132,
+      "category": "food-assistance",
+      "sourceOrg": "Rancho Cabeza Mobile Home Park",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "4th Tue 10 AM–11 AM",
+      "start": "2026-10-06T10:00",
+      "end": "2026-10-06T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "4:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-redemption-hill-church-m1232-1330",
+      "seriesSlug": "add-redemption-hill-church",
+      "title": "Redemption Hill Church — Free Food",
+      "description": "Free food at Redemption Hill Church. Schedule: 1st Tue & 3rd Tue 1:30 PM–2:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Redemption Hill Church",
+      "address": "2100 Petaluma Hill Rd, Santa Rosa, CA 95404",
+      "lat": 38.419552,
+      "lng": -122.704201,
+      "category": "food-assistance",
+      "sourceOrg": "Redemption Hill Church",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "1st Tue & 3rd Tue 1:30 PM–2:30 PM",
+      "start": "2026-10-06T13:30",
+      "end": "2026-10-06T14:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 2
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "1:2,3:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-resurrection-church-w3-1400",
+      "seriesSlug": "add-resurrection-church",
+      "title": "Resurrection Church — Free Food",
+      "description": "Free food at Resurrection Church. Schedule: Wed 2 PM–3 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Resurrection Church",
+      "address": "303 Stony Point Rd, Santa Rosa, CA 95401",
+      "lat": 38.434488,
+      "lng": -122.743025,
+      "category": "food-assistance",
+      "sourceOrg": "Resurrection Church",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Wed 2 PM–3 PM",
+      "start": "2026-09-28T14:00",
+      "end": "2026-09-28T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-ridgway-high-w4-1615",
+      "seriesSlug": "add-ridgway-high",
+      "title": "Ridgway High — Free Food",
+      "description": "Free food at Ridgway High. Schedule: Thu 4:15 PM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Ridgway High",
+      "address": "325 Ridgway Ave, Santa Rosa, CA 95401",
+      "lat": 38.449635,
+      "lng": -122.722161,
+      "category": "food-assistance",
+      "sourceOrg": "Ridgway High",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Thu 4:15 PM–5 PM",
+      "start": "2026-09-28T16:15",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-salvation-army-santa-rosa-w2345-1000",
+      "seriesSlug": "add-salvation-army-santa-rosa",
+      "title": "Salvation Army Santa Rosa — Free Food",
+      "description": "Free food at Salvation Army Santa Rosa. Schedule: Tue–Fri 10 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salvation Army Santa Rosa",
+      "address": "93 Stony Cir, Santa Rosa, CA 95401",
+      "lat": 38.439963,
+      "lng": -122.747334,
+      "category": "food-assistance",
+      "sourceOrg": "Salvation Army Santa Rosa",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Tue–Fri 10 AM–12 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-santa-rosa-community-health-dutton-w1-1230",
+      "seriesSlug": "add-santa-rosa-community-health-dutton",
+      "title": "Santa Rosa Community Health Dutton — Free Food",
+      "description": "Free food at Santa Rosa Community Health Dutton. Schedule: Mon 12:30 PM–1:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Santa Rosa Community Health Dutton",
+      "address": "1300 N Dutton Ave, Santa Rosa, CA 95401",
+      "lat": 38.449891,
+      "lng": -122.732919,
+      "category": "food-assistance",
+      "sourceOrg": "Santa Rosa Community Health Dutton",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Mon 12:30 PM–1:30 PM",
+      "start": "2026-09-28T12:30",
+      "end": "2026-09-28T13:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-santa-rosa-junior-college-roseland-m1434-1200",
+      "seriesSlug": "add-santa-rosa-junior-college-roseland",
+      "title": "Santa Rosa Junior College Roseland — Free Food",
+      "description": "Free food at Santa Rosa Junior College Roseland. Schedule: 1st Thu & 3rd Thu 12 PM–1 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Santa Rosa Junior College Roseland",
+      "address": "950 S Wright Rd, Santa Rosa, CA 95407",
+      "lat": 38.423243,
+      "lng": -122.76799,
+      "category": "food-assistance",
+      "sourceOrg": "Santa Rosa Junior College Roseland",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "1st Thu & 3rd Thu 12 PM–1 PM",
+      "start": "2026-10-08T12:00",
+      "end": "2026-10-08T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4,3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-santa-rosa-junior-college-santa-rosa-w234-1000",
+      "seriesSlug": "add-santa-rosa-junior-college-santa-rosa",
+      "title": "Santa Rosa Junior College Santa Rosa — Free Food",
+      "description": "Free food at Santa Rosa Junior College Santa Rosa. Schedule: Tue–Thu 10 AM–4 PM. Call 707-524-1805 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Santa Rosa Junior College Santa Rosa",
+      "address": "1501 Mendocino Ave, Santa Rosa, CA 95401",
+      "lat": 38.458037,
+      "lng": -122.719714,
+      "category": "food-assistance",
+      "sourceOrg": "Santa Rosa Junior College Santa Rosa",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Tue–Thu 10 AM–4 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-santa-rosa-nazarene-church-w12345-0830",
+      "seriesSlug": "add-santa-rosa-nazarene-church",
+      "title": "Santa Rosa Nazarene Church — Free Food",
+      "description": "Free food at Santa Rosa Nazarene Church. Schedule: Mon–Fri 8:30 AM–4 PM. Call 707-542-2650 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Santa Rosa Nazarene Church",
+      "address": "1135 Farmers Lane, Santa Rosa, CA 95405",
+      "lat": 38.440466,
+      "lng": -122.688669,
+      "category": "food-assistance",
+      "sourceOrg": "Santa Rosa Nazarene Church",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Mon–Fri 8:30 AM–4 PM",
+      "start": "2026-09-28T08:30",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-santa-rosa-seventh-day-adventist-church-m2141-1630",
+      "seriesSlug": "add-santa-rosa-seventh-day-adventist-church",
+      "title": "Santa Rosa Seventh Day Adventist Church — Free Food",
+      "description": "Free food at Santa Rosa Seventh Day Adventist Church. Schedule: 2nd Mon & 4th Mon 4:30 PM–6 PM; 1st Thu & 3rd Thu 4:30 PM–6 PM. Call 707-578-8883 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Santa Rosa Seventh Day Adventist Church",
+      "address": "840 Sonoma Ave, Santa Rosa, CA 95404",
+      "lat": 38.4389,
+      "lng": -122.707042,
+      "category": "food-assistance",
+      "sourceOrg": "Santa Rosa Seventh Day Adventist Church",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "2nd Mon & 4th Mon 4:30 PM–6 PM; 1st Thu & 3rd Thu 4:30 PM–6 PM",
+      "start": "2026-10-05T16:30",
+      "end": "2026-10-05T18:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 1
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "2:1,4:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-santa-rosa-seventh-day-adventist-church-m1434-1630",
+      "seriesSlug": "add-santa-rosa-seventh-day-adventist-church",
+      "title": "Santa Rosa Seventh Day Adventist Church — Free Food",
+      "description": "Free food at Santa Rosa Seventh Day Adventist Church. Schedule: 2nd Mon & 4th Mon 4:30 PM–6 PM; 1st Thu & 3rd Thu 4:30 PM–6 PM. Call 707-578-8883 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Santa Rosa Seventh Day Adventist Church",
+      "address": "840 Sonoma Ave, Santa Rosa, CA 95404",
+      "lat": 38.4389,
+      "lng": -122.707042,
+      "category": "food-assistance",
+      "sourceOrg": "Santa Rosa Seventh Day Adventist Church",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "2nd Mon & 4th Mon 4:30 PM–6 PM; 1st Thu & 3rd Thu 4:30 PM–6 PM",
+      "start": "2026-10-08T16:30",
+      "end": "2026-10-08T18:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4,3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-santa-rosa-veterans-memorial-building-w4-0830",
+      "seriesSlug": "add-santa-rosa-veterans-memorial-building",
+      "title": "Santa Rosa Veterans Memorial Building — Free Food",
+      "description": "Free food at Santa Rosa Veterans Memorial Building. Schedule: Thu 8:30 AM–9:30 AM; Thu 3:30 PM–4:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Santa Rosa Veterans Memorial Building",
+      "address": "1351 Maple Ave, Santa Rosa, CA 95404",
+      "lat": 38.434277,
+      "lng": -122.701039,
+      "category": "food-assistance",
+      "sourceOrg": "Santa Rosa Veterans Memorial Building",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Thu 8:30 AM–9:30 AM; Thu 3:30 PM–4:30 PM",
+      "start": "2026-09-28T08:30",
+      "end": "2026-09-28T09:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-santa-rosa-veterans-memorial-building-w4-1530",
+      "seriesSlug": "add-santa-rosa-veterans-memorial-building",
+      "title": "Santa Rosa Veterans Memorial Building — Free Food",
+      "description": "Free food at Santa Rosa Veterans Memorial Building. Schedule: Thu 8:30 AM–9:30 AM; Thu 3:30 PM–4:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Santa Rosa Veterans Memorial Building",
+      "address": "1351 Maple Ave, Santa Rosa, CA 95404",
+      "lat": 38.434277,
+      "lng": -122.701039,
+      "category": "food-assistance",
+      "sourceOrg": "Santa Rosa Veterans Memorial Building",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Thu 8:30 AM–9:30 AM; Thu 3:30 PM–4:30 PM",
+      "start": "2026-09-28T15:30",
+      "end": "2026-09-28T16:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-shiloh-neighborhood-church-w3-1030",
+      "seriesSlug": "add-shiloh-neighborhood-church",
+      "title": "Shiloh Neighborhood Church — Free Food",
+      "description": "Free food at Shiloh Neighborhood Church. Schedule: Wed 10:30 AM–11:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Shiloh Neighborhood Church",
+      "address": "5901 Old Redwood Hwy, Santa Rosa, CA 95403",
+      "lat": 38.523749,
+      "lng": -122.778189,
+      "category": "food-assistance",
+      "sourceOrg": "Shiloh Neighborhood Church",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Wed 10:30 AM–11:30 AM",
+      "start": "2026-09-28T10:30",
+      "end": "2026-09-28T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sons-of-norway-w3-1100",
+      "seriesSlug": "add-sons-of-norway",
+      "title": "Sons of Norway — Free Food",
+      "description": "Free food at Sons of Norway. Schedule: Wed 11 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Sons of Norway",
+      "address": "617 W 9th St, Santa Rosa, CA 95401",
+      "lat": 38.442,
+      "lng": -122.73209,
+      "category": "food-assistance",
+      "sourceOrg": "Sons of Norway",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Wed 11 AM–12 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-southwest-community-park-w35-0830",
+      "seriesSlug": "add-southwest-community-park",
+      "title": "Southwest Community Park — Free Food",
+      "description": "Free food at Southwest Community Park. Schedule: Wed, Fri 8:30 AM–9:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Southwest Community Park",
+      "address": "1698 Hearn Ave, Santa Rosa, CA 95407",
+      "lat": 38.41297,
+      "lng": -122.73252,
+      "category": "food-assistance",
+      "sourceOrg": "Southwest Community Park",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Wed, Fri 8:30 AM–9:30 AM",
+      "start": "2026-09-28T08:30",
+      "end": "2026-09-28T09:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-eugene-cathedral-svdp-w2-1000",
+      "seriesSlug": "add-st-eugene-cathedral-svdp",
+      "title": "St. Eugene Cathedral SVdP — Free Food",
+      "description": "Free food at St. Eugene Cathedral SVdP. Schedule: Tue 10 AM–2 PM; Wed 12 PM–2 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Eugene Cathedral SVdP",
+      "address": "2323 Montgomery Dr, Santa Rosa, CA 95405",
+      "lat": 38.448359,
+      "lng": -122.686961,
+      "category": "food-assistance",
+      "sourceOrg": "St. Eugene Cathedral SVdP",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Tue 10 AM–2 PM; Wed 12 PM–2 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-eugene-cathedral-svdp-w3-1200",
+      "seriesSlug": "add-st-eugene-cathedral-svdp",
+      "title": "St. Eugene Cathedral SVdP — Free Food",
+      "description": "Free food at St. Eugene Cathedral SVdP. Schedule: Tue 10 AM–2 PM; Wed 12 PM–2 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Eugene Cathedral SVdP",
+      "address": "2323 Montgomery Dr, Santa Rosa, CA 95405",
+      "lat": 38.448359,
+      "lng": -122.686961,
+      "category": "food-assistance",
+      "sourceOrg": "St. Eugene Cathedral SVdP",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Tue 10 AM–2 PM; Wed 12 PM–2 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-rose-church-svdp-w135-1300",
+      "seriesSlug": "add-st-rose-church-svdp",
+      "title": "St. Rose Church SVdP — Free Food",
+      "description": "Free food at St. Rose Church SVdP. Schedule: Mon, Wed, Fri 1 PM–2 PM. Eligibility: call for appointment. Call 707-584-1579 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Rose Church SVdP",
+      "address": "340 10th St, Santa Rosa, CA 95401",
+      "lat": 38.443689,
+      "lng": -122.719418,
+      "category": "food-assistance",
+      "sourceOrg": "St. Rose Church SVdP",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Mon, Wed, Fri 1 PM–2 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-taylor-mountain-elementary-w4-0930",
+      "seriesSlug": "add-taylor-mountain-elementary",
+      "title": "Taylor Mountain Elementary — Free Food",
+      "description": "Free food at Taylor Mountain Elementary. Schedule: Thu 9:30 AM–10:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Taylor Mountain Elementary",
+      "address": "1210 East Bellevue Ave, Santa Rosa, CA 95407",
+      "lat": 38.40495,
+      "lng": -122.73417,
+      "category": "food-assistance",
+      "sourceOrg": "Taylor Mountain Elementary",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Thu 9:30 AM–10:30 AM",
+      "start": "2026-09-28T09:30",
+      "end": "2026-09-28T10:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-va-clinic-south-veterans-and-active-duty-only-w4-1330",
+      "seriesSlug": "add-va-clinic-south-veterans-and-active-duty-only",
+      "title": "VA Clinic South (veterans and active duty only) — Free Food",
+      "description": "Free food at VA Clinic South (veterans and active duty only). Schedule: Thu 1:30 PM–2:45 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "VA Clinic South (veterans and active duty only)",
+      "address": "2285 Challenger Way, Santa Rosa, CA 95407",
+      "lat": 38.42352,
+      "lng": -122.75089,
+      "category": "food-assistance",
+      "sourceOrg": "VA Clinic South (veterans and active duty only)",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Thu 1:30 PM–2:45 PM",
+      "start": "2026-09-28T13:30",
+      "end": "2026-09-28T14:45",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-valley-oak-park-m25-0930",
+      "seriesSlug": "add-valley-oak-park",
+      "title": "Valley Oak Park — Free Food",
+      "description": "Free food at Valley Oak Park. Schedule: 2nd Fri 9:30 AM–10:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Valley Oak Park",
+      "address": "2600 Northcoast St, Santa Rosa, CA 95403",
+      "lat": 38.457675,
+      "lng": -122.739041,
+      "category": "food-assistance",
+      "sourceOrg": "Valley Oak Park",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "2nd Fri 9:30 AM–10:30 AM",
+      "start": "2026-10-09T09:30",
+      "end": "2026-10-09T10:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "2:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-vintage-at-bennett-valley-m35-0930",
+      "seriesSlug": "add-vintage-at-bennett-valley",
+      "title": "Vintage at Bennett Valley — Free Food",
+      "description": "Free food at Vintage at Bennett Valley. Schedule: 3rd Fri 9:30 AM–10:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Vintage at Bennett Valley",
+      "address": "1405 Townview Ave, Santa Rosa, CA 95405",
+      "lat": 38.435682,
+      "lng": -122.685049,
+      "category": "food-assistance",
+      "sourceOrg": "Vintage at Bennett Valley",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "3rd Fri 9:30 AM–10:30 AM",
+      "start": "2026-10-09T09:30",
+      "end": "2026-10-09T10:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-vintage-zinfandel-apartments-m1232-1130",
+      "seriesSlug": "add-vintage-zinfandel-apartments",
+      "title": "Vintage Zinfandel Apartments — Free Food",
+      "description": "Free food at Vintage Zinfandel Apartments. Schedule: 1st Tue & 3rd Tue 11:30 AM–12:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Vintage Zinfandel Apartments",
+      "address": "2037 Zinfandel Ave, Santa Rosa, CA 95403",
+      "lat": 38.450839,
+      "lng": -122.754194,
+      "category": "food-assistance",
+      "sourceOrg": "Vintage Zinfandel Apartments",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "1st Tue & 3rd Tue 11:30 AM–12:30 PM",
+      "start": "2026-10-06T11:30",
+      "end": "2026-10-06T12:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 2
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "1:2,3:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-voices-sonoma-youth-center-w2345-1300",
+      "seriesSlug": "add-voices-sonoma-youth-center",
+      "title": "Voices Sonoma Youth Center — Free Food",
+      "description": "Free food at Voices Sonoma Youth Center. Schedule: Tue–Fri 1 PM–6 PM. Call 707-579-4327 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Voices Sonoma Youth Center",
+      "address": "2800 Cleveland Avenue Suite C, Santa Rosa, CA 95403",
+      "lat": 38.464783,
+      "lng": -122.727796,
+      "category": "food-assistance",
+      "sourceOrg": "Voices Sonoma Youth Center",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Tue–Fri 1 PM–6 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T18:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-rotary-club-sebastopol-sunrise-lunch-sack-w14-0630",
+      "seriesSlug": "add-rotary-club-sebastopol-sunrise-lunch-sack",
+      "title": "Rotary Club Sebastopol Sunrise Lunch Sack — Free Food",
+      "description": "Free food at Rotary Club Sebastopol Sunrise Lunch Sack. Schedule: Mon, Thu 6:30 AM–10 AM; Mon–Thu 10 AM–12 PM. Call 707-280-4360 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Rotary Club Sebastopol Sunrise Lunch Sack",
+      "address": "7433 Bodega Ave, Sebastopol, CA 95472",
+      "lat": 38.399846,
+      "lng": -122.827888,
+      "category": "food-assistance",
+      "sourceOrg": "Rotary Club Sebastopol Sunrise Lunch Sack",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Mon, Thu 6:30 AM–10 AM; Mon–Thu 10 AM–12 PM",
+      "start": "2026-09-28T06:30",
+      "end": "2026-09-28T10:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-rotary-club-sebastopol-sunrise-lunch-sack-w1234-1000",
+      "seriesSlug": "add-rotary-club-sebastopol-sunrise-lunch-sack",
+      "title": "Rotary Club Sebastopol Sunrise Lunch Sack — Free Food",
+      "description": "Free food at Rotary Club Sebastopol Sunrise Lunch Sack. Schedule: Mon, Thu 6:30 AM–10 AM; Mon–Thu 10 AM–12 PM. Call 707-280-4360 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Rotary Club Sebastopol Sunrise Lunch Sack",
+      "address": "7433 Bodega Ave, Sebastopol, CA 95472",
+      "lat": 38.399846,
+      "lng": -122.827888,
+      "category": "food-assistance",
+      "sourceOrg": "Rotary Club Sebastopol Sunrise Lunch Sack",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Mon, Thu 6:30 AM–10 AM; Mon–Thu 10 AM–12 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sebastopol-inter-church-food-pantry-w135-1000",
+      "seriesSlug": "add-sebastopol-inter-church-food-pantry",
+      "title": "Sebastopol Inter-Church Food Pantry — Free Food",
+      "description": "Free food at Sebastopol Inter-Church Food Pantry. Schedule: Mon, Wed, Fri 10 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Sebastopol Inter-Church Food Pantry",
+      "address": "500 Robinson Rd, Sebastopol, CA 95472",
+      "lat": 38.396841,
+      "lng": -122.832552,
+      "category": "food-assistance",
+      "sourceOrg": "Sebastopol Inter-Church Food Pantry",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Mon, Wed, Fri 10 AM–12 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sebastopol-sda-community-service-m1333-0830",
+      "seriesSlug": "add-sebastopol-sda-community-service",
+      "title": "Sebastopol SDA Community Service — Free Food",
+      "description": "Free food at Sebastopol SDA Community Service. Schedule: 1st Wed & 3rd Wed 8:30 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Sebastopol SDA Community Service",
+      "address": "1665 Gravenstein Hwy N, Sebastopol, CA 95472",
+      "lat": 38.419564,
+      "lng": -122.844776,
+      "category": "food-assistance",
+      "sourceOrg": "Sebastopol SDA Community Service",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "1st Wed & 3rd Wed 8:30 AM–12 PM",
+      "start": "2026-10-07T08:30",
+      "end": "2026-10-07T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "1:3,3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-sebastian-church-w4-1530",
+      "seriesSlug": "add-st-sebastian-church",
+      "title": "St. Sebastian Church — Free Food",
+      "description": "Free food at St. Sebastian Church. Schedule: Thu 3:30 PM–4:30 PM; 2nd Wed 9:30 AM–10:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Sebastian Church",
+      "address": "7983 Covert Ln, Sebastopol, CA 95472",
+      "lat": 38.404902,
+      "lng": -122.839313,
+      "category": "food-assistance",
+      "sourceOrg": "St. Sebastian Church",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Thu 3:30 PM–4:30 PM; 2nd Wed 9:30 AM–10:30 AM",
+      "start": "2026-09-28T15:30",
+      "end": "2026-09-28T16:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-sebastian-church-m23-0930",
+      "seriesSlug": "add-st-sebastian-church",
+      "title": "St. Sebastian Church — Free Food",
+      "description": "Free food at St. Sebastian Church. Schedule: Thu 3:30 PM–4:30 PM; 2nd Wed 9:30 AM–10:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Sebastian Church",
+      "address": "7983 Covert Ln, Sebastopol, CA 95472",
+      "lat": 38.404902,
+      "lng": -122.839313,
+      "category": "food-assistance",
+      "sourceOrg": "St. Sebastian Church",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Thu 3:30 PM–4:30 PM; 2nd Wed 9:30 AM–10:30 AM",
+      "start": "2026-10-07T09:30",
+      "end": "2026-10-07T10:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "2:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-wchc-teen-clinic-w1234-1330",
+      "seriesSlug": "add-wchc-teen-clinic",
+      "title": "WCHC Teen Clinic — Free Food",
+      "description": "Free food at WCHC Teen Clinic. Schedule: Mon–Thu 1:30 PM–5 PM. Call 707-887-0427 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "WCHC Teen Clinic",
+      "address": "652 Petaluma Ave Suite F, Sebastopol, CA 95472",
+      "lat": 38.396508,
+      "lng": -122.820364,
+      "category": "food-assistance",
+      "sourceOrg": "WCHC Teen Clinic",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Mon–Thu 1:30 PM–5 PM",
+      "start": "2026-09-28T13:30",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-alta-madrone-saha-m1232-1230",
+      "seriesSlug": "add-alta-madrone-saha",
+      "title": "Alta Madrone SAHA — Free Food",
+      "description": "Free food at Alta Madrone SAHA. Schedule: 1st Tue & 3rd Tue 12:30 PM–1:15 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Alta Madrone SAHA",
+      "address": "1269 Broadway, Sonoma, CA 95476",
+      "lat": 38.277875,
+      "lng": -122.460378,
+      "category": "food-assistance",
+      "sourceOrg": "Alta Madrone SAHA",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "1st Tue & 3rd Tue 12:30 PM–1:15 PM",
+      "start": "2026-10-06T12:30",
+      "end": "2026-10-06T13:15",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 2
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "1:2,3:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-el-verano-elementary-m1636-0930",
+      "seriesSlug": "add-el-verano-elementary",
+      "title": "El Verano Elementary — Free Food",
+      "description": "Free food at El Verano Elementary. Schedule: 1st Sat & 3rd Sat 9:30 AM–10:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "El Verano Elementary",
+      "address": "18606 Riverside Dr, Sonoma, CA 95476",
+      "lat": 38.307012,
+      "lng": -122.485532,
+      "category": "food-assistance",
+      "sourceOrg": "El Verano Elementary",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "1st Sat & 3rd Sat 9:30 AM–10:30 AM",
+      "start": "2026-10-10T09:30",
+      "end": "2026-10-10T10:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "1:6,3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-faha-manor-apartments-m12-1300",
+      "seriesSlug": "add-faha-manor-apartments",
+      "title": "FAHA Manor Apartments — Free Food",
+      "description": "Free food at FAHA Manor Apartments. Schedule: 1st Tue 1 PM–1:45 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "FAHA Manor Apartments",
+      "address": "191 W Verano Ave, Sonoma, CA 95476",
+      "lat": 38.303992,
+      "lng": -122.480526,
+      "category": "food-assistance",
+      "sourceOrg": "FAHA Manor Apartments",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "1st Tue 1 PM–1:45 PM",
+      "start": "2026-10-06T13:00",
+      "end": "2026-10-06T13:45",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "1:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-fish-of-sonoma-w12345-1330",
+      "seriesSlug": "add-fish-of-sonoma",
+      "title": "FISH of Sonoma — Free Food",
+      "description": "Free food at FISH of Sonoma. Schedule: Mon–Fri 1:30 PM–2:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "FISH of Sonoma",
+      "address": "18330 Sonoma Hwy, Sonoma, CA 95476",
+      "lat": 38.31213,
+      "lng": -122.48078,
+      "category": "food-assistance",
+      "sourceOrg": "FISH of Sonoma",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Mon–Fri 1:30 PM–2:30 PM",
+      "start": "2026-09-28T13:30",
+      "end": "2026-09-28T14:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-oak-ridge-senior-apartments-m22-1300",
+      "seriesSlug": "add-oak-ridge-senior-apartments",
+      "title": "Oak Ridge Senior Apartments — Free Food",
+      "description": "Free food at Oak Ridge Senior Apartments. Schedule: 2nd Tue 1 PM–1:45 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Oak Ridge Senior Apartments",
+      "address": "18800 Beatrice Dr, Sonoma, CA 95476",
+      "lat": 38.30669,
+      "lng": -122.47575,
+      "category": "food-assistance",
+      "sourceOrg": "Oak Ridge Senior Apartments",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "2nd Tue 1 PM–1:45 PM",
+      "start": "2026-10-06T13:00",
+      "end": "2026-10-06T13:45",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "2:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-seven-flags-mobile-park-m42-1300",
+      "seriesSlug": "add-seven-flags-mobile-park",
+      "title": "Seven Flags Mobile Park — Free Food",
+      "description": "Free food at Seven Flags Mobile Park. Schedule: 4th Tue 1 PM–1:45 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Seven Flags Mobile Park",
+      "address": "1400 Watmaugh Rd, Sonoma, CA 95476",
+      "lat": 38.25973,
+      "lng": -122.48655,
+      "category": "food-assistance",
+      "sourceOrg": "Seven Flags Mobile Park",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "4th Tue 1 PM–1:45 PM",
+      "start": "2026-10-06T13:00",
+      "end": "2026-10-06T13:45",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "4:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sonoma-creek-senior-housing-m32-1300",
+      "seriesSlug": "add-sonoma-creek-senior-housing",
+      "title": "Sonoma Creek Senior Housing — Free Food",
+      "description": "Free food at Sonoma Creek Senior Housing. Schedule: 3rd Tue 1 PM–1:45 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Sonoma Creek Senior Housing",
+      "address": "809 Oregon St, Sonoma, CA 95476",
+      "lat": 38.29134,
+      "lng": -122.474118,
+      "category": "food-assistance",
+      "sourceOrg": "Sonoma Creek Senior Housing",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "3rd Tue 1 PM–1:45 PM",
+      "start": "2026-10-06T13:00",
+      "end": "2026-10-06T13:45",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "3:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sonoma-family-meal-unity-kitchen-w12345-0900",
+      "seriesSlug": "add-sonoma-family-meal-unity-kitchen",
+      "title": "Sonoma Family Meal, Unity Kitchen — Free Food",
+      "description": "Free food at Sonoma Family Meal, Unity Kitchen. Schedule: Mon–Fri 9 AM–1 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Sonoma Family Meal, Unity Kitchen",
+      "address": "17400 Sonoma Hwy, Sonoma, CA 95476",
+      "lat": 38.319458,
+      "lng": -122.486105,
+      "category": "food-assistance",
+      "sourceOrg": "Sonoma Family Meal, Unity Kitchen",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Mon–Fri 9 AM–1 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sonoma-sda-church-open-pantry-w4-1200",
+      "seriesSlug": "add-sonoma-sda-church-open-pantry",
+      "title": "Sonoma SDA Church Open Pantry — Free Food",
+      "description": "Free food at Sonoma SDA Church Open Pantry. Schedule: Thu 12 PM–12:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Sonoma SDA Church Open Pantry",
+      "address": "20575 Broadway, Sonoma, CA 95476",
+      "lat": 38.273462,
+      "lng": -122.461408,
+      "category": "food-assistance",
+      "sourceOrg": "Sonoma SDA Church Open Pantry",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Thu 12 PM–12:30 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sonoma-valley-community-health-center-m1535-0830",
+      "seriesSlug": "add-sonoma-valley-community-health-center",
+      "title": "Sonoma Valley Community Health Center — Free Food",
+      "description": "Free food at Sonoma Valley Community Health Center. Schedule: 1st Fri & 3rd Fri 8:30 AM–9:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Sonoma Valley Community Health Center",
+      "address": "19270 Sonoma Hwy, Sonoma, CA 95476",
+      "lat": 38.298696,
+      "lng": -122.47451,
+      "category": "food-assistance",
+      "sourceOrg": "Sonoma Valley Community Health Center",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "1st Fri & 3rd Fri 8:30 AM–9:30 AM",
+      "start": "2026-10-09T08:30",
+      "end": "2026-10-09T09:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "1:5,3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-andrew-presbyterian-church-w2-1600",
+      "seriesSlug": "add-st-andrew-presbyterian-church",
+      "title": "St. Andrew Presbyterian Church — Free Food",
+      "description": "Free food at St. Andrew Presbyterian Church. Schedule: Tue 4 PM–5 PM; Fri 9:30 AM–10:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Andrew Presbyterian Church",
+      "address": "16290 Arnold Dr, Sonoma, CA 95476",
+      "lat": 38.32855,
+      "lng": -122.50894,
+      "category": "food-assistance",
+      "sourceOrg": "St. Andrew Presbyterian Church",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Tue 4 PM–5 PM; Fri 9:30 AM–10:30 AM",
+      "start": "2026-09-28T16:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-andrew-presbyterian-church-w5-0930",
+      "seriesSlug": "add-st-andrew-presbyterian-church",
+      "title": "St. Andrew Presbyterian Church — Free Food",
+      "description": "Free food at St. Andrew Presbyterian Church. Schedule: Tue 4 PM–5 PM; Fri 9:30 AM–10:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Andrew Presbyterian Church",
+      "address": "16290 Arnold Dr, Sonoma, CA 95476",
+      "lat": 38.32855,
+      "lng": -122.50894,
+      "category": "food-assistance",
+      "sourceOrg": "St. Andrew Presbyterian Church",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Tue 4 PM–5 PM; Fri 9:30 AM–10:30 AM",
+      "start": "2026-09-28T09:30",
+      "end": "2026-09-28T10:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-leo-church-svdp-w2-0830",
+      "seriesSlug": "add-st-leo-church-svdp",
+      "title": "St. Leo Church SVdP — Free Food",
+      "description": "Free food at St. Leo Church SVdP. Schedule: Tue 8:30 AM–9:30 AM; Wed–Fri 11:30 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Leo Church SVdP",
+      "address": "601 Agua Caliente Rd W, Sonoma, CA 95476",
+      "lat": 38.323488,
+      "lng": -122.495947,
+      "category": "food-assistance",
+      "sourceOrg": "St. Leo Church SVdP",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Tue 8:30 AM–9:30 AM; Wed–Fri 11:30 AM–12 PM",
+      "start": "2026-09-28T08:30",
+      "end": "2026-09-28T09:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-leo-church-svdp-w345-1130",
+      "seriesSlug": "add-st-leo-church-svdp",
+      "title": "St. Leo Church SVdP — Free Food",
+      "description": "Free food at St. Leo Church SVdP. Schedule: Tue 8:30 AM–9:30 AM; Wed–Fri 11:30 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Leo Church SVdP",
+      "address": "601 Agua Caliente Rd W, Sonoma, CA 95476",
+      "lat": 38.323488,
+      "lng": -122.495947,
+      "category": "food-assistance",
+      "sourceOrg": "St. Leo Church SVdP",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Tue 8:30 AM–9:30 AM; Wed–Fri 11:30 AM–12 PM",
+      "start": "2026-09-28T11:30",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-alliance-medical-center-windsor-w5-0900",
+      "seriesSlug": "add-alliance-medical-center-windsor",
+      "title": "Alliance Medical Center - Windsor — Free Food",
+      "description": "Free food at Alliance Medical Center - Windsor. Schedule: Fri 9 AM–9:15 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Alliance Medical Center - Windsor",
+      "address": "8465 Old Redwood Hwy, Windsor, CA 95492",
+      "lat": 38.54259,
+      "lng": -122.800737,
+      "category": "food-assistance",
+      "sourceOrg": "Alliance Medical Center - Windsor",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Fri 9 AM–9:15 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T09:15",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-forest-winds-apartments-m12-1300",
+      "seriesSlug": "add-forest-winds-apartments",
+      "title": "Forest Winds Apartments — Free Food",
+      "description": "Free food at Forest Winds Apartments. Schedule: 1st Tue 1 PM–1:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Forest Winds Apartments",
+      "address": "6697 Old Redwood Hwy, Windsor, CA 95492",
+      "lat": 38.539576,
+      "lng": -122.795883,
+      "category": "food-assistance",
+      "sourceOrg": "Forest Winds Apartments",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "1st Tue 1 PM–1:30 PM",
+      "start": "2026-10-06T13:00",
+      "end": "2026-10-06T13:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "1:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-keiser-park-w3-1330",
+      "seriesSlug": "add-keiser-park",
+      "title": "Keiser Park — Free Food",
+      "description": "Free food at Keiser Park. Schedule: Wed 1:30 PM–2:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Keiser Park",
+      "address": "700 Windsor River Rd, Windsor, CA 95492",
+      "lat": 38.545052,
+      "lng": -122.822436,
+      "category": "food-assistance",
+      "sourceOrg": "Keiser Park",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Wed 1:30 PM–2:30 PM",
+      "start": "2026-09-28T13:30",
+      "end": "2026-09-28T14:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-nuestra-comunidad-bluebird-campus-m2545-1000",
+      "seriesSlug": "add-nuestra-comunidad-bluebird-campus",
+      "title": "Nuestra Comunidad Bluebird Campus — Free Food",
+      "description": "Free food at Nuestra Comunidad Bluebird Campus. Schedule: 2nd Fri & 4th Fri 10 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Nuestra Comunidad Bluebird Campus",
+      "address": "21 Bluebird Dr Bldg D, Windsor, CA 95492",
+      "lat": 38.54406,
+      "lng": -122.80336,
+      "category": "food-assistance",
+      "sourceOrg": "Nuestra Comunidad Bluebird Campus",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "2nd Fri & 4th Fri 10 AM–11 AM",
+      "start": "2026-10-09T10:00",
+      "end": "2026-10-09T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "2:5,4:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-our-lady-of-guadalupe-church-w6-0800",
+      "seriesSlug": "add-our-lady-of-guadalupe-church",
+      "title": "Our Lady of Guadalupe Church — Free Food",
+      "description": "Free food at Our Lady of Guadalupe Church. Schedule: Sat 8 AM–9 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Our Lady of Guadalupe Church",
+      "address": "8400 Old Redwood Hwy, Windsor, CA 95492",
+      "lat": 38.543904,
+      "lng": -122.79971,
+      "category": "food-assistance",
+      "sourceOrg": "Our Lady of Guadalupe Church",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Sat 8 AM–9 AM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T09:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-vinecrest-senior-apartments-m12-1100",
+      "seriesSlug": "add-vinecrest-senior-apartments",
+      "title": "Vinecrest Senior Apartments — Free Food",
+      "description": "Free food at Vinecrest Senior Apartments. Schedule: 1st Tue 11 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Vinecrest Senior Apartments",
+      "address": "8400 Hembree Ln, Windsor, CA 95492",
+      "lat": 38.543471,
+      "lng": -122.798521,
+      "category": "food-assistance",
+      "sourceOrg": "Vinecrest Senior Apartments",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "1st Tue 11 AM–12 PM",
+      "start": "2026-10-06T11:00",
+      "end": "2026-10-06T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "1:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-windsor-presbyterian-church-w2-0830",
+      "seriesSlug": "add-windsor-presbyterian-church",
+      "title": "Windsor Presbyterian Church — Free Food",
+      "description": "Free food at Windsor Presbyterian Church. Schedule: Tue 8:30 AM–10 AM. Call 707-838-1566 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Windsor Presbyterian Church",
+      "address": "251 Windsor River Rd, Windsor, CA 95492",
+      "lat": 38.54755,
+      "lng": -122.81418,
+      "category": "food-assistance",
+      "sourceOrg": "Windsor Presbyterian Church",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Tue 8:30 AM–10 AM",
+      "start": "2026-09-28T08:30",
+      "end": "2026-09-28T10:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-windsor-senior-center-m1535-1000",
+      "seriesSlug": "add-windsor-senior-center",
+      "title": "Windsor Senior Center — Free Food",
+      "description": "Free food at Windsor Senior Center. Schedule: 1st Fri & 3rd Fri 10 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Windsor Senior Center",
+      "address": "9231 Foxwood Dr, Windsor, CA 95492",
+      "lat": 38.553049,
+      "lng": -122.81086,
+      "category": "food-assistance",
+      "sourceOrg": "Windsor Senior Center",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "1st Fri & 3rd Fri 10 AM–11 AM",
+      "start": "2026-10-09T10:00",
+      "end": "2026-10-09T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "1:5,3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-windsor-service-alliance-w5-1300",
+      "seriesSlug": "add-windsor-service-alliance",
+      "title": "Windsor Service Alliance — Free Food",
+      "description": "Free food at Windsor Service Alliance. Schedule: Fri 1 PM–4 PM. Call 707-838-6947 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Windsor Service Alliance",
+      "address": "8987 Windsor Rd, Windsor, CA 95492",
+      "lat": 38.54676,
+      "lng": -122.81734,
+      "category": "food-assistance",
+      "sourceOrg": "Windsor Service Alliance",
+      "url": "https://getfood.refb.org",
+      "schedulePattern": "Fri 1 PM–4 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    }
+  ]
+}

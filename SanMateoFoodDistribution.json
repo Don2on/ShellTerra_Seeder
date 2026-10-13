@@ -1,0 +1,2825 @@
+{
+  "_meta": {
+    "topic": "Net-new SanMateo County food distributions",
+    "generated": "2026-10-05",
+    "source": "Research supplementing shell PENDING-SanMateo; raw ./SanMateoAdditions-raw.json."
+  },
+  "_deferred": {},
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "add-selby-lane-school-m24-1445",
+      "seriesSlug": "add-selby-lane-school",
+      "title": "Selby Lane School — Free Food",
+      "description": "Free food at Selby Lane School. Schedule: 2nd Thu 2:45 PM–4:45 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Selby Lane School",
+      "address": "170 Selby Lane, Atherton, CA 94027",
+      "lat": 37.458232,
+      "lng": -122.220199,
+      "category": "food-assistance",
+      "sourceOrg": "Selby Lane School",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "2nd Thu 2:45 PM–4:45 PM",
+      "start": "2026-10-08T14:45",
+      "end": "2026-10-08T16:45",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "2:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-menlo-college-pantry-w1234-1500",
+      "seriesSlug": "add-menlo-college-pantry",
+      "title": "Menlo College pantry — Free Food",
+      "description": "Free food at Menlo College pantry. Schedule: Mon–Thu 3 PM–9 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Menlo College pantry",
+      "address": "1000 El Camino Real, Atherton, CA 94027",
+      "lat": 37.456804,
+      "lng": -122.191805,
+      "category": "food-assistance",
+      "sourceOrg": "Menlo College pantry",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Mon–Thu 3 PM–9 PM",
+      "start": "2026-09-28T15:00",
+      "end": "2026-09-28T21:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-yaseen-belmont-masjid-m46-0745",
+      "seriesSlug": "add-yaseen-belmont-masjid",
+      "title": "Yaseen Belmont Masjid — Free Food",
+      "description": "Free food at Yaseen Belmont Masjid. Schedule: 4th Sat 7:45 AM–9 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Yaseen Belmont Masjid",
+      "address": "621 Masonic Way, Belmont, CA 94002",
+      "lat": 37.522666,
+      "lng": -122.274439,
+      "category": "food-assistance",
+      "sourceOrg": "Yaseen Belmont Masjid",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "4th Sat 7:45 AM–9 AM",
+      "start": "2026-10-10T07:45",
+      "end": "2026-10-10T09:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-call-primrose-w12345-0930",
+      "seriesSlug": "add-call-primrose",
+      "title": "CALL Primrose — Free Food",
+      "description": "Free food at CALL Primrose. Schedule: Mon–Fri 9:30 AM–2:45 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "CALL Primrose",
+      "address": "139 Primrose Road, Burlingame, CA 94010",
+      "lat": 37.576241,
+      "lng": -122.346596,
+      "category": "food-assistance",
+      "sourceOrg": "CALL Primrose",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Mon–Fri 9:30 AM–2:45 PM",
+      "start": "2026-09-28T09:30",
+      "end": "2026-09-28T14:45",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-support-life-m35-1100",
+      "seriesSlug": "add-support-life",
+      "title": "Support Life — Free Food",
+      "description": "Free food at Support Life. Schedule: 3rd Fri 11 AM–1 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Support Life",
+      "address": "1722 Gilbreth Road, Burlingame, CA 94010",
+      "lat": 37.59934,
+      "lng": -122.37404,
+      "category": "food-assistance",
+      "sourceOrg": "Support Life",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "3rd Fri 11 AM–1 PM",
+      "start": "2026-10-09T11:00",
+      "end": "2026-10-09T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-colma-historical-society-m33-0930",
+      "seriesSlug": "add-colma-historical-society",
+      "title": "Colma Historical Society — Free Food",
+      "description": "Free food at Colma Historical Society. Schedule: 3rd Wed 9:30 AM–11:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Colma Historical Society",
+      "address": "1500 Hillside Boulevard, Colma, CA 94014",
+      "lat": 37.682394,
+      "lng": -122.456555,
+      "category": "food-assistance",
+      "sourceOrg": "Colma Historical Society",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "3rd Wed 9:30 AM–11:30 AM",
+      "start": "2026-10-07T09:30",
+      "end": "2026-10-07T11:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-doelger-lincoln-senior-centers-meal-program-w12345-1200",
+      "seriesSlug": "add-doelger-lincoln-senior-centers-meal-program",
+      "title": "Doelger & Lincoln Senior Centers (meal program) — Free Food",
+      "description": "Free food at Doelger & Lincoln Senior Centers (meal program). Schedule: Mon–Fri 12 PM–1 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Doelger & Lincoln Senior Centers (meal program)",
+      "address": "101 Lake Merced Boulevard, Daly City, CA 94015",
+      "lat": 37.704958,
+      "lng": -122.484688,
+      "category": "food-assistance",
+      "sourceOrg": "Doelger & Lincoln Senior Centers (meal program)",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Mon–Fri 12 PM–1 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-daly-city-partnership-w123-1030",
+      "seriesSlug": "add-daly-city-partnership",
+      "title": "Daly City Partnership — Free Food",
+      "description": "Free food at Daly City Partnership. Schedule: Mon–Wed 10:30 AM–2 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Daly City Partnership",
+      "address": "350 90th Street 1st Floor, Daly City, CA 94015",
+      "lat": 37.691495,
+      "lng": -122.473187,
+      "category": "food-assistance",
+      "sourceOrg": "Daly City Partnership",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Mon–Wed 10:30 AM–2 PM",
+      "start": "2026-09-28T10:30",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-doelger-lincoln-senior-centers-groceries-m1232-0900",
+      "seriesSlug": "add-doelger-lincoln-senior-centers-groceries",
+      "title": "Doelger & Lincoln Senior Centers (groceries) — Free Food",
+      "description": "Free food at Doelger & Lincoln Senior Centers (groceries). Schedule: 1st Tue & 3rd Tue 9 AM–11:45 AM; 2nd Thu & 4th Thu 9 AM–11:45 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Doelger & Lincoln Senior Centers (groceries)",
+      "address": "101 Lake Merced Boulevard, Daly City, CA 94015",
+      "lat": 37.704958,
+      "lng": -122.484688,
+      "category": "food-assistance",
+      "sourceOrg": "Doelger & Lincoln Senior Centers (groceries)",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "1st Tue & 3rd Tue 9 AM–11:45 AM; 2nd Thu & 4th Thu 9 AM–11:45 AM",
+      "start": "2026-10-06T09:00",
+      "end": "2026-10-06T11:45",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 2
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "1:2,3:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-doelger-lincoln-senior-centers-groceries-m2444-0900",
+      "seriesSlug": "add-doelger-lincoln-senior-centers-groceries",
+      "title": "Doelger & Lincoln Senior Centers (groceries) — Free Food",
+      "description": "Free food at Doelger & Lincoln Senior Centers (groceries). Schedule: 1st Tue & 3rd Tue 9 AM–11:45 AM; 2nd Thu & 4th Thu 9 AM–11:45 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Doelger & Lincoln Senior Centers (groceries)",
+      "address": "101 Lake Merced Boulevard, Daly City, CA 94015",
+      "lat": 37.704958,
+      "lng": -122.484688,
+      "category": "food-assistance",
+      "sourceOrg": "Doelger & Lincoln Senior Centers (groceries)",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "1st Tue & 3rd Tue 9 AM–11:45 AM; 2nd Thu & 4th Thu 9 AM–11:45 AM",
+      "start": "2026-10-08T09:00",
+      "end": "2026-10-08T11:45",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "2:4,4:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-lincoln-community-center-m2343-1400",
+      "seriesSlug": "add-lincoln-community-center",
+      "title": "Lincoln Community Center — Free Food",
+      "description": "Free food at Lincoln Community Center. Schedule: 2nd Wed & 4th Wed 2 PM–3 PM; Mon–Fri 12 PM–1 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Lincoln Community Center",
+      "address": "901 Brunswick Street, Daly City, CA 94014",
+      "lat": 37.70706,
+      "lng": -122.45211,
+      "category": "food-assistance",
+      "sourceOrg": "Lincoln Community Center",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "2nd Wed & 4th Wed 2 PM–3 PM; Mon–Fri 12 PM–1 PM",
+      "start": "2026-10-07T14:00",
+      "end": "2026-10-07T15:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "2:3,4:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-lincoln-community-center-w12345-1200",
+      "seriesSlug": "add-lincoln-community-center",
+      "title": "Lincoln Community Center — Free Food",
+      "description": "Free food at Lincoln Community Center. Schedule: 2nd Wed & 4th Wed 2 PM–3 PM; Mon–Fri 12 PM–1 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Lincoln Community Center",
+      "address": "901 Brunswick Street, Daly City, CA 94014",
+      "lat": 37.70706,
+      "lng": -122.45211,
+      "category": "food-assistance",
+      "sourceOrg": "Lincoln Community Center",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "2nd Wed & 4th Wed 2 PM–3 PM; Mon–Fri 12 PM–1 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-our-second-home-w12345-1130",
+      "seriesSlug": "add-our-second-home",
+      "title": "Our Second Home — Free Food",
+      "description": "Free food at Our Second Home. Schedule: Mon–Fri 11:30 AM–1:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Our Second Home",
+      "address": "725 Price Street, Daly City, CA 94014",
+      "lat": 37.69503,
+      "lng": -122.45584,
+      "category": "food-assistance",
+      "sourceOrg": "Our Second Home",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Mon–Fri 11:30 AM–1:30 PM",
+      "start": "2026-09-28T11:30",
+      "end": "2026-09-28T13:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-bayshore-community-center-meal-program-w12345-1200",
+      "seriesSlug": "add-bayshore-community-center-meal-program",
+      "title": "Bayshore Community Center (meal program) — Free Food",
+      "description": "Free food at Bayshore Community Center (meal program). Schedule: Mon–Fri 12 PM–1 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Bayshore Community Center (meal program)",
+      "address": "450 Martin St, Daly City, CA 94014",
+      "lat": 37.701846,
+      "lng": -122.41904,
+      "category": "food-assistance",
+      "sourceOrg": "Bayshore Community Center (meal program)",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Mon–Fri 12 PM–1 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-gellert-community-center-meal-program-w12345-1200",
+      "seriesSlug": "add-gellert-community-center-meal-program",
+      "title": "Gellert Community Center (meal program) — Free Food",
+      "description": "Free food at Gellert Community Center (meal program). Schedule: Mon–Fri 12 PM–1 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Gellert Community Center (meal program)",
+      "address": "50 Wembley Drive, Daly City, CA 94015",
+      "lat": 37.66347,
+      "lng": -122.47084,
+      "category": "food-assistance",
+      "sourceOrg": "Gellert Community Center (meal program)",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Mon–Fri 12 PM–1 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-boys-girls-clubs-of-the-peninsula-m1535-1700",
+      "seriesSlug": "add-boys-girls-clubs-of-the-peninsula",
+      "title": "Boys & Girls Clubs of the Peninsula — Free Food",
+      "description": "Free food at Boys & Girls Clubs of the Peninsula. Schedule: 1st Fri & 3rd Fri 5 PM–6 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Boys & Girls Clubs of the Peninsula",
+      "address": "2031 Pulgas Ave, East Palo Alto, CA 94303",
+      "lat": 37.461486,
+      "lng": -122.130628,
+      "category": "food-assistance",
+      "sourceOrg": "Boys & Girls Clubs of the Peninsula",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "1st Fri & 3rd Fri 5 PM–6 PM",
+      "start": "2026-10-09T17:00",
+      "end": "2026-10-09T18:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "1:5,3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-runnymede-gardens-apartments-m44-1030",
+      "seriesSlug": "add-runnymede-gardens-apartments",
+      "title": "Runnymede Gardens Apartments — Free Food",
+      "description": "Free food at Runnymede Gardens Apartments. Schedule: 4th Thu 10:30 AM–11:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Runnymede Gardens Apartments",
+      "address": "2301 Cooley Ave, East Palo Alto, CA 94303",
+      "lat": 37.468907,
+      "lng": -122.139882,
+      "category": "food-assistance",
+      "sourceOrg": "Runnymede Gardens Apartments",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "4th Thu 10:30 AM–11:30 AM",
+      "start": "2026-10-08T10:30",
+      "end": "2026-10-08T11:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "4:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-costano-elementary-school-m2646-0830",
+      "seriesSlug": "add-costano-elementary-school",
+      "title": "Costano Elementary School — Free Food",
+      "description": "Free food at Costano Elementary School. Schedule: 2nd Sat & 4th Sat 8:30 AM–11:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Costano Elementary School",
+      "address": "2086 Clarke Ave, East Palo Alto, CA 94303",
+      "lat": 37.46199,
+      "lng": -122.13388,
+      "category": "food-assistance",
+      "sourceOrg": "Costano Elementary School",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "2nd Sat & 4th Sat 8:30 AM–11:30 AM",
+      "start": "2026-10-10T08:30",
+      "end": "2026-10-10T11:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6,4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-ecumenical-hunger-program-w1234-0900",
+      "seriesSlug": "add-ecumenical-hunger-program",
+      "title": "Ecumenical Hunger Program — Free Food",
+      "description": "Free food at Ecumenical Hunger Program. Schedule: Mon–Thu 9 AM–12 PM; Mon–Thu 2 PM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Ecumenical Hunger Program",
+      "address": "2411 Pulgas Avenue, East Palo Alto, CA 94303",
+      "lat": 37.470733,
+      "lng": -122.130873,
+      "category": "food-assistance",
+      "sourceOrg": "Ecumenical Hunger Program",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Mon–Thu 9 AM–12 PM; Mon–Thu 2 PM–5 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-ecumenical-hunger-program-w1234-1400",
+      "seriesSlug": "add-ecumenical-hunger-program",
+      "title": "Ecumenical Hunger Program — Free Food",
+      "description": "Free food at Ecumenical Hunger Program. Schedule: Mon–Thu 9 AM–12 PM; Mon–Thu 2 PM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Ecumenical Hunger Program",
+      "address": "2411 Pulgas Avenue, East Palo Alto, CA 94303",
+      "lat": 37.470733,
+      "lng": -122.130873,
+      "category": "food-assistance",
+      "sourceOrg": "Ecumenical Hunger Program",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Mon–Thu 9 AM–12 PM; Mon–Thu 2 PM–5 PM",
+      "start": "2026-09-28T14:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-one-east-palo-alto-w4-1400",
+      "seriesSlug": "add-one-east-palo-alto",
+      "title": "One East Palo Alto — Free Food",
+      "description": "Free food at One East Palo Alto. Schedule: Thu 2 PM–3:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "One East Palo Alto",
+      "address": "2100 Bay Road, East Palo Alto, CA 94303",
+      "lat": 37.476653,
+      "lng": -122.121723,
+      "category": "food-assistance",
+      "sourceOrg": "One East Palo Alto",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Thu 2 PM–3:30 PM",
+      "start": "2026-09-28T14:00",
+      "end": "2026-09-28T15:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-wehope-w2-1130",
+      "seriesSlug": "add-wehope",
+      "title": "WeHOPE — Free Food",
+      "description": "Free food at WeHOPE. Schedule: Tue 11:30 AM–1:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "WeHOPE",
+      "address": "1854 Bay Rd, East Palo Alto, CA 94303",
+      "lat": 37.47158,
+      "lng": -122.13315,
+      "category": "food-assistance",
+      "sourceOrg": "WeHOPE",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Tue 11:30 AM–1:30 PM",
+      "start": "2026-09-28T11:30",
+      "end": "2026-09-28T13:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-los-robles-ronald-mcnair-academy-w1-1400",
+      "seriesSlug": "add-los-robles-ronald-mcnair-academy",
+      "title": "Los Robles Ronald McNair Academy — Free Food",
+      "description": "Free food at Los Robles Ronald McNair Academy. Schedule: Mon 2 PM–3 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Los Robles Ronald McNair Academy",
+      "address": "2033 Pulgas Ave, East Palo Alto, CA 94303",
+      "lat": 37.462218,
+      "lng": -122.130538,
+      "category": "food-assistance",
+      "sourceOrg": "Los Robles Ronald McNair Academy",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Mon 2 PM–3 PM",
+      "start": "2026-09-28T14:00",
+      "end": "2026-09-28T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-midpen-housing-m44-1030",
+      "seriesSlug": "add-midpen-housing",
+      "title": "MidPen Housing — Free Food",
+      "description": "Free food at MidPen Housing. Schedule: 4th Thu 10:30 AM–11:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "MidPen Housing",
+      "address": "2358 University Avenue, East Palo Alto, CA 94303",
+      "lat": 37.46973,
+      "lng": -122.14037,
+      "category": "food-assistance",
+      "sourceOrg": "MidPen Housing",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "4th Thu 10:30 AM–11:30 AM",
+      "start": "2026-10-08T10:30",
+      "end": "2026-10-08T11:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "4:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-samaritan-house-east-palo-alto-meal-w5-1530",
+      "seriesSlug": "add-samaritan-house-east-palo-alto-meal",
+      "title": "Samaritan House East Palo Alto (meal) — Free Food",
+      "description": "Free food at Samaritan House East Palo Alto (meal). Schedule: Fri 3:30 PM–4:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Samaritan House East Palo Alto (meal)",
+      "address": "1832 Bay Road, East Palo Alto, CA 94303",
+      "lat": 37.472286,
+      "lng": -122.13338,
+      "category": "food-assistance",
+      "sourceOrg": "Samaritan House East Palo Alto (meal)",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Fri 3:30 PM–4:30 PM",
+      "start": "2026-09-28T15:30",
+      "end": "2026-09-28T16:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-onyxx-village-connection-mobile-meals-w1234-1100",
+      "seriesSlug": "add-onyxx-village-connection-mobile-meals",
+      "title": "Onyxx Village Connection (mobile meals) — Free Food",
+      "description": "Free food at Onyxx Village Connection (mobile meals). Schedule: Mon–Thu 11 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Onyxx Village Connection (mobile meals)",
+      "address": "Mobile van, East Palo Alto, CA 94303",
+      "lat": 37.471699,
+      "lng": -122.1394,
+      "category": "food-assistance",
+      "sourceOrg": "Onyxx Village Connection (mobile meals)",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Mon–Thu 11 AM–12 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-foster-city-library-m1535-0830",
+      "seriesSlug": "add-foster-city-library",
+      "title": "Foster City Library — Free Food",
+      "description": "Free food at Foster City Library. Schedule: 1st Fri & 3rd Fri 8:30 AM–9:45 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Foster City Library",
+      "address": "1000 East Hillsdale Boulevard, Foster City, CA 94404",
+      "lat": 37.558803,
+      "lng": -122.270783,
+      "category": "food-assistance",
+      "sourceOrg": "Foster City Library",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "1st Fri & 3rd Fri 8:30 AM–9:45 AM",
+      "start": "2026-10-09T08:30",
+      "end": "2026-10-09T09:45",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "1:5,3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-half-moon-village-apartments-m2141-1330",
+      "seriesSlug": "add-half-moon-village-apartments",
+      "title": "Half Moon Village Apartments — Free Food",
+      "description": "Free food at Half Moon Village Apartments. Schedule: 2nd Mon & 4th Mon 1:30 PM–2:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Half Moon Village Apartments",
+      "address": "801 Arnold Way, Half Moon Bay, CA 94019",
+      "lat": 37.456623,
+      "lng": -122.428072,
+      "category": "food-assistance",
+      "sourceOrg": "Half Moon Village Apartments",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "2nd Mon & 4th Mon 1:30 PM–2:30 PM",
+      "start": "2026-10-05T13:30",
+      "end": "2026-10-05T14:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 1
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "2:1,4:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-main-street-park-apartments-m13-1530",
+      "seriesSlug": "add-main-street-park-apartments",
+      "title": "Main Street Park Apartments — Free Food",
+      "description": "Free food at Main Street Park Apartments. Schedule: 1st Wed 3:30 PM–5:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Main Street Park Apartments",
+      "address": "1101 Main Street, Half Moon Bay, CA 94019",
+      "lat": 37.454323,
+      "lng": -122.429314,
+      "category": "food-assistance",
+      "sourceOrg": "Main Street Park Apartments",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "1st Wed 3:30 PM–5:30 PM",
+      "start": "2026-10-07T15:30",
+      "end": "2026-10-07T17:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "1:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-moonridge-apartments-m33-1530",
+      "seriesSlug": "add-moonridge-apartments",
+      "title": "Moonridge Apartments — Free Food",
+      "description": "Free food at Moonridge Apartments. Schedule: 3rd Wed 3:30 PM–5:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Moonridge Apartments",
+      "address": "2001 Miramontes Point Rd, Half Moon Bay, CA 94019",
+      "lat": 37.434362,
+      "lng": -122.416535,
+      "category": "food-assistance",
+      "sourceOrg": "Moonridge Apartments",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "3rd Wed 3:30 PM–5:30 PM",
+      "start": "2026-10-07T15:30",
+      "end": "2026-10-07T17:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-ted-adcock-community-center-m2444-1500",
+      "seriesSlug": "add-ted-adcock-community-center",
+      "title": "Ted Adcock Community Center — Free Food",
+      "description": "Free food at Ted Adcock Community Center. Schedule: 2nd Thu & 4th Thu 3 PM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Ted Adcock Community Center",
+      "address": "535 Kelly Avenue, Half Moon Bay, CA 94019",
+      "lat": 37.464609,
+      "lng": -122.432211,
+      "category": "food-assistance",
+      "sourceOrg": "Ted Adcock Community Center",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "2nd Thu & 4th Thu 3 PM–5 PM",
+      "start": "2026-10-08T15:00",
+      "end": "2026-10-08T17:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "2:4,4:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-no-strings-attached-breakfast-meal-w6-0900",
+      "seriesSlug": "add-no-strings-attached-breakfast-meal",
+      "title": "No Strings Attached Breakfast (meal) — Free Food",
+      "description": "Free food at No Strings Attached Breakfast (meal). Schedule: Sat 9 AM–10 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "No Strings Attached Breakfast (meal)",
+      "address": "925 Main Street, Half Moon Bay, CA 94019",
+      "lat": 37.456519,
+      "lng": -122.429664,
+      "category": "food-assistance",
+      "sourceOrg": "No Strings Attached Breakfast (meal)",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Sat 9 AM–10 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T10:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-senior-coastsiders-meal-program-w12345-1000",
+      "seriesSlug": "add-senior-coastsiders-meal-program",
+      "title": "Senior Coastsiders (meal program) — Free Food",
+      "description": "Free food at Senior Coastsiders (meal program). Schedule: Mon–Fri 10 AM–2 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Senior Coastsiders (meal program)",
+      "address": "925 Main St, Half Moon Bay, CA 94019",
+      "lat": 37.456519,
+      "lng": -122.429664,
+      "category": "food-assistance",
+      "sourceOrg": "Senior Coastsiders (meal program)",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Mon–Fri 10 AM–2 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-ayudando-latinos-a-sonar-alas-w12345-0900",
+      "seriesSlug": "add-ayudando-latinos-a-sonar-alas",
+      "title": "Ayudando Latinos A Sonar (ALAS) — Free Food",
+      "description": "Free food at Ayudando Latinos A Sonar (ALAS). Schedule: Mon–Fri 9 AM–4:30 PM; 2nd Sat & 4th Sat 10 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Ayudando Latinos A Sonar (ALAS)",
+      "address": "507 Purissima Street, Half Moon Bay, CA 94019",
+      "lat": 37.463402,
+      "lng": -122.42994,
+      "category": "food-assistance",
+      "sourceOrg": "Ayudando Latinos A Sonar (ALAS)",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Mon–Fri 9 AM–4:30 PM; 2nd Sat & 4th Sat 10 AM–12 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T16:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-ayudando-latinos-a-sonar-alas-m2646-1000",
+      "seriesSlug": "add-ayudando-latinos-a-sonar-alas",
+      "title": "Ayudando Latinos A Sonar (ALAS) — Free Food",
+      "description": "Free food at Ayudando Latinos A Sonar (ALAS). Schedule: Mon–Fri 9 AM–4:30 PM; 2nd Sat & 4th Sat 10 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Ayudando Latinos A Sonar (ALAS)",
+      "address": "507 Purissima Street, Half Moon Bay, CA 94019",
+      "lat": 37.463402,
+      "lng": -122.42994,
+      "category": "food-assistance",
+      "sourceOrg": "Ayudando Latinos A Sonar (ALAS)",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Mon–Fri 9 AM–4:30 PM; 2nd Sat & 4th Sat 10 AM–12 PM",
+      "start": "2026-10-10T10:00",
+      "end": "2026-10-10T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6,4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-coastside-hope-pantry-w1245-0830",
+      "seriesSlug": "add-coastside-hope-pantry",
+      "title": "Coastside Hope Pantry — Free Food",
+      "description": "Free food at Coastside Hope Pantry. Schedule: Mon–Tue, Thu–Fri 8:30 AM–12 PM; Mon–Fri 1 PM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Coastside Hope Pantry",
+      "address": "248 Main Street, Half Moon Bay, CA 94019",
+      "lat": 37.467002,
+      "lng": -122.429873,
+      "category": "food-assistance",
+      "sourceOrg": "Coastside Hope Pantry",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Mon–Tue, Thu–Fri 8:30 AM–12 PM; Mon–Fri 1 PM–5 PM",
+      "start": "2026-09-28T08:30",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-coastside-hope-pantry-w12345-1300",
+      "seriesSlug": "add-coastside-hope-pantry",
+      "title": "Coastside Hope Pantry — Free Food",
+      "description": "Free food at Coastside Hope Pantry. Schedule: Mon–Tue, Thu–Fri 8:30 AM–12 PM; Mon–Fri 1 PM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Coastside Hope Pantry",
+      "address": "248 Main Street, Half Moon Bay, CA 94019",
+      "lat": 37.467002,
+      "lng": -122.429873,
+      "category": "food-assistance",
+      "sourceOrg": "Coastside Hope Pantry",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Mon–Tue, Thu–Fri 8:30 AM–12 PM; Mon–Fri 1 PM–5 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-svdp-our-lady-of-the-pillar-w1-1230",
+      "seriesSlug": "add-svdp-our-lady-of-the-pillar",
+      "title": "SVDP Our Lady of the Pillar — Free Food",
+      "description": "Free food at SVDP Our Lady of the Pillar. Schedule: Mon 12:30 PM–2:30 PM; Sat 10 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "SVDP Our Lady of the Pillar",
+      "address": "400 Church St, Half Moon Bay, CA 94019",
+      "lat": 37.464582,
+      "lng": -122.431413,
+      "category": "food-assistance",
+      "sourceOrg": "SVDP Our Lady of the Pillar",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Mon 12:30 PM–2:30 PM; Sat 10 AM–12 PM",
+      "start": "2026-09-28T12:30",
+      "end": "2026-09-28T14:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-svdp-our-lady-of-the-pillar-w6-1000",
+      "seriesSlug": "add-svdp-our-lady-of-the-pillar",
+      "title": "SVDP Our Lady of the Pillar — Free Food",
+      "description": "Free food at SVDP Our Lady of the Pillar. Schedule: Mon 12:30 PM–2:30 PM; Sat 10 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "SVDP Our Lady of the Pillar",
+      "address": "400 Church St, Half Moon Bay, CA 94019",
+      "lat": 37.464582,
+      "lng": -122.431413,
+      "category": "food-assistance",
+      "sourceOrg": "SVDP Our Lady of the Pillar",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Mon 12:30 PM–2:30 PM; Sat 10 AM–12 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-coastside-adult-day-health-center-meal-w12345-1200",
+      "seriesSlug": "add-coastside-adult-day-health-center-meal",
+      "title": "Coastside Adult Day Health Center (meal) — Free Food",
+      "description": "Free food at Coastside Adult Day Health Center (meal). Schedule: Mon–Fri 12 PM–1 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Coastside Adult Day Health Center (meal)",
+      "address": "925 Main Street Suite A, Half Moon Bay, CA 94019",
+      "lat": 37.456519,
+      "lng": -122.429664,
+      "category": "food-assistance",
+      "sourceOrg": "Coastside Adult Day Health Center (meal)",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Mon–Fri 12 PM–1 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-svdp-our-lady-of-refuge-w7-1200",
+      "seriesSlug": "add-svdp-our-lady-of-refuge",
+      "title": "SVDP Our Lady of Refuge — Free Food",
+      "description": "Free food at SVDP Our Lady of Refuge. Schedule: Sun 12 PM–1 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "SVDP Our Lady of Refuge",
+      "address": "146 Sears Ranch Road, La Honda, CA 94020",
+      "lat": 37.32059,
+      "lng": -122.27627,
+      "category": "food-assistance",
+      "sourceOrg": "SVDP Our Lady of Refuge",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Sun 12 PM–1 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-garfield-community-school-m2242-1500",
+      "seriesSlug": "add-garfield-community-school",
+      "title": "Garfield Community School — Free Food",
+      "description": "Free food at Garfield Community School. Schedule: 2nd Tue & 4th Tue 3 PM–4 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Garfield Community School",
+      "address": "3600 Middlefield Road, Menlo Park, CA 94025",
+      "lat": 37.470006,
+      "lng": -122.202653,
+      "category": "food-assistance",
+      "sourceOrg": "Garfield Community School",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "2nd Tue & 4th Tue 3 PM–4 PM",
+      "start": "2026-10-06T15:00",
+      "end": "2026-10-06T16:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 2
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "2:2,4:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-menlo-park-senior-center-m2444-1000",
+      "seriesSlug": "add-menlo-park-senior-center",
+      "title": "Menlo Park Senior Center — Free Food",
+      "description": "Free food at Menlo Park Senior Center. Schedule: 2nd Thu & 4th Thu 10 AM–11:45 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Menlo Park Senior Center",
+      "address": "100 Terminal Ave, Menlo Park, CA 94025",
+      "lat": 37.478714,
+      "lng": -122.168565,
+      "category": "food-assistance",
+      "sourceOrg": "Menlo Park Senior Center",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "2nd Thu & 4th Thu 10 AM–11:45 AM",
+      "start": "2026-10-08T10:00",
+      "end": "2026-10-08T11:45",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "2:4,4:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-mt-olive-apostolic-holy-church-of-god-meal-w1234-1600",
+      "seriesSlug": "add-mt-olive-apostolic-holy-church-of-god-meal",
+      "title": "Mt. Olive Apostolic Holy Church of God (meal) — Free Food",
+      "description": "Free food at Mt. Olive Apostolic Holy Church of God (meal). Schedule: Mon–Thu 4 PM–6 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Mt. Olive Apostolic Holy Church of God (meal)",
+      "address": "605 Hamilton Avenue, Menlo Park, CA 94025",
+      "lat": 37.47959,
+      "lng": -122.157453,
+      "category": "food-assistance",
+      "sourceOrg": "Mt. Olive Apostolic Holy Church of God (meal)",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Mon–Thu 4 PM–6 PM",
+      "start": "2026-09-28T16:00",
+      "end": "2026-09-28T18:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-anthony-s-dining-room-meal-w123456-1100",
+      "seriesSlug": "add-st-anthony-s-dining-room-meal",
+      "title": "St. Anthony's Dining Room (meal) — Free Food",
+      "description": "Free food at St. Anthony's Dining Room (meal). Schedule: Mon–Sat 11 AM–1 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Anthony's Dining Room (meal)",
+      "address": "3500 Middlefield Road, Menlo Park, CA 94025",
+      "lat": 37.468444,
+      "lng": -122.201579,
+      "category": "food-assistance",
+      "sourceOrg": "St. Anthony's Dining Room (meal)",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Mon–Sat 11 AM–1 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5,6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-belle-haven-elementary-school-w5-1400",
+      "seriesSlug": "add-belle-haven-elementary-school",
+      "title": "Belle Haven Elementary School — Free Food",
+      "description": "Free food at Belle Haven Elementary School. Schedule: Fri 2 PM–3 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Belle Haven Elementary School",
+      "address": "415 Ivy Drive, Menlo Park, CA 94025",
+      "lat": 37.476638,
+      "lng": -122.160738,
+      "category": "food-assistance",
+      "sourceOrg": "Belle Haven Elementary School",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Fri 2 PM–3 PM",
+      "start": "2026-09-28T14:00",
+      "end": "2026-09-28T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-little-house-adult-day-activity-center-w3-1130",
+      "seriesSlug": "add-little-house-adult-day-activity-center",
+      "title": "Little House Adult Day Activity Center — Free Food",
+      "description": "Free food at Little House Adult Day Activity Center. Schedule: Wed 11:30 AM–1:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Little House Adult Day Activity Center",
+      "address": "800 Middle Avenue, Menlo Park, CA 94025",
+      "lat": 37.448001,
+      "lng": -122.18043,
+      "category": "food-assistance",
+      "sourceOrg": "Little House Adult Day Activity Center",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Wed 11:30 AM–1:30 PM",
+      "start": "2026-09-28T11:30",
+      "end": "2026-09-28T13:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-abode-services-smc-m11-0900",
+      "seriesSlug": "add-abode-services-smc",
+      "title": "Abode Services SMC — Free Food",
+      "description": "Free food at Abode Services SMC. Schedule: 1st Mon 9 AM–10 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Abode Services SMC",
+      "address": "181 North Rollins Road, Millbrae, CA 94030",
+      "lat": 37.6018,
+      "lng": -122.38498,
+      "category": "food-assistance",
+      "sourceOrg": "Abode Services SMC",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "1st Mon 9 AM–10 AM",
+      "start": "2026-10-05T09:00",
+      "end": "2026-10-05T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "1:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-pacifica-resource-center-buel-ave-distribution-m43-1430",
+      "seriesSlug": "add-pacifica-resource-center-buel-ave-distribution",
+      "title": "Pacifica Resource Center (Buel Ave distribution) — Free Food",
+      "description": "Free food at Pacifica Resource Center (Buel Ave distribution). Schedule: 4th Wed 2:30 PM–4:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Pacifica Resource Center (Buel Ave distribution)",
+      "address": "555 Buel Ave, Pacifica, CA 94044",
+      "lat": 37.606677,
+      "lng": -122.492684,
+      "category": "food-assistance",
+      "sourceOrg": "Pacifica Resource Center (Buel Ave distribution)",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "4th Wed 2:30 PM–4:30 PM",
+      "start": "2026-10-07T14:30",
+      "end": "2026-10-07T16:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "4:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-pacifica-resource-center-2316-palmetto-w1234-0900",
+      "seriesSlug": "add-pacifica-resource-center-2316-palmetto",
+      "title": "Pacifica Resource Center (2316 Palmetto) — Free Food",
+      "description": "Free food at Pacifica Resource Center (2316 Palmetto). Schedule: Mon–Thu 9 AM–12 PM; Fri 9 AM–1 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Pacifica Resource Center (2316 Palmetto)",
+      "address": "2316 Palmetto Avenue, Pacifica, CA 94044",
+      "lat": 37.630954,
+      "lng": -122.493167,
+      "category": "food-assistance",
+      "sourceOrg": "Pacifica Resource Center (2316 Palmetto)",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Mon–Thu 9 AM–12 PM; Fri 9 AM–1 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-pacifica-resource-center-2316-palmetto-w5-0900",
+      "seriesSlug": "add-pacifica-resource-center-2316-palmetto",
+      "title": "Pacifica Resource Center (2316 Palmetto) — Free Food",
+      "description": "Free food at Pacifica Resource Center (2316 Palmetto). Schedule: Mon–Thu 9 AM–12 PM; Fri 9 AM–1 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Pacifica Resource Center (2316 Palmetto)",
+      "address": "2316 Palmetto Avenue, Pacifica, CA 94044",
+      "lat": 37.630954,
+      "lng": -122.493167,
+      "category": "food-assistance",
+      "sourceOrg": "Pacifica Resource Center (2316 Palmetto)",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Mon–Thu 9 AM–12 PM; Fri 9 AM–1 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-pacifica-resource-center-1809-palmetto-w1234-0900",
+      "seriesSlug": "add-pacifica-resource-center-1809-palmetto",
+      "title": "Pacifica Resource Center (1809 Palmetto) — Free Food",
+      "description": "Free food at Pacifica Resource Center (1809 Palmetto). Schedule: Mon–Thu 9 AM–12:30 PM; Fri 9 AM–1 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Pacifica Resource Center (1809 Palmetto)",
+      "address": "1809 Palmetto Avenue, Pacifica, CA 94044",
+      "lat": 37.635093,
+      "lng": -122.491865,
+      "category": "food-assistance",
+      "sourceOrg": "Pacifica Resource Center (1809 Palmetto)",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Mon–Thu 9 AM–12:30 PM; Fri 9 AM–1 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-pacifica-resource-center-1809-palmetto-w5-0900",
+      "seriesSlug": "add-pacifica-resource-center-1809-palmetto",
+      "title": "Pacifica Resource Center (1809 Palmetto) — Free Food",
+      "description": "Free food at Pacifica Resource Center (1809 Palmetto). Schedule: Mon–Thu 9 AM–12:30 PM; Fri 9 AM–1 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Pacifica Resource Center (1809 Palmetto)",
+      "address": "1809 Palmetto Avenue, Pacifica, CA 94044",
+      "lat": 37.635093,
+      "lng": -122.491865,
+      "category": "food-assistance",
+      "sourceOrg": "Pacifica Resource Center (1809 Palmetto)",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Mon–Thu 9 AM–12:30 PM; Fri 9 AM–1 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-puente-de-la-costa-sur-w12345-0800",
+      "seriesSlug": "add-puente-de-la-costa-sur",
+      "title": "Puente de la Costa Sur — Free Food",
+      "description": "Free food at Puente de la Costa Sur. Schedule: Mon–Fri 8 AM–5 PM; 1st Wed 4 PM–6 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Puente de la Costa Sur",
+      "address": "620 North Street, Pescadero, CA 94060",
+      "lat": 37.25635,
+      "lng": -122.378177,
+      "category": "food-assistance",
+      "sourceOrg": "Puente de la Costa Sur",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Mon–Fri 8 AM–5 PM; 1st Wed 4 PM–6 PM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-puente-de-la-costa-sur-m13-1600",
+      "seriesSlug": "add-puente-de-la-costa-sur",
+      "title": "Puente de la Costa Sur — Free Food",
+      "description": "Free food at Puente de la Costa Sur. Schedule: Mon–Fri 8 AM–5 PM; 1st Wed 4 PM–6 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Puente de la Costa Sur",
+      "address": "620 North Street, Pescadero, CA 94060",
+      "lat": 37.25635,
+      "lng": -122.378177,
+      "category": "food-assistance",
+      "sourceOrg": "Puente de la Costa Sur",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Mon–Fri 8 AM–5 PM; 1st Wed 4 PM–6 PM",
+      "start": "2026-10-07T16:00",
+      "end": "2026-10-07T18:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "1:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-svdp-st-anthony-mission-m2646-1400",
+      "seriesSlug": "add-svdp-st-anthony-mission",
+      "title": "SVDP St. Anthony Mission — Free Food",
+      "description": "Free food at SVDP St. Anthony Mission. Schedule: 2nd Sat & 4th Sat 2 PM–4 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "SVDP St. Anthony Mission",
+      "address": "696 North St, Pescadero, CA 94060",
+      "lat": 37.256135,
+      "lng": -122.379382,
+      "category": "food-assistance",
+      "sourceOrg": "SVDP St. Anthony Mission",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "2nd Sat & 4th Sat 2 PM–4 PM",
+      "start": "2026-10-10T14:00",
+      "end": "2026-10-10T16:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6,4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-pescadero-elementary-school-m2141-1630",
+      "seriesSlug": "add-pescadero-elementary-school",
+      "title": "Pescadero Elementary School — Free Food",
+      "description": "Free food at Pescadero Elementary School. Schedule: 2nd Mon & 4th Mon 4:30 PM–5:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Pescadero Elementary School",
+      "address": "620 North Street, Pescadero, CA 94060",
+      "lat": 37.25635,
+      "lng": -122.378177,
+      "category": "food-assistance",
+      "sourceOrg": "Pescadero Elementary School",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "2nd Mon & 4th Mon 4:30 PM–5:30 PM",
+      "start": "2026-10-05T16:30",
+      "end": "2026-10-05T17:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 1
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "2:1,4:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-canada-college-smcccd-w2-1030",
+      "seriesSlug": "add-canada-college-smcccd",
+      "title": "Canada College / SMCCCD — Free Food",
+      "description": "Free food at Canada College / SMCCCD. Schedule: Tue 10:30 AM–12:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Canada College / SMCCCD",
+      "address": "4200 Farm Hill Blvd, Redwood City, CA 94061",
+      "lat": 37.449302,
+      "lng": -122.261615,
+      "category": "food-assistance",
+      "sourceOrg": "Canada College / SMCCCD",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Tue 10:30 AM–12:30 PM",
+      "start": "2026-09-28T10:30",
+      "end": "2026-09-28T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-fair-oaks-adult-activity-center-m2545-1030",
+      "seriesSlug": "add-fair-oaks-adult-activity-center",
+      "title": "Fair Oaks Adult Activity Center — Free Food",
+      "description": "Free food at Fair Oaks Adult Activity Center. Schedule: 2nd Fri & 4th Fri 10:30 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Fair Oaks Adult Activity Center",
+      "address": "2600 Middlefield Rd, Redwood City, CA 94063",
+      "lat": 37.477231,
+      "lng": -122.21322,
+      "category": "food-assistance",
+      "sourceOrg": "Fair Oaks Adult Activity Center",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "2nd Fri & 4th Fri 10:30 AM–12 PM",
+      "start": "2026-10-09T10:30",
+      "end": "2026-10-09T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "2:5,4:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-fair-oaks-community-center-m15-1600",
+      "seriesSlug": "add-fair-oaks-community-center",
+      "title": "Fair Oaks Community Center — Free Food",
+      "description": "Free food at Fair Oaks Community Center. Schedule: 1st Fri 4 PM–6 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Fair Oaks Community Center",
+      "address": "2600 Middlefield Rd, Redwood City, CA 94063",
+      "lat": 37.477231,
+      "lng": -122.21322,
+      "category": "food-assistance",
+      "sourceOrg": "Fair Oaks Community Center",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "1st Fri 4 PM–6 PM",
+      "start": "2026-10-09T16:00",
+      "end": "2026-10-09T18:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "1:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-hoover-elementary-school-m14-1500",
+      "seriesSlug": "add-hoover-elementary-school",
+      "title": "Hoover Elementary School — Free Food",
+      "description": "Free food at Hoover Elementary School. Schedule: 1st Thu 3 PM–4:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Hoover Elementary School",
+      "address": "701 Charter Street, Redwood City, CA 94063",
+      "lat": 37.482784,
+      "lng": -122.21514,
+      "category": "food-assistance",
+      "sourceOrg": "Hoover Elementary School",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "1st Thu 3 PM–4:30 PM",
+      "start": "2026-10-08T15:00",
+      "end": "2026-10-08T16:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-john-f-kennedy-middle-school-m34-1500",
+      "seriesSlug": "add-john-f-kennedy-middle-school",
+      "title": "John F. Kennedy Middle School — Free Food",
+      "description": "Free food at John F. Kennedy Middle School. Schedule: 3rd Thu 3 PM–4 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "John F. Kennedy Middle School",
+      "address": "2521 Goodwin Ave, Redwood City, CA 94061",
+      "lat": 37.460099,
+      "lng": -122.238727,
+      "category": "food-assistance",
+      "sourceOrg": "John F. Kennedy Middle School",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "3rd Thu 3 PM–4 PM",
+      "start": "2026-10-08T15:00",
+      "end": "2026-10-08T16:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-rocketship-rwc-prep-m1535-1530",
+      "seriesSlug": "add-rocketship-rwc-prep",
+      "title": "Rocketship RWC Prep — Free Food",
+      "description": "Free food at Rocketship RWC Prep. Schedule: 1st Fri & 3rd Fri 3:30 PM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Rocketship RWC Prep",
+      "address": "1148 Hudson St, Redwood City, CA 94061",
+      "lat": 37.473062,
+      "lng": -122.231357,
+      "category": "food-assistance",
+      "sourceOrg": "Rocketship RWC Prep",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "1st Fri & 3rd Fri 3:30 PM–5 PM",
+      "start": "2026-10-09T15:30",
+      "end": "2026-10-09T17:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "1:5,3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-taft-elementary-school-m23-1430",
+      "seriesSlug": "add-taft-elementary-school",
+      "title": "Taft Elementary School — Free Food",
+      "description": "Free food at Taft Elementary School. Schedule: 2nd Wed 2:30 PM–3:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Taft Elementary School",
+      "address": "903 Tenth Ave, Redwood City, CA 94063",
+      "lat": 37.48046,
+      "lng": -122.19442,
+      "category": "food-assistance",
+      "sourceOrg": "Taft Elementary School",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "2nd Wed 2:30 PM–3:30 PM",
+      "start": "2026-10-07T14:30",
+      "end": "2026-10-07T15:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "2:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-aids-community-resource-consortium-w34-0900",
+      "seriesSlug": "add-aids-community-resource-consortium",
+      "title": "AIDS Community Resource Consortium — Free Food",
+      "description": "Free food at AIDS Community Resource Consortium. Schedule: Wed–Thu 9 AM–2 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "AIDS Community Resource Consortium",
+      "address": "855 Douglas Avenue, Redwood City, CA 94063",
+      "lat": 37.483317,
+      "lng": -122.209381,
+      "category": "food-assistance",
+      "sourceOrg": "AIDS Community Resource Consortium",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Wed–Thu 9 AM–2 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-project-read-redwood-city-library-w2-1400",
+      "seriesSlug": "add-project-read-redwood-city-library",
+      "title": "Project READ - Redwood City Library — Free Food",
+      "description": "Free food at Project READ - Redwood City Library. Schedule: Tue 2 PM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Project READ - Redwood City Library",
+      "address": "1044 Middlefield Road, Redwood City, CA 94063",
+      "lat": 37.484047,
+      "lng": -122.227405,
+      "category": "food-assistance",
+      "sourceOrg": "Project READ - Redwood City Library",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Tue 2 PM–5 PM",
+      "start": "2026-09-28T14:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-salvation-army-redwood-city-w3-0915",
+      "seriesSlug": "add-salvation-army-redwood-city",
+      "title": "Salvation Army Redwood City — Free Food",
+      "description": "Free food at Salvation Army Redwood City. Schedule: Wed 9:15 AM–11 AM; Wed 1 PM–2:30 PM; Fri 9:15 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salvation Army Redwood City",
+      "address": "660 Veterans Blvd, Redwood City, CA 94063",
+      "lat": 37.491439,
+      "lng": -122.23154,
+      "category": "food-assistance",
+      "sourceOrg": "Salvation Army Redwood City",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Wed 9:15 AM–11 AM; Wed 1 PM–2:30 PM; Fri 9:15 AM–11 AM",
+      "start": "2026-09-28T09:15",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-salvation-army-redwood-city-w3-1300",
+      "seriesSlug": "add-salvation-army-redwood-city",
+      "title": "Salvation Army Redwood City — Free Food",
+      "description": "Free food at Salvation Army Redwood City. Schedule: Wed 9:15 AM–11 AM; Wed 1 PM–2:30 PM; Fri 9:15 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salvation Army Redwood City",
+      "address": "660 Veterans Blvd, Redwood City, CA 94063",
+      "lat": 37.491439,
+      "lng": -122.23154,
+      "category": "food-assistance",
+      "sourceOrg": "Salvation Army Redwood City",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Wed 9:15 AM–11 AM; Wed 1 PM–2:30 PM; Fri 9:15 AM–11 AM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T14:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-salvation-army-redwood-city-w5-0915",
+      "seriesSlug": "add-salvation-army-redwood-city",
+      "title": "Salvation Army Redwood City — Free Food",
+      "description": "Free food at Salvation Army Redwood City. Schedule: Wed 9:15 AM–11 AM; Wed 1 PM–2:30 PM; Fri 9:15 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salvation Army Redwood City",
+      "address": "660 Veterans Blvd, Redwood City, CA 94063",
+      "lat": 37.491439,
+      "lng": -122.23154,
+      "category": "food-assistance",
+      "sourceOrg": "Salvation Army Redwood City",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Wed 9:15 AM–11 AM; Wed 1 PM–2:30 PM; Fri 9:15 AM–11 AM",
+      "start": "2026-09-28T09:15",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-service-league-of-san-mateo-county-w12345-0800",
+      "seriesSlug": "add-service-league-of-san-mateo-county",
+      "title": "Service League of San Mateo County — Free Food",
+      "description": "Free food at Service League of San Mateo County. Schedule: Mon–Fri 8 AM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Service League of San Mateo County",
+      "address": "727 Middlefield Rd, Redwood City, CA 94063",
+      "lat": 37.486954,
+      "lng": -122.228897,
+      "category": "food-assistance",
+      "sourceOrg": "Service League of San Mateo County",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Mon–Fri 8 AM–5 PM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sparkpoint-at-canada-college-w234-1200",
+      "seriesSlug": "add-sparkpoint-at-canada-college",
+      "title": "SparkPoint at Canada College — Free Food",
+      "description": "Free food at SparkPoint at Canada College. Schedule: Tue–Thu 12 PM–4 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "SparkPoint at Canada College",
+      "address": "4200 Farm Hill Blvd, Redwood City, CA 94061",
+      "lat": 37.449302,
+      "lng": -122.261615,
+      "category": "food-assistance",
+      "sourceOrg": "SparkPoint at Canada College",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Tue–Thu 12 PM–4 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-francis-center-w12345-1030",
+      "seriesSlug": "add-st-francis-center",
+      "title": "St. Francis Center — Free Food",
+      "description": "Free food at St. Francis Center. Schedule: Mon–Fri 10:30 AM–1:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Francis Center",
+      "address": "151 Buckingham Ave, Redwood City, CA 94063",
+      "lat": 37.473679,
+      "lng": -122.214472,
+      "category": "food-assistance",
+      "sourceOrg": "St. Francis Center",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Mon–Fri 10:30 AM–1:30 PM",
+      "start": "2026-09-28T10:30",
+      "end": "2026-09-28T13:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-verbo-family-services-w3-1130",
+      "seriesSlug": "add-verbo-family-services",
+      "title": "Verbo Family Services — Free Food",
+      "description": "Free food at Verbo Family Services. Schedule: Wed 11:30 AM–1:30 PM; Fri 4:30 PM–8 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Verbo Family Services",
+      "address": "2798 Bay Rd, Redwood City, CA 94063",
+      "lat": 37.48327,
+      "lng": -122.205251,
+      "category": "food-assistance",
+      "sourceOrg": "Verbo Family Services",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Wed 11:30 AM–1:30 PM; Fri 4:30 PM–8 PM",
+      "start": "2026-09-28T11:30",
+      "end": "2026-09-28T13:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-verbo-family-services-w5-1630",
+      "seriesSlug": "add-verbo-family-services",
+      "title": "Verbo Family Services — Free Food",
+      "description": "Free food at Verbo Family Services. Schedule: Wed 11:30 AM–1:30 PM; Fri 4:30 PM–8 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Verbo Family Services",
+      "address": "2798 Bay Rd, Redwood City, CA 94063",
+      "lat": 37.48327,
+      "lng": -122.205251,
+      "category": "food-assistance",
+      "sourceOrg": "Verbo Family Services",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Wed 11:30 AM–1:30 PM; Fri 4:30 PM–8 PM",
+      "start": "2026-09-28T16:30",
+      "end": "2026-09-28T20:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-cityteam-at-chaselove-m46-1000",
+      "seriesSlug": "add-cityteam-at-chaselove",
+      "title": "CityTeam at ChaseLove — Free Food",
+      "description": "Free food at CityTeam at ChaseLove. Schedule: 4th Sat 10 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "CityTeam at ChaseLove",
+      "address": "468 Grand Street, Redwood City, CA 94062",
+      "lat": 37.479226,
+      "lng": -122.237386,
+      "category": "food-assistance",
+      "sourceOrg": "CityTeam at ChaseLove",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "4th Sat 10 AM–12 PM",
+      "start": "2026-10-10T10:00",
+      "end": "2026-10-10T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-belle-air-elementary-school-m43-1430",
+      "seriesSlug": "add-belle-air-elementary-school",
+      "title": "Belle Air Elementary School — Free Food",
+      "description": "Free food at Belle Air Elementary School. Schedule: 4th Wed 2:30 PM–4 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Belle Air Elementary School",
+      "address": "450 Third Ave, San Bruno, CA 94066",
+      "lat": 37.624645,
+      "lng": -122.405623,
+      "category": "food-assistance",
+      "sourceOrg": "Belle Air Elementary School",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "4th Wed 2:30 PM–4 PM",
+      "start": "2026-10-07T14:30",
+      "end": "2026-10-07T16:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "4:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-first-tongan-united-methodist-church-m16-0800",
+      "seriesSlug": "add-first-tongan-united-methodist-church",
+      "title": "First Tongan United Methodist Church — Free Food",
+      "description": "Free food at First Tongan United Methodist Church. Schedule: 1st Sat 8 AM–9:30 AM; 3rd Sat 1 PM–2 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "First Tongan United Methodist Church",
+      "address": "560 El Camino Real, San Bruno, CA 94066",
+      "lat": 37.624486,
+      "lng": -122.413396,
+      "category": "food-assistance",
+      "sourceOrg": "First Tongan United Methodist Church",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "1st Sat 8 AM–9:30 AM; 3rd Sat 1 PM–2 PM",
+      "start": "2026-10-10T08:00",
+      "end": "2026-10-10T09:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "1:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-first-tongan-united-methodist-church-m36-1300",
+      "seriesSlug": "add-first-tongan-united-methodist-church",
+      "title": "First Tongan United Methodist Church — Free Food",
+      "description": "Free food at First Tongan United Methodist Church. Schedule: 1st Sat 8 AM–9:30 AM; 3rd Sat 1 PM–2 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "First Tongan United Methodist Church",
+      "address": "560 El Camino Real, San Bruno, CA 94066",
+      "lat": 37.624486,
+      "lng": -122.413396,
+      "category": "food-assistance",
+      "sourceOrg": "First Tongan United Methodist Church",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "1st Sat 8 AM–9:30 AM; 3rd Sat 1 PM–2 PM",
+      "start": "2026-10-10T13:00",
+      "end": "2026-10-10T14:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "3:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-skyline-college-w234-1030",
+      "seriesSlug": "add-skyline-college",
+      "title": "Skyline College — Free Food",
+      "description": "Free food at Skyline College. Schedule: Tue–Thu 10:30 AM–4 PM; Fri 10:30 AM–12:30 PM; 1st Fri 3 PM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Skyline College",
+      "address": "3300 College Drive Building 1 Floor 2, San Bruno, CA 94066",
+      "lat": 37.632132,
+      "lng": -122.461326,
+      "category": "food-assistance",
+      "sourceOrg": "Skyline College",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Tue–Thu 10:30 AM–4 PM; Fri 10:30 AM–12:30 PM; 1st Fri 3 PM–5 PM",
+      "start": "2026-09-28T10:30",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-skyline-college-w5-1030",
+      "seriesSlug": "add-skyline-college",
+      "title": "Skyline College — Free Food",
+      "description": "Free food at Skyline College. Schedule: Tue–Thu 10:30 AM–4 PM; Fri 10:30 AM–12:30 PM; 1st Fri 3 PM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Skyline College",
+      "address": "3300 College Drive Building 1 Floor 2, San Bruno, CA 94066",
+      "lat": 37.632132,
+      "lng": -122.461326,
+      "category": "food-assistance",
+      "sourceOrg": "Skyline College",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Tue–Thu 10:30 AM–4 PM; Fri 10:30 AM–12:30 PM; 1st Fri 3 PM–5 PM",
+      "start": "2026-09-28T10:30",
+      "end": "2026-09-28T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-skyline-college-m15-1500",
+      "seriesSlug": "add-skyline-college",
+      "title": "Skyline College — Free Food",
+      "description": "Free food at Skyline College. Schedule: Tue–Thu 10:30 AM–4 PM; Fri 10:30 AM–12:30 PM; 1st Fri 3 PM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Skyline College",
+      "address": "3300 College Drive Building 1 Floor 2, San Bruno, CA 94066",
+      "lat": 37.632132,
+      "lng": -122.461326,
+      "category": "food-assistance",
+      "sourceOrg": "Skyline College",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Tue–Thu 10:30 AM–4 PM; Fri 10:30 AM–12:30 PM; 1st Fri 3 PM–5 PM",
+      "start": "2026-10-09T15:00",
+      "end": "2026-10-09T17:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "1:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-san-carlos-adult-community-center-w2-1200",
+      "seriesSlug": "add-san-carlos-adult-community-center",
+      "title": "San Carlos Adult Community Center — Free Food",
+      "description": "Free food at San Carlos Adult Community Center. Schedule: Tue 12 PM–2 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "San Carlos Adult Community Center",
+      "address": "601 Chestnut Street, San Carlos, CA 94070",
+      "lat": 37.5043,
+      "lng": -122.26345,
+      "category": "food-assistance",
+      "sourceOrg": "San Carlos Adult Community Center",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Tue 12 PM–2 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-college-of-san-mateo-m2545-1100",
+      "seriesSlug": "add-college-of-san-mateo",
+      "title": "College of San Mateo — Free Food",
+      "description": "Free food at College of San Mateo. Schedule: 2nd Fri & 4th Fri 11 AM–1 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "College of San Mateo",
+      "address": "1700 West Hillsdale Blvd, San Mateo, CA 94402",
+      "lat": 37.536719,
+      "lng": -122.335212,
+      "category": "food-assistance",
+      "sourceOrg": "College of San Mateo",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "2nd Fri & 4th Fri 11 AM–1 PM",
+      "start": "2026-10-09T11:00",
+      "end": "2026-10-09T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "2:5,4:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-fiesta-gardens-international-school-w6-0900",
+      "seriesSlug": "add-fiesta-gardens-international-school",
+      "title": "Fiesta Gardens International School — Free Food",
+      "description": "Free food at Fiesta Gardens International School. Schedule: Sat 9 AM–10:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Fiesta Gardens International School",
+      "address": "715 Indian Avenue, San Mateo, CA 94401",
+      "lat": 37.577063,
+      "lng": -122.326726,
+      "category": "food-assistance",
+      "sourceOrg": "Fiesta Gardens International School",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Sat 9 AM–10:30 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T10:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-greater-life-church-m1333-1300",
+      "seriesSlug": "add-greater-life-church",
+      "title": "Greater Life Church — Free Food",
+      "description": "Free food at Greater Life Church. Schedule: 1st Wed & 3rd Wed 1 PM–2:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Greater Life Church",
+      "address": "525 South Bayshore Boulevard, San Mateo, CA 94401",
+      "lat": 37.569729,
+      "lng": -122.311666,
+      "category": "food-assistance",
+      "sourceOrg": "Greater Life Church",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "1st Wed & 3rd Wed 1 PM–2:30 PM",
+      "start": "2026-10-07T13:00",
+      "end": "2026-10-07T14:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "1:3,3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-hillsdale-high-school-w5-0800",
+      "seriesSlug": "add-hillsdale-high-school",
+      "title": "Hillsdale High School — Free Food",
+      "description": "Free food at Hillsdale High School. Schedule: Fri 8 AM–9:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Hillsdale High School",
+      "address": "3115 Del Monte St, San Mateo, CA 94403",
+      "lat": 37.532302,
+      "lng": -122.311887,
+      "category": "food-assistance",
+      "sourceOrg": "Hillsdale High School",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Fri 8 AM–9:30 AM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T09:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-hillsdale-united-methodist-church-m15-1530",
+      "seriesSlug": "add-hillsdale-united-methodist-church",
+      "title": "Hillsdale United Methodist Church — Free Food",
+      "description": "Free food at Hillsdale United Methodist Church. Schedule: 1st Fri 3:30 PM–5:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Hillsdale United Methodist Church",
+      "address": "303 W 36th Ave, San Mateo, CA 94403",
+      "lat": 37.531899,
+      "lng": -122.303029,
+      "category": "food-assistance",
+      "sourceOrg": "Hillsdale United Methodist Church",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "1st Fri 3:30 PM–5:30 PM",
+      "start": "2026-10-09T15:30",
+      "end": "2026-10-09T17:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "1:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-martin-luther-king-jr-community-center-m31-1400",
+      "seriesSlug": "add-martin-luther-king-jr-community-center",
+      "title": "Martin Luther King Jr Community Center — Free Food",
+      "description": "Free food at Martin Luther King Jr Community Center. Schedule: 3rd Mon 2 PM–3 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Martin Luther King Jr Community Center",
+      "address": "725 Monte Diablo Ave, San Mateo, CA 94401",
+      "lat": 37.57341,
+      "lng": -122.324522,
+      "category": "food-assistance",
+      "sourceOrg": "Martin Luther King Jr Community Center",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "3rd Mon 2 PM–3 PM",
+      "start": "2026-10-05T14:00",
+      "end": "2026-10-05T15:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "3:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-rogell-court-m11-0800",
+      "seriesSlug": "add-rogell-court",
+      "title": "Rogell Court — Free Food",
+      "description": "Free food at Rogell Court. Schedule: 1st Mon 8 AM–8:45 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Rogell Court",
+      "address": "409 Rogell Court, San Mateo, CA 94401",
+      "lat": 37.5799,
+      "lng": -122.32253,
+      "category": "food-assistance",
+      "sourceOrg": "Rogell Court",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "1st Mon 8 AM–8:45 AM",
+      "start": "2026-10-05T08:00",
+      "end": "2026-10-05T08:45",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "1:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-samaritan-house-at-cottage-grove-m35-1600",
+      "seriesSlug": "add-samaritan-house-at-cottage-grove",
+      "title": "Samaritan House at Cottage Grove — Free Food",
+      "description": "Free food at Samaritan House at Cottage Grove. Schedule: 3rd Fri 4 PM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Samaritan House at Cottage Grove",
+      "address": "949 Ocean View Way, San Mateo, CA 94403",
+      "lat": 37.56929,
+      "lng": -122.30175,
+      "category": "food-assistance",
+      "sourceOrg": "Samaritan House at Cottage Grove",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "3rd Fri 4 PM–5 PM",
+      "start": "2026-10-09T16:00",
+      "end": "2026-10-09T17:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-samaritan-house-at-king-center-m11-1100",
+      "seriesSlug": "add-samaritan-house-at-king-center",
+      "title": "Samaritan House at King Center — Free Food",
+      "description": "Free food at Samaritan House at King Center. Schedule: 1st Mon 11 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Samaritan House at King Center",
+      "address": "725 Monte Diablo Ave, San Mateo, CA 94401",
+      "lat": 37.57341,
+      "lng": -122.324522,
+      "category": "food-assistance",
+      "sourceOrg": "Samaritan House at King Center",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "1st Mon 11 AM–12 PM",
+      "start": "2026-10-05T11:00",
+      "end": "2026-10-05T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "1:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-san-mateo-county-event-center-w4-0830",
+      "seriesSlug": "add-san-mateo-county-event-center",
+      "title": "San Mateo County Event Center — Free Food",
+      "description": "Free food at San Mateo County Event Center. Schedule: Thu 8:30 AM–10:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "San Mateo County Event Center",
+      "address": "1346 Saratoga Drive, San Mateo, CA 94403",
+      "lat": 37.545608,
+      "lng": -122.301915,
+      "category": "food-assistance",
+      "sourceOrg": "San Mateo County Event Center",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Thu 8:30 AM–10:30 AM",
+      "start": "2026-09-28T08:30",
+      "end": "2026-09-28T10:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sturge-presbyterian-church-m1434-1600",
+      "seriesSlug": "add-sturge-presbyterian-church",
+      "title": "Sturge Presbyterian Church — Free Food",
+      "description": "Free food at Sturge Presbyterian Church. Schedule: 1st Thu & 3rd Thu 4 PM–5:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Sturge Presbyterian Church",
+      "address": "25 South Humboldt Street, San Mateo, CA 94401",
+      "lat": 37.572,
+      "lng": -122.31845,
+      "category": "food-assistance",
+      "sourceOrg": "Sturge Presbyterian Church",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "1st Thu & 3rd Thu 4 PM–5:30 PM",
+      "start": "2026-10-08T16:00",
+      "end": "2026-10-08T17:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4,3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-waypoint-church-m2242-0815",
+      "seriesSlug": "add-waypoint-church",
+      "title": "Waypoint Church — Free Food",
+      "description": "Free food at Waypoint Church. Schedule: 2nd Tue & 4th Tue 8:15 AM–9:15 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Waypoint Church",
+      "address": "194 W 25th Avenue, San Mateo, CA 94403",
+      "lat": 37.543505,
+      "lng": -122.309134,
+      "category": "food-assistance",
+      "sourceOrg": "Waypoint Church",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "2nd Tue & 4th Tue 8:15 AM–9:15 AM",
+      "start": "2026-10-06T08:15",
+      "end": "2026-10-06T09:15",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 2
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "2:2,4:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-samaritan-house-meal-program-w67-1200",
+      "seriesSlug": "add-samaritan-house-meal-program",
+      "title": "Samaritan House (meal program) — Free Food",
+      "description": "Free food at Samaritan House (meal program). Schedule: Sat–Sun 12 PM–1 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Samaritan House (meal program)",
+      "address": "4031 Pacific Blvd, San Mateo, CA 94403",
+      "lat": 37.530873,
+      "lng": -122.288373,
+      "category": "food-assistance",
+      "sourceOrg": "Samaritan House (meal program)",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Sat–Sun 12 PM–1 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6,7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-svdp-of-san-mateo-county-meal-program-w12345-0900",
+      "seriesSlug": "add-svdp-of-san-mateo-county-meal-program",
+      "title": "SVDP of San Mateo County (meal program) — Free Food",
+      "description": "Free food at SVDP of San Mateo County (meal program). Schedule: Mon–Fri 9 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "SVDP of San Mateo County (meal program)",
+      "address": "50 N. B Street, San Mateo, CA 94401",
+      "lat": 37.568398,
+      "lng": -122.325008,
+      "category": "food-assistance",
+      "sourceOrg": "SVDP of San Mateo County (meal program)",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Mon–Fri 9 AM–11 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-macedonia-church-of-god-in-christ-w2-0700",
+      "seriesSlug": "add-macedonia-church-of-god-in-christ",
+      "title": "Macedonia Church of God in Christ — Free Food",
+      "description": "Free food at Macedonia Church of God in Christ. Schedule: Tue 7 AM–10:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Macedonia Church of God in Christ",
+      "address": "66 N. Claremont Street, San Mateo, CA 94401",
+      "lat": 37.570504,
+      "lng": -122.324657,
+      "category": "food-assistance",
+      "sourceOrg": "Macedonia Church of God in Christ",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Tue 7 AM–10:30 AM",
+      "start": "2026-09-28T07:00",
+      "end": "2026-09-28T10:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-mid-pen-hispanic-outreach-w5-1100",
+      "seriesSlug": "add-mid-pen-hispanic-outreach",
+      "title": "Mid-Pen Hispanic Outreach — Free Food",
+      "description": "Free food at Mid-Pen Hispanic Outreach. Schedule: Fri 11 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Mid-Pen Hispanic Outreach",
+      "address": "194 W. 25th Ave, San Mateo, CA 94403",
+      "lat": 37.543505,
+      "lng": -122.309134,
+      "category": "food-assistance",
+      "sourceOrg": "Mid-Pen Hispanic Outreach",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Fri 11 AM–12 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-samaritan-house-pantry-w12345-0900",
+      "seriesSlug": "add-samaritan-house-pantry",
+      "title": "Samaritan House pantry — Free Food",
+      "description": "Free food at Samaritan House pantry. Schedule: Mon–Fri 9 AM–12 PM; Mon–Fri 1 PM–4 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Samaritan House pantry",
+      "address": "4031 Pacific Blvd, San Mateo, CA 94403",
+      "lat": 37.530873,
+      "lng": -122.288373,
+      "category": "food-assistance",
+      "sourceOrg": "Samaritan House pantry",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Mon–Fri 9 AM–12 PM; Mon–Fri 1 PM–4 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-samaritan-house-pantry-w12345-1300",
+      "seriesSlug": "add-samaritan-house-pantry",
+      "title": "Samaritan House pantry — Free Food",
+      "description": "Free food at Samaritan House pantry. Schedule: Mon–Fri 9 AM–12 PM; Mon–Fri 1 PM–4 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Samaritan House pantry",
+      "address": "4031 Pacific Blvd, San Mateo, CA 94403",
+      "lat": 37.530873,
+      "lng": -122.288373,
+      "category": "food-assistance",
+      "sourceOrg": "Samaritan House pantry",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Mon–Fri 9 AM–12 PM; Mon–Fri 1 PM–4 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-samaritan-house-tilton-ave-meal-w12345-1600",
+      "seriesSlug": "add-samaritan-house-tilton-ave-meal",
+      "title": "Samaritan House (Tilton Ave meal) — Free Food",
+      "description": "Free food at Samaritan House (Tilton Ave meal). Schedule: Mon–Fri 4 PM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Samaritan House (Tilton Ave meal)",
+      "address": "225 Tilton Avenue, San Mateo, CA 94401",
+      "lat": 37.568795,
+      "lng": -122.327882,
+      "category": "food-assistance",
+      "sourceOrg": "Samaritan House (Tilton Ave meal)",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Mon–Fri 4 PM–5 PM",
+      "start": "2026-09-28T16:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-all-souls-catholic-church-m46-1100",
+      "seriesSlug": "add-all-souls-catholic-church",
+      "title": "All Souls Catholic Church — Free Food",
+      "description": "Free food at All Souls Catholic Church. Schedule: 4th Sat 11 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "All Souls Catholic Church",
+      "address": "315 Walnut Ave, South San Francisco, CA 94080",
+      "lat": 37.656848,
+      "lng": -122.414364,
+      "category": "food-assistance",
+      "sourceOrg": "All Souls Catholic Church",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "4th Sat 11 AM–12 PM",
+      "start": "2026-10-10T11:00",
+      "end": "2026-10-10T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "4:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-grace-covenant-church-m16-0800",
+      "seriesSlug": "add-grace-covenant-church",
+      "title": "Grace Covenant Church — Free Food",
+      "description": "Free food at Grace Covenant Church. Schedule: 1st Sat 8 AM–9:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Grace Covenant Church",
+      "address": "740 Del Monte Avenue, South San Francisco, CA 94080",
+      "lat": 37.661555,
+      "lng": -122.451832,
+      "category": "food-assistance",
+      "sourceOrg": "Grace Covenant Church",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "1st Sat 8 AM–9:30 AM",
+      "start": "2026-10-10T08:00",
+      "end": "2026-10-10T09:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "1:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-hpsm-m16-0800",
+      "seriesSlug": "add-hpsm",
+      "title": "HPSM — Free Food",
+      "description": "Free food at HPSM. Schedule: 1st Sat 8 AM–10 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "HPSM",
+      "address": "685 Gateway Boulevard, South San Francisco, CA 94080",
+      "lat": 37.65885,
+      "lng": -122.39887,
+      "category": "food-assistance",
+      "sourceOrg": "HPSM",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "1st Sat 8 AM–10 AM",
+      "start": "2026-10-10T08:00",
+      "end": "2026-10-10T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "1:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-latin-american-7th-day-adventist-m34-1500",
+      "seriesSlug": "add-latin-american-7th-day-adventist",
+      "title": "Latin American 7th Day Adventist — Free Food",
+      "description": "Free food at Latin American 7th Day Adventist. Schedule: 3rd Thu 3 PM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Latin American 7th Day Adventist",
+      "address": "540 Miller Ave, South San Francisco, CA 94080",
+      "lat": 37.658078,
+      "lng": -122.417245,
+      "category": "food-assistance",
+      "sourceOrg": "Latin American 7th Day Adventist",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "3rd Thu 3 PM–5 PM",
+      "start": "2026-10-08T15:00",
+      "end": "2026-10-08T17:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-south-san-francisco-adult-school-m32-1400",
+      "seriesSlug": "add-south-san-francisco-adult-school",
+      "title": "South San Francisco Adult School — Free Food",
+      "description": "Free food at South San Francisco Adult School. Schedule: 3rd Tue 2 PM–3 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "South San Francisco Adult School",
+      "address": "825 Southwood Drive, South San Francisco, CA 94080",
+      "lat": 37.649972,
+      "lng": -122.435922,
+      "category": "food-assistance",
+      "sourceOrg": "South San Francisco Adult School",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "3rd Tue 2 PM–3 PM",
+      "start": "2026-10-06T14:00",
+      "end": "2026-10-06T15:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "3:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-ymca-1-w-orange-m13-1230",
+      "seriesSlug": "add-ymca-1-w-orange",
+      "title": "YMCA (1 W. Orange) — Free Food",
+      "description": "Free food at YMCA (1 W. Orange). Schedule: 1st Wed 12:30 PM–1:30 PM; 3rd Fri 1:30 PM–2:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "YMCA (1 W. Orange)",
+      "address": "1 W. Orange Ave, South San Francisco, CA 94080",
+      "lat": 37.653369,
+      "lng": -122.427044,
+      "category": "food-assistance",
+      "sourceOrg": "YMCA (1 W. Orange)",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "1st Wed 12:30 PM–1:30 PM; 3rd Fri 1:30 PM–2:30 PM",
+      "start": "2026-10-07T12:30",
+      "end": "2026-10-07T13:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "1:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-ymca-1-w-orange-m35-1330",
+      "seriesSlug": "add-ymca-1-w-orange",
+      "title": "YMCA (1 W. Orange) — Free Food",
+      "description": "Free food at YMCA (1 W. Orange). Schedule: 1st Wed 12:30 PM–1:30 PM; 3rd Fri 1:30 PM–2:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "YMCA (1 W. Orange)",
+      "address": "1 W. Orange Ave, South San Francisco, CA 94080",
+      "lat": 37.653369,
+      "lng": -122.427044,
+      "category": "food-assistance",
+      "sourceOrg": "YMCA (1 W. Orange)",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "1st Wed 12:30 PM–1:30 PM; 3rd Fri 1:30 PM–2:30 PM",
+      "start": "2026-10-09T13:30",
+      "end": "2026-10-09T14:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-svdp-homeless-help-center-meal-program-w12345-1000",
+      "seriesSlug": "add-svdp-homeless-help-center-meal-program",
+      "title": "SVDP Homeless Help Center (meal program) — Free Food",
+      "description": "Free food at SVDP Homeless Help Center (meal program). Schedule: Mon–Fri 10 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "SVDP Homeless Help Center (meal program)",
+      "address": "344 Grand Avenue, South San Francisco, CA 94080",
+      "lat": 37.65569,
+      "lng": -122.411022,
+      "category": "food-assistance",
+      "sourceOrg": "SVDP Homeless Help Center (meal program)",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Mon–Fri 10 AM–11 AM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-embassy-christian-m26-0830",
+      "seriesSlug": "add-embassy-christian",
+      "title": "Embassy Christian — Free Food",
+      "description": "Free food at Embassy Christian. Schedule: 2nd Sat 8:30 AM–10:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Embassy Christian",
+      "address": "925 Linden Avenue, South San Francisco, CA 94080",
+      "lat": 37.662739,
+      "lng": -122.406848,
+      "category": "food-assistance",
+      "sourceOrg": "Embassy Christian",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "2nd Sat 8:30 AM–10:30 AM",
+      "start": "2026-10-10T08:30",
+      "end": "2026-10-10T10:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-primera-iglesia-bautista-de-ssf-w3-1800",
+      "seriesSlug": "add-primera-iglesia-bautista-de-ssf",
+      "title": "Primera Iglesia Bautista de SSF — Free Food",
+      "description": "Free food at Primera Iglesia Bautista de SSF. Schedule: Wed 6 PM–7 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Primera Iglesia Bautista de SSF",
+      "address": "299 Country Club Drive, South San Francisco, CA 94080",
+      "lat": 37.642396,
+      "lng": -122.433165,
+      "category": "food-assistance",
+      "sourceOrg": "Primera Iglesia Bautista de SSF",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Wed 6 PM–7 PM",
+      "start": "2026-09-28T18:00",
+      "end": "2026-09-28T19:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-unity-lutheran-church-m16-1100",
+      "seriesSlug": "add-unity-lutheran-church",
+      "title": "Unity Lutheran Church — Free Food",
+      "description": "Free food at Unity Lutheran Church. Schedule: 1st Sat 11 AM–12:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Unity Lutheran Church",
+      "address": "609 Southwood Drive, South San Francisco, CA 94080",
+      "lat": 37.652945,
+      "lng": -122.433365,
+      "category": "food-assistance",
+      "sourceOrg": "Unity Lutheran Church",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "1st Sat 11 AM–12:30 PM",
+      "start": "2026-10-10T11:00",
+      "end": "2026-10-10T12:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "1:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-ymca-community-resource-center-w1-0800",
+      "seriesSlug": "add-ymca-community-resource-center",
+      "title": "YMCA Community Resource Center — Free Food",
+      "description": "Free food at YMCA Community Resource Center. Schedule: Mon 8 AM–12 PM; Tue, Thu 12 PM–4 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "YMCA Community Resource Center",
+      "address": "1486 Huntington Ave, South San Francisco, CA 94080",
+      "lat": 37.644292,
+      "lng": -122.42225,
+      "category": "food-assistance",
+      "sourceOrg": "YMCA Community Resource Center",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Mon 8 AM–12 PM; Tue, Thu 12 PM–4 PM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-ymca-community-resource-center-w24-1200",
+      "seriesSlug": "add-ymca-community-resource-center",
+      "title": "YMCA Community Resource Center — Free Food",
+      "description": "Free food at YMCA Community Resource Center. Schedule: Mon 8 AM–12 PM; Tue, Thu 12 PM–4 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "YMCA Community Resource Center",
+      "address": "1486 Huntington Ave, South San Francisco, CA 94080",
+      "lat": 37.644292,
+      "lng": -122.42225,
+      "category": "food-assistance",
+      "sourceOrg": "YMCA Community Resource Center",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "Mon 8 AM–12 PM; Tue, Thu 12 PM–4 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-ymca-ssf-library-meal-program-m44-0900",
+      "seriesSlug": "add-ymca-ssf-library-meal-program",
+      "title": "YMCA SSF Library (meal program) — Free Food",
+      "description": "Free food at YMCA SSF Library (meal program). Schedule: 4th Thu 9 AM–10:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "YMCA SSF Library (meal program)",
+      "address": "840 W Orange Avenue, South San Francisco, CA 94080",
+      "lat": 37.652426,
+      "lng": -122.436809,
+      "category": "food-assistance",
+      "sourceOrg": "YMCA SSF Library (meal program)",
+      "url": "https://www.shfb.org/get-food",
+      "schedulePattern": "4th Thu 9 AM–10:30 AM",
+      "start": "2026-10-08T09:00",
+      "end": "2026-10-08T10:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "4:4"
+    }
+  ]
+}

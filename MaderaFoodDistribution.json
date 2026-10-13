@@ -1,0 +1,557 @@
+{
+  "_meta": {
+    "topic": "Net-new Madera County food distributions",
+    "generated": "2026-10-05",
+    "source": "Research supplementing shell PENDING-Madera; raw ./MaderaAdditions-raw.json."
+  },
+  "_deferred": {
+    "add-cornerstone-community-church": {
+      "title": "Cornerstone Community Church",
+      "status": "1st Thu 3:30pm Phone: (559) 665-1182.",
+      "address": "208 Fig Tree Rd, Chowchilla, CA 93610",
+      "lat": 37.12651,
+      "lng": -120.24089,
+      "phone": "(559) 665-1182",
+      "eligibility": "",
+      "sourceUrl": "https://ccchowchilla.com/food-distribution"
+    },
+    "add-holy-family-table-daily-meal": {
+      "title": "Holy Family Table (daily meal)",
+      "status": "eat on site Phone: (559) 673-3290.",
+      "address": "224 N C St, Madera, CA 93638",
+      "lat": 36.965092,
+      "lng": -120.059286,
+      "phone": "(559) 673-3290",
+      "eligibility": "",
+      "sourceUrl": "https://ccfoodbank.org/find-food/food-locator/"
+    },
+    "add-madera-islamic-center": {
+      "title": "Madera Islamic Center",
+      "status": "2nd Tue 9am until supplies last Phone: (559) 706-0808.",
+      "address": "16634 Road 26, Madera, CA 93638",
+      "lat": 36.991048,
+      "lng": -120.074642,
+      "phone": "(559) 706-0808",
+      "eligibility": "",
+      "sourceUrl": "https://ccfoodbank.org/find-food/food-locator/"
+    }
+  },
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "add-iglesia-cristiana-emmanuel-m14-1500",
+      "seriesSlug": "add-iglesia-cristiana-emmanuel",
+      "title": "Iglesia Cristiana Emmanuel — Free Food",
+      "description": "Free food at Iglesia Cristiana Emmanuel. Schedule: 1st Thu 3 PM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Iglesia Cristiana Emmanuel",
+      "address": "607 Trinity Ave, Chowchilla, CA 93610",
+      "lat": 37.118799,
+      "lng": -120.262763,
+      "category": "food-assistance",
+      "sourceOrg": "Iglesia Cristiana Emmanuel",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "1st Thu 3 PM–5 PM",
+      "start": "2026-10-08T15:00",
+      "end": "2026-10-08T17:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-shepherd-s-temple-m15-0900",
+      "seriesSlug": "add-shepherd-s-temple",
+      "title": "Shepherd's Temple — Free Food",
+      "description": "Free food at Shepherd's Temple. Schedule: 1st Fri 9 AM–11 AM. Call (559) 665-1076 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Shepherd's Temple",
+      "address": "16283 Ave 24 1/2, Chowchilla, CA 93610",
+      "lat": 37.108464,
+      "lng": -120.25038,
+      "category": "food-assistance",
+      "sourceOrg": "Shepherd's Temple",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "1st Fri 9 AM–11 AM",
+      "start": "2026-10-09T09:00",
+      "end": "2026-10-09T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "1:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-coarsegold-historic-village-m32-0900",
+      "seriesSlug": "add-coarsegold-historic-village",
+      "title": "Coarsegold Historic Village — Free Food",
+      "description": "Free food at Coarsegold Historic Village. Schedule: 3rd Tue 9 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Coarsegold Historic Village",
+      "address": "35300 CA-41, Coarsegold, CA 93614",
+      "lat": 37.262526,
+      "lng": -119.699368,
+      "category": "food-assistance",
+      "sourceOrg": "Coarsegold Historic Village",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Tue 9 AM–12 PM",
+      "start": "2026-10-06T09:00",
+      "end": "2026-10-06T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "3:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-adult-day-health-care-center-of-madera-m23-1500",
+      "seriesSlug": "add-adult-day-health-care-center-of-madera",
+      "title": "Adult Day Health Care Center of Madera — Free Food",
+      "description": "Free food at Adult Day Health Care Center of Madera. Schedule: 2nd Wed 3 PM–5 PM. Call 559-479-4111 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Adult Day Health Care Center of Madera",
+      "address": "629 E Yosemite Ave, Madera, CA 93638",
+      "lat": 36.966226,
+      "lng": -120.053904,
+      "category": "food-assistance",
+      "sourceOrg": "Adult Day Health Care Center of Madera",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "2nd Wed 3 PM–5 PM",
+      "start": "2026-10-07T15:00",
+      "end": "2026-10-07T17:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "2:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-casas-de-la-vina-self-help-enterprises-m-12-1400",
+      "seriesSlug": "add-casas-de-la-vina-self-help-enterprises",
+      "title": "Casas De La Vina (Self-Help Enterprises) — Free Food",
+      "description": "Free food at Casas De La Vina (Self-Help Enterprises). Schedule: last Tue 2 PM–4 PM. Call (559) 517-8076 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Casas De La Vina (Self-Help Enterprises)",
+      "address": "23784 Ave 9, Madera, CA 93637",
+      "lat": 36.879364,
+      "lng": -120.113495,
+      "category": "food-assistance",
+      "sourceOrg": "Casas De La Vina (Self-Help Enterprises)",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "last Tue 2 PM–4 PM",
+      "start": "2026-10-06T14:00",
+      "end": "2026-10-06T16:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": -1,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "-1:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-celebration-nation-madera-m14-1000",
+      "seriesSlug": "add-celebration-nation-madera",
+      "title": "Celebration Nation Madera — Free Food",
+      "description": "Free food at Celebration Nation Madera. Schedule: 1st Thu 10 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Celebration Nation Madera",
+      "address": "27243 Ellis St, Madera, CA 93638",
+      "lat": 36.987865,
+      "lng": -120.053115,
+      "category": "food-assistance",
+      "sourceOrg": "Celebration Nation Madera",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "1st Thu 10 AM–12 PM",
+      "start": "2026-10-08T10:00",
+      "end": "2026-10-08T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-central-valley-church-madera-m23-0900",
+      "seriesSlug": "add-central-valley-church-madera",
+      "title": "Central Valley Church - Madera — Free Food",
+      "description": "Free food at Central Valley Church - Madera. Schedule: 2nd Wed 9 AM–11 AM. Call (559) 237-3663 ext. 1108 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Central Valley Church - Madera",
+      "address": "1201 E. Yosemite Ave, Madera, CA 93638",
+      "lat": 36.970704,
+      "lng": -120.047954,
+      "category": "food-assistance",
+      "sourceOrg": "Central Valley Church - Madera",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "2nd Wed 9 AM–11 AM",
+      "start": "2026-10-07T09:00",
+      "end": "2026-10-07T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "2:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-clearview-outreach-church-m41-1000",
+      "seriesSlug": "add-clearview-outreach-church",
+      "title": "Clearview Outreach Church — Free Food",
+      "description": "Free food at Clearview Outreach Church. Schedule: 4th Mon 10 AM–12 PM. Call (559) 237-3663 ext. 1108 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Clearview Outreach Church",
+      "address": "331 S. D St, Madera, CA 93637",
+      "lat": 36.95979,
+      "lng": -120.05505,
+      "category": "food-assistance",
+      "sourceOrg": "Clearview Outreach Church",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "4th Mon 10 AM–12 PM",
+      "start": "2026-10-05T10:00",
+      "end": "2026-10-05T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "4:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-latinos-madera-club-m-14-0900",
+      "seriesSlug": "add-latinos-madera-club",
+      "title": "Latinos Madera Club — Free Food",
+      "description": "Free food at Latinos Madera Club. Schedule: last Thu 9 AM–11 AM. Call (559) 395-3733 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Latinos Madera Club",
+      "address": "28789 Azalea Ave, Madera, CA 93638",
+      "lat": 36.946459,
+      "lng": -120.022107,
+      "category": "food-assistance",
+      "sourceOrg": "Latinos Madera Club",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "last Thu 9 AM–11 AM",
+      "start": "2026-10-08T09:00",
+      "end": "2026-10-08T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": -1,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "-1:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-maddie-s-food-pantry-madera-community-college-w1234-0900",
+      "seriesSlug": "add-maddie-s-food-pantry-madera-community-college",
+      "title": "Maddie's Food Pantry (Madera Community College) — Free Food",
+      "description": "Free food at Maddie's Food Pantry (Madera Community College). Schedule: Mon–Thu 9 AM–3 PM; Fri 9 AM–2 PM. Eligibility: students only. Call (559) 675-4171 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Maddie's Food Pantry (Madera Community College)",
+      "address": "30277 Ave 12, Madera, CA 93638",
+      "lat": 36.926115,
+      "lng": -119.997268,
+      "category": "food-assistance",
+      "sourceOrg": "Maddie's Food Pantry (Madera Community College)",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "Mon–Thu 9 AM–3 PM; Fri 9 AM–2 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-maddie-s-food-pantry-madera-community-college-w5-0900",
+      "seriesSlug": "add-maddie-s-food-pantry-madera-community-college",
+      "title": "Maddie's Food Pantry (Madera Community College) — Free Food",
+      "description": "Free food at Maddie's Food Pantry (Madera Community College). Schedule: Mon–Thu 9 AM–3 PM; Fri 9 AM–2 PM. Eligibility: students only. Call (559) 675-4171 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Maddie's Food Pantry (Madera Community College)",
+      "address": "30277 Ave 12, Madera, CA 93638",
+      "lat": 36.926115,
+      "lng": -119.997268,
+      "category": "food-assistance",
+      "sourceOrg": "Maddie's Food Pantry (Madera Community College)",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "Mon–Thu 9 AM–3 PM; Fri 9 AM–2 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-madera-bible-church-drive-up-food-share-m13-0900",
+      "seriesSlug": "add-madera-bible-church-drive-up-food-share",
+      "title": "Madera Bible Church (drive-up food share) — Free Food",
+      "description": "Free food at Madera Bible Church (drive-up food share). Schedule: 1st Wed 9 AM–11 AM. Call (559) 645-2702 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Madera Bible Church (drive-up food share)",
+      "address": "124 Walnut St, Madera, CA 93637",
+      "lat": 36.948777,
+      "lng": -120.056979,
+      "category": "food-assistance",
+      "sourceOrg": "Madera Bible Church (drive-up food share)",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "1st Wed 9 AM–11 AM",
+      "start": "2026-10-07T09:00",
+      "end": "2026-10-07T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "1:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-madera-coalition-for-community-justice-walk-in-f-m15-0900",
+      "seriesSlug": "add-madera-coalition-for-community-justice-walk-in-f",
+      "title": "Madera Coalition for Community Justice (walk-in food share) — Free Food",
+      "description": "Free food at Madera Coalition for Community Justice (walk-in food share). Schedule: 1st Fri 9 AM–11 AM. Call (559) 645-2702 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Madera Coalition for Community Justice (walk-in food share)",
+      "address": "126 N. B St, Madera, CA 93638",
+      "lat": 36.964616,
+      "lng": -120.057523,
+      "category": "food-assistance",
+      "sourceOrg": "Madera Coalition for Community Justice (walk-in food share)",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "1st Fri 9 AM–11 AM",
+      "start": "2026-10-09T09:00",
+      "end": "2026-10-09T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "1:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-parkwood-park-colibries-and-the-celebration-nati-m35-0900",
+      "seriesSlug": "add-parkwood-park-colibries-and-the-celebration-nati",
+      "title": "Parkwood Park (Colibries and The Celebration Nation) — Free Food",
+      "description": "Free food at Parkwood Park (Colibries and The Celebration Nation). Schedule: 3rd Fri 9 AM–11 AM. Call (559) 517-8076 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Parkwood Park (Colibries and The Celebration Nation)",
+      "address": "27290 San Bruno Ave, Madera, CA 93637",
+      "lat": 36.932501,
+      "lng": -120.051513,
+      "category": "food-assistance",
+      "sourceOrg": "Parkwood Park (Colibries and The Celebration Nation)",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Fri 9 AM–11 AM",
+      "start": "2026-10-09T09:00",
+      "end": "2026-10-09T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-rapto-divino-church-madera-neighborhood-market-m13-0900",
+      "seriesSlug": "add-rapto-divino-church-madera-neighborhood-market",
+      "title": "Rapto Divino Church (Madera) - Neighborhood Market — Free Food",
+      "description": "Free food at Rapto Divino Church (Madera) - Neighborhood Market. Schedule: 1st Wed 9 AM–12 PM. Call (559) 237-3663 ext. 1108 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Rapto Divino Church (Madera) - Neighborhood Market",
+      "address": "716 S. Gateway Dr, Madera, CA 93638",
+      "lat": 36.9544,
+      "lng": -120.05413,
+      "category": "food-assistance",
+      "sourceOrg": "Rapto Divino Church (Madera) - Neighborhood Market",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "1st Wed 9 AM–12 PM",
+      "start": "2026-10-07T09:00",
+      "end": "2026-10-07T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "1:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-compass-of-madera-at-new-life-church-w5-0800",
+      "seriesSlug": "add-the-compass-of-madera-at-new-life-church",
+      "title": "The Compass of Madera at New Life Church — Free Food",
+      "description": "Free food at The Compass of Madera at New Life Church. Schedule: Fri 8 AM–11 AM. Call (559) 232-1844 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Compass of Madera at New Life Church",
+      "address": "1125 N. Lake St, Madera, CA 93638",
+      "lat": 36.975414,
+      "lng": -120.055832,
+      "category": "food-assistance",
+      "sourceOrg": "The Compass of Madera at New Life Church",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "Fri 8 AM–11 AM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-north-fork-grace-community-church-mobile-pantry-m42-0900",
+      "seriesSlug": "add-north-fork-grace-community-church-mobile-pantry",
+      "title": "North Fork Grace Community Church - Mobile Pantry — Free Food",
+      "description": "Free food at North Fork Grace Community Church - Mobile Pantry. Schedule: 4th Tue 9 AM–11 AM. Call (559) 237-3663 ext. 1108 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "North Fork Grace Community Church - Mobile Pantry",
+      "address": "56442 Road 200, North Fork, CA 93643",
+      "lat": 37.212914,
+      "lng": -119.517046,
+      "category": "food-assistance",
+      "sourceOrg": "North Fork Grace Community Church - Mobile Pantry",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "4th Tue 9 AM–11 AM",
+      "start": "2026-10-06T09:00",
+      "end": "2026-10-06T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "4:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-north-fork-seventh-day-adventist-m31-1000",
+      "seriesSlug": "add-north-fork-seventh-day-adventist",
+      "title": "North Fork Seventh-Day Adventist — Free Food",
+      "description": "Free food at North Fork Seventh-Day Adventist. Schedule: 3rd Mon 10 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "North Fork Seventh-Day Adventist",
+      "address": "56160 Road 200, North Fork, CA 93643",
+      "lat": 37.21163,
+      "lng": -119.52424,
+      "category": "food-assistance",
+      "sourceOrg": "North Fork Seventh-Day Adventist",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "3rd Mon 10 AM–12 PM",
+      "start": "2026-10-05T10:00",
+      "end": "2026-10-05T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "3:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-manna-house-of-oakhurst-w12345-1000",
+      "seriesSlug": "add-manna-house-of-oakhurst",
+      "title": "Manna House of Oakhurst — Free Food",
+      "description": "Free food at Manna House of Oakhurst. Schedule: Mon–Fri 10 AM–2 PM. Call (559) 683-6262 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Manna House of Oakhurst",
+      "address": "40390 Junction Dr, Oakhurst, CA 93644",
+      "lat": 37.336062,
+      "lng": -119.656674,
+      "category": "food-assistance",
+      "sourceOrg": "Manna House of Oakhurst",
+      "url": "https://mannahouseofoakhurst.org",
+      "schedulePattern": "Mon–Fri 10 AM–2 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-raymond-community-mobile-pantry-m12-0900",
+      "seriesSlug": "add-raymond-community-mobile-pantry",
+      "title": "Raymond Community - Mobile Pantry — Free Food",
+      "description": "Free food at Raymond Community - Mobile Pantry. Schedule: 1st Tue 9 AM–12 PM. Call (559) 237-3663 ext. 1108 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Raymond Community - Mobile Pantry",
+      "address": "35048 Road 606, Raymond, CA 93653",
+      "lat": 37.200509,
+      "lng": -119.905907,
+      "category": "food-assistance",
+      "sourceOrg": "Raymond Community - Mobile Pantry",
+      "url": "https://ccfoodbank.org/find-food/food-locator/",
+      "schedulePattern": "1st Tue 9 AM–12 PM",
+      "start": "2026-10-06T09:00",
+      "end": "2026-10-06T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "1:2"
+    }
+  ]
+}

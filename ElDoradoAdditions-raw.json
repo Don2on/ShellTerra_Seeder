@@ -1,0 +1,562 @@
+{
+  "_meta": {
+    "topic": "ElDorado County food distributions",
+    "generated": "2026-10-11",
+    "source": "Hand-collected list (IMACA, Food Bank of Contra Costa & Solano, Rural Human Services, Food Bank of El Dorado County). Schedules parsed via LA clause parser.",
+    "note": "Drop-in raw for prepare-food-additions.mjs."
+  },
+  "sites": [
+    {
+      "name": "Faith Episcopal Church",
+      "org": "Faith Episcopal Church",
+      "address": "2200 Country Club Dr, Cameron Park, CA 95682",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankedc.org/find-a-food-distribution-site",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Thu 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Hillside Church",
+      "org": "Hillside Church",
+      "address": "4060 Flying C Rd #35, Cameron Park, CA 95682",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankedc.org/find-a-food-distribution-site",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Thu 5-6pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Thu"
+          ],
+          "open": "17:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Light of the Hills Church",
+      "org": "Light of the Hills Church",
+      "address": "3100 Rodeo Rd, Cameron Park, CA 95682",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankedc.org/find-a-food-distribution-site",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st, 2nd & 3rd Tue 11am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Tue",
+            "2nd Tue",
+            "3rd Tue"
+          ],
+          "open": "11:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Camino Seventh-day Adventist Church",
+      "org": "Camino Seventh-day Adventist Church",
+      "address": "3520 Carson Rd, Camino, CA 95709",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankedc.org/find-a-food-distribution-site",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 9am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "El Dorado Community Church",
+      "org": "El Dorado Community Church",
+      "address": "4701 Church St, El Dorado, CA 95623",
+      "phone": "(530) 303-3734",
+      "eligibility": "",
+      "website": "https://www.foodbankedc.org/find-a-food-distribution-site",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Fri 10am-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Fri",
+            "4th Fri"
+          ],
+          "open": "10:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Bayside Church (Hills Church campus)",
+      "org": "Bayside Church (Hills Church campus)",
+      "address": "800 White Rock Rd, El Dorado Hills, CA 95762",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankedc.org/find-a-food-distribution-site",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Tue 10-11:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue",
+            "4th Tue"
+          ],
+          "open": "10:00",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "House of Prayer",
+      "org": "House of Prayer",
+      "address": "7901 Hwy 193, Garden Valley, CA 95633",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankedc.org/find-a-food-distribution-site",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Wed 11am-2pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed",
+            "4th Wed"
+          ],
+          "open": "11:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "St. James Church",
+      "org": "St. James Church",
+      "address": "2831 Harkness Rd, Georgetown, CA 95634",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankedc.org/find-a-food-distribution-site",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Thu 10:30am-12:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Thu"
+          ],
+          "open": "10:30",
+          "close": "12:30"
+        }
+      ]
+    },
+    {
+      "name": "VFW Hall",
+      "org": "VFW Hall",
+      "address": "6297 Main St, Georgetown, CA 95634",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankedc.org/find-a-food-distribution-site",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Fri 1-3pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri"
+          ],
+          "open": "13:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Calvary Chapel on the Georgetown Divide",
+      "org": "Calvary Chapel on the Georgetown Divide",
+      "address": "3757 Hwy 193, Greenwood, CA 95635",
+      "phone": "(530) 823-1622",
+      "eligibility": "",
+      "website": "https://www.foodbankedc.org/find-a-food-distribution-site",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 12-2pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "12:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Grizzly Flats Community Church (parking lot)",
+      "org": "Grizzly Flats Community Church (parking lot)",
+      "address": "5061 Sciaroni Rd, Grizzly Flats, CA 95636",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankedc.org/find-a-food-distribution-site",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Sat 1pm",
+      "schedules": []
+    },
+    {
+      "name": "Green Valley Community Church",
+      "org": "Green Valley Community Church",
+      "address": "3500 Missouri Flat Rd, Placerville, CA 95667",
+      "phone": "(530) 622-3231",
+      "eligibility": "",
+      "website": "https://www.foodbankedc.org/find-a-food-distribution-site",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 9-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "MORE Workshop parking lot (PantryToGo)",
+      "org": "MORE Workshop parking lot (PantryToGo)",
+      "address": "337 Placerville Dr, Placerville, CA 95667",
+      "phone": "(530) 306-6022",
+      "eligibility": "",
+      "website": "https://www.foodbankedc.org/find-a-food-distribution-site",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Thu 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Placerville Seventh-day Adventist Church",
+      "org": "Placerville Seventh-day Adventist Church",
+      "address": "6831 Mother Lode Dr, Placerville, CA 95667",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankedc.org/find-a-food-distribution-site",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Wed 9am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed",
+            "4th Wed"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "S.H.A.R.E. at Federated Church",
+      "org": "S.H.A.R.E. at Federated Church",
+      "address": "1031 Thompson Way, Placerville, CA 95667",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankedc.org/find-a-food-distribution-site",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Wed, Fri 10am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed",
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Upper Room Dining Hall (meals)",
+      "org": "Upper Room Dining Hall (meals)",
+      "address": "1868 Broadway, Placerville, CA 95667",
+      "phone": "(530) 621-7730",
+      "eligibility": "",
+      "website": "https://www.foodbankedc.org/find-a-food-distribution-site",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 11am-5:30pm; Sat, Sun 2-5:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "11:00",
+          "close": "17:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat",
+            "Sun"
+          ],
+          "open": "14:00",
+          "close": "17:30"
+        }
+      ]
+    },
+    {
+      "name": "Pollock Pines Community Center",
+      "org": "Pollock Pines Community Center",
+      "address": "2675 Sanders Dr, Pollock Pines, CA 95726",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankedc.org/find-a-food-distribution-site",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Wed 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Wed"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Pollock Pines Community Church",
+      "org": "Pollock Pines Community Church",
+      "address": "6361 Pony Express Trail, Pollock Pines, CA 95726",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankedc.org/find-a-food-distribution-site",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Fri 11:30am-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Fri",
+            "4th Fri"
+          ],
+          "open": "11:30",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Community Hub Day",
+      "org": "Community Hub Day",
+      "address": "6740 Fairplay Rd, Somerset, CA 95684",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankedc.org/find-a-food-distribution-site",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Wed 11:30am-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Wed"
+          ],
+          "open": "11:30",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Pioneer Bible Church",
+      "org": "Pioneer Bible Church",
+      "address": "6851 Mt. Aukum Rd, Somerset, CA 95684",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodbankedc.org/find-a-food-distribution-site",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Fri 1-2pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Fri",
+            "4th Fri"
+          ],
+          "open": "13:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "American Legion Post 795 (FBNN mobile distribution)",
+      "org": "American Legion Post 795 (FBNN mobile distribution)",
+      "address": "2748 Lake Tahoe Blvd, South Lake Tahoe, CA 96150",
+      "phone": "(775) 331-3663",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "date varies",
+      "schedules": []
+    },
+    {
+      "name": "Bread & Broth (St. Theresa Grace Hall)",
+      "org": "Bread & Broth (St. Theresa Grace Hall)",
+      "address": "1041 Lyons Ave, South Lake Tahoe, CA 96150",
+      "phone": "(916) 837-4201",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 4-5:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "16:00",
+          "close": "17:30"
+        }
+      ]
+    },
+    {
+      "name": "Christmas Cheer All Year",
+      "org": "Christmas Cheer All Year",
+      "address": "1120 3rd St, South Lake Tahoe, CA 96150",
+      "phone": "(530) 542-4934",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue, Wed, Thu 11am-2pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "11:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "South Lake Tahoe Family Resource Center",
+      "org": "South Lake Tahoe Family Resource Center",
+      "address": "3501 Spruce Ave Suite B, South Lake Tahoe, CA 96150",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon & Wed 8am-6pm; Tue, Thu, Fri 8am-4:30pm; Sat 9-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "open": "08:00",
+          "close": "18:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Thu",
+            "Fri"
+          ],
+          "open": "08:00",
+          "close": "16:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Tahoe Coalition for the Homeless (Red Lodge drop-in)",
+      "org": "Tahoe Coalition for the Homeless (Red Lodge drop-in)",
+      "address": "1137 Emerald Bay Rd, South Lake Tahoe, CA 96150",
+      "phone": "(530) 600-2822",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue & Fri 10am-2pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "14:00"
+        }
+      ]
+    }
+  ]
+}

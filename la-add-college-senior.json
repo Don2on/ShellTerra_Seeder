@@ -1,0 +1,530 @@
+{
+  "sites": [
+    {
+      "name": "LA Pierce College - Brahma Bodega Food Pantry",
+      "org": "Los Angeles Pierce College",
+      "address": "6201 Winnetka Ave (Multicultural Center, LLC 5110), Woodland Hills, CA, 91371",
+      "phone": "818-464-4410",
+      "website": "https://www.lapc.edu/student-services/spr/brahma-pantry",
+      "eligibility": "Enrolled students",
+      "category": "college-pantry",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon", "tue", "wed", "thu"], "open": "09:00", "close": "13:00", "note": "Brahma Bodega" },
+        { "freq": "weekly", "days": ["fri"], "open": "09:30", "close": "12:00", "note": "" }
+      ]
+    },
+    {
+      "name": "LA Valley College - Monarch Market (Basic Needs Center)",
+      "org": "Los Angeles Valley College",
+      "address": "5800 Fulton Ave (in front of Unity Center), Valley Glen, CA, 91401",
+      "phone": "818-778-5965",
+      "website": "https://www.lavc.edu/student-services/spr/calworks/food-pantry",
+      "eligibility": "Enrolled students",
+      "category": "college-pantry",
+      "confidence": "medium",
+      "schedules": []
+    },
+    {
+      "name": "East LA College - Husky Food Pantry (Basic Needs Center)",
+      "org": "East Los Angeles College",
+      "address": "1301 Avenida Cesar Chavez (MPR F5-201), Monterey Park, CA, 91754",
+      "phone": "323-265-8650",
+      "website": "https://www.elac.edu/student-services/spr/student-health-center/food-resources",
+      "eligibility": "Enrolled students; public pantry distributions open to community",
+      "category": "college-pantry",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "monthly", "patterns": ["second wednesday", "fourth wednesday"], "open": "12:00", "close": "15:00", "note": "Public food pantry distribution" }
+      ]
+    },
+    {
+      "name": "LA Trade-Tech College - Beaver's Lounge Food Pantry",
+      "org": "Los Angeles Trade-Technical College",
+      "address": "400 W Washington Blvd (E3/Culinary Arts Building, Outdoor Plaza), Los Angeles, CA, 90015",
+      "phone": "",
+      "website": "https://www.lattc.edu/student-services/spr/students-in-need/food",
+      "eligibility": "Enrolled students",
+      "category": "college-pantry",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "weekly", "days": ["thu"], "open": "11:00", "close": "13:00", "note": "Every other Thursday, until supplies last" }
+      ]
+    },
+    {
+      "name": "LA Mission College - Basic Needs Center Food Pantry",
+      "org": "Los Angeles Mission College",
+      "address": "13356 Eldridge Ave (Campus Services Building), Sylmar, CA, 91342",
+      "phone": "818-833-3393",
+      "website": "https://www.lamc.edu/student-services/spr/basic-needs-center",
+      "eligibility": "Enrolled students",
+      "category": "college-pantry",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon", "tue", "wed", "thu"], "open": "08:30", "close": "16:00", "note": "Basic Needs Center office hours" },
+        { "freq": "weekly", "days": ["fri"], "open": "08:30", "close": "12:00", "note": "" }
+      ]
+    },
+    {
+      "name": "LA Southwest College - Welcome Center Food Pantry",
+      "org": "Los Angeles Southwest College",
+      "address": "1600 W Imperial Hwy (Student Services Building, Room 118), Los Angeles, CA, 90047",
+      "phone": "323-241-5032",
+      "website": "https://www.lasc.edu/student-services/welcome-center",
+      "eligibility": "Enrolled students",
+      "category": "college-pantry",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon", "tue", "thu"], "open": "09:00", "close": "16:00", "note": "Closed noon-1pm for lunch" },
+        { "freq": "weekly", "days": ["wed"], "open": "09:00", "close": "12:00", "note": "" }
+      ]
+    },
+    {
+      "name": "LA Harbor College - Seahawk Market Food Pantry",
+      "org": "Los Angeles Harbor College",
+      "address": "1111 Figueroa Place (Tech-103, enter via Tech-100), Wilmington, CA, 90744",
+      "phone": "310-233-4057",
+      "website": "https://www.lahc.edu/student-services/spr/basic-needs-center",
+      "eligibility": "Enrolled students",
+      "category": "college-pantry",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon", "tue", "wed", "thu"], "open": "10:00", "close": "16:00", "note": "Seahawk Market" }
+      ]
+    },
+    {
+      "name": "Cal Poly Pomona - Poly Pantry",
+      "org": "Cal Poly Pomona (ASI)",
+      "address": "3801 W Temple Ave (Bronco Student Center, Bldg 35, Room 1216), Pomona, CA, 91768",
+      "phone": "",
+      "website": "https://asi.cpp.edu/services/poly-pantry/",
+      "eligibility": "Enrolled students",
+      "category": "college-pantry",
+      "confidence": "medium",
+      "schedules": []
+    },
+    {
+      "name": "CSU Dominguez Hills - Teddy's Pantry (Toro CARE)",
+      "org": "California State University, Dominguez Hills",
+      "address": "1000 E Victoria St (College of Education, Bldg 14, H-023), Carson, CA, 90747",
+      "phone": "310-243-3600",
+      "website": "https://www.csudh.edu/toro-care/food-support/teddys-pantry/",
+      "eligibility": "Enrolled students",
+      "category": "college-pantry",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon", "wed"], "open": "13:00", "close": "17:00", "note": "Teddy's Pantry" },
+        { "freq": "weekly", "days": ["tue", "thu", "fri"], "open": "09:00", "close": "17:00", "note": "" }
+      ]
+    },
+    {
+      "name": "Pasadena City College - Lancer Pantry",
+      "org": "Pasadena City College (Lancer Care Center)",
+      "address": "1570 E Colorado Blvd (Room R-125), Pasadena, CA, 91106",
+      "phone": "626-585-7264",
+      "website": "https://pasadena.edu/campus-life/lancer-pantry/index.php",
+      "eligibility": "Enrolled students (valid PCC ID)",
+      "category": "college-pantry",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["tue", "wed", "thu"], "open": "10:00", "close": "16:00", "note": "" }
+      ]
+    },
+    {
+      "name": "Glendale College - GCC CARES Food Pantry (Garfield Campus)",
+      "org": "Glendale Community College",
+      "address": "1122 E Garfield Ave (Somerset SO100 & SO104), Glendale, CA, 91205",
+      "phone": "818-240-1000",
+      "website": "https://www.glendale.edu/students/student-services/student-basic-needs/food-support/food-pantry",
+      "eligibility": "Enrolled students (appointment)",
+      "category": "college-pantry",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "weekly", "days": ["tue", "wed", "thu"], "open": "11:00", "close": "16:00", "note": "Appointment only" },
+        { "freq": "weekly", "days": ["fri"], "open": "11:00", "close": "15:00", "note": "" }
+      ]
+    },
+    {
+      "name": "El Camino College - Warrior Pantry (Basic Needs Center)",
+      "org": "El Camino College",
+      "address": "16007 Crenshaw Blvd (El Camino Commons, Parking Lot L), Torrance, CA, 90506",
+      "phone": "310-660-3593",
+      "website": "https://www.elcamino.edu/support/resources/basics/warrior-pantry/index.php",
+      "eligibility": "Enrolled students",
+      "category": "college-pantry",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["tue"], "open": "10:00", "close": "15:00", "note": "" },
+        { "freq": "weekly", "days": ["wed", "thu"], "open": "11:00", "close": "16:00", "note": "" }
+      ]
+    },
+    {
+      "name": "Mt. San Antonio College - Mountie Fresh Food Pantry",
+      "org": "Mt. San Antonio College",
+      "address": "1100 N Grand Ave (Building 67A-103), Walnut, CA, 91789",
+      "phone": "",
+      "website": "https://www.mtsac.edu/basic-needs/mountiefreshfoodpantry.html",
+      "eligibility": "Enrolled students (appointment)",
+      "category": "college-pantry",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["tue", "wed"], "open": "10:00", "close": "17:00", "note": "" },
+        { "freq": "weekly", "days": ["fri"], "open": "11:00", "close": "14:00", "note": "" }
+      ]
+    },
+    {
+      "name": "College of the Canyons - Basic Needs Center (Valencia)",
+      "org": "College of the Canyons",
+      "address": "26455 Rockwell Canyon Rd (STC-123), Santa Clarita, CA, 91355",
+      "phone": "661-362-3375",
+      "website": "https://www.canyons.edu/studentservices/banc/index.php",
+      "eligibility": "Enrolled students",
+      "category": "college-pantry",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon", "tue", "wed", "thu"], "open": "09:00", "close": "17:00", "note": "" },
+        { "freq": "weekly", "days": ["fri"], "open": "09:00", "close": "13:00", "note": "" }
+      ]
+    },
+    {
+      "name": "College of the Canyons - Basic Needs Center (Canyon Country)",
+      "org": "College of the Canyons",
+      "address": "17200 Sierra Hwy (Quad 1A), Santa Clarita, CA, 91351",
+      "phone": "661-362-3975",
+      "website": "https://www.canyons.edu/studentservices/banc/index.php",
+      "eligibility": "Enrolled students",
+      "category": "college-pantry",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon", "tue", "wed"], "open": "09:00", "close": "17:00", "note": "" },
+        { "freq": "weekly", "days": ["thu"], "open": "09:00", "close": "14:00", "note": "" }
+      ]
+    },
+    {
+      "name": "Antelope Valley College - Marauder Marketplace (Basic Needs Center)",
+      "org": "Antelope Valley College",
+      "address": "3041 W Ave K (T-100), Lancaster, CA, 93536",
+      "phone": "661-722-6685",
+      "website": "https://www.avc.edu/basic-needs/food",
+      "eligibility": "Enrolled students",
+      "category": "college-pantry",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon", "tue", "wed", "thu"], "open": "07:30", "close": "18:00", "note": "" },
+        { "freq": "weekly", "days": ["fri"], "open": "07:30", "close": "11:30", "note": "" }
+      ]
+    },
+    {
+      "name": "ONEgeneration - Canoga Park Senior Dining Center",
+      "org": "ONEgeneration",
+      "address": "7326 Jordan Ave, Canoga Park, CA, 91303",
+      "phone": "818-708-4758",
+      "website": "https://www.onegeneration.org/dining-centers/",
+      "eligibility": "Seniors 60+",
+      "category": "senior",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon", "tue", "wed", "thu", "fri"], "open": "11:30", "close": "12:30", "note": "Congregate lunch, suggested $3" }
+      ]
+    },
+    {
+      "name": "ONEgeneration - Wilkinson Senior Dining Center",
+      "org": "ONEgeneration",
+      "address": "8956 Vanalden Ave, Northridge, CA, 91324",
+      "phone": "818-654-8376",
+      "website": "https://www.onegeneration.org/dining-centers/",
+      "eligibility": "Seniors 60+",
+      "category": "senior",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon", "tue", "wed", "thu", "fri"], "open": "11:30", "close": "12:30", "note": "Congregate lunch, suggested $3" }
+      ]
+    },
+    {
+      "name": "St. Barnabas Senior Services - Angelus Plaza Dining Room",
+      "org": "St. Barnabas Senior Services",
+      "address": "255 N Hill St, Los Angeles, CA, 90012",
+      "phone": "213-388-4444",
+      "website": "https://www.sbssla.org/",
+      "eligibility": "Seniors 60+",
+      "category": "senior",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon", "tue", "wed", "thu", "fri"], "open": "11:30", "close": "12:30", "note": "Congregate lunch" }
+      ]
+    },
+    {
+      "name": "St. Barnabas Senior Services - Golden Dragon Dining Site",
+      "org": "St. Barnabas Senior Services",
+      "address": "960 N Broadway, Los Angeles, CA, 90012",
+      "phone": "213-388-4444",
+      "website": "https://www.sbssla.org/",
+      "eligibility": "Seniors 60+",
+      "category": "senior",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon", "tue", "wed", "thu", "fri"], "open": "11:30", "close": "12:30", "note": "Congregate lunch" }
+      ]
+    },
+    {
+      "name": "St. Barnabas Senior Services - Crescent Arms Dining Room",
+      "org": "St. Barnabas Senior Services",
+      "address": "1709 W 8th St, Los Angeles, CA, 90017",
+      "phone": "213-388-4444",
+      "website": "https://www.sbssla.org/",
+      "eligibility": "Seniors 60+",
+      "category": "senior",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon", "tue", "wed", "thu", "fri"], "open": "11:30", "close": "12:30", "note": "Congregate lunch" }
+      ]
+    },
+    {
+      "name": "St. Barnabas Senior Services - Echo Park Center",
+      "org": "St. Barnabas Senior Services",
+      "address": "1021 N Alvarado St, Los Angeles, CA, 90026",
+      "phone": "213-592-1166",
+      "website": "https://www.sbssla.org/",
+      "eligibility": "Seniors 60+",
+      "category": "senior",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon", "tue", "wed", "thu", "fri"], "open": "08:00", "close": "16:00", "note": "Senior center / meal site" }
+      ]
+    },
+    {
+      "name": "Human Services Association - Clara Street Senior Center Congregate Meals",
+      "org": "Human Services Association",
+      "address": "6722 Clara St, Bell Gardens, CA, 90201",
+      "phone": "562-806-5400",
+      "website": "https://www.hsala.org/services/congregate-meals-program",
+      "eligibility": "Seniors 60+",
+      "category": "senior",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon", "tue", "wed", "thu", "fri"], "open": "11:30", "close": "12:30", "note": "Congregate lunch, suggested $3" }
+      ]
+    },
+    {
+      "name": "Jewish Family Service LA - Jona Goldrich (Freda Mohr) Multipurpose Center",
+      "org": "Jewish Family Service of Los Angeles",
+      "address": "330 N Fairfax Ave, Los Angeles, CA, 90036",
+      "phone": "323-937-5900",
+      "website": "https://www.jfsla.org/location/freda-mohr-multipurpose-center/",
+      "eligibility": "Seniors 60+",
+      "category": "senior",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon", "tue", "wed", "thu", "fri"], "open": "11:30", "close": "12:30", "note": "Senior congregate lunch" }
+      ]
+    },
+    {
+      "name": "LA Korean Senior Corps Congregate Meals (Salvation Army)",
+      "org": "Salvation Army / LA Dept of Aging Nutrition",
+      "address": "933 S Hoover St, Los Angeles, CA, 90006",
+      "phone": "213-482-7252",
+      "website": "https://aging.lacity.gov/nutrition-services",
+      "eligibility": "Seniors 60+",
+      "category": "senior",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon", "wed", "fri"], "open": "09:00", "close": "16:00", "note": "Congregate meal site" }
+      ]
+    },
+    {
+      "name": "City of Glendale Adult Recreation Center - Senior Nutrition Program",
+      "org": "City of Glendale Community Services & Parks",
+      "address": "201 E Colorado St, Glendale, CA, 91205",
+      "phone": "818-548-3775",
+      "website": "https://www.glendaleca.gov/",
+      "eligibility": "Seniors 60+",
+      "category": "senior",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon", "tue", "wed", "thu", "fri"], "open": "11:30", "close": "12:30", "note": "Congregate lunch, suggested $2.50" }
+      ]
+    },
+    {
+      "name": "Pasadena Senior Center - Congregate Meal Program",
+      "org": "Pasadena Senior Center",
+      "address": "85 E Holly St, Pasadena, CA, 91103",
+      "phone": "626-795-4331",
+      "website": "https://www.pasadenaseniorcenter.org/",
+      "eligibility": "Seniors 60+",
+      "category": "senior",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon", "tue", "wed", "thu", "fri"], "open": "11:30", "close": "12:30", "note": "Congregate lunch" }
+      ]
+    },
+    {
+      "name": "Anderson Munger Family YMCA - FeedLA Food Distribution",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "4301 W 3rd St, Los Angeles, CA, 90020",
+      "phone": "323-244-9077",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to all / seniors 60+",
+      "category": "senior",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "monthly", "patterns": ["second tuesday", "fourth tuesday"], "open": "09:00", "close": "12:00", "note": "FeedLA distribution" }
+      ]
+    },
+    {
+      "name": "Collins & Katz Family YMCA - FeedLA Food Distribution",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "1466 S Westgate Ave, Los Angeles, CA, 90025",
+      "phone": "323-244-9077",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to all",
+      "category": "senior",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "weekly", "days": ["thu"], "open": "10:30", "close": "12:00", "note": "FeedLA distribution" }
+      ]
+    },
+    {
+      "name": "Crenshaw Family YMCA - FeedLA Food Distribution",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "3820 Santa Rosalia Dr, Los Angeles, CA, 90008",
+      "phone": "323-244-9077",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to all",
+      "category": "senior",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "weekly", "days": ["tue"], "open": "11:00", "close": "15:00", "note": "FeedLA distribution" }
+      ]
+    },
+    {
+      "name": "Crowell Family YMCA - FeedLA Food Distribution",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "1605 Garfield Ave, South Pasadena, CA, 91030",
+      "phone": "323-244-9077",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to all",
+      "category": "senior",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "weekly", "days": ["thu"], "open": "10:00", "close": "12:00", "note": "FeedLA distribution" }
+      ]
+    },
+    {
+      "name": "Culver-Palms Family YMCA - FeedLA Food Distribution",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "4500 Sepulveda Blvd, Culver City, CA, 90230",
+      "phone": "323-244-9077",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to all",
+      "category": "senior",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "weekly", "days": ["thu"], "open": "10:30", "close": "13:30", "note": "FeedLA distribution" }
+      ]
+    },
+    {
+      "name": "East Valley Family YMCA - FeedLA Food Distribution",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "5142 Tujunga Ave, North Hollywood, CA, 91601",
+      "phone": "323-244-9077",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to all",
+      "category": "senior",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "weekly", "days": ["thu"], "open": "10:00", "close": "12:30", "note": "FeedLA distribution" }
+      ]
+    },
+    {
+      "name": "Gardena-Carson Family YMCA - FeedLA Food Distribution",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "1000 W Artesia Blvd, Gardena, CA, 90247",
+      "phone": "323-244-9077",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to all",
+      "category": "senior",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "weekly", "days": ["thu"], "open": "10:00", "close": "11:00", "note": "FeedLA distribution" }
+      ]
+    },
+    {
+      "name": "Montebello-Commerce YMCA - FeedLA Food Distribution",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "2000 W Beverly Blvd, Montebello, CA, 90640",
+      "phone": "323-244-9077",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to all",
+      "category": "senior",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "weekly", "days": ["thu"], "open": "10:00", "close": "12:00", "note": "FeedLA distribution" }
+      ]
+    },
+    {
+      "name": "North Valley Family YMCA - FeedLA Food Distribution",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "10896 Lehigh Ave, Pacoima, CA, 91331",
+      "phone": "323-244-9077",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to all",
+      "category": "senior",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon"], "open": "11:00", "close": "12:00", "note": "FeedLA distribution" }
+      ]
+    },
+    {
+      "name": "Santa Anita Family YMCA - FeedLA Food Distribution",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "501 S Mountain Ave, Monrovia, CA, 91016",
+      "phone": "323-244-9077",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to all",
+      "category": "senior",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "weekly", "days": ["thu"], "open": "09:30", "close": "12:00", "note": "FeedLA distribution" }
+      ]
+    },
+    {
+      "name": "Southeast-Rio Vista YMCA - FeedLA Food Distribution",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "8912 Madison Ave, South Gate, CA, 90280",
+      "phone": "323-244-9077",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to all",
+      "category": "senior",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "weekly", "days": ["fri"], "open": "09:00", "close": "11:00", "note": "FeedLA distribution" }
+      ]
+    },
+    {
+      "name": "Westchester Family YMCA - FeedLA Food Distribution",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "8015 S Sepulveda Blvd, Los Angeles, CA, 90045",
+      "phone": "323-244-9077",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to all",
+      "category": "senior",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "weekly", "days": ["thu"], "open": "10:00", "close": "12:00", "note": "FeedLA distribution" }
+      ]
+    },
+    {
+      "name": "Weingart YMCA Wellness & Aquatic Center - FeedLA Food Distribution",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "9900 S Vermont Ave, Los Angeles, CA, 90044",
+      "phone": "323-244-9077",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to all",
+      "category": "senior",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "monthly", "patterns": ["first tuesday", "third tuesday"], "open": "09:00", "close": "11:30", "note": "FeedLA distribution" }
+      ]
+    }
+  ]
+}

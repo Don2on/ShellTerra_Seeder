@@ -1,0 +1,344 @@
+{
+  "_meta": {
+    "topic": "Net-new Lassen County food distributions",
+    "generated": "2026-10-05",
+    "source": "Research supplementing shell PENDING-Lassen; raw ./LassenAdditions-raw.json."
+  },
+  "_deferred": {
+    "add-milford-food-pantry": {
+      "title": "Milford Food Pantry",
+      "status": "drive-through Phone: (530) 260-1115.",
+      "address": "450-075 Milford Grade Rd, Milford, CA 96121",
+      "lat": 40.16796,
+      "lng": -120.36831,
+      "phone": "(530) 260-1115",
+      "eligibility": "",
+      "sourceUrl": "https://fbnn.org/"
+    },
+    "add-lassen-indian-health-center-tribal-food-distribu": {
+      "title": "Lassen Indian Health Center (tribal food distribution)",
+      "status": "Third week of the month, no time listed Phone: (530) 257-2542.",
+      "address": "795 Joaquin St, Susanville, CA 96130",
+      "lat": 40.426594,
+      "lng": -120.656964,
+      "phone": "(530) 257-2542",
+      "eligibility": "",
+      "sourceUrl": "https://fbnn.org/"
+    }
+  },
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "add-big-valley-50-plus-bieber-veterans-hall-w234-1100",
+      "seriesSlug": "add-big-valley-50-plus-bieber-veterans-hall",
+      "title": "Big Valley 50 Plus (Bieber Veterans Hall) — Free Food",
+      "description": "Free food at Big Valley 50 Plus (Bieber Veterans Hall). Schedule: Tue–Thu 11 AM–2 PM. Call (530) 292-7151 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Big Valley 50 Plus (Bieber Veterans Hall)",
+      "address": "470 Bridge St, Bieber, CA 96009",
+      "lat": 41.121365,
+      "lng": -121.137609,
+      "category": "food-assistance",
+      "sourceOrg": "Big Valley 50 Plus (Bieber Veterans Hall)",
+      "url": "https://fbnn.org/",
+      "schedulePattern": "Tue–Thu 11 AM–2 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-fort-sage-family-resource-center-m1535-0900",
+      "seriesSlug": "add-fort-sage-family-resource-center",
+      "title": "Fort Sage Family Resource Center — Free Food",
+      "description": "Free food at Fort Sage Family Resource Center. Schedule: 1st Fri & 3rd Fri 9 AM–11 AM; 2nd Wed & 4th Wed 9 AM–6 PM. Eligibility: photo ID. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Fort Sage Family Resource Center",
+      "address": "457-440 Sierra Dr, Herlong, CA 96113",
+      "lat": 40.139219,
+      "lng": -120.137421,
+      "category": "food-assistance",
+      "sourceOrg": "Fort Sage Family Resource Center",
+      "url": "https://fbnn.org/",
+      "schedulePattern": "1st Fri & 3rd Fri 9 AM–11 AM; 2nd Wed & 4th Wed 9 AM–6 PM",
+      "start": "2026-10-09T09:00",
+      "end": "2026-10-09T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "1:5,3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-fort-sage-family-resource-center-m2343-0900",
+      "seriesSlug": "add-fort-sage-family-resource-center",
+      "title": "Fort Sage Family Resource Center — Free Food",
+      "description": "Free food at Fort Sage Family Resource Center. Schedule: 1st Fri & 3rd Fri 9 AM–11 AM; 2nd Wed & 4th Wed 9 AM–6 PM. Eligibility: photo ID. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Fort Sage Family Resource Center",
+      "address": "457-440 Sierra Dr, Herlong, CA 96113",
+      "lat": 40.139219,
+      "lng": -120.137421,
+      "category": "food-assistance",
+      "sourceOrg": "Fort Sage Family Resource Center",
+      "url": "https://fbnn.org/",
+      "schedulePattern": "1st Fri & 3rd Fri 9 AM–11 AM; 2nd Wed & 4th Wed 9 AM–6 PM",
+      "start": "2026-10-07T09:00",
+      "end": "2026-10-07T18:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "2:3,4:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-freedom-church-ministries-w1-1330",
+      "seriesSlug": "add-freedom-church-ministries",
+      "title": "Freedom Church Ministries — Free Food",
+      "description": "Free food at Freedom Church Ministries. Schedule: Mon 1:30 PM–3 PM; Sat 9 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Freedom Church Ministries",
+      "address": "170 David S Hall, Herlong, CA 96113",
+      "lat": 40.141671,
+      "lng": -120.126604,
+      "category": "food-assistance",
+      "sourceOrg": "Freedom Church Ministries",
+      "url": "https://fbnn.org/",
+      "schedulePattern": "Mon 1:30 PM–3 PM; Sat 9 AM–12 PM",
+      "start": "2026-09-28T13:30",
+      "end": "2026-09-28T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-freedom-church-ministries-w6-0900",
+      "seriesSlug": "add-freedom-church-ministries",
+      "title": "Freedom Church Ministries — Free Food",
+      "description": "Free food at Freedom Church Ministries. Schedule: Mon 1:30 PM–3 PM; Sat 9 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Freedom Church Ministries",
+      "address": "170 David S Hall, Herlong, CA 96113",
+      "lat": 40.141671,
+      "lng": -120.126604,
+      "category": "food-assistance",
+      "sourceOrg": "Freedom Church Ministries",
+      "url": "https://fbnn.org/",
+      "schedulePattern": "Mon 1:30 PM–3 PM; Sat 9 AM–12 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-god-cares-food-pantry-w4-1400",
+      "seriesSlug": "add-god-cares-food-pantry",
+      "title": "God Cares Food Pantry — Free Food",
+      "description": "Free food at God Cares Food Pantry. Schedule: Thu 2 PM–5 PM. Call (530) 310-1733 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "God Cares Food Pantry",
+      "address": "464-905 Standish Buntingville Rd, Janesville, CA 96114",
+      "lat": 40.306189,
+      "lng": -120.478959,
+      "category": "food-assistance",
+      "sourceOrg": "God Cares Food Pantry",
+      "url": "https://fbnn.org/",
+      "schedulePattern": "Thu 2 PM–5 PM",
+      "start": "2026-09-28T14:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-crossroads-ministries-w12345-0900",
+      "seriesSlug": "add-crossroads-ministries",
+      "title": "Crossroads Ministries — Free Food",
+      "description": "Free food at Crossroads Ministries. Schedule: Mon–Fri 9 AM–11:30 AM; Mon–Sat 6 PM–8 PM. Call (530) 251-0701 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Crossroads Ministries",
+      "address": "2410 Main St, Susanville, CA 96130",
+      "lat": 40.41315,
+      "lng": -120.640452,
+      "category": "food-assistance",
+      "sourceOrg": "Crossroads Ministries",
+      "url": "https://fbnn.org/",
+      "schedulePattern": "Mon–Fri 9 AM–11:30 AM; Mon–Sat 6 PM–8 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-crossroads-ministries-w123456-1800",
+      "seriesSlug": "add-crossroads-ministries",
+      "title": "Crossroads Ministries — Free Food",
+      "description": "Free food at Crossroads Ministries. Schedule: Mon–Fri 9 AM–11:30 AM; Mon–Sat 6 PM–8 PM. Call (530) 251-0701 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Crossroads Ministries",
+      "address": "2410 Main St, Susanville, CA 96130",
+      "lat": 40.41315,
+      "lng": -120.640452,
+      "category": "food-assistance",
+      "sourceOrg": "Crossroads Ministries",
+      "url": "https://fbnn.org/",
+      "schedulePattern": "Mon–Fri 9 AM–11:30 AM; Mon–Sat 6 PM–8 PM",
+      "start": "2026-09-28T18:00",
+      "end": "2026-09-28T20:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5,6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-hope-food-pantry-susanville-united-methodist-w5-1500",
+      "seriesSlug": "add-hope-food-pantry-susanville-united-methodist",
+      "title": "HOPE Food Pantry (Susanville United Methodist) — Free Food",
+      "description": "Free food at HOPE Food Pantry (Susanville United Methodist). Schedule: Fri 3 PM–6 PM. Call (530) 249-5839 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "HOPE Food Pantry (Susanville United Methodist)",
+      "address": "60 S Lassen St, Susanville, CA 96130",
+      "lat": 40.418069,
+      "lng": -120.662405,
+      "category": "food-assistance",
+      "sourceOrg": "HOPE Food Pantry (Susanville United Methodist)",
+      "url": "https://fbnn.org/",
+      "schedulePattern": "Fri 3 PM–6 PM",
+      "start": "2026-09-28T15:00",
+      "end": "2026-09-28T18:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-lassen-family-services-w135-0800",
+      "seriesSlug": "add-lassen-family-services",
+      "title": "Lassen Family Services — Free Food",
+      "description": "Free food at Lassen Family Services. Schedule: Mon, Wed, Fri 8 AM–5 PM. Call (530) 257-5004 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Lassen Family Services",
+      "address": "1306 Riverside Dr, Susanville, CA 96130",
+      "lat": 40.413297,
+      "lng": -120.656035,
+      "category": "food-assistance",
+      "sourceOrg": "Lassen Family Services",
+      "url": "https://fbnn.org/",
+      "schedulePattern": "Mon, Wed, Fri 8 AM–5 PM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-salvation-army-susanville-w12345-0900",
+      "seriesSlug": "add-salvation-army-susanville",
+      "title": "Salvation Army - Susanville — Free Food",
+      "description": "Free food at Salvation Army - Susanville. Schedule: Mon–Fri 9 AM–12 PM; 2nd Fri & 4th Fri 12:30 PM–4 PM. Call (530) 257-0314 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salvation Army - Susanville",
+      "address": "1560 Main St, Susanville, CA 96130",
+      "lat": 40.415493,
+      "lng": -120.650362,
+      "category": "food-assistance",
+      "sourceOrg": "Salvation Army - Susanville",
+      "url": "https://fbnn.org/",
+      "schedulePattern": "Mon–Fri 9 AM–12 PM; 2nd Fri & 4th Fri 12:30 PM–4 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-salvation-army-susanville-m2545-1230",
+      "seriesSlug": "add-salvation-army-susanville",
+      "title": "Salvation Army - Susanville — Free Food",
+      "description": "Free food at Salvation Army - Susanville. Schedule: Mon–Fri 9 AM–12 PM; 2nd Fri & 4th Fri 12:30 PM–4 PM. Call (530) 257-0314 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salvation Army - Susanville",
+      "address": "1560 Main St, Susanville, CA 96130",
+      "lat": 40.415493,
+      "lng": -120.650362,
+      "category": "food-assistance",
+      "sourceOrg": "Salvation Army - Susanville",
+      "url": "https://fbnn.org/",
+      "schedulePattern": "Mon–Fri 9 AM–12 PM; 2nd Fri & 4th Fri 12:30 PM–4 PM",
+      "start": "2026-10-09T12:30",
+      "end": "2026-10-09T16:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "2:5,4:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-westwood-family-resource-center-m2545-1300",
+      "seriesSlug": "add-westwood-family-resource-center",
+      "title": "Westwood Family Resource Center — Free Food",
+      "description": "Free food at Westwood Family Resource Center. Schedule: 2nd Fri & 4th Fri 1 PM–4 PM. Eligibility: photo ID. Call (530) 588-8282 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Westwood Family Resource Center",
+      "address": "125 Birch St, Westwood, CA 96137",
+      "lat": 40.30079,
+      "lng": -121.001985,
+      "category": "food-assistance",
+      "sourceOrg": "Westwood Family Resource Center",
+      "url": "https://fbnn.org/",
+      "schedulePattern": "2nd Fri & 4th Fri 1 PM–4 PM",
+      "start": "2026-10-09T13:00",
+      "end": "2026-10-09T16:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "2:5,4:5"
+    }
+  ]
+}

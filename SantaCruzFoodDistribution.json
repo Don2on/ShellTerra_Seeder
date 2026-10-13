@@ -1,0 +1,1496 @@
+{
+  "_meta": {
+    "topic": "Net-new SantaCruz County food distributions",
+    "generated": "2026-10-05",
+    "source": "Research supplementing shell PENDING-SantaCruz; raw ./SantaCruzAdditions-raw.json."
+  },
+  "_deferred": {},
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "add-new-hope-aptos-church-m2242-1000",
+      "seriesSlug": "add-new-hope-aptos-church",
+      "title": "New Hope Aptos Church — Free Food",
+      "description": "Free food at New Hope Aptos Church. Schedule: 2nd Tue & 4th Tue 10 AM–11 AM. Call 831-688-3312 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "New Hope Aptos Church",
+      "address": "7200 Freedom Blvd, Aptos, CA 95003",
+      "lat": 36.97782,
+      "lng": -121.870477,
+      "category": "food-assistance",
+      "sourceOrg": "New Hope Aptos Church",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "2nd Tue & 4th Tue 10 AM–11 AM",
+      "start": "2026-10-06T10:00",
+      "end": "2026-10-06T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 2
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "2:2,4:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-people-s-pantry-twin-lakes-church-w3-1545",
+      "seriesSlug": "add-people-s-pantry-twin-lakes-church",
+      "title": "People's Pantry (Twin Lakes Church) — Free Food",
+      "description": "Free food at People's Pantry (Twin Lakes Church). Schedule: Wed 3:45 PM–5:15 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "People's Pantry (Twin Lakes Church)",
+      "address": "2701 Cabrillo College Dr, Aptos, CA 95003",
+      "lat": 36.985155,
+      "lng": -121.928588,
+      "category": "food-assistance",
+      "sourceOrg": "People's Pantry (Twin Lakes Church)",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "Wed 3:45 PM–5:15 PM",
+      "start": "2026-09-28T15:45",
+      "end": "2026-09-28T17:15",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-resurrection-church-pantry-w15-1000",
+      "seriesSlug": "add-resurrection-church-pantry",
+      "title": "Resurrection Church Pantry — Free Food",
+      "description": "Free food at Resurrection Church Pantry. Schedule: Mon, Fri 10 AM–12 PM. Call 831-688-4300 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Resurrection Church Pantry",
+      "address": "7600 Soquel Dr, Aptos, CA 95003",
+      "lat": 36.980176,
+      "lng": -121.909668,
+      "category": "food-assistance",
+      "sourceOrg": "Resurrection Church Pantry",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "Mon, Fri 10 AM–12 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-neighbors-helping-neighbors-aromas-grange-m1232-1600",
+      "seriesSlug": "add-neighbors-helping-neighbors-aromas-grange",
+      "title": "Neighbors Helping Neighbors (Aromas Grange) — Free Food",
+      "description": "Free food at Neighbors Helping Neighbors (Aromas Grange). Schedule: 1st Tue & 3rd Tue 4 PM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Neighbors Helping Neighbors (Aromas Grange)",
+      "address": "400 Rose Ave, Aromas, CA 95004",
+      "lat": 36.887534,
+      "lng": -121.642888,
+      "category": "food-assistance",
+      "sourceOrg": "Neighbors Helping Neighbors (Aromas Grange)",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "1st Tue & 3rd Tue 4 PM–5 PM",
+      "start": "2026-10-06T16:00",
+      "end": "2026-10-06T17:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 2
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "1:2,3:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-valley-churches-united-mission-w234-0900",
+      "seriesSlug": "add-valley-churches-united-mission",
+      "title": "Valley Churches United Mission — Free Food",
+      "description": "Free food at Valley Churches United Mission. Schedule: Tue–Thu 9 AM–12 PM; 1st Fri & 3rd Fri 9 AM–11 AM. Eligibility: seniors only. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Valley Churches United Mission",
+      "address": "9400 Highway 9, Ben Lomond, CA 95005",
+      "lat": 37.089029,
+      "lng": -122.088326,
+      "category": "food-assistance",
+      "sourceOrg": "Valley Churches United Mission",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "Tue–Thu 9 AM–12 PM; 1st Fri & 3rd Fri 9 AM–11 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-valley-churches-united-mission-m1535-0900",
+      "seriesSlug": "add-valley-churches-united-mission",
+      "title": "Valley Churches United Mission — Free Food",
+      "description": "Free food at Valley Churches United Mission. Schedule: Tue–Thu 9 AM–12 PM; 1st Fri & 3rd Fri 9 AM–11 AM. Eligibility: seniors only. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Valley Churches United Mission",
+      "address": "9400 Highway 9, Ben Lomond, CA 95005",
+      "lat": 37.089029,
+      "lng": -122.088326,
+      "category": "food-assistance",
+      "sourceOrg": "Valley Churches United Mission",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "Tue–Thu 9 AM–12 PM; 1st Fri & 3rd Fri 9 AM–11 AM",
+      "start": "2026-10-09T09:00",
+      "end": "2026-10-09T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "1:5,3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-bay-avenue-senior-apartments-m23-1100",
+      "seriesSlug": "add-bay-avenue-senior-apartments",
+      "title": "Bay Avenue Senior Apartments — Free Food",
+      "description": "Free food at Bay Avenue Senior Apartments. Schedule: 2nd Wed 11 AM–12:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Bay Avenue Senior Apartments",
+      "address": "750 Bay Avenue Building 4, Capitola, CA 95010",
+      "lat": 36.980121,
+      "lng": -121.954129,
+      "category": "food-assistance",
+      "sourceOrg": "Bay Avenue Senior Apartments",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "2nd Wed 11 AM–12:30 PM",
+      "start": "2026-10-07T11:00",
+      "end": "2026-10-07T12:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "2:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-davenport-resource-service-center-community-acti-w134-1000",
+      "seriesSlug": "add-davenport-resource-service-center-community-acti",
+      "title": "Davenport Resource Service Center (Community Action Board) — Free Food",
+      "description": "Free food at Davenport Resource Service Center (Community Action Board). Schedule: Mon, Wed–Thu 10 AM–6 PM; Tue 2 PM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Davenport Resource Service Center (Community Action Board)",
+      "address": "150 Church St, Davenport, CA 95017",
+      "lat": 37.012484,
+      "lng": -122.192939,
+      "category": "food-assistance",
+      "sourceOrg": "Davenport Resource Service Center (Community Action Board)",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "Mon, Wed–Thu 10 AM–6 PM; Tue 2 PM–5 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T18:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-davenport-resource-service-center-community-acti-w2-1400",
+      "seriesSlug": "add-davenport-resource-service-center-community-acti",
+      "title": "Davenport Resource Service Center (Community Action Board) — Free Food",
+      "description": "Free food at Davenport Resource Service Center (Community Action Board). Schedule: Mon, Wed–Thu 10 AM–6 PM; Tue 2 PM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Davenport Resource Service Center (Community Action Board)",
+      "address": "150 Church St, Davenport, CA 95017",
+      "lat": 37.012484,
+      "lng": -122.192939,
+      "category": "food-assistance",
+      "sourceOrg": "Davenport Resource Service Center (Community Action Board)",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "Mon, Wed–Thu 10 AM–6 PM; Tue 2 PM–5 PM",
+      "start": "2026-09-28T14:00",
+      "end": "2026-09-28T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-mountain-community-resources-community-bridges-w4-1030",
+      "seriesSlug": "add-mountain-community-resources-community-bridges",
+      "title": "Mountain Community Resources (Community Bridges) — Free Food",
+      "description": "Free food at Mountain Community Resources (Community Bridges). Schedule: Thu 10:30 AM–11:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Mountain Community Resources (Community Bridges)",
+      "address": "6134 Highway 9, Felton, CA 95018",
+      "lat": 37.050163,
+      "lng": -122.073137,
+      "category": "food-assistance",
+      "sourceOrg": "Mountain Community Resources (Community Bridges)",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "Thu 10:30 AM–11:30 AM",
+      "start": "2026-09-28T10:30",
+      "end": "2026-09-28T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-cornerstone-food-pantry-w4-1030",
+      "seriesSlug": "add-cornerstone-food-pantry",
+      "title": "Cornerstone Food Pantry — Free Food",
+      "description": "Free food at Cornerstone Food Pantry. Schedule: Thu 10:30 AM–12 PM. Call 831-331-9120 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Cornerstone Food Pantry",
+      "address": "302 Carey Ave, Freedom, CA 95019",
+      "lat": 36.935667,
+      "lng": -121.775635,
+      "category": "food-assistance",
+      "sourceOrg": "Cornerstone Food Pantry",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "Thu 10:30 AM–12 PM",
+      "start": "2026-09-28T10:30",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-corralitos-creek-apartments-m2242-1600",
+      "seriesSlug": "add-corralitos-creek-apartments",
+      "title": "Corralitos Creek Apartments — Free Food",
+      "description": "Free food at Corralitos Creek Apartments. Schedule: 2nd Tue & 4th Tue 4 PM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Corralitos Creek Apartments",
+      "address": "125 Pajaro Circle, Freedom, CA 95019",
+      "lat": 36.94086,
+      "lng": -121.773408,
+      "category": "food-assistance",
+      "sourceOrg": "Corralitos Creek Apartments",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "2nd Tue & 4th Tue 4 PM–5 PM",
+      "start": "2026-10-06T16:00",
+      "end": "2026-10-06T17:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 2
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "2:2,4:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-freedom-elementary-school-m2343-1700",
+      "seriesSlug": "add-freedom-elementary-school",
+      "title": "Freedom Elementary School — Free Food",
+      "description": "Free food at Freedom Elementary School. Schedule: 2nd Wed & 4th Wed 5 PM–6 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Freedom Elementary School",
+      "address": "25 Holly Dr, Freedom, CA 95019",
+      "lat": 36.930028,
+      "lng": -121.78137,
+      "category": "food-assistance",
+      "sourceOrg": "Freedom Elementary School",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "2nd Wed & 4th Wed 5 PM–6 PM",
+      "start": "2026-10-07T17:00",
+      "end": "2026-10-07T18:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "2:3,4:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-paloma-del-mar-apartments-m35-1030",
+      "seriesSlug": "add-paloma-del-mar-apartments",
+      "title": "Paloma del Mar Apartments — Free Food",
+      "description": "Free food at Paloma del Mar Apartments. Schedule: 3rd Fri 10:30 AM–11:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Paloma del Mar Apartments",
+      "address": "2030 Pajaro Ln, Freedom, CA 95019",
+      "lat": 36.93904,
+      "lng": -121.77314,
+      "category": "food-assistance",
+      "sourceOrg": "Paloma del Mar Apartments",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "3rd Fri 10:30 AM–11:30 AM",
+      "start": "2026-10-09T10:30",
+      "end": "2026-10-09T11:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-community-connection-santa-cruz-w13-1000",
+      "seriesSlug": "add-community-connection-santa-cruz",
+      "title": "Community Connection - Santa Cruz — Free Food",
+      "description": "Free food at Community Connection - Santa Cruz. Schedule: Mon, Wed 10 AM–2 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Community Connection - Santa Cruz",
+      "address": "300 Harvey West Blvd, Santa Cruz, CA 95060",
+      "lat": 36.98508,
+      "lng": -122.040091,
+      "category": "food-assistance",
+      "sourceOrg": "Community Connection - Santa Cruz",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "Mon, Wed 10 AM–2 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-del-mar-elementary-school-m1333-1600",
+      "seriesSlug": "add-del-mar-elementary-school",
+      "title": "Del Mar Elementary School — Free Food",
+      "description": "Free food at Del Mar Elementary School. Schedule: 1st Wed & 3rd Wed 4 PM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Del Mar Elementary School",
+      "address": "1959 Merrill St, Santa Cruz, CA 95062",
+      "lat": 36.96518,
+      "lng": -121.98516,
+      "category": "food-assistance",
+      "sourceOrg": "Del Mar Elementary School",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "1st Wed & 3rd Wed 4 PM–5 PM",
+      "start": "2026-10-07T16:00",
+      "end": "2026-10-07T17:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "1:3,3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-elizabeth-oaks-apartments-m1333-1130",
+      "seriesSlug": "add-elizabeth-oaks-apartments",
+      "title": "Elizabeth Oaks Apartments — Free Food",
+      "description": "Free food at Elizabeth Oaks Apartments. Schedule: 1st Wed & 3rd Wed 11:30 AM–12:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Elizabeth Oaks Apartments",
+      "address": "1460 Jose Ave, Santa Cruz, CA 95062",
+      "lat": 36.977199,
+      "lng": -121.989744,
+      "category": "food-assistance",
+      "sourceOrg": "Elizabeth Oaks Apartments",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "1st Wed & 3rd Wed 11:30 AM–12:30 PM",
+      "start": "2026-10-07T11:30",
+      "end": "2026-10-07T12:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "1:3,3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-grey-bears-w12345-1100",
+      "seriesSlug": "add-grey-bears",
+      "title": "Grey Bears — Free Food",
+      "description": "Free food at Grey Bears. Schedule: Mon–Fri 11 AM–12:30 PM; Thu–Fri 9 AM–10:30 AM. Call 831-479-1055 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Grey Bears",
+      "address": "2710 Chanticleer Avenue, Santa Cruz, CA 95065",
+      "lat": 36.986495,
+      "lng": -121.978355,
+      "category": "food-assistance",
+      "sourceOrg": "Grey Bears",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "Mon–Fri 11 AM–12:30 PM; Thu–Fri 9 AM–10:30 AM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-grey-bears-w45-0900",
+      "seriesSlug": "add-grey-bears",
+      "title": "Grey Bears — Free Food",
+      "description": "Free food at Grey Bears. Schedule: Mon–Fri 11 AM–12:30 PM; Thu–Fri 9 AM–10:30 AM. Call 831-479-1055 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Grey Bears",
+      "address": "2710 Chanticleer Avenue, Santa Cruz, CA 95065",
+      "lat": 36.986495,
+      "lng": -121.978355,
+      "category": "food-assistance",
+      "sourceOrg": "Grey Bears",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "Mon–Fri 11 AM–12:30 PM; Thu–Fri 9 AM–10:30 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T10:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-holy-cross-church-pantry-w7-0800",
+      "seriesSlug": "add-holy-cross-church-pantry",
+      "title": "Holy Cross Church Pantry — Free Food",
+      "description": "Free food at Holy Cross Church Pantry. Schedule: Sun 8 AM–11 AM; Wed, Fri 10 AM–1 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Holy Cross Church Pantry",
+      "address": "210 High St Rm 104, Santa Cruz, CA 95060",
+      "lat": 36.978471,
+      "lng": -122.031203,
+      "category": "food-assistance",
+      "sourceOrg": "Holy Cross Church Pantry",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "Sun 8 AM–11 AM; Wed, Fri 10 AM–1 PM",
+      "start": "2026-09-28T08:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-holy-cross-church-pantry-w35-1000",
+      "seriesSlug": "add-holy-cross-church-pantry",
+      "title": "Holy Cross Church Pantry — Free Food",
+      "description": "Free food at Holy Cross Church Pantry. Schedule: Sun 8 AM–11 AM; Wed, Fri 10 AM–1 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Holy Cross Church Pantry",
+      "address": "210 High St Rm 104, Santa Cruz, CA 95060",
+      "lat": 36.978471,
+      "lng": -122.031203,
+      "category": "food-assistance",
+      "sourceOrg": "Holy Cross Church Pantry",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "Sun 8 AM–11 AM; Wed, Fri 10 AM–1 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-liuna-local-270-community-service-fund-w3-1000",
+      "seriesSlug": "add-liuna-local-270-community-service-fund",
+      "title": "LiUNA! Local 270 Community Service Fund — Free Food",
+      "description": "Free food at LiUNA! Local 270 Community Service Fund. Schedule: Wed 10 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "LiUNA! Local 270 Community Service Fund",
+      "address": "640 Eaton St, Santa Cruz, CA 95062",
+      "lat": 36.96754,
+      "lng": -121.99825,
+      "category": "food-assistance",
+      "sourceOrg": "LiUNA! Local 270 Community Service Fund",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "Wed 10 AM–12 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-live-oak-elementary-school-m2444-1600",
+      "seriesSlug": "add-live-oak-elementary-school",
+      "title": "Live Oak Elementary School — Free Food",
+      "description": "Free food at Live Oak Elementary School. Schedule: 2nd Thu & 4th Thu 4 PM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Live Oak Elementary School",
+      "address": "1916 Capitola Rd, Santa Cruz, CA 95062",
+      "lat": 36.974718,
+      "lng": -121.982821,
+      "category": "food-assistance",
+      "sourceOrg": "Live Oak Elementary School",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "2nd Thu & 4th Thu 4 PM–5 PM",
+      "start": "2026-10-08T16:00",
+      "end": "2026-10-08T17:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "2:4,4:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-neary-lagoon-apartments-m1434-1400",
+      "seriesSlug": "add-neary-lagoon-apartments",
+      "title": "Neary Lagoon Apartments — Free Food",
+      "description": "Free food at Neary Lagoon Apartments. Schedule: 1st Thu & 3rd Thu 2 PM–3 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Neary Lagoon Apartments",
+      "address": "81 Chestnut St, Santa Cruz, CA 95060",
+      "lat": 36.964641,
+      "lng": -122.028528,
+      "category": "food-assistance",
+      "sourceOrg": "Neary Lagoon Apartments",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "1st Thu & 3rd Thu 2 PM–3 PM",
+      "start": "2026-10-08T14:00",
+      "end": "2026-10-08T15:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4,3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-nueva-vista-apartments-m12-1430",
+      "seriesSlug": "add-nueva-vista-apartments",
+      "title": "Nueva Vista Apartments — Free Food",
+      "description": "Free food at Nueva Vista Apartments. Schedule: 1st Tue 2:30 PM–3:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Nueva Vista Apartments",
+      "address": "136 Leibrandt Ave, Santa Cruz, CA 95060",
+      "lat": 36.965681,
+      "lng": -122.01634,
+      "category": "food-assistance",
+      "sourceOrg": "Nueva Vista Apartments",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "1st Tue 2:30 PM–3:30 PM",
+      "start": "2026-10-06T14:30",
+      "end": "2026-10-06T15:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "1:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-nueva-vista-community-resources-community-bridge-m1333-1430",
+      "seriesSlug": "add-nueva-vista-community-resources-community-bridge",
+      "title": "Nueva Vista Community Resources (Community Bridges) — Free Food",
+      "description": "Free food at Nueva Vista Community Resources (Community Bridges). Schedule: 1st Wed & 3rd Wed 2:30 PM–4:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Nueva Vista Community Resources (Community Bridges)",
+      "address": "711 E. Cliff Dr, Santa Cruz, CA 95060",
+      "lat": 36.968814,
+      "lng": -122.015678,
+      "category": "food-assistance",
+      "sourceOrg": "Nueva Vista Community Resources (Community Bridges)",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "1st Wed & 3rd Wed 2:30 PM–4:30 PM",
+      "start": "2026-10-07T14:30",
+      "end": "2026-10-07T16:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "1:3,3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-salvation-army-santa-cruz-corps-w1234-0900",
+      "seriesSlug": "add-salvation-army-santa-cruz-corps",
+      "title": "Salvation Army Santa Cruz Corps — Free Food",
+      "description": "Free food at Salvation Army Santa Cruz Corps. Schedule: Mon–Thu 9 AM–11:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salvation Army Santa Cruz Corps",
+      "address": "721 Laurel St, Santa Cruz, CA 95060",
+      "lat": 36.968097,
+      "lng": -122.031018,
+      "category": "food-assistance",
+      "sourceOrg": "Salvation Army Santa Cruz Corps",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "Mon–Thu 9 AM–11:30 AM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-santa-cruz-bible-church-w2-1000",
+      "seriesSlug": "add-santa-cruz-bible-church",
+      "title": "Santa Cruz Bible Church — Free Food",
+      "description": "Free food at Santa Cruz Bible Church. Schedule: Tue 10 AM–12 PM; Thu 12 PM–1 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Santa Cruz Bible Church",
+      "address": "440 Frederick St, Santa Cruz, CA 95062",
+      "lat": 36.977511,
+      "lng": -122.002519,
+      "category": "food-assistance",
+      "sourceOrg": "Santa Cruz Bible Church",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "Tue 10 AM–12 PM; Thu 12 PM–1 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-santa-cruz-bible-church-w4-1200",
+      "seriesSlug": "add-santa-cruz-bible-church",
+      "title": "Santa Cruz Bible Church — Free Food",
+      "description": "Free food at Santa Cruz Bible Church. Schedule: Tue 10 AM–12 PM; Thu 12 PM–1 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Santa Cruz Bible Church",
+      "address": "440 Frederick St, Santa Cruz, CA 95062",
+      "lat": 36.977511,
+      "lng": -122.002519,
+      "category": "food-assistance",
+      "sourceOrg": "Santa Cruz Bible Church",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "Tue 10 AM–12 PM; Thu 12 PM–1 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-santa-cruz-community-health-centers-live-oak-hea-w5-1500",
+      "seriesSlug": "add-santa-cruz-community-health-centers-live-oak-hea",
+      "title": "Santa Cruz Community Health Centers - Live Oak Health Center — Free Food",
+      "description": "Free food at Santa Cruz Community Health Centers - Live Oak Health Center. Schedule: Fri 3 PM–4 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Santa Cruz Community Health Centers - Live Oak Health Center",
+      "address": "1510 Capitola Road, Santa Cruz, CA 95062",
+      "lat": 36.976105,
+      "lng": -121.984756,
+      "category": "food-assistance",
+      "sourceOrg": "Santa Cruz Community Health Centers - Live Oak Health Center",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "Fri 3 PM–4 PM",
+      "start": "2026-09-28T15:00",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-francis-soup-kitchen-w12345-1200",
+      "seriesSlug": "add-st-francis-soup-kitchen",
+      "title": "St. Francis Soup Kitchen — Free Food",
+      "description": "Free food at St. Francis Soup Kitchen. Schedule: Mon–Fri 12 PM–1 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Francis Soup Kitchen",
+      "address": "205 Mora St, Santa Cruz, CA 95060",
+      "lat": 36.979903,
+      "lng": -122.030121,
+      "category": "food-assistance",
+      "sourceOrg": "St. Francis Soup Kitchen",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "Mon–Fri 12 PM–1 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-star-of-the-sea-church-w1-1000",
+      "seriesSlug": "add-star-of-the-sea-church",
+      "title": "Star of the Sea Church — Free Food",
+      "description": "Free food at Star of the Sea Church. Schedule: Mon 10 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Star of the Sea Church",
+      "address": "515 Frederick St, Santa Cruz, CA 95062",
+      "lat": 36.976514,
+      "lng": -122.005268,
+      "category": "food-assistance",
+      "sourceOrg": "Star of the Sea Church",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "Mon 10 AM–12 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sycamore-commons-apartments-m44-1400",
+      "seriesSlug": "add-sycamore-commons-apartments",
+      "title": "Sycamore Commons Apartments — Free Food",
+      "description": "Free food at Sycamore Commons Apartments. Schedule: 4th Thu 2 PM–3 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Sycamore Commons Apartments",
+      "address": "125 Sycamore St, Santa Cruz, CA 95060",
+      "lat": 36.96686,
+      "lng": -122.025412,
+      "category": "food-assistance",
+      "sourceOrg": "Sycamore Commons Apartments",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "4th Thu 2 PM–3 PM",
+      "start": "2026-10-08T14:00",
+      "end": "2026-10-08T15:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "4:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-united-veterans-council-sc-veterans-memorial-bui-w3-1100",
+      "seriesSlug": "add-united-veterans-council-sc-veterans-memorial-bui",
+      "title": "United Veterans Council - SC Veterans Memorial Building — Free Food",
+      "description": "Free food at United Veterans Council - SC Veterans Memorial Building. Schedule: Wed 11 AM–1 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "United Veterans Council - SC Veterans Memorial Building",
+      "address": "846 Front St, Santa Cruz, CA 95060",
+      "lat": 36.976524,
+      "lng": -122.026183,
+      "category": "food-assistance",
+      "sourceOrg": "United Veterans Council - SC Veterans Memorial Building",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "Wed 11 AM–1 PM",
+      "start": "2026-09-28T11:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-gateway-bible-church-w5-1700",
+      "seriesSlug": "add-gateway-bible-church",
+      "title": "GateWay Bible Church — Free Food",
+      "description": "Free food at GateWay Bible Church. Schedule: Fri 5 PM–5:30 PM. Call 831-438-0646 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "GateWay Bible Church",
+      "address": "5000 Granite Creek Road, Scotts Valley, CA 95066",
+      "lat": 37.061404,
+      "lng": -122.002502,
+      "category": "food-assistance",
+      "sourceOrg": "GateWay Bible Church",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "Fri 5 PM–5:30 PM",
+      "start": "2026-09-28T17:00",
+      "end": "2026-09-28T17:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-san-agustin-pantry-w3-1000",
+      "seriesSlug": "add-san-agustin-pantry",
+      "title": "San Agustin Pantry — Free Food",
+      "description": "Free food at San Agustin Pantry. Schedule: Wed 10 AM–1 PM. Call 831-423-0878 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "San Agustin Pantry",
+      "address": "257 Glenwood Drive, Scotts Valley, CA 95066",
+      "lat": 37.067067,
+      "lng": -122.006068,
+      "category": "food-assistance",
+      "sourceOrg": "San Agustin Pantry",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "Wed 10 AM–1 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-philip-s-episcopal-food-pantry-w4-1700",
+      "seriesSlug": "add-st-philip-s-episcopal-food-pantry",
+      "title": "St. Philip's Episcopal Food Pantry — Free Food",
+      "description": "Free food at St. Philip's Episcopal Food Pantry. Schedule: Thu 5 PM–6:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Philip's Episcopal Food Pantry",
+      "address": "5271 Scotts Valley Drive, Scotts Valley, CA 95066",
+      "lat": 37.057136,
+      "lng": -122.012104,
+      "category": "food-assistance",
+      "sourceOrg": "St. Philip's Episcopal Food Pantry",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "Thu 5 PM–6:30 PM",
+      "start": "2026-09-28T17:00",
+      "end": "2026-09-28T18:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-tradewinds-church-w6-1000",
+      "seriesSlug": "add-tradewinds-church",
+      "title": "Tradewinds Church — Free Food",
+      "description": "Free food at Tradewinds Church. Schedule: Sat 10 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Tradewinds Church",
+      "address": "4525 Soquel Dr, Soquel, CA 95073",
+      "lat": 36.98798,
+      "lng": -121.95905,
+      "category": "food-assistance",
+      "sourceOrg": "Tradewinds Church",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "Sat 10 AM–11 AM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-alianza-charter-school-m2545-1600",
+      "seriesSlug": "add-alianza-charter-school",
+      "title": "Alianza Charter School — Free Food",
+      "description": "Free food at Alianza Charter School. Schedule: 2nd Fri & 4th Fri 4 PM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Alianza Charter School",
+      "address": "115 Casserly Rd, Watsonville, CA 95076",
+      "lat": 36.959639,
+      "lng": -121.73272,
+      "category": "food-assistance",
+      "sourceOrg": "Alianza Charter School",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "2nd Fri & 4th Fri 4 PM–5 PM",
+      "start": "2026-10-09T16:00",
+      "end": "2026-10-09T17:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "2:5,4:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-all-saints-cristo-rey-episcopal-church-m44-1030",
+      "seriesSlug": "add-all-saints-cristo-rey-episcopal-church",
+      "title": "All Saints Cristo Rey Episcopal Church — Free Food",
+      "description": "Free food at All Saints Cristo Rey Episcopal Church. Schedule: 4th Thu 10:30 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "All Saints Cristo Rey Episcopal Church",
+      "address": "437 Roger Ave, Watsonville, CA 95076",
+      "lat": 36.927943,
+      "lng": -121.756893,
+      "category": "food-assistance",
+      "sourceOrg": "All Saints Cristo Rey Episcopal Church",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "4th Thu 10:30 AM–12 PM",
+      "start": "2026-10-08T10:30",
+      "end": "2026-10-08T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "4:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-amesti-elementary-school-m1333-1600",
+      "seriesSlug": "add-amesti-elementary-school",
+      "title": "Amesti Elementary School — Free Food",
+      "description": "Free food at Amesti Elementary School. Schedule: 1st Wed & 3rd Wed 4 PM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Amesti Elementary School",
+      "address": "25 Amesti Rd, Watsonville, CA 95076",
+      "lat": 36.945656,
+      "lng": -121.769282,
+      "category": "food-assistance",
+      "sourceOrg": "Amesti Elementary School",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "1st Wed & 3rd Wed 4 PM–5 PM",
+      "start": "2026-10-07T16:00",
+      "end": "2026-10-07T17:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "1:3,3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-ann-soldo-elementary-school-m22-1330",
+      "seriesSlug": "add-ann-soldo-elementary-school",
+      "title": "Ann Soldo Elementary School — Free Food",
+      "description": "Free food at Ann Soldo Elementary School. Schedule: 2nd Tue 1:30 PM–2:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Ann Soldo Elementary School",
+      "address": "1140 Menasco Dr, Watsonville, CA 95076",
+      "lat": 36.92564,
+      "lng": -121.743165,
+      "category": "food-assistance",
+      "sourceOrg": "Ann Soldo Elementary School",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "2nd Tue 1:30 PM–2:30 PM",
+      "start": "2026-10-06T13:30",
+      "end": "2026-10-06T14:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "2:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-buena-vista-children-s-center-m1434-1700",
+      "seriesSlug": "add-buena-vista-children-s-center",
+      "title": "Buena Vista Children's Center — Free Food",
+      "description": "Free food at Buena Vista Children's Center. Schedule: 1st Thu & 3rd Thu 5 PM–6 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Buena Vista Children's Center",
+      "address": "113 Tierra Alta Dr Rm 201, Watsonville, CA 95076",
+      "lat": 36.91138,
+      "lng": -121.80727,
+      "category": "food-assistance",
+      "sourceOrg": "Buena Vista Children's Center",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "1st Thu & 3rd Thu 5 PM–6 PM",
+      "start": "2026-10-08T17:00",
+      "end": "2026-10-08T18:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4,3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-calabasas-elementary-school-m1232-1600",
+      "seriesSlug": "add-calabasas-elementary-school",
+      "title": "Calabasas Elementary School — Free Food",
+      "description": "Free food at Calabasas Elementary School. Schedule: 1st Tue & 3rd Tue 4 PM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Calabasas Elementary School",
+      "address": "202 Calabasas Rd, Watsonville, CA 95076",
+      "lat": 36.944191,
+      "lng": -121.79292,
+      "category": "food-assistance",
+      "sourceOrg": "Calabasas Elementary School",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "1st Tue & 3rd Tue 4 PM–5 PM",
+      "start": "2026-10-06T16:00",
+      "end": "2026-10-06T17:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 2
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "1:2,3:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-holy-eucharist-catholic-community-church-m14-1400",
+      "seriesSlug": "add-holy-eucharist-catholic-community-church",
+      "title": "Holy Eucharist Catholic Community Church — Free Food",
+      "description": "Free food at Holy Eucharist Catholic Community Church. Schedule: 1st Thu 2 PM–4 PM. Call 831-722-5490 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Holy Eucharist Catholic Community Church",
+      "address": "527 Corralitos Road, Watsonville, CA 95076",
+      "lat": 36.986309,
+      "lng": -121.807479,
+      "category": "food-assistance",
+      "sourceOrg": "Holy Eucharist Catholic Community Church",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "1st Thu 2 PM–4 PM",
+      "start": "2026-10-08T14:00",
+      "end": "2026-10-08T16:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-iglesia-adventista-hispana-w3-0930",
+      "seriesSlug": "add-iglesia-adventista-hispana",
+      "title": "Iglesia Adventista Hispana — Free Food",
+      "description": "Free food at Iglesia Adventista Hispana. Schedule: Wed 9:30 AM–10:30 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Iglesia Adventista Hispana",
+      "address": "336 Green Valley Rd, Watsonville, CA 95076",
+      "lat": 36.94429,
+      "lng": -121.766864,
+      "category": "food-assistance",
+      "sourceOrg": "Iglesia Adventista Hispana",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "Wed 9:30 AM–10:30 AM",
+      "start": "2026-09-28T09:30",
+      "end": "2026-09-28T10:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-iglesia-de-cristo-watsonville-w2-1900",
+      "seriesSlug": "add-iglesia-de-cristo-watsonville",
+      "title": "Iglesia de Cristo (Watsonville) — Free Food",
+      "description": "Free food at Iglesia de Cristo (Watsonville). Schedule: Tue 7 PM–9 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Iglesia de Cristo (Watsonville)",
+      "address": "118 First St, Watsonville, CA 95076",
+      "lat": 36.906718,
+      "lng": -121.756247,
+      "category": "food-assistance",
+      "sourceOrg": "Iglesia de Cristo (Watsonville)",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "Tue 7 PM–9 PM",
+      "start": "2026-09-28T19:00",
+      "end": "2026-09-28T21:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-pajaro-valley-loaves-fishes-w12345-0900",
+      "seriesSlug": "add-pajaro-valley-loaves-fishes",
+      "title": "Pajaro Valley Loaves & Fishes — Free Food",
+      "description": "Free food at Pajaro Valley Loaves & Fishes. Schedule: Mon–Fri 9 AM–11:30 AM; Mon–Fri 12 PM–1 PM; Mon–Fri 1 PM–3 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Pajaro Valley Loaves & Fishes",
+      "address": "150 Second Street, Watsonville, CA 95076",
+      "lat": 36.90736,
+      "lng": -121.758683,
+      "category": "food-assistance",
+      "sourceOrg": "Pajaro Valley Loaves & Fishes",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "Mon–Fri 9 AM–11:30 AM; Mon–Fri 12 PM–1 PM; Mon–Fri 1 PM–3 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-pajaro-valley-loaves-fishes-w12345-1200",
+      "seriesSlug": "add-pajaro-valley-loaves-fishes",
+      "title": "Pajaro Valley Loaves & Fishes — Free Food",
+      "description": "Free food at Pajaro Valley Loaves & Fishes. Schedule: Mon–Fri 9 AM–11:30 AM; Mon–Fri 12 PM–1 PM; Mon–Fri 1 PM–3 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Pajaro Valley Loaves & Fishes",
+      "address": "150 Second Street, Watsonville, CA 95076",
+      "lat": 36.90736,
+      "lng": -121.758683,
+      "category": "food-assistance",
+      "sourceOrg": "Pajaro Valley Loaves & Fishes",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "Mon–Fri 9 AM–11:30 AM; Mon–Fri 12 PM–1 PM; Mon–Fri 1 PM–3 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-pajaro-valley-loaves-fishes-w12345-1300",
+      "seriesSlug": "add-pajaro-valley-loaves-fishes",
+      "title": "Pajaro Valley Loaves & Fishes — Free Food",
+      "description": "Free food at Pajaro Valley Loaves & Fishes. Schedule: Mon–Fri 9 AM–11:30 AM; Mon–Fri 12 PM–1 PM; Mon–Fri 1 PM–3 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Pajaro Valley Loaves & Fishes",
+      "address": "150 Second Street, Watsonville, CA 95076",
+      "lat": 36.90736,
+      "lng": -121.758683,
+      "category": "food-assistance",
+      "sourceOrg": "Pajaro Valley Loaves & Fishes",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "Mon–Fri 9 AM–11:30 AM; Mon–Fri 12 PM–1 PM; Mon–Fri 1 PM–3 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-pajaro-valley-prevention-and-student-assistance-m42-1100",
+      "seriesSlug": "add-pajaro-valley-prevention-and-student-assistance",
+      "title": "Pajaro Valley Prevention and Student Assistance — Free Food",
+      "description": "Free food at Pajaro Valley Prevention and Student Assistance. Schedule: 4th Tue 11 AM–12 PM. Call 831-728-6445 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Pajaro Valley Prevention and Student Assistance",
+      "address": "411 East Lake Avenue, Watsonville, CA 95076",
+      "lat": 36.917371,
+      "lng": -121.75097,
+      "category": "food-assistance",
+      "sourceOrg": "Pajaro Valley Prevention and Student Assistance",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "4th Tue 11 AM–12 PM",
+      "start": "2026-10-06T11:00",
+      "end": "2026-10-06T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "4:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-radcliff-elementary-school-m45-1430",
+      "seriesSlug": "add-radcliff-elementary-school",
+      "title": "Radcliff Elementary School — Free Food",
+      "description": "Free food at Radcliff Elementary School. Schedule: 4th Fri 2:30 PM–3:30 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Radcliff Elementary School",
+      "address": "550 Rodriguez St, Watsonville, CA 95076",
+      "lat": 36.911458,
+      "lng": -121.760835,
+      "category": "food-assistance",
+      "sourceOrg": "Radcliff Elementary School",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "4th Fri 2:30 PM–3:30 PM",
+      "start": "2026-10-09T14:30",
+      "end": "2026-10-09T15:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "4:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-salvation-army-watsonville-corps-w24-1000",
+      "seriesSlug": "add-salvation-army-watsonville-corps",
+      "title": "Salvation Army Watsonville Corps — Free Food",
+      "description": "Free food at Salvation Army Watsonville Corps. Schedule: Tue, Thu 10 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salvation Army Watsonville Corps",
+      "address": "214 Union St, Watsonville, CA 95076",
+      "lat": 36.908999,
+      "lng": -121.753704,
+      "category": "food-assistance",
+      "sourceOrg": "Salvation Army Watsonville Corps",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "Tue, Thu 10 AM–12 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-starlight-elementary-school-m1434-1700",
+      "seriesSlug": "add-starlight-elementary-school",
+      "title": "Starlight Elementary School — Free Food",
+      "description": "Free food at Starlight Elementary School. Schedule: 1st Thu & 3rd Thu 5 PM–6 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Starlight Elementary School",
+      "address": "225 Hammer Dr, Watsonville, CA 95076",
+      "lat": 36.92215,
+      "lng": -121.772755,
+      "category": "food-assistance",
+      "sourceOrg": "Starlight Elementary School",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "1st Thu & 3rd Thu 5 PM–6 PM",
+      "start": "2026-10-08T17:00",
+      "end": "2026-10-08T18:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4,3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-united-methodist-church-watsonville-m14-1600",
+      "seriesSlug": "add-united-methodist-church-watsonville",
+      "title": "United Methodist Church (Watsonville) — Free Food",
+      "description": "Free food at United Methodist Church (Watsonville). Schedule: 1st Thu 4 PM–5 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "United Methodist Church (Watsonville)",
+      "address": "229 Stanford St, Watsonville, CA 95076",
+      "lat": 36.922578,
+      "lng": -121.757155,
+      "category": "food-assistance",
+      "sourceOrg": "United Methodist Church (Watsonville)",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "1st Thu 4 PM–5 PM",
+      "start": "2026-10-08T16:00",
+      "end": "2026-10-08T17:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-watsonville-prep-school-m2545-1000",
+      "seriesSlug": "add-watsonville-prep-school",
+      "title": "Watsonville Prep School — Free Food",
+      "description": "Free food at Watsonville Prep School. Schedule: 2nd Fri & 4th Fri 10 AM–12 PM. Call 831-274-3222 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Watsonville Prep School",
+      "address": "407 Main Street, Watsonville, CA 95076",
+      "lat": 36.910347,
+      "lng": -121.757545,
+      "category": "food-assistance",
+      "sourceOrg": "Watsonville Prep School",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "2nd Fri & 4th Fri 10 AM–12 PM",
+      "start": "2026-10-09T10:00",
+      "end": "2026-10-09T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 5
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "2:5,4:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-watsonville-senior-center-m34-1000",
+      "seriesSlug": "add-watsonville-senior-center",
+      "title": "Watsonville Senior Center — Free Food",
+      "description": "Free food at Watsonville Senior Center. Schedule: 3rd Thu 10 AM–11 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Watsonville Senior Center",
+      "address": "114 E. 5th St, Watsonville, CA 95076",
+      "lat": 36.914599,
+      "lng": -121.757816,
+      "category": "food-assistance",
+      "sourceOrg": "Watsonville Senior Center",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "3rd Thu 10 AM–11 AM",
+      "start": "2026-10-08T10:00",
+      "end": "2026-10-08T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-watsonville-seventh-day-adventist-church-w5-1200",
+      "seriesSlug": "add-watsonville-seventh-day-adventist-church",
+      "title": "Watsonville Seventh-day Adventist Church — Free Food",
+      "description": "Free food at Watsonville Seventh-day Adventist Church. Schedule: Fri 12 PM–1 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Watsonville Seventh-day Adventist Church",
+      "address": "700 S. Green Valley Road, Watsonville, CA 95076",
+      "lat": 36.92248,
+      "lng": -121.7811,
+      "category": "food-assistance",
+      "sourceOrg": "Watsonville Seventh-day Adventist Church",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "Fri 12 PM–1 PM",
+      "start": "2026-09-28T12:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-salud-para-la-gente-nielson-st-w2-1000",
+      "seriesSlug": "add-salud-para-la-gente-nielson-st",
+      "title": "Salud Para La Gente (Nielson St) — Free Food",
+      "description": "Free food at Salud Para La Gente (Nielson St). Schedule: Tue 10 AM–12 PM. Call 831-763-3431 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salud Para La Gente (Nielson St)",
+      "address": "45 Nielson St, Watsonville, CA 95076",
+      "lat": 36.927413,
+      "lng": -121.792921,
+      "category": "food-assistance",
+      "sourceOrg": "Salud Para La Gente (Nielson St)",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "Tue 10 AM–12 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-salud-para-la-gente-marchant-st-parking-lot-w5-1000",
+      "seriesSlug": "add-salud-para-la-gente-marchant-st-parking-lot",
+      "title": "Salud Para La Gente (Marchant St parking lot) — Free Food",
+      "description": "Free food at Salud Para La Gente (Marchant St parking lot). Schedule: Fri 10 AM–12 PM. Call 831-763-3431 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salud Para La Gente (Marchant St parking lot)",
+      "address": "317 Marchant Street, Watsonville, CA 95076",
+      "lat": 36.91189,
+      "lng": -121.753478,
+      "category": "food-assistance",
+      "sourceOrg": "Salud Para La Gente (Marchant St parking lot)",
+      "url": "https://www.thefoodbank.org",
+      "schedulePattern": "Fri 10 AM–12 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    }
+  ]
+}

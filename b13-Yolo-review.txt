@@ -1,0 +1,17 @@
+FLAG rel1.00/postcode  ASUCD The Pantry - Memorial Union (students)
+    in: , Davis, CA 95616
+    -> Davis, California 95616, United States
+DUP (already in shell) St. Martin's Episcopal Church | 640 Hawthorne Ln, Davis, CA 95616
+ok  [food-assistance] UC Davis Memorial Union distribution -> 250 West Quad Avenue, Davis, California 95616, United States [point]
+DUP (already in shell) Yolo Food Bank - Davis Distribution Site | 441 D Street, Davis, CA 95616
+DUP (already in shell) RISE Inc. - Esparto | 17317 Fremont St, Esparto, CA 95627
+DUP (already in shell) Empower Yolo - Knights Landing (walk-up market) | 9586 Mill St, Knights Landing, CA 95645
+DUP (already in shell) City of West Sacramento City Hall parking lot (walk-up) | 1271 West Capitol Avenue, West Sacramento, CA 95691
+DUP (already in shell) Masjid Aisha (walk-up market) | 700 Glide Ave, West Sacramento, CA 95691
+FLAG rel0.67/postcode  River City Food Bank - West Sacramento
+    in: 720 Roble Court, West Sacramento, CA 95691
+    -> West Sacramento, California 95691, United States
+DUP (already in shell) YCCA West Sacramento Family Resource Center | 1200 Anna Street, West Sacramento, CA 95605
+DUP (already in shell) Winters High School (Yolo Food Bank distribution) | 101 Grant Avenue, Winters, CA 95694
+DUP (already in shell) Woodland Volunteer Food Closet | 420 Grand Ave, Woodland, CA 95695
+ok  [food-assistance] Yolo Food Bank (Court St site) -> 202 West Court Street, Woodland, California 95695, United States [interpolated]

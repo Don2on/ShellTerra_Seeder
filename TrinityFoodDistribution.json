@@ -1,0 +1,463 @@
+{
+  "_meta": {
+    "topic": "Net-new Trinity County food distributions",
+    "generated": "2026-10-05",
+    "source": "Research supplementing shell PENDING-Trinity; raw ./TrinityAdditions-raw.json."
+  },
+  "_deferred": {},
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "add-down-river-fire-department-food-bank-delivery-m15-1100",
+      "seriesSlug": "add-down-river-fire-department-food-bank-delivery",
+      "title": "Down River Fire Department (food bank delivery) — Free Food",
+      "description": "Free food at Down River Fire Department (food bank delivery). Schedule: 1st Fri 11 AM–12 PM. Call 530-739-0983 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Down River Fire Department (food bank delivery)",
+      "address": "70 Firehouse Road, Big Bar, CA 96010",
+      "lat": 40.740686,
+      "lng": -123.254727,
+      "category": "food-assistance",
+      "sourceOrg": "Down River Fire Department (food bank delivery)",
+      "url": "https://trinitycountyfoodbank.org",
+      "schedulePattern": "1st Fri 11 AM–12 PM",
+      "start": "2026-10-09T11:00",
+      "end": "2026-10-09T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "1:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-coffee-creek-community-church-food-bank-delivery-m14-1000",
+      "seriesSlug": "add-coffee-creek-community-church-food-bank-delivery",
+      "title": "Coffee Creek Community Church (food bank delivery) — Free Food",
+      "description": "Free food at Coffee Creek Community Church (food bank delivery). Schedule: 1st Thu 10 AM–11 AM. Call 530-739-0983 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Coffee Creek Community Church (food bank delivery)",
+      "address": "420 Coffee Creek Road, Coffee Creek, CA 96091",
+      "lat": 41.085294,
+      "lng": -122.714842,
+      "category": "food-assistance",
+      "sourceOrg": "Coffee Creek Community Church (food bank delivery)",
+      "url": "https://trinitycountyfoodbank.org",
+      "schedulePattern": "1st Thu 10 AM–11 AM",
+      "start": "2026-10-08T10:00",
+      "end": "2026-10-08T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-douglas-city-fire-hall-food-bank-delivery-m22-1100",
+      "seriesSlug": "add-douglas-city-fire-hall-food-bank-delivery",
+      "title": "Douglas City Fire Hall (food bank delivery) — Free Food",
+      "description": "Free food at Douglas City Fire Hall (food bank delivery). Schedule: 2nd Tue 11 AM–12 PM. Call 530-739-0983 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Douglas City Fire Hall (food bank delivery)",
+      "address": "101 Steiner Flat Road, Douglas City, CA 96024",
+      "lat": 40.652075,
+      "lng": -122.94294,
+      "category": "food-assistance",
+      "sourceOrg": "Douglas City Fire Hall (food bank delivery)",
+      "url": "https://trinitycountyfoodbank.org",
+      "schedulePattern": "2nd Tue 11 AM–12 PM",
+      "start": "2026-10-06T11:00",
+      "end": "2026-10-06T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "2:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-hawkins-bar-fire-hall-food-bank-delivery-m15-1300",
+      "seriesSlug": "add-hawkins-bar-fire-hall-food-bank-delivery",
+      "title": "Hawkins Bar Fire Hall (food bank delivery) — Free Food",
+      "description": "Free food at Hawkins Bar Fire Hall (food bank delivery). Schedule: 1st Fri 1 PM–2 PM. Call 530-739-0983 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Hawkins Bar Fire Hall (food bank delivery)",
+      "address": "71 Trinity Court, Hawkins Bar, CA 95527",
+      "lat": 40.87678,
+      "lng": -123.53304,
+      "category": "food-assistance",
+      "sourceOrg": "Hawkins Bar Fire Hall (food bank delivery)",
+      "url": "https://trinitycountyfoodbank.org",
+      "schedulePattern": "1st Fri 1 PM–2 PM",
+      "start": "2026-10-09T13:00",
+      "end": "2026-10-09T14:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "1:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-eskaton-senior-apartments-residents-only-m12-1000",
+      "seriesSlug": "add-eskaton-senior-apartments-residents-only",
+      "title": "Eskaton Senior Apartments (residents only) — Free Food",
+      "description": "Free food at Eskaton Senior Apartments (residents only). Schedule: 1st Tue 10 AM–11 AM. Call 530-739-0983 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Eskaton Senior Apartments (residents only)",
+      "address": "125 Hyampom Road, Hayfork, CA 96041",
+      "lat": 40.55242,
+      "lng": -123.19222,
+      "category": "food-assistance",
+      "sourceOrg": "Eskaton Senior Apartments (residents only)",
+      "url": "https://trinitycountyfoodbank.org",
+      "schedulePattern": "1st Tue 10 AM–11 AM",
+      "start": "2026-10-06T10:00",
+      "end": "2026-10-06T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "1:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-hayfork-fairgrounds-food-bank-delivery-m23-1100",
+      "seriesSlug": "add-hayfork-fairgrounds-food-bank-delivery",
+      "title": "Hayfork Fairgrounds (food bank delivery) — Free Food",
+      "description": "Free food at Hayfork Fairgrounds (food bank delivery). Schedule: 2nd Wed 11 AM–12:30 PM. Call 530-739-0983 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Hayfork Fairgrounds (food bank delivery)",
+      "address": "6000 State Highway 3, Hayfork, CA 96041",
+      "lat": 40.544338,
+      "lng": -123.189381,
+      "category": "food-assistance",
+      "sourceOrg": "Hayfork Fairgrounds (food bank delivery)",
+      "url": "https://trinitycountyfoodbank.org",
+      "schedulePattern": "2nd Wed 11 AM–12:30 PM",
+      "start": "2026-10-07T11:00",
+      "end": "2026-10-07T12:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "2:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-hoaglin-zenia-site-food-bank-delivery-m12-1300",
+      "seriesSlug": "add-hoaglin-zenia-site-food-bank-delivery",
+      "title": "Hoaglin/Zenia site (food bank delivery) — Free Food",
+      "description": "Free food at Hoaglin/Zenia site (food bank delivery). Schedule: 1st Tue 1 PM–2 PM. Call 530-739-0983 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Hoaglin/Zenia site (food bank delivery)",
+      "address": "4001 Peek Road, Zenia, CA 95595",
+      "lat": 40.16633,
+      "lng": -123.497967,
+      "category": "food-assistance",
+      "sourceOrg": "Hoaglin/Zenia site (food bank delivery)",
+      "url": "https://trinitycountyfoodbank.org",
+      "schedulePattern": "1st Tue 1 PM–2 PM",
+      "start": "2026-10-06T13:00",
+      "end": "2026-10-06T14:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "1:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-hyampom-community-center-food-bank-delivery-m12-1200",
+      "seriesSlug": "add-hyampom-community-center-food-bank-delivery",
+      "title": "Hyampom Community Center (food bank delivery) — Free Food",
+      "description": "Free food at Hyampom Community Center (food bank delivery). Schedule: 1st Tue 12 PM–1 PM. Call 530-739-0983 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Hyampom Community Center (food bank delivery)",
+      "address": "71 Corral Bottom Road, Hyampom, CA 96046",
+      "lat": 40.61778,
+      "lng": -123.44966,
+      "category": "food-assistance",
+      "sourceOrg": "Hyampom Community Center (food bank delivery)",
+      "url": "https://trinitycountyfoodbank.org",
+      "schedulePattern": "1st Tue 12 PM–1 PM",
+      "start": "2026-10-06T12:00",
+      "end": "2026-10-06T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "1:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-junction-city-community-center-food-bank-deliver-m11-1030",
+      "seriesSlug": "add-junction-city-community-center-food-bank-deliver",
+      "title": "Junction City Community Center (food bank delivery) — Free Food",
+      "description": "Free food at Junction City Community Center (food bank delivery). Schedule: 1st Mon 10:30 AM–11:30 AM. Call 530-739-0983 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Junction City Community Center (food bank delivery)",
+      "address": "71-A Dutch Creek Road, Junction City, CA 96048",
+      "lat": 40.72763,
+      "lng": -123.0566,
+      "category": "food-assistance",
+      "sourceOrg": "Junction City Community Center (food bank delivery)",
+      "url": "https://trinitycountyfoodbank.org",
+      "schedulePattern": "1st Mon 10:30 AM–11:30 AM",
+      "start": "2026-10-05T10:30",
+      "end": "2026-10-05T11:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "1:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-lewiston-community-center-food-bank-delivery-m11-0900",
+      "seriesSlug": "add-lewiston-community-center-food-bank-delivery",
+      "title": "Lewiston Community Center (food bank delivery) — Free Food",
+      "description": "Free food at Lewiston Community Center (food bank delivery). Schedule: 1st Mon 9 AM–10 AM. Call 530-739-0983 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Lewiston Community Center (food bank delivery)",
+      "address": "103 Texas Avenue, Lewiston, CA 96052",
+      "lat": 40.697976,
+      "lng": -122.807337,
+      "category": "food-assistance",
+      "sourceOrg": "Lewiston Community Center (food bank delivery)",
+      "url": "https://trinitycountyfoodbank.org",
+      "schedulePattern": "1st Mon 9 AM–10 AM",
+      "start": "2026-10-05T09:00",
+      "end": "2026-10-05T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "1:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-lewiston-elementary-w14-1000",
+      "seriesSlug": "add-lewiston-elementary",
+      "title": "Lewiston Elementary — Free Food",
+      "description": "Free food at Lewiston Elementary. Schedule: Mon, Thu 10 AM–12 PM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Lewiston Elementary",
+      "address": "685 Old Lewiston Rd, Lewiston, CA 96052",
+      "lat": 40.699763,
+      "lng": -122.813159,
+      "category": "food-assistance",
+      "sourceOrg": "Lewiston Elementary",
+      "url": "https://trinitycountyfoodbank.org",
+      "schedulePattern": "Mon, Thu 10 AM–12 PM",
+      "start": "2026-09-28T10:00",
+      "end": "2026-09-28T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-mad-river-site-southern-trinity-health-services--m12-1030",
+      "seriesSlug": "add-mad-river-site-southern-trinity-health-services-",
+      "title": "Mad River site / Southern Trinity Health Services (food bank delivery) — Free Food",
+      "description": "Free food at Mad River site / Southern Trinity Health Services (food bank delivery). Schedule: 1st Tue 10:30 AM–11:30 AM. Call 530-739-0983 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Mad River site / Southern Trinity Health Services (food bank delivery)",
+      "address": "321 Van Duzen Road, Mad River, CA 95552",
+      "lat": 40.460087,
+      "lng": -123.529937,
+      "category": "food-assistance",
+      "sourceOrg": "Mad River site / Southern Trinity Health Services (food bank delivery)",
+      "url": "https://trinitycountyfoodbank.org",
+      "schedulePattern": "1st Tue 10:30 AM–11:30 AM",
+      "start": "2026-10-06T10:30",
+      "end": "2026-10-06T11:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "1:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-ruth-fire-hall-food-bank-delivery-m11-1330",
+      "seriesSlug": "add-ruth-fire-hall-food-bank-delivery",
+      "title": "Ruth Fire Hall (food bank delivery) — Free Food",
+      "description": "Free food at Ruth Fire Hall (food bank delivery). Schedule: 1st Mon 1:30 PM–3:30 PM. Call 530-739-0983 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Ruth Fire Hall (food bank delivery)",
+      "address": "17350 Mad River Road, Ruth, CA 95526",
+      "lat": 40.277341,
+      "lng": -123.330871,
+      "category": "food-assistance",
+      "sourceOrg": "Ruth Fire Hall (food bank delivery)",
+      "url": "https://trinitycountyfoodbank.org",
+      "schedulePattern": "1st Mon 1:30 PM–3:30 PM",
+      "start": "2026-10-05T13:30",
+      "end": "2026-10-05T15:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "1:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-post-mountain-at-4-corners-food-bank-delivery-m33-1200",
+      "seriesSlug": "add-post-mountain-at-4-corners-food-bank-delivery",
+      "title": "Post Mountain at 4 Corners (food bank delivery) — Free Food",
+      "description": "Free food at Post Mountain at 4 Corners (food bank delivery). Schedule: 3rd Wed 12 PM–1 PM. Call 530-739-0983 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Post Mountain at 4 Corners (food bank delivery)",
+      "address": ", Trinity Pines, CA 96076",
+      "lat": 40.415022,
+      "lng": -123.209159,
+      "category": "food-assistance",
+      "sourceOrg": "Post Mountain at 4 Corners (food bank delivery)",
+      "url": "https://trinitycountyfoodbank.org",
+      "schedulePattern": "3rd Wed 12 PM–1 PM",
+      "start": "2026-10-07T12:00",
+      "end": "2026-10-07T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-trinity-county-food-bank-drive-through-m26-1100",
+      "seriesSlug": "add-trinity-county-food-bank-drive-through",
+      "title": "Trinity County Food Bank (drive-through) — Free Food",
+      "description": "Free food at Trinity County Food Bank (drive-through). Schedule: 2nd Sat 11 AM–12 PM. Call 530-739-0983 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Trinity County Food Bank (drive-through)",
+      "address": "51-B Memorial Drive, Weaverville, CA 96093",
+      "lat": 40.73668,
+      "lng": -122.94695,
+      "category": "food-assistance",
+      "sourceOrg": "Trinity County Food Bank (drive-through)",
+      "url": "https://trinitycountyfoodbank.org",
+      "schedulePattern": "2nd Sat 11 AM–12 PM",
+      "start": "2026-10-10T11:00",
+      "end": "2026-10-10T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 6
+          }
+        ]
+      },
+      "recurDays": "2:6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-weaverville-senior-apartments-residents-only-m14-1200",
+      "seriesSlug": "add-weaverville-senior-apartments-residents-only",
+      "title": "Weaverville Senior Apartments (residents only) — Free Food",
+      "description": "Free food at Weaverville Senior Apartments (residents only). Schedule: 1st Thu 12 PM–1 PM. Call 530-739-0983 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Weaverville Senior Apartments (residents only)",
+      "address": "80 Browns Ranch Road, Weaverville, CA 96093",
+      "lat": 40.73608,
+      "lng": -122.927987,
+      "category": "food-assistance",
+      "sourceOrg": "Weaverville Senior Apartments (residents only)",
+      "url": "https://trinitycountyfoodbank.org",
+      "schedulePattern": "1st Thu 12 PM–1 PM",
+      "start": "2026-10-08T12:00",
+      "end": "2026-10-08T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-wildwood-at-the-old-store-m13-1100",
+      "seriesSlug": "add-wildwood-at-the-old-store",
+      "title": "Wildwood (at the old store) — Free Food",
+      "description": "Free food at Wildwood (at the old store). Schedule: 1st Wed 11 AM–12 PM. Call 530-739-0983 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Wildwood (at the old store)",
+      "address": ", Wildwood, CA 96076",
+      "lat": 40.35836,
+      "lng": -122.89583,
+      "category": "food-assistance",
+      "sourceOrg": "Wildwood (at the old store)",
+      "url": "https://trinitycountyfoodbank.org",
+      "schedulePattern": "1st Wed 11 AM–12 PM",
+      "start": "2026-10-07T11:00",
+      "end": "2026-10-07T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "1:3"
+    }
+  ]
+}

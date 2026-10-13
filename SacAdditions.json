@@ -1,0 +1,1089 @@
+{
+  "_meta": {
+    "topic": "Net-new Sacramento County food distributions",
+    "generated": "2026-09-28",
+    "source": "Research supplementing shell 6aba043f0010e3a2ac9c; raw ./additions-sacramento-raw.json."
+  },
+  "_deferred": {
+    "add-elk-grove-food-bank-senior-hour": {
+      "title": "Elk Grove Food Bank - Senior Hour",
+      "status": "Food bank confirmed operating; regular distribution Mon-Fri 9:00-14:00 (1st Thu & 4th Wed open 12:30). A Friday-morning senior-only 'Senior Hour' for Elk Grove residents 60+ is referenced by directories but the exact time is not stated on the operator site; also monthly CSFP Senior Box. Could not confirm specific senior-hour time, so schedules left empty. Verify time with 916-685-8453 / Vanessa@egfbs.org. Phone: 916-685-8453.",
+      "address": "9888 Kent Street, Elk Grove, CA 95624",
+      "lat": 38.39772,
+      "lng": -121.355819,
+      "phone": "916-685-8453",
+      "eligibility": "seniors 60+",
+      "sourceUrl": "https://elkgrovefoodbank.org"
+    },
+    "add-real-life-church-food-distribution-galt": {
+      "title": "Real Life Church Food Distribution (Galt)",
+      "status": "1st Mon & 3rd Mon  (Serves approx 100 family units; exact times unconfirmed) Phone: 209-730-6354.",
+      "address": "550 Industrial Dr STE 100, Galt, CA 95632",
+      "lat": 38.26782,
+      "lng": -121.308121,
+      "phone": "209-730-6354",
+      "eligibility": "none / walk-up; sign-ups begin 07:00",
+      "sourceUrl": "https://www.rlconline.church"
+    }
+  },
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "add-sacramento-food-bank-family-services-main-campus-w12345-0800",
+      "seriesSlug": "add-sacramento-food-bank-family-services-main-campus",
+      "title": "Sacramento Food Bank & Family Services (Main Campus) — Free Food",
+      "description": "Free food at Sacramento Food Bank & Family Services (Main Campus) (Sacramento Food Bank & Family Services). Schedule: Mon–Fri 8 AM–4 PM (Walk-in pantry; also CalFresh help and clothing); Sat 9 AM–1 PM. Eligibility: none / walk-up. Call 916-456-1980 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Sacramento Food Bank & Family Services (Main Campus)",
+      "address": "3333 3rd Ave, Sacramento, CA 95817",
+      "lat": 38.552393,
+      "lng": -121.470193,
+      "category": "food-assistance",
+      "sourceOrg": "Sacramento Food Bank & Family Services",
+      "url": "https://www.sacramentofoodbank.org",
+      "schedulePattern": "Mon–Fri 8 AM–4 PM (Walk-in pantry; also CalFresh help and clothing); Sat 9 AM–1 PM",
+      "start": "2026-09-21T08:00",
+      "end": "2026-09-21T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sacramento-food-bank-family-services-main-campus-w6-0900",
+      "seriesSlug": "add-sacramento-food-bank-family-services-main-campus",
+      "title": "Sacramento Food Bank & Family Services (Main Campus) — Free Food",
+      "description": "Free food at Sacramento Food Bank & Family Services (Main Campus) (Sacramento Food Bank & Family Services). Schedule: Mon–Fri 8 AM–4 PM (Walk-in pantry; also CalFresh help and clothing); Sat 9 AM–1 PM. Eligibility: none / walk-up. Call 916-456-1980 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Sacramento Food Bank & Family Services (Main Campus)",
+      "address": "3333 3rd Ave, Sacramento, CA 95817",
+      "lat": 38.552393,
+      "lng": -121.470193,
+      "category": "food-assistance",
+      "sourceOrg": "Sacramento Food Bank & Family Services",
+      "url": "https://www.sacramentofoodbank.org",
+      "schedulePattern": "Mon–Fri 8 AM–4 PM (Walk-in pantry; also CalFresh help and clothing); Sat 9 AM–1 PM",
+      "start": "2026-09-21T09:00",
+      "end": "2026-09-21T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-elk-grove-food-bank-services-w12345-1000",
+      "seriesSlug": "add-elk-grove-food-bank-services",
+      "title": "Elk Grove Food Bank Services — Free Food",
+      "description": "Free food at Elk Grove Food Bank Services. Schedule: Mon–Fri 10 AM–3 PM (4th Wednesday each month hours are 12:00-15:00; closes 12:30 on days forecast 105F+); Sat 9 AM–12 PM. Eligibility: none / walk-up; 3-day food supply. Call 916-685-8453 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Elk Grove Food Bank Services",
+      "address": "9820 Dino Drive, Suite 140, Elk Grove, CA 95624",
+      "lat": 38.400667,
+      "lng": -121.357811,
+      "category": "food-assistance",
+      "sourceOrg": "Elk Grove Food Bank Services",
+      "url": "https://elkgrovefoodbank.org",
+      "schedulePattern": "Mon–Fri 10 AM–3 PM (4th Wednesday each month hours are 12:00-15:00; closes 12:30 on days forecast 105F+); Sat 9 AM–12 PM",
+      "start": "2026-09-21T10:00",
+      "end": "2026-09-21T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-elk-grove-food-bank-services-w6-0900",
+      "seriesSlug": "add-elk-grove-food-bank-services",
+      "title": "Elk Grove Food Bank Services — Free Food",
+      "description": "Free food at Elk Grove Food Bank Services. Schedule: Mon–Fri 10 AM–3 PM (4th Wednesday each month hours are 12:00-15:00; closes 12:30 on days forecast 105F+); Sat 9 AM–12 PM. Eligibility: none / walk-up; 3-day food supply. Call 916-685-8453 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Elk Grove Food Bank Services",
+      "address": "9820 Dino Drive, Suite 140, Elk Grove, CA 95624",
+      "lat": 38.400667,
+      "lng": -121.357811,
+      "category": "food-assistance",
+      "sourceOrg": "Elk Grove Food Bank Services",
+      "url": "https://elkgrovefoodbank.org",
+      "schedulePattern": "Mon–Fri 10 AM–3 PM (4th Wednesday each month hours are 12:00-15:00; closes 12:30 on days forecast 105F+); Sat 9 AM–12 PM",
+      "start": "2026-09-21T09:00",
+      "end": "2026-09-21T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-rancho-cordova-food-locker-cordova-community-foo-w135-0930",
+      "seriesSlug": "add-rancho-cordova-food-locker-cordova-community-foo",
+      "title": "Rancho Cordova Food Locker (Cordova Community Food Locker) — Free Food",
+      "description": "Free food at Rancho Cordova Food Locker (Cordova Community Food Locker) (Rancho Cordova Food Locker). Schedule: Mon, Wed, Fri 9:30 AM–12:30 PM (Located at Cordova Neighborhood Church). Eligibility: none / walk-up; once per week. Call 415-574-9642 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Rancho Cordova Food Locker (Cordova Community Food Locker)",
+      "address": "10600 Coloma Road, Rancho Cordova, CA 95670",
+      "lat": 38.608644,
+      "lng": -121.293064,
+      "category": "food-assistance",
+      "sourceOrg": "Rancho Cordova Food Locker",
+      "url": "https://www.ranchocordovafoodlocker.org",
+      "schedulePattern": "Mon, Wed, Fri 9:30 AM–12:30 PM (Located at Cordova Neighborhood Church)",
+      "start": "2026-09-21T09:30",
+      "end": "2026-09-21T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-twin-lakes-food-bank-w234-0900",
+      "seriesSlug": "add-twin-lakes-food-bank",
+      "title": "Twin Lakes Food Bank — Free Food",
+      "description": "Free food at Twin Lakes Food Bank (Twin Lakes Food Bank Inc.). Schedule: Tue–Thu 9 AM–12:30 PM; Fri 10 AM–11:30 AM; 2nd Mon 5:30 PM–7 PM (Monday evening service, 2nd Monday only). Eligibility: residents of Folsom, El Dorado Hills, Granite Bay. Call 916-985-6232 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Twin Lakes Food Bank",
+      "address": "327 Montrose Drive, Suite A, Folsom, CA 95630",
+      "lat": 38.682271,
+      "lng": -121.157776,
+      "category": "food-assistance",
+      "sourceOrg": "Twin Lakes Food Bank Inc.",
+      "url": "https://twinlakesfoodbank.org",
+      "schedulePattern": "Tue–Thu 9 AM–12:30 PM; Fri 10 AM–11:30 AM; 2nd Mon 5:30 PM–7 PM (Monday evening service, 2nd Monday only)",
+      "start": "2026-09-21T09:00",
+      "end": "2026-09-21T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-twin-lakes-food-bank-w5-1000",
+      "seriesSlug": "add-twin-lakes-food-bank",
+      "title": "Twin Lakes Food Bank — Free Food",
+      "description": "Free food at Twin Lakes Food Bank (Twin Lakes Food Bank Inc.). Schedule: Tue–Thu 9 AM–12:30 PM; Fri 10 AM–11:30 AM; 2nd Mon 5:30 PM–7 PM (Monday evening service, 2nd Monday only). Eligibility: residents of Folsom, El Dorado Hills, Granite Bay. Call 916-985-6232 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Twin Lakes Food Bank",
+      "address": "327 Montrose Drive, Suite A, Folsom, CA 95630",
+      "lat": 38.682271,
+      "lng": -121.157776,
+      "category": "food-assistance",
+      "sourceOrg": "Twin Lakes Food Bank Inc.",
+      "url": "https://twinlakesfoodbank.org",
+      "schedulePattern": "Tue–Thu 9 AM–12:30 PM; Fri 10 AM–11:30 AM; 2nd Mon 5:30 PM–7 PM (Monday evening service, 2nd Monday only)",
+      "start": "2026-09-21T10:00",
+      "end": "2026-09-21T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-twin-lakes-food-bank-m21-1730",
+      "seriesSlug": "add-twin-lakes-food-bank",
+      "title": "Twin Lakes Food Bank — Free Food",
+      "description": "Free food at Twin Lakes Food Bank (Twin Lakes Food Bank Inc.). Schedule: Tue–Thu 9 AM–12:30 PM; Fri 10 AM–11:30 AM; 2nd Mon 5:30 PM–7 PM (Monday evening service, 2nd Monday only). Eligibility: residents of Folsom, El Dorado Hills, Granite Bay. Call 916-985-6232 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Twin Lakes Food Bank",
+      "address": "327 Montrose Drive, Suite A, Folsom, CA 95630",
+      "lat": 38.682271,
+      "lng": -121.157776,
+      "category": "food-assistance",
+      "sourceOrg": "Twin Lakes Food Bank Inc.",
+      "url": "https://twinlakesfoodbank.org",
+      "schedulePattern": "Tue–Thu 9 AM–12:30 PM; Fri 10 AM–11:30 AM; 2nd Mon 5:30 PM–7 PM (Monday evening service, 2nd Monday only)",
+      "start": "2026-09-28T17:30",
+      "end": "2026-09-28T19:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "2:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-orangevale-fair-oaks-food-bank-w1-1100",
+      "seriesSlug": "add-orangevale-fair-oaks-food-bank",
+      "title": "Orangevale-Fair Oaks Food Bank — Free Food",
+      "description": "Free food at Orangevale-Fair Oaks Food Bank (Orangevale-Fair Oaks Community Foundation). Schedule: Mon 11 AM–1 PM (Drive-through); Wed 4:30 PM–6:30 PM (Drive-through); Thu–Fri 10 AM–12:30 PM (Senior boxes (60+) on 2nd/4th/5th weeks). Eligibility: none / walk-up; full grocery twice per month. Call 916-238-8868 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Orangevale-Fair Oaks Food Bank",
+      "address": "6483 Main Ave, Orangevale, CA 95662",
+      "lat": 38.68309,
+      "lng": -121.20257,
+      "category": "food-assistance",
+      "sourceOrg": "Orangevale-Fair Oaks Community Foundation",
+      "url": "https://www.ovfofb.org",
+      "schedulePattern": "Mon 11 AM–1 PM (Drive-through); Wed 4:30 PM–6:30 PM (Drive-through); Thu–Fri 10 AM–12:30 PM (Senior boxes (60+) on 2nd/4th/5th weeks)",
+      "start": "2026-09-21T11:00",
+      "end": "2026-09-21T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-orangevale-fair-oaks-food-bank-w3-1630",
+      "seriesSlug": "add-orangevale-fair-oaks-food-bank",
+      "title": "Orangevale-Fair Oaks Food Bank — Free Food",
+      "description": "Free food at Orangevale-Fair Oaks Food Bank (Orangevale-Fair Oaks Community Foundation). Schedule: Mon 11 AM–1 PM (Drive-through); Wed 4:30 PM–6:30 PM (Drive-through); Thu–Fri 10 AM–12:30 PM (Senior boxes (60+) on 2nd/4th/5th weeks). Eligibility: none / walk-up; full grocery twice per month. Call 916-238-8868 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Orangevale-Fair Oaks Food Bank",
+      "address": "6483 Main Ave, Orangevale, CA 95662",
+      "lat": 38.68309,
+      "lng": -121.20257,
+      "category": "food-assistance",
+      "sourceOrg": "Orangevale-Fair Oaks Community Foundation",
+      "url": "https://www.ovfofb.org",
+      "schedulePattern": "Mon 11 AM–1 PM (Drive-through); Wed 4:30 PM–6:30 PM (Drive-through); Thu–Fri 10 AM–12:30 PM (Senior boxes (60+) on 2nd/4th/5th weeks)",
+      "start": "2026-09-21T16:30",
+      "end": "2026-09-21T18:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-orangevale-fair-oaks-food-bank-w45-1000",
+      "seriesSlug": "add-orangevale-fair-oaks-food-bank",
+      "title": "Orangevale-Fair Oaks Food Bank — Free Food",
+      "description": "Free food at Orangevale-Fair Oaks Food Bank (Orangevale-Fair Oaks Community Foundation). Schedule: Mon 11 AM–1 PM (Drive-through); Wed 4:30 PM–6:30 PM (Drive-through); Thu–Fri 10 AM–12:30 PM (Senior boxes (60+) on 2nd/4th/5th weeks). Eligibility: none / walk-up; full grocery twice per month. Call 916-238-8868 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Orangevale-Fair Oaks Food Bank",
+      "address": "6483 Main Ave, Orangevale, CA 95662",
+      "lat": 38.68309,
+      "lng": -121.20257,
+      "category": "food-assistance",
+      "sourceOrg": "Orangevale-Fair Oaks Community Foundation",
+      "url": "https://www.ovfofb.org",
+      "schedulePattern": "Mon 11 AM–1 PM (Drive-through); Wed 4:30 PM–6:30 PM (Drive-through); Thu–Fri 10 AM–12:30 PM (Senior boxes (60+) on 2nd/4th/5th weeks)",
+      "start": "2026-09-21T10:00",
+      "end": "2026-09-21T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sunrise-christian-food-ministry-w12345-1130",
+      "seriesSlug": "add-sunrise-christian-food-ministry",
+      "title": "Sunrise Christian Food Ministry — Free Food",
+      "description": "Free food at Sunrise Christian Food Ministry (Sunrise Christian Food Ministry (Advent Lutheran Church)). Schedule: Mon–Fri 11:30 AM–3 PM (Seniors 60+ start 11:00; under 60 start 12:00; homeless bag lunch at 10:30). Eligibility: residents of 95610, 95621, 95662, 95828; 5 days of food every 30 days. Call 916-965-5431 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Sunrise Christian Food Ministry",
+      "address": "5901 San Juan Ave, Citrus Heights, CA 95610",
+      "lat": 38.672835,
+      "lng": -121.293466,
+      "category": "food-assistance",
+      "sourceOrg": "Sunrise Christian Food Ministry (Advent Lutheran Church)",
+      "url": "http://sunrisechristianfoodministry.org",
+      "schedulePattern": "Mon–Fri 11:30 AM–3 PM (Seniors 60+ start 11:00; under 60 start 12:00; homeless bag lunch at 10:30)",
+      "start": "2026-09-21T11:30",
+      "end": "2026-09-21T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-carmichael-presbyterian-food-closet-w124-1330",
+      "seriesSlug": "add-carmichael-presbyterian-food-closet",
+      "title": "Carmichael Presbyterian Food Closet — Free Food",
+      "description": "Free food at Carmichael Presbyterian Food Closet (Carmichael Presbyterian Church). Schedule: Mon–Tue, Thu 1:30 PM–2 PM; Thu 6 PM–7 PM (Thursday evening pickup). Eligibility: none / walk-up; photo ID required. Call 916-483-9232 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Carmichael Presbyterian Food Closet",
+      "address": "5645 Marconi Avenue, Carmichael, CA 95608",
+      "lat": 38.617975,
+      "lng": -121.332424,
+      "category": "food-assistance",
+      "sourceOrg": "Carmichael Presbyterian Church",
+      "url": "https://carmichaelpres.org/community-care/",
+      "schedulePattern": "Mon–Tue, Thu 1:30 PM–2 PM; Thu 6 PM–7 PM (Thursday evening pickup)",
+      "start": "2026-09-21T13:30",
+      "end": "2026-09-21T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-carmichael-presbyterian-food-closet-w4-1800",
+      "seriesSlug": "add-carmichael-presbyterian-food-closet",
+      "title": "Carmichael Presbyterian Food Closet — Free Food",
+      "description": "Free food at Carmichael Presbyterian Food Closet (Carmichael Presbyterian Church). Schedule: Mon–Tue, Thu 1:30 PM–2 PM; Thu 6 PM–7 PM (Thursday evening pickup). Eligibility: none / walk-up; photo ID required. Call 916-483-9232 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Carmichael Presbyterian Food Closet",
+      "address": "5645 Marconi Avenue, Carmichael, CA 95608",
+      "lat": 38.617975,
+      "lng": -121.332424,
+      "category": "food-assistance",
+      "sourceOrg": "Carmichael Presbyterian Church",
+      "url": "https://carmichaelpres.org/community-care/",
+      "schedulePattern": "Mon–Tue, Thu 1:30 PM–2 PM; Thu 6 PM–7 PM (Thursday evening pickup)",
+      "start": "2026-09-21T18:00",
+      "end": "2026-09-21T19:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-north-highlands-christian-food-ministry-w123-0900",
+      "seriesSlug": "add-north-highlands-christian-food-ministry",
+      "title": "North Highlands Christian Food Ministry — Free Food",
+      "description": "Free food at North Highlands Christian Food Ministry. Schedule: Mon–Wed 9 AM–12 PM (May close during July and August). Eligibility: none / walk-up; photo ID and proof of address required. Call 916-955-1010 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "North Highlands Christian Food Ministry",
+      "address": "6007 Watt Avenue, North Highlands, CA 95660",
+      "lat": 38.676129,
+      "lng": -121.384355,
+      "category": "food-assistance",
+      "sourceOrg": "North Highlands Christian Food Ministry",
+      "url": "https://www.sacramentofoodbank.org/",
+      "schedulePattern": "Mon–Wed 9 AM–12 PM (May close during July and August)",
+      "start": "2026-09-21T09:00",
+      "end": "2026-09-21T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-salvation-army-family-service-center-north-h-w234-0900",
+      "seriesSlug": "add-the-salvation-army-family-service-center-north-h",
+      "title": "The Salvation Army Family Service Center (North Highlands) — Free Food",
+      "description": "Free food at The Salvation Army Family Service Center (North Highlands) (The Salvation Army of Sacramento Metro). Schedule: Tue–Thu 9 AM–1 PM. Eligibility: none / walk-up; food box once per week. Call 916-678-4010 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Salvation Army Family Service Center (North Highlands)",
+      "address": "3213 Orange Grove Avenue, North Highlands, CA 95660",
+      "lat": 38.646571,
+      "lng": -121.389323,
+      "category": "food-assistance",
+      "sourceOrg": "The Salvation Army of Sacramento Metro",
+      "url": "https://sacramento.salvationarmy.org",
+      "schedulePattern": "Tue–Thu 9 AM–1 PM",
+      "start": "2026-09-21T09:00",
+      "end": "2026-09-21T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sacramento-state-asi-food-pantry-w15-0900",
+      "seriesSlug": "add-sacramento-state-asi-food-pantry",
+      "title": "Sacramento State ASI Food Pantry — Free Food",
+      "description": "Free food at Sacramento State ASI Food Pantry (Associated Students, Inc. - California State University, Sacramento). Schedule: Mon, Fri 9 AM–2:30 PM; Tue, Thu 11:30 AM–4:45 PM; Wed 11:30 AM–5:45 PM. Eligibility: enrolled Sac State students. Call 916-278-3978 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Sacramento State ASI Food Pantry",
+      "address": "University Union #1246, 6000 J Street, Sacramento, CA 95819",
+      "lat": 38.56464,
+      "lng": -121.427513,
+      "category": "food-assistance",
+      "sourceOrg": "Associated Students, Inc. - California State University, Sacramento",
+      "url": "https://asi.csus.edu/asi-food-pantry",
+      "schedulePattern": "Mon, Fri 9 AM–2:30 PM; Tue, Thu 11:30 AM–4:45 PM; Wed 11:30 AM–5:45 PM",
+      "start": "2026-09-21T09:00",
+      "end": "2026-09-21T14:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sacramento-state-asi-food-pantry-w24-1130",
+      "seriesSlug": "add-sacramento-state-asi-food-pantry",
+      "title": "Sacramento State ASI Food Pantry — Free Food",
+      "description": "Free food at Sacramento State ASI Food Pantry (Associated Students, Inc. - California State University, Sacramento). Schedule: Mon, Fri 9 AM–2:30 PM; Tue, Thu 11:30 AM–4:45 PM; Wed 11:30 AM–5:45 PM. Eligibility: enrolled Sac State students. Call 916-278-3978 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Sacramento State ASI Food Pantry",
+      "address": "University Union #1246, 6000 J Street, Sacramento, CA 95819",
+      "lat": 38.56464,
+      "lng": -121.427513,
+      "category": "food-assistance",
+      "sourceOrg": "Associated Students, Inc. - California State University, Sacramento",
+      "url": "https://asi.csus.edu/asi-food-pantry",
+      "schedulePattern": "Mon, Fri 9 AM–2:30 PM; Tue, Thu 11:30 AM–4:45 PM; Wed 11:30 AM–5:45 PM",
+      "start": "2026-09-21T11:30",
+      "end": "2026-09-21T16:45",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sacramento-state-asi-food-pantry-w3-1130",
+      "seriesSlug": "add-sacramento-state-asi-food-pantry",
+      "title": "Sacramento State ASI Food Pantry — Free Food",
+      "description": "Free food at Sacramento State ASI Food Pantry (Associated Students, Inc. - California State University, Sacramento). Schedule: Mon, Fri 9 AM–2:30 PM; Tue, Thu 11:30 AM–4:45 PM; Wed 11:30 AM–5:45 PM. Eligibility: enrolled Sac State students. Call 916-278-3978 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Sacramento State ASI Food Pantry",
+      "address": "University Union #1246, 6000 J Street, Sacramento, CA 95819",
+      "lat": 38.56464,
+      "lng": -121.427513,
+      "category": "food-assistance",
+      "sourceOrg": "Associated Students, Inc. - California State University, Sacramento",
+      "url": "https://asi.csus.edu/asi-food-pantry",
+      "schedulePattern": "Mon, Fri 9 AM–2:30 PM; Tue, Thu 11:30 AM–4:45 PM; Wed 11:30 AM–5:45 PM",
+      "start": "2026-09-21T11:30",
+      "end": "2026-09-21T17:45",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-american-river-college-beaver-food-pantry-w1234-0900",
+      "seriesSlug": "add-american-river-college-beaver-food-pantry",
+      "title": "American River College - Beaver Food Pantry — Free Food",
+      "description": "Free food at American River College - Beaver Food Pantry (American River College (Beaver Cares Basic Needs Center)). Schedule: Mon–Thu 9 AM–4 PM (Located at Welcome and Support Center). Eligibility: enrolled ARC students. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "American River College - Beaver Food Pantry",
+      "address": "4700 College Oak Dr, Sacramento, CA 95841",
+      "lat": 38.649315,
+      "lng": -121.347891,
+      "category": "food-assistance",
+      "sourceOrg": "American River College (Beaver Cares Basic Needs Center)",
+      "url": "https://arc.losrios.edu/beavercares",
+      "schedulePattern": "Mon–Thu 9 AM–4 PM (Located at Welcome and Support Center)",
+      "start": "2026-09-21T09:00",
+      "end": "2026-09-21T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-cosumnes-river-college-hawk-cares-market-w1234-0900",
+      "seriesSlug": "add-cosumnes-river-college-hawk-cares-market",
+      "title": "Cosumnes River College - Hawk CARES Market — Free Food",
+      "description": "Free food at Cosumnes River College - Hawk CARES Market (Cosumnes River College). Schedule: Mon–Thu 9 AM–4 PM; Fri 9 AM–2 PM. Eligibility: enrolled CRC students (3+ units); once per week. Call 916-691-7095 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Cosumnes River College - Hawk CARES Market",
+      "address": "8401 Center Parkway, Portable 48, Sacramento, CA 95823",
+      "lat": 38.453732,
+      "lng": -121.422514,
+      "category": "food-assistance",
+      "sourceOrg": "Cosumnes River College",
+      "url": "https://crc.losrios.edu/campus-life/hawk-cares-center",
+      "schedulePattern": "Mon–Thu 9 AM–4 PM; Fri 9 AM–2 PM",
+      "start": "2026-09-21T09:00",
+      "end": "2026-09-21T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-cosumnes-river-college-hawk-cares-market-w5-0900",
+      "seriesSlug": "add-cosumnes-river-college-hawk-cares-market",
+      "title": "Cosumnes River College - Hawk CARES Market — Free Food",
+      "description": "Free food at Cosumnes River College - Hawk CARES Market (Cosumnes River College). Schedule: Mon–Thu 9 AM–4 PM; Fri 9 AM–2 PM. Eligibility: enrolled CRC students (3+ units); once per week. Call 916-691-7095 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Cosumnes River College - Hawk CARES Market",
+      "address": "8401 Center Parkway, Portable 48, Sacramento, CA 95823",
+      "lat": 38.453732,
+      "lng": -121.422514,
+      "category": "food-assistance",
+      "sourceOrg": "Cosumnes River College",
+      "url": "https://crc.losrios.edu/campus-life/hawk-cares-center",
+      "schedulePattern": "Mon–Thu 9 AM–4 PM; Fri 9 AM–2 PM",
+      "start": "2026-09-21T09:00",
+      "end": "2026-09-21T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sacramento-city-college-panther-cares-market-w12345-0900",
+      "seriesSlug": "add-sacramento-city-college-panther-cares-market",
+      "title": "Sacramento City College - Panther Cares Market — Free Food",
+      "description": "Free food at Sacramento City College - Panther Cares Market (Sacramento City College). Schedule: Mon–Fri 9 AM–3:30 PM (Market hours; Center open 08:00-16:30). Eligibility: enrolled SCC students. Call 916-650-2775 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Sacramento City College - Panther Cares Market",
+      "address": "3835 Freeport Blvd, Sacramento, CA 95822",
+      "lat": 38.54106,
+      "lng": -121.490424,
+      "category": "food-assistance",
+      "sourceOrg": "Sacramento City College",
+      "url": "https://scc.losrios.edu/student-resources/panther-cares/food-support",
+      "schedulePattern": "Mon–Fri 9 AM–3:30 PM (Market hours; Center open 08:00-16:30)",
+      "start": "2026-09-21T09:00",
+      "end": "2026-09-21T15:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-loaves-fishes-dining-room-friendship-park-w1234567-1100",
+      "seriesSlug": "add-loaves-fishes-dining-room-friendship-park",
+      "title": "Loaves & Fishes - Dining Room (Friendship Park) — Free Food",
+      "description": "Free food at Loaves & Fishes - Dining Room (Friendship Park) (Loaves & Fishes). Schedule: Mon–Sun 11 AM–1 PM (Hot lunch served daily (approx 10:30-12:30)). Eligibility: none / walk-up; hot lunch for people experiencing homelessness. Call 916-446-0874 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Loaves & Fishes - Dining Room (Friendship Park)",
+      "address": "1351 N C St, Sacramento, CA 95811",
+      "lat": 38.591041,
+      "lng": -121.482251,
+      "category": "food-assistance",
+      "sourceOrg": "Loaves & Fishes",
+      "url": "https://www.sacloaves.org",
+      "schedulePattern": "Mon–Sun 11 AM–1 PM (Hot lunch served daily (approx 10:30-12:30))",
+      "start": "2026-09-21T11:00",
+      "end": "2026-09-21T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5,6,7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-wellspring-women-s-center-w12345-0830",
+      "seriesSlug": "add-wellspring-women-s-center",
+      "title": "Wellspring Women's Center — Free Food",
+      "description": "Free food at Wellspring Women's Center. Schedule: Mon–Fri 8:30 AM–11:30 AM (Breakfast and lunch drop-in; also diapers and hygiene). Eligibility: women and children; drop-in. Call 916-454-9688 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Wellspring Women's Center",
+      "address": "3414 4th Ave, Sacramento, CA 95817",
+      "lat": 38.550628,
+      "lng": -121.469785,
+      "category": "food-assistance",
+      "sourceOrg": "Wellspring Women's Center",
+      "url": "https://wellspringwomen.org",
+      "schedulePattern": "Mon–Fri 8:30 AM–11:30 AM (Breakfast and lunch drop-in; also diapers and hygiene)",
+      "start": "2026-09-21T08:30",
+      "end": "2026-09-21T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-union-gospel-mission-nightly-meals-w12345-1930",
+      "seriesSlug": "add-union-gospel-mission-nightly-meals",
+      "title": "Union Gospel Mission - Nightly Meals — Free Food",
+      "description": "Free food at Union Gospel Mission - Nightly Meals (Union Gospel Mission Sacramento). Schedule: Mon–Fri 7:30 PM–9 PM (Chapel 19:30, dinner 20:30; sign-ups start 17:30); Sun 11 AM–1 PM (Church 11:00, lunch 12:00). Eligibility: none / walk-up; chapel service required before meal. Call 916-447-3268 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Union Gospel Mission - Nightly Meals",
+      "address": "400 Bannon Street, Sacramento, CA 95811",
+      "lat": 38.59536,
+      "lng": -121.497623,
+      "category": "food-assistance",
+      "sourceOrg": "Union Gospel Mission Sacramento",
+      "url": "https://ugmsac.com/homeless-resources/",
+      "schedulePattern": "Mon–Fri 7:30 PM–9 PM (Chapel 19:30, dinner 20:30; sign-ups start 17:30); Sun 11 AM–1 PM (Church 11:00, lunch 12:00)",
+      "start": "2026-09-21T19:30",
+      "end": "2026-09-21T21:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-union-gospel-mission-nightly-meals-w7-1100",
+      "seriesSlug": "add-union-gospel-mission-nightly-meals",
+      "title": "Union Gospel Mission - Nightly Meals — Free Food",
+      "description": "Free food at Union Gospel Mission - Nightly Meals (Union Gospel Mission Sacramento). Schedule: Mon–Fri 7:30 PM–9 PM (Chapel 19:30, dinner 20:30; sign-ups start 17:30); Sun 11 AM–1 PM (Church 11:00, lunch 12:00). Eligibility: none / walk-up; chapel service required before meal. Call 916-447-3268 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Union Gospel Mission - Nightly Meals",
+      "address": "400 Bannon Street, Sacramento, CA 95811",
+      "lat": 38.59536,
+      "lng": -121.497623,
+      "category": "food-assistance",
+      "sourceOrg": "Union Gospel Mission Sacramento",
+      "url": "https://ugmsac.com/homeless-resources/",
+      "schedulePattern": "Mon–Fri 7:30 PM–9 PM (Chapel 19:30, dinner 20:30; sign-ups start 17:30); Sun 11 AM–1 PM (Church 11:00, lunch 12:00)",
+      "start": "2026-09-21T11:00",
+      "end": "2026-09-21T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-daughters-of-zion-enterpryz-food-pantry-w3-1630",
+      "seriesSlug": "add-daughters-of-zion-enterpryz-food-pantry",
+      "title": "Daughters of Zion Enterpryz Food Pantry — Free Food",
+      "description": "Free food at Daughters of Zion Enterpryz Food Pantry (Daughters of Zion Enterpryz). Schedule: Wed 4:30 PM–6:30 PM (Drive-through). Eligibility: none / walk-up. Call 916-422-3875 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Daughters of Zion Enterpryz Food Pantry",
+      "address": "6524 44th Street, Sacramento, CA 95823",
+      "lat": 38.507304,
+      "lng": -121.4563,
+      "category": "food-assistance",
+      "sourceOrg": "Daughters of Zion Enterpryz",
+      "url": "https://www.sacramentofoodbank.org/",
+      "schedulePattern": "Wed 4:30 PM–6:30 PM (Drive-through)",
+      "start": "2026-09-21T16:30",
+      "end": "2026-09-21T18:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-common-ground-food-pantry-w135-0900",
+      "seriesSlug": "add-common-ground-food-pantry",
+      "title": "Common Ground Food Pantry — Free Food",
+      "description": "Free food at Common Ground Food Pantry (Common Ground, A Covenant Church). Schedule: Mon, Wed, Fri 9 AM–1 PM; Sat 9 AM–12 PM; Sun 10 AM–1 PM. Eligibility: none / walk-up. Call 916-689-3010 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Common Ground Food Pantry",
+      "address": "8355 Arroyo Vista Drive, Sacramento, CA 95823",
+      "lat": 38.459756,
+      "lng": -121.42719,
+      "category": "food-assistance",
+      "sourceOrg": "Common Ground, A Covenant Church",
+      "url": "https://www.sacramentofoodbank.org/",
+      "schedulePattern": "Mon, Wed, Fri 9 AM–1 PM; Sat 9 AM–12 PM; Sun 10 AM–1 PM",
+      "start": "2026-09-21T09:00",
+      "end": "2026-09-21T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-common-ground-food-pantry-w6-0900",
+      "seriesSlug": "add-common-ground-food-pantry",
+      "title": "Common Ground Food Pantry — Free Food",
+      "description": "Free food at Common Ground Food Pantry (Common Ground, A Covenant Church). Schedule: Mon, Wed, Fri 9 AM–1 PM; Sat 9 AM–12 PM; Sun 10 AM–1 PM. Eligibility: none / walk-up. Call 916-689-3010 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Common Ground Food Pantry",
+      "address": "8355 Arroyo Vista Drive, Sacramento, CA 95823",
+      "lat": 38.459756,
+      "lng": -121.42719,
+      "category": "food-assistance",
+      "sourceOrg": "Common Ground, A Covenant Church",
+      "url": "https://www.sacramentofoodbank.org/",
+      "schedulePattern": "Mon, Wed, Fri 9 AM–1 PM; Sat 9 AM–12 PM; Sun 10 AM–1 PM",
+      "start": "2026-09-21T09:00",
+      "end": "2026-09-21T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-common-ground-food-pantry-w7-1000",
+      "seriesSlug": "add-common-ground-food-pantry",
+      "title": "Common Ground Food Pantry — Free Food",
+      "description": "Free food at Common Ground Food Pantry (Common Ground, A Covenant Church). Schedule: Mon, Wed, Fri 9 AM–1 PM; Sat 9 AM–12 PM; Sun 10 AM–1 PM. Eligibility: none / walk-up. Call 916-689-3010 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Common Ground Food Pantry",
+      "address": "8355 Arroyo Vista Drive, Sacramento, CA 95823",
+      "lat": 38.459756,
+      "lng": -121.42719,
+      "category": "food-assistance",
+      "sourceOrg": "Common Ground, A Covenant Church",
+      "url": "https://www.sacramentofoodbank.org/",
+      "schedulePattern": "Mon, Wed, Fri 9 AM–1 PM; Sat 9 AM–12 PM; Sun 10 AM–1 PM",
+      "start": "2026-09-21T10:00",
+      "end": "2026-09-21T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-south-sacramento-christian-center-food-distribut-w6-0830",
+      "seriesSlug": "add-south-sacramento-christian-center-food-distribut",
+      "title": "South Sacramento Christian Center Food Distribution — Free Food",
+      "description": "Free food at South Sacramento Christian Center Food Distribution (South Sacramento Christian Center). Schedule: Sat 8:30 AM–10 AM (Drive-thru distribution). Eligibility: none / walk-up; contactless drive-thru. Call 916-502-1219 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "South Sacramento Christian Center Food Distribution",
+      "address": "7710 Stockton Boulevard, Sacramento, CA 95823",
+      "lat": 38.477134,
+      "lng": -121.421097,
+      "category": "food-assistance",
+      "sourceOrg": "South Sacramento Christian Center",
+      "url": "https://www.sacramentofoodbank.org/",
+      "schedulePattern": "Sat 8:30 AM–10 AM (Drive-thru distribution)",
+      "start": "2026-09-21T08:30",
+      "end": "2026-09-21T10:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-antioch-progressive-church-community-food-pantry-w2-1100",
+      "seriesSlug": "add-antioch-progressive-church-community-food-pantry",
+      "title": "Antioch Progressive Church Community Food Pantry — Free Food",
+      "description": "Free food at Antioch Progressive Church Community Food Pantry (Antioch Progressive Church). Schedule: Tue 11 AM–3 PM (Sign-in 08:30-10:00, distribution 11:45-15:00). Eligibility: none / walk-up. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Antioch Progressive Church Community Food Pantry",
+      "address": "7650 Amherst Street, Sacramento, CA 95832",
+      "lat": 38.47838,
+      "lng": -121.502258,
+      "category": "food-assistance",
+      "sourceOrg": "Antioch Progressive Church",
+      "url": "https://www.antiochprogressivechurch.org/serve/serve-the-community/",
+      "schedulePattern": "Tue 11 AM–3 PM (Sign-in 08:30-10:00, distribution 11:45-15:00)",
+      "start": "2026-09-21T11:00",
+      "end": "2026-09-21T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-cathedral-of-praise-worship-center-food-distribu-w2-1000",
+      "seriesSlug": "add-cathedral-of-praise-worship-center-food-distribu",
+      "title": "Cathedral of Praise & Worship Center Food Distribution — Free Food",
+      "description": "Free food at Cathedral of Praise & Worship Center Food Distribution (Cathedral of Praise & Worship Center). Schedule: Tue 10 AM–1 PM (Food bag giveaway; serves South Sacramento residents). Eligibility: none / walk-up. Call 916-568-7606 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Cathedral of Praise & Worship Center Food Distribution",
+      "address": "2875 Meadowview Road, Sacramento, CA 95832",
+      "lat": 38.48185,
+      "lng": -121.47328,
+      "category": "food-assistance",
+      "sourceOrg": "Cathedral of Praise & Worship Center",
+      "url": "https://www.sacramentofoodbank.org/",
+      "schedulePattern": "Tue 10 AM–1 PM (Food bag giveaway; serves South Sacramento residents)",
+      "start": "2026-09-21T10:00",
+      "end": "2026-09-21T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-new-hope-community-church-the-gift-of-groceries-w4-1300",
+      "seriesSlug": "add-new-hope-community-church-the-gift-of-groceries",
+      "title": "New Hope Community Church - The Gift of Groceries — Free Food",
+      "description": "Free food at New Hope Community Church - The Gift of Groceries (New Hope Community Church). Schedule: Thu 1 PM–4 PM (Registration from 07:00; distribution 13:00 until food runs out. SFBFS core agency / TEFAP site). Eligibility: none / walk-up. Call 916-205-3678 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "New Hope Community Church - The Gift of Groceries",
+      "address": "1821 Meadowview Road, Sacramento, CA 95832",
+      "lat": 38.481742,
+      "lng": -121.49592,
+      "category": "food-assistance",
+      "sourceOrg": "New Hope Community Church",
+      "url": "https://newhopemeadowview.com",
+      "schedulePattern": "Thu 1 PM–4 PM (Registration from 07:00; distribution 13:00 until food runs out. SFBFS core agency / TEFAP site)",
+      "start": "2026-09-21T13:00",
+      "end": "2026-09-21T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-allen-chapel-ame-church-food-pantry-m2343-1000",
+      "seriesSlug": "add-allen-chapel-ame-church-food-pantry",
+      "title": "Allen Chapel AME Church Food Pantry — Free Food",
+      "description": "Free food at Allen Chapel AME Church Food Pantry (Allen Chapel AME Church). Schedule: 2nd Wed & 4th Wed 10 AM–12 PM (Held in Allen Chapel Community Room). Eligibility: none / walk-up. Call 916-922-5077 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Allen Chapel AME Church Food Pantry",
+      "address": "1239 Grand Avenue, Sacramento, CA 95838",
+      "lat": 38.636972,
+      "lng": -121.438089,
+      "category": "food-assistance",
+      "sourceOrg": "Allen Chapel AME Church",
+      "url": "https://www.sacramentofoodbank.org/",
+      "schedulePattern": "2nd Wed & 4th Wed 10 AM–12 PM (Held in Allen Chapel Community Room)",
+      "start": "2026-09-30T10:00",
+      "end": "2026-09-30T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 3
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "2:3,4:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-manna-food-bank-at-liberty-ministries-christian--w5-0930",
+      "seriesSlug": "add-manna-food-bank-at-liberty-ministries-christian-",
+      "title": "Manna Food Bank at Liberty Ministries Christian Fellowship — Free Food",
+      "description": "Free food at Manna Food Bank at Liberty Ministries Christian Fellowship (Liberty Ministries Christian Fellowship). Schedule: Fri 9:30 AM–12 PM (ID required). Eligibility: none / walk-up; ID required. Call 916-922-6442 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Manna Food Bank at Liberty Ministries Christian Fellowship",
+      "address": "4840 Marysville Blvd, Sacramento, CA 95838",
+      "lat": 38.656229,
+      "lng": -121.441232,
+      "category": "food-assistance",
+      "sourceOrg": "Liberty Ministries Christian Fellowship",
+      "url": "https://www.mannasac.com",
+      "schedulePattern": "Fri 9:30 AM–12 PM (ID required)",
+      "start": "2026-09-21T09:30",
+      "end": "2026-09-21T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-elevation-holy-cross-food-pantry-w2-1000",
+      "seriesSlug": "add-elevation-holy-cross-food-pantry",
+      "title": "Elevation Holy Cross Food Pantry — Free Food",
+      "description": "Free food at Elevation Holy Cross Food Pantry (Elevation Church / Holy Cross). Schedule: Tue 10 AM–11 AM (Elevation of the Holy Cross Orthodox Church food closet). Eligibility: none / walk-up. Call 916-364-8068 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Elevation Holy Cross Food Pantry",
+      "address": "9000 Jackson Road, Sacramento, CA 95826",
+      "lat": 38.536268,
+      "lng": -121.366989,
+      "category": "food-assistance",
+      "sourceOrg": "Elevation Church / Holy Cross",
+      "url": "https://holycrosssacramento.org/outreachandcharity",
+      "schedulePattern": "Tue 10 AM–11 AM (Elevation of the Holy Cross Orthodox Church food closet)",
+      "start": "2026-09-21T10:00",
+      "end": "2026-09-21T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-john-s-lutheran-church-food-pantry-central-do-m243444-1000",
+      "seriesSlug": "add-st-john-s-lutheran-church-food-pantry-central-do",
+      "title": "St. John's Lutheran Church Food Pantry (Central Downtown Food Basket) — Free Food",
+      "description": "Free food at St. John's Lutheran Church Food Pantry (Central Downtown Food Basket) (Central Downtown Food Basket / St. John's Lutheran Church). Schedule: 2nd Thu & 3rd Thu & 4th Thu 10 AM–12 PM (Last 3 Thursdays of the month at St. John's Lutheran Church). Eligibility: none / walk-up; first-come first-served. Call 916-444-0874 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. John's Lutheran Church Food Pantry (Central Downtown Food Basket)",
+      "address": "1701 L Street, Sacramento, CA 95811",
+      "lat": 38.575744,
+      "lng": -121.484191,
+      "category": "food-assistance",
+      "sourceOrg": "Central Downtown Food Basket / St. John's Lutheran Church",
+      "url": "https://www.cdfb.org",
+      "schedulePattern": "2nd Thu & 3rd Thu & 4th Thu 10 AM–12 PM (Last 3 Thursdays of the month at St. John's Lutheran Church)",
+      "start": "2026-10-01T10:00",
+      "end": "2026-10-01T12:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "2:4,3:4,4:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-rio-linda-elverta-food-closet-w24-0930",
+      "seriesSlug": "add-rio-linda-elverta-food-closet",
+      "title": "Rio Linda / Elverta Food Closet — Free Food",
+      "description": "Free food at Rio Linda / Elverta Food Closet (Rio Linda/Elverta Food Closet). Schedule: Tue, Thu 9:30 AM–11:30 AM (Income-qualified; serves 95673/95843/95660/95626). Eligibility: none / walk-up. Call 916-717-3265 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Rio Linda / Elverta Food Closet",
+      "address": "151 Delano Street, Elverta, CA 95626",
+      "lat": 38.710271,
+      "lng": -121.461828,
+      "category": "food-assistance",
+      "sourceOrg": "Rio Linda/Elverta Food Closet",
+      "url": "https://riolindafoodcloset.com",
+      "schedulePattern": "Tue, Thu 9:30 AM–11:30 AM (Income-qualified; serves 95673/95843/95660/95626)",
+      "start": "2026-09-21T09:30",
+      "end": "2026-09-21T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sunshine-food-pantry-resource-center-galt-m2444-0800",
+      "seriesSlug": "add-sunshine-food-pantry-resource-center-galt",
+      "title": "Sunshine Food Pantry & Resource Center (Galt) — Free Food",
+      "description": "Free food at Sunshine Food Pantry & Resource Center (Galt) (Sunshine Food Pantry & Resource Center). Schedule: 2nd Thu & 4th Thu 8 AM–11 AM (Serves Galt and Herald; others not turned away). Eligibility: Galt area residents. Call 209-200-2628 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Sunshine Food Pantry & Resource Center (Galt)",
+      "address": "571 C Street, Galt, CA 95632",
+      "lat": 38.253168,
+      "lng": -121.303313,
+      "category": "food-assistance",
+      "sourceOrg": "Sunshine Food Pantry & Resource Center",
+      "url": "https://sunshinefoodpantrygalt.org",
+      "schedulePattern": "2nd Thu & 4th Thu 8 AM–11 AM (Serves Galt and Herald; others not turned away)",
+      "start": "2026-10-01T08:00",
+      "end": "2026-10-01T11:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "2:4,4:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-glide-avenue-walk-up-food-distribution-w2-0830",
+      "seriesSlug": "add-glide-avenue-walk-up-food-distribution",
+      "title": "Glide Avenue Walk-Up Food Distribution — Free Food",
+      "description": "Free food at Glide Avenue Walk-Up Food Distribution (West Sacramento food distribution). Schedule: Tue 8:30 AM–10:30 AM (Walk-up at Masjid Aisha; Yolo Food Bank site; while supplies last; bring bags/cart). Eligibility: none / walk-up; while supplies last. Call 530-668-0690 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Glide Avenue Walk-Up Food Distribution",
+      "address": "700 Glide Avenue, West Sacramento, CA 95691",
+      "lat": 38.58109,
+      "lng": -121.54521,
+      "category": "food-assistance",
+      "sourceOrg": "West Sacramento food distribution",
+      "url": "https://yolofoodbank.org/find-food/",
+      "schedulePattern": "Tue 8:30 AM–10:30 AM (Walk-up at Masjid Aisha; Yolo Food Bank site; while supplies last; bring bags/cart)",
+      "start": "2026-09-21T08:30",
+      "end": "2026-09-21T10:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sierra-arden-neighborhood-food-closet-w235-1000",
+      "seriesSlug": "add-sierra-arden-neighborhood-food-closet",
+      "title": "Sierra Arden Neighborhood Food Closet — Free Food",
+      "description": "Free food at Sierra Arden Neighborhood Food Closet (Sierra Arden United Church of Christ). Schedule: Tue–Wed, Fri 10 AM–11:45 AM (Serves zips 95815/95821/95825/95864; once per 21 days; 30 families per shift); Thu 10 AM–5:45 PM (Extended Thursday hours per findhelp listing). Eligibility: none / walk-up. Call 916-483-1942 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Sierra Arden Neighborhood Food Closet",
+      "address": "890 Morse Avenue, Sacramento, CA 95864",
+      "lat": 38.580909,
+      "lng": -121.391776,
+      "category": "food-assistance",
+      "sourceOrg": "Sierra Arden United Church of Christ",
+      "url": "https://www.sacramentofoodbank.org/",
+      "schedulePattern": "Tue–Wed, Fri 10 AM–11:45 AM (Serves zips 95815/95821/95825/95864; once per 21 days; 30 families per shift); Thu 10 AM–5:45 PM (Extended Thursday hours per findhelp listing)",
+      "start": "2026-09-21T10:00",
+      "end": "2026-09-21T11:45",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-sierra-arden-neighborhood-food-closet-w4-1000",
+      "seriesSlug": "add-sierra-arden-neighborhood-food-closet",
+      "title": "Sierra Arden Neighborhood Food Closet — Free Food",
+      "description": "Free food at Sierra Arden Neighborhood Food Closet (Sierra Arden United Church of Christ). Schedule: Tue–Wed, Fri 10 AM–11:45 AM (Serves zips 95815/95821/95825/95864; once per 21 days; 30 families per shift); Thu 10 AM–5:45 PM (Extended Thursday hours per findhelp listing). Eligibility: none / walk-up. Call 916-483-1942 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Sierra Arden Neighborhood Food Closet",
+      "address": "890 Morse Avenue, Sacramento, CA 95864",
+      "lat": 38.580909,
+      "lng": -121.391776,
+      "category": "food-assistance",
+      "sourceOrg": "Sierra Arden United Church of Christ",
+      "url": "https://www.sacramentofoodbank.org/",
+      "schedulePattern": "Tue–Wed, Fri 10 AM–11:45 AM (Serves zips 95815/95821/95825/95864; once per 21 days; 30 families per shift); Thu 10 AM–5:45 PM (Extended Thursday hours per findhelp listing)",
+      "start": "2026-09-21T10:00",
+      "end": "2026-09-21T17:45",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-ardenaire-food-pantry-w5-0900",
+      "seriesSlug": "add-ardenaire-food-pantry",
+      "title": "Ardenaire Food Pantry — Free Food",
+      "description": "Free food at Ardenaire Food Pantry. Schedule: Fri 9 AM–12 PM (At Mercy Housing Ardenaire community). Eligibility: none / walk-up. Call 916-923-6310 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Ardenaire Food Pantry",
+      "address": "1972 Ethan Way, Sacramento, CA 95825",
+      "lat": 38.601673,
+      "lng": -121.418225,
+      "category": "food-assistance",
+      "sourceOrg": "Ardenaire Food Pantry",
+      "url": "https://www.mercyhousing.org/california/ardenaire/",
+      "schedulePattern": "Fri 9 AM–12 PM (At Mercy Housing Ardenaire community)",
+      "start": "2026-09-21T09:00",
+      "end": "2026-09-21T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-stanford-settlement-senior-center-congregate-lun-w12345-1130",
+      "seriesSlug": "add-stanford-settlement-senior-center-congregate-lun",
+      "title": "Stanford Settlement Senior Center - Congregate Lunch — Free Food",
+      "description": "Free food at Stanford Settlement Senior Center - Congregate Lunch (Stanford Settlement Neighborhood Center). Schedule: Mon–Fri 11:30 AM–12:30 PM (Hot congregate lunch for ages 50+; no cost, donations accepted). Eligibility: adults 50+. Call 916-927-3694 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Stanford Settlement Senior Center - Congregate Lunch",
+      "address": "450 W. El Camino Avenue, Sacramento, CA 95833",
+      "lat": 38.610977,
+      "lng": -121.473577,
+      "category": "food-assistance",
+      "sourceOrg": "Stanford Settlement Neighborhood Center",
+      "url": "https://stanfordsettlement.org",
+      "schedulePattern": "Mon–Fri 11:30 AM–12:30 PM (Hot congregate lunch for ages 50+; no cost, donations accepted)",
+      "start": "2026-09-21T11:30",
+      "end": "2026-09-21T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-mission-oaks-community-center-community-cafe-mea-w12345-1145",
+      "seriesSlug": "add-mission-oaks-community-center-community-cafe-mea",
+      "title": "Mission Oaks Community Center - Community Cafe (Meals on Wheels) — Free Food",
+      "description": "Free food at Mission Oaks Community Center - Community Cafe (Meals on Wheels) (Meals on Wheels by ACC). Schedule: Mon–Fri 11:45 AM–12:45 PM (Congregate lunch for ages 60+; by appointment; suggested $6 contribution; call Lisa 916-359-1192 to reserve). Eligibility: seniors 60+. Call 916-359-1192 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Mission Oaks Community Center - Community Cafe (Meals on Wheels)",
+      "address": "4701 Gibbons Drive, Carmichael, CA 95608",
+      "lat": 38.6362,
+      "lng": -121.354455,
+      "category": "food-assistance",
+      "sourceOrg": "Meals on Wheels by ACC",
+      "url": "https://www.mowsac.org/services-programs/",
+      "schedulePattern": "Mon–Fri 11:45 AM–12:45 PM (Congregate lunch for ages 60+; by appointment; suggested $6 contribution; call Lisa 916-359-1192 to reserve)",
+      "start": "2026-09-21T11:45",
+      "end": "2026-09-21T12:45",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-twin-rivers-food-distribution-highlands-high-sch-m2444-1545",
+      "seriesSlug": "add-twin-rivers-food-distribution-highlands-high-sch",
+      "title": "Twin Rivers Food Distribution (Highlands High School) — Free Food",
+      "description": "Free food at Twin Rivers Food Distribution (Highlands High School) (Twin Rivers Unified School District / Sacramento Food Bank). Schedule: 2nd Thu & 4th Thu 3:45 PM–5:15 PM (Room S105 in the S-Building, access via Don Julio Blvd near Sports Complex; bring photo ID and bags. Nov/Dec 2026 only one date each (2nd Thu)). Eligibility: none / walk-up; community distribution in S-Building. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Twin Rivers Food Distribution (Highlands High School)",
+      "address": "6601 Guthrie St, North Highlands, CA 95660",
+      "lat": 38.688462,
+      "lng": -121.359235,
+      "category": "food-assistance",
+      "sourceOrg": "Twin Rivers Unified School District / Sacramento Food Bank",
+      "url": "https://www.trusd.net/StudentsFamilies/Family-and-Community-Engagement-FACE/Food-Distribution/",
+      "schedulePattern": "2nd Thu & 4th Thu 3:45 PM–5:15 PM (Room S105 in the S-Building, access via Don Julio Blvd near Sports Complex; bring photo ID and bags. Nov/Dec 2026 only one date each (2nd Thu))",
+      "start": "2026-10-01T15:45",
+      "end": "2026-10-01T17:15",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "2:4,4:4"
+    }
+  ]
+}

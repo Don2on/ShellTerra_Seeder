@@ -1,0 +1,2842 @@
+{
+  "_meta": {
+    "topic": "SanBernardino County food distributions (batch 7)",
+    "generated": "2026-10-11",
+    "source": "Hand-collected list (Sacramento Food Bank Food Finder, Community Food Bank of San Benito County, Feeding America Riverside-San Bernardino + FIND). Schedules parsed via LA clause parser.",
+    "note": "Sacramento and San Bernardino are ADDITIONS to existing shells (prepare with --existing dedupe + real --shell-id). San Benito is net-new."
+  },
+  "sites": [
+    {
+      "name": "Christ the Good Shepard",
+      "org": "Christ the Good Shepard",
+      "address": "17900 Jonathan St, Adelanto, CA 92301",
+      "phone": "760-628-9270",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 3rd Wed 8:30am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed",
+            "3rd Wed"
+          ],
+          "open": "08:30",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Curbside Community Center",
+      "org": "Curbside Community Center",
+      "address": "11565 Cortez Ave, Adelanto, CA 92301",
+      "phone": "760-953-7944",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 1pm-3:30pm; Sat 9am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "13:00",
+          "close": "15:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "360 Community Thrift",
+      "org": "360 Community Thrift",
+      "address": "20646 N CA-18, Apple Valley, CA 92307",
+      "phone": "760-503-4948",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue-Fri 10am-6pm; Sat 10am-5pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "18:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Apple Valley Schools Foundation",
+      "org": "Apple Valley Schools Foundation",
+      "address": "12555 Navajo Rd, Apple Valley, CA 92308",
+      "phone": "760-247-8001",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 1pm-3pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "13:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Church for Whosoever",
+      "org": "Church for Whosoever",
+      "address": "18628 Seneca Rd, Apple Valley, CA 92307",
+      "phone": "760-242-3191",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Wed 10am-2pm; Tue 11am-2pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "open": "10:00",
+          "close": "14:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "11:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "The Way of the Cross Church of God in Christ SWD",
+      "org": "The Way of the Cross Church of God in Christ SWD",
+      "address": "20601 US Highway 18 Bldg 165, Apple Valley, CA 92307",
+      "phone": "760-713-1867",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "while supplies last",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Desert Manna",
+      "org": "Desert Manna",
+      "address": "2410 Armory Rd, Barstow, CA 92311",
+      "phone": "760-256-7797",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 9am-11am; Sat 9am-12:30pm; 3rd Thu 8:30am-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "09:00",
+          "close": "12:30"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Thu"
+          ],
+          "open": "08:30",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "enRiched Pantry",
+      "org": "enRiched Pantry",
+      "address": "800 Yucca Ave, Barstow, CA 92311",
+      "phone": "760-220-9297",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 10am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Big Bear City Foursquare Church",
+      "org": "Big Bear City Foursquare Church",
+      "address": "800 S. Greenspot Blvd, Big Bear, CA 92314",
+      "phone": "951-741-5649",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 10:30am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "10:30",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Joseph Catholic Church",
+      "org": "St. Joseph Catholic Church",
+      "address": "42242 N Shore Dr, Big Bear, CA 92314",
+      "phone": "909-866-3030",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 9am-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Big Bear Advantage",
+      "org": "Big Bear Advantage",
+      "address": "39853 Crocus Dr, Big Bear Lake, CA 92315",
+      "phone": "909-916-1746",
+      "eligibility": "",
+      "website": "https://bigbearfoodbank.com",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Fri 2pm-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Fri"
+          ],
+          "open": "14:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Big Bear Believers Church",
+      "org": "Big Bear Believers Church",
+      "address": "42180 Moonridge Rd, Big Bear Lake, CA 92315",
+      "phone": "909-866-2552",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sun 12pm-1pm; Thu 9am-3pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sun"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "09:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Doves of Big Bear Valley",
+      "org": "Doves of Big Bear Valley",
+      "address": "41943 Big Bear Blvd, Big Bear Lake, CA 92315",
+      "phone": "909-866-1546",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 10am-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Nazarene Church of Bloomington",
+      "org": "Nazarene Church of Bloomington",
+      "address": "9904 Bloomington Ave, Bloomington, CA 92316",
+      "phone": "909-877-0769",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Sat 7am-9am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "07:00",
+          "close": "09:00"
+        }
+      ]
+    },
+    {
+      "name": "Chino Senior Center",
+      "org": "Chino Senior Center",
+      "address": "13170 Central Ave, Chino, CA 91710",
+      "phone": "909-334-3271",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Thu 9am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Thu"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Food For Life Ministries",
+      "org": "Food For Life Ministries",
+      "address": "4712 Cheyenne Way, Chino, CA 91710",
+      "phone": "909-627-3663",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue, Thu 4pm-6pm; Sat 9am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "open": "16:00",
+          "close": "18:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Sunrise Church - Chino",
+      "org": "Sunrise Church - Chino",
+      "address": "5559 Park Pl, Chino, CA 91710",
+      "phone": "909-281-7797",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue-Fri 9am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "SDA Inland Spanish Church",
+      "org": "SDA Inland Spanish Church",
+      "address": "710 W Citrus St, Colton, CA 92324",
+      "phone": "909-653-7700",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 11am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "11:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Soldiers of the Cross of Christ",
+      "org": "Soldiers of the Cross of Christ",
+      "address": "501 E C St, Colton, CA 92324",
+      "phone": "682-438-0333",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Sun 11am-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Sun"
+          ],
+          "open": "11:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Vineyard Christian Fellowship",
+      "org": "Vineyard Christian Fellowship",
+      "address": "785 Colton Ave, Colton, CA 92324",
+      "phone": "909-824-5753",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Last Sun of month 1pm-2:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "last Sun"
+          ],
+          "open": "13:00",
+          "close": "14:30"
+        }
+      ]
+    },
+    {
+      "name": "Women of Worship and Warfare",
+      "org": "Women of Worship and Warfare",
+      "address": "1380 N La Cadena Dr, Colton, CA 92324",
+      "phone": "909-659-1674",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Thu 9am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Thu"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Boys & Girls Club Mountain Communities",
+      "org": "Boys & Girls Club Mountain Communities",
+      "address": "607 Forest Shade Rd, Crestline, CA 92325",
+      "phone": "909-338-9390",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 7am-6pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "07:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Fontana Community Senior Center",
+      "org": "Fontana Community Senior Center",
+      "address": "16710 Ceres Ave, Fontana, CA 92335",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Fri 9am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Fontana First Assembly Of God",
+      "org": "Fontana First Assembly Of God",
+      "address": "16580 San Bernardino Ave, Fontana, CA 92335",
+      "phone": "909-829-1911",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 10:30am-2:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "10:30",
+          "close": "14:30"
+        }
+      ]
+    },
+    {
+      "name": "Fontana Foursquare - Living Way",
+      "org": "Fontana Foursquare - Living Way",
+      "address": "16725 Valencia Ave, Fontana, CA 92335",
+      "phone": "909-823-4404",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "on call",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "08:00",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Water Of Life Community Church",
+      "org": "Water Of Life Community Church",
+      "address": "16815 Spring St #2227, Fontana, CA 92335",
+      "phone": "909-803-1059",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "on call",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "08:00",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "Church of Fire in Christ",
+      "org": "Church of Fire in Christ",
+      "address": "12354 Mt Vernon Ave, Grand Terrace, CA 92313",
+      "phone": "909-580-7637",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Sat 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Agape Life Line Ministries Inc.",
+      "org": "Agape Life Line Ministries Inc.",
+      "address": "10178 I Ave Unit C, Hesperia, CA 92345",
+      "phone": "310-753-4697",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 12pm-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "12:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Feed My Sheep Ministries",
+      "org": "Feed My Sheep Ministries",
+      "address": "11616 Hesperia Rd, Hesperia, CA 92345",
+      "phone": "760-243-4343",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Wed, Fri, Sat 10am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed",
+            "Fri",
+            "Sat"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "High Desert Second Chance",
+      "org": "High Desert Second Chance",
+      "address": "16666 Smoke Tree St Suite B-4, Hesperia, CA 92345",
+      "phone": "442-267-4444",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Thu 10am-3pm; Sat 9am-12pm; 2nd Wed 9am-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "10:00",
+          "close": "15:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Jericas Empowerment Center",
+      "org": "Jericas Empowerment Center",
+      "address": "10968 I Ave, Hesperia, CA 92345",
+      "phone": "760-553-5242",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 2pm-4:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "14:00",
+          "close": "16:30"
+        }
+      ]
+    },
+    {
+      "name": "Restore Unity Inc. (HUB)",
+      "org": "Restore Unity Inc. (HUB)",
+      "address": "9608 I Ave, Hesperia, CA 92345",
+      "phone": "760-488-7971",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Wed 11am-2pm; Fri 2pm-5pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "open": "11:00",
+          "close": "14:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "14:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Rock'n Our Disabilities",
+      "org": "Rock'n Our Disabilities",
+      "address": "13558 Palm St, Hesperia, CA 92344",
+      "phone": "760-998-2241",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Wed 10am-1pm; Fri 8am-10am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed"
+          ],
+          "open": "10:00",
+          "close": "13:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "08:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Spirit Filled Family Church",
+      "org": "Spirit Filled Family Church",
+      "address": "9980 Hesperia Rd, Hesperia, CA 92345",
+      "phone": "760-956-2501",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 9am-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "City Mission Ministries",
+      "org": "City Mission Ministries",
+      "address": "26200 Date St E, Highland, CA 92346",
+      "phone": "909-649-0011",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 8am-5pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Highland Senior Center",
+      "org": "Highland Senior Center",
+      "address": "3102 E Highland Ave, Highland, CA 92346",
+      "phone": "909-862-8104",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Fri 10am-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Lucerne Valley SDA",
+      "org": "Lucerne Valley SDA",
+      "address": "10285 Highland Ave, Lucerne Valley, CA 92356",
+      "phone": "760-503-4788",
+      "eligibility": "",
+      "website": "https://lucernevalleyca.adventistchurch.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 12pm-3pm; Sun-Thu 10am-2pm emergency food",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "12:00",
+          "close": "15:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Sun"
+          ],
+          "open": "10:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Montclair Senior Center",
+      "org": "Montclair Senior Center",
+      "address": "5111 Benito St, Montclair, CA 91763",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Wed 9am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Wed"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Montclair United Methodist Church",
+      "org": "Montclair United Methodist Church",
+      "address": "9950 Fremont Ave, Montclair, CA 91763",
+      "phone": "909-621-5033",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 12pm-2pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "12:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Fire House Ministries",
+      "org": "Fire House Ministries",
+      "address": "809 Bush St, Needles, CA 92363",
+      "phone": "760-443-4342",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 9am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "09:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Fire House Ministries Mobile Pantry",
+      "org": "Fire House Ministries Mobile Pantry",
+      "address": "725 W Broadway, Needles, CA 92363",
+      "phone": "760-443-4342",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Sat 8am-10am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "08:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "SVDP Needles",
+      "org": "SVDP Needles",
+      "address": "839 Front St, Needles, CA 92363",
+      "phone": "760-326-4420",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue-Sat 9am-2pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat"
+          ],
+          "open": "09:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Tri State Community Healthcare",
+      "org": "Tri State Community Healthcare",
+      "address": "1406 Bailey Ave Unit 8, Needles, CA 92363",
+      "phone": "909-991-0800",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 10am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Victorville Thanksgiving Church",
+      "org": "Victorville Thanksgiving Church",
+      "address": "10570 Phelan Rd, Oak Hills, CA 92344",
+      "phone": "760-587-9048",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Thu 9am-10am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu",
+            "4th Thu"
+          ],
+          "open": "09:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "The Salvation Army - Ontario",
+      "org": "The Salvation Army - Ontario",
+      "address": "1412 S Euclid Ave, Ontario, CA 91762",
+      "phone": "909-986-6748",
+      "eligibility": "",
+      "website": "https://salvationarmy.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Food packages Thu 9am-12pm; sack lunches Tue 9am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Touch Ones United Creating Hope",
+      "org": "Touch Ones United Creating Hope",
+      "address": "219 W Belmont St, Ontario, CA 91762",
+      "phone": "909-682-5474",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Wed, Fri 8:30am-9:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed",
+            "Fri"
+          ],
+          "open": "08:30",
+          "close": "09:30"
+        }
+      ]
+    },
+    {
+      "name": "Phelan Foursquare Church",
+      "org": "Phelan Foursquare Church",
+      "address": "10120 Johnson Rd, Phelan, CA 92371",
+      "phone": "760-868-4081",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 10:30am-12pm; 2nd Wed 1:30pm-3pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "10:30",
+          "close": "12:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed"
+          ],
+          "open": "13:30",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Chaffey College Foundation - Rancho Cucamonga",
+      "org": "Chaffey College Foundation - Rancho Cucamonga",
+      "address": "5885 Haven Avenue, Rancho Cucamonga, CA 91737",
+      "phone": "909-652-6507",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 8am-4:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "08:00",
+          "close": "16:30"
+        }
+      ]
+    },
+    {
+      "name": "First Baptist Church of Rancho Cucamonga",
+      "org": "First Baptist Church of Rancho Cucamonga",
+      "address": "7450 Archibald Ave, Rancho Cucamonga, CA 91730",
+      "phone": "909-987-3676",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Sat 7am-9am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Sat",
+            "3rd Sat"
+          ],
+          "open": "07:00",
+          "close": "09:00"
+        }
+      ]
+    },
+    {
+      "name": "Generosity Center",
+      "org": "Generosity Center",
+      "address": "9239 Utica Ave #140, Rancho Cucamonga, CA 91730",
+      "phone": "909-987-7110",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 8:30am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "08:30",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "The Eagle Ministry - Reaching the Unreachables",
+      "org": "The Eagle Ministry - Reaching the Unreachables",
+      "address": "10722 Arrow Route Bldg 100 Unit 114, Rancho Cucamonga, CA 91730",
+      "phone": "951-313-6816",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 4:45pm-6:30pm; Wed 4:30pm-6:30pm; Sat 11am-1:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "16:45",
+          "close": "18:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "16:30",
+          "close": "18:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "11:00",
+          "close": "13:30"
+        }
+      ]
+    },
+    {
+      "name": "The Neighborhood Vineyard Church",
+      "org": "The Neighborhood Vineyard Church",
+      "address": "11966 Jack Benny Dr Suite 108, Rancho Cucamonga, CA 91739",
+      "phone": "909-268-6714",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Sat 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Boys and Girls Club - Redlands",
+      "org": "Boys and Girls Club - Redlands",
+      "address": "1251 Clay St, Redlands, CA 92374",
+      "phone": "909-798-4599",
+      "eligibility": "",
+      "website": "https://begreatie.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 2pm-6pm; Fri 10am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "14:00",
+          "close": "18:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Childhood Cancer Foundation",
+      "org": "Childhood Cancer Foundation",
+      "address": "330 Alabama Street Suite K, Redlands, CA 92373",
+      "phone": "201-614-4653",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Wed 2pm-4pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed"
+          ],
+          "open": "14:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "FSA of Redlands",
+      "org": "FSA of Redlands",
+      "address": "612 Lawton St, Redlands, CA 92374",
+      "phone": "909-793-2673",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 8:30am-4:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "08:30",
+          "close": "16:30"
+        }
+      ]
+    },
+    {
+      "name": "The Salvation Army - Redlands",
+      "org": "The Salvation Army - Redlands",
+      "address": "838 Alta St, Redlands, CA 92374",
+      "phone": "909-792-6868",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 9am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "University of Redlands",
+      "org": "University of Redlands",
+      "address": "1200 E Colton Ave, Redlands, CA 92374",
+      "phone": "909-748-8288",
+      "eligibility": "students only",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Daily 8am-8pm (students only)",
+      "schedules": []
+    },
+    {
+      "name": "Grace Vargas Senior Center",
+      "org": "Grace Vargas Senior Center",
+      "address": "1411 S Riverside Ave, Rialto, CA 92376",
+      "phone": "909-877-9706",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Wed 9am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Wed"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Loveland Jubilee",
+      "org": "Loveland Jubilee",
+      "address": "790 E Foothill Blvd Suite A & B, Rialto, CA 92376",
+      "phone": "909-873-2710",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Fri 10:30am-12:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri"
+          ],
+          "open": "10:30",
+          "close": "12:30"
+        }
+      ]
+    },
+    {
+      "name": "REACH - St. Catherine of Siena",
+      "org": "REACH - St. Catherine of Siena",
+      "address": "339 N Sycamore Ave, Rialto, CA 92376",
+      "phone": "909-562-5482",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 10am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "10:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Rialto United Methodist Church",
+      "org": "Rialto United Methodist Church",
+      "address": "1230 N Lilac Ave, Rialto, CA 92376",
+      "phone": "909-875-3444",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Tue 9am-2pm; Wed, Thu 9am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue"
+          ],
+          "open": "09:00",
+          "close": "14:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed",
+            "Thu"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Sunrise Church - Rialto",
+      "org": "Sunrise Church - Rialto",
+      "address": "690 W Etiwanda Ave, Rialto, CA 92376",
+      "phone": "909-875-5566",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue-Fri 9am-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Running Springs Assembly of God",
+      "org": "Running Springs Assembly of God",
+      "address": "2679 Secret Dr, Running Springs, CA 92382",
+      "phone": "909-867-5195",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 10am-11:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "10:00",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "St Anne in the Mountains",
+      "org": "St Anne in the Mountains",
+      "address": "30480 Fredalba Rd, Running Springs, CA 92382",
+      "phone": "909-867-2832",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Thu 3pm-4:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Thu"
+          ],
+          "open": "15:00",
+          "close": "16:30"
+        }
+      ]
+    },
+    {
+      "name": "16th Street SDA Church",
+      "org": "16th Street SDA Church",
+      "address": "1601 W 16th St, San Bernardino, CA 92411",
+      "phone": "909-888-0084",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri 9am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "ASA Charter School",
+      "org": "ASA Charter School",
+      "address": "3512 N E St, San Bernardino, CA 92405",
+      "phone": "909-475-3322",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 7:45am-8:30am and 10:30am-1:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "07:45",
+          "close": "08:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "10:30",
+          "close": "13:30"
+        }
+      ]
+    },
+    {
+      "name": "Bible Holiness Church",
+      "org": "Bible Holiness Church",
+      "address": "3350 Del Rosa Ave N, San Bernardino, CA 92404",
+      "phone": "909-683-6111",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Thu 8pm-8:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu"
+          ],
+          "open": "20:00",
+          "close": "20:30"
+        }
+      ]
+    },
+    {
+      "name": "Cathedral Of Praise International Ministries",
+      "org": "Cathedral Of Praise International Ministries",
+      "address": "3030 Del Rosa Ave N, San Bernardino, CA 92404",
+      "phone": "909-474-1005",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Sat 8am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Sat",
+            "3rd Sat"
+          ],
+          "open": "08:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Ecclesia Christian Fellowship",
+      "org": "Ecclesia Christian Fellowship",
+      "address": "1314 E Date St, San Bernardino, CA 92404",
+      "phone": "909-881-5551",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Wed 1pm-3pm; other Wed 3pm-5pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Wed"
+          ],
+          "open": "13:00",
+          "close": "15:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "15:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Fifth Street Senior Center",
+      "org": "Fifth Street Senior Center",
+      "address": "600 W 5th St, San Bernardino, CA 92410",
+      "phone": "909-384-5430",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Thu 9am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Thu"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "First Presbyterian Church",
+      "org": "First Presbyterian Church",
+      "address": "1900 N D St, San Bernardino, CA 92405",
+      "phone": "909-882-3308",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue, Thu, Sat 9am-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Thu",
+            "Sat"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "First Samoan Assembly of God",
+      "org": "First Samoan Assembly of God",
+      "address": "895 W 40th St, San Bernardino, CA 92407",
+      "phone": "760-936-2014",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed, Sat 9am-12pm; Sat 7am-9:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed",
+            "Sat"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "07:00",
+          "close": "09:30"
+        }
+      ]
+    },
+    {
+      "name": "Grace Baptist Church",
+      "org": "Grace Baptist Church",
+      "address": "1333 E 39th St, San Bernardino, CA 92404",
+      "phone": "909-886-8904",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 3rd Sat 9:30am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat",
+            "3rd Sat"
+          ],
+          "open": "09:30",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Greater New Jerusalem Church",
+      "org": "Greater New Jerusalem Church",
+      "address": "1424 W 21st St, San Bernardino, CA 92411",
+      "phone": "909-887-1710",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Sat 9am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Hope 4 Everyone Foundation",
+      "org": "Hope 4 Everyone Foundation",
+      "address": "290 W Orange Show Rd Bldg 290 Suite 104, San Bernardino, CA 92408",
+      "phone": "310-935-8664",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 12pm-2pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "12:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Inland Valley Recovery Services",
+      "org": "Inland Valley Recovery Services",
+      "address": "939 N D St, San Bernardino, CA 92410",
+      "phone": "909-889-6519",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Sat 9am-6:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat"
+          ],
+          "open": "09:00",
+          "close": "18:30"
+        }
+      ]
+    },
+    {
+      "name": "Invisible Hands of God",
+      "org": "Invisible Hands of God",
+      "address": "468 W 5th St, San Bernardino, CA 92401",
+      "phone": "909-524-7978",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 11am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "11:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Isaiah's Rock - White House",
+      "org": "Isaiah's Rock - White House",
+      "address": "3350 Del Rosa Ave N, San Bernardino, CA 92404",
+      "phone": "909-381-3811",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sun, Tue, Thu, Fri, Sat 8am-8pm; Mon 8am-5pm; Wed 9am-5pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Thu",
+            "Fri",
+            "Sat",
+            "Sun"
+          ],
+          "open": "08:00",
+          "close": "20:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "08:00",
+          "close": "17:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "allowColocated": true
+    },
+    {
+      "name": "Loren L. Marner Compassionate Ministry",
+      "org": "Loren L. Marner Compassionate Ministry",
+      "address": "1605 N Sierra Way, San Bernardino, CA 92405",
+      "phone": "909-886-8104",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sun 11am-1:30pm; Sat 8am-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sun"
+          ],
+          "open": "11:00",
+          "close": "13:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "08:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Loren L. Marner Compassionate Ministry Center - 3rd St.",
+      "org": "Loren L. Marner Compassionate Ministry Center - 3rd St.",
+      "address": "903 E 3rd St, San Bernardino, CA 92410",
+      "phone": "909-886-8104",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sun 11am-11:30am; Mon 10am-11am; Wed 7pm-8pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sun"
+          ],
+          "open": "11:00",
+          "close": "11:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "19:00",
+          "close": "20:00"
+        }
+      ]
+    },
+    {
+      "name": "Lutheran Social Services of Southern California",
+      "org": "Lutheran Social Services of Southern California",
+      "address": "1354 N G St, San Bernardino, CA 92405",
+      "phone": "909-381-6921",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 3rd Fri 8:30am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Fri",
+            "3rd Fri"
+          ],
+          "open": "08:30",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Mary's Mercy Center - Mary's Table",
+      "org": "Mary's Mercy Center - Mary's Table",
+      "address": "641 Roberds Ave N, San Bernardino, CA 92411",
+      "phone": "909-889-2558",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sun, Mon, Tue, Thu, Sat 11:30am-1:30pm; Wed 1:30pm-3pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Thu",
+            "Sat",
+            "Sun"
+          ],
+          "open": "11:30",
+          "close": "13:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "13:30",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Mission for Jesus Christ",
+      "org": "Mission for Jesus Christ",
+      "address": "464 S Sierra Way, San Bernardino, CA 92408",
+      "phone": "909-997-0119",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sun 1pm-1:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sun"
+          ],
+          "open": "13:00",
+          "close": "13:30"
+        }
+      ]
+    },
+    {
+      "name": "Obershaw Den (CSUSB)",
+      "org": "Obershaw Den (CSUSB)",
+      "address": "5500 University Pkwy Student Union North 3311, San Bernardino, CA 92407",
+      "phone": "909-537-3663",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Tue 9am-5pm; Wed, Thu 9am-6pm; Fri 9am-2pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue"
+          ],
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed",
+            "Thu"
+          ],
+          "open": "09:00",
+          "close": "18:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Poder Y Luz Ministries",
+      "org": "Poder Y Luz Ministries",
+      "address": "2372 E Lynwood Dr, San Bernardino, CA 92404",
+      "phone": "626-905-3286",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Sat 8am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat",
+            "4th Sat"
+          ],
+          "open": "08:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Redeemed Christian Church of God",
+      "org": "Redeemed Christian Church of God",
+      "address": "190 S Arrowhead Ave, San Bernardino, CA 92402",
+      "phone": "909-888-4700",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sun 12:30pm-1:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sun"
+          ],
+          "open": "12:30",
+          "close": "13:30"
+        }
+      ]
+    },
+    {
+      "name": "Rise of A Fallen Angel Inc.",
+      "org": "Rise of A Fallen Angel Inc.",
+      "address": "434 W Highland Ave, San Bernardino, CA 92405",
+      "phone": "909-763-2471",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Thu 10am-3pm; 3rd Fri 10am-3pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "10:00",
+          "close": "15:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Fri"
+          ],
+          "open": "10:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Rolling Start Inc.",
+      "org": "Rolling Start Inc.",
+      "address": "1955 S Hunts Ln #101, San Bernardino, CA 92408",
+      "phone": "909-890-9516",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Tue, Thu, Fri 8am-4:30pm; 3rd Wed 11am-3pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Thu",
+            "Fri"
+          ],
+          "open": "08:00",
+          "close": "16:30"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Wed"
+          ],
+          "open": "11:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "SAC Health System",
+      "org": "SAC Health System",
+      "address": "250 S G St, San Bernardino, CA 92410",
+      "phone": "909-771-2891",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Thu 8am-5pm; Fri 8am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "08:00",
+          "close": "17:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "08:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Sahaba Initiative",
+      "org": "Sahaba Initiative",
+      "address": "1694 N D St, San Bernardino, CA 92405",
+      "phone": "909-381-3002",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 11am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "11:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Saint John's Episcopal Church",
+      "org": "Saint John's Episcopal Church",
+      "address": "1407 N Arrowhead Ave, San Bernardino, CA 92405",
+      "phone": "909-886-2196",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 9am-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "San Bernardino Valley College",
+      "org": "San Bernardino Valley College",
+      "address": "701 S Mt Vernon Ave, San Bernardino, CA 92410",
+      "phone": "909-384-4474",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue, Wed 10am-3pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Wed"
+          ],
+          "open": "10:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "The Great Presbyterian Church",
+      "org": "The Great Presbyterian Church",
+      "address": "3630 N E St, San Bernardino, CA 92405",
+      "phone": "909-677-6554",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 8am-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "08:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "The Rock Church and World Outreach Center",
+      "org": "The Rock Church and World Outreach Center",
+      "address": "2345 S Waterman Ave, San Bernardino, CA 92408",
+      "phone": "909-825-8887",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 7am-8:30am; Thu 8am-10am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "07:00",
+          "close": "08:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "08:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "The Way World Outreach",
+      "org": "The Way World Outreach",
+      "address": "1001 N Arrowhead Ave, San Bernardino, CA 92410",
+      "phone": "909-677-7943",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed, Fri 11:30am-12:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed",
+            "Fri"
+          ],
+          "open": "11:30",
+          "close": "12:30"
+        }
+      ]
+    },
+    {
+      "name": "Touch of the Master Ministries",
+      "org": "Touch of the Master Ministries",
+      "address": "1244 E Pacific St, San Bernardino, CA 92404",
+      "phone": "909-886-5631",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 9am-2pm; Wed 10am-11:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "09:00",
+          "close": "14:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "10:00",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Trinity Christian Fellowship Church",
+      "org": "Trinity Christian Fellowship Church",
+      "address": "8158 Tippecanoe Ave, San Bernardino, CA 92410",
+      "phone": "951-347-8997",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 4pm-5:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "16:00",
+          "close": "17:30"
+        }
+      ]
+    },
+    {
+      "name": "Volunteers of America / Ballington Academy",
+      "org": "Volunteers of America / Ballington Academy",
+      "address": "799 E Rialto Ave, San Bernardino, CA 92408",
+      "phone": "909-332-6699",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 8am-6pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "08:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Express Workforce Foundation",
+      "org": "Express Workforce Foundation",
+      "address": "903 N Central Ave Suite B, Upland, CA 91786",
+      "phone": "909-946-1246",
+      "eligibility": "",
+      "website": "https://communityheartfeedtheneed.org",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 9am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "09:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Kid Care International",
+      "org": "Kid Care International",
+      "address": "1200 N Campus Ave, Upland, CA 91786",
+      "phone": "909-227-5037",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 9:30am-10:45am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "09:30",
+          "close": "10:45"
+        }
+      ]
+    },
+    {
+      "name": "Upland Community Seventh Day Adventist Church",
+      "org": "Upland Community Seventh Day Adventist Church",
+      "address": "205 S Campus Ave, Upland, CA 91786",
+      "phone": "909-982-5632",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Sun 12pm-2pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Sun"
+          ],
+          "open": "12:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Victor Valley College",
+      "org": "Victor Valley College",
+      "address": "18422 Bear Valley Rd #10B, Victorville, CA 92395",
+      "phone": "760-245-4271",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon 9am-5pm; Thu 1:30pm-3:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon"
+          ],
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "13:30",
+          "close": "15:30"
+        }
+      ]
+    },
+    {
+      "name": "Women of Noble Character",
+      "org": "Women of Noble Character",
+      "address": "14890 Loves Ln, Victorville, CA 92395",
+      "phone": "442-242-1497",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue, Wed, Thu 10am-12:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "10:00",
+          "close": "12:30"
+        }
+      ]
+    },
+    {
+      "name": "Alpha and Omega Ministry",
+      "org": "Alpha and Omega Ministry",
+      "address": "34030 Ave J, Yucaipa, CA 92399",
+      "phone": "714-561-4461",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sun 12pm-4pm; Thu 12pm-7pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sun"
+          ],
+          "open": "12:00",
+          "close": "16:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "12:00",
+          "close": "19:00"
+        }
+      ]
+    },
+    {
+      "name": "Calvary Hill Church & Retreat Center",
+      "org": "Calvary Hill Church & Retreat Center",
+      "address": "37400 Falling Springs Rd, Yucaipa, CA 92399",
+      "phone": "310-930-7554",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Wed, Fri 9am-10am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Crafton Hills College",
+      "org": "Crafton Hills College",
+      "address": "11711 Sand Canyon Rd, Yucaipa, CA 92399",
+      "phone": "909-389-3233",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Thu 8am-5pm; Fri 8am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+          ],
+          "open": "08:00",
+          "close": "17:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "08:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Faith Lutheran Church",
+      "org": "Faith Lutheran Church",
+      "address": "12449 California St, Yucaipa, CA 92399",
+      "phone": "909-790-1816",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Sat 8am-10:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Sat",
+            "4th Sat"
+          ],
+          "open": "08:00",
+          "close": "10:30"
+        }
+      ]
+    },
+    {
+      "name": "Yucaipa Seventh Day Adventist Church",
+      "org": "Yucaipa Seventh Day Adventist Church",
+      "address": "35225 Avenue E, Yucaipa, CA 92399",
+      "phone": "415-297-8588",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 12pm",
+      "schedules": []
+    },
+    {
+      "name": "Five Two Foundation",
+      "org": "Five Two Foundation",
+      "address": "57373 Joshua Ln, Yucca Valley, CA 92284",
+      "phone": "(760) 401-1370",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Wed 4pm-6pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Wed"
+          ],
+          "open": "16:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "CLEP Community Learning & Equipping Project",
+      "org": "CLEP Community Learning & Equipping Project",
+      "address": "4751 Adobe Rd, Twentynine Palms, CA 92277",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 5pm-6pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "17:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Set Free Church 29 Palms",
+      "org": "Set Free Church 29 Palms",
+      "address": "82572 Amboy Rd, Twentynine Palms, CA 92277",
+      "phone": "(760) 361-1339",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Sat 8am-5pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat"
+          ],
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Calvary Road Fellowship",
+      "org": "Calvary Road Fellowship",
+      "address": "1518 Elbow Rd, Morongo Valley, CA 92256",
+      "phone": "(760) 363-0246",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Fri 12pm-2pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Fri"
+          ],
+          "open": "12:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Calvary Christian Fellowship - Paying it Forward",
+      "org": "Calvary Christian Fellowship - Paying it Forward",
+      "address": "288 Old Woman Springs Rd, Yucca Valley, CA 92286",
+      "phone": "(760) 364-1990",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Fri 12pm-2pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Fri"
+          ],
+          "open": "12:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "FIND Mobile Market - Copper Mountain College",
+      "org": "FIND Mobile Market - Copper Mountain College",
+      "address": "6162 Rotary Way, Joshua Tree, CA 92252",
+      "phone": "(760) 775-3663",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Tue 9am-10am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Tue"
+          ],
+          "open": "09:00",
+          "close": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Yucca Valley Church of the Nazarene",
+      "org": "Yucca Valley Church of the Nazarene",
+      "address": "56-248 Buena Vista Dr, Yucca Valley, CA 92284",
+      "phone": "(760) 362-3581",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "2nd Thu 11:30am-12:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu"
+          ],
+          "open": "11:30",
+          "close": "12:30"
+        }
+      ]
+    },
+    {
+      "name": "The Way Station",
+      "org": "The Way Station",
+      "address": "61-722 Commercial St, Joshua Tree, CA 92252",
+      "phone": "(760) 366-8088",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "Tue-Fri breakfast 9am-10:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "10:30"
+        }
+      ]
+    }
+  ]
+}

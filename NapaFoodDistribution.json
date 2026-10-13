@@ -1,0 +1,646 @@
+{
+  "_meta": {
+    "topic": "Net-new Napa County food distributions",
+    "generated": "2026-10-05",
+    "source": "Research supplementing shell PENDING-Napa; raw ./NapaAdditions-raw.json."
+  },
+  "_deferred": {},
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "add-harvest-freewill-baptist-church-pantry-m2242-1530",
+      "seriesSlug": "add-harvest-freewill-baptist-church-pantry",
+      "title": "Harvest Freewill Baptist Church (pantry) — Free Food",
+      "description": "Free food at Harvest Freewill Baptist Church (pantry). Schedule: 2nd Tue & 4th Tue 3:30 PM–5:30 PM. Call (707) 253-6128 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Harvest Freewill Baptist Church (pantry)",
+      "address": "240 Rio Del Mar, American Canyon, CA 94503",
+      "lat": 38.17721,
+      "lng": -122.26143,
+      "category": "food-assistance",
+      "sourceOrg": "Harvest Freewill Baptist Church (pantry)",
+      "url": "https://www.canv.org/",
+      "schedulePattern": "2nd Tue & 4th Tue 3:30 PM–5:30 PM",
+      "start": "2026-10-06T15:30",
+      "end": "2026-10-06T17:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 2
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "2:2,4:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-las-casitas-mobile-home-park-free-market-m15-1400",
+      "seriesSlug": "add-las-casitas-mobile-home-park-free-market",
+      "title": "Las Casitas Mobile Home Park (free market) — Free Food",
+      "description": "Free food at Las Casitas Mobile Home Park (free market). Schedule: 1st Fri 2 PM–4 PM. Call (707) 253-6128 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Las Casitas Mobile Home Park (free market)",
+      "address": "3000 Broadway St, American Canyon, CA 94503",
+      "lat": 38.162387,
+      "lng": -122.251511,
+      "category": "food-assistance",
+      "sourceOrg": "Las Casitas Mobile Home Park (free market)",
+      "url": "https://www.canv.org/",
+      "schedulePattern": "1st Fri 2 PM–4 PM",
+      "start": "2026-10-09T14:00",
+      "end": "2026-10-09T16:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "1:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-old-napa-junction-elementary-room-4-kiwanis-pant-m34-1530",
+      "seriesSlug": "add-old-napa-junction-elementary-room-4-kiwanis-pant",
+      "title": "Old Napa Junction Elementary Room 4 (Kiwanis pantry and USDA) — Free Food",
+      "description": "Free food at Old Napa Junction Elementary Room 4 (Kiwanis pantry and USDA). Schedule: 3rd Thu 3:30 PM–5 PM. Call (707) 253-6128 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Old Napa Junction Elementary Room 4 (Kiwanis pantry and USDA)",
+      "address": "300 Napa Junction Rd, American Canyon, CA 94503",
+      "lat": 38.18532,
+      "lng": -122.25793,
+      "category": "food-assistance",
+      "sourceOrg": "Old Napa Junction Elementary Room 4 (Kiwanis pantry and USDA)",
+      "url": "https://www.canv.org/",
+      "schedulePattern": "3rd Thu 3:30 PM–5 PM",
+      "start": "2026-10-08T15:30",
+      "end": "2026-10-08T17:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-angwin-pop-up-pantry-parking-lot-m1232-1800",
+      "seriesSlug": "add-angwin-pop-up-pantry-parking-lot",
+      "title": "Angwin Pop-Up Pantry (parking lot) — Free Food",
+      "description": "Free food at Angwin Pop-Up Pantry (parking lot). Schedule: 1st Tue & 3rd Tue 6 PM–7:30 PM. Call (707) 253-6128 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Angwin Pop-Up Pantry (parking lot)",
+      "address": "1 Angwin Ave, Angwin, CA 94508",
+      "lat": 38.570467,
+      "lng": -122.443042,
+      "category": "food-assistance",
+      "sourceOrg": "Angwin Pop-Up Pantry (parking lot)",
+      "url": "https://www.canv.org/",
+      "schedulePattern": "1st Tue & 3rd Tue 6 PM–7:30 PM",
+      "start": "2026-10-06T18:00",
+      "end": "2026-10-06T19:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 2
+          },
+          {
+            "n": 3,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "1:2,3:2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-calistoga-cares-pantry-fairgrounds-tubbs-buildin-m2444-1400",
+      "seriesSlug": "add-calistoga-cares-pantry-fairgrounds-tubbs-buildin",
+      "title": "Calistoga Cares Pantry (Fairgrounds Tubbs Building) — Free Food",
+      "description": "Free food at Calistoga Cares Pantry (Fairgrounds Tubbs Building). Schedule: 2nd Thu & 4th Thu 2 PM–5 PM. Call (707) 253-6128 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Calistoga Cares Pantry (Fairgrounds Tubbs Building)",
+      "address": "1435 N. Oak St, Calistoga, CA 94515",
+      "lat": 38.583442,
+      "lng": -122.585245,
+      "category": "food-assistance",
+      "sourceOrg": "Calistoga Cares Pantry (Fairgrounds Tubbs Building)",
+      "url": "https://www.canv.org/",
+      "schedulePattern": "2nd Thu & 4th Thu 2 PM–5 PM",
+      "start": "2026-10-08T14:00",
+      "end": "2026-10-08T17:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 4
+          },
+          {
+            "n": 4,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "2:4,4:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-calistoga-elementary-school-free-market-m15-1500",
+      "seriesSlug": "add-calistoga-elementary-school-free-market",
+      "title": "Calistoga Elementary School (free market) — Free Food",
+      "description": "Free food at Calistoga Elementary School (free market). Schedule: 1st Fri 3 PM–4 PM. Call (707) 253-6128 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Calistoga Elementary School (free market)",
+      "address": "1327 Berry St, Calistoga, CA 94515",
+      "lat": 38.57883,
+      "lng": -122.58299,
+      "category": "food-assistance",
+      "sourceOrg": "Calistoga Elementary School (free market)",
+      "url": "https://www.canv.org/",
+      "schedulePattern": "1st Fri 3 PM–4 PM",
+      "start": "2026-10-09T15:00",
+      "end": "2026-10-09T16:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "1:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-ole-health-calistoga-free-market-m35-1430",
+      "seriesSlug": "add-ole-health-calistoga-free-market",
+      "title": "OLE Health Calistoga (free market) — Free Food",
+      "description": "Free food at OLE Health Calistoga (free market). Schedule: 3rd Fri 2:30 PM–4:30 PM. Call (707) 253-6128 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "OLE Health Calistoga (free market)",
+      "address": "911 Washington St, Calistoga, CA 94515",
+      "lat": 38.57783,
+      "lng": -122.57733,
+      "category": "food-assistance",
+      "sourceOrg": "OLE Health Calistoga (free market)",
+      "url": "https://www.canv.org/",
+      "schedulePattern": "3rd Fri 2:30 PM–4:30 PM",
+      "start": "2026-10-09T14:30",
+      "end": "2026-10-09T16:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-lake-berryessa-pantry-moskowite-corners-m33-1100",
+      "seriesSlug": "add-lake-berryessa-pantry-moskowite-corners",
+      "title": "Lake Berryessa Pantry (Moskowite Corners) — Free Food",
+      "description": "Free food at Lake Berryessa Pantry (Moskowite Corners). Schedule: 3rd Wed 11 AM–1 PM. Call (707) 253-6128 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Lake Berryessa Pantry (Moskowite Corners)",
+      "address": "6004 Monticello Rd, Lake Berryessa, CA 94558",
+      "lat": 38.448133,
+      "lng": -122.196444,
+      "category": "food-assistance",
+      "sourceOrg": "Lake Berryessa Pantry (Moskowite Corners)",
+      "url": "https://www.canv.org/",
+      "schedulePattern": "3rd Wed 11 AM–1 PM",
+      "start": "2026-10-07T11:00",
+      "end": "2026-10-07T13:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-spanish-flat-campground-free-market-m14-1400",
+      "seriesSlug": "add-spanish-flat-campground-free-market",
+      "title": "Spanish Flat Campground (free market) — Free Food",
+      "description": "Free food at Spanish Flat Campground (free market). Schedule: 1st Thu 2 PM–4 PM. Call (707) 253-6128 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Spanish Flat Campground (free market)",
+      "address": "4290 Knoxville Rd, Lake Berryessa, CA 94558",
+      "lat": 38.524605,
+      "lng": -122.218381,
+      "category": "food-assistance",
+      "sourceOrg": "Spanish Flat Campground (free market)",
+      "url": "https://www.canv.org/",
+      "schedulePattern": "1st Thu 2 PM–4 PM",
+      "start": "2026-10-08T14:00",
+      "end": "2026-10-08T16:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "1:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-canv-food-bank-pantry-w234-0900",
+      "seriesSlug": "add-canv-food-bank-pantry",
+      "title": "CANV Food Bank pantry — Free Food",
+      "description": "Free food at CANV Food Bank pantry. Schedule: Tue–Thu 9 AM–1 PM; Tue–Thu 1 PM–3 PM. Call (707) 253-6128 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "CANV Food Bank pantry",
+      "address": "938 Kaiser Rd, Napa, CA 94558",
+      "lat": 38.25819,
+      "lng": -122.274563,
+      "category": "food-assistance",
+      "sourceOrg": "CANV Food Bank pantry",
+      "url": "https://www.canv.org/",
+      "schedulePattern": "Tue–Thu 9 AM–1 PM; Tue–Thu 1 PM–3 PM",
+      "start": "2026-09-28T09:00",
+      "end": "2026-09-28T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-canv-food-bank-pantry-w234-1300",
+      "seriesSlug": "add-canv-food-bank-pantry",
+      "title": "CANV Food Bank pantry — Free Food",
+      "description": "Free food at CANV Food Bank pantry. Schedule: Tue–Thu 9 AM–1 PM; Tue–Thu 1 PM–3 PM. Call (707) 253-6128 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "CANV Food Bank pantry",
+      "address": "938 Kaiser Rd, Napa, CA 94558",
+      "lat": 38.25819,
+      "lng": -122.274563,
+      "category": "food-assistance",
+      "sourceOrg": "CANV Food Bank pantry",
+      "url": "https://www.canv.org/",
+      "schedulePattern": "Tue–Thu 9 AM–1 PM; Tue–Thu 1 PM–3 PM",
+      "start": "2026-09-28T13:00",
+      "end": "2026-09-28T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-calfresh-office-self-sufficiency-services-free-m-m25-1400",
+      "seriesSlug": "add-calfresh-office-self-sufficiency-services-free-m",
+      "title": "CalFresh Office Self Sufficiency Services (free market) — Free Food",
+      "description": "Free food at CalFresh Office Self Sufficiency Services (free market). Schedule: 2nd Fri 2 PM–4 PM. Call (707) 253-6128 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "CalFresh Office Self Sufficiency Services (free market)",
+      "address": "2751 Napa Valley Corporate Dr, Napa, CA 94558",
+      "lat": 38.249041,
+      "lng": -122.275331,
+      "category": "food-assistance",
+      "sourceOrg": "CalFresh Office Self Sufficiency Services (free market)",
+      "url": "https://www.canv.org/",
+      "schedulePattern": "2nd Fri 2 PM–4 PM",
+      "start": "2026-10-09T14:00",
+      "end": "2026-10-09T16:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "2:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-covenant-presbyterian-church-free-market-m55-1400",
+      "seriesSlug": "add-covenant-presbyterian-church-free-market",
+      "title": "Covenant Presbyterian Church (free market) — Free Food",
+      "description": "Free food at Covenant Presbyterian Church (free market). Schedule: 5th Fri 2 PM–4 PM. Call (707) 253-6128 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Covenant Presbyterian Church (free market)",
+      "address": "1226 Salvador Ave, Napa, CA 94558",
+      "lat": 38.345077,
+      "lng": -122.312557,
+      "category": "food-assistance",
+      "sourceOrg": "Covenant Presbyterian Church (free market)",
+      "url": "https://www.canv.org/",
+      "schedulePattern": "5th Fri 2 PM–4 PM",
+      "start": "2026-10-09T14:00",
+      "end": "2026-10-09T16:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 5,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "5:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-napa-senior-center-usda-distribution-m31-1000",
+      "seriesSlug": "add-napa-senior-center-usda-distribution",
+      "title": "Napa Senior Center (USDA distribution) — Free Food",
+      "description": "Free food at Napa Senior Center (USDA distribution). Schedule: 3rd Mon 10 AM–11:30 AM. Call (707) 253-6128 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Napa Senior Center (USDA distribution)",
+      "address": "1500 Jefferson St, Napa, CA 94559",
+      "lat": 38.301843,
+      "lng": -122.293377,
+      "category": "food-assistance",
+      "sourceOrg": "Napa Senior Center (USDA distribution)",
+      "url": "https://www.canv.org/",
+      "schedulePattern": "3rd Mon 10 AM–11:30 AM",
+      "start": "2026-10-05T10:00",
+      "end": "2026-10-05T11:30",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 1
+          }
+        ]
+      },
+      "recurDays": "3:1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-ole-health-napa-free-market-m35-1400",
+      "seriesSlug": "add-ole-health-napa-free-market",
+      "title": "OLE Health Napa (free market) — Free Food",
+      "description": "Free food at OLE Health Napa (free market). Schedule: 3rd Fri 2 PM–4 PM. Call (707) 253-6128 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "OLE Health Napa (free market)",
+      "address": "1141 Pear Tree Ln, Napa, CA 94558",
+      "lat": 38.32099,
+      "lng": -122.292118,
+      "category": "food-assistance",
+      "sourceOrg": "OLE Health Napa (free market)",
+      "url": "https://www.canv.org/",
+      "schedulePattern": "3rd Fri 2 PM–4 PM",
+      "start": "2026-10-09T14:00",
+      "end": "2026-10-09T16:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-saint-thomas-aquinas-catholic-church-free-market-m35-1500",
+      "seriesSlug": "add-saint-thomas-aquinas-catholic-church-free-market",
+      "title": "Saint Thomas Aquinas Catholic Church (free market) — Free Food",
+      "description": "Free food at Saint Thomas Aquinas Catholic Church (free market). Schedule: 3rd Fri 3 PM–4 PM. Call (707) 253-6128 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Saint Thomas Aquinas Catholic Church (free market)",
+      "address": "2725 Elm St, Napa, CA 94558",
+      "lat": 38.28917,
+      "lng": -122.305886,
+      "category": "food-assistance",
+      "sourceOrg": "Saint Thomas Aquinas Catholic Church (free market)",
+      "url": "https://www.canv.org/",
+      "schedulePattern": "3rd Fri 3 PM–4 PM",
+      "start": "2026-10-09T15:00",
+      "end": "2026-10-09T16:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "3:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-spanish-seventh-day-adventist-church-free-market-m45-1400",
+      "seriesSlug": "add-spanish-seventh-day-adventist-church-free-market",
+      "title": "Spanish Seventh-day Adventist Church (free market and USDA) — Free Food",
+      "description": "Free food at Spanish Seventh-day Adventist Church (free market and USDA). Schedule: 4th Fri 2 PM–4 PM; 3rd Thu 4 PM–6 PM. Call (707) 253-6128 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Spanish Seventh-day Adventist Church (free market and USDA)",
+      "address": "1011 Pueblo Ave, Napa, CA 94558",
+      "lat": 38.31589,
+      "lng": -122.29459,
+      "category": "food-assistance",
+      "sourceOrg": "Spanish Seventh-day Adventist Church (free market and USDA)",
+      "url": "https://www.canv.org/",
+      "schedulePattern": "4th Fri 2 PM–4 PM; 3rd Thu 4 PM–6 PM",
+      "start": "2026-10-09T14:00",
+      "end": "2026-10-09T16:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 4,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "4:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-spanish-seventh-day-adventist-church-free-market-m34-1600",
+      "seriesSlug": "add-spanish-seventh-day-adventist-church-free-market",
+      "title": "Spanish Seventh-day Adventist Church (free market and USDA) — Free Food",
+      "description": "Free food at Spanish Seventh-day Adventist Church (free market and USDA). Schedule: 4th Fri 2 PM–4 PM; 3rd Thu 4 PM–6 PM. Call (707) 253-6128 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Spanish Seventh-day Adventist Church (free market and USDA)",
+      "address": "1011 Pueblo Ave, Napa, CA 94558",
+      "lat": 38.31589,
+      "lng": -122.29459,
+      "category": "food-assistance",
+      "sourceOrg": "Spanish Seventh-day Adventist Church (free market and USDA)",
+      "url": "https://www.canv.org/",
+      "schedulePattern": "4th Fri 2 PM–4 PM; 3rd Thu 4 PM–6 PM",
+      "start": "2026-10-08T16:00",
+      "end": "2026-10-08T18:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "3:4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-father-s-house-free-market-w6-0930",
+      "seriesSlug": "add-the-father-s-house-free-market",
+      "title": "The Father's House (free market) — Free Food",
+      "description": "Free food at The Father's House (free market). Schedule: Sat 9:30 AM–11:30 AM. Call (707) 253-6128 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Father's House (free market)",
+      "address": "860 Latour Ct, Napa, CA 94558",
+      "lat": 38.257014,
+      "lng": -122.273924,
+      "category": "food-assistance",
+      "sourceOrg": "The Father's House (free market)",
+      "url": "https://www.canv.org/",
+      "schedulePattern": "Sat 9:30 AM–11:30 AM",
+      "start": "2026-09-28T09:30",
+      "end": "2026-09-28T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-pope-valley-farm-center-pantry-and-free-market-m13-1200",
+      "seriesSlug": "add-pope-valley-farm-center-pantry-and-free-market",
+      "title": "Pope Valley Farm Center (pantry and free market) — Free Food",
+      "description": "Free food at Pope Valley Farm Center (pantry and free market). Schedule: 1st Wed 12 PM–2 PM; 3rd Wed 12 PM–2 PM. Call (707) 253-6128 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Pope Valley Farm Center (pantry and free market)",
+      "address": "5800 Pope Valley Rd, Pope Valley, CA 94567",
+      "lat": 38.615231,
+      "lng": -122.428149,
+      "category": "food-assistance",
+      "sourceOrg": "Pope Valley Farm Center (pantry and free market)",
+      "url": "https://www.canv.org/",
+      "schedulePattern": "1st Wed 12 PM–2 PM; 3rd Wed 12 PM–2 PM",
+      "start": "2026-10-07T12:00",
+      "end": "2026-10-07T14:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 1,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "1:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-pope-valley-farm-center-pantry-and-free-market-m33-1200",
+      "seriesSlug": "add-pope-valley-farm-center-pantry-and-free-market",
+      "title": "Pope Valley Farm Center (pantry and free market) — Free Food",
+      "description": "Free food at Pope Valley Farm Center (pantry and free market). Schedule: 1st Wed 12 PM–2 PM; 3rd Wed 12 PM–2 PM. Call (707) 253-6128 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Pope Valley Farm Center (pantry and free market)",
+      "address": "5800 Pope Valley Rd, Pope Valley, CA 94567",
+      "lat": 38.615231,
+      "lng": -122.428149,
+      "category": "food-assistance",
+      "sourceOrg": "Pope Valley Farm Center (pantry and free market)",
+      "url": "https://www.canv.org/",
+      "schedulePattern": "1st Wed 12 PM–2 PM; 3rd Wed 12 PM–2 PM",
+      "start": "2026-10-07T12:00",
+      "end": "2026-10-07T14:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 3
+          }
+        ]
+      },
+      "recurDays": "3:3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-saint-helena-high-school-free-market-m25-1500",
+      "seriesSlug": "add-saint-helena-high-school-free-market",
+      "title": "Saint Helena High School (free market) — Free Food",
+      "description": "Free food at Saint Helena High School (free market). Schedule: 2nd Fri 3 PM–4 PM. Call (707) 253-6128 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Saint Helena High School (free market)",
+      "address": "1401 Grayson Ave, St. Helena, CA 94574",
+      "lat": 38.496767,
+      "lng": -122.462936,
+      "category": "food-assistance",
+      "sourceOrg": "Saint Helena High School (free market)",
+      "url": "https://www.canv.org/",
+      "schedulePattern": "2nd Fri 3 PM–4 PM",
+      "start": "2026-10-09T15:00",
+      "end": "2026-10-09T16:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 5
+          }
+        ]
+      },
+      "recurDays": "2:5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-st-helena-pantry-behind-seventh-day-adventist-ch-w25-1430",
+      "seriesSlug": "add-st-helena-pantry-behind-seventh-day-adventist-ch",
+      "title": "St. Helena Pantry (behind Seventh-day Adventist Church Hall) — Free Food",
+      "description": "Free food at St. Helena Pantry (behind Seventh-day Adventist Church Hall). Schedule: Tue, Fri 2:30 PM–4 PM. Call (707) 253-6128 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. Helena Pantry (behind Seventh-day Adventist Church Hall)",
+      "address": "1777 Main St, St. Helena, CA 94574",
+      "lat": 38.50819,
+      "lng": -122.47636,
+      "category": "food-assistance",
+      "sourceOrg": "St. Helena Pantry (behind Seventh-day Adventist Church Hall)",
+      "url": "https://www.canv.org/",
+      "schedulePattern": "Tue, Fri 2:30 PM–4 PM",
+      "start": "2026-09-28T14:30",
+      "end": "2026-09-28T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-yountville-community-church-usda-distribution-m34-1200",
+      "seriesSlug": "add-yountville-community-church-usda-distribution",
+      "title": "Yountville Community Church (USDA distribution) — Free Food",
+      "description": "Free food at Yountville Community Church (USDA distribution). Schedule: 3rd Thu 12 PM–2 PM. Call (707) 253-6128 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Yountville Community Church (USDA distribution)",
+      "address": "6621 Yount St, Yountville, CA 94599",
+      "lat": 38.40478,
+      "lng": -122.363258,
+      "category": "food-assistance",
+      "sourceOrg": "Yountville Community Church (USDA distribution)",
+      "url": "https://www.canv.org/",
+      "schedulePattern": "3rd Thu 12 PM–2 PM",
+      "start": "2026-10-08T12:00",
+      "end": "2026-10-08T14:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 3,
+            "dayOfWeek": 4
+          }
+        ]
+      },
+      "recurDays": "3:4"
+    }
+  ]
+}

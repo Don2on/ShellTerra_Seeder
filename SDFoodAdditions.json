@@ -1,0 +1,809 @@
+{
+  "_meta": {
+    "topic": "Net-new San Diego food distributions",
+    "generated": "2026-09-28",
+    "source": "Independent/college/senior research 2026-09-28; supplements FoodDistributionSD."
+  },
+  "_deferred": {
+    "sd-add-usd-torero-food-pantry": {
+      "title": "USD Torero Food Pantry",
+      "status": "Mon–Fri  (by appointment only; hours vary) Phone: (619) 260-4588.",
+      "address": "5998 Alcala Park, San Diego, CA 92110",
+      "lat": 32.772469,
+      "lng": -117.188013,
+      "phone": "(619) 260-4588",
+      "eligibility": "Enrolled USD students; by appointment",
+      "sourceUrl": "https://www.sandiego.edu/food-pantry/"
+    },
+    "sd-add-plnu-loma-shares-food-pantry": {
+      "title": "PLNU Loma Shares Food Pantry",
+      "status": "weekly during academic year; hours not published — call to confirm Phone: (619) 849-2632.",
+      "address": "3900 Lomaland Dr, San Diego, CA 92106",
+      "lat": 32.717484,
+      "lng": -117.25034,
+      "phone": "(619) 849-2632",
+      "eligibility": "PLNU students; academic year only",
+      "sourceUrl": "https://connections.pointloma.edu/LomaShares"
+    }
+  },
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "sd-add-new-day-urban-ministries-food-pantry-w12345-0900",
+      "seriesSlug": "sd-add-new-day-urban-ministries-food-pantry",
+      "title": "New Day Urban Ministries Food Pantry — Free Food",
+      "description": "Free food at New Day Urban Ministries Food Pantry (New Day Urban Ministries). Schedule: Mon–Fri 9 AM–11:30 AM (grocery bags, walk-up); Mon–Thu 1 PM–3 PM (afternoon walk-up). Eligibility: Open to all; first-come first-serve. Call (619) 232-2753 to confirm before you go — hours change and supplies can run out. Source: community research, Sep 2026.",
+      "locationName": "New Day Urban Ministries Food Pantry",
+      "address": "2459 Market Street, San Diego, CA 92102",
+      "lat": 32.711291,
+      "lng": -117.141134,
+      "category": "food-assistance",
+      "sourceOrg": "New Day Urban Ministries",
+      "url": "https://newdayurbanministries.org/",
+      "schedulePattern": "Mon–Fri 9 AM–11:30 AM (grocery bags, walk-up); Mon–Thu 1 PM–3 PM (afternoon walk-up)",
+      "start": "2026-09-21T09:00",
+      "end": "2026-09-21T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "sd-add-new-day-urban-ministries-food-pantry-w1234-1300",
+      "seriesSlug": "sd-add-new-day-urban-ministries-food-pantry",
+      "title": "New Day Urban Ministries Food Pantry — Free Food",
+      "description": "Free food at New Day Urban Ministries Food Pantry (New Day Urban Ministries). Schedule: Mon–Fri 9 AM–11:30 AM (grocery bags, walk-up); Mon–Thu 1 PM–3 PM (afternoon walk-up). Eligibility: Open to all; first-come first-serve. Call (619) 232-2753 to confirm before you go — hours change and supplies can run out. Source: community research, Sep 2026.",
+      "locationName": "New Day Urban Ministries Food Pantry",
+      "address": "2459 Market Street, San Diego, CA 92102",
+      "lat": 32.711291,
+      "lng": -117.141134,
+      "category": "food-assistance",
+      "sourceOrg": "New Day Urban Ministries",
+      "url": "https://newdayurbanministries.org/",
+      "schedulePattern": "Mon–Fri 9 AM–11:30 AM (grocery bags, walk-up); Mon–Thu 1 PM–3 PM (afternoon walk-up)",
+      "start": "2026-09-21T13:00",
+      "end": "2026-09-21T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "sd-add-ladle-fellowship-w7-1400",
+      "seriesSlug": "sd-add-ladle-fellowship",
+      "title": "Ladle Fellowship — Free Food",
+      "description": "Free food at Ladle Fellowship (First Presbyterian Church of San Diego). Schedule: Sun from 2 PM (free hot lunch; arrive 12-1pm). Eligibility: Open to all. Call (619) 232-7513 to confirm before you go — hours change and supplies can run out. Source: community research, Sep 2026.",
+      "locationName": "Ladle Fellowship",
+      "address": "320 Date Street, San Diego, CA 92101",
+      "lat": 32.723328,
+      "lng": -117.161671,
+      "category": "food-assistance",
+      "sourceOrg": "First Presbyterian Church of San Diego",
+      "url": "https://ljpres.org/ladlefellowship/",
+      "schedulePattern": "Sun from 2 PM (free hot lunch; arrive 12-1pm)",
+      "start": "2026-09-21T14:00",
+      "end": null,
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "7"
+    },
+    {
+      "kind": "activity",
+      "slug": "sd-add-uptown-community-service-center-w124-0900",
+      "seriesSlug": "sd-add-uptown-community-service-center",
+      "title": "Uptown Community Service Center — Free Food",
+      "description": "Free food at Uptown Community Service Center (Uptown Faith Community Service Center). Schedule: Mon–Tue, Thu 9 AM–9:45 AM (canned grocery bags); Mon–Thu 11 AM–12 PM (fresh groceries). Eligibility: Homeless and very-low-income; open to all in need. Call (619) 281-8411 to confirm before you go — hours change and supplies can run out. Source: community research, Sep 2026.",
+      "locationName": "Uptown Community Service Center",
+      "address": "3725 30th Street, San Diego, CA 92104",
+      "lat": 32.74588,
+      "lng": -117.129825,
+      "category": "food-assistance",
+      "sourceOrg": "Uptown Faith Community Service Center",
+      "url": "https://www.firstuusandiego.org/uptown-community-service-center.html",
+      "schedulePattern": "Mon–Tue, Thu 9 AM–9:45 AM (canned grocery bags); Mon–Thu 11 AM–12 PM (fresh groceries)",
+      "start": "2026-09-21T09:00",
+      "end": "2026-09-21T09:45",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "sd-add-uptown-community-service-center-w1234-1100",
+      "seriesSlug": "sd-add-uptown-community-service-center",
+      "title": "Uptown Community Service Center — Free Food",
+      "description": "Free food at Uptown Community Service Center (Uptown Faith Community Service Center). Schedule: Mon–Tue, Thu 9 AM–9:45 AM (canned grocery bags); Mon–Thu 11 AM–12 PM (fresh groceries). Eligibility: Homeless and very-low-income; open to all in need. Call (619) 281-8411 to confirm before you go — hours change and supplies can run out. Source: community research, Sep 2026.",
+      "locationName": "Uptown Community Service Center",
+      "address": "3725 30th Street, San Diego, CA 92104",
+      "lat": 32.74588,
+      "lng": -117.129825,
+      "category": "food-assistance",
+      "sourceOrg": "Uptown Faith Community Service Center",
+      "url": "https://www.firstuusandiego.org/uptown-community-service-center.html",
+      "schedulePattern": "Mon–Tue, Thu 9 AM–9:45 AM (canned grocery bags); Mon–Thu 11 AM–12 PM (fresh groceries)",
+      "start": "2026-09-21T11:00",
+      "end": "2026-09-21T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "sd-add-icna-relief-san-diego-food-pantry-w4-1000",
+      "seriesSlug": "sd-add-icna-relief-san-diego-food-pantry",
+      "title": "ICNA Relief San Diego Food Pantry — Free Food",
+      "description": "Free food at ICNA Relief San Diego Food Pantry (ICNA Relief USA). Schedule: Thu 10 AM–2 PM (walk-up and by appointment). Eligibility: Open to all. Call (760) 889-2014 to confirm before you go — hours change and supplies can run out. Source: community research, Sep 2026.",
+      "locationName": "ICNA Relief San Diego Food Pantry",
+      "address": "7313 Carroll Road, San Diego, CA 92121",
+      "lat": 32.885362,
+      "lng": -117.164575,
+      "category": "food-assistance",
+      "sourceOrg": "ICNA Relief USA",
+      "url": "https://icnarelief.org/sandiego/",
+      "schedulePattern": "Thu 10 AM–2 PM (walk-up and by appointment)",
+      "start": "2026-09-21T10:00",
+      "end": "2026-09-21T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "sd-add-ucsd-triton-food-pantry-student-center-a-w1234-0900",
+      "seriesSlug": "sd-add-ucsd-triton-food-pantry-student-center-a",
+      "title": "UCSD Triton Food Pantry - Student Center A — Free Food",
+      "description": "Free food at UCSD Triton Food Pantry - Student Center A (UC San Diego). Schedule: Mon–Thu 9 AM–7 PM (academic term; hours vary by day). Eligibility: All registered UCSD students; once per week. Confirm hours before you go — supplies can run out. Source: community research, Sep 2026.",
+      "locationName": "UCSD Triton Food Pantry - Student Center A",
+      "address": "9500 Gilman Dr, La Jolla, CA 92093",
+      "lat": 32.877386,
+      "lng": -117.236035,
+      "category": "food-assistance",
+      "sourceOrg": "UC San Diego",
+      "url": "https://basicneeds.ucsd.edu/food-security/pantry/index.html",
+      "schedulePattern": "Mon–Thu 9 AM–7 PM (academic term; hours vary by day)",
+      "start": "2026-09-21T09:00",
+      "end": "2026-09-21T19:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "sd-add-ucsd-triton-food-pantry-graduate-housing-oms-w23456-0930",
+      "seriesSlug": "sd-add-ucsd-triton-food-pantry-graduate-housing-oms",
+      "title": "UCSD Triton Food Pantry - Graduate Housing (OMS) — Free Food",
+      "description": "Free food at UCSD Triton Food Pantry - Graduate Housing (OMS) (UC San Diego). Schedule: Tue–Sat 9:30 AM–6 PM (academic term; hours vary by day). Eligibility: All registered UCSD students; once per week. Confirm hours before you go — supplies can run out. Source: community research, Sep 2026.",
+      "locationName": "UCSD Triton Food Pantry - Graduate Housing (OMS)",
+      "address": "One Miramar Street, San Diego, CA 92092",
+      "lat": 32.8797,
+      "lng": -117.2339,
+      "category": "food-assistance",
+      "sourceOrg": "UC San Diego",
+      "url": "https://basicneeds.ucsd.edu/food-security/pantry/index.html",
+      "schedulePattern": "Tue–Sat 9:30 AM–6 PM (academic term; hours vary by day)",
+      "start": "2026-09-21T09:30",
+      "end": "2026-09-21T18:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,3,4,5,6"
+    },
+    {
+      "kind": "activity",
+      "slug": "sd-add-ucsd-triton-food-pantry-miller-family-pantry-mar-w1245-0930",
+      "seriesSlug": "sd-add-ucsd-triton-food-pantry-miller-family-pantry-mar",
+      "title": "UCSD Triton Food Pantry - Miller Family Pantry (Marshall) — Free Food",
+      "description": "Free food at UCSD Triton Food Pantry - Miller Family Pantry (Marshall) (UC San Diego). Schedule: Mon–Tue, Thu–Fri 9:30 AM–7 PM (academic term; hours vary by day). Eligibility: All registered UCSD students; once per week. Confirm hours before you go — supplies can run out. Source: community research, Sep 2026.",
+      "locationName": "UCSD Triton Food Pantry - Miller Family Pantry (Marshall)",
+      "address": "9500 Gilman Dr, La Jolla, CA 92093",
+      "lat": 32.877386,
+      "lng": -117.236035,
+      "category": "food-assistance",
+      "sourceOrg": "UC San Diego",
+      "url": "https://basicneeds.ucsd.edu/food-security/pantry/index.html",
+      "schedulePattern": "Mon–Tue, Thu–Fri 9:30 AM–7 PM (academic term; hours vary by day)",
+      "start": "2026-09-21T09:30",
+      "end": "2026-09-21T19:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "sd-add-sdsu-associated-students-food-pantry-w1-1000",
+      "seriesSlug": "sd-add-sdsu-associated-students-food-pantry",
+      "title": "SDSU Associated Students Food Pantry — Free Food",
+      "description": "Free food at SDSU Associated Students Food Pantry (San Diego State University). Schedule: Mon 10 AM–3 PM; Wed 12 PM–4 PM; Thu 1 PM–6 PM. Eligibility: SDSU students with RedID. Call (619) 594-4133 to confirm before you go — hours change and supplies can run out. Source: community research, Sep 2026.",
+      "locationName": "SDSU Associated Students Food Pantry",
+      "address": "5500 Campanile Dr, San Diego, CA 92182",
+      "lat": 32.773783,
+      "lng": -117.070043,
+      "category": "food-assistance",
+      "sourceOrg": "San Diego State University",
+      "url": "https://as.sdsu.edu/foodinsecurity/foodpantry/",
+      "schedulePattern": "Mon 10 AM–3 PM; Wed 12 PM–4 PM; Thu 1 PM–6 PM",
+      "start": "2026-09-21T10:00",
+      "end": "2026-09-21T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "sd-add-sdsu-associated-students-food-pantry-w3-1200",
+      "seriesSlug": "sd-add-sdsu-associated-students-food-pantry",
+      "title": "SDSU Associated Students Food Pantry — Free Food",
+      "description": "Free food at SDSU Associated Students Food Pantry (San Diego State University). Schedule: Mon 10 AM–3 PM; Wed 12 PM–4 PM; Thu 1 PM–6 PM. Eligibility: SDSU students with RedID. Call (619) 594-4133 to confirm before you go — hours change and supplies can run out. Source: community research, Sep 2026.",
+      "locationName": "SDSU Associated Students Food Pantry",
+      "address": "5500 Campanile Dr, San Diego, CA 92182",
+      "lat": 32.773783,
+      "lng": -117.070043,
+      "category": "food-assistance",
+      "sourceOrg": "San Diego State University",
+      "url": "https://as.sdsu.edu/foodinsecurity/foodpantry/",
+      "schedulePattern": "Mon 10 AM–3 PM; Wed 12 PM–4 PM; Thu 1 PM–6 PM",
+      "start": "2026-09-21T12:00",
+      "end": "2026-09-21T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "sd-add-sdsu-associated-students-food-pantry-w4-1300",
+      "seriesSlug": "sd-add-sdsu-associated-students-food-pantry",
+      "title": "SDSU Associated Students Food Pantry — Free Food",
+      "description": "Free food at SDSU Associated Students Food Pantry (San Diego State University). Schedule: Mon 10 AM–3 PM; Wed 12 PM–4 PM; Thu 1 PM–6 PM. Eligibility: SDSU students with RedID. Call (619) 594-4133 to confirm before you go — hours change and supplies can run out. Source: community research, Sep 2026.",
+      "locationName": "SDSU Associated Students Food Pantry",
+      "address": "5500 Campanile Dr, San Diego, CA 92182",
+      "lat": 32.773783,
+      "lng": -117.070043,
+      "category": "food-assistance",
+      "sourceOrg": "San Diego State University",
+      "url": "https://as.sdsu.edu/foodinsecurity/foodpantry/",
+      "schedulePattern": "Mon 10 AM–3 PM; Wed 12 PM–4 PM; Thu 1 PM–6 PM",
+      "start": "2026-09-21T13:00",
+      "end": "2026-09-21T18:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "sd-add-csusm-asi-cougar-pantry-w12-1000",
+      "seriesSlug": "sd-add-csusm-asi-cougar-pantry",
+      "title": "CSUSM ASI Cougar Pantry — Free Food",
+      "description": "Free food at CSUSM ASI Cougar Pantry (CSU San Marcos). Schedule: Mon–Tue 10 AM–6:30 PM (academic term); Wed–Thu 10 AM–5 PM (academic term). Eligibility: Currently enrolled CSUSM students; once per week. Confirm hours before you go — supplies can run out. Source: community research, Sep 2026.",
+      "locationName": "CSUSM ASI Cougar Pantry",
+      "address": "333 S Twin Oaks Valley Rd, San Marcos, CA 92096",
+      "lat": 33.128101,
+      "lng": -117.158524,
+      "category": "food-assistance",
+      "sourceOrg": "CSU San Marcos",
+      "url": "https://www.csusm.edu/asi/pantry/visit_the_pantry.html",
+      "schedulePattern": "Mon–Tue 10 AM–6:30 PM (academic term); Wed–Thu 10 AM–5 PM (academic term)",
+      "start": "2026-09-21T10:00",
+      "end": "2026-09-21T18:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2"
+    },
+    {
+      "kind": "activity",
+      "slug": "sd-add-csusm-asi-cougar-pantry-w34-1000",
+      "seriesSlug": "sd-add-csusm-asi-cougar-pantry",
+      "title": "CSUSM ASI Cougar Pantry — Free Food",
+      "description": "Free food at CSUSM ASI Cougar Pantry (CSU San Marcos). Schedule: Mon–Tue 10 AM–6:30 PM (academic term); Wed–Thu 10 AM–5 PM (academic term). Eligibility: Currently enrolled CSUSM students; once per week. Confirm hours before you go — supplies can run out. Source: community research, Sep 2026.",
+      "locationName": "CSUSM ASI Cougar Pantry",
+      "address": "333 S Twin Oaks Valley Rd, San Marcos, CA 92096",
+      "lat": 33.128101,
+      "lng": -117.158524,
+      "category": "food-assistance",
+      "sourceOrg": "CSU San Marcos",
+      "url": "https://www.csusm.edu/asi/pantry/visit_the_pantry.html",
+      "schedulePattern": "Mon–Tue 10 AM–6:30 PM (academic term); Wed–Thu 10 AM–5 PM (academic term)",
+      "start": "2026-09-21T10:00",
+      "end": "2026-09-21T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "sd-add-palomar-college-food-nutrition-center-w1234-0900",
+      "seriesSlug": "sd-add-palomar-college-food-nutrition-center",
+      "title": "Palomar College Food & Nutrition Center — Free Food",
+      "description": "Free food at Palomar College Food & Nutrition Center (Palomar College). Schedule: Mon–Thu 9 AM–3 PM (academic term). Eligibility: Enrolled students (current semester). Call (760) 744-1150 to confirm before you go — hours change and supplies can run out. Source: community research, Sep 2026.",
+      "locationName": "Palomar College Food & Nutrition Center",
+      "address": "1140 W Mission Rd, San Marcos, CA 92069",
+      "lat": 33.151184,
+      "lng": -117.182792,
+      "category": "food-assistance",
+      "sourceOrg": "Palomar College",
+      "url": "https://www.palomar.edu/basicneeds/food-nutrition-center/",
+      "schedulePattern": "Mon–Thu 9 AM–3 PM (academic term)",
+      "start": "2026-09-21T09:00",
+      "end": "2026-09-21T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "sd-add-miracosta-college-food-pantry-w1234-0800",
+      "seriesSlug": "sd-add-miracosta-college-food-pantry",
+      "title": "MiraCosta College Food Pantry — Free Food",
+      "description": "Free food at MiraCosta College Food Pantry (MiraCosta College). Schedule: Mon–Thu 8 AM–6 PM (academic term); Fri 8 AM–3 PM (academic term). Eligibility: Actively enrolled students; student ID at checkout. Call (760) 757-2121 to confirm before you go — hours change and supplies can run out. Source: community research, Sep 2026.",
+      "locationName": "MiraCosta College Food Pantry",
+      "address": "1 Barnard Dr, Oceanside, CA 92056",
+      "lat": 33.190405,
+      "lng": -117.302561,
+      "category": "food-assistance",
+      "sourceOrg": "MiraCosta College",
+      "url": "https://www.miracosta.edu/student-services/care/food-pantry.html",
+      "schedulePattern": "Mon–Thu 8 AM–6 PM (academic term); Fri 8 AM–3 PM (academic term)",
+      "start": "2026-09-21T08:00",
+      "end": "2026-09-21T18:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "sd-add-miracosta-college-food-pantry-w5-0800",
+      "seriesSlug": "sd-add-miracosta-college-food-pantry",
+      "title": "MiraCosta College Food Pantry — Free Food",
+      "description": "Free food at MiraCosta College Food Pantry (MiraCosta College). Schedule: Mon–Thu 8 AM–6 PM (academic term); Fri 8 AM–3 PM (academic term). Eligibility: Actively enrolled students; student ID at checkout. Call (760) 757-2121 to confirm before you go — hours change and supplies can run out. Source: community research, Sep 2026.",
+      "locationName": "MiraCosta College Food Pantry",
+      "address": "1 Barnard Dr, Oceanside, CA 92056",
+      "lat": 33.190405,
+      "lng": -117.302561,
+      "category": "food-assistance",
+      "sourceOrg": "MiraCosta College",
+      "url": "https://www.miracosta.edu/student-services/care/food-pantry.html",
+      "schedulePattern": "Mon–Thu 8 AM–6 PM (academic term); Fri 8 AM–3 PM (academic term)",
+      "start": "2026-09-21T08:00",
+      "end": "2026-09-21T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "sd-add-cuyamaca-cares-pack-pantry-w134-1000",
+      "seriesSlug": "sd-add-cuyamaca-cares-pack-pantry",
+      "title": "Cuyamaca Cares Pack Pantry — Free Food",
+      "description": "Free food at Cuyamaca Cares Pack Pantry (Cuyamaca College). Schedule: Mon, Wed–Thu 10 AM–5:30 PM (academic term); Fri 10 AM–1 PM (academic term). Eligibility: Currently enrolled students. Call (619) 660-4203 to confirm before you go — hours change and supplies can run out. Source: community research, Sep 2026.",
+      "locationName": "Cuyamaca Cares Pack Pantry",
+      "address": "900 Rancho San Diego Pkwy, El Cajon, CA 92019",
+      "lat": 32.745959,
+      "lng": -116.940739,
+      "category": "food-assistance",
+      "sourceOrg": "Cuyamaca College",
+      "url": "https://www.cuyamaca.edu/student-support/cuyamaca-cares/drive-through-pantry.php",
+      "schedulePattern": "Mon, Wed–Thu 10 AM–5:30 PM (academic term); Fri 10 AM–1 PM (academic term)",
+      "start": "2026-09-21T10:00",
+      "end": "2026-09-21T17:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "sd-add-cuyamaca-cares-pack-pantry-w5-1000",
+      "seriesSlug": "sd-add-cuyamaca-cares-pack-pantry",
+      "title": "Cuyamaca Cares Pack Pantry — Free Food",
+      "description": "Free food at Cuyamaca Cares Pack Pantry (Cuyamaca College). Schedule: Mon, Wed–Thu 10 AM–5:30 PM (academic term); Fri 10 AM–1 PM (academic term). Eligibility: Currently enrolled students. Call (619) 660-4203 to confirm before you go — hours change and supplies can run out. Source: community research, Sep 2026.",
+      "locationName": "Cuyamaca Cares Pack Pantry",
+      "address": "900 Rancho San Diego Pkwy, El Cajon, CA 92019",
+      "lat": 32.745959,
+      "lng": -116.940739,
+      "category": "food-assistance",
+      "sourceOrg": "Cuyamaca College",
+      "url": "https://www.cuyamaca.edu/student-support/cuyamaca-cares/drive-through-pantry.php",
+      "schedulePattern": "Mon, Wed–Thu 10 AM–5:30 PM (academic term); Fri 10 AM–1 PM (academic term)",
+      "start": "2026-09-21T10:00",
+      "end": "2026-09-21T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "sd-add-san-diego-city-college-knights-table-food-pantry-w1-1000",
+      "seriesSlug": "sd-add-san-diego-city-college-knights-table-food-pantry",
+      "title": "San Diego City College Knights' Table Food Pantry — Free Food",
+      "description": "Free food at San Diego City College Knights' Table Food Pantry (San Diego City College). Schedule: Mon 10 AM–1 PM; Tue 12 PM–3 PM; Wed 10 AM–12:30 PM; Thu 12 PM–4 PM. Eligibility: Currently enrolled students. Call (619) 388-3684 to confirm before you go — hours change and supplies can run out. Source: community research, Sep 2026.",
+      "locationName": "San Diego City College Knights' Table Food Pantry",
+      "address": "1313 Park Blvd, San Diego, CA 92101",
+      "lat": 32.71887,
+      "lng": -117.151661,
+      "category": "food-assistance",
+      "sourceOrg": "San Diego City College",
+      "url": "https://www.sdcity.edu/students/services/basic-needs/foodpantry.aspx",
+      "schedulePattern": "Mon 10 AM–1 PM; Tue 12 PM–3 PM; Wed 10 AM–12:30 PM; Thu 12 PM–4 PM",
+      "start": "2026-09-21T10:00",
+      "end": "2026-09-21T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "sd-add-san-diego-city-college-knights-table-food-pantry-w2-1200",
+      "seriesSlug": "sd-add-san-diego-city-college-knights-table-food-pantry",
+      "title": "San Diego City College Knights' Table Food Pantry — Free Food",
+      "description": "Free food at San Diego City College Knights' Table Food Pantry (San Diego City College). Schedule: Mon 10 AM–1 PM; Tue 12 PM–3 PM; Wed 10 AM–12:30 PM; Thu 12 PM–4 PM. Eligibility: Currently enrolled students. Call (619) 388-3684 to confirm before you go — hours change and supplies can run out. Source: community research, Sep 2026.",
+      "locationName": "San Diego City College Knights' Table Food Pantry",
+      "address": "1313 Park Blvd, San Diego, CA 92101",
+      "lat": 32.71887,
+      "lng": -117.151661,
+      "category": "food-assistance",
+      "sourceOrg": "San Diego City College",
+      "url": "https://www.sdcity.edu/students/services/basic-needs/foodpantry.aspx",
+      "schedulePattern": "Mon 10 AM–1 PM; Tue 12 PM–3 PM; Wed 10 AM–12:30 PM; Thu 12 PM–4 PM",
+      "start": "2026-09-21T12:00",
+      "end": "2026-09-21T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "sd-add-san-diego-city-college-knights-table-food-pantry-w3-1000",
+      "seriesSlug": "sd-add-san-diego-city-college-knights-table-food-pantry",
+      "title": "San Diego City College Knights' Table Food Pantry — Free Food",
+      "description": "Free food at San Diego City College Knights' Table Food Pantry (San Diego City College). Schedule: Mon 10 AM–1 PM; Tue 12 PM–3 PM; Wed 10 AM–12:30 PM; Thu 12 PM–4 PM. Eligibility: Currently enrolled students. Call (619) 388-3684 to confirm before you go — hours change and supplies can run out. Source: community research, Sep 2026.",
+      "locationName": "San Diego City College Knights' Table Food Pantry",
+      "address": "1313 Park Blvd, San Diego, CA 92101",
+      "lat": 32.71887,
+      "lng": -117.151661,
+      "category": "food-assistance",
+      "sourceOrg": "San Diego City College",
+      "url": "https://www.sdcity.edu/students/services/basic-needs/foodpantry.aspx",
+      "schedulePattern": "Mon 10 AM–1 PM; Tue 12 PM–3 PM; Wed 10 AM–12:30 PM; Thu 12 PM–4 PM",
+      "start": "2026-09-21T10:00",
+      "end": "2026-09-21T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "sd-add-san-diego-city-college-knights-table-food-pantry-w4-1200",
+      "seriesSlug": "sd-add-san-diego-city-college-knights-table-food-pantry",
+      "title": "San Diego City College Knights' Table Food Pantry — Free Food",
+      "description": "Free food at San Diego City College Knights' Table Food Pantry (San Diego City College). Schedule: Mon 10 AM–1 PM; Tue 12 PM–3 PM; Wed 10 AM–12:30 PM; Thu 12 PM–4 PM. Eligibility: Currently enrolled students. Call (619) 388-3684 to confirm before you go — hours change and supplies can run out. Source: community research, Sep 2026.",
+      "locationName": "San Diego City College Knights' Table Food Pantry",
+      "address": "1313 Park Blvd, San Diego, CA 92101",
+      "lat": 32.71887,
+      "lng": -117.151661,
+      "category": "food-assistance",
+      "sourceOrg": "San Diego City College",
+      "url": "https://www.sdcity.edu/students/services/basic-needs/foodpantry.aspx",
+      "schedulePattern": "Mon 10 AM–1 PM; Tue 12 PM–3 PM; Wed 10 AM–12:30 PM; Thu 12 PM–4 PM",
+      "start": "2026-09-21T12:00",
+      "end": "2026-09-21T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "sd-add-gary-and-mary-west-senior-wellness-center-w12345-0700",
+      "seriesSlug": "sd-add-gary-and-mary-west-senior-wellness-center",
+      "title": "Gary and Mary West Senior Wellness Center — Free Food",
+      "description": "Free food at Gary and Mary West Senior Wellness Center (Serving Seniors). Schedule: Mon–Fri 7 AM–8 AM (breakfast); Mon–Fri 11 AM–1:15 PM (lunch seatings); Sat–Sun 8 AM–12:15 PM (weekend breakfast & lunch). Eligibility: Adults 60+ (no cost). Call (619) 235-6572 to confirm before you go — hours change and supplies can run out. Source: community research, Sep 2026.",
+      "locationName": "Gary and Mary West Senior Wellness Center",
+      "address": "1525 4th Ave, San Diego, CA 92101",
+      "lat": 32.721654,
+      "lng": -117.160964,
+      "category": "food-assistance",
+      "sourceOrg": "Serving Seniors",
+      "url": "https://servingseniors.org/what-we-do/programs-services/congregate-dining.html",
+      "schedulePattern": "Mon–Fri 7 AM–8 AM (breakfast); Mon–Fri 11 AM–1:15 PM (lunch seatings); Sat–Sun 8 AM–12:15 PM (weekend breakfast & lunch)",
+      "start": "2026-09-21T07:00",
+      "end": "2026-09-21T08:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "sd-add-gary-and-mary-west-senior-wellness-center-w12345-1100",
+      "seriesSlug": "sd-add-gary-and-mary-west-senior-wellness-center",
+      "title": "Gary and Mary West Senior Wellness Center — Free Food",
+      "description": "Free food at Gary and Mary West Senior Wellness Center (Serving Seniors). Schedule: Mon–Fri 7 AM–8 AM (breakfast); Mon–Fri 11 AM–1:15 PM (lunch seatings); Sat–Sun 8 AM–12:15 PM (weekend breakfast & lunch). Eligibility: Adults 60+ (no cost). Call (619) 235-6572 to confirm before you go — hours change and supplies can run out. Source: community research, Sep 2026.",
+      "locationName": "Gary and Mary West Senior Wellness Center",
+      "address": "1525 4th Ave, San Diego, CA 92101",
+      "lat": 32.721654,
+      "lng": -117.160964,
+      "category": "food-assistance",
+      "sourceOrg": "Serving Seniors",
+      "url": "https://servingseniors.org/what-we-do/programs-services/congregate-dining.html",
+      "schedulePattern": "Mon–Fri 7 AM–8 AM (breakfast); Mon–Fri 11 AM–1:15 PM (lunch seatings); Sat–Sun 8 AM–12:15 PM (weekend breakfast & lunch)",
+      "start": "2026-09-21T11:00",
+      "end": "2026-09-21T13:15",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "sd-add-gary-and-mary-west-senior-wellness-center-w67-0800",
+      "seriesSlug": "sd-add-gary-and-mary-west-senior-wellness-center",
+      "title": "Gary and Mary West Senior Wellness Center — Free Food",
+      "description": "Free food at Gary and Mary West Senior Wellness Center (Serving Seniors). Schedule: Mon–Fri 7 AM–8 AM (breakfast); Mon–Fri 11 AM–1:15 PM (lunch seatings); Sat–Sun 8 AM–12:15 PM (weekend breakfast & lunch). Eligibility: Adults 60+ (no cost). Call (619) 235-6572 to confirm before you go — hours change and supplies can run out. Source: community research, Sep 2026.",
+      "locationName": "Gary and Mary West Senior Wellness Center",
+      "address": "1525 4th Ave, San Diego, CA 92101",
+      "lat": 32.721654,
+      "lng": -117.160964,
+      "category": "food-assistance",
+      "sourceOrg": "Serving Seniors",
+      "url": "https://servingseniors.org/what-we-do/programs-services/congregate-dining.html",
+      "schedulePattern": "Mon–Fri 7 AM–8 AM (breakfast); Mon–Fri 11 AM–1:15 PM (lunch seatings); Sat–Sun 8 AM–12:15 PM (weekend breakfast & lunch)",
+      "start": "2026-09-21T08:00",
+      "end": "2026-09-21T12:15",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6,7"
+    },
+    {
+      "kind": "activity",
+      "slug": "sd-add-potiker-family-senior-residence-w12345-0700",
+      "seriesSlug": "sd-add-potiker-family-senior-residence",
+      "title": "Potiker Family Senior Residence — Free Food",
+      "description": "Free food at Potiker Family Senior Residence (Serving Seniors). Schedule: Mon–Fri from 7 AM (breakfast); Mon–Fri from 12 PM (lunch). Eligibility: Adults 60+ (no cost). Call (619) 235-6572 to confirm before you go — hours change and supplies can run out. Source: community research, Sep 2026.",
+      "locationName": "Potiker Family Senior Residence",
+      "address": "525 14th St, San Diego, CA 92101",
+      "lat": 32.710915,
+      "lng": -117.151666,
+      "category": "food-assistance",
+      "sourceOrg": "Serving Seniors",
+      "url": "https://servingseniors.org/what-we-do/programs-services/congregate-dining.html",
+      "schedulePattern": "Mon–Fri from 7 AM (breakfast); Mon–Fri from 12 PM (lunch)",
+      "start": "2026-09-21T07:00",
+      "end": null,
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "sd-add-potiker-family-senior-residence-w12345-1200",
+      "seriesSlug": "sd-add-potiker-family-senior-residence",
+      "title": "Potiker Family Senior Residence — Free Food",
+      "description": "Free food at Potiker Family Senior Residence (Serving Seniors). Schedule: Mon–Fri from 7 AM (breakfast); Mon–Fri from 12 PM (lunch). Eligibility: Adults 60+ (no cost). Call (619) 235-6572 to confirm before you go — hours change and supplies can run out. Source: community research, Sep 2026.",
+      "locationName": "Potiker Family Senior Residence",
+      "address": "525 14th St, San Diego, CA 92101",
+      "lat": 32.710915,
+      "lng": -117.151666,
+      "category": "food-assistance",
+      "sourceOrg": "Serving Seniors",
+      "url": "https://servingseniors.org/what-we-do/programs-services/congregate-dining.html",
+      "schedulePattern": "Mon–Fri from 7 AM (breakfast); Mon–Fri from 12 PM (lunch)",
+      "start": "2026-09-21T12:00",
+      "end": null,
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "sd-add-park-de-la-cruz-community-center-senior-dining-w12345-1200",
+      "seriesSlug": "sd-add-park-de-la-cruz-community-center-senior-dining",
+      "title": "Park de la Cruz Community Center Senior Dining — Free Food",
+      "description": "Free food at Park de la Cruz Community Center Senior Dining (Serving Seniors). Schedule: Mon–Fri from 12 PM (lunch). Eligibility: Adults 60+ (no cost). Call (619) 235-6572 to confirm before you go — hours change and supplies can run out. Source: community research, Sep 2026.",
+      "locationName": "Park de la Cruz Community Center Senior Dining",
+      "address": "3901 Landis St, San Diego, CA 92105",
+      "lat": 32.745749,
+      "lng": -117.110337,
+      "category": "food-assistance",
+      "sourceOrg": "Serving Seniors",
+      "url": "https://servingseniors.org/what-we-do/programs-services/congregate-dining.html",
+      "schedulePattern": "Mon–Fri from 12 PM (lunch)",
+      "start": "2026-09-21T12:00",
+      "end": null,
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "sd-add-bay-terraces-community-senior-center-dining-w12345-1230",
+      "seriesSlug": "sd-add-bay-terraces-community-senior-center-dining",
+      "title": "Bay Terraces Community & Senior Center Dining — Free Food",
+      "description": "Free food at Bay Terraces Community & Senior Center Dining (Serving Seniors). Schedule: Mon–Fri 12:30 PM–1:30 PM (lunch). Eligibility: Adults 60+ (no cost). Call (619) 235-6572 to confirm before you go — hours change and supplies can run out. Source: community research, Sep 2026.",
+      "locationName": "Bay Terraces Community & Senior Center Dining",
+      "address": "7445 Tooma St, San Diego, CA 92139",
+      "lat": 32.680825,
+      "lng": -117.035575,
+      "category": "food-assistance",
+      "sourceOrg": "Serving Seniors",
+      "url": "https://servingseniors.org/what-we-do/programs-services/congregate-dining.html",
+      "schedulePattern": "Mon–Fri 12:30 PM–1:30 PM (lunch)",
+      "start": "2026-09-21T12:30",
+      "end": "2026-09-21T13:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "sd-add-imperial-beach-senior-citizens-center-dining-w12345-1200",
+      "seriesSlug": "sd-add-imperial-beach-senior-citizens-center-dining",
+      "title": "Imperial Beach Senior Citizens Center Dining — Free Food",
+      "description": "Free food at Imperial Beach Senior Citizens Center Dining (Serving Seniors). Schedule: Mon–Fri from 12 PM (lunch). Eligibility: Adults 60+ (no cost). Call (619) 235-6572 to confirm before you go — hours change and supplies can run out. Source: community research, Sep 2026.",
+      "locationName": "Imperial Beach Senior Citizens Center Dining",
+      "address": "1075 Eighth St, Imperial Beach, CA 91932",
+      "lat": 32.577887,
+      "lng": -117.116097,
+      "category": "food-assistance",
+      "sourceOrg": "Serving Seniors",
+      "url": "https://servingseniors.org/what-we-do/programs-services/congregate-dining.html",
+      "schedulePattern": "Mon–Fri from 12 PM (lunch)",
+      "start": "2026-09-21T12:00",
+      "end": null,
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "sd-add-city-of-la-mesa-adult-enrichment-center-dining-w12345-1130",
+      "seriesSlug": "sd-add-city-of-la-mesa-adult-enrichment-center-dining",
+      "title": "City of La Mesa Adult Enrichment Center Dining — Free Food",
+      "description": "Free food at City of La Mesa Adult Enrichment Center Dining (Serving Seniors). Schedule: Mon–Fri from 11:30 AM (lunch). Eligibility: Adults 60+ (no cost). Call (619) 235-6572 to confirm before you go — hours change and supplies can run out. Source: community research, Sep 2026.",
+      "locationName": "City of La Mesa Adult Enrichment Center Dining",
+      "address": "8450 La Mesa Blvd, La Mesa, CA 91942",
+      "lat": 32.767833,
+      "lng": -117.015923,
+      "category": "food-assistance",
+      "sourceOrg": "Serving Seniors",
+      "url": "https://servingseniors.org/what-we-do/programs-services/congregate-dining.html",
+      "schedulePattern": "Mon–Fri from 11:30 AM (lunch)",
+      "start": "2026-09-21T11:30",
+      "end": null,
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "sd-add-neighborhood-house-senior-center-dining-w12345-0830",
+      "seriesSlug": "sd-add-neighborhood-house-senior-center-dining",
+      "title": "Neighborhood House Senior Center Dining — Free Food",
+      "description": "Free food at Neighborhood House Senior Center Dining (Neighborhood House Association). Schedule: Mon–Fri 8:30 AM–9:30 AM (breakfast); Mon–Fri 12 PM–1 PM (lunch). Eligibility: Adults 60+ (donation suggested). Call (619) 278-0771 to confirm before you go — hours change and supplies can run out. Source: community research, Sep 2026.",
+      "locationName": "Neighborhood House Senior Center Dining",
+      "address": "795 South Boundary St, San Diego, CA 92113",
+      "lat": 32.699108,
+      "lng": -117.105602,
+      "category": "food-assistance",
+      "sourceOrg": "Neighborhood House Association",
+      "url": "https://www.neighborhoodhouse.org/nha-programs/",
+      "schedulePattern": "Mon–Fri 8:30 AM–9:30 AM (breakfast); Mon–Fri 12 PM–1 PM (lunch)",
+      "start": "2026-09-21T08:30",
+      "end": "2026-09-21T09:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "sd-add-neighborhood-house-senior-center-dining-w12345-1200",
+      "seriesSlug": "sd-add-neighborhood-house-senior-center-dining",
+      "title": "Neighborhood House Senior Center Dining — Free Food",
+      "description": "Free food at Neighborhood House Senior Center Dining (Neighborhood House Association). Schedule: Mon–Fri 8:30 AM–9:30 AM (breakfast); Mon–Fri 12 PM–1 PM (lunch). Eligibility: Adults 60+ (donation suggested). Call (619) 278-0771 to confirm before you go — hours change and supplies can run out. Source: community research, Sep 2026.",
+      "locationName": "Neighborhood House Senior Center Dining",
+      "address": "795 South Boundary St, San Diego, CA 92113",
+      "lat": 32.699108,
+      "lng": -117.105602,
+      "category": "food-assistance",
+      "sourceOrg": "Neighborhood House Association",
+      "url": "https://www.neighborhoodhouse.org/nha-programs/",
+      "schedulePattern": "Mon–Fri 8:30 AM–9:30 AM (breakfast); Mon–Fri 12 PM–1 PM (lunch)",
+      "start": "2026-09-21T12:00",
+      "end": "2026-09-21T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "sd-add-bayside-community-center-senior-dining-w12345-1130",
+      "seriesSlug": "sd-add-bayside-community-center-senior-dining",
+      "title": "Bayside Community Center Senior Dining — Free Food",
+      "description": "Free food at Bayside Community Center Senior Dining (Neighborhood House Association). Schedule: Mon–Fri 11:30 AM–12:30 PM (lunch). Eligibility: Adults 60+ (donation suggested). Call (619) 263-2108 to confirm before you go — hours change and supplies can run out. Source: community research, Sep 2026.",
+      "locationName": "Bayside Community Center Senior Dining",
+      "address": "6882 Linda Vista Rd, San Diego, CA 92111",
+      "lat": 32.782965,
+      "lng": -117.172204,
+      "category": "food-assistance",
+      "sourceOrg": "Neighborhood House Association",
+      "url": "https://www.neighborhoodhouse.org/nha-programs/",
+      "schedulePattern": "Mon–Fri 11:30 AM–12:30 PM (lunch)",
+      "start": "2026-09-21T11:30",
+      "end": "2026-09-21T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "sd-add-mickey-cafagna-community-center-meal-program-w12345-1100",
+      "seriesSlug": "sd-add-mickey-cafagna-community-center-meal-program",
+      "title": "Mickey Cafagna Community Center Meal Program — Free Food",
+      "description": "Free food at Mickey Cafagna Community Center Meal Program (City of Poway Senior Services). Schedule: Mon–Fri 11 AM–12:30 PM (lunch; meal ticket required). Eligibility: Adults 60+ ($5; dine-in, meal ticket required). Call (858) 668-4671 to confirm before you go — hours change and supplies can run out. Source: community research, Sep 2026.",
+      "locationName": "Mickey Cafagna Community Center Meal Program",
+      "address": "13094 Civic Center Dr, Poway, CA 92064",
+      "lat": 32.953654,
+      "lng": -117.047867,
+      "category": "food-assistance",
+      "sourceOrg": "City of Poway Senior Services",
+      "url": "https://poway.org/1073/Meal-Program",
+      "schedulePattern": "Mon–Fri 11 AM–12:30 PM (lunch; meal ticket required)",
+      "start": "2026-09-21T11:00",
+      "end": "2026-09-21T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "sd-add-george-h-waters-nutrition-center-w12345-1100",
+      "seriesSlug": "sd-add-george-h-waters-nutrition-center",
+      "title": "George H. Waters Nutrition Center — Free Food",
+      "description": "Free food at George H. Waters Nutrition Center (City of National City Senior Nutrition Program). Schedule: Mon–Fri 11 AM–12:30 PM (lunch). Eligibility: Adults 60+ (donation suggested). Call (619) 336-6752 to confirm before you go — hours change and supplies can run out. Source: community research, Sep 2026.",
+      "locationName": "George H. Waters Nutrition Center",
+      "address": "1415 D Ave, National City, CA 91950",
+      "lat": 32.671576,
+      "lng": -117.100223,
+      "category": "food-assistance",
+      "sourceOrg": "City of National City Senior Nutrition Program",
+      "url": "https://www.nationalcityca.gov/government/community-services/senior-services",
+      "schedulePattern": "Mon–Fri 11 AM–12:30 PM (lunch)",
+      "start": "2026-09-21T11:00",
+      "end": "2026-09-21T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    }
+  ]
+}
+

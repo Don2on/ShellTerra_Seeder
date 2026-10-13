@@ -1,0 +1,552 @@
+{
+  "_comment": "Point Loma / Ocean Beach / Midway (92106, 92107, 92110) free food providers from Feeding San Diego's Find Food map, San Diego Food Bank 2026 rosters/calendars, and each org's own website/social. Events generated 2026-09-28 to 2026-12-31 from published schedules plus dated events posted by orgs.",
+  "_shell": "FoodDistributionPointLoma",
+  "_shellId": "REPLACE_WITH_POINTLOMA_SHELL_ID",
+  "_collection": "vendors",
+  "_source": "feedingsandiego.org/find-food (Sep 2026) + sandiegofoodbank.org 2026 calendars + org websites/social",
+  "_verify_before_running": "Set _shellId. lat/lng null: geocode before seeding. Review _verifyNotes.",
+  "_excluded": [
+    "Loma Shares (Point Loma Nazarene University food pantry): PLNU students only.",
+    "USD Food Pantry (University of San Diego): USD students only; application form required."
+  ],
+  "_eventCount": 69,
+  "vendors": [
+    {
+      "slug": "loaves-and-fishes-food-pantry-ocean-beach",
+      "name": "Loaves and Fishes Food Pantry (Ocean Beach Emergency Food, Inc.)",
+      "category": "Food Assistance",
+      "tagline": "Every Mon, 9:30 AM - 12 PM",
+      "description": "Free food (Weekly food pantry (groceries)). Schedule: Loaves & Fishes Food Pantry: Every Mon, 9:30 AM - 12 PM. Eligibility: Serves the Peninsula area (ZIPs 92106, 92107, 92110); ID requested if available (per foodpantries.org). Official site open every Monday incl. holidays.. Call ahead to confirm - distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://sdloavesfishes.org/",
+      "phone": "(619) 222-0628",
+      "email": "",
+      "instagram": "https://www.instagram.com/sd_loavesandfishes/",
+      "facebook": "https://www.facebook.com/SDLoavesFishes/",
+      "tiktok": "",
+      "address": "1984 Sunset Cliffs Blvd, San Diego, CA 92107",
+      "lat": null,
+      "lng": null,
+      "neighborhood": "Ocean Beach",
+      "hours": "Every Mon, 9:30 AM - 12 PM (Loaves & Fishes Food Pantry)",
+      "featured": false,
+      "verified": false,
+      "_verifyNotes": "Official site: distribution every Monday incl. holidays 9:30 AM-12:00 PM; donations Mon 9-12 and Wed 9-10:30. foodpantries.org lists older Mon/Wed/Fri 10 AM-12 PM hours (treated as outdated). Phone from foodpantries.org and OB Rag (Nov 2025), not on official site. Building is the former OB/Point Loma United Methodist church at Saratoga Ave & Sunset Cliffs, which the Methodists moved to sell in 2023; June 2026 newsletter refers to the site as 'OB Joyful' and confirms Monday distributions. Their Oct 22 wine tasting fundraiser at All Souls' is not a food distribution, so it is omitted. Also on Feeding San Diego map as Ocean Beach Emergency Food Inc., Mon 9:30 AM-12 PM (matches).",
+      "events": [
+        {
+          "date": "2026-09-28",
+          "time": "09:30",
+          "title": "Loaves and Fishes Food Pantry (Ocean Beach Emergency Food, Inc.) - Loaves & Fishes Food Pantry"
+        },
+        {
+          "date": "2026-10-05",
+          "time": "09:30",
+          "title": "Loaves and Fishes Food Pantry (Ocean Beach Emergency Food, Inc.) - Loaves & Fishes Food Pantry"
+        },
+        {
+          "date": "2026-10-12",
+          "time": "09:30",
+          "title": "Loaves and Fishes Food Pantry (Ocean Beach Emergency Food, Inc.) - Loaves & Fishes Food Pantry"
+        },
+        {
+          "date": "2026-10-19",
+          "time": "09:30",
+          "title": "Loaves and Fishes Food Pantry (Ocean Beach Emergency Food, Inc.) - Loaves & Fishes Food Pantry"
+        },
+        {
+          "date": "2026-10-26",
+          "time": "09:30",
+          "title": "Loaves and Fishes Food Pantry (Ocean Beach Emergency Food, Inc.) - Loaves & Fishes Food Pantry"
+        },
+        {
+          "date": "2026-11-02",
+          "time": "09:30",
+          "title": "Loaves and Fishes Food Pantry (Ocean Beach Emergency Food, Inc.) - Loaves & Fishes Food Pantry"
+        },
+        {
+          "date": "2026-11-09",
+          "time": "09:30",
+          "title": "Loaves and Fishes Food Pantry (Ocean Beach Emergency Food, Inc.) - Loaves & Fishes Food Pantry"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "09:30",
+          "title": "Loaves and Fishes Food Pantry (Ocean Beach Emergency Food, Inc.) - Loaves & Fishes Food Pantry"
+        },
+        {
+          "date": "2026-11-23",
+          "time": "09:30",
+          "title": "Loaves and Fishes Food Pantry (Ocean Beach Emergency Food, Inc.) - Loaves & Fishes Food Pantry"
+        },
+        {
+          "date": "2026-11-30",
+          "time": "09:30",
+          "title": "Loaves and Fishes Food Pantry (Ocean Beach Emergency Food, Inc.) - Loaves & Fishes Food Pantry"
+        },
+        {
+          "date": "2026-12-07",
+          "time": "09:30",
+          "title": "Loaves and Fishes Food Pantry (Ocean Beach Emergency Food, Inc.) - Loaves & Fishes Food Pantry"
+        },
+        {
+          "date": "2026-12-14",
+          "time": "09:30",
+          "title": "Loaves and Fishes Food Pantry (Ocean Beach Emergency Food, Inc.) - Loaves & Fishes Food Pantry"
+        },
+        {
+          "date": "2026-12-21",
+          "time": "09:30",
+          "title": "Loaves and Fishes Food Pantry (Ocean Beach Emergency Food, Inc.) - Loaves & Fishes Food Pantry"
+        },
+        {
+          "date": "2026-12-28",
+          "time": "09:30",
+          "title": "Loaves and Fishes Food Pantry (Ocean Beach Emergency Food, Inc.) - Loaves & Fishes Food Pantry"
+        }
+      ]
+    },
+    {
+      "slug": "sacred-heart-church-of-ocean-beach-ocean-beach",
+      "name": "Sacred Heart Church of Ocean Beach",
+      "category": "Food Assistance",
+      "tagline": "2nd & 4th Tuesday monthly, 6 PM · Every Mon, Tue, Wed, Thu, Fri, 8:30 AM - 4 PM",
+      "description": "Free food (Community Dinner and Pantry (Feeding the Hungry Ministry)). Schedule: Community Dinner: 2nd & 4th Tuesday monthly, 6 PM; Nonperishable Food Pantry (parish office): Every Mon, Tue, Wed, Thu, Fri, 8:30 AM - 4 PM. Eligibility: Anyone in need; no restrictions stated.. Call ahead to confirm - distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://sacredheartob.org/community-dinner/",
+      "phone": "(619) 224-2746",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "4776 Saratoga Ave, San Diego, CA 92107",
+      "lat": null,
+      "lng": null,
+      "neighborhood": "Ocean Beach",
+      "hours": "2nd & 4th Tuesday monthly, 6 PM (Community Dinner); Every Mon, Tue, Wed, Thu, Fri, 8:30 AM - 4 PM (Nonperishable Food Pantry (parish office))",
+      "featured": false,
+      "verified": false,
+      "_verifyNotes": "Dinner served in the parish hall at 6:00 PM; no end time stated (one 2022 event ran 5-7 PM). Pages are undated; parish says to confirm dates on the parish calendar or by phone. Bagged-food pantry available during parish office hours. An old SDCCD list (Dec 2016) said 'every other Tuesday, 5 PM'. Could not read sacredheartob.org/loaves-and-fishes/ (fetch was rate limited). No social links found.",
+      "events": [
+        {
+          "date": "2026-10-13",
+          "time": "18:00",
+          "title": "Sacred Heart Church of Ocean Beach - Community Dinner"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "18:00",
+          "title": "Sacred Heart Church of Ocean Beach - Community Dinner"
+        },
+        {
+          "date": "2026-11-10",
+          "time": "18:00",
+          "title": "Sacred Heart Church of Ocean Beach - Community Dinner"
+        },
+        {
+          "date": "2026-11-24",
+          "time": "18:00",
+          "title": "Sacred Heart Church of Ocean Beach - Community Dinner"
+        },
+        {
+          "date": "2026-12-08",
+          "time": "18:00",
+          "title": "Sacred Heart Church of Ocean Beach - Community Dinner"
+        },
+        {
+          "date": "2026-12-22",
+          "time": "18:00",
+          "title": "Sacred Heart Church of Ocean Beach - Community Dinner"
+        }
+      ]
+    },
+    {
+      "slug": "episcopal-church-center-ocean-beach",
+      "name": "Episcopal Church Center (OB Church Center) / The Alley Ministry",
+      "category": "Food Assistance",
+      "tagline": "Every Wed, 6 PM - 7 PM · 2nd & 4th Saturday monthly, 8:30 AM - 10 AM",
+      "description": "Free food (Wednesday community dinner; 2nd and 4th Saturday breakfast). Schedule: Wednesday Community Dinner: Every Wed, 6 PM - 7 PM; Saturday Breakfast: 2nd & 4th Saturday monthly, 8:30 AM - 10 AM. Eligibility: People in need of a hot meal, including homeless and low-income; no restrictions stated.. Call ahead to confirm - distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://edsd.org/episcopal-church-center/",
+      "phone": "(619) 291-5947",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "2083 Sunset Cliffs Blvd, San Diego, CA 92107",
+      "lat": null,
+      "lng": null,
+      "neighborhood": "Ocean Beach",
+      "hours": "Every Wed, 6 PM - 7 PM (Wednesday Community Dinner); 2nd & 4th Saturday monthly, 8:30 AM - 10 AM (Saturday Breakfast)",
+      "featured": false,
+      "verified": false,
+      "_verifyNotes": "Diocese page: Wednesday dinners at 6 PM, running 20+ years; contact Jeff Green, jgreen@edsd.org. The Alley Ministry (thealleyministry.org) serves the Wednesday meal here 6-7 PM and runs showers plus breakfast on 2nd/4th Saturdays. All Souls' page says it cooks 'one Wednesday evening per month', meaning parishes rotate the cooking; the meal itself is weekly. The Alley's every-other-Saturday bag distribution is delivered downtown, not at this site. Also Showers of Blessings and a Street Dog Coalition vet clinic on the 4th Saturday. The SDCCD list (Dec 2016) said 'Fridays 9 AM', now likely outdated.",
+      "events": [
+        {
+          "date": "2026-09-30",
+          "time": "18:00",
+          "title": "Episcopal Church Center (OB Church Center) / The Alley Ministry - Wednesday Community Dinner"
+        },
+        {
+          "date": "2026-10-07",
+          "time": "18:00",
+          "title": "Episcopal Church Center (OB Church Center) / The Alley Ministry - Wednesday Community Dinner"
+        },
+        {
+          "date": "2026-10-10",
+          "time": "08:30",
+          "title": "Episcopal Church Center (OB Church Center) / The Alley Ministry - Saturday Breakfast"
+        },
+        {
+          "date": "2026-10-14",
+          "time": "18:00",
+          "title": "Episcopal Church Center (OB Church Center) / The Alley Ministry - Wednesday Community Dinner"
+        },
+        {
+          "date": "2026-10-21",
+          "time": "18:00",
+          "title": "Episcopal Church Center (OB Church Center) / The Alley Ministry - Wednesday Community Dinner"
+        },
+        {
+          "date": "2026-10-24",
+          "time": "08:30",
+          "title": "Episcopal Church Center (OB Church Center) / The Alley Ministry - Saturday Breakfast"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "18:00",
+          "title": "Episcopal Church Center (OB Church Center) / The Alley Ministry - Wednesday Community Dinner"
+        },
+        {
+          "date": "2026-11-04",
+          "time": "18:00",
+          "title": "Episcopal Church Center (OB Church Center) / The Alley Ministry - Wednesday Community Dinner"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "18:00",
+          "title": "Episcopal Church Center (OB Church Center) / The Alley Ministry - Wednesday Community Dinner"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "08:30",
+          "title": "Episcopal Church Center (OB Church Center) / The Alley Ministry - Saturday Breakfast"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "18:00",
+          "title": "Episcopal Church Center (OB Church Center) / The Alley Ministry - Wednesday Community Dinner"
+        },
+        {
+          "date": "2026-11-25",
+          "time": "18:00",
+          "title": "Episcopal Church Center (OB Church Center) / The Alley Ministry - Wednesday Community Dinner"
+        },
+        {
+          "date": "2026-11-28",
+          "time": "08:30",
+          "title": "Episcopal Church Center (OB Church Center) / The Alley Ministry - Saturday Breakfast"
+        },
+        {
+          "date": "2026-12-02",
+          "time": "18:00",
+          "title": "Episcopal Church Center (OB Church Center) / The Alley Ministry - Wednesday Community Dinner"
+        },
+        {
+          "date": "2026-12-09",
+          "time": "18:00",
+          "title": "Episcopal Church Center (OB Church Center) / The Alley Ministry - Wednesday Community Dinner"
+        },
+        {
+          "date": "2026-12-12",
+          "time": "08:30",
+          "title": "Episcopal Church Center (OB Church Center) / The Alley Ministry - Saturday Breakfast"
+        },
+        {
+          "date": "2026-12-16",
+          "time": "18:00",
+          "title": "Episcopal Church Center (OB Church Center) / The Alley Ministry - Wednesday Community Dinner"
+        },
+        {
+          "date": "2026-12-23",
+          "time": "18:00",
+          "title": "Episcopal Church Center (OB Church Center) / The Alley Ministry - Wednesday Community Dinner"
+        },
+        {
+          "date": "2026-12-26",
+          "time": "08:30",
+          "title": "Episcopal Church Center (OB Church Center) / The Alley Ministry - Saturday Breakfast"
+        },
+        {
+          "date": "2026-12-30",
+          "time": "18:00",
+          "title": "Episcopal Church Center (OB Church Center) / The Alley Ministry - Wednesday Community Dinner"
+        }
+      ]
+    },
+    {
+      "slug": "rock-church-point-loma-provisions-outreach-ministry-point-loma",
+      "name": "Rock Church Point Loma - Provisions Outreach Ministry",
+      "category": "Food Assistance",
+      "tagline": "1st Thursday monthly, 10 AM",
+      "description": "Free food (Monthly food distribution). Schedule: Provisions Food Distribution: 1st Thursday monthly, 10 AM. Eligibility: Anyone in need; while supplies last.. Call ahead to confirm - distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.sdrock.com/ministries/provisions/pointloma",
+      "phone": "(619) 226-7625",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "Lot P, Point Loma Vons parking lots, 2495 Truxtun Rd, San Diego, CA 92106 (event page lists 2277 Rosecrans St., San Diego, CA 92106)",
+      "lat": null,
+      "lng": null,
+      "neighborhood": "Point Loma",
+      "hours": "1st Thursday monthly, 10 AM (Provisions Food Distribution)",
+      "featured": false,
+      "verified": false,
+      "_verifyNotes": "Food comes from Feeding San Diego and local donors. The two pages give different addresses: the ministry page says 2495 Truxtun Rd and the event page says 2277 Rosecrans St (the Rock Church campus at Liberty Station). Both say Lot P. Email provisionspl@sdrock.com. The Oct 1 event time comes from the ministry page's first-Thursday 10 AM schedule; the event listing itself gave no time. No end time given. Feeding San Diego map lists 2480 Truxtun Rd (Vons lot).",
+      "events": [
+        {
+          "date": "2026-10-01",
+          "time": "10:00",
+          "title": "Rock Church Point Loma - Provisions Outreach Ministry - Provisions Food Distribution"
+        },
+        {
+          "date": "2026-11-05",
+          "time": "10:00",
+          "title": "Rock Church Point Loma - Provisions Outreach Ministry - Provisions Food Distribution"
+        },
+        {
+          "date": "2026-12-03",
+          "time": "10:00",
+          "title": "Rock Church Point Loma - Provisions Outreach Ministry - Provisions Food Distribution"
+        }
+      ]
+    },
+    {
+      "slug": "st-agnes-catholic-church-point-loma",
+      "name": "St. Agnes Catholic Church (San Diego Food Bank EFAP site)",
+      "category": "Food Assistance",
+      "tagline": "4th Thursday monthly, 8:30 AM - 10 AM",
+      "description": "Free food (Emergency Food Assistance Program (EFAP) monthly distribution). Schedule: EFAP Food Distribution: 4th Thursday monthly, 8:30 AM - 10 AM. Eligibility: EFAP (USDA TEFAP) walk-in; income-based self-declaration typical for EFAP (not stated on roster). Special lines for persons with disabilities.. Call ahead to confirm - distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.saint-agnes.org/programs-and-activities/ministries/",
+      "phone": "(619) 223-2200",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "1145 Evergreen St, San Diego, CA 92106",
+      "lat": null,
+      "lng": null,
+      "neighborhood": "Point Loma",
+      "hours": "4th Thursday monthly, 8:30 AM - 10 AM (EFAP Food Distribution)",
+      "featured": false,
+      "verified": false,
+      "_verifyNotes": "EFAP roster updated 7/1/2026: walk-ins, near Portugal & Rosecrans. The parish lists a 'Food Distribution' ministry (contacts Aaron and Karen Dishno) that hands out San Diego Food Bank food. Phone is the parish office's; the roster lists only the Food Bank's 1-866-350-3663. The 4th Thursday in October 2026 falls on Oct 22 by the pattern, but that date is not printed on the roster. The eligibility wording about income is general EFAP practice and does not appear on this roster.",
+      "events": [
+        {
+          "date": "2026-10-22",
+          "time": "08:30",
+          "title": "St. Agnes Catholic Church (San Diego Food Bank EFAP site) - EFAP Food Distribution"
+        },
+        {
+          "date": "2026-11-19",
+          "time": "08:30",
+          "title": "St. Agnes Catholic Church (San Diego Food Bank EFAP site) - EFAP Food Distribution"
+        },
+        {
+          "date": "2026-12-17",
+          "time": "08:30",
+          "title": "St. Agnes Catholic Church (San Diego Food Bank EFAP site) - EFAP Food Distribution"
+        }
+      ]
+    },
+    {
+      "slug": "sorrento-towers-apartments-midway-old-town",
+      "name": "Sorrento Towers Apartments (San Diego Food Bank Senior Food Program / CSFP)",
+      "category": "Food Assistance",
+      "tagline": "2nd Friday monthly, 1:30 PM - 3 PM",
+      "description": "Free food (Senior Food Program monthly box). Schedule: Senior Food Program: 2nd Friday monthly, 1:30 PM - 3 PM. Eligibility: Senior Food Program (CSFP): seniors enrolled in the program; income limits apply (standard CSFP rules, not detailed in calendar).. Call ahead to confirm - distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.sandiegofoodbank.org/wp-content/uploads/2026/06/2026-Master-calendar-1-1.pdf",
+      "phone": "",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "2875 Cowley Way, San Diego, CA 92110",
+      "lat": null,
+      "lng": null,
+      "neighborhood": "Midway / Old Town",
+      "hours": "2nd Friday monthly, 1:30 PM - 3 PM (Senior Food Program)",
+      "featured": false,
+      "verified": false,
+      "_verifyNotes": "Sorrento Tower is a senior apartment building in the Loma Portal / Midway (92110) area. It is the only 92106/92107/92110 site on the 2026 Senior Food Program calendar. Eligibility wording is general CSFP practice and does not appear on the calendar. No phone for the site.",
+      "events": [
+        {
+          "date": "2026-10-09",
+          "time": "13:30",
+          "title": "Sorrento Towers Apartments (San Diego Food Bank Senior Food Program / CSFP) - Senior Food Program"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "13:30",
+          "title": "Sorrento Towers Apartments (San Diego Food Bank Senior Food Program / CSFP) - Senior Food Program"
+        },
+        {
+          "date": "2026-12-11",
+          "time": "13:30",
+          "title": "Sorrento Towers Apartments (San Diego Food Bank Senior Food Program / CSFP) - Senior Food Program"
+        }
+      ]
+    },
+    {
+      "slug": "old-town-community-church-midway-old-town",
+      "name": "Old Town Community Church (San Diego Food Bank EFAP site)",
+      "category": "Food Assistance",
+      "tagline": "Every Wed, 9 AM - 3 PM",
+      "description": "Free food (Food Bank Distribution @ OTCC (EFAP)). Schedule: Food Bank Distribution @ OTCC: Every Wed, 9 AM - 3 PM. Eligibility: EFAP; drive-thru and walk-ins. No other requirements stated.. Call ahead to confirm - distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://www.otcc.net/",
+      "phone": "",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "2444 Congress St, San Diego, CA 92110",
+      "lat": null,
+      "lng": null,
+      "neighborhood": "Midway / Old Town",
+      "hours": "Every Wed, 9 AM - 3 PM (Food Bank Distribution @ OTCC)",
+      "featured": false,
+      "verified": false,
+      "_verifyNotes": "This is in Old Town (92110), which borders the Midway/Loma Portal area but is not part of it. Include or drop depending on how strictly the area is defined. The EFAP roster (7/1/2026) says Wednesday 9:00 AM-3:00 PM, closed Nov 11, between San Diego Ave and Conde St. The church homepage lists the next date as Wednesday Sept 30 with no time. The 9-3 window is unusually long and may be the site's service hours rather than the distribution window. The church homepage links to Facebook and Instagram, but I could not get their URLs. Old Town (92110), about 3 mi from Point Loma; 9-3 window may be church office hours.",
+      "events": [
+        {
+          "date": "2026-09-30",
+          "time": "09:00",
+          "title": "Old Town Community Church (San Diego Food Bank EFAP site) - Food Bank Distribution @ OTCC"
+        },
+        {
+          "date": "2026-10-07",
+          "time": "09:00",
+          "title": "Old Town Community Church (San Diego Food Bank EFAP site) - Food Bank Distribution @ OTCC"
+        },
+        {
+          "date": "2026-10-14",
+          "time": "09:00",
+          "title": "Old Town Community Church (San Diego Food Bank EFAP site) - Food Bank Distribution @ OTCC"
+        },
+        {
+          "date": "2026-10-21",
+          "time": "09:00",
+          "title": "Old Town Community Church (San Diego Food Bank EFAP site) - Food Bank Distribution @ OTCC"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "09:00",
+          "title": "Old Town Community Church (San Diego Food Bank EFAP site) - Food Bank Distribution @ OTCC"
+        },
+        {
+          "date": "2026-11-04",
+          "time": "09:00",
+          "title": "Old Town Community Church (San Diego Food Bank EFAP site) - Food Bank Distribution @ OTCC"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "09:00",
+          "title": "Old Town Community Church (San Diego Food Bank EFAP site) - Food Bank Distribution @ OTCC"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "09:00",
+          "title": "Old Town Community Church (San Diego Food Bank EFAP site) - Food Bank Distribution @ OTCC"
+        },
+        {
+          "date": "2026-11-25",
+          "time": "09:00",
+          "title": "Old Town Community Church (San Diego Food Bank EFAP site) - Food Bank Distribution @ OTCC"
+        },
+        {
+          "date": "2026-12-02",
+          "time": "09:00",
+          "title": "Old Town Community Church (San Diego Food Bank EFAP site) - Food Bank Distribution @ OTCC"
+        },
+        {
+          "date": "2026-12-09",
+          "time": "09:00",
+          "title": "Old Town Community Church (San Diego Food Bank EFAP site) - Food Bank Distribution @ OTCC"
+        },
+        {
+          "date": "2026-12-16",
+          "time": "09:00",
+          "title": "Old Town Community Church (San Diego Food Bank EFAP site) - Food Bank Distribution @ OTCC"
+        },
+        {
+          "date": "2026-12-23",
+          "time": "09:00",
+          "title": "Old Town Community Church (San Diego Food Bank EFAP site) - Food Bank Distribution @ OTCC"
+        },
+        {
+          "date": "2026-12-30",
+          "time": "09:00",
+          "title": "Old Town Community Church (San Diego Food Bank EFAP site) - Food Bank Distribution @ OTCC"
+        }
+      ]
+    },
+    {
+      "slug": "ocean-beach-produce-pantry-ocean-beach",
+      "name": "Ocean Beach Produce Pantry",
+      "category": "Food Assistance",
+      "tagline": "1st & 3rd Friday monthly, 12 PM - 1 PM",
+      "description": "Free food (Free produce pantry (Feeding San Diego partner)). Schedule: Produce Pantry: 1st & 3rd Friday monthly, 12 PM - 1 PM. Eligibility: Walk-up; none stated. Call ahead to confirm - distributions often end early when supplies run out, and schedules change with holidays and weather.",
+      "logoUrl": "",
+      "website": "https://feedingsandiego.org/find-food/",
+      "phone": "",
+      "email": "",
+      "instagram": "",
+      "facebook": "",
+      "tiktok": "",
+      "address": "4390 Valeta St, San Diego, CA 92107",
+      "lat": null,
+      "lng": null,
+      "neighborhood": "Ocean Beach",
+      "hours": "1st & 3rd Friday monthly, 12 PM - 1 PM (Produce Pantry)",
+      "featured": false,
+      "verified": false,
+      "_verifyNotes": "From Feeding San Diego Find Food map (Sep 2026). Host org at 4390 Valeta St not confirmed; no own website/social found.",
+      "events": [
+        {
+          "date": "2026-10-02",
+          "time": "12:00",
+          "title": "Ocean Beach Produce Pantry - Produce Pantry"
+        },
+        {
+          "date": "2026-10-16",
+          "time": "12:00",
+          "title": "Ocean Beach Produce Pantry - Produce Pantry"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "12:00",
+          "title": "Ocean Beach Produce Pantry - Produce Pantry"
+        },
+        {
+          "date": "2026-11-20",
+          "time": "12:00",
+          "title": "Ocean Beach Produce Pantry - Produce Pantry"
+        },
+        {
+          "date": "2026-12-04",
+          "time": "12:00",
+          "title": "Ocean Beach Produce Pantry - Produce Pantry"
+        },
+        {
+          "date": "2026-12-18",
+          "time": "12:00",
+          "title": "Ocean Beach Produce Pantry - Produce Pantry"
+        }
+      ]
+    }
+  ]
+}

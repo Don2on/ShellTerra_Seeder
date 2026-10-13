@@ -1,0 +1,52 @@
+{
+  "_meta": {
+    "topic": "Net-new Yuba County food distributions",
+    "generated": "2026-10-05",
+    "source": "Research supplementing shell PENDING-Yuba; raw ./b13-Yuba-raw.json."
+  },
+  "_deferred": {},
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "add-st-john-s-episcopal-church-loaves-and-britches-f-w4-0930",
+      "seriesSlug": "add-st-john-s-episcopal-church-loaves-and-britches-f",
+      "title": "St. John's Episcopal Church - Loaves and Britches Food Pantry — Free Food",
+      "description": "Free food at St. John's Episcopal Church - Loaves and Britches Food Pantry. Schedule: Thu 9:30 AM–11:30 AM. Call (530) 741-1165 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "St. John's Episcopal Church - Loaves and Britches Food Pantry",
+      "address": "800 D St, Marysville, CA 95901",
+      "lat": 39.143974,
+      "lng": -121.589944,
+      "category": "food-assistance",
+      "sourceOrg": "St. John's Episcopal Church - Loaves and Britches Food Pantry",
+      "url": "https://feedam.org",
+      "schedulePattern": "Thu 9:30 AM–11:30 AM",
+      "start": "2026-09-28T09:30",
+      "end": "2026-09-28T11:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-foothill-intermediate-school-w1234-0930",
+      "seriesSlug": "add-foothill-intermediate-school",
+      "title": "Foothill Intermediate School — Free Food",
+      "description": "Free food at Foothill Intermediate School. Schedule: Mon–Thu 9:30 AM–10:15 AM. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Foothill Intermediate School",
+      "address": "5351 Fruitland Rd, Loma Rica, CA 95901",
+      "lat": 39.30429,
+      "lng": -121.41393,
+      "category": "food-assistance",
+      "sourceOrg": "Foothill Intermediate School",
+      "url": "https://feedam.org",
+      "schedulePattern": "Mon–Thu 9:30 AM–10:15 AM",
+      "start": "2026-09-28T09:30",
+      "end": "2026-09-28T10:15",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4"
+    }
+  ]
+}

@@ -1,0 +1,710 @@
+{
+  "_meta": {
+    "topic": "Net-new Yolo County food distributions",
+    "generated": "2026-09-28",
+    "source": "Research supplementing shell 6aba044800361d504695; raw ./additions-yolo-raw.json."
+  },
+  "_deferred": {
+    "add-empower-yolo-produce-distribution-davis": {
+      "title": "Empower Yolo Produce Distribution (Davis)",
+      "status": "2nd and 4th Wednesdays, while supplies last; bring own bags Phone: 530-757-1261.",
+      "address": "441 D St, Davis, CA 95616",
+      "lat": 38.546702,
+      "lng": -121.743468,
+      "phone": "530-757-1261",
+      "eligibility": "Any Yolo County resident; no ID or income proof; walk-up",
+      "sourceUrl": "https://empoweryolo.org/"
+    },
+    "add-salvation-army-woodland-food-pantry": {
+      "title": "Salvation Army Woodland Food Pantry",
+      "status": "2nd and 4th Wednesdays; may call for appointment outside listed time Phone: 530-661-0141.",
+      "address": "413 Main St, Woodland, CA 95695",
+      "lat": 38.677682,
+      "lng": -121.775672,
+      "phone": "530-661-0141",
+      "eligibility": "Walk-up distribution; USDA commodities, canned and dry goods",
+      "sourceUrl": "https://www.facebook.com/SalvationArmyWoodlandCa/"
+    },
+    "add-woodland-hispanic-foursquare-church-distribution": {
+      "title": "Woodland Hispanic Foursquare Church Distribution",
+      "status": "3rd Saturday of the month Phone: 530-662-5524.",
+      "address": "23 Grand Ave, Woodland, CA 95695",
+      "lat": 38.68343,
+      "lng": -121.78246,
+      "phone": "530-662-5524",
+      "eligibility": "Open to community; groceries; walk-up, bring own bags",
+      "sourceUrl": "https://yolofoodbank.org/"
+    },
+    "add-woodland-united-methodist-church-community-dinne": {
+      "title": "Woodland United Methodist Church Community Dinner",
+      "status": "Last Thursday of the month (hot community dinner); Personal Care Pantry on 1st Thursday 17:00-18:00 Phone: 530-662-6274.",
+      "address": "212 2nd St, Woodland, CA 95695",
+      "lat": 38.679701,
+      "lng": -121.772067,
+      "phone": "530-662-6274",
+      "eligibility": "Open to community; free hot meal",
+      "sourceUrl": "https://www.umcwoodland.org/"
+    },
+    "add-manna-house-food-pantry-knights-landing-umc": {
+      "title": "Manna House Food Pantry (Knights Landing UMC)",
+      "status": "1st and 3rd Thursdays Phone: 530-735-6227.",
+      "address": "9493 Mill St, Knights Landing, CA 95645",
+      "lat": 38.798707,
+      "lng": -121.719556,
+      "phone": "530-735-6227",
+      "eligibility": "Open to all; walk-in; three-day supply of food",
+      "sourceUrl": "https://yolofoodbank.org/"
+    },
+    "add-calvary-chapel-of-zamora-food-pantry": {
+      "title": "Calvary Chapel of Zamora Food Pantry",
+      "status": "1st and 3rd Sundays Phone: 530-402-7002.",
+      "address": "9974 Main St, Zamora, CA 95698",
+      "lat": 38.79537,
+      "lng": -121.88272,
+      "phone": "530-402-7002",
+      "eligibility": "Open to community; canned, dry goods, dairy, produce, bread, meat",
+      "sourceUrl": "https://www.zamoracalvarychapel.org/"
+    },
+    "add-clarksburg-community-church-produce-distribution": {
+      "title": "Clarksburg Community Church Produce Distribution",
+      "status": "1st and 3rd Tuesdays, from 11:30am while supplies last Phone: 530-668-0690.",
+      "address": "52910 Netherlands Ave, Clarksburg, CA 95612",
+      "lat": 38.416674,
+      "lng": -121.526656,
+      "phone": "530-668-0690",
+      "eligibility": "Open to community; fruits and vegetables; walk-up",
+      "sourceUrl": "https://yolofoodbank.org/"
+    },
+    "add-west-sacramento-baptist-church-food-pantry": {
+      "title": "West Sacramento Baptist Church Food Pantry",
+      "status": "2nd and 4th Wednesdays Phone: 916-217-0439.",
+      "address": "2124 Michigan Blvd, West Sacramento, CA 95691",
+      "lat": 38.583503,
+      "lng": -121.537798,
+      "phone": "916-217-0439",
+      "eligibility": "West Sacramento residents (bring proof of residency)",
+      "sourceUrl": "https://westsacbapt.com/"
+    },
+    "add-trinity-presbyterian-church-food-pantry": {
+      "title": "Trinity Presbyterian Church Food Pantry",
+      "status": "3rd Thursday of the month (Out of the Box Food Pantry) Phone: 916-371-5875.",
+      "address": "1500 Park Blvd, West Sacramento, CA 95691",
+      "lat": 38.5714,
+      "lng": -121.53082,
+      "phone": "916-371-5875",
+      "eligibility": "West Sacramento residents; pre-packaged shelf-stable groceries",
+      "sourceUrl": "http://www.trinitywestsac.org"
+    }
+  },
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "add-the-pantry-at-uc-davis-asucd-w12345-1030",
+      "seriesSlug": "add-the-pantry-at-uc-davis-asucd",
+      "title": "The Pantry at UC Davis (ASUCD) — Free Food",
+      "description": "Free food at The Pantry at UC Davis (ASUCD) (Associated Students, UC Davis (ASUCD)). Schedule: Mon–Fri 10:30 AM–4 PM; Sat–Sun 12:15 PM–2 PM. Eligibility: UC Davis students and staff; valid UC Davis ID required. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Pantry at UC Davis (ASUCD)",
+      "address": "Memorial Union, 177 East Quad Ave, Davis, CA 95616",
+      "lat": 38.540873,
+      "lng": -121.748306,
+      "category": "food-assistance",
+      "sourceOrg": "Associated Students, UC Davis (ASUCD)",
+      "url": "https://thepantry.ucdavis.edu/",
+      "schedulePattern": "Mon–Fri 10:30 AM–4 PM; Sat–Sun 12:15 PM–2 PM",
+      "start": "2026-09-21T10:30",
+      "end": "2026-09-21T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-pantry-at-uc-davis-asucd-w67-1215",
+      "seriesSlug": "add-the-pantry-at-uc-davis-asucd",
+      "title": "The Pantry at UC Davis (ASUCD) — Free Food",
+      "description": "Free food at The Pantry at UC Davis (ASUCD) (Associated Students, UC Davis (ASUCD)). Schedule: Mon–Fri 10:30 AM–4 PM; Sat–Sun 12:15 PM–2 PM. Eligibility: UC Davis students and staff; valid UC Davis ID required. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Pantry at UC Davis (ASUCD)",
+      "address": "Memorial Union, 177 East Quad Ave, Davis, CA 95616",
+      "lat": 38.540873,
+      "lng": -121.748306,
+      "category": "food-assistance",
+      "sourceOrg": "Associated Students, UC Davis (ASUCD)",
+      "url": "https://thepantry.ucdavis.edu/",
+      "schedulePattern": "Mon–Fri 10:30 AM–4 PM; Sat–Sun 12:15 PM–2 PM",
+      "start": "2026-09-21T12:15",
+      "end": "2026-09-21T14:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6,7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-pantry-mobile-pantry-student-community-cente-w2-1100",
+      "seriesSlug": "add-the-pantry-mobile-pantry-student-community-cente",
+      "title": "The Pantry Mobile Pantry - Student Community Center — Free Food",
+      "description": "Free food at The Pantry Mobile Pantry - Student Community Center (Associated Students, UC Davis (ASUCD)). Schedule: Tue 11 AM–1 PM (Mobile pantry). Eligibility: UC Davis students; valid UC Davis ID. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Pantry Mobile Pantry - Student Community Center",
+      "address": "Student Community Center, 397 Hutchison Dr, Davis, CA 95616",
+      "lat": 38.53953,
+      "lng": -121.75165,
+      "category": "food-assistance",
+      "sourceOrg": "Associated Students, UC Davis (ASUCD)",
+      "url": "https://thepantry.ucdavis.edu/mobile-pantry",
+      "schedulePattern": "Tue 11 AM–1 PM (Mobile pantry)",
+      "start": "2026-09-21T11:00",
+      "end": "2026-09-21T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-the-pantry-mobile-pantry-activities-and-recreati-w4-1300",
+      "seriesSlug": "add-the-pantry-mobile-pantry-activities-and-recreati",
+      "title": "The Pantry Mobile Pantry - Activities and Recreation Center — Free Food",
+      "description": "Free food at The Pantry Mobile Pantry - Activities and Recreation Center (Associated Students, UC Davis (ASUCD)). Schedule: Thu 1 PM–3 PM (Mobile pantry). Eligibility: UC Davis students; valid UC Davis ID. Confirm hours before you go — supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "The Pantry Mobile Pantry - Activities and Recreation Center",
+      "address": "Activities and Recreation Center, 760 Orchard Rd, Davis, CA 95616",
+      "lat": 38.542725,
+      "lng": -121.75933,
+      "category": "food-assistance",
+      "sourceOrg": "Associated Students, UC Davis (ASUCD)",
+      "url": "https://thepantry.ucdavis.edu/mobile-pantry",
+      "schedulePattern": "Thu 1 PM–3 PM (Mobile pantry)",
+      "start": "2026-09-21T13:00",
+      "end": "2026-09-21T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-aggie-compass-basic-needs-center-fruit-veggie-up-w3-1330",
+      "seriesSlug": "add-aggie-compass-basic-needs-center-fruit-veggie-up",
+      "title": "Aggie Compass Basic Needs Center - Fruit & Veggie Up! — Free Food",
+      "description": "Free food at Aggie Compass Basic Needs Center - Fruit & Veggie Up! (UC Davis Aggie Compass Basic Needs Center). Schedule: Wed 1:30 PM–3:30 PM (Fruit & Veggie Up! produce at Aggie Compass); Fri 11 AM–1 PM (Produce on East Quad next to Aggie Eats truck). Eligibility: UC Davis students; free fresh produce. Call 530-752-9254 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Aggie Compass Basic Needs Center - Fruit & Veggie Up!",
+      "address": "East Wing, Memorial Union, Davis, CA 95616",
+      "lat": 38.544728,
+      "lng": -121.740364,
+      "category": "food-assistance",
+      "sourceOrg": "UC Davis Aggie Compass Basic Needs Center",
+      "url": "https://aggiecompass.ucdavis.edu/",
+      "schedulePattern": "Wed 1:30 PM–3:30 PM (Fruit & Veggie Up! produce at Aggie Compass); Fri 11 AM–1 PM (Produce on East Quad next to Aggie Eats truck)",
+      "start": "2026-09-21T13:30",
+      "end": "2026-09-21T15:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-aggie-compass-basic-needs-center-fruit-veggie-up-w5-1100",
+      "seriesSlug": "add-aggie-compass-basic-needs-center-fruit-veggie-up",
+      "title": "Aggie Compass Basic Needs Center - Fruit & Veggie Up! — Free Food",
+      "description": "Free food at Aggie Compass Basic Needs Center - Fruit & Veggie Up! (UC Davis Aggie Compass Basic Needs Center). Schedule: Wed 1:30 PM–3:30 PM (Fruit & Veggie Up! produce at Aggie Compass); Fri 11 AM–1 PM (Produce on East Quad next to Aggie Eats truck). Eligibility: UC Davis students; free fresh produce. Call 530-752-9254 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Aggie Compass Basic Needs Center - Fruit & Veggie Up!",
+      "address": "East Wing, Memorial Union, Davis, CA 95616",
+      "lat": 38.544728,
+      "lng": -121.740364,
+      "category": "food-assistance",
+      "sourceOrg": "UC Davis Aggie Compass Basic Needs Center",
+      "url": "https://aggiecompass.ucdavis.edu/",
+      "schedulePattern": "Wed 1:30 PM–3:30 PM (Fruit & Veggie Up! produce at Aggie Compass); Fri 11 AM–1 PM (Produce on East Quad next to Aggie Eats truck)",
+      "start": "2026-09-21T11:00",
+      "end": "2026-09-21T13:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-davis-community-meals-w2-1745",
+      "seriesSlug": "add-davis-community-meals",
+      "title": "Davis Community Meals — Free Food",
+      "description": "Free food at Davis Community Meals (Davis Community Meals and Housing). Schedule: Tue 5:45 PM–6:30 PM (Served at St. Martin's Episcopal Church); Thu 5:30 PM–6:30 PM (Served at St. Martin's Episcopal Church); Sat 11:30 AM–12:15 PM (Served at St. Martin's Episcopal Church). Eligibility: Everyone welcome; free hot meals. Call 530-753-9204 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Davis Community Meals",
+      "address": "640 Hawthorn Lane, Davis, CA 95616",
+      "lat": 38.548928,
+      "lng": -121.761393,
+      "category": "food-assistance",
+      "sourceOrg": "Davis Community Meals and Housing",
+      "url": "https://daviscommunitymeals.org/meals-program/",
+      "schedulePattern": "Tue 5:45 PM–6:30 PM (Served at St. Martin's Episcopal Church); Thu 5:30 PM–6:30 PM (Served at St. Martin's Episcopal Church); Sat 11:30 AM–12:15 PM (Served at St. Martin's Episcopal Church)",
+      "start": "2026-09-21T17:45",
+      "end": "2026-09-21T18:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-davis-community-meals-w4-1730",
+      "seriesSlug": "add-davis-community-meals",
+      "title": "Davis Community Meals — Free Food",
+      "description": "Free food at Davis Community Meals (Davis Community Meals and Housing). Schedule: Tue 5:45 PM–6:30 PM (Served at St. Martin's Episcopal Church); Thu 5:30 PM–6:30 PM (Served at St. Martin's Episcopal Church); Sat 11:30 AM–12:15 PM (Served at St. Martin's Episcopal Church). Eligibility: Everyone welcome; free hot meals. Call 530-753-9204 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Davis Community Meals",
+      "address": "640 Hawthorn Lane, Davis, CA 95616",
+      "lat": 38.548928,
+      "lng": -121.761393,
+      "category": "food-assistance",
+      "sourceOrg": "Davis Community Meals and Housing",
+      "url": "https://daviscommunitymeals.org/meals-program/",
+      "schedulePattern": "Tue 5:45 PM–6:30 PM (Served at St. Martin's Episcopal Church); Thu 5:30 PM–6:30 PM (Served at St. Martin's Episcopal Church); Sat 11:30 AM–12:15 PM (Served at St. Martin's Episcopal Church)",
+      "start": "2026-09-21T17:30",
+      "end": "2026-09-21T18:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-davis-community-meals-w6-1130",
+      "seriesSlug": "add-davis-community-meals",
+      "title": "Davis Community Meals — Free Food",
+      "description": "Free food at Davis Community Meals (Davis Community Meals and Housing). Schedule: Tue 5:45 PM–6:30 PM (Served at St. Martin's Episcopal Church); Thu 5:30 PM–6:30 PM (Served at St. Martin's Episcopal Church); Sat 11:30 AM–12:15 PM (Served at St. Martin's Episcopal Church). Eligibility: Everyone welcome; free hot meals. Call 530-753-9204 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Davis Community Meals",
+      "address": "640 Hawthorn Lane, Davis, CA 95616",
+      "lat": 38.548928,
+      "lng": -121.761393,
+      "category": "food-assistance",
+      "sourceOrg": "Davis Community Meals and Housing",
+      "url": "https://daviscommunitymeals.org/meals-program/",
+      "schedulePattern": "Tue 5:45 PM–6:30 PM (Served at St. Martin's Episcopal Church); Thu 5:30 PM–6:30 PM (Served at St. Martin's Episcopal Church); Sat 11:30 AM–12:15 PM (Served at St. Martin's Episcopal Church)",
+      "start": "2026-09-21T11:30",
+      "end": "2026-09-21T12:15",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-pole-line-road-baptist-church-food-closet-w4-0900",
+      "seriesSlug": "add-pole-line-road-baptist-church-food-closet",
+      "title": "Pole Line Road Baptist Church Food Closet — Free Food",
+      "description": "Free food at Pole Line Road Baptist Church Food Closet (Pole Line Road Baptist Church). Schedule: Thu 9 AM–11 AM (Closed major holidays). Eligibility: Yolo County residents (Davis preferred); bring proof of address; once per month per household. Call 530-753-4315 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Pole Line Road Baptist Church Food Closet",
+      "address": "770 Pole Line Rd, Davis, CA 95618",
+      "lat": 38.552646,
+      "lng": -121.726706,
+      "category": "food-assistance",
+      "sourceOrg": "Pole Line Road Baptist Church",
+      "url": "https://www.polelinebaptist.org/food-closet/",
+      "schedulePattern": "Thu 9 AM–11 AM (Closed major holidays)",
+      "start": "2026-09-21T09:00",
+      "end": "2026-09-21T11:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-woodland-food-closet-w12345-1500",
+      "seriesSlug": "add-woodland-food-closet",
+      "title": "Woodland Food Closet — Free Food",
+      "description": "Free food at Woodland Food Closet. Schedule: Mon–Fri 3 PM–4 PM (3 days of groceries per visit). Eligibility: Open to individuals and families; limited to one visit per month per household. Call 530-662-7020 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Woodland Food Closet",
+      "address": "420 Grand Ave, Woodland, CA 95695",
+      "lat": 38.67692,
+      "lng": -121.78277,
+      "category": "food-assistance",
+      "sourceOrg": "Woodland Food Closet",
+      "url": "https://www.woodlandfoodcloset.org/",
+      "schedulePattern": "Mon–Fri 3 PM–4 PM (3 days of groceries per visit)",
+      "start": "2026-09-21T15:00",
+      "end": "2026-09-21T16:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-church-on-the-rock-the-manna-project-w4-0900",
+      "seriesSlug": "add-church-on-the-rock-the-manna-project",
+      "title": "Church on the Rock - The Manna Project — Free Food",
+      "description": "Free food at Church on the Rock - The Manna Project (Church on the Rock Woodland). Schedule: Thu from 9 AM (Food giveaway in church lobby, first come first served). Eligibility: Anyone in need; free, first come first served. Call 530-406-8579 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Church on the Rock - The Manna Project",
+      "address": "630 Cottonwood St, Woodland, CA 95695",
+      "lat": 38.672992,
+      "lng": -121.794529,
+      "category": "food-assistance",
+      "sourceOrg": "Church on the Rock Woodland",
+      "url": "https://www.cotrwoodland.org/manna",
+      "schedulePattern": "Thu from 9 AM (Food giveaway in church lobby, first come first served)",
+      "start": "2026-09-21T09:00",
+      "end": null,
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-woodland-family-worship-center-distribution-w5-0800",
+      "seriesSlug": "add-woodland-family-worship-center-distribution",
+      "title": "Woodland Family Worship Center Distribution — Free Food",
+      "description": "Free food at Woodland Family Worship Center Distribution (Woodland Family Worship Center / Yolo Food Bank). Schedule: Fri from 8 AM (While supplies last; bring own bags). Eligibility: Open to community; free produce, dairy, groceries; walk-up. Call 530-668-0690 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Woodland Family Worship Center Distribution",
+      "address": "386 W Beamer St, Woodland, CA 95695",
+      "lat": 38.685298,
+      "lng": -121.802112,
+      "category": "food-assistance",
+      "sourceOrg": "Woodland Family Worship Center / Yolo Food Bank",
+      "url": "https://yolofoodbank.org/",
+      "schedulePattern": "Fri from 8 AM (While supplies last; bring own bags)",
+      "start": "2026-09-21T08:00",
+      "end": null,
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-fourth-hope-wayfarer-center-w1234567-1200",
+      "seriesSlug": "add-fourth-hope-wayfarer-center",
+      "title": "Fourth & Hope (Wayfarer Center) — Free Food",
+      "description": "Free food at Fourth & Hope (Wayfarer Center) (Fourth & Hope). Schedule: Mon–Sun 12 PM–12:30 PM (Lunch served daily at noon); Mon–Sun 5 PM–5:30 PM (Dinner served daily). Eligibility: Anyone in need of a hot meal; free; open to the community. Call 530-661-1218 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Fourth & Hope (Wayfarer Center)",
+      "address": "207 4th St, Woodland, CA 95695",
+      "lat": 38.679093,
+      "lng": -121.769114,
+      "category": "food-assistance",
+      "sourceOrg": "Fourth & Hope",
+      "url": "https://fourthandhope.org/programs/",
+      "schedulePattern": "Mon–Sun 12 PM–12:30 PM (Lunch served daily at noon); Mon–Sun 5 PM–5:30 PM (Dinner served daily)",
+      "start": "2026-09-21T12:00",
+      "end": "2026-09-21T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5,6,7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-fourth-hope-wayfarer-center-w1234567-1700",
+      "seriesSlug": "add-fourth-hope-wayfarer-center",
+      "title": "Fourth & Hope (Wayfarer Center) — Free Food",
+      "description": "Free food at Fourth & Hope (Wayfarer Center) (Fourth & Hope). Schedule: Mon–Sun 12 PM–12:30 PM (Lunch served daily at noon); Mon–Sun 5 PM–5:30 PM (Dinner served daily). Eligibility: Anyone in need of a hot meal; free; open to the community. Call 530-661-1218 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Fourth & Hope (Wayfarer Center)",
+      "address": "207 4th St, Woodland, CA 95695",
+      "lat": 38.679093,
+      "lng": -121.769114,
+      "category": "food-assistance",
+      "sourceOrg": "Fourth & Hope",
+      "url": "https://fourthandhope.org/programs/",
+      "schedulePattern": "Mon–Sun 12 PM–12:30 PM (Lunch served daily at noon); Mon–Sun 5 PM–5:30 PM (Dinner served daily)",
+      "start": "2026-09-21T17:00",
+      "end": "2026-09-21T17:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5,6,7"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-countryside-community-church-food-closet-w3-0900",
+      "seriesSlug": "add-countryside-community-church-food-closet",
+      "title": "Countryside Community Church Food Closet — Free Food",
+      "description": "Free food at Countryside Community Church Food Closet (Countryside Community Church). Schedule: Wed 9 AM–12 PM; Fri 3 PM–5 PM. Eligibility: Open to community; canned and dry goods. Call 530-787-4110 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Countryside Community Church Food Closet",
+      "address": "26479 Grafton St, Esparto, CA 95627",
+      "lat": 38.693443,
+      "lng": -122.018588,
+      "category": "food-assistance",
+      "sourceOrg": "Countryside Community Church",
+      "url": "https://countrysideucc.org/serving-together/community-cupboard/",
+      "schedulePattern": "Wed 9 AM–12 PM; Fri 3 PM–5 PM",
+      "start": "2026-09-21T09:00",
+      "end": "2026-09-21T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-countryside-community-church-food-closet-w5-1500",
+      "seriesSlug": "add-countryside-community-church-food-closet",
+      "title": "Countryside Community Church Food Closet — Free Food",
+      "description": "Free food at Countryside Community Church Food Closet (Countryside Community Church). Schedule: Wed 9 AM–12 PM; Fri 3 PM–5 PM. Eligibility: Open to community; canned and dry goods. Call 530-787-4110 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Countryside Community Church Food Closet",
+      "address": "26479 Grafton St, Esparto, CA 95627",
+      "lat": 38.693443,
+      "lng": -122.018588,
+      "category": "food-assistance",
+      "sourceOrg": "Countryside Community Church",
+      "url": "https://countrysideucc.org/serving-together/community-cupboard/",
+      "schedulePattern": "Wed 9 AM–12 PM; Fri 3 PM–5 PM",
+      "start": "2026-09-21T15:00",
+      "end": "2026-09-21T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-winters-hhsa-service-center-distribution-w1-1600",
+      "seriesSlug": "add-winters-hhsa-service-center-distribution",
+      "title": "Winters HHSA Service Center Distribution — Free Food",
+      "description": "Free food at Winters HHSA Service Center Distribution (Yolo County HHSA / Yolo Food Bank). Schedule: Mon 4 PM–6 PM. Eligibility: Open to community; produce, groceries, canned and dry goods; walk-up. Call 530-661-2750 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Winters HHSA Service Center Distribution",
+      "address": "111 E Grant Ave, Winters, CA 95694",
+      "lat": 38.527053,
+      "lng": -121.966349,
+      "category": "food-assistance",
+      "sourceOrg": "Yolo County HHSA / Yolo Food Bank",
+      "url": "https://www.yolocounty.gov/health-human-services",
+      "schedulePattern": "Mon 4 PM–6 PM",
+      "start": "2026-09-21T16:00",
+      "end": "2026-09-21T18:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-health-education-council-friday-produce-distribu-w5-0815",
+      "seriesSlug": "add-health-education-council-friday-produce-distribu",
+      "title": "Health Education Council Friday Produce Distribution — Free Food",
+      "description": "Free food at Health Education Council Friday Produce Distribution (Health Education Council / Yolo Food Bank). Schedule: Fri 8:15 AM–9:15 AM (8:15am community walk, produce distribution follows (~8:45am) at Elkhorn Park). Eligibility: Open to community; fruits and vegetables; walk-up (at Elkhorn Village Elementary cafeteria). Call 916-556-3344 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Health Education Council Friday Produce Distribution",
+      "address": "820 Cummins Way, West Sacramento, CA 95605",
+      "lat": 38.594348,
+      "lng": -121.521934,
+      "category": "food-assistance",
+      "sourceOrg": "Health Education Council / Yolo Food Bank",
+      "url": "https://healthedcouncil.org/",
+      "schedulePattern": "Fri 8:15 AM–9:15 AM (8:15am community walk, produce distribution follows (~8:45am) at Elkhorn Park)",
+      "start": "2026-09-21T08:15",
+      "end": "2026-09-21T09:15",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-west-sacramento-county-building-produce-distribu-w3-0900",
+      "seriesSlug": "add-west-sacramento-county-building-produce-distribu",
+      "title": "West Sacramento County Building Produce Distribution — Free Food",
+      "description": "Free food at West Sacramento County Building Produce Distribution (Yolo County / Yolo Food Bank). Schedule: Wed 9 AM–10 AM (Fruits and vegetables. Canned/dry goods also 3rd Tuesday 10:00-10:30.). Eligibility: Open to community; fruits and vegetables; walk-up. Call 530-668-0690 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "West Sacramento County Building Produce Distribution",
+      "address": "500-A Jefferson Blvd, West Sacramento, CA 95605",
+      "lat": 38.587955,
+      "lng": -121.528725,
+      "category": "food-assistance",
+      "sourceOrg": "Yolo County / Yolo Food Bank",
+      "url": "https://yolofoodbank.org/",
+      "schedulePattern": "Wed 9 AM–10 AM (Fruits and vegetables. Canned/dry goods also 3rd Tuesday 10:00-10:30.)",
+      "start": "2026-09-21T09:00",
+      "end": "2026-09-21T10:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-yolo-county-children-s-alliance-food-distributio-w5-0900",
+      "seriesSlug": "add-yolo-county-children-s-alliance-food-distributio",
+      "title": "Yolo County Children's Alliance Food Distribution — Free Food",
+      "description": "Free food at Yolo County Children's Alliance Food Distribution (Yolo County Children's Alliance (YCCA) / Yolo Food Bank). Schedule: Fri from 9 AM (Serves ~350 families weekly). Eligibility: Open to community; fresh produce, dairy, protein, shelf-stable items; walk-up. Call 916-572-0560 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Yolo County Children's Alliance Food Distribution",
+      "address": "1200 Anna Street, West Sacramento, CA 95605",
+      "lat": 38.596802,
+      "lng": -121.531441,
+      "category": "food-assistance",
+      "sourceOrg": "Yolo County Children's Alliance (YCCA) / Yolo Food Bank",
+      "url": "https://www.yolokids.org/west-sacramento-family-resource-center/",
+      "schedulePattern": "Fri from 9 AM (Serves ~350 families weekly)",
+      "start": "2026-09-21T09:00",
+      "end": null,
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-shores-of-hope-food-closet-w1234-0900",
+      "seriesSlug": "add-shores-of-hope-food-closet",
+      "title": "Shores of Hope Food Closet — Free Food",
+      "description": "Free food at Shores of Hope Food Closet (Shores of Hope). Schedule: Mon–Thu 9 AM–3 PM. Eligibility: Walk-up; free emergency food bags, pet food and hygiene items. Call 916-372-0200 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Shores of Hope Food Closet",
+      "address": "110 6th Street, West Sacramento, CA 95605",
+      "lat": 38.591176,
+      "lng": -121.51399,
+      "category": "food-assistance",
+      "sourceOrg": "Shores of Hope",
+      "url": "https://www.shoresofhope.org/",
+      "schedulePattern": "Mon–Thu 9 AM–3 PM",
+      "start": "2026-09-21T09:00",
+      "end": "2026-09-21T15:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-holy-cross-st-vincent-de-paul-food-locker-w135-1600",
+      "seriesSlug": "add-holy-cross-st-vincent-de-paul-food-locker",
+      "title": "Holy Cross St. Vincent de Paul Food Locker — Free Food",
+      "description": "Free food at Holy Cross St. Vincent de Paul Food Locker (Holy Cross Parish / St. Vincent de Paul). Schedule: Mon, Wed, Fri 4 PM–5 PM. Eligibility: West Sacramento residents; pre-packaged perishable and shelf-stable items. Call 916-373-3318 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Holy Cross St. Vincent de Paul Food Locker",
+      "address": "1321 Anna St, West Sacramento, CA 95605",
+      "lat": 38.593977,
+      "lng": -121.535492,
+      "category": "food-assistance",
+      "sourceOrg": "Holy Cross Parish / St. Vincent de Paul",
+      "url": "https://www.scd.org/parish/holy-cross-parish-west-sacramento",
+      "schedulePattern": "Mon, Wed, Fri 4 PM–5 PM",
+      "start": "2026-09-21T16:00",
+      "end": "2026-09-21T17:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,3,5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-recovery-cafe-west-sacramento-w123456-1200",
+      "seriesSlug": "add-recovery-cafe-west-sacramento",
+      "title": "Recovery Cafe West Sacramento — Free Food",
+      "description": "Free food at Recovery Cafe West Sacramento (Recovery Cafe). Schedule: Mon–Sat 12 PM–1:30 PM (Free lunch 12-1:30pm; cafe open weekdays 11:30am-3pm). Eligibility: Free hot lunches for members (membership free). Call 916-509-3566 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Recovery Cafe West Sacramento",
+      "address": "920 Drever St, West Sacramento, CA 95691",
+      "lat": 38.57453,
+      "lng": -121.52286,
+      "category": "food-assistance",
+      "sourceOrg": "Recovery Cafe",
+      "url": "https://www.mosaicwestsac.org/recovery-cafe",
+      "schedulePattern": "Mon–Sat 12 PM–1:30 PM (Free lunch 12-1:30pm; cafe open weekdays 11:30am-3pm)",
+      "start": "2026-09-21T12:00",
+      "end": "2026-09-21T13:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,2,3,4,5,6"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-cafe-yolo-social-dining-woodland-community-senio-w3-1100",
+      "seriesSlug": "add-cafe-yolo-social-dining-woodland-community-senio",
+      "title": "Cafe Yolo Social Dining - Woodland Community & Senior Center — Free Food",
+      "description": "Free food at Cafe Yolo Social Dining - Woodland Community & Senior Center (Meals on Wheels Yolo County). Schedule: Wed 11 AM–12 PM (Reservation 24 hrs in advance encouraged). Eligibility: Seniors 60+; free congregate meal; reservation requested 24 hrs ahead. Call 530-662-7035 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Cafe Yolo Social Dining - Woodland Community & Senior Center",
+      "address": "2001 East Street, Woodland, CA 95776",
+      "lat": 38.65372,
+      "lng": -121.76431,
+      "category": "food-assistance",
+      "sourceOrg": "Meals on Wheels Yolo County",
+      "url": "https://mowyolo.org/nutrition-access/cafe-yolo-social-dining-2/",
+      "schedulePattern": "Wed 11 AM–12 PM (Reservation 24 hrs in advance encouraged)",
+      "start": "2026-09-21T11:00",
+      "end": "2026-09-21T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-cafe-yolo-social-dining-davis-senior-center-w5-1100",
+      "seriesSlug": "add-cafe-yolo-social-dining-davis-senior-center",
+      "title": "Cafe Yolo Social Dining - Davis Senior Center — Free Food",
+      "description": "Free food at Cafe Yolo Social Dining - Davis Senior Center (Meals on Wheels Yolo County). Schedule: Fri 11 AM–12 PM (Reservation 24 hrs in advance encouraged). Eligibility: Seniors 60+; free congregate meal; reservation requested 24 hrs ahead. Call 530-662-7035 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Cafe Yolo Social Dining - Davis Senior Center",
+      "address": "646 A Street, Davis, CA 95616",
+      "lat": 38.54899,
+      "lng": -121.747371,
+      "category": "food-assistance",
+      "sourceOrg": "Meals on Wheels Yolo County",
+      "url": "https://mowyolo.org/nutrition-access/cafe-yolo-social-dining-2/",
+      "schedulePattern": "Fri 11 AM–12 PM (Reservation 24 hrs in advance encouraged)",
+      "start": "2026-09-21T11:00",
+      "end": "2026-09-21T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "5"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-cafe-yolo-social-dining-west-sacramento-communit-w3-1100",
+      "seriesSlug": "add-cafe-yolo-social-dining-west-sacramento-communit",
+      "title": "Cafe Yolo Social Dining - West Sacramento Community Center — Free Food",
+      "description": "Free food at Cafe Yolo Social Dining - West Sacramento Community Center (Meals on Wheels Yolo County). Schedule: Wed 11 AM–12 PM (Reservation 24 hrs in advance encouraged). Eligibility: Seniors 60+; free congregate meal; reservation requested 24 hrs ahead. Call 530-662-7035 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Cafe Yolo Social Dining - West Sacramento Community Center",
+      "address": "1075 W Capitol Ave, West Sacramento, CA 95691",
+      "lat": 38.581086,
+      "lng": -121.522755,
+      "category": "food-assistance",
+      "sourceOrg": "Meals on Wheels Yolo County",
+      "url": "https://mowyolo.org/nutrition-access/cafe-yolo-social-dining-2/",
+      "schedulePattern": "Wed 11 AM–12 PM (Reservation 24 hrs in advance encouraged)",
+      "start": "2026-09-21T11:00",
+      "end": "2026-09-21T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "3"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-cafe-yolo-social-dining-winters-community-center-w4-1130",
+      "seriesSlug": "add-cafe-yolo-social-dining-winters-community-center",
+      "title": "Cafe Yolo Social Dining - Winters Community Center — Free Food",
+      "description": "Free food at Cafe Yolo Social Dining - Winters Community Center (Meals on Wheels Yolo County / Winters Senior Foundation). Schedule: Thu 11:30 AM–12:30 PM (Reservation 24 hrs in advance encouraged). Eligibility: Seniors 60+; free congregate meal; reservation requested 24 hrs ahead. Call 530-662-7035 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Cafe Yolo Social Dining - Winters Community Center",
+      "address": "201 Railroad Ave, Winters, CA 95694",
+      "lat": 38.52116,
+      "lng": -121.9681,
+      "category": "food-assistance",
+      "sourceOrg": "Meals on Wheels Yolo County / Winters Senior Foundation",
+      "url": "https://mowyolo.org/nutrition-access/cafe-yolo-social-dining-2/",
+      "schedulePattern": "Thu 11:30 AM–12:30 PM (Reservation 24 hrs in advance encouraged)",
+      "start": "2026-09-21T11:30",
+      "end": "2026-09-21T12:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "4"
+    },
+    {
+      "kind": "activity",
+      "slug": "add-cafe-yolo-social-dining-capay-valley-health-comm-w24-1100",
+      "seriesSlug": "add-cafe-yolo-social-dining-capay-valley-health-comm",
+      "title": "Cafe Yolo Social Dining - Capay Valley Health & Community Center — Free Food",
+      "description": "Free food at Cafe Yolo Social Dining - Capay Valley Health & Community Center (Meals on Wheels Yolo County / RISE, Inc.). Schedule: Tue, Thu 11 AM–12 PM (Excludes 3rd Thursdays; reservation 24 hrs ahead encouraged). Eligibility: Seniors 60+; free congregate meal; reservation requested 24 hrs ahead. Call 530-662-7035 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Cafe Yolo Social Dining - Capay Valley Health & Community Center",
+      "address": "17340 Yolo Ave, Esparto, CA 95627",
+      "lat": 38.689688,
+      "lng": -122.017912,
+      "category": "food-assistance",
+      "sourceOrg": "Meals on Wheels Yolo County / RISE, Inc.",
+      "url": "https://mowyolo.org/nutrition-access/cafe-yolo-social-dining-2/",
+      "schedulePattern": "Tue, Thu 11 AM–12 PM (Excludes 3rd Thursdays; reservation 24 hrs ahead encouraged)",
+      "start": "2026-09-21T11:00",
+      "end": "2026-09-21T12:00",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "2,4"
+    }
+  ]
+}

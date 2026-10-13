@@ -1,0 +1,581 @@
+{
+  "sites": [
+    {
+      "name": "St. Vincent's Dining Room",
+      "org": "Catholic Charities of Northern Nevada",
+      "address": "325 Valley Rd, Reno, NV 89512",
+      "phone": "775-322-7073",
+      "website": "https://ccsnn.org/pages/dining-room",
+      "eligibility": "Open to anyone; no ID required. Free hot cafeteria-style lunch.",
+      "category": "meal",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+          ],
+          "open": "11:30",
+          "close": "13:00",
+          "note": "Served daily including holidays"
+        }
+      ]
+    },
+    {
+      "name": "Eddy House Drop-In Center",
+      "org": "Eddy House",
+      "address": "888 Willow St, Reno, NV 89502",
+      "phone": "775-384-1129",
+      "website": "https://eddyhouse.org/",
+      "eligibility": "Youth ages 18-24 experiencing homelessness; free breakfast, lunch, and dinner at drop-in center.",
+      "category": "meal",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+          ],
+          "open": "08:30",
+          "close": "09:30",
+          "note": "Breakfast"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+          ],
+          "open": "12:00",
+          "close": "13:00",
+          "note": "Lunch"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+          ],
+          "open": "17:00",
+          "close": "18:00",
+          "note": "Dinner"
+        }
+      ]
+    },
+    {
+      "name": "Reno-Sparks Gospel Mission - Free Meals",
+      "org": "Reno-Sparks Gospel Mission",
+      "address": "355 Record St, Reno, NV 89512",
+      "phone": "775-329-0485",
+      "website": "https://rsgm.org/programs-services/food-hunger-services/",
+      "eligibility": "Open to anyone off the street; no ID or sign-up required. Free breakfast and dinner.",
+      "category": "meal",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+          ],
+          "open": "07:00",
+          "close": "07:30",
+          "note": "Breakfast served at 7:00am"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+          ],
+          "open": "17:00",
+          "close": "17:30",
+          "note": "Dinner served at 5:00pm"
+        }
+      ]
+    },
+    {
+      "name": "Reno-Sparks Gospel Mission - Free Groceries Pantry",
+      "org": "Reno-Sparks Gospel Mission",
+      "address": "2115 Timber Way, Reno, NV 89512",
+      "phone": "775-329-0485",
+      "website": "https://rsgm.org/programs-services/community-services/",
+      "eligibility": "Walk-up, first come first served; no sign-up or ID required.",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "tue",
+            "thu"
+          ],
+          "open": "10:00",
+          "close": "15:00",
+          "note": ""
+        },
+        {
+          "freq": "monthly",
+          "days": [
+            "sat"
+          ],
+          "open": "10:00",
+          "close": "12:00",
+          "note": "Pop-up pantry last Saturday of month (3rd Sat if last falls on holiday weekend); drive-thru or walk-up"
+        }
+      ]
+    },
+    {
+      "name": "ASUN Pack Provisions Food Pantry",
+      "org": "Associated Students of the University of Nevada (UNR)",
+      "address": "1664 N Virginia St, Reno, NV 89557",
+      "phone": "775-682-9875",
+      "website": "https://www.unr.edu/student-engagement/support-services/pack-provisions",
+      "eligibility": "UNR students, staff, and faculty; free food and hygiene supplies. Joe Crowley Student Union, 3rd floor.",
+      "category": "college",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon"
+          ],
+          "open": "14:00",
+          "close": "17:00",
+          "note": "Online reservation via GivePulse"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "tue"
+          ],
+          "open": "09:00",
+          "close": "17:00",
+          "note": "No advance registration"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "fri"
+          ],
+          "open": "14:00",
+          "close": "17:00",
+          "note": "Online reservation via GivePulse. Closed university holidays."
+        }
+      ]
+    },
+    {
+      "name": "TMCC Wizard's Warehouse - Dandini Campus",
+      "org": "Truckee Meadows Community College",
+      "address": "7000 Dandini Blvd, RDMT 115, Reno, NV 89512",
+      "phone": "775-673-7060",
+      "website": "https://www.tmcc.edu/vpss/wizards-warehouse",
+      "eligibility": "TMCC students, faculty, and staff; free food and personal items. Partnership with Food Bank of Northern Nevada.",
+      "category": "college",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "days": [
+            "thu"
+          ],
+          "open": "13:00",
+          "close": "15:30",
+          "note": "1st and 3rd Thursday of each month"
+        }
+      ]
+    },
+    {
+      "name": "TMCC Wizard's Warehouse - Meadowood Center",
+      "org": "Truckee Meadows Community College",
+      "address": "5270 Neil Rd, S119, Reno, NV 89502",
+      "phone": "775-829-9000",
+      "website": "https://www.tmcc.edu/vpss/wizards-warehouse",
+      "eligibility": "TMCC students, faculty, and staff; free food and personal items.",
+      "category": "college",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "days": [
+            "thu"
+          ],
+          "open": "13:00",
+          "close": "15:30",
+          "note": "2nd and 4th Thursday of each month"
+        }
+      ]
+    },
+    {
+      "name": "Reno Senior Center Congregate Meal",
+      "org": "Washoe County Human Services Agency - Senior Services",
+      "address": "1155 E 9th St, Reno, NV 89512",
+      "phone": "775-328-2786",
+      "website": "https://www.washoecounty.gov/seniorsrv/",
+      "eligibility": "Seniors 60+ and qualified individuals; free/suggested-donation hot lunch. No reservation needed at the 9th Street location.",
+      "category": "senior",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open": "11:15",
+          "close": "12:30",
+          "note": "Congregate lunch"
+        }
+      ]
+    },
+    {
+      "name": "Sparks Senior Center Congregate Meal",
+      "org": "Washoe County Human Services Agency - Senior Services",
+      "address": "97 Richards Way, Sparks, NV 89431",
+      "phone": "775-353-3110",
+      "website": "https://www.cityofsparks.us/explore_sparks/seniors_service/sparks_senior_center.php",
+      "eligibility": "Seniors 60+ and qualified individuals; free/suggested-donation hot lunch. Call before 8:30am to reserve.",
+      "category": "senior",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open": "11:30",
+          "close": "12:30",
+          "note": "Washoe County Senior Services congregate lunch for ages 60+; reservation recommended (call center)."
+        }
+      ]
+    },
+    {
+      "name": "F.I.S.H. Elko Soup Kitchen",
+      "org": "Friends In Service Helping (FISH)",
+      "address": "821 Water St, Elko, NV 89801",
+      "phone": "775-738-7510",
+      "website": "https://feedam.org/",
+      "eligibility": "Open to anyone; free hot lunch soup kitchen.",
+      "category": "meal",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "thu",
+            "fri"
+          ],
+          "open": "11:30",
+          "close": "12:30",
+          "note": "Soup kitchen (closed Wednesday)"
+        }
+      ]
+    },
+    {
+      "name": "F.I.S.H. Carson City Family Dining Room",
+      "org": "Friends In Service Helping (FISH)",
+      "address": "138 E Long St, Carson City, NV 89706",
+      "phone": "775-882-3474",
+      "website": "https://feedam.org/",
+      "eligibility": "Open to anyone; free hot, calorie-dense evening meal.",
+      "category": "meal",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+          ],
+          "open": "15:00",
+          "close": "17:00",
+          "note": "Open 363 days a year"
+        }
+      ]
+    },
+    {
+      "name": "Oasis Community Church Breakfast",
+      "org": "Oasis Community Church",
+      "address": "1520 S Maine St, Fallon, NV 89406",
+      "phone": "",
+      "website": "",
+      "eligibility": "Open to anyone; free hot/cold breakfast.",
+      "category": "faith",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "sun",
+            "tue"
+          ],
+          "open": "07:30",
+          "close": "09:00",
+          "note": "Breakfast"
+        }
+      ]
+    },
+    {
+      "name": "Fallon Daily Bread (Wolf Center)",
+      "org": "Epworth United Methodist Church",
+      "address": "457 Esmeralda St, Fallon, NV 89406",
+      "phone": "775-423-4714",
+      "website": "https://www.fallonchamber.com/community-resource/fallon-daily-bread-wolf-center/",
+      "eligibility": "Open to anyone; free hot evening meal.",
+      "category": "meal",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "thu"
+          ],
+          "open": "17:00",
+          "close": "18:00",
+          "note": "Hot dinner, all welcome, no requirements. (Fallon Chamber lists 17:30-18:30; statewide Nevada Independent guide lists 17:00-18:00 — kept input/NevInd window.)"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "mon"
+          ],
+          "open": "10:00",
+          "close": "13:00",
+          "note": "Food bank distribution."
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "wed",
+            "sat"
+          ],
+          "open": "10:00",
+          "close": "13:00",
+          "note": "Brown sack lunch (Methodist Church kitchen)."
+        }
+      ]
+    },
+    {
+      "name": "Epworth Community Food Pantry (Wolf Center)",
+      "org": "Epworth United Methodist Church",
+      "address": "457 Esmeralda St, Fallon, NV 89406",
+      "phone": "775-423-2282",
+      "website": "",
+      "eligibility": "Open to community; free grocery pantry.",
+      "category": "pantry",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon"
+          ],
+          "open": "10:00",
+          "close": "13:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Fallon Church of the Nazarene Meal",
+      "org": "Fallon Church of the Nazarene",
+      "address": "1520 Grimes St, Fallon, NV 89406",
+      "phone": "",
+      "website": "",
+      "eligibility": "Open to anyone; free hot meal.",
+      "category": "faith",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "wed"
+          ],
+          "open": "17:00",
+          "close": "18:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Toi Ticutta Food Hub",
+      "org": "Fallon Paiute-Shoshone Tribe",
+      "address": "8942 Mission Rd, Fallon, NV 89406",
+      "phone": "775-423-6075",
+      "website": "https://www.fpst.org/",
+      "eligibility": "Open to community; tribal food hub distributing free groceries.",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon"
+          ],
+          "open": "15:00",
+          "close": "17:00",
+          "note": "Operated by Fallon Paiute Shoshone Tribe."
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "wed",
+            "fri"
+          ],
+          "open": "09:00",
+          "close": "12:00",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Catholic Charities Winnemucca Neighborhood Center",
+      "org": "Catholic Charities of Northern Nevada",
+      "address": "625 Sheehan St, Unit F, Winnemucca, NV 89445",
+      "phone": "775-870-4055",
+      "website": "https://ccsnn.org/pages/food-pantry",
+      "eligibility": "Open to community; free food pantry.",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "tue",
+            "wed",
+            "thu"
+          ],
+          "open": "12:00",
+          "close": "16:00",
+          "note": "Client-choice food pantry; photo ID, proof of residence and income required. Also offers SNAP/benefit enrollment."
+        }
+      ]
+    },
+    {
+      "name": "Winnemucca United Methodist Church Soup Kitchen",
+      "org": "Winnemucca United Methodist Church / Winnemucca Ministerial Association",
+      "address": "138 W Winnemucca Blvd, Winnemucca, NV 89445",
+      "phone": "775-623-2814",
+      "website": "https://www.winnemuccaumc.org/",
+      "eligibility": "Open to anyone in need of a hot meal; no charge. Served in the church basement.",
+      "category": "meal",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "tue"
+          ],
+          "open": "12:00",
+          "close": "13:00",
+          "note": "Lunch"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "tue",
+            "wed",
+            "thu",
+            "sun"
+          ],
+          "open": "18:00",
+          "close": "19:00",
+          "note": "Dinner at 6:00pm"
+        }
+      ]
+    },
+    {
+      "name": "Douglas County Community & Senior Center Congregate Dining",
+      "org": "Douglas County Community Services",
+      "address": "1329 Waterloo Ln, Gardnerville, NV 89410",
+      "phone": "775-782-5500",
+      "website": "https://communityservices.douglascountynv.gov/senior_services/senior_services/congregate_dining",
+      "eligibility": "Seniors 60+ Nevada residents: free/$3 suggested donation. Under 60 / out-of-state: $7 mandatory charge.",
+      "category": "senior",
+      "confidence": "high",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri"
+          ],
+          "open": "11:30",
+          "close": "12:30",
+          "note": "Hot lunch; call to confirm daily schedule"
+        }
+      ]
+    },
+    {
+      "name": "Reno-Sparks Indian Colony TEFAP Food Distribution",
+      "org": "Reno-Sparks Indian Colony",
+      "address": "1715 Kuenzli St, Reno, NV 89502",
+      "phone": "775-329-2936",
+      "website": "https://www.rsic.org/",
+      "eligibility": "USDA commodity (TEFAP) distribution - juices, canned fruit/veg, canned/frozen meats, dry beans, pasta.",
+      "category": "pantry",
+      "confidence": "medium",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "thu"
+          ],
+          "open": "12:00",
+          "close": "14:00",
+          "note": "TEFAP commodity distribution at the Health Center"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "_comment": "Single net-new Serving Seniors congregate-dining site missing from FoodDistributionSD. From the Serving Seniors 'Locations & Meal Times' brochure. Judith L. Seltz serves lunch (the co-located Paul Downey Senior Residence at the same address is housing-only, no public meals, so not added).",
+  "sites": [
+    {
+      "name": "Judith L. Seltz Senior Wellness Center",
+      "org": "Serving Seniors",
+      "address": "5257 Mt. Etna Dr, San Diego, CA 92117",
+      "category": "senior",
+      "confidence": "high",
+      "phone": "(619) 235-6572",
+      "website": "https://servingseniors.org/what-we-do/programs-services/congregate-dining.html",
+      "eligibility": "Adults 60+ (no cost)",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon", "tue", "wed", "thu", "fri"], "open": "12:00", "note": "lunch" }
+      ]
+    }
+  ]
+}

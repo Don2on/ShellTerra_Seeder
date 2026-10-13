@@ -1,0 +1,122 @@
+{
+  "_meta": {
+    "topic": "Net-new Mono County food distributions",
+    "generated": "2026-10-05",
+    "source": "Research supplementing shell PENDING-Mono; raw ./MonoAdditions-raw.json."
+  },
+  "_deferred": {
+    "add-benton-community-center-imaca-distribution": {
+      "title": "Benton Community Center (IMACA distribution)",
+      "status": "date varies; intake form required Phone: (760) 873-8557.",
+      "address": "58869 Hwy 120, Benton, CA 93512",
+      "lat": 37.81886,
+      "lng": -118.478917,
+      "phone": "(760) 873-8557",
+      "eligibility": "",
+      "sourceUrl": "https://www.imaca.net/"
+    },
+    "add-bridgeport-community-center-mobile-food-drop": {
+      "title": "Bridgeport Community Center (mobile food drop)",
+      "status": "date varies Phone: (775) 331-3663.",
+      "address": "129 Emigrant St, Bridgeport, CA 93517",
+      "lat": 38.25688,
+      "lng": -119.230537,
+      "phone": "(775) 331-3663",
+      "eligibility": "",
+      "sourceUrl": "https://www.imaca.net/"
+    },
+    "add-chalfant-fire-department-imaca-distribution": {
+      "title": "Chalfant Fire Department (IMACA distribution)",
+      "status": "date varies Phone: (760) 873-8557.",
+      "address": "215 Valley Rd, Chalfant Valley, CA 93514",
+      "lat": 37.52798,
+      "lng": -118.36794,
+      "phone": "(760) 873-8557",
+      "eligibility": "",
+      "sourceUrl": "https://www.imaca.net/"
+    },
+    "add-june-lake-community-center-imaca-distribution": {
+      "title": "June Lake Community Center (IMACA distribution)",
+      "status": "date varies Phone: (760) 873-8557.",
+      "address": "90 W Granite Ave, June Lake, CA 93529",
+      "lat": 37.778508,
+      "lng": -119.080493,
+      "phone": "(760) 873-8557",
+      "eligibility": "",
+      "sourceUrl": "https://www.imaca.net/"
+    },
+    "add-lee-vining-community-center-imaca-distribution": {
+      "title": "Lee Vining Community Center (IMACA distribution)",
+      "status": "date varies Phone: (760) 873-8557.",
+      "address": "296 Mattly Ave, Lee Vining, CA 93541",
+      "lat": 37.961547,
+      "lng": -119.119587,
+      "phone": "(760) 873-8557",
+      "eligibility": "",
+      "sourceUrl": "https://www.imaca.net/"
+    },
+    "add-mammoth-creek-park-community-recreation-center-m": {
+      "title": "Mammoth Creek Park Community Recreation Center (mobile food drop)",
+      "status": "date varies",
+      "address": "Mammoth Creek Park, Mammoth Lakes, CA 93546",
+      "lat": 37.63561,
+      "lng": -118.940521,
+      "phone": "",
+      "eligibility": "",
+      "sourceUrl": "https://www.imaca.net/"
+    },
+    "add-second-chance-thrift-store-non-perishable-food": {
+      "title": "Second Chance Thrift Store (non-perishable food)",
+      "status": "Daily 10am-5pm Phone: (760) 924-2474.",
+      "address": "501 Old Mammoth Rd, Mammoth Lakes, CA 93546",
+      "lat": 37.638514,
+      "lng": -118.966057,
+      "phone": "(760) 924-2474",
+      "eligibility": "",
+      "sourceUrl": "https://www.imaca.net/"
+    },
+    "add-st-joseph-s-church-imaca-distribution": {
+      "title": "St. Joseph's Church (IMACA distribution)",
+      "status": "date varies Phone: (760) 873-8557.",
+      "address": "58 Ranch Rd, Mammoth Lakes, CA 93546",
+      "lat": 37.62899,
+      "lng": -118.977341,
+      "phone": "(760) 873-8557",
+      "eligibility": "",
+      "sourceUrl": "https://www.imaca.net/"
+    },
+    "add-walker-senior-center-mobile-food-drop": {
+      "title": "Walker Senior Center (mobile food drop)",
+      "status": "date varies Phone: (775) 331-3663.",
+      "address": "399 Mule Deer Rd, Walker, CA 96107",
+      "lat": 38.513725,
+      "lng": -119.479143,
+      "phone": "(775) 331-3663",
+      "eligibility": "",
+      "sourceUrl": "https://www.imaca.net/"
+    }
+  },
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "add-salvation-army-mammoth-lakes-w15-1600",
+      "seriesSlug": "add-salvation-army-mammoth-lakes",
+      "title": "Salvation Army - Mammoth Lakes — Free Food",
+      "description": "Free food at Salvation Army - Mammoth Lakes. Schedule: Mon, Fri 4 PM–5:30 PM. Call (760) 914-0245 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Salvation Army - Mammoth Lakes",
+      "address": "220 Sierra Manor Rd, Mammoth Lakes, CA 93546",
+      "lat": 37.641501,
+      "lng": -118.965187,
+      "category": "food-assistance",
+      "sourceOrg": "Salvation Army - Mammoth Lakes",
+      "url": "https://www.imaca.net/",
+      "schedulePattern": "Mon, Fri 4 PM–5:30 PM",
+      "start": "2026-09-28T16:00",
+      "end": "2026-09-28T17:30",
+      "recurrence": {
+        "frequency": "weekly"
+      },
+      "recurDays": "1,5"
+    }
+  ]
+}

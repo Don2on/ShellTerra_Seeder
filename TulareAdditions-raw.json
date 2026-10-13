@@ -1,0 +1,948 @@
+{
+  "_meta": {
+    "topic": "Tulare County food distributions",
+    "generated": "2026-10-11",
+    "source": "Hand-collected list (Trinity County Food Bank, Central California Food Bank, ATCAA/Feed America). Schedules parsed via LA clause parser.",
+    "note": "Drop-in raw for prepare-food-additions.mjs."
+  },
+  "sites": [
+    {
+      "name": "Allensworth Neighborhood Market",
+      "org": "Allensworth Neighborhood Market",
+      "address": "3320 Young Rd, Allensworth, CA 93219",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Wed 11am-2pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed"
+          ],
+          "open": "11:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Save the Children (Alpaugh)",
+      "org": "Save the Children (Alpaugh)",
+      "address": "5313 Rd. 39, Alpaugh, CA 93201",
+      "phone": "(559) 237-3663 ext. 1108",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Wed 10am-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed"
+          ],
+          "open": "10:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Farm Worker Hands - Ledbetter Park",
+      "org": "Farm Worker Hands - Ledbetter Park",
+      "address": "40779 Rd 128, Cutler, CA 93615",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Fri 2pm-4pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Fri"
+          ],
+          "open": "14:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Open Gate Ministries Cutler",
+      "org": "Open Gate Ministries Cutler",
+      "address": "12588 Ave. 407, Cutler, CA 93615",
+      "phone": "559-591-1241",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Tue 9am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Tue"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Dinuba Hispanic SDA Church",
+      "org": "Dinuba Hispanic SDA Church",
+      "address": "325 N Eaton Ave, Dinuba, CA 93618",
+      "phone": "559-356-0172",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Fri 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri",
+            "3rd Fri"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "New Life Community Church",
+      "org": "New Life Community Church",
+      "address": "110 N Nicholas Ave, Dinuba, CA 93618",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st through 4th Wed 2pm-4pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Wed",
+            "4th Wed"
+          ],
+          "open": "14:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Rural Foundation for Community Advancement",
+      "org": "Rural Foundation for Community Advancement",
+      "address": "712 East Washington St, Earlimart, CA 93219",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Tue 2pm-4pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Tue"
+          ],
+          "open": "14:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Exeter Seventh Day Adventist",
+      "org": "Exeter Seventh Day Adventist",
+      "address": "600 Lenox Ave, Exeter, CA 93221",
+      "phone": "559-550-7353",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Fri 1:30pm-3:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri"
+          ],
+          "open": "13:30",
+          "close": "15:30"
+        }
+      ]
+    },
+    {
+      "name": "First Southern Baptist Church of Ivanhoe",
+      "org": "First Southern Baptist Church of Ivanhoe",
+      "address": "33017 Hawthorne Road, Ivanhoe, CA 93235",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Fri 10:30am-12:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri"
+          ],
+          "open": "10:30",
+          "close": "12:30"
+        }
+      ]
+    },
+    {
+      "name": "Ivanhoe Walnut Grove Assembly of God (VEAC)",
+      "org": "Ivanhoe Walnut Grove Assembly of God (VEAC)",
+      "address": "3256 Road 160, Ivanhoe, CA 93235",
+      "phone": "(559) 732-0101",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Thu 11am-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Thu"
+          ],
+          "open": "11:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Lemon Cove Community Church",
+      "org": "Lemon Cove Community Church",
+      "address": "32937 Sierra Dr, Lemon Cove, CA 93244",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Wed 10:30am-1:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Wed"
+          ],
+          "open": "10:30",
+          "close": "13:30"
+        }
+      ]
+    },
+    {
+      "name": "Lindsay SDA",
+      "org": "Lindsay SDA",
+      "address": "588 E Honolulu St, Lindsay, CA 93247",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Mon 11am-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Mon"
+          ],
+          "open": "11:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Open Gate Ministries Orosi",
+      "org": "Open Gate Ministries Orosi",
+      "address": "41645 Road 128, Orosi, CA 93647",
+      "phone": "559-591-1241",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Tue 9am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Tue"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Pixley First Assembly",
+      "org": "Pixley First Assembly",
+      "address": "703 S. Elm St, Pixley, CA 93256",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Sat 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Poplar ACTS 2 Christian Fellowship Church of God",
+      "org": "Poplar ACTS 2 Christian Fellowship Church of God",
+      "address": "19283 Ave. 144, Poplar, CA 93257",
+      "phone": "(559) 237-3663",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Thu 1pm-3pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu"
+          ],
+          "open": "13:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Altruistic United Humanity Association",
+      "org": "Altruistic United Humanity Association",
+      "address": "219 N E Street, Porterville, CA 93257",
+      "phone": "559-359-2347",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Fri 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri",
+            "3rd Fri"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Centro Familiar Cosecha Abundante",
+      "org": "Centro Familiar Cosecha Abundante",
+      "address": "2450 S. Main St, Porterville, CA 93257",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Fri 3pm-5pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Fri",
+            "3rd Fri"
+          ],
+          "open": "15:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Porterville Church of God",
+      "org": "Porterville Church of God",
+      "address": "940 Jubilee Ln, Porterville, CA 93257",
+      "phone": "602-390-2371",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Sat 9am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Sat"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Porterville College",
+      "org": "Porterville College",
+      "address": "100 E. College Ave, Porterville, CA 93257",
+      "phone": "559-791-2301",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "except Jan, Aug, Dec",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Mon"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Anne's Food Pantry",
+      "org": "St. Anne's Food Pantry",
+      "address": "271 S. Wallace St, Porterville, CA 93257",
+      "phone": "559-783-8018",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed and Thu 8:30am-11:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed",
+            "Thu"
+          ],
+          "open": "08:30",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Tule River Justice Center",
+      "org": "Tule River Justice Center",
+      "address": "129 S Reservation Rd, Porterville, CA 93257",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Fri 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Fri"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Springville Ranch ADHC",
+      "org": "Springville Ranch ADHC",
+      "address": "36400 CA-190, Springville, CA 93265",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 1pm-3pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "13:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Strathmore Full Gospel Assembly of God",
+      "org": "Strathmore Full Gospel Assembly of God",
+      "address": "19570 Orange Belt Dr, Strathmore, CA 93267",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Fri 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Fri"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Traver - KCAP",
+      "org": "Traver - KCAP",
+      "address": "3957 Kitchner Dr, Traver, CA 93673",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Mon 2:30pm-5pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Mon"
+          ],
+          "open": "14:30",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "Brooks Chapel",
+      "org": "Brooks Chapel",
+      "address": "701 S. U St, Tulare, CA 93274",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Sat 9am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Sat"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Iglesia de Dios Peniel",
+      "org": "Iglesia de Dios Peniel",
+      "address": "358 N. E St, Tulare, CA 93274",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Tue 11am-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Tue"
+          ],
+          "open": "11:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Iglesia Jesus es el Senor",
+      "org": "Iglesia Jesus es el Senor",
+      "address": "1917 W. Inyo Ave, Tulare, CA 93274",
+      "phone": "559-300-6333",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Mon 2pm-4pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Mon"
+          ],
+          "open": "14:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "St. John's Missionary Baptist Tulare",
+      "org": "St. John's Missionary Baptist Tulare",
+      "address": "310 S Blackstone St, Tulare, CA 93274",
+      "phone": "(559) 237-3663 ext. 1108",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Tue 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "The Salvation Army Tulare",
+      "org": "The Salvation Army Tulare",
+      "address": "314 E. San Joaquin Ave, Tulare, CA 93274",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue 9am-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Tulare Compassion Center",
+      "org": "Tulare Compassion Center",
+      "address": "1929 E. Bardsley Ave, Tulare, CA 93274",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Sat 9am-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Sat"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Tulare SDA Church",
+      "org": "Tulare SDA Church",
+      "address": "494 N. Blackstone St, Tulare, CA 93274",
+      "phone": "928-246-0691",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Fri 9am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Fri"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Tulare United Methodist Church",
+      "org": "Tulare United Methodist Church",
+      "address": "228 W. Kern Ave, Tulare, CA 93274",
+      "phone": "559-302-8451",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Sat 11am-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Sat"
+          ],
+          "open": "11:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Bethlehem Center",
+      "org": "Bethlehem Center",
+      "address": "1638 N. Dinuba Blvd, Visalia, CA 93291",
+      "phone": "559-734-1572",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 12pm-1:45pm; meals Mon-Fri 8am-9am and 12pm-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "12:00",
+          "close": "13:45"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "08:00",
+          "close": "09:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Goshen Family Health Care Network (VEAC)",
+      "org": "Goshen Family Health Care Network (VEAC)",
+      "address": "7210 Ave. 308, Visalia, CA 93291",
+      "phone": "(559) 732-0101",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Wed 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Wed"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Stone Corral Elementary School",
+      "org": "Stone Corral Elementary School",
+      "address": "15590 Ave. 383, Visalia, CA 93292",
+      "phone": "(559) 237-3663 ext. 1108",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Mon 1:30pm-4:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Mon"
+          ],
+          "open": "13:30",
+          "close": "16:30"
+        }
+      ]
+    },
+    {
+      "name": "The Salvation Army Visalia",
+      "org": "The Salvation Army Visalia",
+      "address": "1501 W. Main St, Visalia, CA 93291",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 9am-12pm; 3rd Wed 9am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Wed"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Visalia Church of God",
+      "org": "Visalia Church of God",
+      "address": "1020 W. Grove Ave, Visalia, CA 93291",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Wed 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Wed"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Visalia Community Church of Christ",
+      "org": "Visalia Community Church of Christ",
+      "address": "3838 S. Court St, Visalia, CA 93277",
+      "phone": "(559) 734-4833",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Thu 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Visalia Emergency Aid Council",
+      "org": "Visalia Emergency Aid Council",
+      "address": "217 NE 3rd St, Visalia, CA 93291",
+      "phone": "559-734-4833",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Tue, Thu, Fri 10am-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Thu",
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Visalia Nazarene Church",
+      "org": "Visalia Nazarene Church",
+      "address": "3333 W Caldwell Ave, Visalia, CA 93277",
+      "phone": "(559) 237-3663 ext. 1108",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Thu 9am-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Thu"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Visalia Rescue Mission",
+      "org": "Visalia Rescue Mission",
+      "address": "500 E. Race Ave, Visalia, CA 93291",
+      "phone": "559-740-4178",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Meals daily breakfast 7am, dinner 5pm",
+      "schedules": []
+    },
+    {
+      "name": "Visalia United Methodist Church",
+      "org": "Visalia United Methodist Church",
+      "address": "5200 W. Caldwell Ave, Visalia, CA 93277",
+      "phone": "(559) 627-1660",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Wed 10am-12pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Iglesia Adventista del Septimo Dia - Neighborhood Market",
+      "org": "Iglesia Adventista del Septimo Dia - Neighborhood Market",
+      "address": "230 N. Acacia St, Woodlake, CA 93286",
+      "phone": "(559) 237-3663 ext. 1108",
+      "eligibility": "",
+      "website": "https://ccfoodbank.org/find-food/food-locator/",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Tue 11am-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Tue"
+          ],
+          "open": "11:00",
+          "close": "13:00"
+        }
+      ]
+    }
+  ]
+}

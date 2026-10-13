@@ -1,0 +1,395 @@
+{
+  "sites": [
+    {
+      "name": "Catholic Charities - St. Robert's Community Center (Venice Saturday Food Program)",
+      "org": "Catholic Charities of Los Angeles",
+      "address": "211 3rd Avenue, Venice, CA, 90291",
+      "phone": "(213) 318-5756",
+      "website": "https://catholiccharitiesla.org/program-directory-by-city/",
+      "eligibility": "Open to anyone in need",
+      "category": "hot-meal",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["sat"], "open": "08:30", "close": "11:00", "note": "Breakfast and sack lunches" }
+      ]
+    },
+    {
+      "name": "Catholic Charities - Alhambra Community Services Center",
+      "org": "Catholic Charities of Los Angeles",
+      "address": "104 South First Street, Alhambra, CA, 91801",
+      "phone": "(323) 887-7122",
+      "website": "https://catholiccharitiesla.org/program-directory-by-city/",
+      "eligibility": "Call ahead",
+      "category": "pantry",
+      "confidence": "medium",
+      "schedules": []
+    },
+    {
+      "name": "Catholic Charities - Burbank Community Services Center",
+      "org": "Catholic Charities of Los Angeles",
+      "address": "1190 Flower Street, Burbank, CA, 91502",
+      "phone": "(818) 566-7148",
+      "website": "https://catholiccharitiesla.org/program-directory-by-city/",
+      "eligibility": "Call ahead",
+      "category": "pantry",
+      "confidence": "medium",
+      "schedules": []
+    },
+    {
+      "name": "Catholic Charities - Compton Community Services Center",
+      "org": "Catholic Charities of Los Angeles",
+      "address": "2909 E. Pacific Commerce Dr., Compton, CA, 90221",
+      "phone": "(310) 762-1101",
+      "website": "https://catholiccharitiesla.org/program-directory-by-city/",
+      "eligibility": "Call ahead",
+      "category": "pantry",
+      "confidence": "medium",
+      "schedules": []
+    },
+    {
+      "name": "Catholic Charities - Pomona Community Services Center",
+      "org": "Catholic Charities of Los Angeles",
+      "address": "1460 E. Holt Avenue, Suite 98, Pomona, CA, 91767",
+      "phone": "(909) 629-1331",
+      "website": "https://catholiccharitiesla.org/program-directory-by-city/",
+      "eligibility": "Call ahead",
+      "category": "pantry",
+      "confidence": "medium",
+      "schedules": []
+    },
+    {
+      "name": "Salvation Army - Glendale Corps Community Center Food Pantry",
+      "org": "Salvation Army",
+      "address": "320 W. Windsor Road, Glendale, CA, 91204",
+      "phone": "(818) 246-5586",
+      "website": "https://glendale-ca.salvationarmy.org/glendale-ca/cure-hunger/",
+      "eligibility": "Open to anyone in need",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon", "tue", "wed", "thu", "fri"], "open": "13:00", "close": "16:00", "note": "Food pantry" }
+      ]
+    },
+    {
+      "name": "Salvation Army - Inglewood Citadel Corps Community Center Food Pantry",
+      "org": "Salvation Army",
+      "address": "324 E. Queen Street, Inglewood, CA, 90301",
+      "phone": "(310) 677-3375",
+      "website": "https://inglewood.salvationarmy.org/inglewood_corps/",
+      "eligibility": "Open to anyone in need",
+      "category": "pantry",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon", "tue", "wed", "thu", "fri"], "open": "13:00", "close": "15:00", "note": "Food pantry" }
+      ]
+    },
+    {
+      "name": "YMCA FeedLA - Anderson Munger Family YMCA",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "4301 W 3rd Street, Los Angeles, CA, 90020",
+      "phone": "(213) 427-6700",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to anyone in need; no membership required",
+      "category": "mobile",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "monthly", "patterns": ["second tuesday", "fourth tuesday"], "open": "09:00", "close": "12:00", "note": "FeedLA distribution" }
+      ]
+    },
+    {
+      "name": "YMCA FeedLA - Antelope Valley Family YMCA",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "43001 10th Street West, Lancaster, CA, 93534",
+      "phone": "(661) 723-9622",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to anyone in need; no membership required",
+      "category": "mobile",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "monthly", "patterns": ["first monday", "third monday"], "open": "15:00", "close": "19:00", "note": "FeedLA distribution; days vary, call ahead" }
+      ]
+    },
+    {
+      "name": "YMCA FeedLA - Burbank YMCA",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "321 E Magnolia Boulevard, Burbank, CA, 91502",
+      "phone": "(818) 845-8551",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to anyone in need; no membership required",
+      "category": "mobile",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "monthly", "patterns": ["first thursday", "third thursday"], "open": "10:30", "close": "12:30", "note": "FeedLA distribution; days vary, call ahead" }
+      ]
+    },
+    {
+      "name": "YMCA FeedLA - Collins & Katz Family YMCA",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "1466 S Westgate Avenue, Los Angeles, CA, 90025",
+      "phone": "(310) 477-1511",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to anyone in need; no membership required",
+      "category": "mobile",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["thu"], "open": "10:30", "close": "12:00", "note": "FeedLA distribution" }
+      ]
+    },
+    {
+      "name": "YMCA FeedLA - Crenshaw Family YMCA",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "3820 Santa Rosalia Drive, Los Angeles, CA, 90008",
+      "phone": "(323) 292-9558",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to anyone in need; no membership required",
+      "category": "mobile",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["tue"], "open": "11:00", "close": "15:00", "note": "FeedLA distribution" }
+      ]
+    },
+    {
+      "name": "YMCA FeedLA - Crowell Family YMCA",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "1605 Garfield Avenue, South Pasadena, CA, 91030",
+      "phone": "(626) 799-9119",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to anyone in need; no membership required",
+      "category": "mobile",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["thu"], "open": "10:00", "close": "12:00", "note": "FeedLA distribution" }
+      ]
+    },
+    {
+      "name": "YMCA FeedLA - Culver-Palms Family YMCA",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "4500 Sepulveda Boulevard, Culver City, CA, 90230",
+      "phone": "(310) 390-3604",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to anyone in need; no membership required",
+      "category": "mobile",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["thu"], "open": "10:30", "close": "13:30", "note": "FeedLA distribution" }
+      ]
+    },
+    {
+      "name": "YMCA FeedLA - East Valley Family YMCA",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "5142 Tujunga Avenue, North Hollywood, CA, 91601",
+      "phone": "(818) 763-5126",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to anyone in need; no membership required",
+      "category": "mobile",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["thu"], "open": "10:00", "close": "12:30", "note": "FeedLA distribution" }
+      ]
+    },
+    {
+      "name": "YMCA FeedLA - Gardena-Carson Family YMCA",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "1000 W Artesia Boulevard, Gardena, CA, 90247",
+      "phone": "(310) 324-9622",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to anyone in need; no membership required",
+      "category": "mobile",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["thu"], "open": "10:00", "close": "11:00", "note": "FeedLA distribution" }
+      ]
+    },
+    {
+      "name": "YMCA FeedLA - Hollywood YMCA",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "1553 N Schrader Boulevard, Los Angeles, CA, 90028",
+      "phone": "(323) 467-4161",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to anyone in need; no membership required",
+      "category": "mobile",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "monthly", "patterns": ["fourth thursday"], "open": "12:00", "close": "14:00", "note": "FeedLA distribution; starts 12:00 until supplies last" }
+      ]
+    },
+    {
+      "name": "YMCA FeedLA - Montebello-Commerce YMCA",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "2000 W Beverly Boulevard, Montebello, CA, 90640",
+      "phone": "(323) 887-9622",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to anyone in need; no membership required",
+      "category": "mobile",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["thu"], "open": "10:00", "close": "12:00", "note": "FeedLA distribution" }
+      ]
+    },
+    {
+      "name": "YMCA FeedLA - North Valley Family YMCA (San Fernando Gardens)",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "10896 Lehigh Avenue, Pacoima, CA, 91331",
+      "phone": "(818) 893-6478",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to anyone in need; no membership required",
+      "category": "mobile",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon"], "open": "11:00", "close": "12:00", "note": "FeedLA distribution" }
+      ]
+    },
+    {
+      "name": "YMCA FeedLA - Pasadena-Sierra Madre YMCA",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "611 E Sierra Madre Boulevard, Sierra Madre, CA, 91024",
+      "phone": "(626) 355-8114",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to anyone in need; no membership required",
+      "category": "mobile",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["thu"], "open": "10:00", "close": "12:00", "note": "FeedLA distribution" }
+      ]
+    },
+    {
+      "name": "YMCA FeedLA - Santa Anita Family YMCA (Monrovia)",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "501 S Mountain Avenue, Monrovia, CA, 91016",
+      "phone": "(626) 359-9244",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to anyone in need; no membership required",
+      "category": "mobile",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["thu"], "open": "09:30", "close": "12:00", "note": "FeedLA distribution" }
+      ]
+    },
+    {
+      "name": "YMCA FeedLA - Santa Anita Family YMCA (El Monte)",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "3900 Gilman Road, El Monte, CA, 91732",
+      "phone": "(626) 359-9244",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to anyone in need; no membership required",
+      "category": "mobile",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["tue"], "open": "16:00", "close": "19:00", "note": "FeedLA distribution" }
+      ]
+    },
+    {
+      "name": "YMCA FeedLA - Santa Anita Family YMCA (Azusa)",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "340 N Orange Place, Azusa, CA, 91702",
+      "phone": "(626) 359-9244",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to anyone in need; no membership required",
+      "category": "mobile",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "monthly", "patterns": ["second wednesday", "fourth wednesday"], "open": "09:30", "close": "12:00", "note": "FeedLA distribution; days vary, call ahead" }
+      ]
+    },
+    {
+      "name": "YMCA FeedLA - Southeast-Rio Vista YMCA",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "8912 Madison Avenue, South Gate, CA, 90280",
+      "phone": "(323) 564-4863",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to anyone in need; no membership required",
+      "category": "mobile",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["fri"], "open": "09:00", "close": "11:00", "note": "FeedLA distribution; starts 09:00 until supplies last" }
+      ]
+    },
+    {
+      "name": "YMCA FeedLA - Weingart YMCA Wellness & Aquatic Center",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "9900 S Vermont Avenue, Los Angeles, CA, 90044",
+      "phone": "(323) 777-9622",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to anyone in need; no membership required",
+      "category": "mobile",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "monthly", "patterns": ["first tuesday", "third tuesday"], "open": "09:00", "close": "11:30", "note": "FeedLA distribution; days vary, call ahead" }
+      ]
+    },
+    {
+      "name": "YMCA FeedLA - Westchester Family YMCA",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "8015 S Sepulveda Boulevard, Los Angeles, CA, 90045",
+      "phone": "(310) 670-4316",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to anyone in need; no membership required",
+      "category": "mobile",
+      "confidence": "high",
+      "schedules": [
+        { "freq": "weekly", "days": ["thu"], "open": "10:00", "close": "12:00", "note": "FeedLA distribution" }
+      ]
+    },
+    {
+      "name": "YMCA FeedLA - Wilmington YMCA",
+      "org": "YMCA of Metropolitan Los Angeles",
+      "address": "1127 N Avalon Boulevard, Wilmington, CA, 90744",
+      "phone": "(310) 549-9622",
+      "website": "https://www.ymcala.org/programs/social/feedla/",
+      "eligibility": "Open to anyone in need; no membership required",
+      "category": "mobile",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "monthly", "patterns": ["second tuesday", "fourth tuesday"], "open": "10:00", "close": "12:00", "note": "FeedLA distribution; days vary, call ahead" }
+      ]
+    },
+    {
+      "name": "SOVA West Hollywood Food Pantry (JFS/SOVA)",
+      "org": "Jewish Family Service LA / SOVA",
+      "address": "7377 Santa Monica Boulevard, West Hollywood, CA, 90046",
+      "phone": "(323) 851-8202",
+      "website": "https://www.jfsla.org/program/sova/",
+      "eligibility": "Open to anyone in need; nonsectarian",
+      "category": "pantry",
+      "confidence": "medium",
+      "schedules": []
+    },
+    {
+      "name": "St. Vincent de Paul - Incarnation Catholic Church Conference",
+      "org": "St. Vincent de Paul (SVdP) Los Angeles Council",
+      "address": "1001 N Brand Boulevard, Glendale, CA, 91202",
+      "phone": "(818) 242-2579",
+      "website": "https://incaglendale.org/st-vincent-de-paul",
+      "eligibility": "Call ahead for assistance",
+      "category": "church",
+      "confidence": "medium",
+      "schedules": []
+    },
+    {
+      "name": "St. Vincent de Paul - Torrance Conference Food Pantry",
+      "org": "St. Vincent de Paul (SVdP) Los Angeles Council",
+      "address": "1551 El Prado Avenue, Torrance, CA, 90501",
+      "phone": "(310) 328-3242",
+      "website": "https://svdpla.org/",
+      "eligibility": "Call ahead",
+      "category": "church",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "monthly", "patterns": ["fourth saturday"], "open": "11:00", "close": "12:00", "note": "Food pantry" }
+      ]
+    },
+    {
+      "name": "Volunteers of America Los Angeles - Western Avenue Grocery Assistance",
+      "org": "Volunteers of America Los Angeles",
+      "address": "1075 N. Western Avenue, Los Angeles, CA, 90029",
+      "phone": "(323) 364-8663",
+      "website": "https://www.voala.org/",
+      "eligibility": "For those ineligible for CalFresh/other benefits; grocery gift-card assistance",
+      "category": "pantry",
+      "confidence": "medium",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon", "tue", "wed", "thu", "fri"], "open": "08:30", "close": "16:00", "note": "Grocery gift-card assistance" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "_meta": {
+    "topic": "Net-new Alpine County food distributions",
+    "generated": "2026-10-05",
+    "source": "Research supplementing shell PENDING-Alpine; raw ./AlpineAdditions-raw.json."
+  },
+  "_deferred": {
+    "add-alpine-county-social-services-department": {
+      "title": "Alpine County Social Services Department",
+      "status": "office Mon-Fri 8am-5pm Phone: (530) 694-2235.",
+      "address": "75A Diamond Valley Rd, Markleeville, CA 96120",
+      "lat": 38.76948,
+      "lng": -119.81705,
+      "phone": "(530) 694-2235",
+      "eligibility": "",
+      "sourceUrl": "https://fbnn.org/"
+    },
+    "add-first-5-alpine": {
+      "title": "First 5 Alpine",
+      "status": "Call ahead for current days and hours.",
+      "address": "75A Diamond Valley Rd, Markleeville, CA 96120",
+      "lat": 38.76948,
+      "lng": -119.81705,
+      "phone": "",
+      "eligibility": "",
+      "sourceUrl": "https://fbnn.org/"
+    }
+  },
+  "items": [
+    {
+      "kind": "activity",
+      "slug": "add-woodfords-gym-food-bank-of-northern-nevada-mobil-m22-0900",
+      "seriesSlug": "add-woodfords-gym-food-bank-of-northern-nevada-mobil",
+      "title": "Woodfords Gym (Food Bank of Northern Nevada mobile site) — Free Food",
+      "description": "Free food at Woodfords Gym (Food Bank of Northern Nevada mobile site). Schedule: 2nd Tue 9 AM–10 AM. Call (775) 331-3663 to confirm before you go — hours change and supplies can run out. Source: community research, Oct 2026.",
+      "locationName": "Woodfords Gym (Food Bank of Northern Nevada mobile site)",
+      "address": "25 Washo Blvd, Markleeville, CA 96120",
+      "lat": 38.793502,
+      "lng": -119.751865,
+      "category": "food-assistance",
+      "sourceOrg": "Woodfords Gym (Food Bank of Northern Nevada mobile site)",
+      "url": "https://fbnn.org/",
+      "schedulePattern": "2nd Tue 9 AM–10 AM",
+      "start": "2026-10-06T09:00",
+      "end": "2026-10-06T10:00",
+      "recurrence": {
+        "frequency": "monthly",
+        "nthWeekdays": [
+          {
+            "n": 2,
+            "dayOfWeek": 2
+          }
+        ]
+      },
+      "recurDays": "2:2"
+    }
+  ]
+}

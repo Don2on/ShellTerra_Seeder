@@ -1,0 +1,261 @@
+{
+  "sites": [
+    {
+      "slug": "add-the-salvation-army-ontario-corps",
+      "name": "The Salvation Army - Ontario Corps",
+      "operating": true,
+      "address": "1412 S Euclid Ave, Ontario, CA 91762",
+      "phone": "909-986-6748",
+      "website": "https://www.salvationarmyusa.org/ca/ontario/s-euclid-avenue-corps/",
+      "schedules": [
+        { "freq": "weekly", "days": ["thu"], "open": "09:30", "close": "12:00", "note": "By appointment only; call ahead" }
+      ],
+      "verified": "high",
+      "source": "https://www.salvationarmyusa.org/ca/ontario/s-euclid-avenue-corps/hunger/",
+      "note": "Official Salvation Army hunger page lists food pantry Thursday 9:30am-12pm by appointment, correcting the prior Mon-Fri listing."
+    },
+    {
+      "slug": "add-the-salvation-army-san-bernardino-corps",
+      "name": "The Salvation Army - San Bernardino Corps",
+      "operating": true,
+      "address": "2626 Pacific St, Highland, CA 92346",
+      "phone": "909-792-6868",
+      "website": "https://sanbernardino.salvationarmy.org/",
+      "schedules": [
+        { "freq": "weekly", "days": ["wed"], "open": "08:30", "close": "15:00", "note": "" }
+      ],
+      "verified": "high",
+      "source": "https://www.findhelp.org/the-salvation-army---san-bernardino--highland-ca--food-pantry/5391585083392000?postal=92346",
+      "note": "Address, phone and Wed 8:30am-3pm confirmed."
+    },
+    {
+      "slug": "add-eagle-food-pantry",
+      "name": "Eagle Food Pantry",
+      "operating": true,
+      "address": "7950 Cherry Ave Unit 111, Fontana, CA 92336",
+      "phone": "951-313-6816",
+      "website": "",
+      "schedules": [
+        { "freq": "weekly", "days": ["tue"], "open": "17:45", "close": "18:45", "note": "" },
+        { "freq": "weekly", "days": ["sat"], "open": "09:30", "close": "11:30", "note": "" }
+      ],
+      "verified": "high",
+      "source": "https://feedam.org/food-pantry/ca/fontana",
+      "note": "Distribution Tue 5:45-6:45pm and Sat 9:30-11:30am confirmed; phone 951-313-6816 added."
+    },
+    {
+      "slug": "add-colton-community-church-food-pantry",
+      "name": "Colton Community Church Food Pantry",
+      "operating": true,
+      "address": "1301 N Rancho Ave, Colton, CA 92324",
+      "phone": "909-825-0381",
+      "website": "https://www.coltoncommunitychurch.com/",
+      "schedules": [
+        { "freq": "weekly", "days": ["sun"], "open": "12:00", "close": "13:00", "note": "" },
+        { "freq": "monthly", "days": ["mon"], "open": "17:00", "close": "18:30", "note": "Last Monday of the month" }
+      ],
+      "verified": "high",
+      "source": "https://www.coltonca.gov/DocumentCenter/View/7171/IE-Food-Assistance-Resource-Lis-Updated-2003-9",
+      "note": "City of Colton resource list confirms Sun 12-1pm and last Monday 5-6:30pm."
+    },
+    {
+      "slug": "add-cucamonga-christian-fellowship-compassion-center",
+      "name": "Cucamonga Christian Fellowship - Compassion Center",
+      "operating": true,
+      "address": "11376 5th Street, Rancho Cucamonga, CA 91730",
+      "phone": "909-945-5333",
+      "website": "https://www.ccflive.org",
+      "schedules": [
+        { "freq": "weekly", "days": ["sat"], "open": "10:00", "close": "12:00", "note": "" }
+      ],
+      "verified": "high",
+      "source": "https://www.findhelp.org/cucamonga-christian-fellowship-(ccf)---compassion-center--rancho-cucamonga-ca--food-pantry/4955934940200960?postal=91701",
+      "note": "ADDRESS CORRECTED: actual location is 11376 5th Street, Rancho Cucamonga 91730 (NOT 9212 Baker Ave). Phone corrected to 909-945-5333. Current pantry hours Sat 10am-12pm."
+    },
+    {
+      "slug": "add-neighborhood-vineyard-church-food-distribution",
+      "name": "Neighborhood Vineyard Church Food Distribution",
+      "operating": true,
+      "address": "11966 Jack Benny Dr Suite 104, Rancho Cucamonga, CA 91739",
+      "phone": "909-646-8860",
+      "website": "https://nvcfamily.org/food-pantry/",
+      "schedules": [
+        { "freq": "monthly", "days": ["sat"], "open": "10:00", "close": "12:00", "note": "3rd Saturday; drive-thru" }
+      ],
+      "verified": "high",
+      "source": "https://nvcfamily.org/food-pantry/",
+      "note": "3rd Saturday drive-thru food pantry at 10am confirmed; phone 909-646-8860 added. Close time estimated."
+    },
+    {
+      "slug": "add-impact-christian-church-food-pantry-victor-valle",
+      "name": "Impact Christian Church Food Pantry (Victor Valley Rescue Mission)",
+      "operating": true,
+      "address": "17746 George Blvd, Victorville, CA 92394",
+      "phone": "760-246-4100",
+      "website": "https://www.greaterimpact.cc/",
+      "schedules": [
+        { "freq": "weekly", "days": ["tue"], "open": "11:00", "close": "12:00", "note": "Drive-up" }
+      ],
+      "verified": "high",
+      "source": "https://www.vesd.net/families/foodsupport",
+      "note": "Emergency food pantry Tue 11am-12pm (drive-up), correcting prior 10:30am start."
+    },
+    {
+      "slug": "add-samaritans-helping-hand-food-pantry",
+      "name": "Samaritans Helping Hand Food Pantry",
+      "operating": true,
+      "address": "15527 8th St, Victorville, CA 92395",
+      "phone": "760-243-5933",
+      "website": "",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon", "tue", "wed", "thu", "fri"], "open": "10:00", "close": "12:00", "note": "ID and SSN required" }
+      ],
+      "verified": "high",
+      "source": "https://www.vvng.com/victor-valley-food-resource-list/",
+      "note": "Mon-Fri 10am-12pm confirmed; phone 760-243-5933 added."
+    },
+    {
+      "slug": "add-restoration-center-seventh-day-adventist-church",
+      "name": "Restoration Center - Seventh-day Adventist Church",
+      "operating": true,
+      "address": "16673 Avalon Ave, Victorville, CA 92395",
+      "phone": "760-243-2525",
+      "website": "https://www.restorationcentersda.org/",
+      "schedules": [
+        { "freq": "weekly", "days": ["wed"], "open": "11:00", "close": "13:30", "note": "Bring your own bags" }
+      ],
+      "verified": "high",
+      "source": "https://www.vesd.net/families/foodsupport",
+      "note": "Wed 11am-1:30pm distribution confirmed; phone 760-243-2525 added. (Also a Monday 8:30-10:30am giveaway per some listings.)"
+    },
+    {
+      "slug": "add-victorville-peace-center-sonrise-church",
+      "name": "Victorville Peace Center - Sonrise Church",
+      "operating": true,
+      "address": "13495 Arrowhead Dr, Victorville, CA 92395",
+      "phone": "760-241-0168",
+      "website": "https://www.sunrisechurch.org/victorville",
+      "schedules": [
+        { "freq": "weekly", "days": ["tue", "wed", "thu", "fri"], "open": "09:00", "close": "12:00", "note": "Valid photo ID required; once per 7 days" }
+      ],
+      "verified": "high",
+      "source": "https://www.sunrisechurch.org/needhelp",
+      "note": "Peace Center food distribution Tue-Fri 9am-12pm confirmed; phone 760-241-0168 added. Operator is Sunrise Church (listing name 'Sonrise' retained)."
+    },
+    {
+      "slug": "add-the-gate-church-food-distribution",
+      "name": "The Gate Church Food Distribution",
+      "operating": true,
+      "address": "11783 Amethyst Rd, Victorville, CA 92392",
+      "phone": "760-949-8979",
+      "website": "",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon"], "open": "09:00", "close": "12:00", "note": "ID and proof of residency required" }
+      ],
+      "verified": "high",
+      "source": "https://www.vvng.com/victor-valley-food-resource-list/",
+      "note": "Monday 9am-12pm food distribution confirmed; phone 760-949-8979 added."
+    },
+    {
+      "slug": "add-holy-family-catholic-church-food-distribution",
+      "name": "Holy Family Catholic Church Food Distribution",
+      "operating": true,
+      "address": "9974 I Ave, Hesperia, CA 92345",
+      "phone": "760-244-9180",
+      "website": "https://www.holyfamilyhd.org/",
+      "schedules": [
+        { "freq": "monthly", "days": ["wed"], "open": "10:00", "close": "12:00", "note": "2nd Wednesday of the month" },
+        { "freq": "monthly", "days": ["wed"], "open": "10:00", "close": "12:00", "note": "3rd Wednesday of the month" }
+      ],
+      "verified": "high",
+      "source": "https://www.findhelp.org/holy-family-catholic-church--hesperia-ca--food-pantry/5617351769980928?postal=92340",
+      "note": "2nd and 3rd Wednesday of the month, 10am-12pm confirmed; phone 760-244-9180 added."
+    },
+    {
+      "slug": "add-apple-valley-church-of-the-nazarene-food-distrib",
+      "name": "Apple Valley Church of the Nazarene Food Distribution",
+      "operating": true,
+      "address": "12935 Central Rd, Apple Valley, CA 92308",
+      "phone": "760-247-8433",
+      "website": "https://avnaz.org/food-distribution",
+      "schedules": [
+        { "freq": "monthly", "days": ["fri"], "open": "10:00", "close": "12:00", "note": "3rd Friday; proof of income/ID/residency required" }
+      ],
+      "verified": "high",
+      "source": "https://avnaz.org/food-distribution",
+      "note": "Official church page confirms 3rd Friday 10am-noon; phone 760-247-8433 added. Times now confirmed (prior listing was approximate)."
+    },
+    {
+      "slug": "add-oasis-community-church-alex-ross-ford-food-pantr",
+      "name": "Oasis Community Church - Alex Ross Ford Food Pantry",
+      "operating": true,
+      "address": "6631 Utah Trail, Twentynine Palms, CA 92277",
+      "phone": "442-529-2657",
+      "website": "https://occ29palms.org/",
+      "schedules": [
+        { "freq": "weekly", "days": ["thu"], "open": "10:00", "close": "12:00", "note": "" }
+      ],
+      "verified": "high",
+      "source": "https://occ29palms.org/",
+      "note": "Thursday 10am-12pm confirmed; address, phone verified."
+    },
+    {
+      "slug": "add-set-free-church-29-palms-food-pantry",
+      "name": "Set Free Church 29 Palms Food Pantry",
+      "operating": true,
+      "address": "82575 Amboy Rd, Twentynine Palms, CA 92277",
+      "phone": "760-361-1339",
+      "website": "https://setfree-wondervalley.org/food-ministry",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon", "tue", "wed", "thu"], "open": "08:00", "close": "17:00", "note": "Primarily non-perishable" },
+        { "freq": "weekly", "days": ["fri"], "open": "13:00", "close": "17:00", "note": "Main distribution incl. perishables" }
+      ],
+      "verified": "high",
+      "source": "https://setfree-wondervalley.org/food-ministry",
+      "note": "ADDRESS CORRECTED: church's official site gives 82575 Amboy Rd (NOT 82572) in Wonder Valley/Twentynine Palms 92277 - this explains the bad pin. Hours per official site: Mon-Thu 8am-5pm (non-perishable), Fri main distribution from 1pm."
+    },
+    {
+      "slug": "add-first-christian-church-of-yucca-valley-food-pant",
+      "name": "First Christian Church of Yucca Valley Food Pantry",
+      "operating": true,
+      "address": "56284 Buena Vista Dr, Yucca Valley, CA 92284",
+      "phone": "760-365-4014",
+      "website": "https://firstchurchyuccavalley.com/",
+      "schedules": [
+        { "freq": "weekly", "days": ["tue", "wed", "thu", "fri"], "open": "09:00", "close": "15:00", "note": "" },
+        { "freq": "weekly", "days": ["sun"], "open": "11:00", "close": "12:30", "note": "After church services" }
+      ],
+      "verified": "high",
+      "source": "https://findfoodbank.org/locations/first-christian-church-yucca-valley/",
+      "note": "Tue-Fri 9am-3pm and Sun 11am-12:30pm confirmed; address, phone verified."
+    },
+    {
+      "slug": "add-new-hope-family-center-senior-nutrition",
+      "name": "New Hope Family Center - Senior Nutrition",
+      "operating": true,
+      "address": "1505 W Highland Ave, San Bernardino, CA 92411",
+      "phone": "909-473-9120",
+      "website": "https://www.sanbernardino.gov/404/Older-Californians-Nutrition-Program",
+      "schedules": [
+        { "freq": "weekly", "days": ["mon", "tue", "wed", "thu", "fri"], "open": "11:30", "close": "12:30", "note": "Grab-and-go; seniors 60+; $4 suggested donation" }
+      ],
+      "verified": "high",
+      "source": "https://www.sanbernardino.gov/404/Older-Californians-Nutrition-Program",
+      "note": "City of San Bernardino lists New Hope Life Center, 1505 Highland Ave, Mon-Fri 11:30am-12:30pm to-go (prior close 12:15pm adjusted to 12:30pm per city source)."
+    },
+    {
+      "slug": "add-george-white-senior-nutrition-fontana",
+      "name": "George White Senior Nutrition - Fontana",
+      "operating": true,
+      "address": "8565 Nuevo St, Fontana, CA 92335",
+      "phone": "909-822-4493",
+      "website": "https://www.fsaca.org/",
+      "schedules": [
+        { "freq": "weekly", "days": ["wed"], "open": "10:30", "close": "11:30", "note": "Grab-and-go; seniors 60+; $1-$3 donation" }
+      ],
+      "verified": "high",
+      "source": "https://www.fontanaheraldnews.com/news/family-service-association-provides-meals-and-other-essential-services-for-seniors/article_099198e2-57ed-11ee-b0d5-a3a052c741c2.html",
+      "note": "George White Senior Center grab-and-go Wed 10:30-11:30am confirmed; run by Family Service Association."
+    }
+  ]
+}

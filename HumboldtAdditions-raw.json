@@ -1,0 +1,493 @@
+{
+  "_meta": {
+    "topic": "Humboldt County food distributions",
+    "generated": "2026-10-11",
+    "source": "Hand-collected list (Central California Food Bank, North State / NVC Food Bank, Food for People, Imperial Valley Food Bank locators). Schedules parsed via LA clause parser. lat/lng geocoded downstream.",
+    "note": "Drop-in raw for prepare-food-additions.mjs. Same-address program variants kept as separate pins (allowColocated). \"Monthly (date varies)\" and single start-times route to _deferred."
+  },
+  "sites": [
+    {
+      "name": "Arcata House Partnership Annex (Food for People pantry)",
+      "org": "Arcata House Partnership Annex (Food for People pantry)",
+      "address": "501 9th St, Arcata, CA 95521",
+      "phone": "(707) 445-3166",
+      "eligibility": "",
+      "website": "https://www.foodforpeople.org/programs/pantry-network",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 4-6pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "16:00",
+          "close": "18:00"
+        }
+      ]
+    },
+    {
+      "name": "Arcata Seniors (Food for People pantry)",
+      "org": "Arcata Seniors (Food for People pantry)",
+      "address": "321 Martin Luther King Jr. Way, Arcata, CA 95521",
+      "phone": "(707) 825-2027",
+      "eligibility": "",
+      "website": "https://www.foodforpeople.org/programs/pantry-network",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Thu 10:30-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Thu"
+          ],
+          "open": "10:30",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Blue Lake Community Resource Center",
+      "org": "Blue Lake Community Resource Center",
+      "address": "111 Greenwood Ave, Blue Lake, CA 95525",
+      "phone": "(707) 668-4281",
+      "eligibility": "",
+      "website": "https://www.foodforpeople.org/programs/pantry-network",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Thu 10am-2pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Thu"
+          ],
+          "open": "10:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Bridgeville Community Center",
+      "org": "Bridgeville Community Center",
+      "address": "38717 Kneeland Rd, Bridgeville, CA 95526",
+      "phone": "(707) 777-1775",
+      "eligibility": "",
+      "website": "https://www.foodforpeople.org/programs/pantry-network",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Fri after the 3rd Thu 10am-4pm, or as needed",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Thu"
+          ],
+          "open": "10:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Dinsmore pantry",
+      "org": "Dinsmore pantry",
+      "address": "Route 36 mile marker 42.5, Dinsmore, CA 95526",
+      "phone": "(707) 777-1775",
+      "eligibility": "",
+      "website": "https://www.foodforpeople.org/programs/pantry-network",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "Fri after the 3rd Thu 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Thu"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Eureka Choice Pantry (Food for People, Cooper Gulch)",
+      "org": "Eureka Choice Pantry (Food for People, Cooper Gulch)",
+      "address": "1720 10th St, Eureka, CA 95501",
+      "phone": "(707) 407-0447",
+      "eligibility": "call for appointment",
+      "website": "https://www.foodforpeople.org/programs/pantry-network",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue, Wed, Fri 11am-3pm (call for appointment)",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Wed",
+            "Fri"
+          ],
+          "open": "11:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Eureka Rescue Mission - Men's Program (meals)",
+      "org": "Eureka Rescue Mission - Men's Program (meals)",
+      "address": "110 2nd St, Eureka, CA 95501",
+      "phone": "(707) 443-4551",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Dinner daily 6:30pm; breakfast 6am weekdays, 7am weekends",
+      "schedules": []
+    },
+    {
+      "name": "Eureka Rescue Mission - Women & Children's Program (meals)",
+      "org": "Eureka Rescue Mission - Women & Children's Program (meals)",
+      "address": "107 3rd St, Eureka, CA 95501",
+      "phone": "(707) 443-5016",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Dinner daily 5pm; breakfast Tue 8-9am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "08:00",
+          "close": "09:00"
+        }
+      ]
+    },
+    {
+      "name": "Food Not Bombs Eureka (free hot vegan meal)",
+      "org": "Food Not Bombs Eureka (free hot vegan meal)",
+      "address": "3rd St and E St, Eureka, CA 95501",
+      "phone": "",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "Sun 3pm",
+      "schedules": []
+    },
+    {
+      "name": "Humboldt Senior Resource Center (Food for People senior pantry)",
+      "org": "Humboldt Senior Resource Center (Food for People senior pantry)",
+      "address": "1910 California St, Eureka, CA 95501",
+      "phone": "(707) 443-9747",
+      "eligibility": "",
+      "website": "https://www.foodforpeople.org/programs/pantry-network",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Wed 10-11:30am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Wed"
+          ],
+          "open": "10:00",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "Salvation Army Eureka",
+      "org": "Salvation Army Eureka",
+      "address": "2123 Tydd St, Eureka, CA 95501",
+      "phone": "(707) 442-6475",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "bag lunch and soup Mon, Wed, Fri",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "09:30",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "St. Vincent de Paul Free Dining Facility",
+      "org": "St. Vincent de Paul Free Dining Facility",
+      "address": "35 W 3rd St, Eureka, CA 95501",
+      "phone": "(707) 445-9588",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "free hot meal",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat"
+          ],
+          "open": "11:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Ferndale Community Church (Food for People pantry)",
+      "org": "Ferndale Community Church (Food for People pantry)",
+      "address": "712 Main St, Ferndale, CA 95536",
+      "phone": "(707) 786-4475",
+      "eligibility": "",
+      "website": "https://www.foodforpeople.org/programs/pantry-network",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Thu 1-2:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Thu"
+          ],
+          "open": "13:00",
+          "close": "14:30"
+        }
+      ]
+    },
+    {
+      "name": "Fortuna Adventist Community Services",
+      "org": "Fortuna Adventist Community Services",
+      "address": "2331 Rohnerville Rd, Fortuna, CA 95540",
+      "phone": "(707) 725-1166",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue & Wed 9:30-11:30am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Wed"
+          ],
+          "open": "09:30",
+          "close": "11:30"
+        }
+      ]
+    },
+    {
+      "name": "St. Joseph's Pantry Shelf (Food for People pantry)",
+      "org": "St. Joseph's Pantry Shelf (Food for People pantry)",
+      "address": "2292 Newburg Rd, Fortuna, CA 95540",
+      "phone": "(707) 725-1148",
+      "eligibility": "",
+      "website": "https://www.foodforpeople.org/programs/pantry-network",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Wed 10am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "10:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Garberville Presbyterian Church (Food for People pantry)",
+      "org": "Garberville Presbyterian Church (Food for People pantry)",
+      "address": "437 Maple Ln, Garberville, CA 95542",
+      "phone": "(707) 296-6048",
+      "eligibility": "",
+      "website": "https://www.foodforpeople.org/programs/pantry-network",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue & Thu 10:30am-12pm; Wed 2-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Thu"
+          ],
+          "open": "10:30",
+          "close": "12:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "14:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "Loleta Community Church (Food for People pantry)",
+      "org": "Loleta Community Church (Food for People pantry)",
+      "address": "228 Church St, Loleta, CA 95551",
+      "phone": "(707) 733-5751",
+      "eligibility": "",
+      "website": "https://www.foodforpeople.org/programs/pantry-network",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Thu 3-5pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Thu"
+          ],
+          "open": "15:00",
+          "close": "17:00"
+        }
+      ]
+    },
+    {
+      "name": "McKinleyville Family Resource Center",
+      "org": "McKinleyville Family Resource Center",
+      "address": "1615 Heartwood Dr, McKinleyville, CA 95519",
+      "phone": "(707) 840-0905",
+      "eligibility": "",
+      "website": "https://www.foodforpeople.org/programs/pantry-network",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Tue, Thu 10am-3:30pm; Wed 12-3:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Thu"
+          ],
+          "open": "10:00",
+          "close": "15:30"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Wed"
+          ],
+          "open": "12:00",
+          "close": "15:30"
+        }
+      ]
+    },
+    {
+      "name": "Orick Elementary School (Food for People pantry)",
+      "org": "Orick Elementary School (Food for People pantry)",
+      "address": "120918 Hwy 101, Orick, CA 95555",
+      "phone": "(707) 488-2803",
+      "eligibility": "",
+      "website": "https://www.foodforpeople.org/programs/pantry-network",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Thu 12-2pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Thu"
+          ],
+          "open": "12:00",
+          "close": "14:00"
+        }
+      ]
+    },
+    {
+      "name": "Journey Church (Food for People pantry)",
+      "org": "Journey Church (Food for People pantry)",
+      "address": "95 Belleview Ave, Rio Dell, CA 95562",
+      "phone": "(707) 764-5239",
+      "eligibility": "",
+      "website": "https://www.foodforpeople.org/programs/pantry-network",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "call for other times",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Thu"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "Trinidad Lions Club Pantry (Town Hall)",
+      "org": "Trinidad Lions Club Pantry (Town Hall)",
+      "address": "409 Trinity St, Trinidad, CA 95570",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://www.foodforpeople.org/programs/pantry-network",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Wed 10am-12:30pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Wed"
+          ],
+          "open": "10:00",
+          "close": "12:30"
+        }
+      ]
+    },
+    {
+      "name": "Willow Creek Community Resource Center",
+      "org": "Willow Creek Community Resource Center",
+      "address": "38883 Hwy 299, Willow Creek, CA 95573",
+      "phone": "(530) 629-3141",
+      "eligibility": "",
+      "website": "https://www.foodforpeople.org/programs/pantry-network",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Thu 10am-12pm; 3rd Thu 10am-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Thu"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Thu"
+          ],
+          "open": "10:00",
+          "close": "13:00"
+        }
+      ]
+    }
+  ]
+}

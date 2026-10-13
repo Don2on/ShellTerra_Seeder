@@ -1,0 +1,658 @@
+{
+  "_meta": {
+    "topic": "Merced County food distributions",
+    "generated": "2026-10-11",
+    "source": "Hand-collected list (Mendo Food Network, Merced County Food Bank, T.E.A.C.H. Inc., IMACA/FBNN). Schedules parsed via LA clause parser. lat/lng geocoded downstream.",
+    "note": "Drop-in raw for prepare-food-additions.mjs. \"Monthly (date varies)\" / \"daily\" / single start-times route to _deferred."
+  },
+  "sites": [
+    {
+      "name": "Atwater Baptist Church",
+      "org": "Atwater Baptist Church",
+      "address": "2124 First St, Atwater, CA 95301",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://mmcfb.org/usda-commodities-site-list",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Wed 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Atwater Church of the Nazarene",
+      "org": "Atwater Church of the Nazarene",
+      "address": "1374 Shaffer Rd, Atwater, CA 95301",
+      "phone": "(209) 358-8110",
+      "eligibility": "",
+      "website": "https://mmcfb.org/emergency-food-site-referral-list",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "call to confirm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Sat"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Mt. Olive Baptist Church",
+      "org": "Mt. Olive Baptist Church",
+      "address": "559 Broadway Ave, Atwater, CA 95301",
+      "phone": "(209) 358-3031",
+      "eligibility": "",
+      "website": "https://mmcfb.org/emergency-food-site-referral-list",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Wed 10-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Wed"
+          ],
+          "open": "10:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Delhi Community Presbyterian Church",
+      "org": "Delhi Community Presbyterian Church",
+      "address": "15917 El Capitan Way, Delhi, CA 95315",
+      "phone": "(209) 427-2186",
+      "eligibility": "",
+      "website": "https://mmcfb.org/emergency-food-site-referral-list",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Tue-Fri 10am-1pm; commodities last Wed 9-11am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "10:00",
+          "close": "13:00"
+        },
+        {
+          "freq": "monthly",
+          "patterns": [
+            "last Wed"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Carver Center",
+      "org": "Carver Center",
+      "address": "21475 Reynolds Ave, Dos Palos, CA 93620",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://mmcfb.org/usda-commodities-site-list",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Mon 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Mon"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "US Freedom Alliance",
+      "org": "US Freedom Alliance",
+      "address": "8336 Christian Ave, Dos Palos, CA 93620",
+      "phone": "(831) 905-7966",
+      "eligibility": "",
+      "website": "https://mmcfb.org/emergency-food-site-referral-list",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon-Fri 9am-4pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "16:00"
+        }
+      ]
+    },
+    {
+      "name": "El Nido Mobile Home Park",
+      "org": "El Nido Mobile Home Park",
+      "address": "10690 N Hwy 59, El Nido, CA 95317",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://mmcfb.org/usda-commodities-site-list",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Wed 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Wed"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Gustine Veterans Memorial Hall",
+      "org": "Gustine Veterans Memorial Hall",
+      "address": "145 5th St, Gustine, CA 95322",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://mmcfb.org/usda-commodities-site-list",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Last Thu 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "last Thu"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Hilmar Covenant Church",
+      "org": "Hilmar Covenant Church",
+      "address": "20056 American Ave, Hilmar, CA 95324",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://mmcfb.org/usda-commodities-site-list",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Tue 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Tue"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Le Grand Community Services",
+      "org": "Le Grand Community Services",
+      "address": "13038 Jefferson St, Le Grand, CA 95333",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://mmcfb.org/usda-commodities-site-list",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Mon 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Mon"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Emmanuel Baptist Church",
+      "org": "Emmanuel Baptist Church",
+      "address": "1310 Main St, Livingston, CA 95334",
+      "phone": "(209) 398-7809",
+      "eligibility": "",
+      "website": "https://mmcfb.org/emergency-food-site-referral-list",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Tue 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Tue",
+            "3rd Tue"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Livingston VFW & Auxiliary",
+      "org": "Livingston VFW & Auxiliary",
+      "address": "1605 7th St, Livingston, CA 95334",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://mmcfb.org/usda-commodities-site-list",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Last Wed 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "last Wed"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Bethel Community Church",
+      "org": "Bethel Community Church",
+      "address": "415 I St, Los Banos, CA 93635",
+      "phone": "(209) 827-0797",
+      "eligibility": "",
+      "website": "https://mmcfb.org/emergency-food-site-referral-list",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Drive-thru boxes and hot meals Tue 10am-12pm; brown bags Mon-Fri 9am-12pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Tue"
+          ],
+          "open": "10:00",
+          "close": "12:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "12:00"
+        }
+      ]
+    },
+    {
+      "name": "New Beginnings Church",
+      "org": "New Beginnings Church",
+      "address": "821 L St, Los Banos, CA 93635",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://mmcfb.org/usda-commodities-site-list",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Wed 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Wed"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Apostolic Tabernacle",
+      "org": "Apostolic Tabernacle",
+      "address": "2745 E. Hwy 140, Merced, CA 95340",
+      "phone": "(209) 723-0545",
+      "eligibility": "",
+      "website": "https://mmcfb.org/emergency-food-site-referral-list",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "call to confirm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Fri"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Catholic Charities of Merced",
+      "org": "Catholic Charities of Merced",
+      "address": "336 W. Main St, Merced, CA 95340",
+      "phone": "(209) 383-2494",
+      "eligibility": "",
+      "website": "https://mmcfb.org/emergency-food-site-referral-list",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "closed 12-1pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Harvest Time",
+      "org": "Harvest Time",
+      "address": "1155 W 10th St, Merced, CA 95341",
+      "phone": "(209) 564-7638",
+      "eligibility": "",
+      "website": "https://mmcfb.org/emergency-food-site-referral-list",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd & 4th Thu 8-10am; perishables Mon, Wed, Fri 8-9am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Thu",
+            "4th Thu"
+          ],
+          "open": "08:00",
+          "close": "10:00"
+        },
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed",
+            "Fri"
+          ],
+          "open": "08:00",
+          "close": "09:00"
+        }
+      ]
+    },
+    {
+      "name": "McNamara Park",
+      "org": "McNamara Park",
+      "address": "11th St and Canal St, Merced, CA 95341",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://mmcfb.org/usda-commodities-site-list",
+      "category": "food-assistance",
+      "confidence": 0.6,
+      "note": "3rd Mon 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Mon"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Merced Bethel",
+      "org": "Merced Bethel",
+      "address": "810 T St, Merced, CA 95341",
+      "phone": "(209) 761-1529",
+      "eligibility": "",
+      "website": "https://mmcfb.org/usda-commodities-site-list",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Mon 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Mon"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "New Hope Church",
+      "org": "New Hope Church",
+      "address": "1207 E 21st St, Merced, CA 95340",
+      "phone": "(209) 779-4034",
+      "eligibility": "",
+      "website": "https://mmcfb.org/emergency-food-site-referral-list",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Last Sat 12-1pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "last Sat"
+          ],
+          "open": "12:00",
+          "close": "13:00"
+        }
+      ]
+    },
+    {
+      "name": "Sacred Heart Church",
+      "org": "Sacred Heart Church",
+      "address": "519 W 12th St, Merced, CA 95341",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://mmcfb.org/usda-commodities-site-list",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "4th Wed 1-3pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "4th Wed"
+          ],
+          "open": "13:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "Salvation Army - Merced",
+      "org": "Salvation Army - Merced",
+      "address": "1440 W. 12th St, Merced, CA 95341",
+      "phone": "(209) 383-4225",
+      "eligibility": "",
+      "website": "",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Tue, Thu, Fri 9-11:45am",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Tue",
+            "Thu",
+            "Fri"
+          ],
+          "open": "09:00",
+          "close": "11:45"
+        }
+      ]
+    },
+    {
+      "name": "St. Patrick's Parish",
+      "org": "St. Patrick's Parish",
+      "address": "671 E Yosemite Ave, Merced, CA 95340",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://mmcfb.org/usda-commodities-site-list",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Fri 1-3pm",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Fri"
+          ],
+          "open": "13:00",
+          "close": "15:00"
+        }
+      ]
+    },
+    {
+      "name": "St. Vincent de Paul (sack lunches)",
+      "org": "St. Vincent de Paul (sack lunches)",
+      "address": "131 W. Main St, Merced, CA 95340",
+      "phone": "(209) 723-2404",
+      "eligibility": "",
+      "website": "https://mmcfb.org/usda-site-list",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Mon, Wed, Fri 12-12:30pm",
+      "schedules": [
+        {
+          "freq": "weekly",
+          "days": [
+            "Mon",
+            "Wed",
+            "Fri"
+          ],
+          "open": "00:00",
+          "close": "12:30"
+        }
+      ]
+    },
+    {
+      "name": "United Methodist Church",
+      "org": "United Methodist Church",
+      "address": "899 Yosemite Pkwy, Merced, CA 95340",
+      "phone": "(209) 722-5777",
+      "eligibility": "",
+      "website": "https://mmcfb.org/emergency-food-site-referral-list",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st & 3rd Thu 9am",
+      "schedules": []
+    },
+    {
+      "name": "Planada Community Center",
+      "org": "Planada Community Center",
+      "address": "9167 E Stanford Ave, Planada, CA 95365",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://mmcfb.org/usda-commodities-site-list",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "2nd Mon 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "2nd Mon"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Santa Nella Mobile Home Park",
+      "org": "Santa Nella Mobile Home Park",
+      "address": "29190 Centinella Ave, Santa Nella, CA 95322",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://mmcfb.org/usda-commodities-site-list",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "3rd Thu 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "3rd Thu"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Snelling Community Center",
+      "org": "Snelling Community Center",
+      "address": "3325 N Merced Falls Rd, Snelling, CA 95369",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://mmcfb.org/usda-commodities-site-list",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "1st Thu 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "1st Thu"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    },
+    {
+      "name": "Iglesia de Cristo",
+      "org": "Iglesia de Cristo",
+      "address": "6061 N Winton Way, Winton, CA 95388",
+      "phone": "",
+      "eligibility": "",
+      "website": "https://mmcfb.org/usda-commodities-site-list",
+      "category": "food-assistance",
+      "confidence": 0.85,
+      "note": "Last Mon 9-11am",
+      "schedules": [
+        {
+          "freq": "monthly",
+          "patterns": [
+            "last Mon"
+          ],
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ]
+    }
+  ]
+}
